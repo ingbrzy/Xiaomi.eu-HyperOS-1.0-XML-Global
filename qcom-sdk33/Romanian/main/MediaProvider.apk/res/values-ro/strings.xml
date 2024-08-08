@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigați la ecranul de pornire</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Gata</string>
+    <string name="abc_activity_chooser_view_see_all">Afișați tot</string>
+    <string name="abc_activitychooserview_choose_application">Alegeți o aplicație</string>
+    <string name="abc_capital_off">DEZACTIVAT</string>
+    <string name="abc_capital_on">ACTIVAT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Ștergeți interogarea</string>
+    <string name="abc_searchview_description_query">Termen de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți interogarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Trimiteți la</string>
+    <string name="abc_shareactionprovider_share_with_application">Trimiteți folosind %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="add">Adăugați</string>
+    <string name="allow">Permiteți</string>
+    <string name="app_label">Stocarea conținutului media</string>
+    <string name="artist_label">Artist</string>
+    <string name="bottomsheet_action_expand_halfway">Extinde pe ecran complet</string>
+    <string name="cache_clearing_dialog_text">%s vrea să șteargă fișiere temporare. Aceasta poate duce la creșterea gradului de utilizare a bateriei sau a datelor mobile.</string>
+    <string name="cache_clearing_dialog_title">Ștergeți fișierele temporare ale aplicațiilor</string>
+    <string name="cache_clearing_in_progress_title">Se șterg fișierele temporare ale aplicațiilor…</string>
+    <string name="character_counter_content_description">Caractere introduse: %1$d din %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
+    <string name="clear">Ștergeți</string>
+    <string name="clear_text_end_icon_content_description">Ștergeți textul</string>
+    <string name="deny">Refuzați</string>
+    <string name="deselect">Debifați</string>
+    <string name="deselected">Deselectat</string>
+    <string name="error_icon_content_description">Eroare</string>
+    <string name="exo_controls_cc_disabled_description">Activați subtitrările</string>
+    <string name="exo_controls_cc_enabled_description">Dezactivați subtitrările</string>
+    <string name="exo_controls_fastforward_description">Derulați rapid înainte</string>
+    <string name="exo_controls_fullscreen_enter_description">Accesați în ecran complet</string>
+    <string name="exo_controls_fullscreen_exit_description">Ieșiți din ecranul complet</string>
+    <string name="exo_controls_hide">Ascunde comenzile playerului</string>
+    <string name="exo_controls_next_description">Înainte</string>
+    <string name="exo_controls_overflow_hide_description">Ascundeți setările suplimentare</string>
+    <string name="exo_controls_overflow_show_description">Afișați setările suplimentare</string>
+    <string name="exo_controls_pause_description">Întrerupeți</string>
+    <string name="exo_controls_play_description">Redați</string>
+    <string name="exo_controls_playback_speed">Viteză</string>
+    <string name="exo_controls_previous_description">Înapoi</string>
+    <string name="exo_controls_repeat_all_description">Repetați-le pe toate</string>
+    <string name="exo_controls_repeat_off_description">Nu repetați niciunul</string>
+    <string name="exo_controls_repeat_one_description">Repetați unul</string>
+    <string name="exo_controls_rewind_description">Derulați înapoi</string>
+    <string name="exo_controls_seek_bar_description">Progresul redării</string>
+    <string name="exo_controls_settings_description">Setări</string>
+    <string name="exo_controls_show">Afișează comenzile playerului</string>
+    <string name="exo_controls_shuffle_off_description">Redare aleatorie dezactivată</string>
+    <string name="exo_controls_shuffle_on_description">Redare aleatorie activată</string>
+    <string name="exo_controls_stop_description">Opriți</string>
+    <string name="exo_controls_vr_description">Mod RV</string>
+    <string name="exo_download_completed">Descărcarea a fost finalizată</string>
+    <string name="exo_download_description">Descărcați</string>
+    <string name="exo_download_downloading">Se descarcă</string>
+    <string name="exo_download_failed">Descărcarea nu a reușit</string>
+    <string name="exo_download_notification_channel_name">Descărcări</string>
+    <string name="exo_download_paused">Descărcările au fost întrerupte</string>
+    <string name="exo_download_paused_for_network">Descărcările așteaptă rețeaua</string>
+    <string name="exo_download_paused_for_wifi">Descărcările așteaptă rețeaua Wi-Fi</string>
+    <string name="exo_download_removing">Se elimină descărcările</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternativ</string>
+    <string name="exo_track_role_closed_captions">Subtitrări</string>
+    <string name="exo_track_role_commentary">Comentarii</string>
+    <string name="exo_track_role_supplementary">Suplimentar</string>
+    <string name="exo_track_selection_auto">Automat</string>
+    <string name="exo_track_selection_none">Fără</string>
+    <string name="exo_track_selection_title_audio">Audio</string>
+    <string name="exo_track_selection_title_text">Text</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Sunet surround</string>
+    <string name="exo_track_surround_5_point_1">Sunet surround 5.1</string>
+    <string name="exo_track_surround_7_point_1">Sunet surround 7.1</string>
+    <string name="exo_track_unknown">Necunoscut</string>
+    <string name="exposed_dropdown_menu_content_description">Afișați meniul drop-down</string>
+    <string name="grant_dialog_button_allow">Permiteți</string>
+    <string name="grant_dialog_button_deny">Refuzați</string>
+    <string name="icon_content_description">Pictogramă de dialog</string>
+    <string name="item_view_role_description">Filă</string>
+    <string name="material_clock_toggle_content_description">Selectați ora</string>
+    <string name="material_hour_selection">Selectați ora</string>
+    <string name="material_hour_suffix">Ora %1$s</string>
+    <string name="material_minute_selection">Selectați minutele</string>
+    <string name="material_minute_suffix">%1$s minute</string>
+    <string name="material_timepicker_am">a.m.</string>
+    <string name="material_timepicker_clock_mode_description">Pentru a introduce ora, comutați la modul ceas.</string>
+    <string name="material_timepicker_hour">Ora</string>
+    <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_pm">p.m.</string>
+    <string name="material_timepicker_select_time">Selectați ora</string>
+    <string name="material_timepicker_text_input_mode_description">Pentru a introduce ora, comutați la modul de introducere a textului.</string>
+    <string name="mtrl_badge_numberless_content_description">Notificare nouă</string>
+    <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Peste %1$d notificări noi</string>
+    <string name="mtrl_picker_a11y_next_month">Treceți la luna următoare</string>
+    <string name="mtrl_picker_a11y_prev_month">Treceți la luna anterioară</string>
+    <string name="mtrl_picker_announce_current_selection">Selecția actuală: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selectați data</string>
+    <string name="mtrl_picker_date_header_unselected">Data selectată</string>
+    <string name="mtrl_picker_day_of_week_column_header">Coloana cu zile: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format nevalid.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemplu: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Folosiți: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Interval nevalid.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigați la anul %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fără acoperire: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data de începere – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – data de încheiere</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selectați intervalul</string>
+    <string name="mtrl_picker_range_header_unselected">Data de începere – data de încheiere</string>
+    <string name="mtrl_picker_save">Salvați</string>
+    <string name="mtrl_picker_text_input_date_hint">Dată</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data de încheiere</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data de începere</string>
+    <string name="mtrl_picker_text_input_day_abbr">z</string>
+    <string name="mtrl_picker_text_input_month_abbr">l</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Comutați la modul introducere în calendar</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Atingeți pentru a comuta la selectarea unei zile</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Comutați la modul de introducere a textului</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Atingeți pentru a comuta la selectarea unui an</string>
+    <string name="not_selected">neselectat</string>
+    <string name="password_toggle_content_description">Afișați parola</string>
+    <string name="permission_delete_audio">{count,plural, =1{Permiteți ca ^1 să șteargă acest fișier audio?}few{Permiteți ca ^1 să șteargă ^2 fișiere audio?}other{Permiteți ca ^1 să șteargă ^2 de fișiere audio?}}</string>
+    <string name="permission_delete_generic">{count,plural, =1{Permiteți ca ^1 să șteargă acest element?}few{Permiteți ca ^1 să șteargă ^2 elemente?}other{Permiteți ca ^1 să șteargă ^2 de elemente?}}</string>
+    <string name="permission_delete_image">{count,plural, =1{Permiteți ca ^1 să șteargă această fotografie?}few{Permiteți ca ^1 să șteargă ^2 fotografii?}other{Permiteți ca ^1 să șteargă ^2 de fotografii?}}</string>
+    <string name="permission_delete_video">{count,plural, =1{Permiteți ca ^1 să șteargă acest videoclip?}few{Permiteți ca ^1 să șteargă ^2 videoclipuri?}other{Permiteți ca ^1 să șteargă ^2 de videoclipuri?}}</string>
+    <string name="permission_more_text">{count,plural, =1{Și încă ^1 element}few{Și încă ^1 elemente}other{Și încă ^1 de elemente}}</string>
+    <string name="permission_more_thumb">{count,plural, =1{+ ^1}few{+ ^1}other{+ ^1}}</string>
+    <string name="permission_progress_delete_audio">{count,plural, =1{Se șterge fișierul audio…}few{Se șterg ^1 fișiere audio…}other{Se șterg ^1 de fișiere audio…}}</string>
+    <string name="permission_progress_delete_generic">{count,plural, =1{Se șterge elementul…}few{Se șterg ^1 elemente…}other{Se șterg ^1 de elemente…}}</string>
+    <string name="permission_progress_delete_image">{count,plural, =1{Se șterge fotografia…}few{Se șterg ^1 fotografii…}other{Se șterg ^1 de fotografii…}}</string>
+    <string name="permission_progress_delete_video">{count,plural, =1{Se șterge videoclipul…}few{Se șterg ^1 videoclipuri…}other{Se șterg ^1 de videoclipuri…}}</string>
+    <string name="permission_progress_trash_audio">{count,plural, =1{Se mută fișierul audio în coșul de gunoi…}few{Se mută ^1 fișiere audio în coșul de gunoi…}other{Se mută ^1 de fișiere audio în coșul de gunoi…}}</string>
+    <string name="permission_progress_trash_generic">{count,plural, =1{Se mută elementul în coșul de gunoi…}few{Se mută ^1 elemente în coșul de gunoi…}other{Se mută ^1 de elemente în coșul de gunoi…}}</string>
+    <string name="permission_progress_trash_image">{count,plural, =1{Se mută fotografia în coșul de gunoi…}few{Se mută ^1 fotografii în coșul de gunoi…}other{Se mută ^1 de fotografii în coșul de gunoi…}}</string>
+    <string name="permission_progress_trash_video">{count,plural, =1{Se mută videoclipul în coșul de gunoi…}few{Se mută ^1 videoclipuri în coșul de gunoi…}other{Se mută ^1 de videoclipuri în coșul de gunoi…}}</string>
+    <string name="permission_progress_untrash_audio">{count,plural, =1{Se scoate fișierul audio din coșul de gunoi…}few{Se scot ^1 fișiere audio din coșul de gunoi…}other{Se scot ^1 de fișiere audio din coșul de gunoi…}}</string>
+    <string name="permission_progress_untrash_generic">{count,plural, =1{Se scoate elementul din coșul de gunoi…}few{Se scot ^1 elemente din coșul de gunoi…}other{Se scot ^1 de elemente din coșul de gunoi…}}</string>
+    <string name="permission_progress_untrash_image">{count,plural, =1{Se scoate fotografia din coșul de gunoi…}few{Se scot ^1 fotografii din coșul de gunoi…}other{Se scot ^1 de fotografii din coșul de gunoi…}}</string>
+    <string name="permission_progress_untrash_video">{count,plural, =1{Se scoate videoclipul din coșul de gunoi…}few{Se scot ^1 videoclipuri din coșul de gunoi…}other{Se scot ^1 de videoclipuri din coșul de gunoi…}}</string>
+    <string name="permission_progress_write_audio">{count,plural, =1{Se modifică fișierul audio…}few{Se modifică ^1 fișiere audio…}other{Se modifică ^1 de fișiere audio…}}</string>
+    <string name="permission_progress_write_generic">{count,plural, =1{Se modifică un element…}few{Se modifică ^1 elemente…}other{Se modifică ^1 de elemente…}}</string>
+    <string name="permission_progress_write_image">{count,plural, =1{Se modifică fotografia…}few{Se modifică ^1 fotografii…}other{Se modifică ^1 de fotografii…}}</string>
+    <string name="permission_progress_write_video">{count,plural, =1{Se modifică videoclipul…}few{Se modifică ^1 videoclipuri…}other{Se modifică ^1 de videoclipuri…}}</string>
+    <string name="permission_required">Este necesară permisiunea ca să modificați sau să ștergeți acest element.</string>
+    <string name="permission_required_action">Continuați</string>
+    <string name="permission_trash_audio">{count,plural, =1{Permiteți ca ^1 să mute acest fișier audio în coșul de gunoi?}few{Permiteți ca ^1 să mute ^2 fișiere audio în coșul de gunoi?}other{Permiteți ca ^1 să mute ^2 de fișiere audio în coșul de gunoi?}}</string>
+    <string name="permission_trash_generic">{count,plural, =1{Permiteți ca ^1 să mute acest element în coșul de gunoi?}few{Permiteți ca ^1 să mute ^2 elemente în coșul de gunoi?}other{Permiteți ca ^1 să mute ^2 de elemente în coșul de gunoi?}}</string>
+    <string name="permission_trash_image">{count,plural, =1{Permiteți ca ^1 să mute această fotografie în coșul de gunoi?}few{Permiteți ca ^1 să mute ^2 fotografii în coșul de gunoi?}other{Permiteți ca ^1 să mute ^2 de fotografii în coșul de gunoi?}}</string>
+    <string name="permission_trash_video">{count,plural, =1{Permiteți ca ^1 să mute acest videoclip în coșul de gunoi?}few{Permiteți ca ^1 să mute ^2 videoclipuri în coșul de gunoi?}other{Permiteți ca ^1 să mute ^2 de videoclipuri în coșul de gunoi?}}</string>
+    <string name="permission_untrash_audio">{count,plural, =1{Permiteți ca ^1 să scoată acest fișier audio din coșul de gunoi?}few{Permiteți ca ^1 să scoată ^2 fișiere audio din coșul de gunoi?}other{Permiteți ca ^1 să scoată ^2 de fișiere audio din coșul de gunoi?}}</string>
+    <string name="permission_untrash_generic">{count,plural, =1{Permiteți ca ^1 să scoată acest element din coșul de gunoi?}few{Permiteți ca ^1 să scoată ^2 elemente din coșul de gunoi?}other{Permiteți ca ^1 să scoată ^2 de elemente din coșul de gunoi?}}</string>
+    <string name="permission_untrash_image">{count,plural, =1{Permiteți ca ^1 să scoată această fotografie din coșul de gunoi?}few{Permiteți ca ^1 să scoată ^2 fotografii din coșul de gunoi?}other{Permiteți ca ^1 să scoată ^2 de fotografii din coșul de gunoi?}}</string>
+    <string name="permission_untrash_video">{count,plural, =1{Permiteți ca ^1 să scoată acest videoclip din coșul de gunoi?}few{Permiteți ca ^1 să scoată ^2 videoclipuri din coșul de gunoi?}other{Permiteți ca ^1 să scoată ^2 de videoclipuri din coșul de gunoi?}}</string>
+    <string name="permission_write_audio">{count,plural, =1{Permiteți ca ^1 să modifice acest fișier audio?}few{Permiteți ca ^1 să modifice ^2 fișiere audio?}other{Permiteți ca ^1 să modifice ^2 de fișiere audio?}}</string>
+    <string name="permission_write_generic">{count,plural, =1{Permiteți ca ^1 să modifice acest element?}few{Permiteți ca ^1 să modifice ^2 elemente?}other{Permiteți ca ^1 să modifice ^2 de elemente?}}</string>
+    <string name="permission_write_image">{count,plural, =1{Permiteți ca ^1 să modifice această fotografie?}few{Permiteți ca ^1 să modifice ^2 fotografii?}other{Permiteți ca ^1 să modifice ^2 de fotografii?}}</string>
+    <string name="permission_write_video">{count,plural, =1{Permiteți ca ^1 să modifice acest videoclip?}few{Permiteți ca ^1 să modifice ^2 videoclipuri?}other{Permiteți ca ^1 să modifice ^2 de videoclipuri?}}</string>
+    <string name="picker_add_button_multi_select">Adăugați (^1)</string>
+    <string name="picker_album_item_count">{count,plural, =1{^1 element}few{^1 elemente}other{^1 de elemente}}</string>
+    <string name="picker_albums">Albume</string>
+    <string name="picker_albums_empty_message">Niciun album</string>
+    <string name="picker_app_label">Selector de fotografii</string>
+    <string name="picker_category_camera">Cameră</string>
+    <string name="picker_category_downloads">Descărcări</string>
+    <string name="picker_category_favorites">Preferate</string>
+    <string name="picker_category_screenshots">Capturi de ecran</string>
+    <string name="picker_cloud_sync">Conținutul media în cloud este acum disponibil din %1$s</string>
+    <string name="picker_gif">GIF</string>
+    <string name="picker_item_content_desc">S-a creat %1$s pe %2$s</string>
+    <string name="picker_motion_photo">Fotografie animată</string>
+    <string name="picker_motion_photo_text">Fotografie animată</string>
+    <string name="picker_mute_video">Dezactivați sunetul videoclipului</string>
+    <string name="picker_pause_video">Întrerupeți videoclipul</string>
+    <string name="picker_personal_profile">Comutați la personal</string>
+    <string name="picker_photo">Fotografie</string>
+    <string name="picker_photos">Fotografii</string>
+    <string name="picker_photos_empty_message">Nu există fotografii sau videoclipuri</string>
+    <string name="picker_play_video">Redați videoclipul</string>
+    <string name="picker_preview">Previzualizare</string>
+    <string name="picker_privacy_message">Aplicația poate accesa doar fotografiile pe care le selectați</string>
+    <string name="picker_profile_admin_msg_from_personal">Accesarea datelor de lucru dintr-o aplicație personală nu este permisă</string>
+    <string name="picker_profile_admin_msg_from_work">Accesarea datelor personale dintr-o aplicație pentru lucru nu este permisă</string>
+    <string name="picker_profile_admin_title">Blocat de administrator</string>
+    <string name="picker_profile_work_paused_msg">Ca să deschideți fotografiile de lucru, porniți aplicațiile pentru lucru și încercați din nou</string>
+    <string name="picker_profile_work_paused_title">Aplicațiile pentru lucru sunt întrerupte</string>
+    <string name="picker_unmute_video">Activați sunetul videoclipului</string>
+    <string name="picker_video_item_content_desc">Videoclip înregistrat pe %1$s cu durata de %2$s</string>
+    <string name="picker_view_selected">Vedeți elementele selectate</string>
+    <string name="picker_work_profile">Comutați la serviciu</string>
+    <string name="recent">Recente</string>
+    <string name="root_audio">Conținut audio</string>
+    <string name="root_documents">Documente</string>
+    <string name="root_images">Imagini</string>
+    <string name="root_videos">Videoclipuri</string>
+    <string name="search_menu_title">Căutați</string>
+    <string name="select">Selectați</string>
+    <string name="select_up_to">{count,plural, =1{Selectați maximum ^1 element}few{Selectați maximum ^1 elemente}other{Selectați maximum ^1 de elemente}}</string>
+    <string name="selected">Selectat</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_description">Stocare locală</string>
+    <string name="transcode_cancel">Anulați</string>
+    <string name="transcode_denied">%s nu poate procesa fișiere media</string>
+    <string name="transcode_processing">Se procesează conținutul media…</string>
+    <string name="transcode_processing_cancelled">Procesarea conținutului media a fost anulată</string>
+    <string name="transcode_processing_error">Eroare la procesarea conținutului media</string>
+    <string name="transcode_processing_started">Procesarea conținutului media a început</string>
+    <string name="transcode_processing_success">Procesarea conținutului media s-a finalizat</string>
+    <string name="transcode_wait">Așteptați</string>
+    <string name="uid_label">Conținut media</string>
+    <string name="unknown">Necunoscut</string>
+</resources>

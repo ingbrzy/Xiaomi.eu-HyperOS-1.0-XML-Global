@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Siirry etusivulle</string>
+    <string name="abc_action_bar_up_description">Siirry ylös</string>
+    <string name="abc_action_menu_overflow_description">Lisäasetukset</string>
+    <string name="abc_action_mode_done">Valmis</string>
+    <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
+    <string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
+    <string name="abc_capital_off">POIS PÄÄLTÄ</string>
+    <string name="abc_capital_on">PÄÄLLÄ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Vaihto+</string>
+    <string name="abc_menu_space_shortcut_label">välilyönti</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Valikko+</string>
+    <string name="abc_search_hint">Haku…</string>
+    <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
+    <string name="abc_searchview_description_query">Hakukysely</string>
+    <string name="abc_searchview_description_search">Haku</string>
+    <string name="abc_searchview_description_submit">Lähetä kysely</string>
+    <string name="abc_searchview_description_voice">Puhehaku</string>
+    <string name="abc_shareactionprovider_share_with">Jaa…</string>
+    <string name="abc_shareactionprovider_share_with_application">Jaa: %s</string>
+    <string name="abc_toolbar_collapse_description">Tiivistä</string>
+    <string name="add">Lisää</string>
+    <string name="allow">Salli</string>
+    <string name="app_label">Median tallennustila</string>
+    <string name="artist_label">Artisti</string>
+    <string name="bottomsheet_action_expand_halfway">Laajenna puoliväliin</string>
+    <string name="cache_clearing_dialog_text">%s haluaa poistaa joitain väliaikaisia tiedostoja. Tämä voi lisätä akun tai mobiilidatan käyttöä.</string>
+    <string name="cache_clearing_dialog_title">Poista väliaikaisia sovellustiedostoja</string>
+    <string name="cache_clearing_in_progress_title">Poistetaan väliaikaisia sovellustiedostoja…</string>
+    <string name="character_counter_content_description">%1$d/%2$d merkkiä kirjoitettu</string>
+    <string name="character_counter_overflowed_content_description">Merkkiraja ylitetty: %1$d/%2$d</string>
+    <string name="clear">Poista</string>
+    <string name="clear_text_end_icon_content_description">Tyhjennä teksti</string>
+    <string name="deny">Estä</string>
+    <string name="deselect">Poista valinta</string>
+    <string name="deselected">Valinta poistettu</string>
+    <string name="error_icon_content_description">Virhe</string>
+    <string name="exo_controls_cc_disabled_description">Ota tekstitykset käyttöön</string>
+    <string name="exo_controls_cc_enabled_description">Poista tekstitykset käytöstä</string>
+    <string name="exo_controls_fastforward_description">Kelaa eteenpäin</string>
+    <string name="exo_controls_fullscreen_enter_description">Siirry koko näytön tilaan</string>
+    <string name="exo_controls_fullscreen_exit_description">Sulje koko näytön tila</string>
+    <string name="exo_controls_hide">Näytä soittimen säätimet</string>
+    <string name="exo_controls_next_description">Seuraava</string>
+    <string name="exo_controls_overflow_hide_description">Piilota lisäasetukset</string>
+    <string name="exo_controls_overflow_show_description">Näytä lisäasetukset</string>
+    <string name="exo_controls_pause_description">Keskeytä</string>
+    <string name="exo_controls_play_description">Toista</string>
+    <string name="exo_controls_playback_speed">Nopeus</string>
+    <string name="exo_controls_previous_description">Edellinen</string>
+    <string name="exo_controls_repeat_all_description">Toista kaikki uudelleen</string>
+    <string name="exo_controls_repeat_off_description">Ei uudelleentoistoa</string>
+    <string name="exo_controls_repeat_one_description">Toista yksi uudelleen</string>
+    <string name="exo_controls_rewind_description">Kelaa taaksepäin</string>
+    <string name="exo_controls_seek_bar_description">Toiston edistyminen</string>
+    <string name="exo_controls_settings_description">Asetukset</string>
+    <string name="exo_controls_show">Näytä soittimen säätimet</string>
+    <string name="exo_controls_shuffle_off_description">Satunnaistoisto ei käytössä</string>
+    <string name="exo_controls_shuffle_on_description">Satunnaistoisto käytössä</string>
+    <string name="exo_controls_stop_description">Lopeta</string>
+    <string name="exo_controls_vr_description">VR-tila</string>
+    <string name="exo_download_completed">Lataus valmis</string>
+    <string name="exo_download_description">Lataa</string>
+    <string name="exo_download_downloading">Ladataan</string>
+    <string name="exo_download_failed">Lataus epäonnistui</string>
+    <string name="exo_download_notification_channel_name">Lataukset</string>
+    <string name="exo_download_paused">Lataukset keskeytetty</string>
+    <string name="exo_download_paused_for_network">Lataukse odottavat verkkoyhteyttä</string>
+    <string name="exo_download_paused_for_wifi">Lataukset odottavat Wi-Fi-yhteyttä</string>
+    <string name="exo_download_removing">Poistetaan latauksia</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mb/s</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Vaihtoehtoinen</string>
+    <string name="exo_track_role_closed_captions">Tekstitykset</string>
+    <string name="exo_track_role_commentary">Kommenttiraita</string>
+    <string name="exo_track_role_supplementary">Lisämateriaali</string>
+    <string name="exo_track_selection_auto">Automaattinen</string>
+    <string name="exo_track_selection_none">–</string>
+    <string name="exo_track_selection_title_audio">Ääni</string>
+    <string name="exo_track_selection_title_text">Teksti</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Surround-ääni</string>
+    <string name="exo_track_surround_5_point_1">5.1-surround-ääni</string>
+    <string name="exo_track_surround_7_point_1">7.1-surround-ääni</string>
+    <string name="exo_track_unknown">Tuntematon</string>
+    <string name="exposed_dropdown_menu_content_description">Näytä avattava valikko</string>
+    <string name="grant_dialog_button_allow">Salli</string>
+    <string name="grant_dialog_button_deny">Estä</string>
+    <string name="icon_content_description">Valintaikkunan kuvake</string>
+    <string name="item_view_role_description">Välilehti</string>
+    <string name="material_clock_toggle_content_description">Valitse AP tai IP</string>
+    <string name="material_hour_selection">Valitse tunti</string>
+    <string name="material_hour_suffix">klo %1$s</string>
+    <string name="material_minute_selection">Valitse minuutit</string>
+    <string name="material_minute_suffix">%1$s minuuttia</string>
+    <string name="material_timepicker_am">ap</string>
+    <string name="material_timepicker_clock_mode_description">Vaihda ajan syöttämiseen kellotilassa.</string>
+    <string name="material_timepicker_hour">Tunnit</string>
+    <string name="material_timepicker_minute">Minuutti</string>
+    <string name="material_timepicker_pm">ip</string>
+    <string name="material_timepicker_select_time">Valitse aika</string>
+    <string name="material_timepicker_text_input_mode_description">Vaihda ajan syöttämiseen tekstitilassa.</string>
+    <string name="mtrl_badge_numberless_content_description">Uusi ilmoitus</string>
+    <string name="mtrl_chip_close_icon_content_description">Poista %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Yli %1$d uutta ilmoitusta</string>
+    <string name="mtrl_picker_a11y_next_month">Vaihda seuraavaan kuukauteen</string>
+    <string name="mtrl_picker_a11y_prev_month">Vaihda edelliseen kuukauteen</string>
+    <string name="mtrl_picker_announce_current_selection">Nykyinen valinta: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Valitse päivämäärä</string>
+    <string name="mtrl_picker_date_header_unselected">Valittu päivämäärä</string>
+    <string name="mtrl_picker_day_of_week_column_header">Päiväsarake: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Virheellinen muoto</string>
+    <string name="mtrl_picker_invalid_format_example">Esimerkki: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Käytä muotoa %1$s</string>
+    <string name="mtrl_picker_invalid_range">Virheellinen alue</string>
+    <string name="mtrl_picker_navigate_to_year_description">Siirry vuoteen %1$s</string>
+    <string name="mtrl_picker_out_of_range">Aikavälin ulkop.: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Alkamispäivä – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – päättymispäivä</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Valitse jakso</string>
+    <string name="mtrl_picker_range_header_unselected">Alkamispäivä – päättymispäivä</string>
+    <string name="mtrl_picker_save">Tallenna</string>
+    <string name="mtrl_picker_text_input_date_hint">Päivämäärä</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Päättymispäivä</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Alkamispäivä</string>
+    <string name="mtrl_picker_text_input_day_abbr">p</string>
+    <string name="mtrl_picker_text_input_month_abbr">k</string>
+    <string name="mtrl_picker_text_input_year_abbr">v</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Vaihda syöttötavaksi kalenteri</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Siirry päivän valintaan napauttamalla</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Valitse syöttötavaksi teksti</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Siirry vuoden valintaan napauttamalla</string>
+    <string name="not_selected">ei valittu</string>
+    <string name="password_toggle_content_description">Näytä salasana</string>
+    <string name="permission_delete_audio">{count,plural, =1{Saako ^1 poistaa tämän audiotiedoston?}other{Saako ^1 poistaa ^2 audiotiedostoa?}}</string>
+    <string name="permission_delete_generic">{count,plural, =1{Saako ^1 poistaa tämän?}other{Saako ^1 poistaa ^2 kohdetta?}}</string>
+    <string name="permission_delete_image">{count,plural, =1{Saako ^1 poistaa tämän kuvan?}other{Saako ^1 poistaa ^2 kuvaa?}}</string>
+    <string name="permission_delete_video">{count,plural, =1{Saako ^1 poistaa tämän videon?}other{Saako ^1 poistaa ^2 videota?}}</string>
+    <string name="permission_more_text">{count,plural, =1{Vielä ^1 muu kohde}other{Vielä ^1 muuta kohdetta}}</string>
+    <string name="permission_more_thumb">{count,plural, =1{^1 muu}other{^1 muuta}}</string>
+    <string name="permission_progress_delete_audio">{count,plural, =1{Poistetaan audiotiedostoa…}other{Poistetaan ^1 audiotiedostoa…}}</string>
+    <string name="permission_progress_delete_generic">{count,plural, =1{Poistetaan kohdetta…}other{Poistetaan ^1 kohdetta…}}</string>
+    <string name="permission_progress_delete_image">{count,plural, =1{Poistetaan valokuvaa…}other{Poistetaan ^1 valokuvaa…}}</string>
+    <string name="permission_progress_delete_video">{count,plural, =1{Poistetaan videota…}other{Poistetaan ^1 videota…}}</string>
+    <string name="permission_progress_trash_audio">{count,plural, =1{Siirretään audiotiedostoa roskakoriin…}other{Siirretään ^1 audiotiedostoa roskakoriin…}}</string>
+    <string name="permission_progress_trash_generic">{count,plural, =1{Siirretään kohdetta roskakoriin…}other{Siirretään ^1 kohdetta roskakoriin…}}</string>
+    <string name="permission_progress_trash_image">{count,plural, =1{Siirretään valokuvaa roskakoriin…}other{Siirretään ^1 valokuvaa roskakoriin…}}</string>
+    <string name="permission_progress_trash_video">{count,plural, =1{Siirretään videota roskakoriin…}other{Siirretään ^1 videota roskakoriin…}}</string>
+    <string name="permission_progress_untrash_audio">{count,plural, =1{Siirretään audiotiedostoa pois roskakorista…}other{Siirretään ^1 audiotiedostoa pois roskakorista…}}</string>
+    <string name="permission_progress_untrash_generic">{count,plural, =1{Siirretään kohdetta pois roskakorista…}other{Siirretään ^1 kohdetta pois roskakorista…}}</string>
+    <string name="permission_progress_untrash_image">{count,plural, =1{Siirretään valokuvaa pois roskakorista…}other{Siirretään ^1 valokuvaa pois roskakorista…}}</string>
+    <string name="permission_progress_untrash_video">{count,plural, =1{Siirretään videota pois roskakorista…}other{Siirretään ^1 videota pois roskakorista…}}</string>
+    <string name="permission_progress_write_audio">{count,plural, =1{Muokataan audiotiedostoa…}other{Muokataan ^1 audiotiedostoa…}}</string>
+    <string name="permission_progress_write_generic">{count,plural, =1{Muokataan kohdetta…}other{Muokataan ^1 kohdetta…}}</string>
+    <string name="permission_progress_write_image">{count,plural, =1{Muokataan valokuvaa…}other{Muokataan ^1 valokuvaa…}}</string>
+    <string name="permission_progress_write_video">{count,plural, =1{Muokataan videota…}other{Muokataan ^1 videota…}}</string>
+    <string name="permission_required">Kohteen muokkaus tai poistaminen edellyttää käyttöoikeutta.</string>
+    <string name="permission_required_action">Jatka</string>
+    <string name="permission_trash_audio">{count,plural, =1{Saako ^1 siirtää tämän audiotiedoston roskakoriin?}other{Saako ^1 siirtää ^2 audiotiedostoa roskakoriin?}}</string>
+    <string name="permission_trash_generic">{count,plural, =1{Saako ^1 siirtää tämän roskakoriin?}other{Saako ^1 siirtää ^2 kohdetta roskakoriin?}}</string>
+    <string name="permission_trash_image">{count,plural, =1{Saako ^1 siirtää tämän kuvan roskakoriin?}other{Saako ^1 siirtää ^2 kuvaa roskakoriin?}}</string>
+    <string name="permission_trash_video">{count,plural, =1{Saako ^1 siirtää tämän videon roskakoriin?}other{Saako ^1 siirtää ^2 videota roskakoriin?}}</string>
+    <string name="permission_untrash_audio">{count,plural, =1{Saako ^1 ottaa tämän audiotiedoston pois roskakorista?}other{Saako ^1 ottaa ^2 audiotiedostoa pois roskakorista?}}</string>
+    <string name="permission_untrash_generic">{count,plural, =1{Saako ^1 ottaa tämän pois roskakorista?}other{Saako ^1 ottaa ^2 kohdetta pois roskakorista?}}</string>
+    <string name="permission_untrash_image">{count,plural, =1{Saako ^1 ottaa tämän kuvan pois roskakorista?}other{Saako ^1 ottaa ^2 kuvaa pois roskakorista?}}</string>
+    <string name="permission_untrash_video">{count,plural, =1{Saako ^1 ottaa tämän videon pois roskakorista?}other{Saako ^1 ottaa ^2 videota pois roskakorista?}}</string>
+    <string name="permission_write_audio">{count,plural, =1{Saako ^1 muokata tätä audiotiedostoa?}other{Saako ^1 muokata ^2 audiotiedostoa?}}</string>
+    <string name="permission_write_generic">{count,plural, =1{Saako ^1 muokata tätä?}other{Saako ^1 muokata ^2 kohdetta?}}</string>
+    <string name="permission_write_image">{count,plural, =1{Saako ^1 muokata tätä kuvaa?}other{Saako ^1 muokata ^2 kuvaa?}}</string>
+    <string name="permission_write_video">{count,plural, =1{Saako ^1 muokata tätä videota?}other{Saako ^1 muokata ^2 videota?}}</string>
+    <string name="picker_add_button_multi_select">Lisää (^1)</string>
+    <string name="picker_album_item_count">{count,plural, =1{^1 kohde}other{^1 kohdetta}}</string>
+    <string name="picker_albums">Albumit</string>
+    <string name="picker_albums_empty_message">Ei albumeita</string>
+    <string name="picker_app_label">Kuvien valitsin</string>
+    <string name="picker_category_camera">Kamera</string>
+    <string name="picker_category_downloads">Lataukset</string>
+    <string name="picker_category_favorites">Suosikit</string>
+    <string name="picker_category_screenshots">Kuvakaappaukset</string>
+    <string name="picker_cloud_sync">Pilvimediaa nyt saatavilla täältä: %1$s</string>
+    <string name="picker_gif">GIF</string>
+    <string name="picker_item_content_desc">%1$s on otettu %2$s</string>
+    <string name="picker_motion_photo">Liikkuva kuva</string>
+    <string name="picker_motion_photo_text">Liikkuva kuva</string>
+    <string name="picker_mute_video">Mykistä video</string>
+    <string name="picker_pause_video">Keskeytä video</string>
+    <string name="picker_personal_profile">Siirry henkilökohtaiseen profiiliin</string>
+    <string name="picker_photo">Kuva</string>
+    <string name="picker_photos">Kuvat</string>
+    <string name="picker_photos_empty_message">Ei kuvia tai videoita</string>
+    <string name="picker_play_video">Toista video</string>
+    <string name="picker_preview">Esikatselu</string>
+    <string name="picker_privacy_message">Sovelluksella on pääsy vain valitsemiisi kuviin</string>
+    <string name="picker_profile_admin_msg_from_personal">Työdataan pääsy ei ole sallittu henkilökohtaisen sovelluksen kautta</string>
+    <string name="picker_profile_admin_msg_from_work">Henkilökohtaiseen dataan pääsy ei ole sallittu työsovelluksen kautta</string>
+    <string name="picker_profile_admin_title">Järjestelmänvalvojasi estämä</string>
+    <string name="picker_profile_work_paused_msg">Jos haluat avata työkuvasi, laita työsovellukset päälle ja yritä uudelleen</string>
+    <string name="picker_profile_work_paused_title">Työsovellukset on keskeytetty</string>
+    <string name="picker_unmute_video">Poista videon mykistys</string>
+    <string name="picker_video_item_content_desc">Video kuvattu %1$s, kesto %2$s</string>
+    <string name="picker_view_selected">Katso valitut</string>
+    <string name="picker_work_profile">Siirry työprofiiliin</string>
+    <string name="recent">Viimeisimmät</string>
+    <string name="root_audio">Ääni</string>
+    <string name="root_documents">Dokumentit</string>
+    <string name="root_images">Kuvat</string>
+    <string name="root_videos">Videot</string>
+    <string name="search_menu_title">Haku</string>
+    <string name="select">Valitse</string>
+    <string name="select_up_to">{count,plural, =1{Valitse enintään ^1 kohde}other{Valitse enintään ^1 kohdetta}}</string>
+    <string name="selected">Valittu</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_description">Paikallinen tallennustila</string>
+    <string name="transcode_cancel">Peru</string>
+    <string name="transcode_denied">%s ei voi käsitellä mediatiedostoja</string>
+    <string name="transcode_processing">Käsitellään mediasisältöä…</string>
+    <string name="transcode_processing_cancelled">Mediasisällön käsittely peruttiin</string>
+    <string name="transcode_processing_error">Virhe mediasisällön käsittelyssä</string>
+    <string name="transcode_processing_started">Mediasisällön käsittely alkoi</string>
+    <string name="transcode_processing_success">Mediasisällön käsittely onnistui</string>
+    <string name="transcode_wait">Odota</string>
+    <string name="uid_label">Media</string>
+    <string name="unknown">Tuntematon</string>
+</resources>

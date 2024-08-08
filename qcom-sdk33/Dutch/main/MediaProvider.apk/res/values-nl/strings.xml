@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
+    <string name="abc_action_bar_up_description">Omhoog navigeren</string>
+    <string name="abc_action_menu_overflow_description">Meer opties</string>
+    <string name="abc_action_mode_done">Klaar</string>
+    <string name="abc_activity_chooser_view_see_all">Alles tonen</string>
+    <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
+    <string name="abc_capital_off">UIT</string>
+    <string name="abc_capital_on">AAN</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Functie +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">spatie</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
+    <string name="abc_search_hint">Zoeken…</string>
+    <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
+    <string name="abc_searchview_description_query">Zoekopdracht</string>
+    <string name="abc_searchview_description_search">Zoeken</string>
+    <string name="abc_searchview_description_submit">Zoekopdracht verzenden</string>
+    <string name="abc_searchview_description_voice">Gesproken zoekopdracht</string>
+    <string name="abc_shareactionprovider_share_with">Delen met</string>
+    <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+    <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="add">Toevoegen</string>
+    <string name="allow">Toestaan</string>
+    <string name="app_label">Mediaopslag</string>
+    <string name="artist_label">Artiest</string>
+    <string name="bottomsheet_action_expand_halfway">Half uitvouwen</string>
+    <string name="cache_clearing_dialog_text">%s wil een aantal tijdelijke bestanden wissen. Dit kan leiden tot een groter verbruik van de batterij of mobiele data.</string>
+    <string name="cache_clearing_dialog_title">Tijdelijke app-bestanden wissen</string>
+    <string name="cache_clearing_in_progress_title">Tijdelijke app-bestanden wissen…</string>
+    <string name="character_counter_content_description">%1$d van %2$d tekens opgegeven</string>
+    <string name="character_counter_overflowed_content_description">Tekenlimiet heeft %1$d van %2$d overschreden</string>
+    <string name="clear">Wissen</string>
+    <string name="clear_text_end_icon_content_description">Tekst wissen</string>
+    <string name="deny">Weigeren</string>
+    <string name="deselect">Deselecteren</string>
+    <string name="deselected">Gedeselecteerd</string>
+    <string name="error_icon_content_description">Fout</string>
+    <string name="exo_controls_cc_disabled_description">Ondertiteling aanzetten</string>
+    <string name="exo_controls_cc_enabled_description">Ondertiteling uitzetten</string>
+    <string name="exo_controls_fastforward_description">Vooruitspoelen</string>
+    <string name="exo_controls_fullscreen_enter_description">Volledig scherm openen</string>
+    <string name="exo_controls_fullscreen_exit_description">Volledig scherm sluiten</string>
+    <string name="exo_controls_hide">Afspeelbediening verbergen</string>
+    <string name="exo_controls_next_description">Volgende</string>
+    <string name="exo_controls_overflow_hide_description">Aanvullende instellingen verbergen</string>
+    <string name="exo_controls_overflow_show_description">Aanvullende instellingen tonen</string>
+    <string name="exo_controls_pause_description">Pauzeren</string>
+    <string name="exo_controls_play_description">Afspelen</string>
+    <string name="exo_controls_playback_speed">Snelheid</string>
+    <string name="exo_controls_previous_description">Vorige</string>
+    <string name="exo_controls_repeat_all_description">Alles herhalen</string>
+    <string name="exo_controls_repeat_off_description">Niets herhalen</string>
+    <string name="exo_controls_repeat_one_description">Eén herhalen</string>
+    <string name="exo_controls_rewind_description">Terugspoelen</string>
+    <string name="exo_controls_seek_bar_description">Afspeelvoortgang</string>
+    <string name="exo_controls_settings_description">Instellingen</string>
+    <string name="exo_controls_show">Afspeelbediening tonen</string>
+    <string name="exo_controls_shuffle_off_description">Shuffle uit</string>
+    <string name="exo_controls_shuffle_on_description">Shuffle aan</string>
+    <string name="exo_controls_stop_description">Stoppen</string>
+    <string name="exo_controls_vr_description">VR-modus</string>
+    <string name="exo_download_completed">Downloaden voltooid</string>
+    <string name="exo_download_description">Downloaden</string>
+    <string name="exo_download_downloading">Downloaden</string>
+    <string name="exo_download_failed">Downloaden mislukt</string>
+    <string name="exo_download_notification_channel_name">Downloads</string>
+    <string name="exo_download_paused">Downloads gepauzeerd</string>
+    <string name="exo_download_paused_for_network">Downloads wachten op netwerk</string>
+    <string name="exo_download_paused_for_wifi">Downloads wachten op wifi</string>
+    <string name="exo_download_removing">Downloads verwijderen</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternatief</string>
+    <string name="exo_track_role_closed_captions">CC</string>
+    <string name="exo_track_role_commentary">Commentaar</string>
+    <string name="exo_track_role_supplementary">Aanvullend</string>
+    <string name="exo_track_selection_auto">Auto</string>
+    <string name="exo_track_selection_none">Geen</string>
+    <string name="exo_track_selection_title_audio">Audio</string>
+    <string name="exo_track_selection_title_text">Tekst</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Surround sound</string>
+    <string name="exo_track_surround_5_point_1">5.1 surroundgeluid</string>
+    <string name="exo_track_surround_7_point_1">7.1 surroundgeluid</string>
+    <string name="exo_track_unknown">Onbekend</string>
+    <string name="exposed_dropdown_menu_content_description">Dropdownmenu weergeven</string>
+    <string name="grant_dialog_button_allow">Toestaan</string>
+    <string name="grant_dialog_button_deny">Weigeren</string>
+    <string name="icon_content_description">Icoon voor dialoogvenster</string>
+    <string name="item_view_role_description">Tabblad</string>
+    <string name="material_clock_toggle_content_description">Selecteer a.m. of p.m.</string>
+    <string name="material_hour_selection">Selecteer uur</string>
+    <string name="material_hour_suffix">%1$s uur</string>
+    <string name="material_minute_selection">Minuten selecteren</string>
+    <string name="material_minute_suffix">%1$s minuten</string>
+    <string name="material_timepicker_am">a.m.</string>
+    <string name="material_timepicker_clock_mode_description">Schakel naar de klokmodus om de tijd in te voeren.</string>
+    <string name="material_timepicker_hour">Uur</string>
+    <string name="material_timepicker_minute">Minuut</string>
+    <string name="material_timepicker_pm">p.m.</string>
+    <string name="material_timepicker_select_time">Tijd selecteren</string>
+    <string name="material_timepicker_text_input_mode_description">Schakel naar de tekstinvoermodus om de tijd in te voeren.</string>
+    <string name="mtrl_badge_numberless_content_description">Nieuwe melding</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s verwijderen</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Meer dan %1$d nieuwe meldingen</string>
+    <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
+    <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
+    <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
+    <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kolom met dagen: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Ongeldige indeling.</string>
+    <string name="mtrl_picker_invalid_format_example">Voorbeeld: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Gebruik: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Ongeldig bereik.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Naar jaar %1$s navigeren</string>
+    <string name="mtrl_picker_out_of_range">Valt buiten bereik: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdatum - %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – einddatum</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selecteer een periode</string>
+    <string name="mtrl_picker_range_header_unselected">Startdatum - einddatum</string>
+    <string name="mtrl_picker_save">Opslaan</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Einddatum</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Startdatum</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">j</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Overschakelen naar agenda-invoermodus</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tik om naar dagselectie te schakelen</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Overschakelen naar tekstinvoermodus</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tik om naar jaarselectie te schakelen</string>
+    <string name="not_selected">niet geselecteerd</string>
+    <string name="password_toggle_content_description">Wachtwoord tonen</string>
+    <string name="permission_delete_audio">{count,plural, =1{^1 toestaan dit audiobestand te verwijderen?}other{^1 toestaan ^2 audiobestanden te verwijderen?}}</string>
+    <string name="permission_delete_generic">{count,plural, =1{^1 toestaan dit item te verwijderen?}other{^1 toestaan ^2 items te verwijderen?}}</string>
+    <string name="permission_delete_image">"{count,plural, =1{^1 toestaan deze foto te verwijderen?}other{^1 toestaan ^2 foto's te verwijderen?}}"</string>
+    <string name="permission_delete_video">"{count,plural, =1{^1 toestaan deze video te verwijderen?}other{^1 toestaan ^2 video's te verwijderen?}}"</string>
+    <string name="permission_more_text">{count,plural, =1{Plus ^1 extra item}other{Plus ^1 extra items}}</string>
+    <string name="permission_more_thumb">{count,plural, =1{+^1}other{+^1}}</string>
+    <string name="permission_progress_delete_audio">{count,plural, =1{Audiobestand verwijderen…}other{^1 audiobestanden verwijderen…}}</string>
+    <string name="permission_progress_delete_generic">{count,plural, =1{Item verwijderen…}other{^1 items verwijderen…}}</string>
+    <string name="permission_progress_delete_image">"{count,plural, =1{Foto verwijderen…}other{^1 foto's verwijderen…}}"</string>
+    <string name="permission_progress_delete_video">"{count,plural, =1{Video verwijderen…}other{^1 video's verwijderen…}}"</string>
+    <string name="permission_progress_trash_audio">{count,plural, =1{Audiobestand naar prullenbak verplaatsen…}other{^1 audiobestanden naar prullenbak verplaatsen…}}</string>
+    <string name="permission_progress_trash_generic">{count,plural, =1{Item naar prullenbak verplaatsen…}other{^1 items naar prullenbak verplaatsen…}}</string>
+    <string name="permission_progress_trash_image">"{count,plural, =1{Foto naar prullenbak verplaatsen…}other{^1 foto's naar prullenbak verplaatsen…}}"</string>
+    <string name="permission_progress_trash_video">"{count,plural, =1{Video naar prullenbak verplaatsen…}other{^1 video's naar prullenbak verplaatsen…}}"</string>
+    <string name="permission_progress_untrash_audio">{count,plural, =1{Audiobestand uit prullenbak halen…}other{^1 audiobestanden uit prullenbak halen…}}</string>
+    <string name="permission_progress_untrash_generic">{count,plural, =1{Item uit prullenbak halen…}other{^1 items uit prullenbak halen…}}</string>
+    <string name="permission_progress_untrash_image">"{count,plural, =1{Foto uit prullenbak halen…}other{^1 foto's uit prullenbak halen…}}"</string>
+    <string name="permission_progress_untrash_video">"{count,plural, =1{Video uit prullenbak halen…}other{^1 video's uit prullenbak halen…}}"</string>
+    <string name="permission_progress_write_audio">{count,plural, =1{Audiobestand aanpassen…}other{^1 audiobestanden aanpassen…}}</string>
+    <string name="permission_progress_write_generic">{count,plural, =1{Item aanpassen…}other{^1 items aanpassen…}}</string>
+    <string name="permission_progress_write_image">"{count,plural, =1{Foto aanpassen…}other{^1 foto's aanpassen…}}"</string>
+    <string name="permission_progress_write_video">"{count,plural, =1{Video aanpassen…}other{^1 video's aanpassen…}}"</string>
+    <string name="permission_required">Rechten vereist om dit item aan te passen of te verwijderen.</string>
+    <string name="permission_required_action">Doorgaan</string>
+    <string name="permission_trash_audio">{count,plural, =1{^1 toestaan dit audiobestand naar de prullenbak te verplaatsen?}other{^1 toestaan ^2 audiobestanden naar de prullenbak te verplaatsen?}}</string>
+    <string name="permission_trash_generic">{count,plural, =1{^1 toestaan dit item naar de prullenbak te verplaatsen?}other{^1 toestaan ^2 items naar de prullenbak te verplaatsen?}}</string>
+    <string name="permission_trash_image">"{count,plural, =1{^1 toestaan deze foto naar de prullenbak te verplaatsen?}other{^1 toestaan ^2 foto's naar de prullenbak te verplaatsen?}}"</string>
+    <string name="permission_trash_video">"{count,plural, =1{^1 toestaan deze video naar de prullenbak te verplaatsen?}other{^1 toestaan ^2 video's naar de prullenbak te verplaatsen?}}"</string>
+    <string name="permission_untrash_audio">{count,plural, =1{^1 toestaan dit audiobestand uit de prullenbak te halen?}other{^1 toestaan ^2 audiobestanden uit de prullenbak te halen?}}</string>
+    <string name="permission_untrash_generic">{count,plural, =1{^1 toestaan dit item uit de prullenbak te halen?}other{^1 toestaan ^2 items uit de prullenbak te halen?}}</string>
+    <string name="permission_untrash_image">"{count,plural, =1{^1 toestaan deze foto uit de prullenbak te halen?}other{^1 toestaan ^2 foto's uit de prullenbak te halen?}}"</string>
+    <string name="permission_untrash_video">"{count,plural, =1{^1 toestaan deze video uit de prullenbak te halen?}other{^1 toestaan ^2 video's uit de prullenbak te halen?}}"</string>
+    <string name="permission_write_audio">{count,plural, =1{^1 toestaan dit audiobestand aan te passen?}other{^1 toestaan ^2 audiobestanden aan te passen?}}</string>
+    <string name="permission_write_generic">{count,plural, =1{^1 toestaan dit item aan te passen?}other{^1 toestaan ^2 items aan te passen?}}</string>
+    <string name="permission_write_image">"{count,plural, =1{^1 toestaan deze foto aan te passen?}other{^1 toestaan ^2 foto's aan te passen?}}"</string>
+    <string name="permission_write_video">"{count,plural, =1{^1 toestaan deze video aan te passen?}other{^1 toestaan ^2 video's aan te passen?}}"</string>
+    <string name="picker_add_button_multi_select">Toevoegen (^1)</string>
+    <string name="picker_album_item_count">{count,plural, =1{^1 item}other{^1 items}}</string>
+    <string name="picker_albums">Albums</string>
+    <string name="picker_albums_empty_message">Geen albums</string>
+    <string name="picker_app_label">Fotokiezer</string>
+    <string name="picker_category_camera">Camera</string>
+    <string name="picker_category_downloads">Downloads</string>
+    <string name="picker_category_favorites">Favorieten</string>
+    <string name="picker_category_screenshots">Screenshots</string>
+    <string name="picker_cloud_sync">Cloudmedia nu beschikbaar van %1$s</string>
+    <string name="picker_gif">Gif</string>
+    <string name="picker_item_content_desc">%1$s gemaakt op %2$s</string>
+    <string name="picker_motion_photo">Bewegingsfoto</string>
+    <string name="picker_motion_photo_text">Bewegingsfoto</string>
+    <string name="picker_mute_video">Geluid van video uitzetten</string>
+    <string name="picker_pause_video">Video onderbreken</string>
+    <string name="picker_personal_profile">Overschakelen naar persoonlijk profiel</string>
+    <string name="picker_photo">Foto</string>
+    <string name="picker_photos">"Foto's"</string>
+    <string name="picker_photos_empty_message">"Geen foto's of video's"</string>
+    <string name="picker_play_video">Video afspelen</string>
+    <string name="picker_preview">Voorbeeld</string>
+    <string name="picker_privacy_message">"Deze app heeft alleen toegang tot de foto's die je selecteert"</string>
+    <string name="picker_profile_admin_msg_from_personal">Het is niet toegestaan om werkgegevens te openen via een persoonlijke app</string>
+    <string name="picker_profile_admin_msg_from_work">Het is niet toegestaan om persoonsgegevens te openen via een werk-app</string>
+    <string name="picker_profile_admin_title">Geblokkeerd door je beheerder</string>
+    <string name="picker_profile_work_paused_msg">"Als je werkfoto's wilt openen, zet je je werk-apps aan en probeer je het opnieuw"</string>
+    <string name="picker_profile_work_paused_title">Werk-apps zijn onderbroken</string>
+    <string name="picker_unmute_video">Geluid van video aanzetten</string>
+    <string name="picker_video_item_content_desc">Video opgenomen op %1$s met een duur van %2$s</string>
+    <string name="picker_view_selected">Selectie bekijken</string>
+    <string name="picker_work_profile">Overschakelen naar werkprofiel</string>
+    <string name="recent">Recent</string>
+    <string name="root_audio">Audio</string>
+    <string name="root_documents">Documenten</string>
+    <string name="root_images">Afbeeldingen</string>
+    <string name="root_videos">"Video's"</string>
+    <string name="search_menu_title">Zoeken</string>
+    <string name="select">Selecteren</string>
+    <string name="select_up_to">{count,plural, =1{Selecteer maximaal ^1 item}other{Selecteer maximaal ^1 items}}</string>
+    <string name="selected">Geselecteerd</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_description">Lokale opslag</string>
+    <string name="transcode_cancel">Annuleren</string>
+    <string name="transcode_denied">%s kan geen mediabestanden verwerken</string>
+    <string name="transcode_processing">Media verwerken…</string>
+    <string name="transcode_processing_cancelled">Mediaverwerking geannuleerd</string>
+    <string name="transcode_processing_error">Fout bij mediaverwerking</string>
+    <string name="transcode_processing_started">Mediaverwerking gestart</string>
+    <string name="transcode_processing_success">Mediaverwerking afgerond</string>
+    <string name="transcode_wait">Wachten</string>
+    <string name="uid_label">Media</string>
+    <string name="unknown">Onbekend</string>
+</resources>

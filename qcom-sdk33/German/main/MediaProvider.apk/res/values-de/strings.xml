@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Zur Startseite</string>
+    <string name="abc_action_bar_up_description">Nach oben</string>
+    <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
+    <string name="abc_action_mode_done">Fertig</string>
+    <string name="abc_activity_chooser_view_see_all">Alle anzeigen</string>
+    <string name="abc_activitychooserview_choose_application">App auswählen</string>
+    <string name="abc_capital_off">AUS</string>
+    <string name="abc_capital_on">AN</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Strg +</string>
+    <string name="abc_menu_delete_shortcut_label">Löschen</string>
+    <string name="abc_menu_enter_shortcut_label">Eingabetaste</string>
+    <string name="abc_menu_function_shortcut_label">Funktionstaste +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta-Taste +</string>
+    <string name="abc_menu_shift_shortcut_label">Umschalttaste +</string>
+    <string name="abc_menu_space_shortcut_label">Leertaste</string>
+    <string name="abc_menu_sym_shortcut_label">Sym-Taste +</string>
+    <string name="abc_prepend_shortcut_label">Menütaste +</string>
+    <string name="abc_search_hint">Suchen…</string>
+    <string name="abc_searchview_description_clear">Suchanfrage löschen</string>
+    <string name="abc_searchview_description_query">Suchanfrage</string>
+    <string name="abc_searchview_description_search">Suche</string>
+    <string name="abc_searchview_description_submit">Anfrage senden</string>
+    <string name="abc_searchview_description_voice">Sprachsuche</string>
+    <string name="abc_shareactionprovider_share_with">Teilen mit</string>
+    <string name="abc_shareactionprovider_share_with_application">Mit %s teilen</string>
+    <string name="abc_toolbar_collapse_description">Minimieren</string>
+    <string name="add">Hinzufügen</string>
+    <string name="allow">Zulassen</string>
+    <string name="app_label">Medienspeicher</string>
+    <string name="artist_label">Interpret</string>
+    <string name="bottomsheet_action_expand_halfway">Zur Hälfte maximieren</string>
+    <string name="cache_clearing_dialog_text">%s möchte einige temporäre Dateien löschen. Dadurch können Akkuverbrauch und mobile Datennutzung steigen.</string>
+    <string name="cache_clearing_dialog_title">Temporäre App-Dateien löschen</string>
+    <string name="cache_clearing_in_progress_title">Temporäre App-Dateien werden gelöscht…</string>
+    <string name="character_counter_content_description">Eingegebene Zeichen: %1$d von %2$d</string>
+    <string name="character_counter_overflowed_content_description">Zeichenbeschränkung überschritten: %1$d/%2$d</string>
+    <string name="clear">Löschen</string>
+    <string name="clear_text_end_icon_content_description">Text löschen</string>
+    <string name="deny">Ablehnen</string>
+    <string name="deselect">Auswahl aufheben</string>
+    <string name="deselected">Auswahl aufgehoben</string>
+    <string name="error_icon_content_description">Fehler</string>
+    <string name="exo_controls_cc_disabled_description">Untertitel aktivieren</string>
+    <string name="exo_controls_cc_enabled_description">Untertitel deaktivieren</string>
+    <string name="exo_controls_fastforward_description">Vorspulen</string>
+    <string name="exo_controls_fullscreen_enter_description">Vollbild aktivieren</string>
+    <string name="exo_controls_fullscreen_exit_description">Vollbild beenden</string>
+    <string name="exo_controls_hide">Player-Steuerelemente ausblenden</string>
+    <string name="exo_controls_next_description">Weiter</string>
+    <string name="exo_controls_overflow_hide_description">Zusätzliche Einstellungen ausblenden</string>
+    <string name="exo_controls_overflow_show_description">Zusätzliche Einstellungen einblenden</string>
+    <string name="exo_controls_pause_description">Pausieren</string>
+    <string name="exo_controls_play_description">Wiedergeben</string>
+    <string name="exo_controls_playback_speed">Geschwindigkeit</string>
+    <string name="exo_controls_previous_description">Zurück</string>
+    <string name="exo_controls_repeat_all_description">Alle wiederholen</string>
+    <string name="exo_controls_repeat_off_description">Keinen wiederholen</string>
+    <string name="exo_controls_repeat_one_description">Einen wiederholen</string>
+    <string name="exo_controls_rewind_description">Zurückspulen</string>
+    <string name="exo_controls_seek_bar_description">Wiedergabefortschritt</string>
+    <string name="exo_controls_settings_description">Einstellungen</string>
+    <string name="exo_controls_show">Player-Steuerelemente anzeigen</string>
+    <string name="exo_controls_shuffle_off_description">Zufallsmix aus</string>
+    <string name="exo_controls_shuffle_on_description">Zufallsmix an</string>
+    <string name="exo_controls_stop_description">Beenden</string>
+    <string name="exo_controls_vr_description">VR-Modus</string>
+    <string name="exo_download_completed">Download abgeschlossen</string>
+    <string name="exo_download_description">Herunterladen</string>
+    <string name="exo_download_downloading">Wird heruntergeladen</string>
+    <string name="exo_download_failed">Download fehlgeschlagen</string>
+    <string name="exo_download_notification_channel_name">Downloads</string>
+    <string name="exo_download_paused">Downloads pausiert</string>
+    <string name="exo_download_paused_for_network">Auf Netzwerkverbindung wird gewartet</string>
+    <string name="exo_download_paused_for_wifi">Auf WLAN-Verbindung wird gewartet</string>
+    <string name="exo_download_removing">Downloads werden entfernt</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbit/s</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternativer Track</string>
+    <string name="exo_track_role_closed_captions">Untertitel</string>
+    <string name="exo_track_role_commentary">Kommentare</string>
+    <string name="exo_track_role_supplementary">Zusatzinhalte</string>
+    <string name="exo_track_selection_auto">Automatisch</string>
+    <string name="exo_track_selection_none">Ohne</string>
+    <string name="exo_track_selection_title_audio">Audio</string>
+    <string name="exo_track_selection_title_text">Text</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Surround-Sound</string>
+    <string name="exo_track_surround_5_point_1">5.1-Surround-Sound</string>
+    <string name="exo_track_surround_7_point_1">7.1-Surround-Sound</string>
+    <string name="exo_track_unknown">Unbekannt</string>
+    <string name="exposed_dropdown_menu_content_description">Drop-down-Menü anzeigen</string>
+    <string name="grant_dialog_button_allow">Zulassen</string>
+    <string name="grant_dialog_button_deny">Ablehnen</string>
+    <string name="icon_content_description">Dialogfeldsymbol</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="material_clock_toggle_content_description">Vormittags oder Nachmittags auswählen</string>
+    <string name="material_hour_selection">Stunde auswählen</string>
+    <string name="material_hour_suffix">%1$s Uhr</string>
+    <string name="material_minute_selection">Minuten auswählen</string>
+    <string name="material_minute_suffix">%1$s Minuten</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">In den Uhrzeitmodus wechseln, um die Uhrzeit einzugeben.</string>
+    <string name="material_timepicker_hour">Stunde</string>
+    <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Uhrzeit auswählen</string>
+    <string name="material_timepicker_text_input_mode_description">In den Texteingabemodus wechseln, um die Uhrzeit einzugeben.</string>
+    <string name="mtrl_badge_numberless_content_description">Neue Benachrichtigung</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s entfernen</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Mehr als %1$d neue Benachrichtigungen</string>
+    <string name="mtrl_picker_a11y_next_month">Zum nächsten Monat wechseln</string>
+    <string name="mtrl_picker_a11y_prev_month">Zum vorherigen Monat wechseln</string>
+    <string name="mtrl_picker_announce_current_selection">Aktuelle Auswahl: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Datum auswählen</string>
+    <string name="mtrl_picker_date_header_unselected">Ausgewähltes Datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Spalte \"Wochentag\": %1$s</string>
+    <string name="mtrl_picker_invalid_format">Ungültiges Format.</string>
+    <string name="mtrl_picker_invalid_format_example">Beispiel: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Format: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Ungültiger Bereich.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Zum Jahr %1$s wechseln</string>
+    <string name="mtrl_picker_out_of_range">Außerhalb des Bereichs: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdatum – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Enddatum</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Zeitraum auswählen</string>
+    <string name="mtrl_picker_range_header_unselected">Startdatum – Enddatum</string>
+    <string name="mtrl_picker_save">Speichern</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Enddatum</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Startdatum</string>
+    <string name="mtrl_picker_text_input_day_abbr">T</string>
+    <string name="mtrl_picker_text_input_month_abbr">M</string>
+    <string name="mtrl_picker_text_input_year_abbr">J</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">In den Kalendereingabemodus wechseln</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tippen, um zur Tagesauswahl zu wechseln</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">In den Texteingabemodus wechseln</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tippen, um zur Jahresauswahl zu wechseln</string>
+    <string name="not_selected">nicht ausgewählt</string>
+    <string name="password_toggle_content_description">Passwort anzeigen</string>
+    <string name="permission_delete_audio">{count,plural, =1{Darf ^1 diese Audiodatei löschen?}other{Darf ^1 ^2 Audiodateien löschen?}}</string>
+    <string name="permission_delete_generic">{count,plural, =1{Darf ^1 dieses Element löschen?}other{Darf ^1 ^2 Elemente löschen?}}</string>
+    <string name="permission_delete_image">{count,plural, =1{Darf ^1 dieses Foto löschen?}other{Darf ^1 ^2 Fotos löschen?}}</string>
+    <string name="permission_delete_video">{count,plural, =1{Darf ^1 dieses Video löschen?}other{Darf ^1 ^2 Videos löschen?}}</string>
+    <string name="permission_more_text">{count,plural, =1{^1 weiteres Element}other{^1 weitere Elemente}}</string>
+    <string name="permission_more_thumb">{count,plural, =1{+ ^1}other{+ ^1}}</string>
+    <string name="permission_progress_delete_audio">{count,plural, =1{Audiodatei wird gelöscht…}other{^1 Audiodateien werden gelöscht…}}</string>
+    <string name="permission_progress_delete_generic">{count,plural, =1{Element wird gelöscht…}other{^1 Elemente werden gelöscht…}}</string>
+    <string name="permission_progress_delete_image">{count,plural, =1{Foto wird gelöscht…}other{^1 Fotos werden gelöscht…}}</string>
+    <string name="permission_progress_delete_video">{count,plural, =1{Video wird gelöscht…}other{^1 Videos werden gelöscht…}}</string>
+    <string name="permission_progress_trash_audio">{count,plural, =1{Audiodatei wird in den Papierkorb verschoben…}other{^1 Audiodateien werden in den Papierkorb verschoben…}}</string>
+    <string name="permission_progress_trash_generic">{count,plural, =1{Element wird in den Papierkorb verschoben…}other{^1 Elemente werden in den Papierkorb verschoben…}}</string>
+    <string name="permission_progress_trash_image">{count,plural, =1{Foto wird in den Papierkorb verschoben…}other{^1 Fotos werden in den Papierkorb verschoben…}}</string>
+    <string name="permission_progress_trash_video">{count,plural, =1{Video wird in den Papierkorb verschoben…}other{^1 Videos werden in den Papierkorb verschoben…}}</string>
+    <string name="permission_progress_untrash_audio">{count,plural, =1{Audiodatei wird aus dem Papierkorb verschoben…}other{^1 Audiodateien werden aus dem Papierkorb verschoben…}}</string>
+    <string name="permission_progress_untrash_generic">{count,plural, =1{Element wird aus dem Papierkorb verschoben…}other{^1 Elemente werden aus dem Papierkorb verschoben…}}</string>
+    <string name="permission_progress_untrash_image">{count,plural, =1{Foto wird aus dem Papierkorb verschoben…}other{^1 Fotos werden aus dem Papierkorb verschoben…}}</string>
+    <string name="permission_progress_untrash_video">{count,plural, =1{Video wird aus dem Papierkorb verschoben…}other{^1 Videos werden aus dem Papierkorb verschoben…}}</string>
+    <string name="permission_progress_write_audio">{count,plural, =1{Audiodatei wird geändert…}other{^1 Audiodateien werden geändert…}}</string>
+    <string name="permission_progress_write_generic">{count,plural, =1{Element wird geändert…}other{^1 Elemente werden geändert…}}</string>
+    <string name="permission_progress_write_image">{count,plural, =1{Foto wird geändert…}other{^1 Fotos werden geändert…}}</string>
+    <string name="permission_progress_write_video">{count,plural, =1{Video wird geändert…}other{^1 Videos werden geändert…}}</string>
+    <string name="permission_required">Zum Ändern oder Löschen dieses Elements ist eine Berechtigung erforderlich.</string>
+    <string name="permission_required_action">Weiter</string>
+    <string name="permission_trash_audio">{count,plural, =1{Darf ^1 diese Audiodatei in den Papierkorb verschieben?}other{Darf ^1 ^2 Audiodateien in den Papierkorb verschieben?}}</string>
+    <string name="permission_trash_generic">{count,plural, =1{Darf ^1 dieses Element in den Papierkorb verschieben?}other{Darf ^1 ^2 Elemente in den Papierkorb verschieben?}}</string>
+    <string name="permission_trash_image">{count,plural, =1{Darf ^1 dieses Foto in den Papierkorb verschieben?}other{Darf ^1 ^2 Fotos in den Papierkorb verschieben?}}</string>
+    <string name="permission_trash_video">{count,plural, =1{Darf ^1 dieses Video in den Papierkorb verschieben?}other{Darf ^1 ^2 Videos in den Papierkorb verschieben?}}</string>
+    <string name="permission_untrash_audio">{count,plural, =1{Darf ^1 diese Audiodatei aus dem Papierkorb verschieben?}other{Darf ^1 ^2 Audiodateien aus dem Papierkorb verschieben?}}</string>
+    <string name="permission_untrash_generic">{count,plural, =1{Darf ^1 dieses Element aus dem Papierkorb verschieben?}other{Darf ^1 ^2 Elemente aus dem Papierkorb verschieben?}}</string>
+    <string name="permission_untrash_image">{count,plural, =1{Darf ^1 dieses Foto aus dem Papierkorb verschieben?}other{Darf ^1 ^2 Fotos aus dem Papierkorb verschieben?}}</string>
+    <string name="permission_untrash_video">{count,plural, =1{Darf ^1 dieses Video aus dem Papierkorb verschieben?}other{Darf ^1 ^2 Videos aus dem Papierkorb verschieben?}}</string>
+    <string name="permission_write_audio">{count,plural, =1{Darf ^1 diese Audiodatei ändern?}other{Darf ^1 ^2 Audiodateien ändern?}}</string>
+    <string name="permission_write_generic">{count,plural, =1{Darf ^1 dieses Element ändern?}other{Darf ^1 ^2 Elemente ändern?}}</string>
+    <string name="permission_write_image">{count,plural, =1{Darf ^1 dieses Foto ändern?}other{Darf ^1 ^2 Fotos ändern?}}</string>
+    <string name="permission_write_video">{count,plural, =1{Darf ^1 dieses Video ändern?}other{Darf ^1 ^2 Videos ändern?}}</string>
+    <string name="picker_add_button_multi_select">Hinzufügen (^1)</string>
+    <string name="picker_album_item_count">{count,plural, =1{^1 Element}other{^1 Elemente}}</string>
+    <string name="picker_albums">Alben</string>
+    <string name="picker_albums_empty_message">Keine Alben</string>
+    <string name="picker_app_label">Foto-Picker</string>
+    <string name="picker_category_camera">Kamera</string>
+    <string name="picker_category_downloads">Downloads</string>
+    <string name="picker_category_favorites">Favoriten</string>
+    <string name="picker_category_screenshots">Screenshots</string>
+    <string name="picker_cloud_sync">Cloud-Medien sind jetzt verfügbar über %1$s</string>
+    <string name="picker_gif">GIF</string>
+    <string name="picker_item_content_desc">%1$s wurde aufgenommen am %2$s</string>
+    <string name="picker_motion_photo">Foto mit Bewegtbild</string>
+    <string name="picker_motion_photo_text">Foto mit Bewegtbild</string>
+    <string name="picker_mute_video">Video stummschalten</string>
+    <string name="picker_pause_video">Video anhalten</string>
+    <string name="picker_personal_profile">Zum privaten Profil wechseln</string>
+    <string name="picker_photo">Foto</string>
+    <string name="picker_photos">Fotos</string>
+    <string name="picker_photos_empty_message">Keine Fotos oder Videos</string>
+    <string name="picker_play_video">Video ansehen</string>
+    <string name="picker_preview">Vorschau</string>
+    <string name="picker_privacy_message">Diese App kann nur auf die Fotos zugreifen, die du auswählst</string>
+    <string name="picker_profile_admin_msg_from_personal">Der Zugriff auf berufliche Daten von einer privaten App ist nicht zulässig</string>
+    <string name="picker_profile_admin_msg_from_work">Der Zugriff auf private Daten von einer geschäftlichen App ist nicht zulässig</string>
+    <string name="picker_profile_admin_title">Vom Administrator blockiert</string>
+    <string name="picker_profile_work_paused_msg">Wenn du geschäftliche Fotos aufrufen möchtest, aktiviere zuerst deine geschäftlichen Apps und versuche es dann noch einmal</string>
+    <string name="picker_profile_work_paused_title">Geschäftliche Apps sind pausiert</string>
+    <string name="picker_unmute_video">Stummschaltung des Videos aufheben</string>
+    <string name="picker_video_item_content_desc">Video vom %1$s, Dauer %2$s</string>
+    <string name="picker_view_selected">Auswahl ansehen</string>
+    <string name="picker_work_profile">Zum Arbeitsprofil wechseln</string>
+    <string name="recent">Neueste</string>
+    <string name="root_audio">Audio</string>
+    <string name="root_documents">Dokumente</string>
+    <string name="root_images">Bilder</string>
+    <string name="root_videos">Videos</string>
+    <string name="search_menu_title">Suche</string>
+    <string name="select">Auswählen</string>
+    <string name="select_up_to">{count,plural, =1{Du kannst maximal ^1 Element auswählen}other{Du kannst maximal ^1 Elemente auswählen}}</string>
+    <string name="selected">Ausgewählt</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_description">Lokaler Speicher</string>
+    <string name="transcode_cancel">Abbrechen</string>
+    <string name="transcode_denied">Die App „%s“ kann Mediendateien nicht verarbeiten</string>
+    <string name="transcode_processing">Medien werden verarbeitet…</string>
+    <string name="transcode_processing_cancelled">Medienverarbeitung abgebrochen</string>
+    <string name="transcode_processing_error">Fehler bei Medienverarbeitung</string>
+    <string name="transcode_processing_started">Medienverarbeitung gestartet</string>
+    <string name="transcode_processing_success">Medienverarbeitung erfolgreich</string>
+    <string name="transcode_wait">Warten</string>
+    <string name="uid_label">Medien</string>
+    <string name="unknown">Unbekannt</string>
+</resources>
