@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="callFailed_unobtainable_number">NUMERO NO ESTA EN USO</string>
+    <string name="callFailed_userBusy">NUMERO OCUPADO</string>
+</resources>

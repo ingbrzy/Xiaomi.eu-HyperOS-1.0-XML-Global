@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Krmarjenje na začetek</string>
+    <string name="abc_action_bar_up_description">Pomik navzgor</string>
+    <string name="abc_action_menu_overflow_description">Več možnosti</string>
+    <string name="abc_action_mode_done">Končano</string>
+    <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
+    <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
+    <string name="abc_capital_off">IZKLOP</string>
+    <string name="abc_capital_on">VKLOP</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">preslednica</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Meni +</string>
+    <string name="abc_search_hint">Iskanje …</string>
+    <string name="abc_searchview_description_clear">Izbris poizvedbe</string>
+    <string name="abc_searchview_description_query">Iskalna poizvedba</string>
+    <string name="abc_searchview_description_search">Iskanje</string>
+    <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
+    <string name="abc_searchview_description_voice">Glasovno iskanje</string>
+    <string name="abc_shareactionprovider_share_with">Deljenje z:</string>
+    <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi prek aplikacije %s</string>
+    <string name="abc_toolbar_collapse_description">Strnitev</string>
+    <string name="add">Dodaj</string>
+    <string name="allow">Dovoli</string>
+    <string name="app_label">Shramba za predstavnost</string>
+    <string name="artist_label">Izvajalec</string>
+    <string name="bottomsheet_action_expand_halfway">Razširjanje na pol višine</string>
+    <string name="cache_clearing_dialog_text">Aplikacija %s želi izbrisati nekaj začasnih datotek. To lahko povzroči povečano porabo energije baterije ali povečan prenos podatkov v mobilnem omrežju.</string>
+    <string name="cache_clearing_dialog_title">Brisanje začasnih datotek aplikacij</string>
+    <string name="cache_clearing_in_progress_title">Brisanje začasnih datotek aplikacij …</string>
+    <string name="character_counter_content_description">Število vnesenih znakov je %1$d od %2$d</string>
+    <string name="character_counter_overflowed_content_description">Omejitev števila znakov je presegla %1$d od %2$d</string>
+    <string name="clear">Počisti</string>
+    <string name="clear_text_end_icon_content_description">Izbris besedila</string>
+    <string name="deny">Zavrni</string>
+    <string name="deselect">Počisti izbiro</string>
+    <string name="deselected">Izbor je preklican</string>
+    <string name="error_icon_content_description">Napaka</string>
+    <string name="exo_controls_cc_disabled_description">Omogočanje podnapisov</string>
+    <string name="exo_controls_cc_enabled_description">Onemogočanje podnapisov</string>
+    <string name="exo_controls_fastforward_description">Previjanje naprej</string>
+    <string name="exo_controls_fullscreen_enter_description">Vstop v celozaslonski način</string>
+    <string name="exo_controls_fullscreen_exit_description">Izhod iz celozaslonskega načina</string>
+    <string name="exo_controls_hide">Skrivanje kontrolnikov predvajalnika</string>
+    <string name="exo_controls_next_description">Naprej</string>
+    <string name="exo_controls_overflow_hide_description">Skrivanje dodatnih nastavitev</string>
+    <string name="exo_controls_overflow_show_description">Prikaz dodatnih nastavitev</string>
+    <string name="exo_controls_pause_description">Zaustavitev</string>
+    <string name="exo_controls_play_description">Predvajanje</string>
+    <string name="exo_controls_playback_speed">Hitrost</string>
+    <string name="exo_controls_previous_description">Nazaj</string>
+    <string name="exo_controls_repeat_all_description">Ponavljanje vseh</string>
+    <string name="exo_controls_repeat_off_description">Brez ponavljanja</string>
+    <string name="exo_controls_repeat_one_description">Ponavljanje ene</string>
+    <string name="exo_controls_rewind_description">Previjanje nazaj</string>
+    <string name="exo_controls_seek_bar_description">Potek predvajanja</string>
+    <string name="exo_controls_settings_description">Nastavitve</string>
+    <string name="exo_controls_show">Prikaz kontrolnikov predvajalnika</string>
+    <string name="exo_controls_shuffle_off_description">Naklj. predvajanje izklopljeno</string>
+    <string name="exo_controls_shuffle_on_description">Naklj. predvajanje vklopljeno</string>
+    <string name="exo_controls_stop_description">Ustavitev</string>
+    <string name="exo_controls_vr_description">Način VR</string>
+    <string name="exo_download_completed">Prenos je končan</string>
+    <string name="exo_download_description">Prenos</string>
+    <string name="exo_download_downloading">Prenašanje</string>
+    <string name="exo_download_failed">Prenos ni uspel</string>
+    <string name="exo_download_notification_channel_name">Prenosi</string>
+    <string name="exo_download_paused">Prenosi so začasno zaustavljeni.</string>
+    <string name="exo_download_paused_for_network">Prenosi čakajo na povezavo z omrežjem.</string>
+    <string name="exo_download_paused_for_wifi">Prenosi čakajo na povezavo Wi-Fi.</string>
+    <string name="exo_download_removing">Odstranjevanje prenosov</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mb/s</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Dodatni posnetek</string>
+    <string name="exo_track_role_closed_captions">Podnapisi</string>
+    <string name="exo_track_role_commentary">Komentar</string>
+    <string name="exo_track_role_supplementary">Dodatek</string>
+    <string name="exo_track_selection_auto">Samodejno</string>
+    <string name="exo_track_selection_none">Nič</string>
+    <string name="exo_track_selection_title_audio">Zvočni posnetki</string>
+    <string name="exo_track_selection_title_text">Podnapisi</string>
+    <string name="exo_track_selection_title_video">Videoposnetki</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Prostorski zvok</string>
+    <string name="exo_track_surround_5_point_1">Prostorski zvok 5.1</string>
+    <string name="exo_track_surround_7_point_1">Prostorski zvok 7.1</string>
+    <string name="exo_track_unknown">Neznano</string>
+    <string name="exposed_dropdown_menu_content_description">Prikaz spustnega menija</string>
+    <string name="grant_dialog_button_allow">Dovoli</string>
+    <string name="grant_dialog_button_deny">Zavrni</string>
+    <string name="icon_content_description">Ikona pogovornega okna</string>
+    <string name="item_view_role_description">Zavihek</string>
+    <string name="material_clock_toggle_content_description">Izberite dopoldanski ali popoldanski čas.</string>
+    <string name="material_hour_selection">Izberite uro</string>
+    <string name="material_hour_suffix">%1$s</string>
+    <string name="material_minute_selection">Izberite minute</string>
+    <string name="material_minute_suffix">%1$s min</string>
+    <string name="material_timepicker_am">dop.</string>
+    <string name="material_timepicker_clock_mode_description">Preklopite na način ure, da vnesete čas.</string>
+    <string name="material_timepicker_hour">Ura</string>
+    <string name="material_timepicker_minute">Minuta</string>
+    <string name="material_timepicker_pm">pop.</string>
+    <string name="material_timepicker_select_time">Izberite uro</string>
+    <string name="material_timepicker_text_input_mode_description">Preklopite na način za vnašanje besedila, da vnesete čas.</string>
+    <string name="mtrl_badge_numberless_content_description">Novo obvestilo</string>
+    <string name="mtrl_chip_close_icon_content_description">Odstranite %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Več kot toliko novih obvestil: %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Spremeni na naslednji mesec</string>
+    <string name="mtrl_picker_a11y_prev_month">Spremeni na prejšnji mesec</string>
+    <string name="mtrl_picker_announce_current_selection">Trenutna izbira: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Izberite datum</string>
+    <string name="mtrl_picker_date_header_unselected">Izbrani datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Stolpec dni: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Neveljavna oblika.</string>
+    <string name="mtrl_picker_invalid_format_example">Primer: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Uporabite: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Neveljaven razpon.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Pomik na leto %1$s</string>
+    <string name="mtrl_picker_out_of_range">Zunaj razpona: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Začetni datum–%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s–končni datum</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Izberite obseg</string>
+    <string name="mtrl_picker_range_header_unselected">Začetni datum–končni datum</string>
+    <string name="mtrl_picker_save">Shrani</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Končni datum</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Začetni datum</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">l</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Preklop na način vnosa v koledar</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Dotik za preklop na izbiro dneva</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Preklop na način vnosa besedila</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Dotik za preklop na izbiro leta</string>
+    <string name="not_selected">ni izbrano</string>
+    <string name="password_toggle_content_description">Prikaz gesla</string>
+    <string name="permission_delete_audio">{count,plural, =1{Želite dovoliti aplikaciji ^1, da izbriše to zvočno datoteko?}one{Želite dovoliti aplikaciji ^1, da izbriše ^2 zvočno datoteko?}two{Želite dovoliti aplikaciji ^1, da izbriše ^2 zvočni datoteki?}few{Želite dovoliti aplikaciji ^1, da izbriše ^2 zvočne datoteke?}other{Želite dovoliti aplikaciji ^1, da izbriše ^2 zvočnih datotek?}}</string>
+    <string name="permission_delete_generic">{count,plural, =1{Želite dovoliti aplikaciji ^1, da izbriše ta element?}one{Želite dovoliti aplikaciji ^1, da izbriše ^2 element?}two{Želite dovoliti aplikaciji ^1, da izbriše ^2 elementa?}few{Želite dovoliti aplikaciji ^1, da izbriše ^2 elemente?}other{Želite dovoliti aplikaciji ^1, da izbriše ^2 elementov?}}</string>
+    <string name="permission_delete_image">{count,plural, =1{Želite dovoliti aplikaciji ^1, da izbriše to fotografijo?}one{Želite dovoliti aplikaciji ^1, da izbriše ^2 fotografijo?}two{Želite dovoliti aplikaciji ^1, da izbriše ^2 fotografiji?}few{Želite dovoliti aplikaciji ^1, da izbriše ^2 fotografije?}other{Želite dovoliti aplikaciji ^1, da izbriše ^2 fotografij?}}</string>
+    <string name="permission_delete_video">{count,plural, =1{Želite dovoliti aplikaciji ^1, da izbriše ta videoposnetek?}one{Želite dovoliti aplikaciji ^1, da izbriše ^2 videoposnetek?}two{Želite dovoliti aplikaciji ^1, da izbriše ^2 videoposnetka?}few{Želite dovoliti aplikaciji ^1, da izbriše ^2 videoposnetke?}other{Želite dovoliti aplikaciji ^1, da izbriše ^2 videoposnetkov?}}</string>
+    <string name="permission_more_text">{count,plural, =1{In še ^1 dodaten element}one{In še ^1 dodaten element}two{In še ^1 dodatna elementa}few{In še ^1 dodatni elementi}other{In še ^1 dodatnih elementov}}</string>
+    <string name="permission_more_thumb">{count,plural, =1{+^1}one{+^1}two{+^1}few{+^1}other{+^1}}</string>
+    <string name="permission_progress_delete_audio">{count,plural, =1{Brisanje zvočne datoteke …}one{Brisanje ^1 zvočne datoteke …}two{Brisanje ^1 zvočnih datotek …}few{Brisanje ^1 zvočnih datotek …}other{Brisanje ^1 zvočnih datotek …}}</string>
+    <string name="permission_progress_delete_generic">{count,plural, =1{Brisanje elementa …}one{Brisanje ^1 elementa …}two{Brisanje ^1 elementov …}few{Brisanje ^1 elementov …}other{Brisanje ^1 elementov …}}</string>
+    <string name="permission_progress_delete_image">{count,plural, =1{Brisanje fotografije …}one{Brisanje ^1 fotografije …}two{Brisanje ^1 fotografij …}few{Brisanje ^1 fotografij …}other{Brisanje ^1 fotografij …}}</string>
+    <string name="permission_progress_delete_video">{count,plural, =1{Brisanje videoposnetka …}one{Brisanje ^1 videoposnetka …}two{Brisanje ^1 videoposnetkov …}few{Brisanje ^1 videoposnetkov …}other{Brisanje ^1 videoposnetkov …}}</string>
+    <string name="permission_progress_trash_audio">{count,plural, =1{Premikanje zvočne datoteke v smetnjak …}one{Premikanje ^1 zvočne datoteke v smetnjak …}two{Premikanje ^1 zvočnih datotek v smetnjak …}few{Premikanje ^1 zvočnih datotek v smetnjak …}other{Premikanje ^1 zvočnih datotek v smetnjak …}}</string>
+    <string name="permission_progress_trash_generic">{count,plural, =1{Premikanje elementa v smetnjak …}one{Premikanje ^1 elementa v smetnjak …}two{Premikanje ^1 elementov v smetnjak …}few{Premikanje ^1 elementov v smetnjak …}other{Premikanje ^1 elementov v smetnjak …}}</string>
+    <string name="permission_progress_trash_image">{count,plural, =1{Premikanje fotografije v smetnjak …}one{Premikanje ^1 fotografije v smetnjak …}two{Premikanje ^1 fotografij v smetnjak …}few{Premikanje ^1 fotografij v smetnjak …}other{Premikanje ^1 fotografij v smetnjak …}}</string>
+    <string name="permission_progress_trash_video">{count,plural, =1{Premikanje videoposnetka v smetnjak …}one{Premikanje ^1 videoposnetka v smetnjak …}two{Premikanje ^1 videoposnetkov v smetnjak …}few{Premikanje ^1 videoposnetkov v smetnjak …}other{Premikanje ^1 videoposnetkov v smetnjak …}}</string>
+    <string name="permission_progress_untrash_audio">{count,plural, =1{Premikanje zvočne datoteke iz smetnjaka …}one{Premikanje ^1 zvočne datoteke iz smetnjaka …}two{Premikanje ^1 zvočnih datotek iz smetnjaka …}few{Premikanje ^1 zvočnih datotek iz smetnjaka …}other{Premikanje ^1 zvočnih datotek iz smetnjaka …}}</string>
+    <string name="permission_progress_untrash_generic">{count,plural, =1{Premikanje elementa iz smetnjaka …}one{Premikanje ^1 elementa iz smetnjaka …}two{Premikanje ^1 elementov iz smetnjaka …}few{Premikanje ^1 elementov iz smetnjaka …}other{Premikanje ^1 elementov iz smetnjaka …}}</string>
+    <string name="permission_progress_untrash_image">{count,plural, =1{Premikanje fotografije iz smetnjaka …}one{Premikanje ^1 fotografije iz smetnjaka …}two{Premikanje ^1 fotografij iz smetnjaka …}few{Premikanje ^1 fotografij iz smetnjaka …}other{Premikanje ^1 fotografij iz smetnjaka …}}</string>
+    <string name="permission_progress_untrash_video">{count,plural, =1{Premikanje videoposnetka iz smetnjaka …}one{Premikanje ^1 videoposnetka iz smetnjaka …}two{Premikanje ^1 videoposnetkov iz smetnjaka …}few{Premikanje ^1 videoposnetkov iz smetnjaka …}other{Premikanje ^1 videoposnetkov iz smetnjaka …}}</string>
+    <string name="permission_progress_write_audio">{count,plural, =1{Spreminjanje zvočne datoteke …}one{Spreminjanje ^1 zvočne datoteke …}two{Spreminjanje ^1 zvočnih datotek …}few{Spreminjanje ^1 zvočnih datotek …}other{Spreminjanje ^1 zvočnih datotek …}}</string>
+    <string name="permission_progress_write_generic">{count,plural, =1{Spreminjanje elementa …}one{Spreminjanje ^1 elementa …}two{Spreminjanje ^1 elementov …}few{Spreminjanje ^1 elementov …}other{Spreminjanje ^1 elementov …}}</string>
+    <string name="permission_progress_write_image">{count,plural, =1{Spreminjanje fotografije …}one{Spreminjanje ^1 fotografije …}two{Spreminjanje ^1 fotografij …}few{Spreminjanje ^1 fotografij …}other{Spreminjanje ^1 fotografij …}}</string>
+    <string name="permission_progress_write_video">{count,plural, =1{Spreminjanje videoposnetka …}one{Spreminjanje ^1 videoposnetka …}two{Spreminjanje ^1 videoposnetkov …}few{Spreminjanje ^1 videoposnetkov …}other{Spreminjanje ^1 videoposnetkov …}}</string>
+    <string name="permission_required">Za spreminjanje ali brisanje tega elementa je potrebno dovoljenje.</string>
+    <string name="permission_required_action">Nadaljuj</string>
+    <string name="permission_trash_audio">{count,plural, =1{Želite dovoliti aplikaciji ^1, da premakne to zvočno datoteko v smetnjak?}one{Želite dovoliti aplikaciji ^1, da premakne ^2 zvočno datoteko v smetnjak?}two{Želite dovoliti aplikaciji ^1, da premakne ^2 zvočni datoteki v smetnjak?}few{Želite dovoliti aplikaciji ^1, da premakne ^2 zvočne datoteke v smetnjak?}other{Želite dovoliti aplikaciji ^1, da premakne ^2 zvočnih datotek v smetnjak?}}</string>
+    <string name="permission_trash_generic">{count,plural, =1{Želite dovoliti aplikaciji ^1, da premakne ta element v smetnjak?}one{Želite dovoliti aplikaciji ^1, da premakne ^2 element v smetnjak?}two{Želite dovoliti aplikaciji ^1, da premakne ^2 elementa v smetnjak?}few{Želite dovoliti aplikaciji ^1, da premakne ^2 elemente v smetnjak?}other{Želite dovoliti aplikaciji ^1, da premakne ^2 elementov v smetnjak?}}</string>
+    <string name="permission_trash_image">{count,plural, =1{Želite dovoliti aplikaciji ^1, da premakne to fotografijo v smetnjak?}one{Želite dovoliti aplikaciji ^1, da premakne ^2 fotografijo v smetnjak?}two{Želite dovoliti aplikaciji ^1, da premakne ^2 fotografiji v smetnjak?}few{Želite dovoliti aplikaciji ^1, da premakne ^2 fotografije v smetnjak?}other{Želite dovoliti aplikaciji ^1, da premakne ^2 fotografij v smetnjak?}}</string>
+    <string name="permission_trash_video">{count,plural, =1{Želite dovoliti aplikaciji ^1, da premakne ta videoposnetek v smetnjak?}one{Želite dovoliti aplikaciji ^1, da premakne ^2 videoposnetek v smetnjak?}two{Želite dovoliti aplikaciji ^1, da premakne ^2 videoposnetka v smetnjak?}few{Želite dovoliti aplikaciji ^1, da premakne ^2 videoposnetke v smetnjak?}other{Želite dovoliti aplikaciji ^1, da premakne ^2 videoposnetkov v smetnjak?}}</string>
+    <string name="permission_untrash_audio">{count,plural, =1{Želite dovoliti aplikaciji ^1, da premakne to zvočno datoteko iz smetnjaka?}one{Želite dovoliti aplikaciji ^1, da premakne ^2 zvočno datoteko iz smetnjaka?}two{Želite dovoliti aplikaciji ^1, da premakne ^2 zvočni datoteki iz smetnjaka?}few{Želite dovoliti aplikaciji ^1, da premakne ^2 zvočne datoteke iz smetnjaka?}other{Želite dovoliti aplikaciji ^1, da premakne ^2 zvočnih datotek iz smetnjaka?}}</string>
+    <string name="permission_untrash_generic">{count,plural, =1{Želite dovoliti aplikaciji ^1, da premakne ta element iz smetnjaka?}one{Želite dovoliti aplikaciji ^1, da premakne ^2 element iz smetnjaka?}two{Želite dovoliti aplikaciji ^1, da premakne ^2 elementa iz smetnjaka?}few{Želite dovoliti aplikaciji ^1, da premakne ^2 elemente iz smetnjaka?}other{Želite dovoliti aplikaciji ^1, da premakne ^2 elementov iz smetnjaka?}}</string>
+    <string name="permission_untrash_image">{count,plural, =1{Želite dovoliti aplikaciji ^1, da premakne to fotografijo iz smetnjaka?}one{Želite dovoliti aplikaciji ^1, da premakne ^2 fotografijo iz smetnjaka?}two{Želite dovoliti aplikaciji ^1, da premakne ^2 fotografiji iz smetnjaka?}few{Želite dovoliti aplikaciji ^1, da premakne ^2 fotografije iz smetnjaka?}other{Želite dovoliti aplikaciji ^1, da premakne ^2 fotografij iz smetnjaka?}}</string>
+    <string name="permission_untrash_video">{count,plural, =1{Želite dovoliti aplikaciji ^1, da premakne ta videoposnetek iz smetnjaka?}one{Želite dovoliti aplikaciji ^1, da premakne ^2 videoposnetek iz smetnjaka?}two{Želite dovoliti aplikaciji ^1, da premakne ^2 videoposnetka iz smetnjaka?}few{Želite dovoliti aplikaciji ^1, da premakne ^2 videoposnetke iz smetnjaka?}other{Želite dovoliti aplikaciji ^1, da premakne ^2 videoposnetkov iz smetnjaka?}}</string>
+    <string name="permission_write_audio">{count,plural, =1{Želite dovoliti aplikaciji ^1, da spremeni to zvočno datoteko?}one{Želite dovoliti aplikaciji ^1, da spremeni ^2 zvočno datoteko?}two{Želite dovoliti aplikaciji ^1, da spremeni ^2 zvočni datoteki?}few{Želite dovoliti aplikaciji ^1, da spremeni ^2 zvočne datoteke?}other{Želite dovoliti aplikaciji ^1, da spremeni ^2 zvočnih datotek?}}</string>
+    <string name="permission_write_generic">{count,plural, =1{Želite dovoliti aplikaciji ^1, da spremeni ta element?}one{Želite dovoliti aplikaciji ^1, da spremeni ^2 element?}two{Želite dovoliti aplikaciji ^1, da spremeni ^2 elementa?}few{Želite dovoliti aplikaciji ^1, da spremeni ^2 elemente?}other{Želite dovoliti aplikaciji ^1, da spremeni ^2 elementov?}}</string>
+    <string name="permission_write_image">{count,plural, =1{Želite dovoliti aplikaciji ^1, da spremeni to fotografijo?}one{Želite dovoliti aplikaciji ^1, da spremeni ^2 fotografijo?}two{Želite dovoliti aplikaciji ^1, da spremeni ^2 fotografiji?}few{Želite dovoliti aplikaciji ^1, da spremeni ^2 fotografije?}other{Želite dovoliti aplikaciji ^1, da spremeni ^2 fotografij?}}</string>
+    <string name="permission_write_video">{count,plural, =1{Želite dovoliti aplikaciji ^1, da spremeni ta videoposnetek?}one{Želite dovoliti aplikaciji ^1, da spremeni ^2 videoposnetek?}two{Želite dovoliti aplikaciji ^1, da spremeni ^2 videoposnetka?}few{Želite dovoliti aplikaciji ^1, da spremeni ^2 videoposnetke?}other{Želite dovoliti aplikaciji ^1, da spremeni ^2 videoposnetkov?}}</string>
+    <string name="picker_add_button_multi_select">Dodaj (^1)</string>
+    <string name="picker_album_item_count">{count,plural, =1{^1 element}one{^1 element}two{^1 elementa}few{^1 elementi}other{^1 elementov}}</string>
+    <string name="picker_albums">Albumi</string>
+    <string name="picker_albums_empty_message">Ni albumov.</string>
+    <string name="picker_app_label">Izbirnik fotografij</string>
+    <string name="picker_category_camera">Fotoaparat</string>
+    <string name="picker_category_downloads">Prenosi</string>
+    <string name="picker_category_favorites">Priljubljeno</string>
+    <string name="picker_category_screenshots">Posnetki zaslona</string>
+    <string name="picker_cloud_sync">Predstavnost v oblaku je zdaj na voljo v aplikaciji %1$s.</string>
+    <string name="picker_gif">GIF</string>
+    <string name="picker_item_content_desc">%1$s: posneto %2$s</string>
+    <string name="picker_motion_photo">Fotografija z videom</string>
+    <string name="picker_motion_photo_text">Fotografija z videom</string>
+    <string name="picker_mute_video">Izklopi zvok videa</string>
+    <string name="picker_pause_video">Začasna zaustavitev videoposnetka</string>
+    <string name="picker_personal_profile">Preklop na osebni profil</string>
+    <string name="picker_photo">Fotografija</string>
+    <string name="picker_photos">Fotografije</string>
+    <string name="picker_photos_empty_message">Ni fotografij ali videoposnetkov.</string>
+    <string name="picker_play_video">Predvajanje videoposnetka</string>
+    <string name="picker_preview">Predogled</string>
+    <string name="picker_privacy_message">Ta aplikacija ima dostop samo do fotografij, ki jih izberete.</string>
+    <string name="picker_profile_admin_msg_from_personal">Iz osebne aplikacije ni dovoljeno dostopati do delovnih podatkov.</string>
+    <string name="picker_profile_admin_msg_from_work">Iz delovne aplikacije ni dovoljeno dostopati do osebnih podatkov.</string>
+    <string name="picker_profile_admin_title">Blokiral skrbnik.</string>
+    <string name="picker_profile_work_paused_msg">Če želite odpreti delovne fotografije, vklopite delovne aplikacije in poskusite znova.</string>
+    <string name="picker_profile_work_paused_title">Delovne aplikacije so začasno zaustavljene</string>
+    <string name="picker_unmute_video">Vklopi zvok videa</string>
+    <string name="picker_video_item_content_desc">Videoposnetek posnet dne %1$s, trajanje %2$s</string>
+    <string name="picker_view_selected">Prikaži izbrano</string>
+    <string name="picker_work_profile">Preklop na delovni profil</string>
+    <string name="recent">Nedavno</string>
+    <string name="root_audio">Zvočni posnetki</string>
+    <string name="root_documents">Dokumenti</string>
+    <string name="root_images">Slike</string>
+    <string name="root_videos">Videoposnetki</string>
+    <string name="search_menu_title">Iskanje</string>
+    <string name="select">Izberi</string>
+    <string name="select_up_to">{count,plural, =1{Izberite največ ^1 element}one{Izberite največ ^1 element}two{Izberite največ ^1 elementa}few{Izberite največ ^1 elemente}other{Izberite največ ^1 elementov}}</string>
+    <string name="selected">Izbrano</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_description">Lokalna shramba</string>
+    <string name="transcode_cancel">Prekliči</string>
+    <string name="transcode_denied">%s ne more obdelati predstavnostnih datotek.</string>
+    <string name="transcode_processing">Obdelovanje predstavnosti …</string>
+    <string name="transcode_processing_cancelled">Obdelava predstavnosti je preklicana.</string>
+    <string name="transcode_processing_error">Napaka pri obdelavi predstavnosti</string>
+    <string name="transcode_processing_started">Obdelava predstavnosti se je začela.</string>
+    <string name="transcode_processing_success">Obdelava predstavnosti je uspešno dokončana.</string>
+    <string name="transcode_wait">Počakaj</string>
+    <string name="uid_label">Predstavnost</string>
+    <string name="unknown">Neznano</string>
+</resources>

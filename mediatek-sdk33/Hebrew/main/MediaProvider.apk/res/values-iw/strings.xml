@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ניווט לדף הבית</string>
+    <string name="abc_action_bar_up_description">ניווט למעלה</string>
+    <string name="abc_action_menu_overflow_description">עוד אפשרויות</string>
+    <string name="abc_action_mode_done">סיום</string>
+    <string name="abc_activity_chooser_view_see_all">הצגת הכול</string>
+    <string name="abc_activitychooserview_choose_application">בחירת אפליקציה</string>
+    <string name="abc_capital_off">כבוי</string>
+    <string name="abc_capital_on">מופעל</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+‎</string>
+    <string name="abc_menu_delete_shortcut_label">מחיקה</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">רווח</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">תפריט+</string>
+    <string name="abc_search_hint">חיפוש…</string>
+    <string name="abc_searchview_description_clear">מחיקת השאילתה</string>
+    <string name="abc_searchview_description_query">שאילתת חיפוש</string>
+    <string name="abc_searchview_description_search">חיפוש</string>
+    <string name="abc_searchview_description_submit">שליחת שאילתה</string>
+    <string name="abc_searchview_description_voice">חיפוש קולי</string>
+    <string name="abc_shareactionprovider_share_with">שיתוף עם</string>
+    <string name="abc_shareactionprovider_share_with_application">שיתוף עם %s</string>
+    <string name="abc_toolbar_collapse_description">כיווץ</string>
+    <string name="add">הוספה</string>
+    <string name="allow">אישור</string>
+    <string name="app_label">אחסון מדיה</string>
+    <string name="artist_label">אומן</string>
+    <string name="bottomsheet_action_expand_halfway">הרחבה עד האמצע</string>
+    <string name="cache_clearing_dialog_text">קיבלת בקשה מהאפליקציה %s לניקוי של חלק מהקבצים הזמניים. הפעולה עשויה להגביר את השימוש בסוללה או בחבילת הגלישה.</string>
+    <string name="cache_clearing_dialog_title">ניקוי קובצי אפליקציה זמניים</string>
+    <string name="cache_clearing_in_progress_title">מתבצע ניקוי של קובצי אפליקציה זמניים…</string>
+    <string name="character_counter_content_description">הוזנו %1$d תווים מתוך %2$d</string>
+    <string name="character_counter_overflowed_content_description">מגבלת התווים חורגת ב-%1$d מתוך %2$d</string>
+    <string name="clear">ניקוי</string>
+    <string name="clear_text_end_icon_content_description">מחיקת הטקסט</string>
+    <string name="deny">דחייה</string>
+    <string name="deselect">ביטול הבחירה</string>
+    <string name="deselected">הבחירה בוטלה</string>
+    <string name="error_icon_content_description">שגיאה</string>
+    <string name="exo_controls_cc_disabled_description">הפעלת כתוביות</string>
+    <string name="exo_controls_cc_enabled_description">השבתת כתוביות</string>
+    <string name="exo_controls_fastforward_description">הרצה קדימה</string>
+    <string name="exo_controls_fullscreen_enter_description">כניסה למסך מלא</string>
+    <string name="exo_controls_fullscreen_exit_description">יציאה ממסך מלא</string>
+    <string name="exo_controls_hide">הסתרת פקדי הנגן</string>
+    <string name="exo_controls_next_description">הבא</string>
+    <string name="exo_controls_overflow_hide_description">הסתרת ההגדרות הנוספות</string>
+    <string name="exo_controls_overflow_show_description">הצגת הגדרות נוספות</string>
+    <string name="exo_controls_pause_description">השהיה</string>
+    <string name="exo_controls_play_description">הפעלה</string>
+    <string name="exo_controls_playback_speed">מהירות</string>
+    <string name="exo_controls_previous_description">הקודם</string>
+    <string name="exo_controls_repeat_all_description">חזור על הכול</string>
+    <string name="exo_controls_repeat_off_description">אל תחזור על אף פריט</string>
+    <string name="exo_controls_repeat_one_description">חזור על פריט אחד</string>
+    <string name="exo_controls_rewind_description">הרצה אחורה</string>
+    <string name="exo_controls_seek_bar_description">התקדמות ההפעלה</string>
+    <string name="exo_controls_settings_description">הגדרות</string>
+    <string name="exo_controls_show">הצגת פקדי הנגן</string>
+    <string name="exo_controls_shuffle_off_description">ההשמעה האקראית מושבתת</string>
+    <string name="exo_controls_shuffle_on_description">ההשמעה האקראית מופעלת</string>
+    <string name="exo_controls_stop_description">הפסקה</string>
+    <string name="exo_controls_vr_description">מצב VR</string>
+    <string name="exo_download_completed">ההורדה הושלמה</string>
+    <string name="exo_download_description">הורדה</string>
+    <string name="exo_download_downloading">ההורדה מתבצעת</string>
+    <string name="exo_download_failed">ההורדה לא הושלמה</string>
+    <string name="exo_download_notification_channel_name">הורדות</string>
+    <string name="exo_download_paused">ההורדות הושהו</string>
+    <string name="exo_download_paused_for_network">ההורדות בהמתנה לרשת</string>
+    <string name="exo_download_paused_for_wifi">ההורדות בהמתנה ל-Wi-Fi</string>
+    <string name="exo_download_removing">מסיר הורדות</string>
+    <string name="exo_item_list">%1$s‏, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f מגה סיביות לשנייה</string>
+    <string name="exo_track_mono">מונו</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">חלופי</string>
+    <string name="exo_track_role_closed_captions">כתוביות</string>
+    <string name="exo_track_role_commentary">פרשנות</string>
+    <string name="exo_track_role_supplementary">משלים</string>
+    <string name="exo_track_selection_auto">אוטומטי</string>
+    <string name="exo_track_selection_none">ללא</string>
+    <string name="exo_track_selection_title_audio">אודיו</string>
+    <string name="exo_track_selection_title_text">טקסט</string>
+    <string name="exo_track_selection_title_video">סרטון</string>
+    <string name="exo_track_stereo">סטריאו</string>
+    <string name="exo_track_surround">סראונד</string>
+    <string name="exo_track_surround_5_point_1">סראונד 5.1</string>
+    <string name="exo_track_surround_7_point_1">סראונד 7.1</string>
+    <string name="exo_track_unknown">לא ידוע</string>
+    <string name="exposed_dropdown_menu_content_description">הצגת התפריט הנפתח</string>
+    <string name="grant_dialog_button_allow">כן, זה בסדר</string>
+    <string name="grant_dialog_button_deny">אני לא מרשה</string>
+    <string name="icon_content_description">סמל לתיבת דו-שיח</string>
+    <string name="item_view_role_description">מקש Tab</string>
+    <string name="material_clock_toggle_content_description">יש לבחור ב-AM או ב-PM</string>
+    <string name="material_hour_selection">בחר שעה</string>
+    <string name="material_hour_suffix">השעה %1$s</string>
+    <string name="material_minute_selection">בחר דקות</string>
+    <string name="material_minute_suffix">%1$s דקות</string>
+    <string name="material_timepicker_am">לפנה\"צ</string>
+    <string name="material_timepicker_clock_mode_description">העבר למצב שעון לצורך הזנת השעה</string>
+    <string name="material_timepicker_hour">שעה</string>
+    <string name="material_timepicker_minute">דקה</string>
+    <string name="material_timepicker_pm">אחה\"צ</string>
+    <string name="material_timepicker_select_time">בחר שעה</string>
+    <string name="material_timepicker_text_input_mode_description">העבר למצב קלט טקסט לצורך הזנת השעה</string>
+    <string name="mtrl_badge_numberless_content_description">התראה חדשה</string>
+    <string name="mtrl_chip_close_icon_content_description">הסרה של %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">יותר מ-%1$d התראות חדשות</string>
+    <string name="mtrl_picker_a11y_next_month">מעבר לחודש הבא</string>
+    <string name="mtrl_picker_a11y_prev_month">מעבר לחודש הקודם</string>
+    <string name="mtrl_picker_announce_current_selection">הבחירה הנוכחית: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">יש לבחור תאריך</string>
+    <string name="mtrl_picker_date_header_unselected">התאריך הנבחר</string>
+    <string name="mtrl_picker_day_of_week_column_header">עמודה של ימים: %1$s</string>
+    <string name="mtrl_picker_invalid_format">פורמט לא חוקי.</string>
+    <string name="mtrl_picker_invalid_format_example">דוגמה: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">יש להשתמש בפורמט: %1$s</string>
+    <string name="mtrl_picker_invalid_range">טווח לא חוקי.</string>
+    <string name="mtrl_picker_navigate_to_year_description">ניווט לשנת %1$s</string>
+    <string name="mtrl_picker_out_of_range">מחוץ לטווח: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">תאריך התחלה – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – תאריך סיום</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">יש לבחור טווח</string>
+    <string name="mtrl_picker_range_header_unselected">תאריך התחלה - תאריך סיום</string>
+    <string name="mtrl_picker_save">שמירה</string>
+    <string name="mtrl_picker_text_input_date_hint">תאריך</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">תאריך סיום</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">תאריך התחלה</string>
+    <string name="mtrl_picker_text_input_day_abbr">י</string>
+    <string name="mtrl_picker_text_input_month_abbr">ח</string>
+    <string name="mtrl_picker_text_input_year_abbr">ש</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">החלפה לשיטת קלט של יומן</string>
+    <string name="mtrl_picker_toggle_to_day_selection">יש להקיש כדי להחליף לבחירת יום</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">החלפה לשיטת קלט של טקסט</string>
+    <string name="mtrl_picker_toggle_to_year_selection">יש להקיש כדי להחליף לבחירת שנה</string>
+    <string name="not_selected">לא נבחר</string>
+    <string name="password_toggle_content_description">הצגת סיסמה</string>
+    <string name="permission_delete_audio">{count,plural, =1{לאפשר לאפליקציה ^1 למחוק את קובץ האודיו הזה?}two{לאפשר לאפליקציה ^1 למחוק ^2 קובצי אודיו?}many{לאפשר לאפליקציה ^1 למחוק ^2 קובצי אודיו?}other{לאפשר לאפליקציה ^1 למחוק ^2 קובצי אודיו?}}</string>
+    <string name="permission_delete_generic">{count,plural, =1{לאפשר לאפליקציה ^1 למחוק את הפריט הזה?}two{לאפשר לאפליקציה ^1 למחוק ^2 פריטים?}many{לאפשר לאפליקציה ^1 למחוק ^2 פריטים?}other{לאפשר לאפליקציה ^1 למחוק ^2 פריטים?}}</string>
+    <string name="permission_delete_image">{count,plural, =1{לאפשר לאפליקציה ^1 למחוק את התמונה הזו?}two{לאפשר לאפליקציה ^1 למחוק ^2 תמונות?}many{לאפשר לאפליקציה ^1 למחוק ^2 תמונות?}other{לאפשר לאפליקציה ^1 למחוק ^2 תמונות?}}</string>
+    <string name="permission_delete_video">{count,plural, =1{לאפשר לאפליקציה ^1 למחוק את הסרטון הזה?}two{לאפשר לאפליקציה ^1 למחוק ^2 סרטונים?}many{לאפשר לאפליקציה ^1 למחוק ^2 סרטונים?}other{לאפשר לאפליקציה ^1 למחוק ^2 סרטונים?}}</string>
+    <string name="permission_more_text">{count,plural, =1{ועוד פריט אחד (^1) נוסף}two{ועוד ^1 פריטים נוספים}many{ועוד ^1 פריטים נוספים}other{ועוד ^1 פריטים נוספים}}</string>
+    <string name="permission_more_thumb">{count,plural, =1{עוד פריט אחד (^1)}two{עוד ^1 פריטים}many{עוד ^1 פריטים}other{עוד ^1 פריטים}}</string>
+    <string name="permission_progress_delete_audio">{count,plural, =1{מתבצעת מחיקה של קובץ האודיו…}two{מתבצעת מחיקה של ^1 קובצי אודיו…}many{מתבצעת מחיקה של ^1 קובצי אודיו…}other{מתבצעת מחיקה של ^1 קובצי אודיו…}}</string>
+    <string name="permission_progress_delete_generic">{count,plural, =1{מתבצעת מחיקה של הפריט…}two{מתבצעת מחיקה של ^1 פריטים…}many{מתבצעת מחיקה של ^1 פריטים…}other{מתבצעת מחיקה של ^1 פריטים…}}</string>
+    <string name="permission_progress_delete_image">{count,plural, =1{מתבצעת מחיקה של התמונה…}two{מתבצעת מחיקה של ^1 תמונות…}many{מתבצעת מחיקה של ^1 תמונות…}other{מתבצעת מחיקה של ^1 תמונות…}}</string>
+    <string name="permission_progress_delete_video">{count,plural, =1{מתבצעת מחיקה של הסרטון}two{מתבצעת מחיקה של ^1 סרטונים…}many{מתבצעת מחיקה של ^1 סרטונים…}other{מתבצעת מחיקה של ^1 סרטונים…}}</string>
+    <string name="permission_progress_trash_audio">{count,plural, =1{מתבצעת העברה של קובץ האודיו לאשפה…}two{מתבצעת העברה של ^1 קובצי אודיו לאשפה…}many{מתבצעת העברה של ^1 קובצי אודיו לאשפה…}other{מתבצעת העברה של ^1 קובצי אודיו לאשפה…}}</string>
+    <string name="permission_progress_trash_generic">{count,plural, =1{מתבצעת העברה של הפריט לאשפה…}two{מתבצעת העברה של ^1 פריטים לאשפה…}many{מתבצעת העברה של ^1 פריטים לאשפה…}other{מתבצעת העברה של ^1 פריטים לאשפה…}}</string>
+    <string name="permission_progress_trash_image">{count,plural, =1{מתבצעת העברה של התמונה לאשפה…}two{מתבצעת העברה של ^1 תמונות לאשפה…}many{מתבצעת העברה של ^1 תמונות לאשפה…}other{מתבצעת העברה של ^1 תמונות לאשפה…}}</string>
+    <string name="permission_progress_trash_video">{count,plural, =1{מתבצעת העברה של הסרטון לאשפה…}two{מתבצעת העברה של ^1 סרטונים לאשפה…}many{מתבצעת העברה של ^1 סרטונים לאשפה…}other{מתבצעת העברה של ^1 סרטונים לאשפה…}}</string>
+    <string name="permission_progress_untrash_audio">{count,plural, =1{מתבצעת הוצאה של קובץ האודיו מהאשפה…}two{מתבצעת הוצאה של ^1 קובצי אודיו מהאשפה…}many{מתבצעת הוצאה של ^1 קובצי אודיו מהאשפה…}other{מתבצעת הוצאה של ^1 קובצי אודיו מהאשפה…}}</string>
+    <string name="permission_progress_untrash_generic">{count,plural, =1{מתבצעת הוצאה של הפריט מהאשפה…}two{מתבצעת הוצאה של ^1 פריטים מהאשפה…}many{מתבצעת הוצאה של ^1 פריטים מהאשפה…}other{מתבצעת הוצאה של ^1 פריטים מהאשפה…}}</string>
+    <string name="permission_progress_untrash_image">{count,plural, =1{מתבצעת הוצאה של התמונה מהאשפה…}two{מתבצעת הוצאה של ^1 תמונות מהאשפה…}many{מתבצעת הוצאה של ^1 תמונות מהאשפה…}other{מתבצעת הוצאה של ^1 תמונות מהאשפה…}}</string>
+    <string name="permission_progress_untrash_video">{count,plural, =1{מתבצעת הוצאה של הסרטון מהאשפה…}two{מתבצעת הוצאה של ^1 סרטונים מהאשפה…}many{מתבצעת הוצאה של ^1 סרטונים מהאשפה…}other{מתבצעת הוצאה של ^1 סרטונים מהאשפה…}}</string>
+    <string name="permission_progress_write_audio">{count,plural, =1{מתבצע שינוי בקובץ האודיו…}two{מתבצע שינוי ב-^1 קובצי אודיו…}many{מתבצע שינוי ב-^1 קובצי אודיו…}other{מתבצע שינוי ב-^1 קובצי אודיו…}}</string>
+    <string name="permission_progress_write_generic">{count,plural, =1{מתבצע שינוי בפריט…}two{מתבצע שינוי ב-^1 פריטים…}many{מתבצע שינוי ב-^1 פריטים…}other{מתבצע שינוי ב-^1 פריטים…}}</string>
+    <string name="permission_progress_write_image">{count,plural, =1{מתבצע שינוי בתמונה…}two{מתבצע שינוי ב-^1 תמונות…}many{מתבצע שינוי ב-^1 תמונות…}other{מתבצע שינוי ב-^1 תמונות…}}</string>
+    <string name="permission_progress_write_video">{count,plural, =1{מתבצע שינוי בסרטון…}two{מתבצע שינוי ב-^1 סרטונים…}many{מתבצע שינוי ב-^1 סרטונים…}other{מתבצע שינוי ב-^1 סרטונים…}}</string>
+    <string name="permission_required">נדרשת הרשאה כדי לשנות או למחוק את הפריט הזה.</string>
+    <string name="permission_required_action">המשך</string>
+    <string name="permission_trash_audio">{count,plural, =1{לאפשר לאפליקציה ^1 להעביר את קובץ האודיו הזה לאשפה?}two{לאפשר לאפליקציה ^1 להעביר ^2 קובצי אודיו לאשפה?}many{לאפשר לאפליקציה ^1 להעביר ^2 קובצי אודיו לאשפה?}other{לאפשר לאפליקציה ^1 להעביר ^2 קובצי אודיו לאשפה?}}</string>
+    <string name="permission_trash_generic">{count,plural, =1{לאפשר לאפליקציה ^1 להעביר את הפריט הזה לאשפה?}two{לאפשר לאפליקציה ^1 להעביר ^2 פריטים לאשפה?}many{לאפשר לאפליקציה ^1 להעביר ^2 פריטים לאשפה?}other{לאפשר לאפליקציה ^1 להעביר ^2 פריטים לאשפה?}}</string>
+    <string name="permission_trash_image">{count,plural, =1{לאפשר לאפליקציה ^1 להעביר את התמונה הזו לאשפה?}two{לאפשר לאפליקציה ^1 להעביר ^2 תמונות לאשפה?}many{לאפשר לאפליקציה ^1 להעביר ^2 תמונות לאשפה?}other{לאפשר לאפליקציה ^1 להעביר ^2 תמונות לאשפה?}}</string>
+    <string name="permission_trash_video">{count,plural, =1{לאפשר לאפליקציה ^1 להעביר את הסרטון הזה לאשפה?}two{לאפשר לאפליקציה ^1 להעביר ^2 סרטונים לאשפה?}many{לאפשר לאפליקציה ^1 להעביר ^2 סרטונים לאשפה?}other{לאפשר לאפליקציה ^1 להעביר ^2 סרטונים לאשפה?}}</string>
+    <string name="permission_untrash_audio">{count,plural, =1{לאפשר לאפליקציה ^1 להוציא את קובץ האודיו הזה מהאשפה?}two{לאפשר לאפליקציה ^1 להוציא ^2 קובצי אודיו מהאשפה?}many{לאפשר לאפליקציה ^1 להוציא ^2 קובצי אודיו מהאשפה?}other{לאפשר לאפליקציה ^1 להוציא ^2 קובצי אודיו מהאשפה?}}</string>
+    <string name="permission_untrash_generic">{count,plural, =1{לאפשר לאפליקציה ^1 להוציא את הפריט הזה מהאשפה?}two{לאפשר לאפליקציה ^1 להוציא ^2 פריטים מהאשפה?}many{לאפשר לאפליקציה ^1 להוציא ^2 פריטים מהאשפה?}other{לאפשר לאפליקציה ^1 להוציא ^2 פריטים מהאשפה?}}</string>
+    <string name="permission_untrash_image">{count,plural, =1{לאפשר לאפליקציה ^1 להוציא את התמונה הזו מהאשפה?}two{לאפשר לאפליקציה ^1 להוציא ^2 תמונות מהאשפה?}many{לאפשר לאפליקציה ^1 להוציא ^2 תמונות מהאשפה?}other{לאפשר לאפליקציה ^1 להוציא ^2 תמונות מהאשפה?}}</string>
+    <string name="permission_untrash_video">{count,plural, =1{לאפשר לאפליקציה ^1 להוציא את הסרטון הזה מהאשפה?}two{לאפשר לאפליקציה ^1 להוציא ^2 סרטונים מהאשפה?}many{לאפשר לאפליקציה ^1 להוציא ^2 סרטונים מהאשפה?}other{לאפשר לאפליקציה ^1 להוציא ^2 סרטונים מהאשפה?}}</string>
+    <string name="permission_write_audio">{count,plural, =1{לאפשר לאפליקציה ^1 לשנות את קובץ האודיו הזה?}two{לאפשר לאפליקציה ^1 לשנות ^2 קובצי אודיו?}many{לאפשר לאפליקציה ^1 לשנות ^2 קובצי אודיו?}other{לאפשר לאפליקציה ^1 לשנות ^2 קובצי אודיו?}}</string>
+    <string name="permission_write_generic">{count,plural, =1{לאפשר לאפליקציה ^1 לשנות את הפריט הזה?}two{לאפשר לאפליקציה ^1 לשנות ^2 פריטים?}many{לאפשר לאפליקציה ^1 לשנות ^2 פריטים?}other{לאפשר לאפליקציה ^1 לשנות ^2 פריטים?}}</string>
+    <string name="permission_write_image">{count,plural, =1{לאפשר לאפליקציה ^1 לשנות את התמונה הזו?}two{לאפשר לאפליקציה ^1 לשנות ^2 תמונות?}many{לאפשר לאפליקציה ^1 לשנות ^2 תמונות?}other{לאפשר לאפליקציה ^1 לשנות ^2 תמונות?}}</string>
+    <string name="permission_write_video">{count,plural, =1{לאפשר לאפליקציה ^1 לשנות את הסרטון הזה?}two{לאפשר לאפליקציה ^1 לשנות ^2 סרטונים?}many{לאפשר לאפליקציה ^1 לשנות ^2 סרטונים?}other{לאפשר לאפליקציה ^1 לשנות ^2 סרטונים?}}</string>
+    <string name="picker_add_button_multi_select">הוספה (^1)</string>
+    <string name="picker_album_item_count">{count,plural, =1{פריט אחד (^1)}two{^1 פריטים}many{^1 פריטים}other{^1 פריטים}}</string>
+    <string name="picker_albums">אלבומים</string>
+    <string name="picker_albums_empty_message">אין אלבומים</string>
+    <string name="picker_app_label">בורר התמונות</string>
+    <string name="picker_category_camera">מצלמה</string>
+    <string name="picker_category_downloads">הורדות</string>
+    <string name="picker_category_favorites">מועדפים</string>
+    <string name="picker_category_screenshots">צילומי מסך</string>
+    <string name="picker_cloud_sync">מדיה בענן מתוך %1$s זמינה עכשיו</string>
+    <string name="picker_gif">GIF</string>
+    <string name="picker_item_content_desc">הפריט %1$s צולם ב-%2$s</string>
+    <string name="picker_motion_photo">תמונה עם תנועה</string>
+    <string name="picker_motion_photo_text">תמונה עם תנועה</string>
+    <string name="picker_mute_video">השתקת הסרטון</string>
+    <string name="picker_pause_video">השהיית הסרטון</string>
+    <string name="picker_personal_profile">לפרופיל האישי</string>
+    <string name="picker_photo">תמונה</string>
+    <string name="picker_photos">תמונות</string>
+    <string name="picker_photos_empty_message">אין תמונות או סרטונים</string>
+    <string name="picker_play_video">הפעלת הסרטון</string>
+    <string name="picker_preview">תצוגה מקדימה</string>
+    <string name="picker_privacy_message">לאפליקציה הזו יש גישה רק לתמונות שבחרת</string>
+    <string name="picker_profile_admin_msg_from_personal">אי אפשר לגשת לנתוני עבודה דרך אפליקציה לשימוש אישי</string>
+    <string name="picker_profile_admin_msg_from_work">אי אפשר לגשת למידע אישי דרך אפליקציה לעבודה</string>
+    <string name="picker_profile_admin_title">הפעולה נחסמה על ידי מנהל המערכת</string>
+    <string name="picker_profile_work_paused_msg">כדי לפתוח תמונות מפרופיל העבודה, צריך להפעיל את האפליקציות לעבודה ולנסות שוב</string>
+    <string name="picker_profile_work_paused_title">האפליקציות לעבודה מושהות</string>
+    <string name="picker_unmute_video">ביטול ההשתקה של הסרטון</string>
+    <string name="picker_video_item_content_desc">הסרטון צולם בשעה %1$s והמשך שלו הוא %2$s</string>
+    <string name="picker_view_selected">הצגת הפריטים שנבחרו</string>
+    <string name="picker_work_profile">לפרופיל העבודה</string>
+    <string name="recent">אחרונות</string>
+    <string name="root_audio">אודיו</string>
+    <string name="root_documents">מסמכים</string>
+    <string name="root_images">תמונות</string>
+    <string name="root_videos">סרטונים</string>
+    <string name="search_menu_title">חיפוש</string>
+    <string name="select">בחירה</string>
+    <string name="select_up_to">{count,plural, =1{ניתן לבחור פריט אחד (^1) לכל היותר}two{ניתן לבחור ^1 פריטים לכל היותר}many{ניתן לבחור ^1 פריטים לכל היותר}other{ניתן לבחור ^1 פריטים לכל היותר}}</string>
+    <string name="selected">נבחר</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_description">אחסון מקומי</string>
+    <string name="transcode_cancel">ביטול</string>
+    <string name="transcode_denied">האפליקציה %s לא יכולה לעבד קובצי מדיה</string>
+    <string name="transcode_processing">המדיה בעיבוד…</string>
+    <string name="transcode_processing_cancelled">עיבוד המדיה בוטל</string>
+    <string name="transcode_processing_error">שגיאה בעיבוד המדיה</string>
+    <string name="transcode_processing_started">עיבוד המדיה החל</string>
+    <string name="transcode_processing_success">עיבוד המדיה הסתיים בהצלחה</string>
+    <string name="transcode_wait">המתנה</string>
+    <string name="uid_label">מדיה</string>
+    <string name="unknown">לא ידוע</string>
+</resources>
