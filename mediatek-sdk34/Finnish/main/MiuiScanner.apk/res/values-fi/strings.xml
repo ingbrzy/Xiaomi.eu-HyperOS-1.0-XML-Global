@@ -45,6 +45,7 @@
     <string name="app_name">Skanneri</string>
     <string name="app_remove_icon_description_content">Skanneri on järjestelmäsovellus. Voit silti löytää sen Asetuksista tai skannata koodeja kameran, selaimen ja Mi-lompakon avulla, kun olet poistanut aloitusnäytön pikavalinnan.</string>
     <string name="app_remove_icon_description_title">Poistetaanko Skanneri aloitusnäytöltä?</string>
+    <string name="auracast_code_title_key">Kuuntele %sn lähetys</string>
     <string name="back">Takaisin</string>
     <string name="barcode_into_rectangle">Aseta koodi kehyksen sisälle</string>
     <string name="birthday">Syntymäpäivä:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Käyttöoikeudet</string>
     <string name="phone">Puhelin:</string>
     <string name="place_barcode_into_rectangle">Aseta koodi kehyksen sisälle</string>
+    <string name="please_enable_bluetooth_retry">Ota Bluetooth käyttöön ja yritä uudelleen</string>
     <string name="pm">ip.</string>
     <string name="preference_copied">%1$s kopioitiin leikepöydälle.</string>
     <string name="preparing_sd">Valmistellaan sisäistä tallennustilaa…</string>

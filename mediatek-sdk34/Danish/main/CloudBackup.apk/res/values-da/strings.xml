@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Ikke nok cloud-lagerplads til at tage backup af WeChat-data. Opgradér din lagerplan for at tage backup af elementer.</string>
     <string name="backup_action_no_space_with_wechat_on_title">Kunne ikke tage backup af WeChat-data</string>
     <string name="backup_action_retry_now">Prøv igen</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">Cloud-sikkerhedskopi indsamler listen over apps, der er installeret på din enhed, og gemmer disse oplysninger på vores servere. Vi gemmer disse data, så du kan downloade og gendanne dem, når det er nødvendigt. Hvis du accepterer vores indsamling af disse oplysninger, skal du trykke på \"Tillad\" nedenfor.</string>
     <string name="backup_failed_reason_app_data_error">Kunne ikke tage backup af WeChat-data</string>
     <string name="backup_failed_reason_app_usage_denied">Giv de påkrævede tilladelser til at sikkerhedskopiere elementer</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Ikke nok cloudlager tilbage til at gemme denne sikkerhedskopi. Opgradér dit abonnement eller frigør cloudlagerplads.</string>
@@ -155,8 +156,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">Administrer sikkerhedskopier</string>
     <string name="cloud_backup_detail_no_time">Ingen backups endnu</string>
     <string name="cloud_backup_detail_state">Automatiske sikkerhedskopieringer</string>
-    <string name="cloud_backup_detail_state_summary">Opret Xiaomi Cloud-sikkerhedskopier automatisk, når du har forbindelse til Wi-Fi.</string>
-    <string name="cloud_backup_detail_state_summary_china">Kræver tilslutning til WLAN og strøm ≥%s, og skærmen skal være låst</string>
+    <string name="cloud_backup_detail_state_summary">Kræver tilslutning til Wi-fi, batteristrøm på mindst %s, og at skærmen er slukket</string>
+    <string name="cloud_backup_detail_state_summary_china">Kræver tilslutning til WLAN, batteristrøm på mindst %s, og at skærmen er slukket</string>
     <string name="cloud_backup_detail_time">Sidste sikkerhedskopiering: %1$s</string>
     <string name="cloud_backup_detail_title">Tag backup af elementer</string>
     <string name="cloud_backup_get_installed_apps_summary">Til sikkerhedskopiering og gendannelse af apps på startskærmen</string>
@@ -354,6 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">Slet</string>
     <string name="miuix_appcompat_deselect_all">Fravælg alt</string>
     <string name="miuix_appcompat_deselect_all_description">Fravælg alt</string>
+    <string name="miuix_appcompat_edit">Redigér</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuller</string>
     <string name="miuix_appcompat_search_input_description">Søg</string>
     <string name="miuix_appcompat_select_all">Vælg alle</string>

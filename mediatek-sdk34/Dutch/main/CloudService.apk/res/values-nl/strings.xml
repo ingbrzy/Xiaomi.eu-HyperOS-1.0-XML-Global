@@ -4,7 +4,7 @@
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
     <string name="abc_action_mode_done">Klaar</string>
-    <string name="abc_activity_chooser_view_see_all">Alles tonen</string>
+    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
     <string name="abc_capital_on">AAN</string>
@@ -46,6 +46,7 @@
     <string name="am">AM</string>
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">Ongeldige gebruikersnaam of wachtwoord</string>
+    <string name="browser_sync_settings_preference">Automatisch synchroniseren</string>
     <string name="btn_return">Vorige</string>
     <string name="btn_revoke_permission">Toestemming intrekken</string>
     <string name="button_agree">Akkoord</string>
@@ -259,6 +260,7 @@
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
     <string name="gallery_auto_sync_fail_noti_content">"Er is niet genoeg opslagruimte meer in de cloud. Upgrade uw opslagabonnement om foto's en video's te synchroniseren."</string>
+    <string name="gallery_auto_sync_fail_noti_content_lite">"Cloud opslag is onvoldoende. Kan foto's niet opslaan."</string>
     <string name="gallery_data_transfer_ddl">Deadline: %s</string>
     <string name="gallery_data_transfer_summary">"Galerij-items kunnen niet langer worden gesynchroniseerd met Xiaomi Cloud. We raden u aan foto's en video's die u met de cloud heeft gesynchroniseerd, over te zetten naar Google Photos en hun services te gebruiken om een back-up van uw items te maken."</string>
     <string name="gallery_data_transfer_title">"Overzetten van gesynchroniseerde foto's en video's naar Google Photos"</string>
@@ -466,7 +468,7 @@
     <string name="micloud_notif_content_sync_with_off">Raak aan om uw apparaat nu te synchroniseren.</string>
     <string name="micloud_notif_title_battery_low">Kan niet synchroniseren met Xiaomi Cloud</string>
     <string name="micloud_notif_title_dirty_data">U heeft niet gesynchroniseerde items</string>
-    <string name="micloud_notif_title_master_depend_wifi">Synchronisatie is onderbroken terwijl u mobiele gegevens gebruikt</string>
+    <string name="micloud_notif_title_master_depend_wifi">Synchronisatie is onderbroken terwijl u mobiele data gebruikt</string>
     <string name="micloud_notif_title_memory_low">Kan niet synchroniseren met Xiaomi Cloud</string>
     <string name="micloud_notif_title_multi_user_error">Kan niet synchroniseren met Xiaomi Cloud</string>
     <string name="micloud_notif_title_privacy_reopen_failed">Kon Xiaomi Cloud services niet inschakelen</string>
@@ -560,6 +562,7 @@ Zorg ervoor dat u het bijbehorende Xiaomi Account gebruikt als uw systeemaccount
     <string name="miuix_appcompat_delete_description">Verwijderen</string>
     <string name="miuix_appcompat_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
+    <string name="miuix_appcompat_edit">Bewerken</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
     <string name="miuix_appcompat_search_input_description">Zoeken</string>
     <string name="miuix_appcompat_select_all">Alles selecteren</string>
@@ -645,7 +648,7 @@ Zorg ervoor dat u het bijbehorende Xiaomi Account gebruikt als uw systeemaccount
     <string name="picker_search_hint">Zoeken</string>
     <string name="pm">PM</string>
     <string name="power_off_locate_summary">"Rapporteer locatie info door lang op de Aan/uit-knop te drukken.
-Locatie info worden mogelijk niet gerapporteerd wanneer de netwerkverbinding slecht is."</string>
+Locatie info wordt mogelijk niet gerapporteerd wanneer de netwerkverbinding slecht is."</string>
     <string name="power_off_locate_title">Rapporteer de locatie voordat u het apparaat uitschakelt</string>
     <string name="pre_privacy_policy">Privacybeleid</string>
     <string name="pre_user_agreement">Gebruikersovereenkomst</string>
@@ -657,10 +660,10 @@ Locatie info worden mogelijk niet gerapporteerd wanneer de netwerkverbinding sle
     <string name="privacy_and_agreement">Algemene voorwaarden</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">Welkom bij Apparaat zoeken! U kunt deze service gebruiken om gegevens op uw apparaat te lokaliseren, te vergrendelen of te wissen als deze verloren zijn.</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">Welkom bij Apparaat zoeken! U kunt deze service gebruiken om gegevens op uw apparaat te lokaliseren, te vergrendelen of te wissen als deze verloren zijn.</string>
-    <string name="privacy_dialog_sync_all_purpose_china">"Welkom bij Xiaomi Cloud services! U kunt Xiaomi Cloud gebruiken om uw berichten, oproepgeschiedenis, contacten, notities, Browserinstellingen, foto's en video's, WLAN-instellingen, opnames, Startscherm lay-out, apps, kalendergebeurtenissen, Blokkeerlijst-items en App-kluis te synchroniseren voor alle verbonden apparaten."</string>
-    <string name="privacy_dialog_sync_all_purpose_china_v2">"Welkom bij Xiaomi Cloud services! U kunt Xiaomi Cloud gebruiken om uw berichten, oproepgeschiedenis, contacten, notities, Browserinstellingen, foto's en video's, WLAN-instellingen, opnames, Startscherm lay-out, apps, kalendergebeurtenissen, Blokkeerlijst-items en App-kluis te synchroniseren voor alle verbonden apparaten."</string>
-    <string name="privacy_dialog_sync_all_purpose_pad">"Welkom bij Xiaomi Cloud services! U kunt Xiaomi Cloud gebruiken om uw berichten, contacten, notities, Browserinstellingen, foto's en video's, opnames, kalendergebeurtenissen en Blokkeerlijst-items op alle verbonden apparaten te synchroniseren."</string>
-    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">"Welkom bij Xiaomi Cloud services! U kunt Xiaomi Cloud gebruiken om uw berichten, notities, Browserinstellingen, foto's en video's, opnames, kalendergebeurtenissen en Blokkeerlijst-items op alle verbonden apparaten te synchroniseren."</string>
+    <string name="privacy_dialog_sync_all_purpose_china">"Welkom bij Xiaomi Cloud services! U kunt Xiaomi Cloud gebruiken om uw berichten, contacten, notities, Browserinstellingen, foto's en video's, WLAN-instellingen, opnames, Startscherm lay-out, apps, kalendergebeurtenissen, Blokkeerlijst-items, belgeschiedenis en App-kluis te synchroniseren voor alle verbonden apparaten."</string>
+    <string name="privacy_dialog_sync_all_purpose_china_v2">"Welkom bij Xiaomi Cloud services! U kunt Xiaomi Cloud gebruiken om uw berichten, contacten, notities, Browserinstellingen, foto's en video's, WLAN-instellingen, opnames, Startscherm lay-out, apps, kalendergebeurtenissen, Blokkeerlijst-items, belgeschiedenis en App-kluis te synchroniseren voor alle verbonden apparaten."</string>
+    <string name="privacy_dialog_sync_all_purpose_pad">Welkom bij Xiaomi Cloud services! U kunt deze app gebruiken om uw berichten, contacten, notities, Browseritems, cloud albums, muziek, kalender, blokkeerlijst en belgeschiedenis naar de cloud te synchroniseren.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Welkom bij Xiaomi Cloud services! U kunt deze app gebruiken om uw berichten, notities, Browseritems, cloud albums, muziek, kalender, blokkeerlijst en belgeschiedenis naar de cloud te synchroniseren.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">"Welkom bij Xiaomi Cloud services! U kunt Xiaomi Cloud gebruiken om uw contacten, notities, Browserinstellingen, foto's en video's, opnames, kalendergebeurtenissen en Blokkeerlijst-items op alle verbonden apparaten te synchroniseren."</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">"Welkom bij Xiaomi Cloud services! U kunt Xiaomi Cloud gebruiken om uw notities, Browserinstellingen, foto's en video's, opnames, kalendergebeurtenissen en Blokkeerlijst-items op alle verbonden apparaten te synchroniseren."</string>
     <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images and videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
@@ -716,7 +719,7 @@ Locatie info worden mogelijk niet gerapporteerd wanneer de netwerkverbinding sle
     <string name="retain_data_high_quality_photo_waring_message">"Kopieën van hoge kwaliteit van uw foto's en video's worden verwijderd uit Galerij nadat u zich heeft uitgelogd. Overeenkomstige originele bestanden worden nog steeds in de cloud opgeslagen. U kunt ook originele bestanden downloaden voordat u zich afmeldt."</string>
     <string name="retain_data_high_quality_photo_waring_title">Afbeeldingen van hoge kwaliteit zijn niet beschikbaar</string>
     <string name="revoke_block_by_find_device">Als u toestemming intrekt, wordt ook Apparaat zoeken uitgeschakeld. U moet uw wachtwoord verifiëren nadat u doorgaat.</string>
-    <string name="revoke_permission_content">U kunt Apparaat zoeken niet blijven gebruiken als u de Ttestemmingen intrekt. Apparaat zoeken zal ook worden uitgeschakeld. U wordt gevraagd uw wachtwoord te verifiëren voordat u het intrekt.</string>
+    <string name="revoke_permission_content">U kunt Apparaat zoeken niet blijven gebruiken als u de Toestemmingen intrekt. Apparaat zoeken zal ook worden uitgeschakeld. U wordt gevraagd uw wachtwoord te verifiëren voordat u het intrekt.</string>
     <string name="revoke_permission_title">Let op</string>
     <string name="revoke_privacy_agreement_msg">Als u doorgaat, trekt u uw toestemming voor het Privacybeleid van Xiaomi Cloud in. De persoonlijke informatie die al is verzameld en bewaard, wordt binnen de specifieke periode verwijderd in overeenstemming met de toepasselijke wet- en regelgeving, tenzij anders vereist. Aangezien Xiaomi Cloud zijn diensten levert op basis van het verzamelen van de benodigde persoonlijke informatie, wordt uw intrekking van toestemming beschouwd als een weigering om Xiaomi Cloud diensten te accepteren. Toestemming nu intrekken?</string>
     <string name="revoke_privacy_confirm">Intrekken</string>
@@ -944,7 +947,7 @@ Locatie info worden mogelijk niet gerapporteerd wanneer de netwerkverbinding sle
     <string name="update_dialog_no_internet_toast_text">Controleer uw internetverbinding en probeer het opnieuw</string>
     <string name="update_dialog_no_update_toast_text">De huidige versie is up-to-date</string>
     <string name="update_dialog_title">Update beschikbaar</string>
-    <string name="update_dialog_update_button_text">Bijwerken</string>
+    <string name="update_dialog_update_button_text">Installeren</string>
     <string name="upgrade_member_storage">Xiaomi Cloud lidmaatschap</string>
     <string name="user_agreement_content">Door deze service te gebruiken, gaat u akkoord met %s.</string>
     <string name="user_agreement_link">"Xiaomi Cloud's Servicevoorwaarden"</string>

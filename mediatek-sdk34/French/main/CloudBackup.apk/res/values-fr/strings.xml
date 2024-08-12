@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Espace de stockage cloud insuffisant pour sauvegarder les données WeChat. Mettez à niveau votre plan de stockage pour sauvegarder des éléments.</string>
     <string name="backup_action_no_space_with_wechat_on_title">Impossible de sauvegarder les données WeChat</string>
     <string name="backup_action_retry_now">Réessayer</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">La sauvegarde dans le cloud recueillera la liste des applications installées sur votre appareil et stockera ces informations sur nos serveurs. Nous stockons ces données afin que vous puissiez les télécharger et les restaurer si nécessaire. Si vous acceptez notre collecte de ces informations, appuyez sur \"Autoriser\" ci-dessous.</string>
     <string name="backup_failed_reason_app_data_error">Impossible de sauvegarder les données WeChat</string>
     <string name="backup_failed_reason_app_usage_denied">Accordez les autorisations requises pour sauvegarder les éléments</string>
     <string name="backup_failed_reason_cloud_space_not_enough">"Il ne reste pas assez de stockage cloud pour enregistrer cette sauvegarde. Mettez à niveau votre plan ou libérez de l'espace de stockage cloud."</string>
@@ -155,8 +156,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">Gérer les sauvegardes</string>
     <string name="cloud_backup_detail_no_time">"Aucune sauvegarde pour l'instant"</string>
     <string name="cloud_backup_detail_state">Sauvegardes automatiques</string>
-    <string name="cloud_backup_detail_state_summary">Créez automatiquement les mises à jour Xiaomi Cloud une fois connecté au Wi-Fi.</string>
-    <string name="cloud_backup_detail_state_summary_china">Nécessite une connexion au réseau WLAN, une alimentation de %s et un écran verrouillé</string>
+    <string name="cloud_backup_detail_state_summary">"Nécessite une connexion Wi-Fi, une alimentation par batterie d'au moins %s et l'écran éteint"</string>
+    <string name="cloud_backup_detail_state_summary_china">"Nécessite une connexion WLAN, une alimentation par batterie d'au moins %s et l'écran éteint"</string>
     <string name="cloud_backup_detail_time">Dernière sauvegarde : %1$s</string>
     <string name="cloud_backup_detail_title">Sauvegarder des éléments</string>
     <string name="cloud_backup_get_installed_apps_summary">"Pour la sauvegarde et restauration des applications de l'Écran d'accueil"</string>
@@ -354,6 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">Supprimer</string>
     <string name="miuix_appcompat_deselect_all">Tout désélectionner</string>
     <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
+    <string name="miuix_appcompat_edit">Modifier</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
     <string name="miuix_appcompat_search_input_description">Rechercher</string>
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
@@ -498,7 +500,7 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="restore_header_title">Taille de la sauvegarde </string>
     <string name="restore_header_title2">Appareils</string>
     <string name="restore_header_title_backup_time">Heure</string>
-    <string name="restore_home_screen_apps">Retaurer les éléments</string>
+    <string name="restore_home_screen_apps">Restaurer les éléments</string>
     <string name="restore_home_screen_apps_options">Restaurer les données</string>
     <string name="restore_network_pause">En pause pour enregistrer les données mobiles. Appuyez pour reprendre.</string>
     <string name="restore_network_unconnect">%s (En attente de connexion)</string>

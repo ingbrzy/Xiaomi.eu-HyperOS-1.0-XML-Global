@@ -49,7 +49,7 @@
         <item quantity="other">ဓါတ်ပုံ %d ပုံ</item>
     </plurals>
     <plurals name="dirty_mms_count">
-        <item quantity="other">မက်ဆေ့ချ် %d စောင်</item>
+        <item quantity="other">မက်ဆေ့(ချ်) %d စောင်</item>
     </plurals>
     <plurals name="dirty_note_count">
         <item quantity="other">မှတ်စု %d ခု</item>
@@ -128,6 +128,9 @@
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
+    </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">အကြောင်းအရာ %s ခုအတွက် ဆင့်(ခ်)မဖွင့်ထားပါ</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s ဝန်ဆောင်မှုများကို Xiaomi ကလောက်နှင့် ဆင့်(ခ်)လုပ်ပါမည်</item>

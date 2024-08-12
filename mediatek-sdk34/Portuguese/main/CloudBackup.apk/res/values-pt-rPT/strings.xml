@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Não há espaço suficiente na nuvem para copiar os dados da WeChat. Atualize o seu plano de armazenamento para copiar itens.</string>
     <string name="backup_action_no_space_with_wechat_on_title">Não foi possível fazer a cópia dos dados da WeChat</string>
     <string name="backup_action_retry_now">Tentar novamente</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">A cópia de segurança na nuvem recolherá a lista de aplicações instaladas no seu dispositivo e armazenará esta informação nos nossos servidores. Nós armazenamos estes dados para que possa transferi-las e reataurá-las sempre que necessário. Se concorda com a nossa recolha desta informação, toque em \"Permitir\" abaixo.</string>
     <string name="backup_failed_reason_app_data_error">Não foi possível fazer a cópia dos dados da WeChat</string>
     <string name="backup_failed_reason_app_usage_denied">Conceda as permissões requeridas para a cópia dos itens</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Não há espaço de armazenamento suficiente na nuvem para guardar esta cópia de segurança. Faça o upgrade do seu plano ou liberte espaço no armazenamento da nuvem.</string>
@@ -155,8 +156,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">Gerir cópias</string>
     <string name="cloud_backup_detail_no_time">Sem cópias ainda</string>
     <string name="cloud_backup_detail_state">Cópias de segurança automáticas</string>
-    <string name="cloud_backup_detail_state_summary">Criar cópias de segurança na Xiaomi Cloud automaticamente quando estiver ligado ao Wi-Fi.</string>
-    <string name="cloud_backup_detail_state_summary_china">Requer uma ligação Wi-Fi, ≥%s de bateria e ecrã bloqueado</string>
+    <string name="cloud_backup_detail_state_summary">Requer ligação Wi-Fi, bateria com no mínimo %s e o ecrã desligado</string>
+    <string name="cloud_backup_detail_state_summary_china">Requer ligação Wi-Fi, bateria com no mínimo %s e o ecrã desligado</string>
     <string name="cloud_backup_detail_time">Última cópia: %1$s</string>
     <string name="cloud_backup_detail_title">Cópia de segurança de itens</string>
     <string name="cloud_backup_get_installed_apps_summary">Para fazer a cópia de segurança e restaurar aplicações do Ecrã inicial</string>
@@ -354,6 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">Eliminar</string>
     <string name="miuix_appcompat_deselect_all">Desmarcar tudo</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar tudo</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
     <string name="miuix_appcompat_select_all">Selecionar tudo</string>

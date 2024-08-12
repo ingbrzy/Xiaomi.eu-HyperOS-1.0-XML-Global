@@ -288,6 +288,9 @@
     <string name="incompatible_dialog_message">ဤသင်း(မ်)သည် သင့်စက်၏ စနစ်ဗားရှင်းနှင့် မကိုက်ညီပါ။ ဤသင်း(မ်)ကိုသုံးလျှင် စနစ်အင်္ဂါရပ်အချို့ ကောင်းစွာအလုပ်မလုပ်ခြင်း ဖြစ်နိုင်သည်။</string>
     <string name="incompatible_dialog_ok">နားလည်ပါပြီ</string>
     <string name="incompatible_dialog_title">ယှဉ်တွဲနိုင်မှု ကိစ္စများ</string>
+    <string name="install_fail">ထည့်မရပါ</string>
+    <string name="install_succ">အောင်မြင်စွာထည့်ပြီးပါပြီ</string>
+    <string name="installing">ထည့်နေသည်…</string>
     <string name="is_setting_wallpaper_message">နောက်ခံပုံကို သတ်မှတ်နေ…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">နှိုးစက်များ</string>
@@ -526,9 +529,6 @@ mm"</string>
     <string name="present_official_themes">ကျွန်ုပ်တို့၏ရွေးချယ်မှုများ</string>
     <string name="present_online_themes">နောက်ထပ်အွန်လိုင်းသင်းမ်များ ရယူမည်</string>
     <string name="privacy_desc">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ (မဖြစ်မနေ)</string>
-    <string name="privacy_simple_content">သင့်စိတ်ဝင်စားမှု၊ နှစ်သက်မှုနှင့် ကိုက်ညီသော အကြောင်းအရာနှင့် ထုတ်ကုန်များ ရယူရန် စိတ်ကြိုက်အကြံပြုချက်များကို ဖွင့်ပါ။</string>
-    <string name="privacy_simple_hint">စိတ်ကြိုက်များကို ဆက်တင်တွင် အချိန်မရွေးပြောင်းနိုင်သည်။</string>
-    <string name="privacy_simple_title">စိတ်ကြိုက်အကြံပြုချက်များ</string>
     <string name="promotion_ad">ပရိုမိုးရှင်း</string>
     <string name="provision_default_theme_title">မူလသတ်မှတ်ချက်</string>
     <string name="provision_download_cancel">ဒေါင်းလုဒ်လုပ်ခြင်းကို ဖျက်လိုက်ပါပြီ</string>

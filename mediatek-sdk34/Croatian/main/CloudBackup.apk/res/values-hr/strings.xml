@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Nema dovoljno prostora za pohranu u cloudu za sigurnosno kopiranje WeChat podataka. Nadogradite svoj plan pohrane za sigurnosno kopiranje stavki.</string>
     <string name="backup_action_no_space_with_wechat_on_title">Nije moguće napraviti kopiju WeChat podataka</string>
     <string name="backup_action_retry_now">Pokušajte ponovno</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">Sigurnosna kopija u cloudu prikupit će popis aplikacija instaliranih na vašem uređaju i pohraniti te informacije na našim poslužiteljima. Ove podatke pohranjujemo kako biste ih mogli preuzeti i vratiti kad god je to potrebno. Ako se slažete s našim prikupljanjem ovih informacija, dodirnite \"Dopusti\" ispod.</string>
     <string name="backup_failed_reason_app_data_error">Nije moguće napraviti kopiju WeChat podataka</string>
     <string name="backup_failed_reason_app_usage_denied">Dodijelite potrebne dozvole za stvaranje sigurnosnih kopija stavki</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Na cloudu nema dovoljno prostora za ovu sigurnosnu kopiju. Nadogradite svoj plan ili oslobodite prostor.</string>
@@ -155,8 +156,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">Upravljanje Sig. kopijama</string>
     <string name="cloud_backup_detail_no_time">Još nema sigurnosnih kopija</string>
     <string name="cloud_backup_detail_state">Autom. izrada Sig. kopije</string>
-    <string name="cloud_backup_detail_state_summary">Kreirajte Xiaomi Cloud sigurnosne kopije automatski kada ste povezani na Wi-Fi.</string>
-    <string name="cloud_backup_detail_state_summary_china">Zahtijeva vezu na WLAN, napajanje ≥%s, i zaključani zaslon</string>
+    <string name="cloud_backup_detail_state_summary">Zahtijeva vezu na Wi-Fi, snagu baterije od najmanje %s i isključen zaslon</string>
+    <string name="cloud_backup_detail_state_summary_china">Zahtijeva vezu na WLAN, snagu baterije od najmanje %s i isključen zaslon</string>
     <string name="cloud_backup_detail_time">Zadnja Sig. kopija: %1$s</string>
     <string name="cloud_backup_detail_title">Napravite sigurnosne kopije stavki</string>
     <string name="cloud_backup_get_installed_apps_summary">Za sigurnosno kopiranje i vraćanje aplikacija početnog zaslona</string>
@@ -354,6 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Poništi sve</string>
     <string name="miuix_appcompat_deselect_all_description">Poništi sve</string>
+    <string name="miuix_appcompat_edit">Uredi</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
     <string name="miuix_appcompat_search_input_description">Traži</string>
     <string name="miuix_appcompat_select_all">Odaberi sve</string>

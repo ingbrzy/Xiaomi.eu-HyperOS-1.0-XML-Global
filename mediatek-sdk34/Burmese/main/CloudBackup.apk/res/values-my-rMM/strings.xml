@@ -25,6 +25,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">WeChat ဒေတာကို အရန်သိမ်းရန် သိုလှောင်ခန်း နေရာမလောက်ပါ။ အကြောင်းအရာများ အရန်သိမ်းရန် သိုလှောင်ခန်းပလန်ကို အဆင့်မြှင့်ပါ။</string>
     <string name="backup_action_no_space_with_wechat_on_title">WeChat ဒေတာကို အရန်သိမ်းမရပါ</string>
     <string name="backup_action_retry_now">ပြန်ကြိုးစားကြည့်ပါ</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">ကလောက်အရန်သိမ်းစနစ်သည် သင့်စက်တွင်ထည့်ထားသော အက်(ပ်)စာရင်းကို ကောက်ယူပြီး ၎င်းအချက်အလက်ကို ကျွန်ုပ်တို့၏ဆာဗာများတွင် သိမ်းထားပါမည်။ သင်လိုအပ်ချိန်တိုင်း ဒေါင်းလုဒ်လုပ်ပြီး ပြန်ယူနိုင်ရန်အတွက် ဤဒေတာကို သိမ်းထားခြင်းဖြစ်သည်။ ဤအချက်အလက်ကို ကျွန်ုပ်တို့ကောက်ယူခြင်းအား သဘောတူပါက အောက်ပါ \"ခွင့်ပြုရန်\" ကို တို့ပါ။</string>
     <string name="backup_failed_reason_app_data_error">WeChat ဒေတာများ အရန်သိမ်းမရပါ</string>
     <string name="backup_failed_reason_app_usage_denied">အိုင်တမ်းများ အရံသိမ်းရန် လိုအပ်သည့် ခွင့်ပြုချက်များကို ပေးအပ်ပါ</string>
     <string name="backup_failed_reason_cloud_space_not_enough">ဤအရန်သိမ်းဆည်းမှုကို သိမ်းဆည်းရန် ကလောက်သိုလှောင်ခန်းနေရာလွတ် မလုံလောက်ပါ။ သင့်အစီအစဉ်ကို အဆင့်မြှင့်ပါ သို့မဟုတ် ကလောက်သိုလှောင်ခန်းတွင် နေရာလွတ်ဖန်တီးပါ။</string>
@@ -128,8 +129,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">အရန်သိမ်းများအား စီမံပါ</string>
     <string name="cloud_backup_detail_no_time">အရန်သိမ်းဖိုင်မရှိသေးပါ</string>
     <string name="cloud_backup_detail_state">အလိုအလျောက် အရန်သိမ်းခြင်း</string>
-    <string name="cloud_backup_detail_state_summary">Wi-Fi ချိတ်စဉ် Xiaomi ကလောက်တွင် အရန်သိမ်းခြင်းကို အလိုအလျောက်ပြုလုပ်ပါ။</string>
-    <string name="cloud_backup_detail_state_summary_china">WLAN ချိတ်ရန်၊ ပါဝါ ≥%s ရှိရန်နှင့် မျက်နှာပြင်သော့ခတ်ထားရန်လိုသည်</string>
+    <string name="cloud_backup_detail_state_summary">Wi-Fi ချိတ်ထားရန်၊ ဓာတ်ခဲအား အနည်းဆုံး %s ရှိရန်နှင့် မျက်နှာပြင်ပိတ်ထားရန်လိုသည်</string>
+    <string name="cloud_backup_detail_state_summary_china">WLAN ချိတ်ထားရန်၊ ဓာတ်ခဲအား အနည်းဆုံး %s ရှိရန်နှင့် မျက်နှာပြင်ပိတ်ထားရန်လိုသည်</string>
     <string name="cloud_backup_detail_time">နောက်ဆုံးအရန်သိမ်း−%1$s</string>
     <string name="cloud_backup_detail_title">အကြောင်းအရာများ အရန်သိမ်းရန်</string>
     <string name="cloud_backup_get_installed_apps_summary">ပင်မမျက်နှာပြင်အက်(ပ်)များ အရန်သိမ်းရန်နှင့် ပြန်ယူရန်</string>
@@ -325,6 +326,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
     <string name="miuix_appcompat_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_deselect_all_description">ရွေးပြီးသားအားလုံးကို ပြန်ဖြုတ်ရန်</string>
+    <string name="miuix_appcompat_edit">ပြင်ရန်</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
     <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>
@@ -617,7 +619,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="tuesday_shortest">အင်္ဂါ</string>
     <string name="unselected">ရွေးမထားသော</string>
     <string name="unsupported_home">နောက်ဆုံးစနစ်ဗားရှင်းသို့ အပ်ပဒိတ်လုပ်ပါ။</string>
-    <string name="wait_icon_download">အက်ပ်အိုင်ကွန်အား ဒေါင်းလုဒ်လုပ်နေသည်</string>
+    <string name="wait_icon_download">အက်(ပ်)အိုင်ကွန်အား ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="wednesday">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_short">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_shortest">ဗုဒ္ဓဟူး</string>

@@ -45,6 +45,7 @@
     <string name="app_name">Escáner</string>
     <string name="app_remove_icon_description_content">Escáner es una aplicación del sistema. Aún podrás encontrarlo en los Ajustes o escanear códigos usando la Cámara, el Navegador y el Monedero Mi después de eliminar el acceso directo de la Pantalla de inicio.</string>
     <string name="app_remove_icon_description_title">¿Eliminar \"Escáner\" de la Pantalla de inicio?</string>
+    <string name="auracast_code_title_key">Escuchar la retransmisión de %s</string>
     <string name="back">Atrás</string>
     <string name="barcode_into_rectangle">Coloca el código dentro del recuadro</string>
     <string name="birthday">Cumpleaños:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Permisos</string>
     <string name="phone">Teléfono:</string>
     <string name="place_barcode_into_rectangle">Coloca el código dentro del recuadro</string>
+    <string name="please_enable_bluetooth_retry">Activa el Bluetooth y vuelve a intentarlo</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="preparing_sd">Preparando almacenamiento interno…</string>

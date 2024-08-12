@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Нема довољно простора за складиштење у cloud-у ради бекаповања WeChat података. Надоградите план складишног простора да бисте бекаповали ставки.</string>
     <string name="backup_action_no_space_with_wechat_on_title">Бекап WeChat података није успео</string>
     <string name="backup_action_retry_now">Покушај опет</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">Бекап cloud-а ће прикупити листу апликација инсталираних на вашем уређају и сачувати ове информације на нашим серверима. Чувамо ове податке тако да можете да их преузмете и вратите кад год је потребно. Ако се слажете са нашим прикупљањем ових информација, додирните „Дозволи“ испод.</string>
     <string name="backup_failed_reason_app_data_error">Бекап WeChat података није успео</string>
     <string name="backup_failed_reason_app_usage_denied">Дајте потребне дозволе за бекаповање ставки</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Није преостало довољно складишног простора на cloud-у за чување бекапа. Надоградите ваш пакет или ослободите складишни простор на cloud-у.</string>
@@ -155,8 +156,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">Управљај бекапима</string>
     <string name="cloud_backup_detail_no_time">Још нема бекапа</string>
     <string name="cloud_backup_detail_state">Аутоматски бекапи</string>
-    <string name="cloud_backup_detail_state_summary">Аутоматски бекапуј на Xiaomi Cloud када је повезано на Wi-Fi.</string>
-    <string name="cloud_backup_detail_state_summary_china">Захтева повезивање на WLAN, напајање ≥%s, и Закључани екран</string>
+    <string name="cloud_backup_detail_state_summary">Захтева везу са Wi-Fi мрежом, напајање батерије од најмање %s, док је екран искључен</string>
+    <string name="cloud_backup_detail_state_summary_china">Захтева везу са WLAN-ом, напајање батерије од најмање %s, док је екран искључен</string>
     <string name="cloud_backup_detail_time">Последњи бекап:%1$s</string>
     <string name="cloud_backup_detail_title">Бекапуј ставке</string>
     <string name="cloud_backup_get_installed_apps_summary">За бекаповање и враћање апликација на Почетном екрану</string>
@@ -354,6 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">Oбриши</string>
     <string name="miuix_appcompat_deselect_all">Поништи избор</string>
     <string name="miuix_appcompat_deselect_all_description">Опозови све</string>
+    <string name="miuix_appcompat_edit">Уреди</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Откажи</string>
     <string name="miuix_appcompat_search_input_description">Тражи</string>
     <string name="miuix_appcompat_select_all">Изабери све</string>

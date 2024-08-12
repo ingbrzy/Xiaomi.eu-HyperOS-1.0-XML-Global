@@ -18,6 +18,7 @@
     <string name="app_name">စကန်နာ</string>
     <string name="app_remove_icon_description_content">စကန်နာသည် စနစ်အက်(ပ်)ဖြစ်သည်။ ၎င်းကို ပင်မစာမျက်နှာရှော့ကတ်မှ ဖြုတ်ပြီးလျှင်လည်း ဆက်တင်တွင် သို့မဟုတ် ကင်မရာသုံးသော စကန်ကုဒ်များနှင့် Mi ပိုက်ဆံအိတ်တို့တွင် ရှာနိုင်သည်။</string>
     <string name="app_remove_icon_description_title">\"စကန်နာ\" ကို ပင်မစာမျက်နှာမှ ဖြုတ်လိုသလား။</string>
+    <string name="auracast_code_title_key">%s ၏ အသံလွှင့်ခြင်းကို နားထောင်ရန်</string>
     <string name="back">ဘက်ပြန်</string>
     <string name="barcode_into_rectangle">ကုဒ်အား ဖရိန်အတွင်းဝင် ထားပါ</string>
     <string name="birthday">မွေးနေ့−</string>
@@ -270,6 +271,7 @@
     <string name="permissions_use">ခွင့်ပြုချက်များ</string>
     <string name="phone">ဖုန်း−</string>
     <string name="place_barcode_into_rectangle">ကုဒ်အား ဖရိန်အတွင်းဝင် ထားပါ</string>
+    <string name="please_enable_bluetooth_retry">ဘလူးတုဖွင့်ပြီး ထပ်လုပ်ကြည့်ပါ</string>
     <string name="pm">ညနေ</string>
     <string name="preparing_sd">အတွင်းသိုလှောင်မှုအား ပြင်ဆင်နေ…</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</string>

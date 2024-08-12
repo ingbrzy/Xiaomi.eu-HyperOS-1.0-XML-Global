@@ -258,6 +258,12 @@
         <item quantity="few">%d minuty temu</item>
         <item quantity="many">%d minut temu</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">Synchronizacja nie jest włączona dla %s elementu</item>
+        <item quantity="one">Synchronizacja nie jest włączona dla %s elementu</item>
+        <item quantity="few">Synchronizacja nie jest włączona dla %s elementów</item>
+        <item quantity="many">Synchronizacja nie jest włączona dla %s elementów</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s usług zostanie zsynchronizowanych z Chmurą Xiaomi</item>
         <item quantity="one">%s usługa zostanie zsynchronizowana z Chmurą Xiaomi</item>

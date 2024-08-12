@@ -43,13 +43,13 @@
         <item>Zablokujte vaše zariadenie v prípade straty alebo krádeže</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
-        <item>Synchr. dáta aplikácie</item>
+        <item>Synchr. údaje aplikácie</item>
         <item>Zálohovať rozloženie Domovskej obrazovky</item>
         <item>Zálohovať nastavenia systému</item>
         <item>Vyhľadať zariadenie</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray_pad">
-        <item>Synchr. dáta aplikácie</item>
+        <item>Synchr. údaje aplikácie</item>
         <item>Vyhľadať zariadenie</item>
     </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">

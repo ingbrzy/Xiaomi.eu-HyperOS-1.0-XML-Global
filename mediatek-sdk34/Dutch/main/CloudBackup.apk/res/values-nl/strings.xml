@@ -4,7 +4,7 @@
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
     <string name="abc_action_mode_done">Klaar</string>
-    <string name="abc_activity_chooser_view_see_all">Alles tonen</string>
+    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
     <string name="abc_capital_on">AAN</string>
@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Onvoldoende cloud opslagruimte om WeChat-gegevens te back-uppen. Upgrade uw opslagabonnement om items te back-uppen.</string>
     <string name="backup_action_no_space_with_wechat_on_title">Kon WeChat-gegevens niet back-uppen</string>
     <string name="backup_action_retry_now">Opnieuw proberen</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">Cloud back-up verzamelt de lijst met apps die op uw apparaat zijn geïnstalleerd en slaat deze informatie op onze servers op. Wij slaan deze gegevens op, zodat u deze indien nodig kunt downloaden en herstellen. Als u akkoord gaat met het verzamelen van deze informatie, tikt u hieronder op \"Toestaan\".</string>
     <string name="backup_failed_reason_app_data_error">Kon WeChat-gegevens niet back-uppen</string>
     <string name="backup_failed_reason_app_usage_denied">Verleen de vereiste toestemmingen om een back-up van items te maken</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Er is niet genoeg cloud opslag over om deze back-up op te slaan. Upgrade uw abonnement of maak cloud opslagruimte vrij.</string>
@@ -155,8 +156,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">Backups beheren</string>
     <string name="cloud_backup_detail_no_time">Nog geen back-ups</string>
     <string name="cloud_backup_detail_state">Automatische back-ups</string>
-    <string name="cloud_backup_detail_state_summary">Creëer automatisch Xiaomi Cloud back-ups wanneer u verbonden bent met wifi.</string>
-    <string name="cloud_backup_detail_state_summary_china">Vereist verbinding met WLAN, stroom ≥%s en vergrendeld scherm</string>
+    <string name="cloud_backup_detail_state_summary">Vereist verbinding met wifi, batterijvermogen van minimaal %s en uitgeschakeld scherm</string>
+    <string name="cloud_backup_detail_state_summary_china">Vereist verbinding met WLAN, batterijvermogen van minimaal %s en uitgeschakeld scherm</string>
     <string name="cloud_backup_detail_time">Laatste backup: %1$s</string>
     <string name="cloud_backup_detail_title">Back-up items</string>
     <string name="cloud_backup_get_installed_apps_summary">Voor het maken van back-ups en het herstellen van Startscherm apps</string>
@@ -354,6 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">Verwijderen</string>
     <string name="miuix_appcompat_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
+    <string name="miuix_appcompat_edit">Bewerken</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
     <string name="miuix_appcompat_search_input_description">Zoeken</string>
     <string name="miuix_appcompat_select_all">Alles selecteren</string>

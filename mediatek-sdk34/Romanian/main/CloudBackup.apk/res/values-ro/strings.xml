@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Spațiu de stocare insuficient în cloud pentru acrea ccopie de rezervă a datelor WeChat. Actualizați-vă planul de stocare pentru a crea copie de rezervă pentru elemente.</string>
     <string name="backup_action_no_space_with_wechat_on_title">Nu s-a putut crea copie de rezervă a datelor WeChat</string>
     <string name="backup_action_retry_now">Încercați din nou</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">Copie de rezervă în cloud va colecta lista aplicațiilor instalate pe dispozitivul dvs. și va stoca aceste informații pe serverele noastre. Stocăm aceste date astfel încât să le puteți descărca și restabili ori de câte ori este necesar. Dacă sunteți de acord cu colectarea acestor informații, atingeți \"Permite\" mai jos.</string>
     <string name="backup_failed_reason_app_data_error">Nu s-a putut crea copie de rezervă a datelor WeChat</string>
     <string name="backup_failed_reason_app_usage_denied">Acordați permisiunile necesare pentru a face copie de rezervă pentru elemente</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Spațiu de stocare insuficient în cloud pentru a salva această copie de rezervă. Actualizați-vă planul sau eliberați spațiu de stocare în cloud.</string>
@@ -155,8 +156,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">Gestionare salvări de siguranță</string>
     <string name="cloud_backup_detail_no_time">Nu există copii de rezervă încă</string>
     <string name="cloud_backup_detail_state">Copii de rezervă automată</string>
-    <string name="cloud_backup_detail_state_summary">Creați copii de rezervă Xiaomi Cloud automat când sunteți conectat la Wi-Fi.</string>
-    <string name="cloud_backup_detail_state_summary_china">Necesită conexiune la WLAN, energie ≥%s și blochează ecranul</string>
+    <string name="cloud_backup_detail_state_summary">Necesită conexiune la Wi-Fi, o putere a bateriei de cel puțin %s și ecranul oprit</string>
+    <string name="cloud_backup_detail_state_summary_china">Necesită conexiune la WLAN, o putere a bateriei de cel puțin %s și ecranul oprit</string>
     <string name="cloud_backup_detail_time">Ultima copie de rezervă: %1$s</string>
     <string name="cloud_backup_detail_title">Creează copie de rezervă elemente</string>
     <string name="cloud_backup_get_installed_apps_summary">Pentru a crea copie de rezervă și restabilii aplicațiile Ecranului principal</string>
@@ -354,6 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">Șterge</string>
     <string name="miuix_appcompat_deselect_all">Deselectează tot</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectează tot</string>
+    <string name="miuix_appcompat_edit">Editează</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Anulează</string>
     <string name="miuix_appcompat_search_input_description">Caută</string>
     <string name="miuix_appcompat_select_all">Selectează tot</string>
@@ -483,7 +485,7 @@ Verificați setările la conexiune și încercați din nou."</string>
     <string name="restore_detail_category_apps_size">Mărime: %s</string>
     <string name="restore_detail_category_settings">Setări</string>
     <string name="restore_detail_category_settings_size">Mărime: ＜%.1f GB</string>
-    <string name="restore_detail_more">Mai mult</string>
+    <string name="restore_detail_more">Mai multe</string>
     <string name="restore_detail_title">Selectați elementele pentru a restabili</string>
     <string name="restore_failed_reason_app_data_error">Nu s-au putut restabili datele WeChat</string>
     <string name="restore_failed_reason_disk_space_not_enough">Nu este suficient spațiu de stocare. Mai întâi eliberați spațiul de stocare.</string>

@@ -46,6 +46,7 @@
     <string name="am">SA</string>
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">Tên người dùng hoặc mật khẩu không hợp lệ</string>
+    <string name="browser_sync_settings_preference">Tự động đồng bộ</string>
     <string name="btn_return">Quay lại</string>
     <string name="btn_revoke_permission">Rút lại chấp thuận</string>
     <string name="button_agree">Đồng ý</string>
@@ -259,6 +260,7 @@
     <string name="friday_short">Th 6</string>
     <string name="friday_shortest">Th 6</string>
     <string name="gallery_auto_sync_fail_noti_content">Dung lượng lưu trữ đám mây còn lại không đủ. Nâng cấp gói lưu trữ để đồng bộ ảnh và video.</string>
+    <string name="gallery_auto_sync_fail_noti_content_lite">Lưu trữ đám mây không đủ. Không thể lưu ảnh.</string>
     <string name="gallery_data_transfer_ddl">Hạn cuối: %s</string>
     <string name="gallery_data_transfer_summary">Các mục thư viện có thể không được đồng bộ với Xiaomi Cloud. Chúng tôi kiến nghị bạn chuyển ảnh và video bạn đã đồng bộ với đám mây sang Google Photos và sử dụng dịch vụ này để sao lưu.</string>
     <string name="gallery_data_transfer_title">Chuyển ảnh và video đã đồng bộ sang Google Photos</string>
@@ -560,6 +562,7 @@ Hãy chắc chắn rằng bạn đang sử dụng tài khoản Xiaomi được l
     <string name="miuix_appcompat_delete_description">Xóa</string>
     <string name="miuix_appcompat_deselect_all">Bỏ chọn tất cả</string>
     <string name="miuix_appcompat_deselect_all_description">Bỏ chọn tất cả</string>
+    <string name="miuix_appcompat_edit">Sửa</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
     <string name="miuix_appcompat_search_input_description">Tìm kiếm</string>
     <string name="miuix_appcompat_select_all">Chọn tất cả</string>
@@ -657,10 +660,10 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
     <string name="privacy_and_agreement">Điều khoản và Điều kiện</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">Chào mừng sử dụng Tìm thiết bị! Bạn có thể sử dụng dịch vụ này để định vị, khóa hoặc xóa dữ liệu trên thiết bị của mình nếu bị mất.</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">Chào mừng sử dụng Tìm thiết bị! Bạn có thể sử dụng dịch vụ này để định vị, khóa hoặc xóa dữ liệu trên thiết bị của mình nếu bị mất.</string>
-    <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_china_v2">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad">Chào mừng sử dụng dịch vụ Xiaomi Cloud! Bạn có thể sử dụng Xiaomi Cloud để đồng bộ tin nhắn, liên hệ, ghi chú, cài đặt Trình duyệt, ảnh và video, ghi âm, lịch sự kiện và mục Danh sách chặn trên tất cả các thiết bị đã được kết nối.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Chào mừng sử dụng dịch vụ Xiaomi Cloud! Bạn có thể sử dụng Xiaomi Cloud để đồng bộ tin nhắn, ghi chú, cài đặt Trình duyệt, ảnh và video, ghi âm, lịch sự kiện và mục Danh sách chặn trên tất cả các thiết bị đã được kết nối.</string>
+    <string name="privacy_dialog_sync_all_purpose_china">Chào mừng sử dụng dịch vụ Xiaomi Cloud! Bạn có thể sử dụng Xiaomi Cloud để đồng bộ tin nhắn, liên hệ, ghi chú, cài đặt Trình duyệt, ảnh và video, cài đặt WLAN, ghi âm, bố trí Màn hình chính, ứng dụng, lịch sự kiện, mục Danh sách chặn, lịch sử cuộc gọi và App vault trên tất cả các thiết bị đã được kết nối.</string>
+    <string name="privacy_dialog_sync_all_purpose_china_v2">Chào mừng sử dụng dịch vụ Xiaomi Cloud! Bạn có thể sử dụng Xiaomi Cloud để đồng bộ tin nhắn, liên hệ, ghi chú, cài đặt Trình duyệt, ảnh và video, cài đặt WLAN, ghi âm, bố trí Màn hình chính, ứng dụng, lịch sự kiện, mục Danh sách chặn, lịch sử cuộc gọi và App vault trên tất cả các thiết bị đã được kết nối.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad">Chào mừng sử dụng dịch vụ Xiaomi Cloud! Bạn có thể sử dụng ứng dụng này để đồng bộ tin nhắn, liên hệ, ghi chú, mục Trình duyệt, album đám mây, nhạc, lịch, danh sách chặn và lịch sử cuộc gọi lên đám mây.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Chào mừng sử dụng dịch vụ Xiaomi Cloud! Bạn có thể sử dụng ứng dụng này để đồng bộ tin nhắn, ghi chú, mục Trình duyệt, album đám mây, nhạc, lịch, danh sách chặn và lịch sử cuộc gọi lên đám mây.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">Chào mừng sử dụng dịch vụ Xiaomi Cloud! Bạn có thể sử dụng Xiaomi Cloud để đồng bộ liên hệ, ghi chú, cài đặt Trình duyệt, ảnh và video, ghi âm, lịch sự kiện và mục Danh sách chặn trên tất cả các thiết bị đã được kết nối.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">Chào mừng sử dụng dịch vụ Xiaomi Cloud! Bạn có thể sử dụng Xiaomi Cloud để đồng bộ ghi chú, cài đặt Trình duyệt, ảnh và video, ghi âm, lịch sự kiện và mục Danh sách chặn trên tất cả các thiết bị đã được kết nối.</string>
     <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images and videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
@@ -944,7 +947,7 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
     <string name="update_dialog_no_internet_toast_text">Kiểm tra kết nối internet và thử lại</string>
     <string name="update_dialog_no_update_toast_text">Phiên bản hiện tại đã được cập nhật</string>
     <string name="update_dialog_title">Cập nhật khả dụng</string>
-    <string name="update_dialog_update_button_text">Cập nhật</string>
+    <string name="update_dialog_update_button_text">Cài đặt</string>
     <string name="upgrade_member_storage">Thành viên Xiaomi Cloud</string>
     <string name="user_agreement_content">Bằng cách sử dụng dịch vụ này, bạn đồng ý với %s.</string>
     <string name="user_agreement_link">Điều khoản Dịch vụ của Xiaomi Cloud</string>

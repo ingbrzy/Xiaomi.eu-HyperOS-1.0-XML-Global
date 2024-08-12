@@ -45,6 +45,7 @@
     <string name="app_name">Скенер</string>
     <string name="app_remove_icon_description_content">Скенер е системно приложение. Все още ще можете да го откриете в Настройки или да сканирате кодове използвайки Камера, Браузър и Mi Портфейл след като премахнете прекия път на Началния екран.</string>
     <string name="app_remove_icon_description_title">Премахване на \"Скенер\" от Началния екран?</string>
+    <string name="auracast_code_title_key">Слушайте предаването на %s</string>
     <string name="back">Назад</string>
     <string name="barcode_into_rectangle">Поставете кода вътре в рамката</string>
     <string name="birthday">Рожден ден:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Разрешения</string>
     <string name="phone">Телефон:</string>
     <string name="place_barcode_into_rectangle">Нагласете кода вътре в рамката</string>
+    <string name="please_enable_bluetooth_retry">Включете Bluetooth и опитайте отново</string>
     <string name="pm">PM</string>
     <string name="preference_copied">Копирахте „%1$s“ в буферната памет.</string>
     <string name="preparing_sd">Подготвяне на вътрешна памет…</string>

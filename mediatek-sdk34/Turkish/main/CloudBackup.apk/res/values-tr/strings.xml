@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">WeChat verilerini yedeklemek için yeterli cloud depolama alanı yok. Ögeleri yedeklemek için depolama planınızı yükseltin.</string>
     <string name="backup_action_no_space_with_wechat_on_title">WeChat verileri yedeklenemedi</string>
     <string name="backup_action_retry_now">Tekrar deneyin</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">"Cloud yedekleme cihazınızda yüklü olan uygulamaların listesini toplayacak ve bu bilgiyi sunucularımızda saklayacaktır. Bu verileri gerektiğinde indirebilmeniz ve geri yüklemeniz için saklarız. Bu bilgileri toplamamızı kabul ediyorsanız aşağıdaki ''Kabul et'' seçeneğine dokunun."</string>
     <string name="backup_failed_reason_app_data_error">WeChat verileri yedeklenemedi</string>
     <string name="backup_failed_reason_app_usage_denied">Ögeleri yedekleyebilmek için gerekli izinleri verin</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Bu yedeklemeyi kaydetmek için kalan cloud depolama alanı yeterli değil. Planınızı yükseltin veya cloud depolama alanınızı boşaltın.</string>
@@ -155,8 +156,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">Yedekleri yönet</string>
     <string name="cloud_backup_detail_no_time">Henüz yedekleme yok</string>
     <string name="cloud_backup_detail_state">Otomatik yedeklemeler</string>
-    <string name="cloud_backup_detail_state_summary">Wi-Fi ağına bağlı olunduğunda otomatik olarak Xiaomi Cloud yedeği oluştur.</string>
-    <string name="cloud_backup_detail_state_summary_china">"WLAN'a bağlanmayı, gücün ≥%s olmasını ve ekranı kilitlemeyi gerektirir"</string>
+    <string name="cloud_backup_detail_state_summary">Wi-Fi bağlantısı gerektirir, pil gücü en az %s ve ekran kapalı olmalıdır</string>
+    <string name="cloud_backup_detail_state_summary_china">WLAN bağlantısı gerektirir, pil gücü en az %s ve ekran kapalı olmalıdır</string>
     <string name="cloud_backup_detail_time">Son yedekleme: %1$s</string>
     <string name="cloud_backup_detail_title">Ögeleri yedekle</string>
     <string name="cloud_backup_get_installed_apps_summary">Ana ekran uygulamalarını yedeklemek ve geri yüklemek için</string>
@@ -354,6 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Tüm seçimleri kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>

@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Δεν υπάρχει αρκετός χώρος αποθήκευσης στο σύννεφο για δημιουργία αντιγράφων ασφαλείας δεδομένων WeChat. Αναβαθμίστε το σχέδιο αποθήκευσης για δημιουργία αντιγράφων ασφαλείας στοιχείων.</string>
     <string name="backup_action_no_space_with_wechat_on_title">Αδυναμία δημιουργίας αντιγράφων ασφαλείας δεδομένων WeChat</string>
     <string name="backup_action_retry_now">Προσπαθήστε ξανά</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">Τα Αντίγραφα ασφαλείας σύννεφου θα συλλέξουν τη λίστα των εφαρμογών που είναι εγκατεστημένες στη συσκευή σας και θα αποθηκεύσουν αυτές τις πληροφορίες στους διακομιστές μας. Αποθηκεύουμε αυτά τα δεδομένα ώστε να μπορείτε να τα κατεβάζετε και να τα επαναφέρετε όποτε είναι απαραίτητο. Εάν συμφωνείτε με τη συλλογή αυτών των πληροφοριών, πατήστε \"Να επιτρέπεται\" παρακάτω.</string>
     <string name="backup_failed_reason_app_data_error">Αδυναμία δημιουργίας αντιγράφων ασφαλείας δεδομένων WeChat</string>
     <string name="backup_failed_reason_app_usage_denied">Χορηγήστε τις απαιτούμενες άδειες για δημιουργία αντιγράφων ασφαλείας στοιχείων</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Δεν υπάρχει επαρκής χώρος αποθήκευσης στο cloud για να αποθηκεύσετε αυτό το αντίγραφο ασφαλείας. Αναβαθμίστε το πακέτο σας ή απελευθερώστε χώρο αποθήκευσης στο cloud.</string>
@@ -155,8 +156,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">Διαχείριση αντιγράφων ασφαλείας</string>
     <string name="cloud_backup_detail_no_time">Δεν υπάρχουν αντίγραφα ασφαλείας εδώ ακόμα</string>
     <string name="cloud_backup_detail_state">Αυτόματη δημιουργία αντίγραφου ασφαλείας</string>
-    <string name="cloud_backup_detail_state_summary">Αυτόματη δημιουργία αντιγράφων ασφαλείας Xiaomi Cloud όταν είστε συνδεδεμένοι σε Wi-Fi.</string>
-    <string name="cloud_backup_detail_state_summary_china">Απαιτεί σύνδεση σε WLAN, τροφοδοσία ≥%s, και κλειδωμένη οθόνη</string>
+    <string name="cloud_backup_detail_state_summary">Απαιτεί σύνδεση σε Wi-Fi, ισχύ μπαταρίας τουλάχιστον %s, και απενεργοποιημένη οθόνη</string>
+    <string name="cloud_backup_detail_state_summary_china">Απαιτεί σύνδεση σε WLAN, ισχύ μπαταρίας τουλάχιστον %s, και απενεργοποιημένη οθόνη</string>
     <string name="cloud_backup_detail_time">Τελευταία δημιουργία: %1$s</string>
     <string name="cloud_backup_detail_title">Δημιουργία αντιγράφων ασφαλείας</string>
     <string name="cloud_backup_get_installed_apps_summary">Για δημιουργία αντιγράφων ασφαλείας και επαναφορά εφαρμογών Αρχικής οθόνης</string>
@@ -354,6 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">Διαγραφή</string>
     <string name="miuix_appcompat_deselect_all">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή όλων</string>
+    <string name="miuix_appcompat_edit">Επεξεργασία</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
     <string name="miuix_appcompat_select_all">Επιλογή όλων</string>

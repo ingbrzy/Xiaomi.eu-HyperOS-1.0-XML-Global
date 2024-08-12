@@ -25,6 +25,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">حافظه فضای ابری برای پشتیبان‌گیری داده‌های WeChat کافی نیست. طرح حافظه خود را ارتقاء داده تا موارد پشتیبان‌گیری شوند.</string>
     <string name="backup_action_no_space_with_wechat_on_title">داده‌های WeChat پشتیبان‌گیری نشدند</string>
     <string name="backup_action_retry_now">تلاش دوباره</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">پشتیبان‌گیری فضای ابری، فهرست برنامه‌های نصب شده در دستگاه شما را گردآوری می‌کند و این اطلاعات را در سرورهای ما ذخیره می‌کند. ما این داده‌ها را ذخیره می‌کنیم تا در صورت لزوم بتوانید آن را دانلود و بازیابی کنید. اگر گردآوری این اطلاعات توسط ما را می‌پذیرید، روی «اجازه دادن» در زیر ضربه بزنید.</string>
     <string name="backup_failed_reason_app_data_error">داده‌های WeChat پشتیبان‌گیری نشدند</string>
     <string name="backup_failed_reason_app_usage_denied">مجوزهای لازم را داده تا موارد پشتیبان‌گیری شوند</string>
     <string name="backup_failed_reason_cloud_space_not_enough">فضای ذخیره‌سازی در فضای ابری برای ذخیره این نسخه پشتیبان کافی نیست. طرح خود را ارتقا داده یا فضای ذخیره‌سازی ابری را آزاد کنید.</string>
@@ -128,8 +129,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">مدیریت پشتیبان‌گیری‌ها</string>
     <string name="cloud_backup_detail_no_time">هنوز نسخه پشتیبانی وجود ندارد</string>
     <string name="cloud_backup_detail_state">پشتیبان‌گیری‌های خودکار</string>
-    <string name="cloud_backup_detail_state_summary">ایجاد پشتیبان‌گیری‌های فضای ابری Xiaomi به صورت خودکار هنگام اتصال به Wi-Fi.</string>
-    <string name="cloud_backup_detail_state_summary_china">نیازمند اتصال به WLAN، برق ≥ %s و صفحه قفل شده است</string>
+    <string name="cloud_backup_detail_state_summary">نیاز به اتصال به Wi-Fi، باتری حداقل %s و خاموش بودن صفحه نمایش دارد</string>
+    <string name="cloud_backup_detail_state_summary_china">نیاز به اتصال به WLAN، باتری حداقل %s و خاموش بودن صفحه نمایش دارد</string>
     <string name="cloud_backup_detail_time">آخرین پشتیبان‌گیری: %1$s</string>
     <string name="cloud_backup_detail_title">پشتیبان‌گیری از موارد</string>
     <string name="cloud_backup_get_installed_apps_summary">برای پشتیبان‌گیری و بازیابی برنامه‌های صفحه اصلی</string>
@@ -325,6 +326,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">حذف</string>
     <string name="miuix_appcompat_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_deselect_all_description">لغو انتخاب همه</string>
+    <string name="miuix_appcompat_edit">ویرایش</string>
     <string name="miuix_appcompat_search_action_mode_cancel">لغو</string>
     <string name="miuix_appcompat_search_input_description">جستجو</string>
     <string name="miuix_appcompat_select_all">انتخاب همه</string>

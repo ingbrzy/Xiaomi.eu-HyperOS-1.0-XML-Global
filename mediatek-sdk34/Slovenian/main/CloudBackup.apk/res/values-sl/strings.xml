@@ -24,8 +24,8 @@
     <string name="abc_searchview_description_search">Iskanje</string>
     <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
     <string name="abc_searchview_description_voice">Glasovno iskanje</string>
-    <string name="abc_shareactionprovider_share_with">Deljenje z:</string>
-    <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi prek aplikacije %s</string>
+    <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
+    <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi prek aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strnitev</string>
     <string name="about_to_recover">Trenutek…</string>
     <string name="actionbar_button_up_description">Nazaj</string>
@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">V pomnilniku v oblaku ni dovolj prostora za shranjevanje za varnostno kopiranje WeChat podatkov. Da bi lahko varnostno kopirali predmete, nadgradite vašo naročnino za shranjevanje.</string>
     <string name="backup_action_no_space_with_wechat_on_title">Ni mogoče varnostno kopirati WeChat podatkov</string>
     <string name="backup_action_retry_now">Poskusite ponovno</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">Varnostna kopija v oblaku bo zbrala seznam aplikacij, nameščenih v vaši napravi, in te podatke shranila na naše strežnike. Te podatke shranimo tako, da jih po potrebi lahko prenesete in obnovite. Če se strinjate z našim zbiranjem teh podatkov, spodaj tapnite »Dovoli«.</string>
     <string name="backup_failed_reason_app_data_error">Ni mogoče varnostno kopirati WeChat podatkov</string>
     <string name="backup_failed_reason_app_usage_denied">Dodelite zahtevana dovoljenja, da lahko varnostno kopirate predmete</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Nimate dovolj prostora v pomnilniku v oblaku, da bi shranili to varnostno kopijo. Nadgradite vašo naročnino ali sprostite prostor pomnilnika v oblaku.</string>
@@ -59,7 +60,7 @@
     <string name="backup_failed_reason_get_installed_apps_denied">V Nastavitvah dodelite zahtevana dovoljenja, da lahko varnostno kopirate predmete</string>
     <string name="backup_failed_reason_network_error">Preverite omrežne nastavitve in poskusite ponovno</string>
     <string name="backup_finished_notification_content">Kopirane so aplikacije Zač. zaslona, sistemske nastavitve, itd.</string>
-    <string name="backup_now">Napravi var. kopijo zdaj</string>
+    <string name="backup_now">Varnostno kopiraj</string>
     <string name="backup_progress_percent_unit">%</string>
     <string name="backup_remind_buy_cloud_space">Nadgradite vašo naročnino pomnilnika v oblaku</string>
     <string name="backup_remind_clean_disk_space">Sprostite prostor za shranjevanje</string>
@@ -116,7 +117,7 @@ Poskusite ponovno"</string>
     <string name="cloud_app_restore_error">Obnovitev ni mogoča</string>
     <string name="cloud_app_restore_success">Aplikacije obnovljene</string>
     <string name="cloud_app_restore_wifi_prompt">Obnovi iz varnostne kopije v oblaku.</string>
-    <string name="cloud_back_up_date_format">HH:mm d. MM. yyyy</string>
+    <string name="cloud_back_up_date_format">d. M. yyyy HH:mm</string>
     <string name="cloud_back_up_detail_discription">"Ti predmeti bodo varnostno kopirani na Xiaomi Cloud, kadar bo vaša naprava povezani na Wi-Fi omrežje: 
 *  Aplikacije, razporeditev Začetnega zaslona in ozadja 
 *  Nastavitve alarma, ure in časa 
@@ -150,15 +151,15 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_header_condition_wlan">Wi-Fi</string>
     <string name="cloud_backup_detail_header_condition_wlan_china">WLAN</string>
     <string name="cloud_backup_detail_header_msg">"Zdaj lahko varnostno kopirate razporeditev Začetnega zaslona vaše naprave, aplikacije, sistemske nastavitve in podatke aplikacije WeChat. &lt;font color=#0D84FF>&lt;a href=>Tapnite, da izvedete več.&lt;/a>&lt;/font> "</string>
-    <string name="cloud_backup_detail_header_msg_no_wechat_backup">Varnostno kopirajte razporeditev Začetnega zaslona vaše naprave, seznam aplikacij in sistemske nastavitve. &lt;font color=#0D84FF>&lt;a href=>Tapnite, da izvedete več&lt;/a>&lt;/font>.</string>
+    <string name="cloud_backup_detail_header_msg_no_wechat_backup">Varnostno kopirajte razporeditev Začetnega zaslona, seznam aplikacij in sistemske nastavitve vaše naprave. &lt;font color=#0D84FF>&lt;a href=>Tapnite, da izvedete več&lt;/a>&lt;/font>.</string>
     <string name="cloud_backup_detail_local_backup_size">Predvidena velikost varnostne kopije: %s</string>
     <string name="cloud_backup_detail_manage">Urejanje varnostnih kopij</string>
     <string name="cloud_backup_detail_no_time">Varnostnih kopij še ni</string>
     <string name="cloud_backup_detail_state">Samodejne varnostne kopije</string>
-    <string name="cloud_backup_detail_state_summary">Samodejno ustvari Xiaomi Cloud varnostne kopije, ko ste povezani na WiFi.</string>
-    <string name="cloud_backup_detail_state_summary_china">Zahteva povezavo z WLAN omrežjem, napajanje ≥%s in zaklenjen zaslon.</string>
+    <string name="cloud_backup_detail_state_summary">Zahteva povezavo z Wi-Fi, baterijo napolnjeno na vsaj %s in izklopljen zaslon</string>
+    <string name="cloud_backup_detail_state_summary_china">Zahteva povezavo z WLAN, baterijo napolnjeno na vsaj %s in izklopljen zaslon</string>
     <string name="cloud_backup_detail_time">Zadnja varnostna kopija: %1$s</string>
-    <string name="cloud_backup_detail_title">Varnostno kopirajte stvari</string>
+    <string name="cloud_backup_detail_title">Varnostno kopiranje</string>
     <string name="cloud_backup_get_installed_apps_summary">Za varnostno kopiranje in obnavljanje aplikacij na Začetnem zaslonu</string>
     <string name="cloud_backup_get_installed_apps_title">Dostop do seznama aplikacij, nameščenih na tej napravi</string>
     <string name="cloud_backup_have_data">Najdena varnostna kopija v Xiaomi Cloudu</string>
@@ -198,7 +199,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="device_delete_prompt">Želite izbrisati varnostno kopijo %s?</string>
     <string name="dialog_app_usage_consent_message">Ta funkcija mora dostopati do podatkov o uporabi aplikacij, da lahko oceni velikost varnostnih kopij WeChat.</string>
     <string name="dialog_app_usage_consent_title">Dovoli dostop do podatkov o uporabi aplikacij</string>
-    <string name="dialog_app_usage_denied">V Nastavitvah dodelite Varnostni kopiji dovoljenje \"Dostop do uporabe\", da lahko varnostno kopirate predmete.</string>
+    <string name="dialog_app_usage_denied">V Nastavitvah dodelite Varnostni kopiji dovoljenje »Dostop do uporabe«, da lahko varnostno kopirate predmete.</string>
     <string name="dialog_backup_failed">Varnostno kopiranje ni mogoče</string>
     <string name="dialog_btn_cancel_backup">Prekliči</string>
     <string name="dialog_btn_confirm2">Razumem</string>
@@ -218,7 +219,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="dialog_cloud_space_not_enough">To varnostno kopiranje zahteva %1$s prostega prostora pomnilnika v oblaku. Nadgradite vašo naročnino pomnilnika, da lahko varnostno kopirate podatke.</string>
     <string name="dialog_content_cancel_backup">Že naloženi podatki bodo izgubljeni, če prekličete varnostno kopiranje. Želite vseeno preklicati?</string>
     <string name="dialog_content_cancel_restore">Že obnovljeni podatki bodo ohranjeni, če ustavite obnovitev. Želite ustaviti zdaj?</string>
-    <string name="dialog_get_installed_apps_consent_message">Če želite samodejno varnostno kopirati, tej aplikaciji v Nastavitvah dodelite dovoljenje za dostop do seznama aplikacij, nameščenih v vaši napravi, in izberite \"Zmeraj dovoli\".</string>
+    <string name="dialog_get_installed_apps_consent_message">Če želite samodejno varnostno kopirati, tej aplikaciji v Nastavitvah dodelite dovoljenje za dostop do seznama aplikacij, nameščenih v vaši napravi, in izberite »Zmeraj dovoli«.</string>
     <string name="dialog_get_installed_apps_consent_title">Zahtevana dovoljenja</string>
     <string name="dialog_msg_overwrite_backup">Lokalna varnostna kopija se razlikuje od tiste iz Xiaomi Clouda. Če boste nadaljevali, bo trenutna varnostna kopija prepisala preteklo različico.</string>
     <string name="dialog_msg_restore_require_wlan">Obnova varnostnih kopij zahteva povezavo z WiFi.</string>
@@ -326,10 +327,10 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="home_hint_other_launcher">Drugi zaganjalniki</string>
     <string name="home_restore_error">Ni mogoče obnoviti Začetnega zaslona</string>
     <string name="lack_of_storage">Ni dovolj prostora za shranjevanje</string>
-    <string name="latest_backup_time_loading">Nalagam…</string>
+    <string name="latest_backup_time_loading">Nalaganje …</string>
     <string name="load_backup_failed">Ni mogoče naložiti varnostnih kopij</string>
     <string name="loading_progress_num">Naloženo %s%%</string>
-    <string name="loading_user_backup">Nalaganje uporabniških varnostnih kopij…</string>
+    <string name="loading_user_backup">Nalaganje uporabniških varnostnih kopij …</string>
     <string name="manage_and_restore_backups">Upravljanje in obnavljanje varnostnih kopij podatkov</string>
     <string name="manage_backups">Upravljanje varnostnih kopij</string>
     <string name="manage_cloud_backups">Upravljanje varnostnih kopij v oblaku</string>
@@ -354,6 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Prekliči izbiro</string>
     <string name="miuix_appcompat_deselect_all_description">Prekliči izbiro</string>
+    <string name="miuix_appcompat_edit">Uredi</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
     <string name="miuix_appcompat_search_input_description">Išči</string>
     <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -498,7 +500,7 @@ Preverite nastavitve omrežja in poskusite ponovno."</string>
     <string name="restore_header_title">Velikost varnostne kopije</string>
     <string name="restore_header_title2">Naprave</string>
     <string name="restore_header_title_backup_time">Čas</string>
-    <string name="restore_home_screen_apps">Obnovi predmete</string>
+    <string name="restore_home_screen_apps">Obnovitev</string>
     <string name="restore_home_screen_apps_options">Obnovi podatke</string>
     <string name="restore_network_pause">Zaustavljeno za prihranitev mobilnih podatkov. Tapnite za nadaljevanje.</string>
     <string name="restore_network_unconnect">%s (Čakanje na povezavo)</string>
@@ -525,7 +527,7 @@ Preverite nastavitve omrežja in poskusite ponovno."</string>
     <string name="save_not_backup_reason_disk_space_not_enough">Premalo prostora za shranjevanje naprave</string>
     <string name="save_not_backup_reason_disk_space_not_enough_dialog_message">Ta varnostna kopija zahteva vsaj %s razpoložljivega prostora za shranjevanje. Sprostite nekaj prostora v napravi in poskusite znova.</string>
     <string name="save_not_backup_reason_disk_space_not_enough_dialog_title">Premalo prostora za shranjevanje naprave</string>
-    <string name="save_not_backup_reason_get_installed_apps_denied_message">Dodelite zahtevana dovoljenja za uporabo te funkcije. Ko ste pozvani, izberite \"Vedno dovoli\". Želite odpreti nastavitve zdaj?</string>
+    <string name="save_not_backup_reason_get_installed_apps_denied_message">Dodelite zahtevana dovoljenja za uporabo te funkcije. Ko ste pozvani, izberite »Vedno dovoli«. Želite odpreti nastavitve zdaj?</string>
     <string name="save_not_backup_reason_network_error">Napaka v omrežju</string>
     <string name="save_not_backup_reason_no_server_response">Strežnik je zaseden. Poskusite varnostno kopirati ročno.</string>
     <string name="save_not_backup_reason_override">Za te naprave je potrebno ročno varnostno kopiranje</string>
@@ -550,7 +552,7 @@ Preverite nastavitve omrežja in poskusite ponovno."</string>
     <string name="session_failed_disk_no_space_restore_detail">Za obnovitev predmetov je potrebno vsaj %s prostora.</string>
     <string name="session_failed_disk_no_space_title">Premalo prostora v notranjem pomnilniku. Počistite prostor za shranjevanje in poskusite ponovno.</string>
     <string name="session_failed_dist_no_space_btn_text">Počisti pomnilnik</string>
-    <string name="session_failed_get_installed_apps_denied_detail">Če želite samodejno varnostno kopirati, tej aplikaciji v Nastavitvah dodelite dovoljenje za dostop do seznama aplikacij, nameščenih v vaši napravi, in izberite \"Zmeraj dovoli\".</string>
+    <string name="session_failed_get_installed_apps_denied_detail">Če želite samodejno varnostno kopirati, tej aplikaciji v Nastavitvah dodelite dovoljenje za dostop do seznama aplikacij, nameščenih v vaši napravi, in izberite »Zmeraj dovoli«.</string>
     <string name="session_failed_get_installed_apps_denied_title">Zahtevana dovoljenja</string>
     <string name="session_failed_no_server_response_title">Ni se mogoče povezati s strežnikom.</string>
     <string name="session_failed_override_detail">Lokalna varnostna kopija se razlikuje od tiste iz Xiaomi Clouda. Če boste nadaljevali, bo trenutna varnostna kopija prepisala preteklo različico. Želite prepisati?</string>
@@ -568,7 +570,7 @@ Preverite nastavitve omrežja in poskusite ponovno."</string>
     <string name="session_starting_backup_text">Priprava na varnostno kopiranje. To bo trajalo %1$d-%2$d minut.</string>
     <string name="session_starting_restore_text">Priprava na obnavljanje. To bo trajalo %1$d-%2$d minut.</string>
     <string name="session_success_backup_data_size">Velikost varnostne kopije: %s</string>
-    <string name="session_success_backup_finish_time">Varnostno kopiranje končano na %s</string>
+    <string name="session_success_backup_finish_time">Varnostno kopiranje končano %s</string>
     <string name="session_success_restore_data_size">Skupna velikost datotek: %s</string>
     <string name="session_success_restore_finish_time">Predmeti obnovljeni na %s</string>
     <string name="session_success_title_backup">Varnostno kopiranje uspešno</string>

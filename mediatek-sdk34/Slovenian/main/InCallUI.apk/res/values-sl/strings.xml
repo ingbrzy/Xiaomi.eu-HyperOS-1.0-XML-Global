@@ -385,7 +385,7 @@
     <string name="satellite_guide_azimuth">Premikajte dokler se ikona satelita ne znajde v modrem polju.</string>
     <string name="satellite_guide_down">"Napravo nagnite navzdol,
 da žogico postavite v modro območje"</string>
-    <string name="satellite_guide_elevation">Premikajte dokler se ikona satelita ne znajde v modrem krogu.</string>
+    <string name="satellite_guide_elevation">Tilt your device to move the blue circle on to the satellite, then stay still</string>
     <string name="satellite_guide_found">Satelit najden</string>
     <string name="satellite_guide_left">"Napravo nagnite v levo,
 da ikono satelita postavite v modro območje."</string>
@@ -393,6 +393,8 @@ da ikono satelita postavite v modro območje."</string>
 da ikono satelita postavite v modro območje."</string>
     <string name="satellite_guide_searching">Iskanje satelita…</string>
     <string name="satellite_guide_searching_floating">Iskanje …</string>
+    <string name="satellite_guide_searching_fold">"Searching for satellite… Don't unfold device."</string>
+    <string name="satellite_guide_searching_unfold">"Searching for satellite… Don't fold device."</string>
     <string name="satellite_guide_signal">Za boljši signal premaknite napravo rahlo navzgor in navzdol</string>
     <string name="satellite_guide_up">Napravo nagnite navzgor, da žogico postavite v modro območje</string>
     <string name="satellite_incall_tip">Zvočnik je vklopljen</string>

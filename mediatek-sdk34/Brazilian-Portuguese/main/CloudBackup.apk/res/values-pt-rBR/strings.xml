@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Não há espaço suficiente na nuvem para o backup dos dados do WeChat. Faça o upgrade do seu plano de armazenamento para fazer backup de mais itens.</string>
     <string name="backup_action_no_space_with_wechat_on_title">Não foi possível fazer backup de dados do WeChat</string>
     <string name="backup_action_retry_now">Tente novamente</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">O backup na nuvem coletará a lista de apps instalados no seu dispositivo e armazenará essas informações em nossos servidores. Armazenamos esses dados para que você possa baixá-los e restaurá-los sempre que necessário. Se você concorda com a coleta dessas informações, toque em \"Permitir\" abaixo.</string>
     <string name="backup_failed_reason_app_data_error">Não foi possível fazer backup de dados do WeChat</string>
     <string name="backup_failed_reason_app_usage_denied">Conceda as permissões requeridas para o backup de itens</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Não há espaço de armazenamento suficiente na nuvem para salvar este backup. Faça o upgrade do seu plano ou libere espaço no armazenamento da nuvem.</string>
@@ -155,8 +156,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">Gerenciar backups</string>
     <string name="cloud_backup_detail_no_time">Sem backups</string>
     <string name="cloud_backup_detail_state">Backups automáticos</string>
-    <string name="cloud_backup_detail_state_summary">Crie backups na Xiaomi Cloud automaticamente quando conectado por Wi-Fi.</string>
-    <string name="cloud_backup_detail_state_summary_china">Requer uma conexão Wi-Fi, ≥%s de bateria e tela bloqueada</string>
+    <string name="cloud_backup_detail_state_summary">Requer conexão Wi-Fi, bateria com no mínimo %s e a tela desligada.</string>
+    <string name="cloud_backup_detail_state_summary_china">Requer conexão Wi-Fi, bateria com no mínimo %s e a tela desligada.</string>
     <string name="cloud_backup_detail_time">Último backup: %1$s</string>
     <string name="cloud_backup_detail_title">Fazer backup de itens</string>
     <string name="cloud_backup_get_installed_apps_summary">Para fazer o backup e restaurar apps da Tela inicial</string>
@@ -354,6 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">Excluir</string>
     <string name="miuix_appcompat_deselect_all">Desmarcar tudo</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar tudo</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
     <string name="miuix_appcompat_select_all">Selecionar tudo</string>
@@ -568,7 +570,7 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="session_starting_backup_text">Preparando para fazer backup. Isto levará %1$d-%2$d minutos.</string>
     <string name="session_starting_restore_text">Preparando para restaurar. Isto levará %1$d-%2$d minutos.</string>
     <string name="session_success_backup_data_size">Tamanho do backup: %s</string>
-    <string name="session_success_backup_finish_time">Backup concluído em %s</string>
+    <string name="session_success_backup_finish_time">Backup concluído às %s</string>
     <string name="session_success_restore_data_size">Tamanho total de arquivos: %s</string>
     <string name="session_success_restore_finish_time">Itens restaurados em %s</string>
     <string name="session_success_title_backup">Backup concluído com sucesso</string>

@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Unzureichender Cloud-Speicher, um ein Backup von WeChat-Daten zu erstellen. Erhöhe deinen Speicherplan, um Backups zu erstellen.</string>
     <string name="backup_action_no_space_with_wechat_on_title">Backup von WeChat-Daten fehlgeschlagen</string>
     <string name="backup_action_retry_now">Wiederholen</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">Die Cloud-Sicherung erfasst die Liste der auf deinem Gerät installierten Apps und speichert diese Informationen auf unseren Servern. Wir speichern diese Daten, damit du sie bei Bedarf herunterladen und wiederherstellen kannst. Wenn du mit der Erfassung dieser Daten einverstanden bist, tippe unten auf „Zulassen“.</string>
     <string name="backup_failed_reason_app_data_error">Backup von WeChat-Daten fehlgeschlagen</string>
     <string name="backup_failed_reason_app_usage_denied">Erteile die benötigten Berechtigungen, um Backups von Elementen zu erstellen</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Es ist nicht mehr genügend Cloud-Speicher vorhanden, um dieses Backup zu speichern. Upgrade deinen Plan oder gib Cloud-Speicherplatz frei.</string>
@@ -155,8 +156,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">Sicherungen verwalten</string>
     <string name="cloud_backup_detail_no_time">Noch keine Sicherungen</string>
     <string name="cloud_backup_detail_state">Automatische Sicherungen</string>
-    <string name="cloud_backup_detail_state_summary">Xiaomi Cloud-Sicherung automatisch erstellen, wenn du mit WLAN verbunden sind.</string>
-    <string name="cloud_backup_detail_state_summary_china">Erfordert eine Verbindung zum WLAN, eine Stromversorgung ≥%s und einen gesperrten Bildschirm</string>
+    <string name="cloud_backup_detail_state_summary">Erfordert eine WLAN-Verbindung, einen Akkustand von mindestens %s und einen ausgeschalteten Bildschirm</string>
+    <string name="cloud_backup_detail_state_summary_china">Erfordert eine WLAN-Verbindung, einen Akkustand von mindestens %s und einen ausgeschalteten Bildschirm</string>
     <string name="cloud_backup_detail_time">Letzte Sicherung: %1$s</string>
     <string name="cloud_backup_detail_title">Elemente sichern</string>
     <string name="cloud_backup_get_installed_apps_summary">Zum Sichern und Wiederherstellen von Startbildschirm-Apps</string>
@@ -354,6 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">Löschen</string>
     <string name="miuix_appcompat_deselect_all">Auswahl aufheben</string>
     <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
+    <string name="miuix_appcompat_edit">Bearbeiten</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
     <string name="miuix_appcompat_search_input_description">Suchen</string>
     <string name="miuix_appcompat_select_all">Alles auswählen</string>

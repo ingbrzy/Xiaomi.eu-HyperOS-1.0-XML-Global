@@ -45,6 +45,7 @@
     <string name="app_name">Сканер</string>
     <string name="app_remove_icon_description_content">\"Сканер\" — это системное приложение. После удаления ярлыка с рабочего стола вы сможете найти его в разделе Настройки, а функция сканирования кодов будет доступна в приложениях \"Камера\", \"Браузер\", и \"Mi Wallet\".</string>
     <string name="app_remove_icon_description_title">Удалить \"Сканер\" с рабочего стола?</string>
+    <string name="auracast_code_title_key">Слушать трансляцию %s</string>
     <string name="back">Назад</string>
     <string name="barcode_into_rectangle">Разместите код внутри рамки</string>
     <string name="birthday">День рождения:</string>
@@ -101,7 +102,7 @@
     <string name="download_mipay">Использовать Mi Pay</string>
     <string name="drag_barcode_into_frame">Подгоните рамку по размерам кода</string>
     <string name="early_morning">Утро</string>
-    <string name="email">Email:</string>
+    <string name="email">E-mail</string>
     <string name="email_message">Текст</string>
     <string name="email_sub">Тема</string>
     <string name="empty" />
@@ -300,6 +301,7 @@
     <string name="permissions_use">Разрешения</string>
     <string name="phone">Телефон:</string>
     <string name="place_barcode_into_rectangle">Разместите код внутри рамки</string>
+    <string name="please_enable_bluetooth_retry">Включите Bluetooth и повторите попытку</string>
     <string name="pm">PM</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="preparing_sd">Подготовка внутренней памяти…</string>

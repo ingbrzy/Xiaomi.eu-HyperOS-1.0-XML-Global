@@ -45,6 +45,7 @@
     <string name="app_name">스캐너</string>
     <string name="app_remove_icon_description_content">스캐너는 시스템 앱입니다. 홈 화면 바로가기를 제거하신 후에 설정 또는 카메라, 브라우저 및 Mi 지갑을 사용한 코드 스캔으로 찾으실 수 있습니다.</string>
     <string name="app_remove_icon_description_title">홈 화면에서 \"스캐너\"를 제거하시겠습니까?</string>
+    <string name="auracast_code_title_key">%s의 브로드캐스트 청취</string>
     <string name="back">뒤로</string>
     <string name="barcode_into_rectangle">코드를 프레임 안으로 넣어주십시오.</string>
     <string name="birthday">생일:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">권한</string>
     <string name="phone">휴대전화:</string>
     <string name="place_barcode_into_rectangle">코드를 프레임 안으로 넣어주십시오.</string>
+    <string name="please_enable_bluetooth_retry">블루투스를 켜시고 다시 시도하십시오</string>
     <string name="pm">오후</string>
     <string name="preference_copied">"'%1$s'이(가) 클립보드에 복사되었습니다."</string>
     <string name="preparing_sd">내부 저장소 준비 중…</string>

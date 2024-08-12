@@ -172,6 +172,10 @@
         <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">۱ دقیقه پیش</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">همگام‌سازی برای %s مورد روشن نیست</item>
+        <item quantity="one">همگام‌سازی برای %s مورد روشن نیست</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s گونه خدمات با فضای ابری Xiaomi همگام‌سازی خواهند شد</item>
         <item quantity="one">%s گونه خدمت با فضای ابری Xiaomi همگام‌سازی خواهد شد</item>

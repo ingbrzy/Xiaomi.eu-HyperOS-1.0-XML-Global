@@ -17,7 +17,7 @@
     <string-array name="micloud_entrance_subtitleArray">
         <item>Sinhronizirajte vaše stike, sporočila, beležke, koledar in še več</item>
         <item>Naredite varnostne kopije aplikacij, razporeditve Začetnega zaslona in ozadja</item>
-        <item>Naredite varnostne kopije pomembnih stvari, vključno s Wi-Fi nastavitvah in zaslonom</item>
+        <item>Naredite varnostne kopije pomembnih stvari, vključno z Wi-Fi nastavitvami in zaslonom</item>
         <item>Zaklenite napravo na daljavo, če ste jo izgubili</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china">
@@ -39,17 +39,17 @@
     <string-array name="micloud_entrance_subtitleArray_v2">
         <item>Sinhronizirajte vaše stike, sporočila, beležke, koledar in še več</item>
         <item>Naredite varnostne kopije aplikacij, razporeditve Začetnega zaslona in ozadja</item>
-        <item>Naredite varnostne kopije pomembnih stvari, vključno s Wi-Fi nastavitvah in zaslonom</item>
+        <item>Naredite varnostne kopije pomembnih stvari, vključno z Wi-Fi nastavitvami in zaslonom</item>
         <item>Zaklenite napravo na daljavo, če ste jo izgubili</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
-        <item>Sinhronizacija podatkov aplikacije</item>
+        <item>Sinhronizacija podatkov aplikacij</item>
         <item>Varnostno kopiranje razporeditve Začetnega zaslona</item>
         <item>Nastavitve varnostne kopije sistema</item>
         <item>Poišči napravo</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray_pad">
-        <item>Sinhronizacija podatkov aplikacije</item>
+        <item>Sinhronizacija podatkov aplikacij</item>
         <item>Poišči napravo</item>
     </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">

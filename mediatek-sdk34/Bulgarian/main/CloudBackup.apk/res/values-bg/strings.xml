@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Нямате достатъчно място в паметта в облака, за да архивирате данни от WeChat. Подобрете плана си за памет, за да архивирате елементи.</string>
     <string name="backup_action_no_space_with_wechat_on_title">Неуспешно архивиране на данни от WeChat</string>
     <string name="backup_action_retry_now">Опитайте отново</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">Архива в Облака ще събере списъка с приложения, инсталирани на вашето устройство, и ще съхрани тази информация на нашите сървъри. Ние съхраняваме тези данни, за да можете да ги изтеглите и възстановите, когато е необходимо. Ако сте съгласни с нашето събиране на тази информация, натиснете „Разрешаване“ по-долу.</string>
     <string name="backup_failed_reason_app_data_error">Неуспешно архивиране на данни от WeChat</string>
     <string name="backup_failed_reason_app_usage_denied">Дайте необходимите разрешения, за да можете да архивирате елементи</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Не е налично достатъчно пространство в облака за запазването на това резервно копие. За да добавите повече пространство в облака променете абонамента си.</string>
@@ -155,8 +156,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">Управление на резервни копия</string>
     <string name="cloud_backup_detail_no_time">Тук все още няма архиви</string>
     <string name="cloud_backup_detail_state">Автоматични резервни копия</string>
-    <string name="cloud_backup_detail_state_summary">Автоматично създаване на резервни копия в Xiaomi Cloud, когато сте свързани с Wi-Fi.</string>
-    <string name="cloud_backup_detail_state_summary_china">Изисква връзка с WLAN, мощност ≥%s и Заключен екран</string>
+    <string name="cloud_backup_detail_state_summary">Изисква връзка с Wi-Fi, батерията заредена на поне %s и изключен екран</string>
+    <string name="cloud_backup_detail_state_summary_china">Изисква връзка с WLAN, батерията заредена на поне %s и изключен екран</string>
     <string name="cloud_backup_detail_time">Последен архив на: %1$s</string>
     <string name="cloud_backup_detail_title">Архивиране на елементи</string>
     <string name="cloud_backup_get_installed_apps_summary">За архивиране и възстановяване на приложения от Началния екран</string>
@@ -354,6 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">Изтрий</string>
     <string name="miuix_appcompat_deselect_all">Откажи всички</string>
     <string name="miuix_appcompat_deselect_all_description">Откажи всички</string>
+    <string name="miuix_appcompat_edit">Редактиране</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отказ</string>
     <string name="miuix_appcompat_search_input_description">Търси</string>
     <string name="miuix_appcompat_select_all">Избери всички</string>

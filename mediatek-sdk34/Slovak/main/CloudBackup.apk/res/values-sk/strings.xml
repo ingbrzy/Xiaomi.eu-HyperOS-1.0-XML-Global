@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Na zálohovanie dát aplikácie WeChat nie je dostatok úložného priestoru v cloude. Inovujte svoj plán úložiska a zálohujte si vaše položky.</string>
     <string name="backup_action_no_space_with_wechat_on_title">Dáta aplikácie WeChat nebolo možné zálohovať</string>
     <string name="backup_action_retry_now">Skúste to znova</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">Cloudová záloha zhromaždí zoznam aplikácií nainštalovaných vo vašom zariadení a uloží tieto informácie na naše servery. Tieto údaje ukladáme, aby ste si ich mohli kedykoľvek stiahnuť a obnoviť. Ak súhlasíte s naším zbieraním týchto informácií, ťuknite nižšie na „Povoliť“.</string>
     <string name="backup_failed_reason_app_data_error">Dáta aplikácie WeChat nebolo možné zálohovať</string>
     <string name="backup_failed_reason_app_usage_denied">Udeľte požadované povolenia na zálohovanie položiek</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Nedostatok úložiska na cloude na uloženie tejto zálohy. Navýšte svoj program alebo uvoľnite miesto na úložisku.</string>
@@ -155,8 +156,8 @@ Poznámka: Nastavenie nainštalovaných aplikácií nebude zálohované v služb
     <string name="cloud_backup_detail_manage">Spravovať zálohy</string>
     <string name="cloud_backup_detail_no_time">Zatiaľ žiadne zálohy</string>
     <string name="cloud_backup_detail_state">Automatické zálohovanie</string>
-    <string name="cloud_backup_detail_state_summary">Vytvárajte automatické zálohy na službu Xiaomi Cloud keď ste pripojený k Wi-Fi.</string>
-    <string name="cloud_backup_detail_state_summary_china">Vyžaduje sa pripojenie k WLAN, batéria nabitá na ≥%s, a uzamknutá obrazovka</string>
+    <string name="cloud_backup_detail_state_summary">Vyžaduje sa pripojenie Wi-Fi, batéria nabitá aspoň na %s a vypnutá obrazovka</string>
+    <string name="cloud_backup_detail_state_summary_china">Vyžaduje sa pripojenie WLAN, batéria nabitá aspoň na %s a vypnutá obrazovka</string>
     <string name="cloud_backup_detail_time">Posledné zálohovanie: %1$s</string>
     <string name="cloud_backup_detail_title">Zálohovať položky</string>
     <string name="cloud_backup_get_installed_apps_summary">Na zálohovanie a obnovenie aplikácií na ploche</string>
@@ -341,8 +342,8 @@ Poznámka: Nastavenie nainštalovaných aplikácií nebude zálohované v služb
     <string name="menu_item_managespace">Spravovať miesto</string>
     <string name="menu_item_more_backup_options">Ďalšie služby zálohovania</string>
     <string name="menu_item_sort">Zoradiť podľa</string>
-    <string name="menu_item_sort_name">Názvu</string>
-    <string name="menu_item_sort_size">Veľkosti</string>
+    <string name="menu_item_sort_name">Názov</string>
+    <string name="menu_item_sort_size">Veľkosť</string>
     <string name="midnight">Noc</string>
     <string name="miuix_access_state_desc">Vybraté</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Zrušiť výber</string>
@@ -354,6 +355,7 @@ Poznámka: Nastavenie nainštalovaných aplikácií nebude zálohované v služb
     <string name="miuix_appcompat_delete_description">Vymazať</string>
     <string name="miuix_appcompat_deselect_all">Zrušiť výber</string>
     <string name="miuix_appcompat_deselect_all_description">Zrušiť výber</string>
+    <string name="miuix_appcompat_edit">Upraviť</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Zrušiť</string>
     <string name="miuix_appcompat_search_input_description">Vyhľadať</string>
     <string name="miuix_appcompat_select_all">Vybrať všetko</string>
@@ -488,7 +490,7 @@ Skontrolujte nastavenia siete a skúste to znovu."</string>
     <string name="restore_failed_reason_app_data_error">Dáta aplikácie WeChat nebolo možné obnoviť</string>
     <string name="restore_failed_reason_disk_space_not_enough">Nedostatok úložiska. Najskôr uvoľnite miesto.</string>
     <string name="restore_failed_reason_network_error">Chyba siete. Chvíľu počkajte a skúste to znovu.</string>
-    <string name="restore_file_empty">Zatiaľ tu nie je</string>
+    <string name="restore_file_empty">Zatiaľ žiadne položky</string>
     <string name="restore_finished_notification_content">Obnovené aplikácie Domovskej obrazovky, systémové nastavenia, atď.</string>
     <string name="restore_from_cloud">Obnoviť z lokálnej zálohy cloudu</string>
     <string name="restore_from_mimover">Prenášajte z vášho starého zariadenia pomocou aplikácie Mi Mover</string>
@@ -587,8 +589,8 @@ Skontrolujte nastavenia siete a skúste to znovu."</string>
     <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Automatické zálohovanie dokončené</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Nedeľa</string>
-    <string name="sunday_short">Neď</string>
-    <string name="sunday_shortest">Neď</string>
+    <string name="sunday_short">Ned</string>
+    <string name="sunday_shortest">Ned</string>
     <string name="the_anniversary_of_lifting_martial_law">Výročie zrušenia stanného práva</string>
     <string name="the_anti_aggression_day">Deň proti násiliu</string>
     <string name="the_arbor_day">Altánkový deň</string>

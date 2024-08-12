@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Pilvitallennustila ei riitä WeChat-tietojen varmuuskopiointiin. Päivitä tallennustilapakettisi varmuuskopioidaksesi kohteita.</string>
     <string name="backup_action_no_space_with_wechat_on_title">WeChat-tietojen varmuuskopiointi epäonnistui</string>
     <string name="backup_action_retry_now">Yritä uudelleen</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">Pilvivarmuuskopiointi kerää luettelon laitteellesi asennetuista sovelluksista ja tallentaa nämä tiedot palvelimillemme. Tallennamme nämä tiedot, jotta voit ladata ja palauttaa ne tarvittaessa. Jos hyväksyt näiden tietojen keräämisen, napauta \"Salli\" alla.</string>
     <string name="backup_failed_reason_app_data_error">WeChat-tietojen varmuuskopiointi epäonnistui</string>
     <string name="backup_failed_reason_app_usage_denied">Myönnä tarvittavat käyttöoikeudet kohteiden varmuuskopiointiin</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Pilvitallennustilaa ei ole jäljellä tarpeeksi tämän varmuuskopion tallentamiseksi. Päivitä suunnitelma tai vapauta pilvitallennustilaa.</string>
@@ -155,8 +156,8 @@ Yritä uudelleen"</string>
     <string name="cloud_backup_detail_manage">Hallitse varmuuskopioita</string>
     <string name="cloud_backup_detail_no_time">Ei varmuuskopioita vielä</string>
     <string name="cloud_backup_detail_state">Automaattiset varmuuskopiot</string>
-    <string name="cloud_backup_detail_state_summary">Luo Xiaomi Cloud -varmuuskopioita automaattisesti, kun yhteydessä Wi-Fi-verkkoon.</string>
-    <string name="cloud_backup_detail_state_summary_china">Vaatii yhteyden WLAN-verkkoon, virtaa ≥%s ja lukittua näyttöä</string>
+    <string name="cloud_backup_detail_state_summary">Edellyttää yhteyden Wi-Fi-verkkoon, akun virtaa vähintään %s ja näyttö on sammutettu</string>
+    <string name="cloud_backup_detail_state_summary_china">Edellyttää yhteyden WLAN-verkkoon, akun virtaa vähintään %s ja näyttö on sammutettu</string>
     <string name="cloud_backup_detail_time">Viimeisin varmuuskopio: %1$s</string>
     <string name="cloud_backup_detail_title">Varmuuskopioitavat kohteet</string>
     <string name="cloud_backup_get_installed_apps_summary">Aloitusnäytön sovellusten varmuuskopiointiin ja palauttamiseen</string>
@@ -354,6 +355,7 @@ Yritä uudelleen"</string>
     <string name="miuix_appcompat_delete_description">Poista</string>
     <string name="miuix_appcompat_deselect_all">Kumoa kaikkien valinta</string>
     <string name="miuix_appcompat_deselect_all_description">Kumoa kaikkien valinta</string>
+    <string name="miuix_appcompat_edit">Muokkaa</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Peruuta</string>
     <string name="miuix_appcompat_search_input_description">Etsi</string>
     <string name="miuix_appcompat_select_all">Valitse kaikki</string>

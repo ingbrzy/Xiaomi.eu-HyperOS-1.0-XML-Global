@@ -25,6 +25,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">WeChat məlumatlarını yedəkləmək üçün kifayət qədər cloud saxlama sahəsi yoxdur. Elementləri yedəkləmək üçün yaddaş planınızı təkmilləşdirin.</string>
     <string name="backup_action_no_space_with_wechat_on_title">WeChat məlumatları yedəklənə bilmədi</string>
     <string name="backup_action_retry_now">Yenidən cəhd et</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">Cloud yedəkləməsi cihazınızda quraşdırılmış tətbiqlərin siyahısını toplayacaq və bu məlumatı serverlərimizdə saxlayacaq. Biz bu məlumatları saxlayırıq ki, siz lazım olduqda onu endirə və bərpa edə biləsiniz. Bu məlumatların toplanması ilə qəbul edirsinizsə, aşağıda \"İcazə verin\" üzərinə toxunun.</string>
     <string name="backup_failed_reason_app_data_error">WeChat məlumatları yedəklənə bilmədi</string>
     <string name="backup_failed_reason_app_usage_denied">Elemetnləri yedəkləmək üçün üçün lazımi icazələri verin</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Bu ehtiyatı saxlamaq üçün kifayət qədər cloud yaddaşı qalmayıb. Planınızı təkmilləşdirin və ya cloud yaddaşını boşaldın.</string>
@@ -128,8 +129,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">Yedəkləmələri idarə et</string>
     <string name="cloud_backup_detail_no_time">Yedəkləmə hələ yoxdur</string>
     <string name="cloud_backup_detail_state">Avtomatik yedəkləmələr</string>
-    <string name="cloud_backup_detail_state_summary">Wi-Fi-a qoşulduğunda avtomatik olaraq Xiaomi Cloud yedəkləməsini yarat.</string>
-    <string name="cloud_backup_detail_state_summary_china">WLAN bağlantısı, gücün ≥%s olmasını və kilid ekranı tələb edilir</string>
+    <string name="cloud_backup_detail_state_summary">Wi-Fi-a qoşulma, ən azı %s batareya gücü tələb olunur və ekran sönür.</string>
+    <string name="cloud_backup_detail_state_summary_china">WLAN-a qoşulma, ən azı %s batareya gücü tələb olunur və ekran sönür.</string>
     <string name="cloud_backup_detail_time">Son yedəkləmə: %1$s</string>
     <string name="cloud_backup_detail_title">Elementləri yedəklə</string>
     <string name="cloud_backup_get_installed_apps_summary">Əsas ekran tətbiqlərinin yedəkləməsini çıxarmaq və bərpa etmək üçün</string>
@@ -325,6 +326,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Bütün seçimi ləğv et</string>
     <string name="miuix_appcompat_deselect_all_description">Bütün seçimi ləğv et</string>
+    <string name="miuix_appcompat_edit">Düzəliş et</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ləğv et</string>
     <string name="miuix_appcompat_search_input_description">Axtar</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>

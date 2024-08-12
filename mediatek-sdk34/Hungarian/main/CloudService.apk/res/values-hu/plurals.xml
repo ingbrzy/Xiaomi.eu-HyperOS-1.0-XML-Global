@@ -172,6 +172,10 @@
         <item quantity="other">%d perccel ezelőtt</item>
         <item quantity="one">1 perce</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">A szinkronizálás nincs bekapcsolva %s elemhez</item>
+        <item quantity="one">A szinkronizálás nincs bekapcsolva %s elemhez</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s szolgáltatás kerül Xiaomi Cloud-szinkronizálásra</item>
         <item quantity="one">%s szolgáltatás kerül Xiaomi Cloud-szinkronizálásra</item>

@@ -46,6 +46,7 @@
     <string name="am">AM</string>
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">Неверное имя пользователя или пароль</string>
+    <string name="browser_sync_settings_preference">Автоматическая синхронизация</string>
     <string name="btn_return">Назад</string>
     <string name="btn_revoke_permission">Отзыв согласия</string>
     <string name="button_agree">Согласиться</string>
@@ -152,7 +153,7 @@
     <string name="early_morning">Утро</string>
     <string name="empty" />
     <string name="enable_find_device_success">Поиск устройства включен.</string>
-    <string name="enable_micloud">Войдите для использования Xiaomi Cloud</string>
+    <string name="enable_micloud">Вход в Xiaomi Cloud</string>
     <string name="enable_sync_setting_title">Настройка облачных сервисов…</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
@@ -259,6 +260,7 @@
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="gallery_auto_sync_fail_noti_content">Недостаточно места в облаке. Обновите план хранения, чтобы синхронизировать фото и видео.</string>
+    <string name="gallery_auto_sync_fail_noti_content_lite">Недостаточно места в облачном хранилище. Не удалось сохранить фото.</string>
     <string name="gallery_data_transfer_ddl">Срок: до %s</string>
     <string name="gallery_data_transfer_summary">Объекты Галереи больше нельзя синхронизировать с Xiaomi Cloud. Мы рекомендуем перенести фото и видео, которые были выгружены в облако, в Google Фото и использовать их службы для резервного копирования данных.</string>
     <string name="gallery_data_transfer_title">Перенос синхронизированных фото и видео в Google Фото</string>
@@ -560,6 +562,7 @@
     <string name="miuix_appcompat_delete_description">Удалить</string>
     <string name="miuix_appcompat_deselect_all">Отменить выбор</string>
     <string name="miuix_appcompat_deselect_all_description">Снять выбор</string>
+    <string name="miuix_appcompat_edit">Изменить</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -657,10 +660,10 @@
     <string name="privacy_and_agreement">Условия использования</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">Добро пожаловать в Поиск устройства! Вы можете использовать эту службу для поиска и блокировки ваших устройств, а также для удаления с них всех данных, если устройство было утеряно.</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">Добро пожаловать в Поиск устройства! Вы можете использовать эту службу для поиска и блокировки ваших устройств, а также для удаления с них всех данных, если устройство было утеряно.</string>
-    <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_china_v2">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad">Добро пожаловать в службы Xiaomi Cloud! Вы можете использовать Xiaomi Cloud для синхронизации сообщений, списка контактов, заметок, настроек Браузера, фото и видео, аудиозаписей, событий календаря и объектов Антиспама между всеми подключенными устройствами.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Добро пожаловать в службы Xiaomi Cloud! Вы можете использовать Xiaomi Cloud для синхронизации сообщений, заметок, настроек Браузера, фото и видео, аудиозаписей, событий календаря и объектов Антиспама между всеми подключенными устройствами.</string>
+    <string name="privacy_dialog_sync_all_purpose_china">Добро пожаловать в службы Xiaomi Cloud! Вы можете использовать Xiaomi Cloud для синхронизации сообщений, контактов, заметок, настроек Браузера, фото и видео, настроек WLAN, аудиозаписей, разметки рабочего стола, приложений, мероприятий, объектов Анти-спама и Ленты виджетов между всеми подключенными устройствами.</string>
+    <string name="privacy_dialog_sync_all_purpose_china_v2">Добро пожаловать в службы Xiaomi Cloud! Вы можете использовать Xiaomi Cloud для синхронизации сообщений, контактов, заметок, настроек Браузера, фото и видео, настроек WLAN, аудиозаписей, разметки рабочего стола, приложений, мероприятий, объектов Анти-спама и Ленты виджетов между всеми подключенными устройствами.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad">Добро пожаловать в службы Xiaomi Cloud! Вы можете использовать это приложение для синхронизации сообщений, контактов, заметок, объектов Браузера, альбомов в облаке, музыки, календаря, списка заблокированных и журнала вызовов с облаком.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Добро пожаловать в службы Xiaomi Cloud! Вы можете использовать это приложение для синхронизации сообщений, заметок, объектов Браузера, альбомов в облаке, музыки, календаря, списка заблокированных и журнала вызовов с облаком.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">Добро пожаловать в службы Xiaomi Cloud! Вы можете использовать Xiaomi Cloud для синхронизации списка контактов, заметок, настроек Браузера, фото и видео, аудиозаписей, событий календаря и объектов Антиспама между всеми подключенными устройствами.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">Добро пожаловать в службы Xiaomi Cloud! Вы можете использовать Xiaomi Cloud для синхронизации заметок, настроек Браузера, фото и видео, аудиозаписей, событий календаря и объектов Антиспама между всеми подключенными устройствами.</string>
     <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images and videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
@@ -927,7 +930,7 @@
     <string name="thursday">Четверг</string>
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>
-    <string name="time_picker_dialog_title">Настройка времени</string>
+    <string name="time_picker_dialog_title">Выберите время</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
     <string name="tip_short_cut_added_success">Ярлык создан</string>
@@ -944,7 +947,7 @@
     <string name="update_dialog_no_internet_toast_text">Проверьте подключение и повторите попытку</string>
     <string name="update_dialog_no_update_toast_text">Обновление не требуется</string>
     <string name="update_dialog_title">Доступно обновление</string>
-    <string name="update_dialog_update_button_text">Обновить</string>
+    <string name="update_dialog_update_button_text">Установить</string>
     <string name="upgrade_member_storage">Подписка Xiaomi Cloud</string>
     <string name="user_agreement_content">Используя этот сервис, вы принимаете %s.</string>
     <string name="user_agreement_link">Условия использования Xiaomi Cloud</string>

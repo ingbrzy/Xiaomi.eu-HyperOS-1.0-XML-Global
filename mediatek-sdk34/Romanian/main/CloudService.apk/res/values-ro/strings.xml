@@ -46,6 +46,7 @@
     <string name="am">AM</string>
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">Numele de utilizator sau parola nevalidă</string>
+    <string name="browser_sync_settings_preference">Sincronizează automat</string>
     <string name="btn_return">Înapoi</string>
     <string name="btn_revoke_permission">Retragerea consimțământului</string>
     <string name="button_agree">De acord</string>
@@ -70,7 +71,7 @@
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Familie</string>
-    <string name="cloud_storage_info_type_others">Alte</string>
+    <string name="cloud_storage_info_type_others">Altele</string>
     <string name="cloud_storage_info_type_pdc">Setări sistem</string>
     <string name="cloud_storage_loading_data">Doar o secundă…</string>
     <string name="cloud_storage_manage_title">Gestionare stocare</string>
@@ -254,11 +255,12 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="forget_password"><u>Parolă uitată</u></string>
+    <string name="forget_password"><u>Am uitat parola</u></string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vin</string>
     <string name="gallery_auto_sync_fail_noti_content">Nu a mai rămas suficient spațiu de stocare în cloud. Actualizați planul de stocare pentru a sincroniza fotografiile și videoclipurile.</string>
+    <string name="gallery_auto_sync_fail_noti_content_lite">Stocarea în cloud este insuficientă. Nu se pot salva fotografii.</string>
     <string name="gallery_data_transfer_ddl">Termen limită: %s</string>
     <string name="gallery_data_transfer_summary">Elementele din Galerie nu mai pot fi sincronizate cu Xiaomi Cloud. Vă recomandăm să transferați fotografiile și videoclipurile pe care le-ați sincronizat cu cloud-ul pe Google Foto și să utilizați serviciile acestora pentru a face copie de rezervă la elementele dvs.</string>
     <string name="gallery_data_transfer_title">Transferați fotografiile și videoclipurile sincronizate în Google Foto</string>
@@ -402,7 +404,7 @@
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay vă recomandă să activați Găsește dispozitiv</string>
     <string name="micloud_find_device_guide_progress">Se pornește Găsește dispozitiv…</string>
     <string name="micloud_find_device_guide_title">Conectați-vă la &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> cu Contul Xiaomi pentru a localiza și bloca dispozitivul, marcați ca și pierdut sau ștergeți datele de la distanță. Vezi detalii &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>aici&lt;/a>.</string>
-    <string name="micloud_find_device_inter_sms_alert_with_charge_hint">&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>un SMS internațional tarifat&lt;/b>&lt;/font> va fi trimis automat pentru a activa acest serviciu.&lt;br/>Când schimbați cartelele SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>un SMS internațional tarifat&lt;/b>&lt;/font> va fi trimis automat pentru reactivare.&lt;br/>Toate taxele SMS generate de acțiunile menționate mai sus vor fi colectate de operatorul dvs. Xiaomi nu vă va taxa pentru aceste mesaje.</string>
+    <string name="micloud_find_device_inter_sms_alert_with_charge_hint">&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b> SMS internațional tarifat&lt;/b>&lt;/font> va fi trimis automat pentru a activa acest serviciu.&lt;br/>Când schimbați cartelele SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b> SMS internațional tarifat&lt;/b>&lt;/font> va fi trimis automat pentru reactivare.&lt;br/>Toate taxele SMS generate de acțiunile menționate mai sus vor fi colectate de operatorul dvs. Xiaomi nu vă va taxa pentru aceste mesaje.</string>
     <string name="micloud_find_device_open_fail">Nu se poate porni Găseste dispozitiv</string>
     <string name="micloud_find_device_verify_button">Reactivați Găsește dispozitiv</string>
     <string name="micloud_find_device_verify_close">Oprește Găsește dispozitiv</string>
@@ -560,6 +562,7 @@ Asigurați-vă că utilizați Contul Xiaomi asociat ca și cont de sistem."</str
     <string name="miuix_appcompat_delete_description">Șterge</string>
     <string name="miuix_appcompat_deselect_all">Deselectează tot</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectează tot</string>
+    <string name="miuix_appcompat_edit">Editează</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Anulează</string>
     <string name="miuix_appcompat_search_input_description">Caută</string>
     <string name="miuix_appcompat_select_all">Selectează tot</string>
@@ -576,40 +579,40 @@ Asigurați-vă că utilizați Contul Xiaomi asociat ca și cont de sistem."</str
     <string name="monday">Luni</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
-    <string name="month_april">Aprilie</string>
+    <string name="month_april">aprilie</string>
     <string name="month_april_short">Apr</string>
     <string name="month_april_shortest">Apr</string>
-    <string name="month_august">August</string>
+    <string name="month_august">august</string>
     <string name="month_august_short">Aug</string>
     <string name="month_august_shortest">Aug</string>
-    <string name="month_december">Decembrie</string>
+    <string name="month_december">decembrie</string>
     <string name="month_december_short">Dec</string>
     <string name="month_december_shortest">Dec</string>
-    <string name="month_february">Februarie</string>
+    <string name="month_february">februarie</string>
     <string name="month_february_short">Feb</string>
     <string name="month_february_shortest">Feb</string>
-    <string name="month_january">Ianuarie</string>
+    <string name="month_january">ianuarie</string>
     <string name="month_january_short">Ian</string>
     <string name="month_january_shortest">Ian</string>
-    <string name="month_july">Iulie</string>
+    <string name="month_july">iulie</string>
     <string name="month_july_short">Iul</string>
     <string name="month_july_shortest">Iul</string>
-    <string name="month_june">Iunie</string>
+    <string name="month_june">iunie</string>
     <string name="month_june_short">Iun</string>
     <string name="month_june_shortest">Iun</string>
-    <string name="month_march">Martie</string>
+    <string name="month_march">martie</string>
     <string name="month_march_short">Mar</string>
     <string name="month_march_shortest">Mar</string>
-    <string name="month_may">Mai</string>
+    <string name="month_may">mai</string>
     <string name="month_may_short">Mai</string>
     <string name="month_may_shortest">Mai</string>
-    <string name="month_november">Noiembrie</string>
+    <string name="month_november">noiembrie</string>
     <string name="month_november_short">Nov</string>
     <string name="month_november_shortest">Nov</string>
-    <string name="month_october">Octombrie</string>
+    <string name="month_october">octombrie</string>
     <string name="month_october_short">Oct</string>
     <string name="month_october_shortest">Oct</string>
-    <string name="month_september">Septembrie</string>
+    <string name="month_september">septembrie</string>
     <string name="month_september_short">Sep</string>
     <string name="month_september_shortest">Sep</string>
     <string name="more">Mai mult</string>
@@ -657,10 +660,10 @@ Informațiile despre locație nu pot fi raportate atunci când conexiunea la re�
     <string name="privacy_and_agreement">Termeni și condiții</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">Bine ați venit la Găsește dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele de pe dispozitivul dvs. dacă acesta este pierdut.</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">Bine ați venit la Găsește dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele de pe dispozitivul dvs. dacă acesta este pierdut.</string>
-    <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_china_v2">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad">Bine ați venit la serviciile Xiaomi Cloud! Puteți utiliza Xiaomi Cloud pentru a vă sincroniza mesajele, contactele, notele, setările Browserului, fotografiile și videoclipurile, înregistrările, evenimentele din calendar și elementele Listei neagră pe toate dispozitivele conectate.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Bine ați venit la serviciile Xiaomi Cloud! Puteți utiliza Xiaomi Cloud pentru a vă sincroniza mesajele, notele, setările Browserului, fotografiile și videoclipurile, înregistrările, evenimentele din calendar și elementele Listei neagră pe toate dispozitivele conectate.</string>
+    <string name="privacy_dialog_sync_all_purpose_china">Bine ați venit la serviciile Xiaomi Cloud! Puteți utiliza Xiaomi Cloud pentru a vă sincroniza mesajele, istoricul apelurilor, contactele, notele, setările browserului, fotografiile și videoclipurile, setările WLAN, înregistrările, aspectul Ecranului principal, aplicații, evenimente din calendar, elemente din lista neagră, istoric apel și Aplicația seif în toate dispozitive conectate.</string>
+    <string name="privacy_dialog_sync_all_purpose_china_v2">Bine ați venit la serviciile Xiaomi Cloud! Puteți utiliza Xiaomi Cloud pentru a vă sincroniza mesajele, istoricul apelurilor, contactele, notele, setările browserului, fotografiile și videoclipurile, setările WLAN, înregistrările, aspectul Ecranului principal, aplicații, evenimente din calendar, elemente din lista neagră, istoric apel și Aplicația seif în toate dispozitive conectate.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad">Bine ați venit la serviciile Xiaomi Cloud! Puteți utiliza această aplicație pentru a vă sincroniza mesajele, contactele, notele, elementele din browser, albumele în cloud, muzica, calendarul, lista neagră și istoricul apelurilor în cloud.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Bine ați venit la serviciile Xiaomi Cloud! Puteți utiliza această aplicație pentru a vă sincroniza mesajele, notele, elementele din browser, albumele în cloud, muzica, calendarul, lista neagră și istoricul apelurilor în cloud.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">Bine ați venit la serviciile Xiaomi Cloud! Puteți utiliza Xiaomi Cloud pentru a vă sincroniza contactele, notele, setările Browserului, fotografiile și videoclipurile, înregistrările, evenimentele din calendar și elementele Listei neagră pe toate dispozitivele conectate.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">Bine ați venit la serviciile Xiaomi Cloud! Puteți utiliza Xiaomi Cloud pentru a vă sincroniza notele, setările Browserului, fotografiile și videoclipurile, înregistrările, evenimentele din calendar și elementele Listei neagră pe toate dispozitivele conectate.</string>
     <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images and videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
@@ -697,7 +700,7 @@ Informațiile despre locație nu pot fi raportate atunci când conexiunea la re�
     <string name="privacy_runtime_perm_phone_state_desc">Pentru accesarea numărului de telefon și a stării dispozitivului</string>
     <string name="privacy_runtime_perm_phone_state_title">Accesare informații dispozitiv</string>
     <string name="privacy_runtime_perm_sms_desc">Pentru sincronizarea mesajelor</string>
-    <string name="privacy_runtime_perm_sms_title">Accesează mesaje</string>
+    <string name="privacy_runtime_perm_sms_title">Accesare mesaje</string>
     <string name="privacy_settings">Confidențialitate</string>
     <string name="provision_back">Înapoi</string>
     <string name="provision_next">Următorul</string>
@@ -944,7 +947,7 @@ Informațiile despre locație nu pot fi raportate atunci când conexiunea la re�
     <string name="update_dialog_no_internet_toast_text">Verificați-vă conexiunea la internet și încercați din nou</string>
     <string name="update_dialog_no_update_toast_text">Versiunea actuală este actualizată</string>
     <string name="update_dialog_title">Actualizare disponibilă</string>
-    <string name="update_dialog_update_button_text">Actualizează</string>
+    <string name="update_dialog_update_button_text">Instalează</string>
     <string name="upgrade_member_storage">Cumpără calitate de membru la Xiaomi Cloud</string>
     <string name="user_agreement_content">Prin utilizarea acestui serviciu, sunteți de acord cu %s.</string>
     <string name="user_agreement_link">Condiții de utilizare Xiaomi Cloud</string>

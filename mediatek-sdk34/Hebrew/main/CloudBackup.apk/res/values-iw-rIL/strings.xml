@@ -25,6 +25,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">אין די שטח אחסון בענן כדי לגבות נתונים של WeChat. שדרג את תוכנית האחסון שלך כדי לגבות פריטים.</string>
     <string name="backup_action_no_space_with_wechat_on_title">לא ניתן היה לגבות נתונים של WeChat</string>
     <string name="backup_action_retry_now">נסה שוב</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">גיבוי בענן יאסוף את רשימת היישומים המותקנים במכשיר שלכם ויאחסן את המידע הזה בשרתים שלנו. אנו מאחסנים את הנתונים הללו כדי שתוכלו להוריד ולשחזר אותם בעת הצורך. אם אתם מסכימים לאיסוף המידע הזה, נא להקיש למטה על \"לאפשר\".</string>
     <string name="backup_failed_reason_app_data_error">לא ניתן היה לגבות את נתוני WeChat</string>
     <string name="backup_failed_reason_app_usage_denied">תן את ההרשאות הנחוצות לגיבוי פריטים</string>
     <string name="backup_failed_reason_cloud_space_not_enough">לא נותר מספיק שטח אחסון בענן כדי לשמור גיבוי זה. שדרג את התוכנית שלך או פנה שטח אחסון בענן.</string>
@@ -128,8 +129,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">נהל גיבויים</string>
     <string name="cloud_backup_detail_no_time">אין גיבויים עדיין</string>
     <string name="cloud_backup_detail_state">גיבויים אוטומטיים</string>
-    <string name="cloud_backup_detail_state_summary">צור גיבויי Xiaomi Cloud באופן אוטומטי בעת חיבור לרשת האלחוטית.</string>
-    <string name="cloud_backup_detail_state_summary_china">נדרשים חיבור ל-WLAN, רמת סוללה של ≥%s, ומסך נעול.</string>
+    <string name="cloud_backup_detail_state_summary">מחייב חיבור ל-Wi-Fi, אחוז סוללה של %s לפחות ומסך כבוי</string>
+    <string name="cloud_backup_detail_state_summary_china">מחייב חיבור ל-WLAN, אחוז סוללה של %s לפחות ומסך כבוי</string>
     <string name="cloud_backup_detail_time">גיבוי אחרון: %1$s</string>
     <string name="cloud_backup_detail_title">גיבוי פריטים</string>
     <string name="cloud_backup_get_installed_apps_summary">לגיבוי ושחזור של יישומי מסך הבית</string>
@@ -325,6 +326,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">מחק</string>
     <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
+    <string name="miuix_appcompat_edit">עריכה</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
     <string name="miuix_appcompat_select_all">בחר הכל</string>

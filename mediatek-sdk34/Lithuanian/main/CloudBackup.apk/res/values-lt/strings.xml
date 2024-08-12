@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Nepakanka debesies saugyklos vietos, kad būtų galima išsaugoti „WeChat“ duomenis. Atnaujinkite savo saugyklos planą, kad padarytumėte atsargines elementų kopijas.</string>
     <string name="backup_action_no_space_with_wechat_on_title">Nepavyko padaryti atsarginės „WeChat“ duomenų kopijos</string>
     <string name="backup_action_retry_now">Pakartoti</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">Debesų atsarginės kopijos programa rinks jūsų įrenginyje įdiegtų programų sąrašą ir išsaugos šią informaciją mūsų serveriuose. Saugome šiuos duomenis, kad prireikus galėtumėte juos atsisiųsti ir atkurti. Jei sutinkate su mūsų vykdomu šios informacijos rinkimu, toliau bakstelėkite „Leisti“.</string>
     <string name="backup_failed_reason_app_data_error">Nepavyko padaryti atsarginės „WeChat“ duomenų kopijos</string>
     <string name="backup_failed_reason_app_usage_denied">Suteikite reikiamus leidimus atsarginėms kopijoms kurti</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Šiai atsarginei kopijai nepakanka laisvos debesies saugyklos vietos. Atnaujinkite planą arba atlaisvinkite vietos debesies saugykloje.</string>
@@ -155,8 +156,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">Tvarkyti kopijas</string>
     <string name="cloud_backup_detail_no_time">Dar nėra atsarginių kopijų</string>
     <string name="cloud_backup_detail_state">Automatinis atsarginis kopijavimas</string>
-    <string name="cloud_backup_detail_state_summary">Automatiškai sukurti „Xiaomi debesies“ atsargines kopijas prisijungus prie „Wi-Fi“.</string>
-    <string name="cloud_backup_detail_state_summary_china">Reikalingas prisijungimas prie WLAN, akumuliatorius lygis ≥%s ir užrakintas ekranas</string>
+    <string name="cloud_backup_detail_state_summary">Būtinas „Wi-Fi“ ryšys, bent %s akumuliatoriaus įkrova, ekranas turi būti išjungtas</string>
+    <string name="cloud_backup_detail_state_summary_china">Būtinas WLAN ryšys, bent %s akumuliatoriaus įkrova, ekranas turi būti išjungtas</string>
     <string name="cloud_backup_detail_time">Paskutinė kopija: %1$s</string>
     <string name="cloud_backup_detail_title">Atkurti elementus</string>
     <string name="cloud_backup_get_installed_apps_summary">Atsarginių kopijų kūrimui ir pagridinio ekrano programų atkūrimui</string>
@@ -354,6 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">Trinti</string>
     <string name="miuix_appcompat_deselect_all">Atžymėti viską</string>
     <string name="miuix_appcompat_deselect_all_description">Atžymėti viską</string>
+    <string name="miuix_appcompat_edit">Redaguoti</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Atšaukti</string>
     <string name="miuix_appcompat_search_input_description">Ieškoti</string>
     <string name="miuix_appcompat_select_all">Žymėti viską</string>

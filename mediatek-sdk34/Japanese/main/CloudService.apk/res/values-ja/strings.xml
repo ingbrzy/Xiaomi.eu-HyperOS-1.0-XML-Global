@@ -46,6 +46,7 @@
     <string name="am">午前</string>
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">アカウントまたはパスワードが無効です</string>
+    <string name="browser_sync_settings_preference">自動的に同期</string>
     <string name="btn_return">戻る</string>
     <string name="btn_revoke_permission">同意を撤回</string>
     <string name="button_agree">同意</string>
@@ -259,6 +260,7 @@
     <string name="friday_short">金</string>
     <string name="friday_shortest">金</string>
     <string name="gallery_auto_sync_fail_noti_content">クラウドの空き容量が足りません。写真やビデオを同期するには、ストレージプランをアップグレードしてください。</string>
+    <string name="gallery_auto_sync_fail_noti_content_lite">クラウドストレージが不足しています。写真を保存できません。</string>
     <string name="gallery_data_transfer_ddl">期限：%s</string>
     <string name="gallery_data_transfer_summary">ギャラリーのアイテムは、Xiaomi Cloudに同期できなくなりました。クラウドと同期した写真やビデオはGoogle フォトに転送し、Google フォトのサービスを利用してアイテムをバックアップすることをお勧めします。</string>
     <string name="gallery_data_transfer_title">同期した写真やビデオをGoogle フォトに転送</string>
@@ -560,6 +562,7 @@
     <string name="miuix_appcompat_delete_description">削除</string>
     <string name="miuix_appcompat_deselect_all">すべての選択を解除</string>
     <string name="miuix_appcompat_deselect_all_description">すべての選択を解除</string>
+    <string name="miuix_appcompat_edit">編集</string>
     <string name="miuix_appcompat_search_action_mode_cancel">キャンセル</string>
     <string name="miuix_appcompat_search_input_description">検索</string>
     <string name="miuix_appcompat_select_all">すべて選択</string>
@@ -657,10 +660,10 @@
     <string name="privacy_and_agreement">使用条件</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">\"デバイスを探す\"へようこそ！このサービスを使用すると、デバイスを紛失した際にデバイスの位置特定やロック、データの消去を実行できます。</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">\"デバイスを探す\"へようこそ！このサービスを使用すると、デバイスを紛失した際にデバイスの位置特定やロック、データの消去を実行できます。</string>
-    <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_china_v2">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad">Xiaomi Cloudサービスへようこそ！Xiaomi Cloudを使用すると、接続されているすべてのデバイス間で、メッセージ、連絡先、メモ、ブラウザー設定、写真やビデオ、録音、カレンダーイベント、ブロックリストアイテムを同期することができます。</string>
-    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Xiaomi Cloudサービスへようこそ！Xiaomi Cloudを使用すると、接続されているすべてのデバイス間で、メッセージ、メモ、ブラウザー設定、写真やビデオ、録音、カレンダーイベント、ブロックリストアイテムを同期することができます。</string>
+    <string name="privacy_dialog_sync_all_purpose_china">Xiaomi Cloud サービスへようこそ！Xiaomi Cloud を使用すると、接続されているすべてのデバイスで、メッセージ、連絡先、メモ、ブラウザー設定、写真とビデオ、WLAN設定、録音、ホーム画面のレイアウト、アプリ、カレンダーのイベント、ブロックリストのアイテム、通話履歴、アプリ保管庫を同期できます。</string>
+    <string name="privacy_dialog_sync_all_purpose_china_v2">Xiaomi Cloud サービスへようこそ！Xiaomi Cloud を使用すると、接続されているすべてのデバイスで、メッセージ、連絡先、メモ、ブラウザー設定、写真とビデオ、WLAN設定、録音、ホーム画面のレイアウト、アプリ、カレンダーのイベント、ブロックリストのアイテム、通話履歴、アプリ保管庫を同期できます。</string>
+    <string name="privacy_dialog_sync_all_purpose_pad">Xiaomi Cloud サービスへようこそ！このアプリを使用すると、メッセージ、連絡先、メモ、ブラウザーアイテム、クラウドアルバム、音楽、カレンダー、ブロックリスト、通話履歴をクラウドに同期できます。</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Xiaomi Cloud サービスへようこそ！このアプリを使用すると、メッセージ、メモ、ブラウザーアイテム、クラウドアルバム、音楽、カレンダー、ブロックリスト、通話履歴をクラウドに同期できます。</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">Xiaomi Cloudサービスへようこそ！Xiaomi Cloudを使用すると、接続されているすべてのデバイス間で、連絡先、メモ、ブラウザー設定、写真やビデオ、録音、カレンダーイベント、ブロックリストアイテムを同期することができます。</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">Xiaomi Cloudサービスへようこそ！Xiaomi Cloudを使用すると、接続されているすべてのデバイス間で、メモ、ブラウザー設定、写真やビデオ、録音、カレンダーイベント、ブロックリストアイテムを同期することができます。</string>
     <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images and videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
@@ -944,7 +947,7 @@
     <string name="update_dialog_no_internet_toast_text">インターネット接続を確認して、もう一度お試しください</string>
     <string name="update_dialog_no_update_toast_text">現在のバージョンは最新です</string>
     <string name="update_dialog_title">アップデートが利用可能です</string>
-    <string name="update_dialog_update_button_text">アップデート</string>
+    <string name="update_dialog_update_button_text">インストール</string>
     <string name="upgrade_member_storage">Xiaomi Cloudのメンバーシップ</string>
     <string name="user_agreement_content">このサービスを利用することにより、%sに同意したことになります。</string>
     <string name="user_agreement_link">Xiaomi Cloudのサービス利用規約</string>

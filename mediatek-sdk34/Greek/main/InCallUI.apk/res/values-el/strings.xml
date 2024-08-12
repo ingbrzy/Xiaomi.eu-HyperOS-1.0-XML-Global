@@ -385,7 +385,7 @@
     <string name="satellite_guide_azimuth">Μετακινηθείτε έως ότου το εικονίδιο του δορυφόρου είναι στο μπλε σημείο</string>
     <string name="satellite_guide_down">"Γείρετε τη συσκευή σας προς τα κάτω
 για να βάλετε την μπάλα στο μπλε σημείο"</string>
-    <string name="satellite_guide_elevation">Μετακινηθείτε έως ότου το εικονίδιο του δορυφόρου είναι στον μπλε κύκλο</string>
+    <string name="satellite_guide_elevation">Tilt your device to move the blue circle on to the satellite, then stay still</string>
     <string name="satellite_guide_found">Βρέθηκε δορυφόρος</string>
     <string name="satellite_guide_left">"Γείρετε τη συσκευή σας προς τα αριστερά
 για να βάλετε το εικονίδιο δορυφόρου στο μπλε σημείο"</string>
@@ -393,6 +393,8 @@
 για να βάλετε το εικονίδιο δορυφόρου στο μπλε σημείο"</string>
     <string name="satellite_guide_searching">Αναζήτηση για δορυφόρους…</string>
     <string name="satellite_guide_searching_floating">Γίνεται αναζήτηση…</string>
+    <string name="satellite_guide_searching_fold">"Searching for satellite… Don't unfold device."</string>
+    <string name="satellite_guide_searching_unfold">"Searching for satellite… Don't fold device."</string>
     <string name="satellite_guide_signal">Για καλύτερο σήμα, κινήστε τη συσκευή σας ελαφρώς πάνω και κάτω</string>
     <string name="satellite_guide_up">"Γείρετε τη συσκευή σας προς τα επάνω
 για να βάλετε την μπάλα στο μπλε σημείο"</string>

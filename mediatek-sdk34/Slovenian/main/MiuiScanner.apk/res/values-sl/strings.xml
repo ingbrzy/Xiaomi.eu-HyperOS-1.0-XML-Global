@@ -44,7 +44,8 @@
     <string name="app_details">Aplikacija:</string>
     <string name="app_name">Skener</string>
     <string name="app_remove_icon_description_content">Skener je sistemska aplikacija. Čeprav odstranite bližnjico na Začetnem zaslonu, boste jo še zmeraj lahko našli v Nastavitvah ali skenirali kode preko aplikacij Kamera, Brskalnik in Mi Denarnica.</string>
-    <string name="app_remove_icon_description_title">Želite odstraniti \"Skener\" iz Začetnega zaslona?</string>
+    <string name="app_remove_icon_description_title">Želite odstraniti Skener iz Začetnega zaslona?</string>
+    <string name="auracast_code_title_key">Poslušajte oddajo %s</string>
     <string name="back">Nazaj</string>
     <string name="barcode_into_rectangle">Postavite kodo znotraj okvira</string>
     <string name="birthday">Rojstni dan:</string>
@@ -181,7 +182,7 @@
     <string name="friday_shortest">Pet</string>
     <string name="got_it">Razumem</string>
     <string name="import_contact">Uvozi stik</string>
-    <string name="impunity_declaration_content">Aplikacija Skener mora uporabiti vašo kamero in obdelovati slike, ki jih zajamete med uporabo aplikacije. Aplikacije Skener ne uporabljajte za zajemanje fotografij predmetov, ki vsebujejo vaše osebne podatke. S pritiskom na \"Strinjam se\" se strinjate z našim &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Pravilnikom o zasebnosti&lt;/a>&lt;/font> in aplikaciji Skener dovolite, da se poveže z internetom.</string>
+    <string name="impunity_declaration_content">Aplikacija Skener mora uporabiti vašo kamero in obdelovati slike, ki jih zajamete med uporabo aplikacije. Aplikacije Skener ne uporabljajte za zajemanje fotografij predmetov, ki vsebujejo vaše osebne podatke. S pritiskom na »Strinjam se« se strinjate z našim &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Pravilnikom o zasebnosti&lt;/a>&lt;/font> in aplikaciji Skener dovolite, da se poveže z internetom.</string>
     <string name="impunity_declaration_negative_text">Izhod</string>
     <string name="jingdong">JD</string>
     <string name="kuaidi100_data">Omogoča Kuaidi 100</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Dovoljenja</string>
     <string name="phone">Telefon:</string>
     <string name="place_barcode_into_rectangle">Postavite kodo znotraj okvira</string>
+    <string name="please_enable_bluetooth_retry">Vklopite Bluetooth in poskusite znova</string>
     <string name="pm">pop.</string>
     <string name="preference_copied">»%1$s« je bilo kopirano v odložišče.</string>
     <string name="preparing_sd">Pripravljanje notranjega pomnilnika…</string>
@@ -341,7 +343,7 @@
     <string name="sunday">Nedelja</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">Ned</string>
-    <string name="switch_open">Vključi</string>
+    <string name="switch_open">Vklopi</string>
     <string name="taobao">Taobao</string>
     <string name="text_search">Išči</string>
     <string name="the_anniversary_of_lifting_martial_law">Obletnica odprave vojaškega prava</string>

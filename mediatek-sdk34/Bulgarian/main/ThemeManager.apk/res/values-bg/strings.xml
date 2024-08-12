@@ -397,6 +397,9 @@
     <string name="incompatible_dialog_message">Тази тема не е съвместима със системната версия на Вашето устройство. Ако приложите тази тема, някои системни функции може да не работят правилно.</string>
     <string name="incompatible_dialog_ok">Разбрах</string>
     <string name="incompatible_dialog_title">Грешка при съвместимостта</string>
+    <string name="install_fail">Неуспешно инсталиране</string>
+    <string name="install_succ">Успешно инсталирано</string>
+    <string name="installing">Инсталиране…</string>
     <string name="is_setting_wallpaper_message">Тапетът се задава…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Будилници</string>
@@ -671,7 +674,7 @@ mm"</string>
     <string name="payment_coins_balance">(Баланс: %1s)</string>
     <string name="payment_coins_insufficient_balance">(Недостатъчен баланс)</string>
     <string name="payment_data_move_tips">Данните от Вашия профил ще бъдат преместени в сървъри във Вашия регион, с цел спазването на закони за поверителност. Съществува риск от загуба на данни при преместването.</string>
-    <string name="payment_instructions"><Data>Извършвайки това заплащане, Вие приемате &lt;a href=\"%1$s\">Известието за покупки в приложението&lt;/a>.</Data></string>
+    <string name="payment_instructions">&lt;Data>Извършвайки това заплащане, Вие приемате &lt;a href=\"%1$s\">Известието за покупки в приложението&lt;/a>.&lt;/Data></string>
     <string name="payment_method">Метод на плащане</string>
     <string name="permission_desc">За съхраняване на запазени теми и други теми</string>
     <string name="permission_pop_desc">За да можете да промените предпочитанията за персонализация и да запазвате изтеглени елементи, първо разрешете на Теми да получават достъп до паметта.</string>
@@ -699,9 +702,6 @@ mm"</string>
     <string name="present_official_themes">Нашите предложения</string>
     <string name="present_online_themes">Получете още теми онлайн</string>
     <string name="privacy_desc">Правила за поверителност (задължително)</string>
-    <string name="privacy_simple_content">Включете персонализираните препоръки, за да получавате съдържание и продукти, подбрани според Вашите интереси.</string>
-    <string name="privacy_simple_hint">Можете да промените предпочитанията си по всяко време в „Настройки“.</string>
-    <string name="privacy_simple_title">Персонализирани препоръки</string>
     <string name="promotion_ad">Промоция</string>
     <string name="provision_default_theme_title">По подразбиране</string>
     <string name="provision_download_cancel">Изтеглянето е отменено.</string>
@@ -1195,9 +1195,9 @@ mm"</string>
     <string name="user_authorization_dialog_agree">Приемам</string>
     <string name="user_authorization_dialog_agree_a">Приемам</string>
     <string name="user_authorization_dialog_disagree">Изход</string>
-    <string name="user_authorization_dialog_message"><Data>"Необходимо е да събираме ваши лични данни, за да можем да ви предоставяме основни услуги. Можете да научите как обработваме събраната информация в нашите &lt;a href=\"%1$s\">Правила за поверителност&lt;/a>. Прочетете и приемете нашето &lt;a href=\"%2$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%3$s\">Правила за поверителност&lt;/a> преди да използвате Теми.
-Можете да оттеглите съгласието си за Правилата за поверителност на Теми в Настройки по всяко време."</Data></string>
-    <string name="user_authorization_dialog_message_a"><Data>Преди да продължите приемете нашето &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%2$s\">Правила за поверителност&lt;/a>. Можете да промените предпочитанията си по всяко време в Настройките.</Data></string>
+    <string name="user_authorization_dialog_message">"&lt;Data>Необходимо е да събираме ваши лични данни, за да можем да ви предоставяме основни услуги. Можете да научите как обработваме събраната информация в нашите &lt;a href=\"%1$s\">Правила за поверителност&lt;/a>. Прочетете и приемете нашето &lt;a href=\"%2$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%3$s\">Правила за поверителност&lt;/a> преди да използвате Теми.
+Можете да оттеглите съгласието си за Правилата за поверителност на Теми в Настройки по всяко време.&lt;/Data>"</string>
+    <string name="user_authorization_dialog_message_a">&lt;Data>Преди да продължите приемете нашето &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%2$s\">Правила за поверителност&lt;/a>. Можете да промените предпочитанията си по всяко време в Настройките.&lt;/Data></string>
     <string name="user_authorization_dialog_title">Правила и условия</string>
     <string name="user_know">Разбрах</string>
     <string name="using_theme_has_update_tips">Налично е обновление за тази тема.</string>

@@ -45,6 +45,7 @@
     <string name="app_name">Tarayıcı</string>
     <string name="app_remove_icon_description_content">"Tarayıcı bir sistem uygulamasıdır. Ana ekran kısayolundan kaldırdıktan sonra Ayarlar'da bulamaz veya Kamera, Tarayıcı ve Mi Cüzdan kullanarak kodları tarayamazsınız."</string>
     <string name="app_remove_icon_description_title">"''Tarayıcı'' Ana ekrandan kaldırılsın mı?"</string>
+    <string name="auracast_code_title_key">%s yayınını dinleyin</string>
     <string name="back">Geri</string>
     <string name="barcode_into_rectangle">Kodu çerçevenin içerisine hizalayın</string>
     <string name="birthday">Doğum günü:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">İzinler</string>
     <string name="phone">Telefon:</string>
     <string name="place_barcode_into_rectangle">Kodu çerçevenin içerisine hizalayın</string>
+    <string name="please_enable_bluetooth_retry">"Bluetooth'u açın ve tekrar deneyin"</string>
     <string name="pm">ÖS</string>
     <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
     <string name="preparing_sd">Dahili depolama alanı hazırlanıyor…</string>

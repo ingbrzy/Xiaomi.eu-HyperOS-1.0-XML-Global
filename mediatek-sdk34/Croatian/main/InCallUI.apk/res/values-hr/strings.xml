@@ -385,7 +385,7 @@
     <string name="satellite_guide_azimuth">Pomičite se dok ikona satelita ne bude u plavom području</string>
     <string name="satellite_guide_down">"Nagnite uređaj prema dolje
 da stavite loptu na plavo područje"</string>
-    <string name="satellite_guide_elevation">Pomičite se dok ikona satelita ne bude u plavom krugu</string>
+    <string name="satellite_guide_elevation">Tilt your device to move the blue circle on to the satellite, then stay still</string>
     <string name="satellite_guide_found">Satelit pronađen</string>
     <string name="satellite_guide_left">"Nagnite uređaj ulijevo
 da biste ikonu satelita postavili u plavo područje"</string>
@@ -393,6 +393,8 @@ da biste ikonu satelita postavili u plavo područje"</string>
 da biste ikonu satelita postavili u plavo područje"</string>
     <string name="satellite_guide_searching">Traženje satelita…</string>
     <string name="satellite_guide_searching_floating">Pretraživanje…</string>
+    <string name="satellite_guide_searching_fold">"Searching for satellite… Don't unfold device."</string>
+    <string name="satellite_guide_searching_unfold">"Searching for satellite… Don't fold device."</string>
     <string name="satellite_guide_signal">Za bolji signal lagano pomičite uređaj gore-dolje</string>
     <string name="satellite_guide_up">"Nagnite uređaj prema gore
 da stavite loptu na plavo područje"</string>

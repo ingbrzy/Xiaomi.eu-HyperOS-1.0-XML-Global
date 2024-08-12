@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Недостаточно места в облаке для создания копии данных WeChat. Обновите план хранилища, чтобы создать резервную копию.</string>
     <string name="backup_action_no_space_with_wechat_on_title">Не удалось создать резервную копию данных WeChat</string>
     <string name="backup_action_retry_now">Повторить</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">Резервное копирование в облако собирает список приложений, установленных на вашем устройстве, и хранит эту информацию на нашем сервере. Мы храним эти данные для того, чтобы вы могли загружать и восстанавливать их в случае необходимости. Если вы согласны на сбор этой информации, нажмите \"Разрешить\" ниже.</string>
     <string name="backup_failed_reason_app_data_error">Не удалось создать резервную копию данных WeChat</string>
     <string name="backup_failed_reason_app_usage_denied">Предоставьте необходимые разрешения, чтобы создать резервную копию.</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Недостаточно места для создания резервной копии в облаке. Измените план подписки или освободите место в облаке.</string>
@@ -155,8 +156,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">Управление резервными копиями</string>
     <string name="cloud_backup_detail_no_time">Нет резервных копий</string>
     <string name="cloud_backup_detail_state">Авторезервирование</string>
-    <string name="cloud_backup_detail_state_summary">Создавать резервные копии автоматически при подключении к Wi-Fi</string>
-    <string name="cloud_backup_detail_state_summary_china">Требуется подключение к сети WLAN, уровень заряда не менее %s, а экран должен быть заблокирован.</string>
+    <string name="cloud_backup_detail_state_summary">Требуется подключение к сети Wi-Fi, уровень заряда не менее %s и выключенный экран.</string>
+    <string name="cloud_backup_detail_state_summary_china">Требуется подключение к сети WLAN, уровень заряда не менее %s и выключенный экран.</string>
     <string name="cloud_backup_detail_time">Последняя копия: %1$s</string>
     <string name="cloud_backup_detail_title">Резервное копирование</string>
     <string name="cloud_backup_get_installed_apps_summary">Для создания резервных копий и восстановления приложений на Рабочем столе</string>
@@ -354,6 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">Удалить</string>
     <string name="miuix_appcompat_deselect_all">Отменить выбор</string>
     <string name="miuix_appcompat_deselect_all_description">Снять выбор</string>
+    <string name="miuix_appcompat_edit">Изменить</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>

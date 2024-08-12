@@ -45,6 +45,7 @@
     <string name="app_name">スキャナー</string>
     <string name="app_remove_icon_description_content">スキャナーはシステムアプリです。ホーム画面のショートカットを削除しても、設定からスキャナーを探したり、カメラやブラウザー、Mi ウォレットを使用してコードをスキャンしたりすることができます。</string>
     <string name="app_remove_icon_description_title">ホーム画面から\"スキャナー\"を削除しますか？</string>
+    <string name="auracast_code_title_key">%sのブロードキャストを聞く</string>
     <string name="back">戻る</string>
     <string name="barcode_into_rectangle">フレーム内にコードを入れてください</string>
     <string name="birthday">誕生日:</string>
@@ -111,8 +112,8 @@
     <string name="error_cannot_connect_camera">カメラに接続できません</string>
     <string name="error_get_image">画像を取得できませんでした</string>
     <string name="error_media_storage_failure">写真を保存できませんでした</string>
-    <string name="error_permissions">スキャナーには、正常に動作するために必要な権限がありません。続けるには、 設定に移動してアクセス許可を確認してください。</string>
-    <string name="error_permissions_location">このアプリが正常に動作するために、正確な位置情報へのアクセスを許可してください</string>
+    <string name="error_permissions">アプリの正常な動作に必要な権限が付与されていません。</string>
+    <string name="error_permissions_location">正確な位置情報へのアクセスを許可してください</string>
     <string name="error_permissions_storage">この機能を使用するには、写真へのアクセスを許可してください</string>
     <string name="evening">夕方</string>
     <string name="expand_button_title">詳細設定</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">アクセス許可</string>
     <string name="phone">電話:</string>
     <string name="place_barcode_into_rectangle">フレーム内にコードを入れてください</string>
+    <string name="please_enable_bluetooth_retry">Bluetoothをオンにして、もう一度お試しください</string>
     <string name="pm">午後</string>
     <string name="preference_copied">「%1$s」をクリップボードにコピーしました。</string>
     <string name="preparing_sd">内部ストレージを準備中…</string>

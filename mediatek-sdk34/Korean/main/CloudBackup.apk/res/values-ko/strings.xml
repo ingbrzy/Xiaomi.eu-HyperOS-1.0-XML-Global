@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">WeChat 데이터를 백업할만한 클라우드 공간이 남아있지 않습니다. 항목 백업을 위해 저장소 플랜을 업그레이드하십시오.</string>
     <string name="backup_action_no_space_with_wechat_on_title">WeChat 데이터 백업 실패</string>
     <string name="backup_action_retry_now">다시 시도</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">클라우드 백업은 기기에 설치된 앱 목록을 수집하고 해당 정보를 저희의 서버에 보관합니다. 사용자의 필요에 따라 이를 다운로드 및 복구할 수 있도록 보관합니다. 해당 정보의 수집에 동의하시면 아래의 \"허용\"을 탭하십시오.</string>
     <string name="backup_failed_reason_app_data_error">WeChat 데이터 백업 실패</string>
     <string name="backup_failed_reason_app_usage_denied">항목 백업을 위해 요구되는 권한을 부여하십시오</string>
     <string name="backup_failed_reason_cloud_space_not_enough">이 백업을 저장할만한 클라우드 공간이 남아있지 않습니다. 플랜을 업그레이드하시거나 클라우드 저장 공간을 확보하십시오.</string>
@@ -155,8 +156,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">백업 관리</string>
     <string name="cloud_backup_detail_no_time">아직 백업 없음</string>
     <string name="cloud_backup_detail_state">자동 백업</string>
-    <string name="cloud_backup_detail_state_summary">Wi-Fi에 연결되었을 때 자동으로 Xiaomi Cloud 백업 생성</string>
-    <string name="cloud_backup_detail_state_summary_china">WLAN 연결, 전력량 ≥%s 및 화면 잠금 필요</string>
+    <string name="cloud_backup_detail_state_summary">Wi-Fi 연결, 배터리 최소 %s 이상 및 화면 꺼짐 요구됨</string>
+    <string name="cloud_backup_detail_state_summary_china">WLAN 연결, 배터리 최소 %s 이상 및 화면 꺼짐 요구됨</string>
     <string name="cloud_backup_detail_time">마지막 백업: %1$s</string>
     <string name="cloud_backup_detail_title">항목 백업</string>
     <string name="cloud_backup_get_installed_apps_summary">홈 화면 앱의 백업 및 복구를 위해</string>
@@ -354,6 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">삭제</string>
     <string name="miuix_appcompat_deselect_all">전체 선택 해제</string>
     <string name="miuix_appcompat_deselect_all_description">전체 선택 해제</string>
+    <string name="miuix_appcompat_edit">편집</string>
     <string name="miuix_appcompat_search_action_mode_cancel">취소</string>
     <string name="miuix_appcompat_search_input_description">검색</string>
     <string name="miuix_appcompat_select_all">모두 선택</string>

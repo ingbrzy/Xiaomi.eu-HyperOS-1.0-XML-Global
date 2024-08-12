@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">WeChatデータをバックアップするのに十分なクラウドストレージ容量がありません。アイテムをバックアップするには、ストレージプランをアップグレードしてください。</string>
     <string name="backup_action_no_space_with_wechat_on_title">WeChatデータをバックアップできませんでした</string>
     <string name="backup_action_retry_now">再試行</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">クラウドバックアップは、デバイスにインストールされているアプリのリストを収集し、この情報をサーバーに保存します。このデータは、必要なときにいつでもダウンロードして復元できるように保存されます。この情報の収集に同意する場合は、下の [許可] をタップしてください。</string>
     <string name="backup_failed_reason_app_data_error">WeChatデータをバックアップできませんでした</string>
     <string name="backup_failed_reason_app_usage_denied">バックアップするには、必要な権限を付与してください</string>
     <string name="backup_failed_reason_cloud_space_not_enough">このバックアップのデータサイズは、クラウドストレージの空き容量を超えています。プランをアップグレードするか、クラウドストレージの容量を解放してください。</string>
@@ -155,8 +156,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">バックアップを管理する</string>
     <string name="cloud_backup_detail_no_time">まだバックアップはありません</string>
     <string name="cloud_backup_detail_state">自動バックアップ</string>
-    <string name="cloud_backup_detail_state_summary">Wi-Fiに接続するとXiaomi Cloudのバックアップが自動的に作成されます。</string>
-    <string name="cloud_backup_detail_state_summary_china">WLANに接続されていて、バッテリー残量が%s以上あり、画面がロックされていることが必要です</string>
+    <string name="cloud_backup_detail_state_summary">Wi-Fi への接続、%s 以上のバッテリー残量、画面がオフであることが必要です</string>
+    <string name="cloud_backup_detail_state_summary_china">WLAN への接続、%s 以上のバッテリー残量、画面がオフであることが必要です</string>
     <string name="cloud_backup_detail_time">前回のバックアップ: %1$s</string>
     <string name="cloud_backup_detail_title">アイテムをバックアップ</string>
     <string name="cloud_backup_get_installed_apps_summary">ホーム画面アプリのバックアップと復元のため</string>
@@ -354,6 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">削除</string>
     <string name="miuix_appcompat_deselect_all">すべての選択を解除</string>
     <string name="miuix_appcompat_deselect_all_description">すべての選択を解除</string>
+    <string name="miuix_appcompat_edit">編集</string>
     <string name="miuix_appcompat_search_action_mode_cancel">キャンセル</string>
     <string name="miuix_appcompat_search_input_description">検索</string>
     <string name="miuix_appcompat_select_all">すべて選択</string>

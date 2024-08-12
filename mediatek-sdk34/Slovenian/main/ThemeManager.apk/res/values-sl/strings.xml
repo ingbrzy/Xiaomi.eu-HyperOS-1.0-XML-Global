@@ -397,6 +397,9 @@
     <string name="incompatible_dialog_message">Ta tema ni združljiva z različico sistema vaše naprave. Če uporabite to temo, nekatere funkcije sistema morda ne bodo delovale pravilno.</string>
     <string name="incompatible_dialog_ok">Razumem</string>
     <string name="incompatible_dialog_title">Problemi z združljivostjo</string>
+    <string name="install_fail">Ni mogoče namestiti</string>
+    <string name="install_succ">Uspešno nameščeno</string>
+    <string name="installing">Nameščanje …</string>
     <string name="is_setting_wallpaper_message">Nastavljam ozadje…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmi</string>
@@ -699,9 +702,6 @@ mm"</string>
     <string name="present_official_themes">Naše izbire</string>
     <string name="present_online_themes">Pridobi več tem na spletu</string>
     <string name="privacy_desc">Pravilnik o zasebnosti (obvezno)</string>
-    <string name="privacy_simple_content">Vklopite prilagojena priporočila ter uživajte v vsebini in izdelkih, ki so prilagojeni vašim interesom.</string>
-    <string name="privacy_simple_hint">Preference lahko kadar koli spremenite v Nastavitvah.</string>
-    <string name="privacy_simple_title">Prilagojena priporočila</string>
     <string name="promotion_ad">Promocija</string>
     <string name="provision_default_theme_title">Privzeto</string>
     <string name="provision_download_cancel">Preklic prenosa</string>

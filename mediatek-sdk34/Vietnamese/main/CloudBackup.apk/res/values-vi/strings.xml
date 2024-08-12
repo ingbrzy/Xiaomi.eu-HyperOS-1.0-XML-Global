@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Không đủ dung lượng lưu trữ đám mây để sao lưu dữ liệu WeChat. Nâng cấp gói dung lượng để sao lưu các mục.</string>
     <string name="backup_action_no_space_with_wechat_on_title">Không thể sao lưu dữ liệu WeChat</string>
     <string name="backup_action_retry_now">Thử lại</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">Sao lưu đám mây sẽ thu thập danh sách ứng dụng được cài đặt trên thiết bị và lưu trữ thông tin này trên máy chủ. Chúng tôi lưu trữ dữ liệu này để bạn có thể tải xuống và khôi phục bất cứ khi nào cần thiết. Nếu bạn đồng ý với việc chúng tôi thu thập thông tin này, hãy chạm vào \"Cho phép\" bên dưới.</string>
     <string name="backup_failed_reason_app_data_error">Không thể sao lưu dữ liệu WeChat</string>
     <string name="backup_failed_reason_app_usage_denied">Cấp các quyền yêu cầu để sao lưu các mục</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Không còn đủ lưu trữ đám mây để lưu bản sao lưu này. Nâng cấp gói của bạn hoặc giải phóng dung lượng lưu trữ đám mây.</string>
@@ -155,8 +156,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">Quản lý sao lưu</string>
     <string name="cloud_backup_detail_no_time">Chưa có bản sao lưu</string>
     <string name="cloud_backup_detail_state">Tự động sao lưu</string>
-    <string name="cloud_backup_detail_state_summary">Tạo sao lưu Xiaomi Cloud tự động khi kết nối Wi-Fi.</string>
-    <string name="cloud_backup_detail_state_summary_china">Yêu cầu kết nối với WLAN, pin ≥%s và màn hình khóa</string>
+    <string name="cloud_backup_detail_state_summary">Yêu cầu kết nối với Wi-Fi, pin ít nhất %s và màn hình tắt</string>
+    <string name="cloud_backup_detail_state_summary_china">Yêu cầu kết nối với WLAN, pin ít nhất %s và màn hình tắt</string>
     <string name="cloud_backup_detail_time">Sao lưu trước: %1$s</string>
     <string name="cloud_backup_detail_title">Mục sao lưu</string>
     <string name="cloud_backup_get_installed_apps_summary">Để sao lưu và khôi phục ứng dụng Màn hình chính</string>
@@ -354,6 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">Xóa</string>
     <string name="miuix_appcompat_deselect_all">Bỏ chọn tất cả</string>
     <string name="miuix_appcompat_deselect_all_description">Bỏ chọn tất cả</string>
+    <string name="miuix_appcompat_edit">Sửa</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
     <string name="miuix_appcompat_search_input_description">Tìm kiếm</string>
     <string name="miuix_appcompat_select_all">Chọn tất cả</string>

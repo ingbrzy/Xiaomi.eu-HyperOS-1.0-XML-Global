@@ -172,6 +172,10 @@
         <item quantity="other">%d dəqiqə əvvəl</item>
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">%s elementi üçün sinxronizasiya açıq deyil</item>
+        <item quantity="one">%s elementi üçün sinxronizasiya açıq deyil</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s xidmət Xiaomi Cloud ilə sinxronlaşdırılacaq</item>
         <item quantity="one">%s xidmət Xiaomi Cloud ilə sinxronlaşdırılacaq</item>

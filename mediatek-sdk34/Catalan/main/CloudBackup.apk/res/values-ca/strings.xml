@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">"No hi ha prou espai d'emmagatzematge al núvol per fer una còpia de seguretat de les dades de WeChat. Actualitzeu el pla d’emmagatzematge per fer una còpia de seguretat d’elements."</string>
     <string name="backup_action_no_space_with_wechat_on_title">"No s'han pogut fer còpies de seguretat de les dades de WeChat"</string>
     <string name="backup_action_retry_now">Proveu-ho de nou</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">"La còpia de seguretat al núvol recopilarà la llista d'aplicacions instal·lades al vostre dispositiu i emmagatzemarà aquesta informació als nostres servidors. Emmagatzemem aquestes dades perquè pugueu descarregar-les i restaurar-les sempre que sigui necessari. Si accepteu la recollida d'aquesta informació, toqueu \"Permetre\" a continuació."</string>
     <string name="backup_failed_reason_app_data_error">"No s'han pogut fer còpies de seguretat de les dades de WeChat"</string>
     <string name="backup_failed_reason_app_usage_denied">Concedeix els permisos necessaris per fer una còpia de seguretat dels elements</string>
     <string name="backup_failed_reason_cloud_space_not_enough">"No queda prou emmagatzematge al núvol per desar aquesta còpia de seguretat. Actualitzeu el vostre pla o allibereu espai d'emmagatzematge al núvol."</string>
@@ -155,8 +156,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">Gestiona les còpies de seguretat</string>
     <string name="cloud_backup_detail_no_time">Aquí encara no hi ha còpies de seguretat</string>
     <string name="cloud_backup_detail_state">Còpies de seguretat automàtiques</string>
-    <string name="cloud_backup_detail_state_summary">Crea còpies de seguretat de Núvol Xiaomi automàticament quan estigueu connectat a la Wi-Fi.</string>
-    <string name="cloud_backup_detail_state_summary_china">Requereix connexió a WLAN, alimentació ≥%s i pantalla bloquejada</string>
+    <string name="cloud_backup_detail_state_summary">"Requereix connexió a Wi-Fi, una bateria d'almenys al %s i la pantalla apagada"</string>
+    <string name="cloud_backup_detail_state_summary_china">"Requereix connexió a WLAN, una bateria d'almenys al %s i la pantalla apagada"</string>
     <string name="cloud_backup_detail_time">Darrera còpia: %1$s</string>
     <string name="cloud_backup_detail_title">Elements de la còpia de seguretat</string>
     <string name="cloud_backup_get_installed_apps_summary">"Per fer una còpia de seguretat i restaurar les aplicacions de la Pantalla d'inici"</string>
@@ -354,6 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">Suprimeix</string>
     <string name="miuix_appcompat_deselect_all">Deseleccionar tot</string>
     <string name="miuix_appcompat_deselect_all_description">Desseleccioneu-ho tot</string>
+    <string name="miuix_appcompat_edit">Edita</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel·leu</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="miuix_appcompat_select_all">Seleccioneu-ho tot</string>
@@ -410,7 +412,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="morning">Matí</string>
     <string name="msg_alert_cancel_restore">Els elements s’estan restaurant des de Núvol Xiaomi. Voleu cancel·lar-la ara?</string>
     <string name="msg_alert_restore_error">"No s'ha pogut restaurar els elements de Núvol Xiaomi. Proveu-ho de nou."</string>
-    <string name="msg_restore_start_with_metered_network">"Si restauràs aquesta còpia de seguretat, la Pantalla d'inici es restablirà i les teves aplicacions es baixaran i s'instal·laran automàticament.&lt;br />&lt;b>&lt;font color='red'>Mida de la còpia de seguretat: %s&lt;/font>&lt;/b>"</string>
+    <string name="msg_restore_start_with_metered_network">"Si restaureu aquesta còpia de seguretat, la Pantalla d'inici es restablirà i les vostres aplicacions es baixaran i s'instal·laran automàticament.&lt;br />&lt;b>&lt;font color='red'>Mida de la còpia de seguretat: %s&lt;/font>&lt;/b>"</string>
     <string name="msg_restore_with_metered_network_hint">"Si procediu a restaurar aquests elements, s'utilitzaran dades mòbils per a la baixada."</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> fitxers seran baixats."</string>
     <string name="network_error">Connecteu-vos a la xarxa</string>
@@ -453,7 +455,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="provision_restore_data">Restaureu els elements</string>
     <string name="provision_restore_item_backup_name_with_size">%1$s | ≈%2$s</string>
     <string name="provision_skip_underline">Omet</string>
-    <string name="query_restore_description">"Si restauràs el disseny i el disseny de la Pantalla d'inici, les aplicacions que ja estiguin instal·lades es restauraran a la seva posició original a la pantalla d'inici. Les aplicacions que no formen part d'aquesta còpia de seguretat es mouran a l'última pàgina de la pantalla d'inici."</string>
+    <string name="query_restore_description">"Si restaureu la configuració i el disseny de la Pantalla d'inici, les aplicacions que ja estiguin instal·lades es restauraran a la seva posició original a la Pantalla d'inici. Les aplicacions que no formen part d'aquesta còpia de seguretat es mouran a l'última pàgina de la Pantalla d'inici."</string>
     <string name="query_restore_summary">"S'ha trobat una copia al Núvol Xiaomi per a aquest dispositiu. Voleu restaurar les aplicacions de la Pantalla d'Inici i configuracions o usar-lo com un nou dispositiu i eliminar les còpies anteriors del Núvol Xiaomi?"</string>
     <string name="recover_home_settings">"Restaura la configuració de la pantalla d'inici"</string>
     <string name="recover_settings_description">Manteniu el dispositiu encès</string>

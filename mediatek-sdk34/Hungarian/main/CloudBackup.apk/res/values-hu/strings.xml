@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Nem áll rendelkezésre elegendő felhú alapú tárhely a WeChat-adatokról való biztonsági másolat készítéséhez. Növelje tárhelycsomagját az elemekről való biztonsági másolat készítéséhez.</string>
     <string name="backup_action_no_space_with_wechat_on_title">Nem készíthető biztonsági másolat a WeChat-adatokról</string>
     <string name="backup_action_retry_now">Újrapróbálkozás</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">A felhőalapú biztonsági mentés összegyűjti a készülékére telepített alkalmazások listáját, és ezeket az információkat a szervereinken tárolja. Azért tároljuk ezeket az adatokat, hogy szükség esetén bármikor letölthesse és vissza tudja állítani azokat. Ha hozzájárul, hogy gyűjtsük ezeket az adatokat, koppintson az alábbi „Engedélyezés” gombra.</string>
     <string name="backup_failed_reason_app_data_error">Nem készíthető biztonsági mentés a WeChat-adatokról</string>
     <string name="backup_failed_reason_app_usage_denied">Adja meg a szükséges engedélyeket az elemek biztonsági mentéséhez</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Nincs elég felhőtárhely a biztonsági mentéshez. Bővítse az előfizetését vagy szabadítson fel felhőtárhelyet.</string>
@@ -155,8 +156,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_manage">Mentések kezelése</string>
     <string name="cloud_backup_detail_no_time">Még nincs mentés</string>
     <string name="cloud_backup_detail_state">Automatikus mentések</string>
-    <string name="cloud_backup_detail_state_summary">A Xiaomi Cloud mentés automatikus elkészítése Wi-Fi-kapcsolat esetén.</string>
-    <string name="cloud_backup_detail_state_summary_china">Csatlakozás WLAN-ra, tápellátás ≥%s és lezárt képernyő szükséges</string>
+    <string name="cloud_backup_detail_state_summary">Wi-Fi-hoz való csatlakozás, legalább %s akkumulátor-töltöttség és kikapcsolt képernyő szükséges</string>
+    <string name="cloud_backup_detail_state_summary_china">WLAN-hoz való csatlakozás, legalább %s akkumulátor-töltöttség és kikapcsolt képernyő szükséges</string>
     <string name="cloud_backup_detail_time">Utolsó mentés: %1$s</string>
     <string name="cloud_backup_detail_title">A mentés elemei</string>
     <string name="cloud_backup_get_installed_apps_summary">A kezdőképernyőn futó alkalmazások biztonsági mentéséhez és visszaállításához</string>
@@ -354,6 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">Törlés</string>
     <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
+    <string name="miuix_appcompat_edit">Szerkeszt</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
     <string name="miuix_appcompat_select_all">Az összes kiválasztása</string>

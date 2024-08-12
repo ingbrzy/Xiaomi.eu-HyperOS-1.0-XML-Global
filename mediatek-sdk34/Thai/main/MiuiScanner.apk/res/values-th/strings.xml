@@ -45,6 +45,7 @@
     <string name="app_name">ตัวสแกน</string>
     <string name="app_remove_icon_description_content">ตัวสแกน เป็นแอประบบ คุณจะยังคงสามารถค้นหาได้ในการตั้งค่าหรือสแกนรหัสโดยใช้ กล้อง เบราว์เซอร์ และ Mi Wallet หลังจากที่คุณลบปุ่มลัดหน้าจอหลัก</string>
     <string name="app_remove_icon_description_title">ลบ \"ตัวสแกน\" ออกจากหน้าจอหลัก?</string>
+    <string name="auracast_code_title_key">ฟังการออกอากาศของ %s</string>
     <string name="back">ย้อนกลับ</string>
     <string name="barcode_into_rectangle">ป้อนรหัสลงในกรอบ</string>
     <string name="birthday">วันเกิด:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">การอนุญาต</string>
     <string name="phone">โทรศัพท์:</string>
     <string name="place_barcode_into_rectangle">ป้อนรหัสลงในกรอบ</string>
+    <string name="please_enable_bluetooth_retry">เปิดบลูทูธแล้วลองอีกครั้ง</string>
     <string name="pm">PM</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="preparing_sd">กำลังเตรียมที่เก็บข้อมูลในเครื่อง…</string>

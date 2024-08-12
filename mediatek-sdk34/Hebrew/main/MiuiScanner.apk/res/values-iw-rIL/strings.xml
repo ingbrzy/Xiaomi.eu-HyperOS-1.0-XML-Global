@@ -18,6 +18,7 @@
     <string name="app_name">סורק</string>
     <string name="app_remove_icon_description_content">הסורק הוא יישום מערכת. לאחר הסרת הקיצור ממסך הבית עדיין ניתן יהיה למצוא אותו תחת ההגדרות, או לסרוק קודים באמצעות מצלמה, דפדפן וארנק Mi.</string>
     <string name="app_remove_icon_description_title">להסיר את הסורק ממסך הבית?</string>
+    <string name="auracast_code_title_key">להאזין לשידור של %s</string>
     <string name="back">חזרה</string>
     <string name="barcode_into_rectangle">מקם את הקוד בתוך המסגרת</string>
     <string name="birthday">יום הולדת:</string>
@@ -270,6 +271,7 @@
     <string name="permissions_use">הרשאות</string>
     <string name="phone">טלפון:</string>
     <string name="place_barcode_into_rectangle">מקם את הקוד בתוך המסגרת</string>
+    <string name="please_enable_bluetooth_retry">נא להפעיל את Bluetooth ולנסות שוב</string>
     <string name="pm">PM</string>
     <string name="preparing_sd">מכין אחסון פנימי…</string>
     <string name="privacy_policy">מדיניות הפרטיות</string>

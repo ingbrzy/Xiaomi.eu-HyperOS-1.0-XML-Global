@@ -52,6 +52,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Na cloudovém úložišti není dostatek místa pro zálohování dat aplikace WeChat. Pro zálohování položek nejprve navyšte plán úložiště.</string>
     <string name="backup_action_no_space_with_wechat_on_title">Zálohování dat aplikace WeChat se nezdařilo</string>
     <string name="backup_action_retry_now">Opakovat</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">Cloudová záloha bude shromažďovat seznam aplikací nainstalovaných na vašem zařízení a ukládat tyto informace na našich serverech. Tato data ukládáme proto, abyste si mohli aplikace v případě potřeby kdykoli stáhnout a obnovit. Pokud se shromažďováním těchto informací souhlasíte, klepněte níže na „Povolit“.</string>
     <string name="backup_failed_reason_app_data_error">Zálohování dat aplikace WeChat se nezdařilo</string>
     <string name="backup_failed_reason_app_usage_denied">Pro zálohování položek nejprve udělte vyžadovaná oprávnění</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Na úložišti cloudu není dostatek volného místa pro uložení této zálohy. Navyšte svůj plán nebo uvolněte místo na úložišti.</string>
@@ -150,13 +151,13 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_header_condition_wlan">Wi-Fi</string>
     <string name="cloud_backup_detail_header_condition_wlan_china">WLAN</string>
     <string name="cloud_backup_detail_header_msg">"Nyní můžete zálohovat rozložení Domovské obrazovky, aplikace, nastavení systému a data z aplikace WeChat. &lt;font color=#0D84FF>&lt;a href=>Klepněte pro více informací.&lt;/a>&lt;/font> "</string>
-    <string name="cloud_backup_detail_header_msg_no_wechat_backup">Zálohujte rozložení Domovské obrazovky, seznam aplikací a nastavení systému. &lt;font color=#0D84FF>&lt;a href=>Klepněte pro více informací.&lt;/a>&lt;/font>.</string>
+    <string name="cloud_backup_detail_header_msg_no_wechat_backup">Zálohujte rozložení Domovské obrazovky, seznam aplikací a nastavení systému. &lt;font color=#0D84FF>&lt;a href=>Klepněte pro více informací&lt;/a>&lt;/font>.</string>
     <string name="cloud_backup_detail_local_backup_size">Odhadovaná velikost zálohy: %s</string>
     <string name="cloud_backup_detail_manage">Spravovat zálohy</string>
     <string name="cloud_backup_detail_no_time">Zatím žádné zálohy</string>
     <string name="cloud_backup_detail_state">Automatické zálohování</string>
-    <string name="cloud_backup_detail_state_summary">Automaticky zálohovat na Xiaomi Cloud při připojení k síti Wi-Fi.</string>
-    <string name="cloud_backup_detail_state_summary_china">Vyžaduje připojení k Wi-Fi, energii baterie ≥ %s a zamknutou obrazovku</string>
+    <string name="cloud_backup_detail_state_summary">Vyžaduje připojení k Wi-Fi, baterii nabitou alespoň na %s a vypnutou obrazovku</string>
+    <string name="cloud_backup_detail_state_summary_china">Vyžaduje připojení k WLAN, baterii nabitou alespoň na %s a vypnutou obrazovku</string>
     <string name="cloud_backup_detail_time">Poslední záloha: %1$s</string>
     <string name="cloud_backup_detail_title">Zálohovat položky</string>
     <string name="cloud_backup_get_installed_apps_summary">Pro zálohování a obnovování aplikací na Domovské obrazovce</string>
@@ -354,6 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_delete_description">Smazat</string>
     <string name="miuix_appcompat_deselect_all">Zrušit výběr</string>
     <string name="miuix_appcompat_deselect_all_description">Zrušit výběr</string>
+    <string name="miuix_appcompat_edit">Upravit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Zrušit</string>
     <string name="miuix_appcompat_search_input_description">Hledat</string>
     <string name="miuix_appcompat_select_all">Vybrat vše</string>
