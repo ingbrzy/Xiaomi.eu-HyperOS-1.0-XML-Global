@@ -172,6 +172,10 @@
         <item quantity="other">%d minutter siden</item>
         <item quantity="one">1 minut siden</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">Synkronisering er ikke aktiveret for %s elementer</item>
+        <item quantity="one">Synkronisering er ikke aktiveret for %s element</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s-tjenester synkroniseres med Xiaomi Cloud</item>
         <item quantity="one">%s-tjeneste synkroniseres med Xiaomi Cloud</item>

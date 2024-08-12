@@ -258,6 +258,12 @@
         <item quantity="few">%d хв тому</item>
         <item quantity="many">%d хв тому</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">"Синхронізація не увімкнена для %s об'єктів"</item>
+        <item quantity="one">"Синхронізація не увімкнена для %s об'єкта"</item>
+        <item quantity="few">"Синхронізація не увімкнена для %s об'єктів"</item>
+        <item quantity="many">"Синхронізація не увімкнена для %s об'єктів"</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s послуг будуть синхронізовані з Xiaomi Cloud</item>
         <item quantity="one">%s послуга буде синхронізована з Xiaomi Cloud</item>

@@ -397,6 +397,9 @@
     <string name="incompatible_dialog_message">Ten motyw nie jest kompatybilny z wersją systemu Twojego urządzenia. Niektóre funkcje mogą nie działać poprawnie po zastosowaniu tego motywu.</string>
     <string name="incompatible_dialog_ok">Rozumiem</string>
     <string name="incompatible_dialog_title">Problemy z kompatybilnością</string>
+    <string name="install_fail">Nie udało się zainstalować</string>
+    <string name="install_succ">Pomyślnie zainstalowano</string>
+    <string name="installing">Instalowanie…</string>
     <string name="is_setting_wallpaper_message">Ustawianie tapety…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmy</string>
@@ -699,9 +702,6 @@ mm"</string>
     <string name="present_official_themes">Nasz wybór</string>
     <string name="present_online_themes">Uzyskaj więcej motywów</string>
     <string name="privacy_desc">Polityka Prywatności (obowiązkowa)</string>
-    <string name="privacy_simple_content">Włącz spersonalizowane propozycje, aby otrzymywać treści i produkty dostosowane do Twoich zainteresowań.</string>
-    <string name="privacy_simple_hint">Możesz zmienić swoje preferencje w dowolnym momencie w Ustawieniach.</string>
-    <string name="privacy_simple_title">Spersonalizowane propozycje</string>
     <string name="promotion_ad">Promocja</string>
     <string name="provision_default_theme_title">Domyślny</string>
     <string name="provision_download_cancel">Anulowano pobieranie</string>

@@ -397,6 +397,9 @@
     <string name="incompatible_dialog_message">Chủ đề này không tương thích với phiên bản hệ thống của thiết bị. Một số tính năng hệ thống có thể không hoạt động bình thường nếu bạn áp dụng chủ đề này.</string>
     <string name="incompatible_dialog_ok">Tôi biết</string>
     <string name="incompatible_dialog_title">Vấn đề tương thích</string>
+    <string name="install_fail">Không thể cài đặt</string>
+    <string name="install_succ">Cài đặt thành công</string>
+    <string name="installing">Đang cài đặt…</string>
     <string name="is_setting_wallpaper_message">Đang cài đặt hình nền…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Báo thức</string>
@@ -699,9 +702,6 @@ mm"</string>
     <string name="present_official_themes">Kiến nghị</string>
     <string name="present_online_themes">Nhận thêm chủ đề trực tuyến</string>
     <string name="privacy_desc">Chính sách Riêng tư (bắt buộc)</string>
-    <string name="privacy_simple_content">Bật kiến nghị cá nhân để nhận nội dung và sản phẩm phù hợp với sở thích của bạn.</string>
-    <string name="privacy_simple_hint">Bạn có thể thay đổi tùy chọn bất kỳ lúc nào trong Cài đặt.</string>
-    <string name="privacy_simple_title">Kiến nghị cá nhân</string>
     <string name="promotion_ad">Quảng bá</string>
     <string name="provision_default_theme_title">Mặc định</string>
     <string name="provision_download_cancel">Đã hủy tải xuống</string>

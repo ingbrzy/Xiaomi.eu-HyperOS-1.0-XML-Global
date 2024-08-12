@@ -397,6 +397,9 @@
     <string name="incompatible_dialog_message">このテーマは、デバイスのシステムバージョンと互換性がありません。このテーマを適用すると、一部のシステム機能が正しく動作しない可能性があります。</string>
     <string name="incompatible_dialog_ok">了解</string>
     <string name="incompatible_dialog_title">互換性の問題</string>
+    <string name="install_fail">インストールできませんでした</string>
+    <string name="install_succ">正常にインストールされました</string>
+    <string name="installing">インストール中…</string>
     <string name="is_setting_wallpaper_message">壁紙を設定中…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">アラーム</string>
@@ -699,9 +702,6 @@ mm"</string>
     <string name="present_official_themes">ピックアップ</string>
     <string name="present_online_themes">オンラインテーマをもっと入手する</string>
     <string name="privacy_desc">プライバシーポリシー（必須）</string>
-    <string name="privacy_simple_content">パーソナライズされたおすすめをオンにすると、あなたの興味に合わせたコンテンツや製品を表示します。</string>
-    <string name="privacy_simple_hint">設定はいつでも変更できます。</string>
-    <string name="privacy_simple_title">パーソナライズされたおすすめ</string>
     <string name="promotion_ad">プロモーション</string>
     <string name="provision_default_theme_title">デフォルト</string>
     <string name="provision_download_cancel">ダウンロードをキャンセルしました</string>

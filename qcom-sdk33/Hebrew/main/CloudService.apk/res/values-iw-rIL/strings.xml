@@ -19,6 +19,7 @@
     <string name="am">AM</string>
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">שם משתמש או סיסמה לא חוקיים</string>
+    <string name="browser_sync_settings_preference">סנכרן אוטומטית</string>
     <string name="btn_return">הקודם</string>
     <string name="btn_revoke_permission">בטל הסכמה</string>
     <string name="button_agree">מסכים</string>
@@ -212,6 +213,7 @@
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
     <string name="gallery_auto_sync_fail_noti_content">לא נותר די שטח אחסון פנוי בענן. שדרג את תוכנית האחסון שלך כדי לסנכרן תמונות וסרטוני וידאו.</string>
+    <string name="gallery_auto_sync_fail_noti_content_lite">אין מספיק שטח אחסון פנוי בענן. לא ניתן לשמור תמונות.</string>
     <string name="gallery_data_transfer_ddl">תאריך היעד: %s</string>
     <string name="gallery_data_transfer_summary">לא ניתן יותר לסנכרן את פריטי הגלריה ל-Xiaomi Cloud. אנו ממליצים להעביר את התמונות והסרטונים אותם סנכרנת עם הענן אל Google Photos ולהשתמש בשירותים שלהם לגיבוי הפריטים שלך.</string>
     <string name="gallery_data_transfer_title">העברת תמונות וסרטונים שסונכרנו אל Google Photos</string>
@@ -513,6 +515,7 @@
     <string name="miuix_appcompat_delete_description">מחק</string>
     <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
+    <string name="miuix_appcompat_edit">עריכה</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
     <string name="miuix_appcompat_select_all">בחר הכל</string>
@@ -608,10 +611,10 @@
     <string name="privacy_and_agreement">תנאים והתניות</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">ברוך הבא לשירות איתור המכשיר! תוכל להשתמש בשירות זה כדי לאתר, לנעול או למחוק נתונים במכשיר שלך במקרה של אובדן.</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">ברוך הבא לשירות איתור המכשיר! תוכל להשתמש בשירות זה כדי לאתר, לנעול או למחוק נתונים במכשיר שלך במקרה של אובדן.</string>
-    <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_china_v2">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad">ברוך הבא לשירותי הענן של Xiaomi! אתה יכול להשתמש ב-Xiaomi Cloud כדי לסנכרן את ההודעות, רשימת אנשי הקשר, ההערות, הגדרות הדפדפן, התמונות והסרטונים שלך, את ההקלטות, האירועים בלוח השנה ורשימת החסומים שלך בכל המכשירים המחוברים.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">ברוך הבא לשירותי הענן של Xiaomi! אתה יכול להשתמש ב-Xiaomi Cloud כדי לסנכרן את ההודעות, הפתקים, הגדרות הדפדפן, התמונות והסרטונים שלך, את ההקלטות, האירועים בלוח השנה ורשימת החסומים שלך בכל המכשירים המחוברים.</string>
+    <string name="privacy_dialog_sync_all_purpose_china">ברוכים הבאים לשירותי הענן Xiaomi Cloud! אפשר להשתמש ב-Xiaomi Cloud כדי לסנכרן את ההודעות, אנשי הקשר, הפתקים, הגדרות הדפדפן, התמונות והסרטונים, הגדרות ה-WLAN, ההקלטות, פריסת מסך הבית, היישומים, אירועי לוח השנה, רשימת החסומים, יומן השיחות וכספת היישומים שלך בין כל המכשירים המחוברים.</string>
+    <string name="privacy_dialog_sync_all_purpose_china_v2">ברוכים הבאים לשירותי הענן Xiaomi Cloud! אפשר להשתמש ב-Xiaomi Cloud כדי לסנכרן את ההודעות, אנשי הקשר, הפתקים, הגדרות הדפדפן, התמונות והסרטונים, הגדרות ה-WLAN, ההקלטות, פריסת מסך הבית, היישומים, אירועי לוח השנה, רשימת החסומים, יומן השיחות וכספת היישומים שלך בין כל המכשירים המחוברים.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad">ברוכים הבאים לשירותי הענן Xiaomi Cloud! אפשר להשתמש ביישום הזה כדי לסנכרן לענן את ההודעות, אנשי הקשר, הפתקים, תוכן הדפדפן, אלבומי הענן, המוזיקה, לוח השנה, רשימת החסומים ויומן השיחות שלך.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">ברוכים הבאים לשירותי הענן Xiaomi Cloud! אפשר להשתמש ביישום הזה כדי לסנכרן לענן את ההודעות, הפתקים, תוכן הדפדפן, אלבומי הענן, המוזיקה, לוח השנה, רשימת החסומים ויומן השיחות שלך.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">ברוך הבא לשירותי הענן של Xiaomi! אתה יכול להשתמש ב-Xiaomi Cloud כדי לסנכרן את רשימת אנשי הקשר, ההערות, הגדרות הדפדפן, התמונות והסרטונים שלך, את ההקלטות, האירועים בלוח השנה ורשימת החסומים שלך בכל המכשירים המחוברים.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">ברוך הבא לשירותי הענן של Xiaomi! אתה יכול להשתמש ב-Xiaomi Cloud כדי לסנכרן את הפתקים, הגדרות הדפדפן, התמונות והסרטונים שלך, את ההקלטות, האירועים בלוח השנה ורשימת החסומים שלך בכל המכשירים המחוברים.</string>
     <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images and videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
@@ -892,7 +895,7 @@
     <string name="update_dialog_no_internet_toast_text">בדוק את חיבור האינטרנט שלך ונסה שוב</string>
     <string name="update_dialog_no_update_toast_text">הגרסה הנוכחית עדכנית</string>
     <string name="update_dialog_title">קיים עדכון זמין</string>
-    <string name="update_dialog_update_button_text">עדכן</string>
+    <string name="update_dialog_update_button_text">להתקין</string>
     <string name="upgrade_member_storage">רכוש מנוי ב-Xiaomi Cloud</string>
     <string name="user_agreement_content">על ידי שימוש בשירות זה הינך מסכים ל%s.</string>
     <string name="user_agreement_link">תנאי השירות של Xiaomi Cloud</string>

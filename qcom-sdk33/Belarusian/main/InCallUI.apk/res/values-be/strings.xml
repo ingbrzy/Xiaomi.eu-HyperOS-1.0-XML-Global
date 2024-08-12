@@ -99,7 +99,7 @@
     <string name="card_title_in_call_short">Падчас выкліку</string>
     <string name="card_title_in_crbt">Чаканне адказу…</string>
     <string name="card_title_in_video">Відэа </string>
-    <string name="card_title_on_hold">"Ва ўтрыманні "</string>
+    <string name="card_title_on_hold">"На ўтрыманні "</string>
     <string name="card_title_threeway_call">Трохбаковы выклік</string>
     <string name="card_title_upgrade_video_call_error">Немагчыма абнавіць відэа</string>
     <string name="card_title_upgrade_video_call_rejected_by_remote">Немагчыма абнавіць відэа</string>
@@ -337,7 +337,7 @@
     <string name="notification_action_speaker">Дынамік</string>
     <string name="notification_dialing">Набор</string>
     <string name="notification_incoming_call">Уваходзячы выклік</string>
-    <string name="notification_on_hold">Ва ўтрыманні</string>
+    <string name="notification_on_hold">На ўтрыманні</string>
     <string name="notification_ongoing_call">Бягучы выклік</string>
     <string name="notification_requesting_video_call">Уваходзячы відэа-запыт</string>
     <string name="ok">OK</string>
@@ -385,7 +385,7 @@
     <string name="satellite_guide_azimuth">Рухайцеся, пакуль значок спадарожніка не апынецца ў сіняй вобласці</string>
     <string name="satellite_guide_down">"Нахіліце прыладу ўніз,
 каб змясціць шар у сінюю вобласць."</string>
-    <string name="satellite_guide_elevation">Рухайцеся, пакуль значок спадарожніка не апынецца ў сінім крузе</string>
+    <string name="satellite_guide_elevation">Tilt your device to move the blue circle on to the satellite, then stay still</string>
     <string name="satellite_guide_found">Спадарожнік знойдзены</string>
     <string name="satellite_guide_left">"Нахіліце прыладу налева,
 каб змясціць значок спадарожніка ў сінюю вобласць"</string>
@@ -393,6 +393,8 @@
 каб змясціць значок спадарожніка ў сінюю вобласць"</string>
     <string name="satellite_guide_searching">Пошук спадарожніка…</string>
     <string name="satellite_guide_searching_floating">Пошук…</string>
+    <string name="satellite_guide_searching_fold">"Searching for satellite… Don't unfold device."</string>
+    <string name="satellite_guide_searching_unfold">"Searching for satellite… Don't fold device."</string>
     <string name="satellite_guide_signal">Для лепшага сігналу злёгку перамесціце прыладу ўверх і ўніз</string>
     <string name="satellite_guide_up">"Нахіліце прыладу ўверх,
 каб змясціць шар у сінюю вобласць"</string>

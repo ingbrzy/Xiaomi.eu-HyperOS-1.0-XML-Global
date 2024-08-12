@@ -45,6 +45,7 @@
     <string name="app_name">Сканер</string>
     <string name="app_remove_icon_description_content">«Сканер» — гэта сістэмная праграма. Вы па-ранейшаму зможаце знайсці яе ў наладах ці адсканаваць коды з дапамогай камеры, Браўзера і Mi Wallet пасля выдалення ярлыка з галоўнага экрана.</string>
     <string name="app_remove_icon_description_title">Выдаліць «Сканер» з Галоўнага экрана?</string>
+    <string name="auracast_code_title_key">Паслухаць трансляцыю %s</string>
     <string name="back">Назад</string>
     <string name="barcode_into_rectangle">Трымайце код у межах рамкі</string>
     <string name="birthday">Дзень народзінаў:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Дазволы</string>
     <string name="phone">Тэлефон:</string>
     <string name="place_barcode_into_rectangle">Змясціце код у межах рамкі</string>
+    <string name="please_enable_bluetooth_retry">Уключыце Bluetooth і паўтарыце спробу</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="preparing_sd">Падрыхтоўка ўнутранага сховішча…</string>

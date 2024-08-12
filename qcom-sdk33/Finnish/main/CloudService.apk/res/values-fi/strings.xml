@@ -46,6 +46,7 @@
     <string name="am">ap.</string>
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">Virheellinen käyttäjänimi tai salasana</string>
+    <string name="browser_sync_settings_preference">Synkronoi automaattisesti</string>
     <string name="btn_return">Takaisin</string>
     <string name="btn_revoke_permission">Peruuta suostumus</string>
     <string name="button_agree">Hyväksy</string>
@@ -184,7 +185,7 @@
     <string name="find_device_dspt_provision">Jos kadotat laitteesi, voit mennä kohteeseen &lt;font color=#0097FF>%s&lt;/font> paikantaaksesi, lukitaksesi tai nollataksesi sen. Voit ottaa tämän ominaisuuden käyttöön tai poistaa sen käytöstä milloin tahansa kohdassa Asetukset.</string>
     <string name="find_device_dspt_provision_2">i.mi.com</string>
     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
-    <string name="find_device_gdpr_prompt">Ottamalla käyttöön Etsi laite hyväksyt meidän <u><a href="app://com.miui.cloudservice.gdpr.license">Tietosuojakäytännön</a></u>. Poista tämä ominaisuus käytöstä, jos haluat peruuttaa suostumuksesi.</string>
+    <string name="find_device_gdpr_prompt">Ottamalla käyttöön Etsi laite hyväksyt <u><a href="app://com.miui.cloudservice.gdpr.license">tietosuojakäytännön</a></u>. Poista tämä ominaisuus käytöstä, jos haluat peruuttaa suostumuksesi.</string>
     <string name="find_device_operation_failure_rpc">RPC-virheen vuoksi toimintoa ei voitu suorittaa.</string>
     <string name="find_device_permissions_footer">Napauta \"Myönnä\" myöntääksesi valitsemasi käyttöoikeudet.</string>
     <string name="find_device_permissions_header">Tervetuloa kohteeseen Etsi laite! Tämän sovelluksen avulla voit paikantaa, seurata ja lukita laitteesi, kun se katoaa. Etsi laite vaatii seuraavat käyttöoikeudet:</string>
@@ -259,6 +260,7 @@
     <string name="friday_short">Pe</string>
     <string name="friday_shortest">Pe</string>
     <string name="gallery_auto_sync_fail_noti_content">Pilvessä ei ole tarpeeksi tallennustilaa. Päivitä tallennustilapaketti synkronoidaksesi valokuvia ja videoita.</string>
+    <string name="gallery_auto_sync_fail_noti_content_lite">Pilvitallennustila ei riitä. Kuvia ei voi tallentaa.</string>
     <string name="gallery_data_transfer_ddl">Määräaika: %s</string>
     <string name="gallery_data_transfer_summary">Gallerian kohteita ei voi enää synkronoida Xiaomi Cloudiin. Suosittelemme, että siirrät pilveen synkronoidut valokuvat ja videot Google Kuviin ja käytät niiden palveluita kohteiden varmuuskopiointiin.</string>
     <string name="gallery_data_transfer_title">Siirrä synkronoidut valokuvat ja videot Google Kuviin</string>
@@ -560,6 +562,7 @@ Varmista, että käytät siihen liittyvää Xiaomi-tiliä järjestelmätilinä."
     <string name="miuix_appcompat_delete_description">Poista</string>
     <string name="miuix_appcompat_deselect_all">Kumoa kaikkien valinta</string>
     <string name="miuix_appcompat_deselect_all_description">Kumoa kaikkien valinta</string>
+    <string name="miuix_appcompat_edit">Muokkaa</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Peruuta</string>
     <string name="miuix_appcompat_search_input_description">Etsi</string>
     <string name="miuix_appcompat_select_all">Valitse kaikki</string>
@@ -657,10 +660,10 @@ Sijaintitietoja ei ehkä ilmoiteta, kun verkkoyhteys on heikko."</string>
     <string name="privacy_and_agreement">Käyttöehdot</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">Tervetuloa kohteeseen Etsi laite! Tämän palvelun avulla voit paikantaa, lukita tai poistaa tietoja laitteestasi, jos se katoaa.</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">Tervetuloa kohteeseen Etsi laite! Tämän palvelun avulla voit paikantaa, lukita tai poistaa tietoja laitteestasi, jos se katoaa.</string>
-    <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_china_v2">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad">Tervetuloa Xiaomi Cloud -palveluihin! Xiaomi Cloudin avulla voit synkronoida viestit, yhteystiedot, muistiinpanot, selaimen asetukset, valokuvat ja videot, tallenteet, kalenteritapahtumat ja estolistakohteet kaikkien liitettyjen laitteiden kesken.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Tervetuloa Xiaomi Cloud -palveluihin! Xiaomi Cloudin avulla voit synkronoida viestit, muistiinpanot, selaimen asetukset, valokuvat ja videot, tallenteet, kalenteritapahtumat ja estolistakohteet kaikkien liitettyjen laitteiden kesken.</string>
+    <string name="privacy_dialog_sync_all_purpose_china">Tervetuloa Xiaomi Cloud -palveluihin! Xiaomi Cloudin avulla voit synkronoida viestisi, yhteystietosi, muistiinpanosi, selaimen asetukset, valokuvat ja videot, WLAN-asetukset, tallenteet, aloitusnäytön asettelun, sovellukset, kalenteritapahtumat, estoluettelon kohteet, puheluhistorian ja sovellusholvin kaikissa yhdistetyissä laitteissa.</string>
+    <string name="privacy_dialog_sync_all_purpose_china_v2">Tervetuloa Xiaomi Cloud -palveluihin! Xiaomi Cloudin avulla voit synkronoida viestisi, yhteystietosi, muistiinpanosi, selaimen asetukset, valokuvat ja videot, WLAN-asetukset, tallenteet, aloitusnäytön asettelun, sovellukset, kalenteritapahtumat, estoluettelon kohteet, puheluhistorian ja sovellusholvin kaikissa yhdistetyissä laitteissa.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad">Tervetuloa Xiaomin Cloud -palveluihin! Tämän sovelluksen avulla voit synkronoida viestit, yhteystiedot, muistiinpanot, selaimen kohteet, pilvialbumit, musiikin, kalenterin, estolistan ja puheluhistorian pilveen.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Tervetuloa Xiaomin Cloud -palveluihin! Tämän sovelluksen avulla voit synkronoida viestit, muistiinpanot, selaimen kohteet, pilvialbumit, musiikin, kalenterin, estolistan ja puheluhistorian pilveen.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">Tervetuloa Xiaomi Cloud -palveluihin! Xiaomi Cloudin avulla voit synkronoida yhteystiedot, muistiinpanot, selaimen asetukset, valokuvat ja videot, tallenteet, kalenteritapahtumat ja estolistakohteet kaikkien liitettyjen laitteiden kesken.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">Tervetuloa Xiaomi Cloud -palveluihin! Xiaomi Cloudin avulla voit synkronoida muistiinpanot, selaimen asetukset, valokuvat ja videot, tallenteet, kalenteritapahtumat ja estolistakohteet kaikkien liitettyjen laitteiden kesken.</string>
     <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images and videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
@@ -944,7 +947,7 @@ Sijaintitietoja ei ehkä ilmoiteta, kun verkkoyhteys on heikko."</string>
     <string name="update_dialog_no_internet_toast_text">Tarkista internet-yhteytesi ja yritä uudelleen</string>
     <string name="update_dialog_no_update_toast_text">Nykyinen versio on ajan tasalla</string>
     <string name="update_dialog_title">Päivitys saatavilla</string>
-    <string name="update_dialog_update_button_text">Päivitä</string>
+    <string name="update_dialog_update_button_text">Asenna</string>
     <string name="upgrade_member_storage">Xiaomi Cloud -jäsenyys</string>
     <string name="user_agreement_content">Käyttämällä tätä palvelua, hyväksyt %s.</string>
     <string name="user_agreement_link">Xiaomi Cloudin käyttöehdot</string>

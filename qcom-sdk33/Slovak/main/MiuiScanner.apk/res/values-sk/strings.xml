@@ -45,6 +45,7 @@
     <string name="app_name">Skener</string>
     <string name="app_remove_icon_description_content">Aplikácia Skener je systémová aplikácia. Po odstránení odkazu na Domovskej stránke ju budete môcť stále nájsť v Nastaveniach alebo skenovať kódy pomocou Fotoaparátu, Prehliadača a Mi Peňaženky.</string>
     <string name="app_remove_icon_description_title">Odstrániť aplikáciu \"Skener\" z Domovskej obrazovky?</string>
+    <string name="auracast_code_title_key">Počúvať vysielanie %s</string>
     <string name="back">Späť</string>
     <string name="barcode_into_rectangle">Umiestnite kód do rámiku</string>
     <string name="birthday">Narodeniny:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Povolenia</string>
     <string name="phone">Telefón:</string>
     <string name="place_barcode_into_rectangle">Umiestnite kód do rámiku</string>
+    <string name="please_enable_bluetooth_retry">Zapnite Bluetooth a skúste to znova</string>
     <string name="pm">pop.</string>
     <string name="preference_copied">Položka %1$s bola skopírovaná do schránky.</string>
     <string name="preparing_sd">Príprava interného úložiska…</string>

@@ -397,6 +397,9 @@
     <string name="incompatible_dialog_message">Ця тема несумісна з цією версією системи пристрою. Якщо ви застосуєте цю тему, деякі системні функції можуть не працювати належним чином.</string>
     <string name="incompatible_dialog_ok">Зрозуміло</string>
     <string name="incompatible_dialog_title">Проблеми сумісності</string>
+    <string name="install_fail">Не вдалося встановити</string>
+    <string name="install_succ">Встановлено успішно</string>
+    <string name="installing">Встановлення…</string>
     <string name="is_setting_wallpaper_message">Встановлення шпалер…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Будильник</string>
@@ -699,9 +702,6 @@ mm"</string>
     <string name="present_official_themes">Наш вибір</string>
     <string name="present_online_themes">Отримати більше онлайн-тем</string>
     <string name="privacy_desc">"Політика конфіденційності (обов'язково)"</string>
-    <string name="privacy_simple_content">Увімкніть персоналізовані рекомендації, щоб отримувати контент і продукти, які відповідають вашим інтересам.</string>
-    <string name="privacy_simple_hint">Ви можете будь-коли змінити свої параметри в «Налаштуваннях».</string>
-    <string name="privacy_simple_title">Персональні рекомендації</string>
     <string name="promotion_ad">Акції</string>
     <string name="provision_default_theme_title">За замовчуванням</string>
     <string name="provision_download_cancel">Завантаження скасовано</string>

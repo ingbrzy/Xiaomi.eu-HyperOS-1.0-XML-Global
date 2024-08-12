@@ -397,6 +397,9 @@
     <string name="incompatible_dialog_message">Dette tema er ikke kompatibelt med din enheds systemversion. Nogle systemfunktioner fungerer muligvis ikke korrekt, hvis du anvender dette tema.</string>
     <string name="incompatible_dialog_ok">Forstået</string>
     <string name="incompatible_dialog_title">Kompatibilitetsproblemer</string>
+    <string name="install_fail">Kunne ikke installere</string>
+    <string name="install_succ">Installeret</string>
+    <string name="installing">Installerer…</string>
     <string name="is_setting_wallpaper_message">Indstiller baggrund…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmer</string>
@@ -699,9 +702,6 @@ mm"</string>
     <string name="present_official_themes">Vores valg</string>
     <string name="present_online_themes">Hent flere online temaer</string>
     <string name="privacy_desc">Privatlivspolitik (obligatorisk)</string>
-    <string name="privacy_simple_content">Slå tilpassede anbefalinger til for at få indhold og produkter skræddersyet til dine interesser.</string>
-    <string name="privacy_simple_hint">Du kan til enhver tid ændre dine præferencer i Indstillinger.</string>
-    <string name="privacy_simple_title">Personlige anbefalinger</string>
     <string name="promotion_ad">Reklame</string>
     <string name="provision_default_theme_title">Standard</string>
     <string name="provision_download_cancel">Annullerede downloading</string>

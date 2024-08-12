@@ -397,6 +397,9 @@
     <string name="incompatible_dialog_message">Ši tema nėra suderinama su jūsų įrenginio sistemos versija. Pritaikius šią temą, kai kurios sistemos funkcijos gali tinkamai neveikti.</string>
     <string name="incompatible_dialog_ok">Supratau</string>
     <string name="incompatible_dialog_title">Suderinamumo problemos</string>
+    <string name="install_fail">Nepavyko įdiegti</string>
+    <string name="install_succ">Įdiegta sėkmingai</string>
+    <string name="installing">Įdiegiama…</string>
     <string name="is_setting_wallpaper_message">Nustatomas fono paveikslėlis…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Žadintuvai</string>
@@ -699,9 +702,6 @@ mm"</string>
     <string name="present_official_themes">Mūsų pasirinkimai</string>
     <string name="present_online_themes">Gauti daugiau temų internete</string>
     <string name="privacy_desc">Privatumo politika (privaloma)</string>
-    <string name="privacy_simple_content">Įjunkite asmenines rekomendacijas jūsų pomėgiams pritaikytam turiniui ir produktams matyti.</string>
-    <string name="privacy_simple_hint">Savo nuostatas galite bet kada pakeisti parametruose.</string>
-    <string name="privacy_simple_title">Asmeninės rekomendacijos</string>
     <string name="promotion_ad">Akcijos</string>
     <string name="provision_default_theme_title">Numatytoji</string>
     <string name="provision_download_cancel">Atsiuntimas atšauktas</string>

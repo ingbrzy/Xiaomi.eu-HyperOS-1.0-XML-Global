@@ -344,6 +344,14 @@
         <item quantity="few">منذ %d دق</item>
         <item quantity="many">منذ %d دق</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">المزامنة لـ %s عنصر غير مشغله</item>
+        <item quantity="zero">المزامنة لـ %s عنصر غير مشغله</item>
+        <item quantity="one">المزامنة لـ %s عنصر غير مشغله</item>
+        <item quantity="two">المزامنة لـ %s عناصر غير مشغله</item>
+        <item quantity="few">المزامنة لـ %s عناصر غير مشغله</item>
+        <item quantity="many">المزامنة لـ %s عنصر غير مشغله</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">لن تتم مزامنة %s خدمة مع Xiaomi Cloud</item>
         <item quantity="zero">لن تتم مزامنة %s خدمة مع Xiaomi Cloud</item>

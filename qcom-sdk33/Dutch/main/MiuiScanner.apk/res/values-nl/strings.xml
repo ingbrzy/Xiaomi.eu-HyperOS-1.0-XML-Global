@@ -45,6 +45,7 @@
     <string name="app_name">Scanner</string>
     <string name="app_remove_icon_description_content">Scanner is een systeem-app. U kunt het nog steeds vinden in de Instellingen of scancodes met Camera, Browser en Mi Wallet nadat u de Startscherm snelkoppeling hebt verwijderd.</string>
     <string name="app_remove_icon_description_title">\"Scanner\" verwijderen uit het Startscherm?</string>
+    <string name="auracast_code_title_key">Luister naar de uitzending van %s</string>
     <string name="back">Terug</string>
     <string name="barcode_into_rectangle">Plaats de code in het frame</string>
     <string name="birthday">Verjaardag:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Toestemmingen</string>
     <string name="phone">Telefoon:</string>
     <string name="place_barcode_into_rectangle">Plaats de code in het frame</string>
+    <string name="please_enable_bluetooth_retry">Schakel Bluetooth in en probeer het opnieuw</string>
     <string name="pm">PM</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="preparing_sd">Intern geheugen voorbereiden…</string>

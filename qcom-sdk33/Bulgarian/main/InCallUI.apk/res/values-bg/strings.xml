@@ -385,7 +385,7 @@
     <string name="satellite_guide_azimuth">Движете се, докато иконката на сателит е в синята зона</string>
     <string name="satellite_guide_down">"Наклонете устройството си надолу,
 за да поставите топката в синята област"</string>
-    <string name="satellite_guide_elevation">Движете се, докато иконката на сателит е в синия кръг</string>
+    <string name="satellite_guide_elevation">Tilt your device to move the blue circle on to the satellite, then stay still</string>
     <string name="satellite_guide_found">Открит е сателит</string>
     <string name="satellite_guide_left">"Наклонете устройството си наляво,
 за да поставите иконата на сателит в синята зона"</string>
@@ -393,6 +393,8 @@
 за да поставите иконата на сателит в синята зона"</string>
     <string name="satellite_guide_searching">Търсене на сателити…</string>
     <string name="satellite_guide_searching_floating">Търсене…</string>
+    <string name="satellite_guide_searching_fold">"Searching for satellite… Don't unfold device."</string>
+    <string name="satellite_guide_searching_unfold">"Searching for satellite… Don't fold device."</string>
     <string name="satellite_guide_signal">За по-добър сигнал преместете устройството леко нагоре и надолу</string>
     <string name="satellite_guide_up">"Наклонете устройството си нагоре,
 за да поставите топката в синята област"</string>

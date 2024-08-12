@@ -172,6 +172,10 @@
         <item quantity="other">Преди %d минути</item>
         <item quantity="one">Преди 1 минута</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">Синхронизацията не е включена за %s елемента</item>
+        <item quantity="one">Синхронизацията не е включена за %s елемент</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s услуги ще бъдат синхр. с Xiaomi Cloud</item>
         <item quantity="one">%s услуга ще бъде синхр. с Xiaomi Cloud</item>

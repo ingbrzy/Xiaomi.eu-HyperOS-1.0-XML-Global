@@ -288,6 +288,9 @@
     <string name="incompatible_dialog_message">این تم با نسخه سیستم دستگاه شما همخوانی ندارد. در صورت به‌کارگیری این تم ممکن است برخی ویژگی‌های سیستم به درستی کار نکنند.</string>
     <string name="incompatible_dialog_ok">متوجه‌ام</string>
     <string name="incompatible_dialog_title">مسائل مربوط به مناسب بودن</string>
+    <string name="install_fail">نصب نشد</string>
+    <string name="install_succ">با موفقیت نصب شد</string>
+    <string name="installing">در حال نصب…</string>
     <string name="is_setting_wallpaper_message">درحال تنظیم تصویر زمینه…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">هشدارها</string>
@@ -526,9 +529,6 @@ mm"</string>
     <string name="present_official_themes">انتخاب‌های ما</string>
     <string name="present_online_themes">گرفتن تم‌های آنلاین بیشتر</string>
     <string name="privacy_desc">سیاست حفظ حریم خصوصی (اجباری)</string>
-    <string name="privacy_simple_content">توصیه‌های شخصی‌شده را برای دریافت محتوا و محصولات متناسب با علایق خود روشن کنید.</string>
-    <string name="privacy_simple_hint">هر زمان که بخواهید می‌توانید اولویت‌های برگزیده خود را در تنظیمات تغییر دهید.</string>
-    <string name="privacy_simple_title">پیشنهادات شخصی‌سازی شده</string>
     <string name="promotion_ad">تبلیغات</string>
     <string name="provision_default_theme_title">پیش‌فرض</string>
     <string name="provision_download_cancel">دانلود کردن لغو شد</string>

@@ -385,7 +385,7 @@
     <string name="satellite_guide_azimuth">Mozgassa addig, amíg a műhold ikon a kék területen belülre nem kerül</string>
     <string name="satellite_guide_down">"Döntse lefelé a készüléket,
 hogy a labda a kék területre kerüljön"</string>
-    <string name="satellite_guide_elevation">Mozgassa addig, amíg a műhold ikon a kék körbe nem kerül</string>
+    <string name="satellite_guide_elevation">Tilt your device to move the blue circle on to the satellite, then stay still</string>
     <string name="satellite_guide_found">Műholdat találtunk</string>
     <string name="satellite_guide_left">"Döntse balra a készüléket,
 hogy a műhold ikonja a kék területre kerüljön"</string>
@@ -393,6 +393,8 @@ hogy a műhold ikonja a kék területre kerüljön"</string>
 hogy a műhold ikonja a kék területre kerüljön"</string>
     <string name="satellite_guide_searching">Műhold keresése…</string>
     <string name="satellite_guide_searching_floating">Keresés…</string>
+    <string name="satellite_guide_searching_fold">"Searching for satellite… Don't unfold device."</string>
+    <string name="satellite_guide_searching_unfold">"Searching for satellite… Don't fold device."</string>
     <string name="satellite_guide_signal">Ha erősebb jelet szeretne fogni, kissé mozgassa fel és le a készüléket</string>
     <string name="satellite_guide_up">"Döntse felfelé a készüléket,
 hogy a labda a kék területre kerüljön"</string>

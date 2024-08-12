@@ -385,7 +385,7 @@
     <string name="satellite_guide_azimuth">Flytt til satellittikonet er i det blå området</string>
     <string name="satellite_guide_down">"Vipp enheten ned
 slik at ballen havner i det blå området"</string>
-    <string name="satellite_guide_elevation">Flytt til satellittikonet er i den blå sirkelen</string>
+    <string name="satellite_guide_elevation">Tilt your device to move the blue circle on to the satellite, then stay still</string>
     <string name="satellite_guide_found">Fant satellitt</string>
     <string name="satellite_guide_left">"Vipp enheten mot venstre
 slik at satellittikonet havner i det blå området"</string>
@@ -393,6 +393,8 @@ slik at satellittikonet havner i det blå området"</string>
 slik at satellittikonet havner i det blå området"</string>
     <string name="satellite_guide_searching">Søker etter satellitt…</string>
     <string name="satellite_guide_searching_floating">Søker…</string>
+    <string name="satellite_guide_searching_fold">"Searching for satellite… Don't unfold device."</string>
+    <string name="satellite_guide_searching_unfold">"Searching for satellite… Don't fold device."</string>
     <string name="satellite_guide_signal">For å få bedre signal kan du bevege enheten litt opp og ned</string>
     <string name="satellite_guide_up">"Vipp enheten opp
 slik at ballen havner i det blå området"</string>

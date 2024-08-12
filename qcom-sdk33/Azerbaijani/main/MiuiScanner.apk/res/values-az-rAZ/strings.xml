@@ -12,12 +12,13 @@
     <string name="agree_storage_permission">Cihazınızda saxlanan şəkillərə və fayllara müraciət etmək üçün</string>
     <string name="always">Həmişə</string>
     <string name="am">GƏ</string>
-    <string name="app_description_content">Skaner bir sistem tətbiqidir. Tətbiqi sildikdən sonra Kamera tətbiqindən istifadə edərək QR kodlarını skan edə bilməyəcəksiniz.</string>
+    <string name="app_description_content">Skaner bir sistem tətbiqidir. Tətbiqi sildikdən sonra Kamera tətbiqindən istifadə edərək QR kodları skan edə bilməyəcəksiniz.</string>
     <string name="app_description_title">Skaner silinsin?</string>
     <string name="app_details">Tətbiq:</string>
     <string name="app_name">Skaner</string>
     <string name="app_remove_icon_description_content">Skaner bir sistem tətbiqidir. Əsas ekran qısayolunu sildikdən sonra Kameradan, Brauzerdən və Mi Wallet istifadə edərək Tənzimləmələrdə tapa bilərsiniz və ya skan kodlarını tapa bilərsiniz.</string>
     <string name="app_remove_icon_description_title">\"Skaner\" Əsas ekrandan silinsin?</string>
+    <string name="auracast_code_title_key">%s yayımına qulaq as</string>
     <string name="back">Geri</string>
     <string name="barcode_into_rectangle">Çərçivə daxilində kodu yerləşdirin</string>
     <string name="birthday">Doğum günü:</string>
@@ -270,6 +271,7 @@
     <string name="permissions_use">İcazələr</string>
     <string name="phone">Telefon:</string>
     <string name="place_barcode_into_rectangle">Çərçivə daxilində kodu yerləşdirin</string>
+    <string name="please_enable_bluetooth_retry">Blutuzu aktiv edin və yenidən cəhd edin</string>
     <string name="pm">GS</string>
     <string name="preparing_sd">Daxili yaddaş hazırlanır…</string>
     <string name="privacy_policy">Gizlilik Siyasəti</string>

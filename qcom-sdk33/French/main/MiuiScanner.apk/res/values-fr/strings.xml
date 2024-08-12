@@ -39,12 +39,13 @@
     <string name="agree_storage_permission">Pour accéder aux photos et aux fichiers stockés sur votre appareil</string>
     <string name="always">Toujours</string>
     <string name="am">Matin</string>
-    <string name="app_description_content">"Scanner est une application système. Vous ne pourrez pas numériser les codes QR à l'aide de l'application Appareil photo après avoir désinstallé l'appliction."</string>
+    <string name="app_description_content">"Scanner est une application système. Vous ne pourrez pas numériser les codes QR à l'aide de l'application Appareil photo après avoir désinstallé l'application."</string>
     <string name="app_description_title">Désinstaller le scanner?</string>
     <string name="app_details">Application :</string>
     <string name="app_name">Scanneur</string>
     <string name="app_remove_icon_description_content">"Scanner est une application système. Vous pourrez toujours le trouver dans les paramètres ou scanner les codes à l'aide de l'appareil photo, du navigateur et du Mi Wallet après avoir supprimé le raccourci de l'écran d'accueil."</string>
     <string name="app_remove_icon_description_title">"Supprimer \"Scanner\" de l'Écran d'accueil ?"</string>
+    <string name="auracast_code_title_key">Écouter la diffusion de %s</string>
     <string name="back">Retour</string>
     <string name="barcode_into_rectangle">Placez le code dans le cadre</string>
     <string name="birthday">Anniversaire :</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Autorisations</string>
     <string name="phone">Téléphone :</string>
     <string name="place_barcode_into_rectangle">Placez le code dans le cadre</string>
+    <string name="please_enable_bluetooth_retry">Activer le Bluetooth et réessayer</string>
     <string name="pm">Après-midi</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papier.</string>
     <string name="preparing_sd">Préparation du stockage interne…</string>

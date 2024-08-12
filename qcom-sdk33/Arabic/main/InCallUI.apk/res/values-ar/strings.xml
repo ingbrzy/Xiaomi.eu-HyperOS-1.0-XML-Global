@@ -385,7 +385,7 @@
     <string name="satellite_guide_azimuth">حرك حتى تصبح أيقونة القمر الصناعي في المنطقة الزرقاء</string>
     <string name="satellite_guide_down">"قم بإمالة جهازك لأسفل
 لوضع الكرة في المنطقة الزرقاء"</string>
-    <string name="satellite_guide_elevation">حرك حتى تصبح أيقونة القمر الصناعي في الدائرة الزرقاء</string>
+    <string name="satellite_guide_elevation">Tilt your device to move the blue circle on to the satellite, then stay still</string>
     <string name="satellite_guide_found">تم العثور على قمر صناعي</string>
     <string name="satellite_guide_left">"قم بإمالة جهازك لليسار
 لوضع رمز القمر الصناعي في المنطقة الزرقاء"</string>
@@ -393,6 +393,8 @@
 لوضع رمز القمر الصناعي في المنطقة الزرقاء"</string>
     <string name="satellite_guide_searching">جارٍ البحث عن قمر صناعي…</string>
     <string name="satellite_guide_searching_floating">جارٍ البحث…</string>
+    <string name="satellite_guide_searching_fold">"Searching for satellite… Don't unfold device."</string>
+    <string name="satellite_guide_searching_unfold">"Searching for satellite… Don't fold device."</string>
     <string name="satellite_guide_signal">للحصول على إشارة أقوى، حرك جهازك لأعلى ولأسفل قليلاً</string>
     <string name="satellite_guide_up">"قم بإمالة جهازك لأعلى
 لوضع الكرة في المنطقة الزرقاء"</string>

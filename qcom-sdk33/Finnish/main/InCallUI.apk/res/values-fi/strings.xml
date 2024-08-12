@@ -385,7 +385,7 @@
     <string name="satellite_guide_azimuth">Siirrä, kunnes satelliittikuvake on sinisellä alueella</string>
     <string name="satellite_guide_down">"Kallista laitetta alaspäin
 asettaaksesi pallon siniselle alueelle"</string>
-    <string name="satellite_guide_elevation">Siirrä, kunnes satelliittikuvake on sinisessä ympyrässä</string>
+    <string name="satellite_guide_elevation">Siirrä sininen ympyrä satelliittiin kallistamalla laitettasi ja pysy sitten paikallasi</string>
     <string name="satellite_guide_found">Satelliitti löytyi</string>
     <string name="satellite_guide_left">"Kallista laitetta vasemmalle
 asettaaksesi pallon siniselle alueelle"</string>
@@ -393,6 +393,8 @@ asettaaksesi pallon siniselle alueelle"</string>
 asettaaksesi pallon siniselle alueelle"</string>
     <string name="satellite_guide_searching">Etsitään satelliittia…</string>
     <string name="satellite_guide_searching_floating">Etsitään…</string>
+    <string name="satellite_guide_searching_fold">Etsitään satelliittia… Älä avaa laitetta.</string>
+    <string name="satellite_guide_searching_unfold">Etsitään satelliittia… Älä taita laitetta.</string>
     <string name="satellite_guide_signal">Paremman signaalin saamiseksi liikuta laitetta hieman ylös ja alas</string>
     <string name="satellite_guide_up">"Kallista laitetta ylöspäin
 asettaaksesi pallon siniselle alueelle"</string>

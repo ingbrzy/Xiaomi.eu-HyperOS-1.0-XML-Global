@@ -39,12 +39,13 @@
     <string name="agree_storage_permission">Prieiga prie nuotraukų ir įrenginyje išsaugotų failų</string>
     <string name="always">Visada</string>
     <string name="am">Priešpiet</string>
-    <string name="app_description_content">Skaitytuvas – sisteminė programa. Išdiegus programą, neturėsite galimybės nuskaityti QR kodų nadodami fotoaparato programą.</string>
+    <string name="app_description_content">Skaitytuvas – sisteminė programa. Išdiegus programą, neturėsite galimybės nuskaityti QR kodų naudodami fotoaparatą.</string>
     <string name="app_description_title">Išdiegti skaitytuvą?</string>
     <string name="app_details">Programa:</string>
     <string name="app_name">Skaitytuvas</string>
     <string name="app_remove_icon_description_content">Skaitytuvas yra sisteminė programa. Pašalinę pagrindinio ekrano nuorodą, vis tiek galėsite jį rasti parametruose arba nuskaityti kodus naudodami fotoaparatą, naršyklę ir „Mi piniginę“.</string>
     <string name="app_remove_icon_description_title">Pašalinti „Skaitytuvą“ iš pagrindinio ekrano?</string>
+    <string name="auracast_code_title_key">Klausyti %s transliacijos</string>
     <string name="back">Atgal</string>
     <string name="barcode_into_rectangle">Patalpinkite kodą į rėmelio vidų</string>
     <string name="birthday">Gimtadienis:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Leidimai</string>
     <string name="phone">Telefonas:</string>
     <string name="place_barcode_into_rectangle">Patalpinkite kodą į rėmelio vidų</string>
+    <string name="please_enable_bluetooth_retry">Įjunkite „Bluetooth“ ir pabandykite dar kartą</string>
     <string name="pm">Popiet</string>
     <string name="preference_copied">Suvestinė „%1$s“ nukopijuota į iškarpinę.</string>
     <string name="preparing_sd">Ruošiama vidinė talpykla…</string>

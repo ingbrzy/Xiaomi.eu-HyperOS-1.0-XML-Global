@@ -385,7 +385,7 @@
     <string name="satellite_guide_azimuth">Judėkite, kol palydovo ikona bus mėlynoje vietoje</string>
     <string name="satellite_guide_down">"Pakreipkite savo įrenginį žemyn,
  kad rutulys atsidurtų mėlynoje zonoje"</string>
-    <string name="satellite_guide_elevation">Judėkite, kol palydovo ikona bus mėlyname rate</string>
+    <string name="satellite_guide_elevation">Tilt your device to move the blue circle on to the satellite, then stay still</string>
     <string name="satellite_guide_found">Rastas palydovas</string>
     <string name="satellite_guide_left">"Pakreipkite savo įrenginį į kairę,
  kad palydovo piktograma atsidurtų mėlynoje zonoje"</string>
@@ -393,6 +393,8 @@
  kad palydovo piktograma atsidurtų mėlynoje zonoje"</string>
     <string name="satellite_guide_searching">Ieškoma palydovo…</string>
     <string name="satellite_guide_searching_floating">Ieškoma…</string>
+    <string name="satellite_guide_searching_fold">"Searching for satellite… Don't unfold device."</string>
+    <string name="satellite_guide_searching_unfold">"Searching for satellite… Don't fold device."</string>
     <string name="satellite_guide_signal">Norėdami geresnio signalo, savo įrenginį šiek tiek pajudinkite aukštyn ir žemyn</string>
     <string name="satellite_guide_up">"Pakreipkite savo įrenginį aukštyn,
  kad rutulys atsidurtų mėlynoje zonoje"</string>

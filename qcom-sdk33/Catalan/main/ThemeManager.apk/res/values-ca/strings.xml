@@ -397,6 +397,9 @@
     <string name="incompatible_dialog_message">Aquest tema no és compatible amb la versió del sistema del teu dispositiu. És possible que algunes funcions del sistema no funcionin correctament si apliqueu aquest tema.</string>
     <string name="incompatible_dialog_ok">Entesos</string>
     <string name="incompatible_dialog_title">Problemes de compatibilitat</string>
+    <string name="install_fail">"No s'ha pogut instal·lar"</string>
+    <string name="install_succ">"S'ha instal·lat amb èxit"</string>
+    <string name="installing">"S'està instal·lant…"</string>
     <string name="is_setting_wallpaper_message">"S'està establint el fons de pantalla…"</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmes</string>
@@ -699,9 +702,6 @@ mm"</string>
     <string name="present_official_themes">Les nostres eleccions</string>
     <string name="present_online_themes">Aconsegueix més temes en línia</string>
     <string name="privacy_desc">Política de privadesa (obligatori)</string>
-    <string name="privacy_simple_content">Activa les recomanacions personalitzades per obtenir contingut i productes adaptats als teus interessos.</string>
-    <string name="privacy_simple_hint">Podeu canviar les vostres preferències en qualsevol moment a Configuració.</string>
-    <string name="privacy_simple_title">Recomanacions personalitzades</string>
     <string name="promotion_ad">Promoció</string>
     <string name="provision_default_theme_title">Per defecte</string>
     <string name="provision_download_cancel">"S'ha cancel·lat la baixada"</string>

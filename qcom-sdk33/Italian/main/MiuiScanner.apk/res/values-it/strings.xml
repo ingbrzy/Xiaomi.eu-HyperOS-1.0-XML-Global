@@ -45,6 +45,7 @@
     <string name="app_name">Scanner</string>
     <string name="app_remove_icon_description_content">"Scanner è un'app di sistema. Potrai comunque trovarla nelle Impostazioni e scansionare i codici tramite Fotocamera, Browser e Mi Wallet dopo aver rimosso il collegamento della schermata Home."</string>
     <string name="app_remove_icon_description_title">Rimuovere \"Scanner\" dalla schermata Home?</string>
+    <string name="auracast_code_title_key">Ascolta la trasmissione di %s</string>
     <string name="back">Indietro</string>
     <string name="barcode_into_rectangle">Posiziona il codice dentro la cornice</string>
     <string name="birthday">Compleanno:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Permessi</string>
     <string name="phone">Telefono:</string>
     <string name="place_barcode_into_rectangle">Posiziona il codice dentro la cornice</string>
+    <string name="please_enable_bluetooth_retry">Attiva il Bluetooth e riprova</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\"copiato negli appunti.</string>
     <string name="preparing_sd">Preparazione memoria interna…</string>

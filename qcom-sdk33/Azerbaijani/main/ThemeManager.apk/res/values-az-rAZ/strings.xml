@@ -288,6 +288,9 @@
     <string name="incompatible_dialog_message">Bu tema cihazınızın sistem versiyasına uyğun deyil. Bu temanı tətbiq etsəniz, bəzi sistem xüsusiyyətləri düzgün işləməyə bilər.</string>
     <string name="incompatible_dialog_ok">Başa düşdüm</string>
     <string name="incompatible_dialog_title">Uyğunluq problemləri</string>
+    <string name="install_fail">Quraşdırıla bilmədi</string>
+    <string name="install_succ">Uğurla quraşdırıldı</string>
+    <string name="installing">Quraşdırılır…</string>
     <string name="is_setting_wallpaper_message">Divar kağızı tənzimlənir…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Zəngli saatlar</string>
@@ -526,9 +529,6 @@ mm"</string>
     <string name="present_official_themes">Seçdiklərimiz</string>
     <string name="present_online_themes">Daha çox onlayn tema alın</string>
     <string name="privacy_desc">Gizlilik Siyasəti (məcburi)</string>
-    <string name="privacy_simple_content">Öz maraqlarınıza uyğun məzmun və məhsulları əldə etmək üçün fərdiləşdirilmiş tövsiyyələri aktiv edin.</string>
-    <string name="privacy_simple_hint">Seçilmiş maraqlarınızı istənilən vaxt Tənzimləmələrdə dəyişə bilərsiniz.</string>
-    <string name="privacy_simple_title">Şəxsiləşdirilmiş tövsiyələr</string>
     <string name="promotion_ad">Promosyon</string>
     <string name="provision_default_theme_title">İlkin təyin olunan</string>
     <string name="provision_download_cancel">Endirilmə ləğv edildi</string>

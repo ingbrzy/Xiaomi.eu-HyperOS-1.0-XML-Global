@@ -45,6 +45,7 @@
     <string name="app_name">Skanner</string>
     <string name="app_remove_icon_description_content">Skanner er en systemapp. Du kan fortsatt finne den under Innstillinger eller skanne koder ved hjelp av Kamera, Nettleser og Mi Wallet etter at du har fjernet snarveien på startskjermen.</string>
     <string name="app_remove_icon_description_title">Fjerne «Skanner» fra startskjermen?</string>
+    <string name="auracast_code_title_key">Lytt til %ss strøm</string>
     <string name="back">Tilbake</string>
     <string name="barcode_into_rectangle">Sett koden på innsiden av rammen</string>
     <string name="birthday">Fødselsdag:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Tillatelser</string>
     <string name="phone">Telefon:</string>
     <string name="place_barcode_into_rectangle">Sett koden på innsiden av rammen</string>
+    <string name="please_enable_bluetooth_retry">Aktiver Bluetooth og prøv igjen</string>
     <string name="pm">PM</string>
     <string name="preference_copied">«%1$s» er kopiert til utklippstavlen.</string>
     <string name="preparing_sd">Klargjør intern lagring…</string>

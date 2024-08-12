@@ -46,6 +46,7 @@
     <string name="am">a. m.</string>
     <string name="app_name">Núvol Xiaomi</string>
     <string name="bad_authentication">"Contrasenya o nom d'usuari no vàlids"</string>
+    <string name="browser_sync_settings_preference">Sincronitzar automàticament</string>
     <string name="btn_return">Enrere</string>
     <string name="btn_revoke_permission">Retirar consentiment</string>
     <string name="button_agree">Acceptar</string>
@@ -259,6 +260,7 @@
     <string name="friday_short">dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="gallery_auto_sync_fail_noti_content">"No queda prou espai d'emmagatzematge al núvol. Actualitza el teu pla d'emmagatzematge per sincronitzar fotos i vídeos."</string>
+    <string name="gallery_auto_sync_fail_noti_content_lite">"L'emmagatzematge al núvol és insuficient. No es poden desar les fotos."</string>
     <string name="gallery_data_transfer_ddl">Data límit: %s</string>
     <string name="gallery_data_transfer_summary">Els elements de la Galeria ja no es poden sincronitzar amb Núvol Xiaomi. Us recomanem que transferiu les fotos i els vídeos que hàgiu sincronitzat amb el núvol a Google Fotos i utilitzeu els seus serveis per fer una còpia de seguretat dels vostres elements.</string>
     <string name="gallery_data_transfer_title">Transfereix fotos i vídeos sincronitzats a Google Fotos</string>
@@ -560,6 +562,7 @@ Assegureu-vos que feu servir el Compte Xiaomi associat com a compte del sistema.
     <string name="miuix_appcompat_delete_description">Suprimeix</string>
     <string name="miuix_appcompat_deselect_all">Deseleccionar tot</string>
     <string name="miuix_appcompat_deselect_all_description">Desseleccioneu-ho tot</string>
+    <string name="miuix_appcompat_edit">Edita</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel·leu</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="miuix_appcompat_select_all">Seleccioneu-ho tot</string>
@@ -657,10 +660,10 @@ Pot ser que la informació sobre la ubicació no es notifiqui quan la connexió 
     <string name="privacy_and_agreement">Termes i condicions</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">Benvingut a Troba dispositiu! Pots utilitzar aquest servei per localitzar, bloquejar o esborrar les dades del dispositiu si es perd.</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">Benvingut a Troba dispositiu! Pots utilitzar aquest servei per localitzar, bloquejar o esborrar les dades del dispositiu si es perd.</string>
-    <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_china_v2">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad">Benvingut als Serveis del Núvol Xiaomi! Pots utilitzar Núvol Xiaomi per sincronitzar els teus missatges, els contactes, les notes, la configuració del navegador, les fotos i els vídeos, els enregistraments, les aplicacions, els esdeveniments del calendari i els elements de la llista de bloqueig de tots els dispositius connectats.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Benvingut als Serveis del Núvol Xiaomi! Pots utilitzar Núvol Xiaomi per sincronitzar els teus missatges, les notes, la configuració del navegador, les fotos i els vídeos, els enregistraments, les aplicacions, els esdeveniments del calendari i els elements de la llista de bloqueig de tots els dispositius connectats.</string>
+    <string name="privacy_dialog_sync_all_purpose_china">"Benvingut als serveis del Núvol Xiaomi! Podeu utilitzar Núvol Xiaomi per sincronitzar els vostres missatges, els contactes, les notes, la configuració del navegador, les fotos i els vídeos, la configuració del WLAN, els enregistraments, el dissenys de la Pantalla d'inici, les aplicacions, els esdeveniments del calendari, els elements de la llista de bloqueig, l'historial de trucades i la Volta d'aplicacions de tots els dispositius connectats."</string>
+    <string name="privacy_dialog_sync_all_purpose_china_v2">"Benvingut als serveis del Núvol Xiaomi! Podeu utilitzar Núvol Xiaomi per sincronitzar els vostres missatges, els contactes, les notes, la configuració del navegador, les fotos i els vídeos, la configuració del WLAN, els enregistraments, el dissenys de la Pantalla d'inici, les aplicacions, els esdeveniments del calendari, els elements de la llista de bloqueig, l'historial de trucades i la Volta d'aplicacions de tots els dispositius connectats."</string>
+    <string name="privacy_dialog_sync_all_purpose_pad">Benvingut als Serveis del Núvol Xiaomi! Podeu utilitzar aquesta aplicació per sincronitzar els vostres missatges, contactes, notes, elements del navegador, àlbums al núvol, música, calendari, llista de bloqueig i historial de trucades al núvol.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Benvingut als Serveis del Núvol Xiaomi! Podeu utilitzar aquesta aplicació per sincronitzar els vostres missatges, notes, elements del navegador, àlbums al núvol, música, calendari, llista de bloqueig i historial de trucades al núvol.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">Benvingut als Serveis del Núvol Xiaomi! Pots utilitzar Núvol Xiaomi per sincronitzar els teus contactes, les notes, la configuració del navegador, les fotos i els vídeos, els enregistraments, les aplicacions, els esdeveniments del calendari i els elements de la llista de bloqueig de tots els dispositius connectats.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">Benvingut als Serveis del Núvol Xiaomi! Pots utilitzar Núvol Xiaomi per sincronitzar les teves notes, la configuració del navegador, les fotos i els vídeos, els enregistraments, les aplicacions, els esdeveniments del calendari i els elements de la llista de bloqueig de tots els dispositius connectats.</string>
     <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images and videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
@@ -944,7 +947,7 @@ Pot ser que la informació sobre la ubicació no es notifiqui quan la connexió 
     <string name="update_dialog_no_internet_toast_text">Comproveu la connexió a la xarxa i proveu-ho de nou</string>
     <string name="update_dialog_no_update_toast_text">La versió actual està actualitzada</string>
     <string name="update_dialog_title">Actualització disponible</string>
-    <string name="update_dialog_update_button_text">Actualitza</string>
+    <string name="update_dialog_update_button_text">Instal·la</string>
     <string name="upgrade_member_storage">Compra una afiliació de Núvol Xiaomi</string>
     <string name="user_agreement_content">"L'ús d'aquesta característica està subjecte a %s."</string>
     <string name="user_agreement_link">Termes de servei de Núvol Xiaomi</string>

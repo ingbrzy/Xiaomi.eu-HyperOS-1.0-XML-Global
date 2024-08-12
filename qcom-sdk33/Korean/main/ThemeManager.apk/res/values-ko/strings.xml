@@ -397,6 +397,9 @@
     <string name="incompatible_dialog_message">현재 기기 시스템 버전은 이 테마가 호환되지 않습니다. 이 테마를 적용하시면 일부 시스템 기능이 제대로 작동하지 않을 수 있습니다.</string>
     <string name="incompatible_dialog_ok">알겠습니다</string>
     <string name="incompatible_dialog_title">호환성 문제</string>
+    <string name="install_fail">설치 실패</string>
+    <string name="install_succ">설치 성공</string>
+    <string name="installing">설치 중…</string>
     <string name="is_setting_wallpaper_message">배경화면 설정중…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">알람</string>
@@ -699,9 +702,6 @@ mm"</string>
     <string name="present_official_themes">공식 추천</string>
     <string name="present_online_themes">더 많은 온라인 테마</string>
     <string name="privacy_desc">개인 정보 보호 정책 (필수)</string>
-    <string name="privacy_simple_content">개인 맞춤 추천을 켜고 관심사에 부합하는 콘텐츠 및 제품을 획득하십시오.</string>
-    <string name="privacy_simple_hint">언제든지 설정에서 기본 설정을 변경하실 수 있습니다.</string>
-    <string name="privacy_simple_title">개인 맞춤 추천</string>
     <string name="promotion_ad">프로모션</string>
     <string name="provision_default_theme_title">기본</string>
     <string name="provision_download_cancel">다운로드 취소됨</string>

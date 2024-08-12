@@ -397,6 +397,9 @@
     <string name="incompatible_dialog_message">Această temă nu este compatibilă cu versiunea de sistem a dispozitivului dvs. Este posibil ca unele funcții ale sistemului să nu funcționeze corect dacă aplicați această temă.</string>
     <string name="incompatible_dialog_ok">Am înțeles</string>
     <string name="incompatible_dialog_title">Probleme de compatibilitate</string>
+    <string name="install_fail">Nu s-a putut instala</string>
+    <string name="install_succ">Instalat cu succes</string>
+    <string name="installing">Se instalează…</string>
     <string name="is_setting_wallpaper_message">Setare ca imagine de fundal…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarme</string>
@@ -699,9 +702,6 @@ mm"</string>
     <string name="present_official_themes">Sugestiile noastre</string>
     <string name="present_online_themes">Obțineți mai multe teme online</string>
     <string name="privacy_desc">Politica de confidențialitate (obligatoriu)</string>
-    <string name="privacy_simple_content">Activați recomandările personalizate pentru a obține conținut și produse adaptate intereselor dvs.</string>
-    <string name="privacy_simple_hint">Vă puteți schimba preferințele oricând în Setări.</string>
-    <string name="privacy_simple_title">Recomandări personalizate</string>
     <string name="promotion_ad">Promoție</string>
     <string name="provision_default_theme_title">Implicit</string>
     <string name="provision_download_cancel">A fost anulată descărcarea</string>
