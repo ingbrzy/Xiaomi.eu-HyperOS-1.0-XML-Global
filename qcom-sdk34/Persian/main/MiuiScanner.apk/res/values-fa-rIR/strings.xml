@@ -18,6 +18,7 @@
     <string name="app_name">اسکنر</string>
     <string name="app_remove_icon_description_content">اسکنر یک برنامه سیستم است. پس از برداشتن میان‌بر از صفحه اصلی، همچنان می‌توانید آن را در تنظیمات یا اسکن کدها با استفاده از دوربین، مرورگر و کیف پول Mi بیابید.</string>
     <string name="app_remove_icon_description_title">«اسکنر»‏ از صفحه اصلی برداشته شود؟</string>
+    <string name="auracast_code_title_key">به پخش %s گوش دهید</string>
     <string name="back">بازگشت</string>
     <string name="barcode_into_rectangle">کد را داخل قاب قرار دهید</string>
     <string name="birthday">زادروز:</string>
@@ -270,6 +271,7 @@
     <string name="permissions_use">مجوزها</string>
     <string name="phone">تلفن:</string>
     <string name="place_barcode_into_rectangle">کد را داخل قاب قرار دهید</string>
+    <string name="please_enable_bluetooth_retry">بلوتوث را روشن کرده و سپس دوباره تلاش کنید</string>
     <string name="pm">ب.ظ</string>
     <string name="preparing_sd">درحال آماده‌سازی حافظه داخلی…</string>
     <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>

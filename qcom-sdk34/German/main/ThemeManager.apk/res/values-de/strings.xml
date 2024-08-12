@@ -400,6 +400,9 @@
     <string name="incompatible_dialog_message">Dieses Thema ist nicht mit der Systemversion deines Geräts kompatibel. Einige Systemfunktionen funktionieren möglicherweise nicht richtig, wenn du dieses Thema verwendest.</string>
     <string name="incompatible_dialog_ok">Verstanden</string>
     <string name="incompatible_dialog_title">Kompatibilitätsprobleme</string>
+    <string name="install_fail">Installation fehlgeschlagen</string>
+    <string name="install_succ">Erfolgreich installiert</string>
+    <string name="installing">Installiere…</string>
     <string name="is_setting_wallpaper_message">Hintergrundbild festlegen…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Wecker</string>
@@ -702,9 +705,6 @@ mm"</string>
     <string name="present_official_themes">Unsere Auswahl</string>
     <string name="present_online_themes">Mehr Online-Themen holen</string>
     <string name="privacy_desc">Datenschutzerklärung (obligatorisch)</string>
-    <string name="privacy_simple_content">Schalte personalisierte Empfehlungen ein, um auf deine Interessen zugeschnittene Inhalte und Produkte zu erhalten.</string>
-    <string name="privacy_simple_hint">Du kannst deine Präferenzen jederzeit in den Einstellungen ändern.</string>
-    <string name="privacy_simple_title">Personalisierte Empfehlungen</string>
     <string name="promotion_ad">Werbung</string>
     <string name="provision_default_theme_title">Standard</string>
     <string name="provision_download_cancel">Herunterladen abgebrochen</string>

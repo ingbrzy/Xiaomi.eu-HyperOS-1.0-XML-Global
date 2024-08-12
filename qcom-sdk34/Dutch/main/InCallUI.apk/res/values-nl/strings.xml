@@ -385,7 +385,7 @@
     <string name="satellite_guide_azimuth">Beweeg totdat het satellietpictogram in het blauwe gebied staat</string>
     <string name="satellite_guide_down">"Kantel uw apparaat omlaag
 om de bal in het blauwe gebied te plaatsen"</string>
-    <string name="satellite_guide_elevation">Beweeg totdat het satellietpictogram in de blauwe cirkel staat</string>
+    <string name="satellite_guide_elevation">Tilt your device to move the blue circle on to the satellite, then stay still</string>
     <string name="satellite_guide_found">Satelliet gevonden</string>
     <string name="satellite_guide_left">"Kantel uw apparaat naar links
 om het satellietpictogram in het blauwe gebied te plaatsen"</string>
@@ -393,6 +393,8 @@ om het satellietpictogram in het blauwe gebied te plaatsen"</string>
 om het satellietpictogram in het blauwe gebied te plaatsen"</string>
     <string name="satellite_guide_searching">Zoeken naar satelliet…</string>
     <string name="satellite_guide_searching_floating">Zoeken…</string>
+    <string name="satellite_guide_searching_fold">"Searching for satellite… Don't unfold device."</string>
+    <string name="satellite_guide_searching_unfold">"Searching for satellite… Don't fold device."</string>
     <string name="satellite_guide_signal">Voor een beter signaal beweegt u uw apparaat iets op en neer</string>
     <string name="satellite_guide_up">"Kantel uw apparaat omhoog
 om de bal in het blauwe gebied te plaatsen"</string>

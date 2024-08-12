@@ -385,7 +385,7 @@
     <string name="satellite_guide_azimuth">위성 아이콘이 파란색 영역 안에 들어갈 때까지 이동하십시오</string>
     <string name="satellite_guide_down">"기기를 아래로 기울여서
 파란색 영역에 공을 넣으십시오"</string>
-    <string name="satellite_guide_elevation">위성 아이콘이 파란색 원 안에 들어갈 때까지 이동하십시오</string>
+    <string name="satellite_guide_elevation">Tilt your device to move the blue circle on to the satellite, then stay still</string>
     <string name="satellite_guide_found">위성 발견됨</string>
     <string name="satellite_guide_left">"기기를 왼쪽으로 기울여서
 파란색 영역에 위성 아이콘을 넣으십시오"</string>
@@ -393,6 +393,8 @@
 파란색 영역에 위성 아이콘을 넣으십시오"</string>
     <string name="satellite_guide_searching">위성 검색 중…</string>
     <string name="satellite_guide_searching_floating">검색 중…</string>
+    <string name="satellite_guide_searching_fold">"Searching for satellite… Don't unfold device."</string>
+    <string name="satellite_guide_searching_unfold">"Searching for satellite… Don't fold device."</string>
     <string name="satellite_guide_signal">더 나은 신호를 위해 기기를 위아래로 살짝 움직이십시오</string>
     <string name="satellite_guide_up">"기기를 위로 기울여서
 파란색 영역에 공을 넣으십시오"</string>

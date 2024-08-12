@@ -45,6 +45,7 @@
     <string name="app_name">Skaner</string>
     <string name="app_remove_icon_description_content">Skaner to aplikacja systemowa. Nadal będziesz mógł ją znaleźć w Ustawieniach lub zeskanować kody za pomocą aparatu, przeglądarki i Mi Portfela po usunięciu skrótu z ekranu głównego.</string>
     <string name="app_remove_icon_description_title">Usunąć \"Skaner\" z ekranu głównego?</string>
+    <string name="auracast_code_title_key">Posłuchaj transmisji %s</string>
     <string name="back">Wstecz</string>
     <string name="barcode_into_rectangle">Umieść kod wewnątrz ramki</string>
     <string name="birthday">Urodziny:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Uprawnienia</string>
     <string name="phone">Telefon:</string>
     <string name="place_barcode_into_rectangle">Umieść kod wewnątrz ramki</string>
+    <string name="please_enable_bluetooth_retry">Włącz Bluetooth i spróbuj ponownie</string>
     <string name="pm">PM</string>
     <string name="preference_copied">Skopiowano „%1$s” do schowka.</string>
     <string name="preparing_sd">Przygotowywanie pamięci wewnętrznej…</string>

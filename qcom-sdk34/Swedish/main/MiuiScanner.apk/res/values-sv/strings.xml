@@ -45,6 +45,7 @@
     <string name="app_name">Scanner</string>
     <string name="app_remove_icon_description_content">Scanner är en systemapp. Du kommer fortfarande kunna hitta den i Inställningarna eller skanna koder med Kamera, Webbläsare, och Mi Wallet efter du tagit bort genvägen på Hemskärmen.</string>
     <string name="app_remove_icon_description_title">Ta bort \"Scanner\" från Hemskärmen?</string>
+    <string name="auracast_code_title_key">Lyssna på %ss sändning</string>
     <string name="back">Tillbaka</string>
     <string name="barcode_into_rectangle">Placera koden inom ramen</string>
     <string name="birthday">Födelsedag:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Behörigheter</string>
     <string name="phone">Telefon:</string>
     <string name="place_barcode_into_rectangle">Placera koden inom ramen</string>
+    <string name="please_enable_bluetooth_retry">Aktivera Bluetooth och försök igen</string>
     <string name="pm">E.m</string>
     <string name="preference_copied">%1$s har kopierats till Urklipp.</string>
     <string name="preparing_sd">Förbereder internt lagringsutrymme…</string>

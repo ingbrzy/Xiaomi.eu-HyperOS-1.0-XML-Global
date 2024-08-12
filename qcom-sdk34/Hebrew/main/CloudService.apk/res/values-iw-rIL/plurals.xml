@@ -258,6 +258,12 @@
         <item quantity="two">לפני %d דקות</item>
         <item quantity="many">לפני %d דקות</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">הסנכרון אינו מופעל עבור %s פריטים</item>
+        <item quantity="one">הסנכרון אינו מופעל עבור פריט אחד (%s)</item>
+        <item quantity="two">הסנכרון אינו מופעל עבור %s פריטים</item>
+        <item quantity="many">הסנכרון אינו מופעל עבור %s פריטים</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s שירותים יסונכרנו עם Xiaomi Cloud</item>
         <item quantity="one">שירות %s יסונכרן עם Xiaomi Cloud</item>

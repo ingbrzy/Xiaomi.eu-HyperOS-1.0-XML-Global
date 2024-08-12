@@ -385,7 +385,7 @@
     <string name="satellite_guide_azimuth">Двигайтесь, пока значок спутника не окажется в синей области</string>
     <string name="satellite_guide_down">"Наклоните устройство вниз,
 чтобы поместить шар в синюю область"</string>
-    <string name="satellite_guide_elevation">Двигайтесь, пока значок спутника не окажется в синем круге</string>
+    <string name="satellite_guide_elevation">Tilt your device to move the blue circle on to the satellite, then stay still</string>
     <string name="satellite_guide_found">Спутник найден</string>
     <string name="satellite_guide_left">"Наклоните устройство влево,
 чтобы поместить значок спутника в синюю область"</string>
@@ -393,6 +393,8 @@
 чтобы поместить значок спутника в синюю область"</string>
     <string name="satellite_guide_searching">Поиск спутника…</string>
     <string name="satellite_guide_searching_floating">Поиск…</string>
+    <string name="satellite_guide_searching_fold">"Searching for satellite… Don't unfold device."</string>
+    <string name="satellite_guide_searching_unfold">"Searching for satellite… Don't fold device."</string>
     <string name="satellite_guide_signal">Для улучшения сигнала слегка поднимите и опустите устройство.</string>
     <string name="satellite_guide_up">"Наклоните устройство вверх,
 чтобы поместить шар в синюю область"</string>

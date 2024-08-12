@@ -397,6 +397,9 @@
     <string name="incompatible_dialog_message">Det här temat är inte kompatibelt med din enhets systemversion. Några systemfunktioner kanske inte fungerar om de ska om du applicerar det här temat.</string>
     <string name="incompatible_dialog_ok">Jag förstår</string>
     <string name="incompatible_dialog_title">Kompatibilitetsproblem</string>
+    <string name="install_fail">Kunde inte installera</string>
+    <string name="install_succ">Installerad</string>
+    <string name="installing">Installerar…</string>
     <string name="is_setting_wallpaper_message">Ställer in bakgrund…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarm</string>
@@ -699,9 +702,6 @@ mm"</string>
     <string name="present_official_themes">Våra val</string>
     <string name="present_online_themes">Hämtar fler teman online</string>
     <string name="privacy_desc">Integritetspolicy (obligatorisk)</string>
-    <string name="privacy_simple_content">Aktivera anpassade rekommendationer för att få innehåll och produkter skräddarsydda efter dina intressen.</string>
-    <string name="privacy_simple_hint">Du kan ändra dina preferenser när som helst i Inställningar.</string>
-    <string name="privacy_simple_title">Personliga rekommendationer</string>
     <string name="promotion_ad">Kampanj</string>
     <string name="provision_default_theme_title">Standard</string>
     <string name="provision_download_cancel">Avbröt nedladdning</string>

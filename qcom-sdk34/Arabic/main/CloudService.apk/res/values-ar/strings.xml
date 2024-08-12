@@ -7,7 +7,7 @@
     <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
-    <string name="abc_capital_on">مفعّلة</string>
+    <string name="abc_capital_on">تفعيل</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -46,6 +46,7 @@
     <string name="am">ص</string>
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">حساب أو كلمة المرور غير صحيحة</string>
+    <string name="browser_sync_settings_preference">المزامنة تلقائيا</string>
     <string name="btn_return">رجوع</string>
     <string name="btn_revoke_permission">سحب الموافقة</string>
     <string name="button_agree">أوافق</string>
@@ -259,6 +260,7 @@
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
     <string name="gallery_auto_sync_fail_noti_content">لا توجد مساحة خالية كافية على Cloud. قم أولاً بزيادة خطة تخزينك لمزامنة الصور والفيديوهات.</string>
+    <string name="gallery_auto_sync_fail_noti_content_lite">مساحة Cloud ممتلئة. لا يمكن حفظ الصور.</string>
     <string name="gallery_data_transfer_ddl">التاريخ النهائي: %s</string>
     <string name="gallery_data_transfer_summary">لن تتزامن عناصر المعرض على Xiaomi Cloud بعد الآن. نوصي بنقل الصور والفيديوهات الموجودة في Cloud إلى صور Google واستخدم خدماتهم لنسخ عناصرك احتياطيا.</string>
     <string name="gallery_data_transfer_title">انقل الصور والفيديوهات المتزامنة إلى صور Google</string>
@@ -560,6 +562,7 @@
     <string name="miuix_appcompat_delete_description">حذف</string>
     <string name="miuix_appcompat_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_deselect_all_description">الغاء تحديد الكل</string>
+    <string name="miuix_appcompat_edit">تعديل</string>
     <string name="miuix_appcompat_search_action_mode_cancel">إلغاء</string>
     <string name="miuix_appcompat_search_input_description">بحث</string>
     <string name="miuix_appcompat_select_all">تحديد الكل</string>
@@ -657,10 +660,10 @@
     <string name="privacy_and_agreement">الأحكام والشروط</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">مرحبًا بك في \"العثور على الجهاز\"! يمكنك استخدام هذه الخدمة لتحديد موقع أو قفل جهازك أو حذف جميع البيانات عليه إذا فقدته.</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">مرحبًا بك في \"العثور على الجهاز\"! يمكنك استخدام هذه الخدمة لتحديد موقع أو قفل جهازك أو حذف جميع البيانات عليه إذا فقدته.</string>
-    <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_china_v2">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad">مرحبًا بك في خدمات Xiaomi Cloud! يمكنك استخدام Xiaomi Cloud لمزامنة رسائلك وجهات الاتصال والملاحظات وإعدادات المتصفح والصور والفيديوهات والتسجيلات والتطبيقات وأحداث التقويم وعناصر قائمة الحظر عبر جميع الأجهزة المتصلة.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">مرحبًا بك في خدمات Xiaomi Cloud! يمكنك استخدام Xiaomi Cloud لمزامنة الرسائل والملاحظات وإعدادات المتصفح والصور والفيديوهات والتسجيلات والتطبيقات وأحداث التقويم وعناصر قائمة الحظر عبر جميع الأجهزة المتصلة.</string>
+    <string name="privacy_dialog_sync_all_purpose_china">مرحبًا بك في خدمات Xiaomi Cloud! يمكنك استخدام Xiaomi Cloud لمزامنة رسائلك وجهات اتصالك والملاحظات وإعدادات المتصفح والصور والفيديوهات وإعدادات Wi-Fi والتسجيلات وتنسيق الشاشة الرئيسية والتطبيقات وأحداث التقويم وعناصر قائمة الحظر وسجل المكالمات ومنصة التطبيقات عبر جميع الأجهزة المتصلة.</string>
+    <string name="privacy_dialog_sync_all_purpose_china_v2">مرحبا بك في خدمات Xiaomi Cloud! يمكنك استخدام Xiaomi Cloud لمزامنة رسائلك وجهات اتصالك والملاحظات وإعدادات المتصفح والصور والفيديوهات وإعدادات Wi-Fi والتسجيلات وتنسيق الشاشة الرئيسية والتطبيقات وأحداث التقويم وعناصر قائمة الحظر وسجل المكالمات ومنصة التطبيقات عبر جميع الأجهزة المتصلة.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad">مرحبا بك في خدمات Xiaomi Cloud! يمكنك استخدام هذا التطبيق لمزامنة رسائلك وجهات اتصالك والملاحظات وعناصر المتصفح وألبومات Cloud والموسيقى والتقويم وقائمة الحظر وسجل المكالمات إلى Cloud.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">مرحبا بك في خدمات Xiaomi Cloud! يمكنك استخدام هذا التطبيق لمزامنة رسائلك والملاحظات وعناصر المتصفح وألبومات Cloud والموسيقى والتقويم وقائمة الحظر وسجل المكالمات إلى Cloud.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">مرحبًا بك في خدمات Xiaomi Cloud! يمكنك استخدام Xiaomi Cloud لمزامنة جهات الاتصال والملاحظات وإعدادات المتصفح والصور والفيديوهات والتسجيلات والتطبيقات وأحداث التقويم وعناصر قائمة الحظر عبر جميع الأجهزة المتصلة.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">مرحبًا بك في خدمات Xiaomi Cloud! يمكنك استخدام Xiaomi Cloud لمزامنة الملاحظات وإعدادات المتصفح والصور والفيديوهات والتسجيلات والتطبيقات وأحداث التقويم وعناصر قائمة الحظر عبر جميع الأجهزة المتصلة.</string>
     <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images and videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
@@ -944,7 +947,7 @@
     <string name="update_dialog_no_internet_toast_text">تحقق من اتصال الإنترنت ثم حاول مرة أخرى</string>
     <string name="update_dialog_no_update_toast_text">الإصدار الحالي هو الأحدث</string>
     <string name="update_dialog_title">تحديث متاح</string>
-    <string name="update_dialog_update_button_text">تحديث</string>
+    <string name="update_dialog_update_button_text">تثبيت</string>
     <string name="upgrade_member_storage">شراء عضوية Xiaomi Cloud</string>
     <string name="user_agreement_content">بإستخدامك هذه الخدمة، انت توافق على %s.</string>
     <string name="user_agreement_link">شروط وأحكام Xiaomi Cloud</string>

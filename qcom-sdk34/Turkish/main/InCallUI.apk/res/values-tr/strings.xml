@@ -385,7 +385,7 @@
     <string name="satellite_guide_azimuth">Uydu simgesi mavi alanın içine gelinceye kadar hareket ettirin</string>
     <string name="satellite_guide_down">"Topu mavi alana yerleştirmek için
 cihazınızı aşağı eğin"</string>
-    <string name="satellite_guide_elevation">Uydu simgesi mavi dairenin içine gelinceye kadar hareket ettirin</string>
+    <string name="satellite_guide_elevation">Tilt your device to move the blue circle on to the satellite, then stay still</string>
     <string name="satellite_guide_found">Uydu bulundu</string>
     <string name="satellite_guide_left">"Uydu simgesini mavi alana yerleştirmek için
 cihazınızı sola eğin"</string>
@@ -393,6 +393,8 @@ cihazınızı sola eğin"</string>
 cihazınızı sağa eğin"</string>
     <string name="satellite_guide_searching">Uydu aranıyor…</string>
     <string name="satellite_guide_searching_floating">Aranıyor…</string>
+    <string name="satellite_guide_searching_fold">"Searching for satellite… Don't unfold device."</string>
+    <string name="satellite_guide_searching_unfold">"Searching for satellite… Don't fold device."</string>
     <string name="satellite_guide_signal">Daha iyi bir sinyal için cihazınızı yavaşça aşağı yukarı hareket ettirin</string>
     <string name="satellite_guide_up">"Topu mavi alana yerleştirmek için
 cihazınızı yukarı eğin"</string>

@@ -397,6 +397,9 @@
     <string name="incompatible_dialog_message">Гэтая тэма несумяшчальная з версіяй сістэмы прылады. Калі вы прыменіце гэтую тэму, некаторыя сістэмныя функцыі могуць працаваць некарэктна.</string>
     <string name="incompatible_dialog_ok">Зразумела</string>
     <string name="incompatible_dialog_title">Праблемы сумяшчальнасці</string>
+    <string name="install_fail">Не атрымалася ўсталяваць</string>
+    <string name="install_succ">Паспяхова ўсталявана</string>
+    <string name="installing">Усталёўка…</string>
     <string name="is_setting_wallpaper_message">Усталёўка шпалер…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Будзільнікі</string>
@@ -699,9 +702,6 @@ mm"</string>
     <string name="present_official_themes">Наш выбар</string>
     <string name="present_online_themes">Атрымаць больш анлайн тэм</string>
     <string name="privacy_desc">Палітыка прыватнасці (абавязкова)</string>
-    <string name="privacy_simple_content">Уключыце персаналізаваныя рэкамендацыі, каб атрымліваць кантэнт і прадукты, якія адпавядаюць вашым інтарэсам.</string>
-    <string name="privacy_simple_hint">Вы можаце змяніць свае перавагі ў любы час у Наладах.</string>
-    <string name="privacy_simple_title">Асабістыя рэкамендацыі</string>
     <string name="promotion_ad">Прасоўванне</string>
     <string name="provision_default_theme_title">Па змаўчанні</string>
     <string name="provision_download_cancel">Спампоўка адменена</string>

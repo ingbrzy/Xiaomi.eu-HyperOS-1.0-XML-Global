@@ -43,6 +43,7 @@
     <string name="alert_sync_merge_dialog_confirm">Turn on</string>
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">Invalid account or password</string>
+    <string name="browser_sync_settings_preference">Sync automatically</string>
     <string name="btn_return">Back</string>
     <string name="btn_revoke_permission">Withdraw consent</string>
     <string name="button_agree">Agree</string>
@@ -223,6 +224,7 @@
     <string name="fmt_weekday_timezone">W z</string>
     <string name="forget_password"><u>Forgot password</u></string>
     <string name="gallery_auto_sync_fail_noti_content">Not enough storage space left in the cloud. Upgrade your storage plan to sync photos and videos.</string>
+    <string name="gallery_auto_sync_fail_noti_content_lite">"Cloud storage is insufficient. Can't save photos."</string>
     <string name="gallery_data_transfer_ddl">Deadline: %s</string>
     <string name="gallery_data_transfer_summary">"Gallery items can no longer be synced to Xiaomi Cloud. We recommend transferring photos and videos that you've synced with the cloud to Google Photos and using their services to back up your items."</string>
     <string name="gallery_data_transfer_title">Transfer synced photos and videos to Google Photos</string>
@@ -517,6 +519,7 @@ Make sure you're using the associated Xiaomi Account as your system account."</s
     <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
+    <string name="miuix_appcompat_edit">Edit</string>
     <string name="no_sim">"Couldn't find SIM card"</string>
     <string name="not_set">Not set</string>
     <string name="noti_quota_button_text">Upgrade</string>
@@ -557,10 +560,10 @@ Location info might not be reported when network connection is poor."</string>
     <string name="privacy_and_agreement">Terms and conditions</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">"Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost."</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">"Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost."</string>
-    <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_china_v2">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, contacts, notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices.</string>
+    <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, call history, and App vault across all connected devices.</string>
+    <string name="privacy_dialog_sync_all_purpose_china_v2">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, call history, and App vault across all connected devices.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad">Welcome to Xiaomi Cloud services! You can use this app to sync your messages, contacts, notes, Browser items, cloud albums, music, calendar, blocklist, and call history to the cloud.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Welcome to Xiaomi Cloud services! You can use this app to sync your messages, notes, Browser items, cloud albums, music, calendar, blocklist, and call history to the cloud.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your contacts, notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices.</string>
     <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images and videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
@@ -787,7 +790,7 @@ Location info might not be reported when network connection is poor."</string>
     <string name="update_dialog_no_internet_toast_text">Check your internet connection and try again</string>
     <string name="update_dialog_no_update_toast_text">Current version is up to date</string>
     <string name="update_dialog_title">Update available</string>
-    <string name="update_dialog_update_button_text">Update</string>
+    <string name="update_dialog_update_button_text">Install</string>
     <string name="upgrade_member_storage">Xiaomi Cloud membership</string>
     <string name="user_agreement_content">"By using this service, you're agreeing to %s."</string>
     <string name="user_agreement_link">"Xiaomi Cloud's Terms of Service"</string>

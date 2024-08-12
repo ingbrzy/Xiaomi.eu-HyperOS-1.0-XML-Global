@@ -45,6 +45,7 @@
     <string name="app_name">الماسح</string>
     <string name="app_remove_icon_description_content">الماسح هو أحد تطبيقات النظام. ستظل قادرًا على العثور على التطبيق في الإعدادات أو مسح الرمز باستخدام الكاميرا أو المتصفح أو محفظة Mi بعد إزالة اختصاراته من الشاشة الرئيسية.</string>
     <string name="app_remove_icon_description_title">هل ترغب في إزالة \"الماسح\" من الشاشة الرئيسية؟</string>
+    <string name="auracast_code_title_key">استمع إلى بث \"%s\".</string>
     <string name="back">رجوع</string>
     <string name="barcode_into_rectangle">ضع الرمز داخل الإطار</string>
     <string name="birthday">تاريخ الميلاد:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">الأذونات</string>
     <string name="phone">الهاتف:</string>
     <string name="place_barcode_into_rectangle">ضع الرمز داخل الإطار</string>
+    <string name="please_enable_bluetooth_retry">شغل البلوتوث وأعد المحاولة</string>
     <string name="pm">م</string>
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="preparing_sd">جار إعداد التخزين الداخلي…</string>

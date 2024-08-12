@@ -45,6 +45,7 @@
     <string name="app_name">Σαρωτής</string>
     <string name="app_remove_icon_description_content">Ο Σαρωτής είναι μια εφαρμογή συστήματος. Θα εξακολουθείτε να μπορείτε να τη βρείτε στις Ρυθμίσεις ή στους κωδικούς σάρωσης χρησιμοποιώντας την Κάμερα, το Πρόγραμμα περιήγησης και το Mi Πορτοφόλι αφού αφαιρέσετε τη Συντόμευση Αρχικής οθόνης.</string>
     <string name="app_remove_icon_description_title">Αφαίρεση \"Σαρωτή\" από την Αρχική οθόνη;</string>
+    <string name="auracast_code_title_key">Ακούστε την εκπομπή του %s</string>
     <string name="back">Πίσω</string>
     <string name="barcode_into_rectangle">Τοποθετήστε τον κωδικό μέσα στο πλαίσιο</string>
     <string name="birthday">Γενέθλια:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Άδειες</string>
     <string name="phone">Τηλέφωνο:</string>
     <string name="place_barcode_into_rectangle">Τοποθετήστε τον κωδικό μέσα στο πλαίσιο</string>
+    <string name="please_enable_bluetooth_retry">Ενεργοποιήστε το Bluetooth και προσπαθήστε ξανά</string>
     <string name="pm">ΜΜ</string>
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="preparing_sd">Γίνεται προετοιμασία εσωτερικού χώρου αποθήκευσης…</string>

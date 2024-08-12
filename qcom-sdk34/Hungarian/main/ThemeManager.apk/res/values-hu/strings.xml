@@ -397,6 +397,9 @@
     <string name="incompatible_dialog_message">Ez a téma nem kompatibilis a készüléke rendszerverziójával. Előfordulhat, hogy egyes rendszerfunkciók nem működnek megfelelően, ha ezt a témát alkalmazza.</string>
     <string name="incompatible_dialog_ok">Rendben</string>
     <string name="incompatible_dialog_title">Kompatibilitási problémák</string>
+    <string name="install_fail">Telepítés sikertelen</string>
+    <string name="install_succ">Sikeresen telepítve</string>
+    <string name="installing">Telepítés…</string>
     <string name="is_setting_wallpaper_message">Háttérkép beállítása…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Ébresztés/Riasztás</string>
@@ -699,9 +702,6 @@ mm"</string>
     <string name="present_official_themes">A Xiaomi ajánlata</string>
     <string name="present_online_themes">Szerezzen be több online témát</string>
     <string name="privacy_desc">Adatvédelmi szabályzat (kötelező)</string>
-    <string name="privacy_simple_content">Kapcsolja be a személyre szabott ajánlásokat, hogy az érdeklődési körének megfelelő tartalmakat és termékeket kapjon.</string>
-    <string name="privacy_simple_hint">A preferenciáit bármikor megváltoztathatja a Beállításokban.</string>
-    <string name="privacy_simple_title">Személyre szabott ajánlások</string>
     <string name="promotion_ad">Promóció</string>
     <string name="provision_default_theme_title">Alapértelmezett</string>
     <string name="provision_download_cancel">Letöltés törölve</string>

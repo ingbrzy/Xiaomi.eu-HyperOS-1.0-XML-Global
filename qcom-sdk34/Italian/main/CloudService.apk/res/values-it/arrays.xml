@@ -158,7 +158,7 @@
         <item>Messaggi;SMS;MMS;Cloud;Sincronizza;Servizi Cloud;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_subscribe_vip">
-        <item>Acquista abbonamento Xiaomi Cloud</item>
+        <item>Abbonamento Xiaomi Cloud</item>
         <item>Aggiorna la tua iscrizione, ottieni più spazio di archiviazione e proteggi i tuoi dati</item>
         <item>Memoria insufficiente;Iscrizione;Memoria;Spazio di archiviazione;Cloud;Sincronizza;Servizi Cloud;Xiaomi Cloud;Mega;Ultra;VIP;Back up;Backup;Ripristina;Cestino;Elementi eliminati;Cestino</item>
     </string-array>

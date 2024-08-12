@@ -129,6 +129,9 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">ไม่ได้เปิดการซิงค์สำหรับ %s รายการ</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s บริการจะถูกซิงค์กับ Xiaomi คลาวด์</item>
     </plurals>

@@ -385,7 +385,7 @@
     <string name="satellite_guide_azimuth">Di chuyển cho đến khi biểu tượng vệ tinh nằm trong vùng màu xanh lam</string>
     <string name="satellite_guide_down">"Nghiêng thiết bị xuống
 để đưa bóng vào vùng màu xanh lam"</string>
-    <string name="satellite_guide_elevation">Di chuyển cho đến khi biểu tượng vệ tinh nằm trong vòng tròn màu xanh lam</string>
+    <string name="satellite_guide_elevation">Tilt your device to move the blue circle on to the satellite, then stay still</string>
     <string name="satellite_guide_found">Đã tìm thấy vệ tinh</string>
     <string name="satellite_guide_left">"Nghiêng thiết bị sang trái
 để đưa biểu tượng vệ tinh vào vùng màu xanh lam"</string>
@@ -393,6 +393,8 @@
 để đưa biểu tượng vệ tinh vào vùng màu xanh lam"</string>
     <string name="satellite_guide_searching">Đang tìm kiếm vệ tinh…</string>
     <string name="satellite_guide_searching_floating">Đang tìm…</string>
+    <string name="satellite_guide_searching_fold">"Searching for satellite… Don't unfold device."</string>
+    <string name="satellite_guide_searching_unfold">"Searching for satellite… Don't fold device."</string>
     <string name="satellite_guide_signal">Để có tín hiệu tốt hơn, hãy di chuyển thiết bị của bạn lên xuống một chút ​</string>
     <string name="satellite_guide_up">"Nghiêng thiết bị lên
 để đưa bóng vào vùng màu xanh lam"</string>

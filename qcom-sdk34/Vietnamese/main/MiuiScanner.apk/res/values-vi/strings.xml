@@ -45,6 +45,7 @@
     <string name="app_name">Máy quét</string>
     <string name="app_remove_icon_description_content">Máy quét là ứng dụng hệ thống. Bạn sẽ vẫn có thể tìm thấy ứng dụng trong Cài đặt hoặc quét mã bằng Camera, Trình duyệt và Mi Wallet sau khi xóa lối tắt Màn hình chính.</string>
     <string name="app_remove_icon_description_title">Xóa \"Máy quét\" khỏi Màn hình chính?</string>
+    <string name="auracast_code_title_key">Nghe phát sóng của %s</string>
     <string name="back">Quay lại</string>
     <string name="barcode_into_rectangle">Đặt mã vạch trong khung</string>
     <string name="birthday">Sinh nhật:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Quyền</string>
     <string name="phone">Điện thoại:</string>
     <string name="place_barcode_into_rectangle">Đặt mã vạch trong khung</string>
+    <string name="please_enable_bluetooth_retry">Bật Bluetooth và thử lại</string>
     <string name="pm">CH</string>
     <string name="preference_copied">Đã sao chép \"%1$s\" vào bảng nhớ tạm.</string>
     <string name="preparing_sd">Đang chuẩn bị bộ nhớ trong…</string>

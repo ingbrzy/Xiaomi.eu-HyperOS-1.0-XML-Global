@@ -385,7 +385,7 @@
     <string name="satellite_guide_azimuth">Posúvajte, kým nebude ikona satelitu v modrej oblasti</string>
     <string name="satellite_guide_down">"Nakloňte svoje zariadenie nadol
 a dostaňte guličku do modrej oblasti"</string>
-    <string name="satellite_guide_elevation">Posúvajte, kým nebude ikona satelitu v modrom kruhu</string>
+    <string name="satellite_guide_elevation">Tilt your device to move the blue circle on to the satellite, then stay still</string>
     <string name="satellite_guide_found">Satelit nájdený</string>
     <string name="satellite_guide_left">"Nakloňte svoje zariadenie doľava
 a dostaňte guličku do modrej oblasti"</string>
@@ -393,6 +393,8 @@ a dostaňte guličku do modrej oblasti"</string>
 a dostaňte guličku do modrej oblasti"</string>
     <string name="satellite_guide_searching">Vyhľadávanie satelitu…</string>
     <string name="satellite_guide_searching_floating">Vyhľadávanie…</string>
+    <string name="satellite_guide_searching_fold">"Searching for satellite… Don't unfold device."</string>
+    <string name="satellite_guide_searching_unfold">"Searching for satellite… Don't fold device."</string>
     <string name="satellite_guide_signal">Ak chcete dosiahnuť lepší signál, pohybujte zariadením mierne nahor a nadol</string>
     <string name="satellite_guide_up">"Nakloňte svoje zariadenie nahor
 a dostaňte guličku do modrej oblasti"</string>

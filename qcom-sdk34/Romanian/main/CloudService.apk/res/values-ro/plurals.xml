@@ -215,6 +215,11 @@
         <item quantity="one">Un 1 în urmă</item>
         <item quantity="few">%d min în urmă</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">Sincronizarea nu este activată pentru %s elemente</item>
+        <item quantity="one">Sincronizarea nu este activată pentru %s element</item>
+        <item quantity="few">Sincronizarea nu este activată pentru %s elemente</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s servicii vor fi sincronizate cu Xiaomi Cloud</item>
         <item quantity="one">%s serviciu va fi sincronizat cu Xiaomi Cloud</item>

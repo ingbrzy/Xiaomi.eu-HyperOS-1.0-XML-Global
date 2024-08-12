@@ -397,6 +397,9 @@
     <string name="incompatible_dialog_message">Dit thema is niet compatibel met de systeemversie van uw apparaat. Sommige systeemfuncties werken mogelijk niet correct als u dit thema toepast.</string>
     <string name="incompatible_dialog_ok">Begrepen</string>
     <string name="incompatible_dialog_title">Compatibiliteitsproblemen</string>
+    <string name="install_fail">Kon niet installeren</string>
+    <string name="install_succ">Succesvol geïnstalleerd</string>
+    <string name="installing">Installeren…</string>
     <string name="is_setting_wallpaper_message">Achtergrond instellen…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Wekkers</string>
@@ -671,7 +674,7 @@ mm"</string>
     <string name="payment_coins_balance">(Saldo: %1s)</string>
     <string name="payment_coins_insufficient_balance">(Onvoldoende saldo)</string>
     <string name="payment_data_move_tips">Uw accountgegevens worden gemigreerd naar servers in uw regio om te voldoen aan de privacyregelgeving. Er bestaat een risico op gegevensverlies tijdens de migratie.</string>
-    <string name="payment_instructions">&lt;Data>Door de betaling te voltooien, gaat u akkoord met de &lt;a href=\"%1$s\">Kennisgeving over in-app-aankopen&lt;/a>.&lt;/Data></string>
+    <string name="payment_instructions"><Data>Door de betaling te voltooien, gaat u akkoord met de &lt;a href=\"%1$s\">Kennisgeving over in-app-aankopen&lt;/a>.</Data></string>
     <string name="payment_method">Betalingswijze</string>
     <string name="permission_desc">"Voor het opslaan van opgeslagen thema's en andere items"</string>
     <string name="permission_pop_desc">"Om de personalisatievoorkeuren te kunnen wijzigen en gedownloade items op te slaan, moet u Thema's eerst toegang geven tot de opslagruimte."</string>
@@ -699,9 +702,6 @@ mm"</string>
     <string name="present_official_themes">Onze favorieten</string>
     <string name="present_online_themes">"Krijg meer online thema's"</string>
     <string name="privacy_desc">Privacybeleid (vereist)</string>
-    <string name="privacy_simple_content">Schakel gepersonaliseerde aanbevelingen in om inhoud en producten te krijgen die zijn afgestemd op uw interesses.</string>
-    <string name="privacy_simple_hint">U kunt uw voorkeuren op elk gewenst moment wijzigen in Instellingen.</string>
-    <string name="privacy_simple_title">Gepersonaliseerde aanbevelingen</string>
     <string name="promotion_ad">Promotie</string>
     <string name="provision_default_theme_title">Standaard</string>
     <string name="provision_download_cancel">Download geannuleerd</string>
@@ -1195,9 +1195,9 @@ mm"</string>
     <string name="user_authorization_dialog_agree">Akkoord</string>
     <string name="user_authorization_dialog_agree_a">Akkoord</string>
     <string name="user_authorization_dialog_disagree">Sluiten</string>
-    <string name="user_authorization_dialog_message">"&lt;Data>We hebben de nodige persoonlijke informatie nodig om u de basisdiensten te kunnen bieden. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>. Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%3$s\">Privacybeleid&lt;/a> voordat u Thema's gebruikt.
-U kunt uw toestemming voor het Privacybeleid van Thema's op elk moment in de Instellingen intrekken.&lt;/Data>"</string>
-    <string name="user_authorization_dialog_message_a">&lt;Data>Ga akkoord met onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%2$s\">Privacybeleid&lt;/a> voordat u doorgaat. U kunt uw voorkeuren op elk moment wijzigen in Instellingen.&lt;/Data></string>
+    <string name="user_authorization_dialog_message"><Data>"We hebben de nodige persoonlijke informatie nodig om u de basisdiensten te kunnen bieden. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>. Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%3$s\">Privacybeleid&lt;/a> voordat u Thema's gebruikt.
+U kunt uw toestemming voor het Privacybeleid van Thema's op elk moment in de Instellingen intrekken."</Data></string>
+    <string name="user_authorization_dialog_message_a"><Data>Ga akkoord met onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%2$s\">Privacybeleid&lt;/a> voordat u doorgaat. U kunt uw voorkeuren op elk moment wijzigen in Instellingen.</Data></string>
     <string name="user_authorization_dialog_title">Algemene voorwaarden</string>
     <string name="user_know">Begrepen</string>
     <string name="using_theme_has_update_tips">Een update voor dit thema is beschikbaar.</string>

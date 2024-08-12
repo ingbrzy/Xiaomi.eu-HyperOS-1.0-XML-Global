@@ -45,6 +45,7 @@
     <string name="app_name">Digitalizador</string>
     <string name="app_remove_icon_description_content">O Digitalizador é uma aplicação de sistema. Ainda conseguirá encontrá-lo nas Definições ou digitalizar códigos com a Câmara, Navegador e Mi Wallet após remover o atalho no Ecrã inicial.</string>
     <string name="app_remove_icon_description_title">Remover \"Digitalizador\" do Ecrã inicial?</string>
+    <string name="auracast_code_title_key">Ouvir à transmissão de %s</string>
     <string name="back">Voltar</string>
     <string name="barcode_into_rectangle">Alinhar o código com o quadrado</string>
     <string name="birthday">Aniversário:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Permissões</string>
     <string name="phone">Telefone:</string>
     <string name="place_barcode_into_rectangle">Alinhar o código com o quadrado</string>
+    <string name="please_enable_bluetooth_retry">Ligue o Bluetooth e tente novamente</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="preparing_sd">A preparar o armazenamento interno…</string>

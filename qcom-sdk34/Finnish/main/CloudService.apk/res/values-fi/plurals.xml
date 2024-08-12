@@ -172,6 +172,10 @@
         <item quantity="other">%d minuuttia sitten</item>
         <item quantity="one">1 minuutti sitten</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">Synkronointia ei ole otettu käyttöön %s kohteelle</item>
+        <item quantity="one">Synkronointia ei ole otettu käyttöön %s kohteelle</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s palvelua synkronoidaan kohteen Xiaomi Cloud kanssa</item>
         <item quantity="one">%s palvelu synkronoidaan kohteen Xiaomi Cloud kanssa</item>

@@ -355,6 +355,9 @@
     <string name="incompatible_dialog_message">"This theme isn't compatible with your device's system version. Some system features might not work properly if you apply this theme."</string>
     <string name="incompatible_dialog_ok">Got it</string>
     <string name="incompatible_dialog_title">Compatibility issues</string>
+    <string name="install_fail">"Couldn't install"</string>
+    <string name="install_succ">Installed successfully</string>
+    <string name="installing">Installing…</string>
     <string name="is_setting_wallpaper_message">Setting wallpaper…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarms</string>
@@ -534,9 +537,6 @@ mm"</string>
     <string name="present_official_themes">Our picks</string>
     <string name="present_online_themes">Get more online themes</string>
     <string name="privacy_desc">Privacy Policy (mandatory)</string>
-    <string name="privacy_simple_content">Turn on personalized recommendations to get content and products tailored to your interests.</string>
-    <string name="privacy_simple_hint">You can change your preferences any time in Settings.</string>
-    <string name="privacy_simple_title">Personalized recommendations</string>
     <string name="promotion_ad">Promotion</string>
     <string name="provision_default_theme_title">Default</string>
     <string name="provision_download_cancel">Cancelled downloading</string>

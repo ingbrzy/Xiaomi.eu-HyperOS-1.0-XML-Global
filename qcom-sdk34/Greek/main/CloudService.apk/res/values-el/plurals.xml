@@ -149,7 +149,7 @@
         <item quantity="one">%s ώρα πριν</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
-        <item quantity="other">%s λεπτό πριν</item>
+        <item quantity="other">%s λεπτά πριν</item>
         <item quantity="one">%s λεπτό πριν</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
@@ -171,6 +171,10 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
+    </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">Ο συγχρονισμός δεν είναι ενεργοποιημένος για %s στοιχεία</item>
+        <item quantity="one">Ο συγχρονισμός δεν είναι ενεργοποιημένος για %s στοιχείο</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s υπηρεσίες θα συγχρονιστούν με το Xiaomi Cloud</item>

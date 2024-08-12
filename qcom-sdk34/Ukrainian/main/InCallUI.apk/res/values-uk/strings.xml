@@ -385,7 +385,7 @@
     <string name="satellite_guide_azimuth">Рухайтеся, поки значок супутника не опиниться в синій області</string>
     <string name="satellite_guide_down">"Нахиліть пристрій вниз,
 щоб помістити кулю в синю область"</string>
-    <string name="satellite_guide_elevation">Рухайтеся, поки значок супутника не опиниться в синьому колі</string>
+    <string name="satellite_guide_elevation">Tilt your device to move the blue circle on to the satellite, then stay still</string>
     <string name="satellite_guide_found">Супутник знайдено</string>
     <string name="satellite_guide_left">"Нахиліть пристрій вліво,
 щоб помістити значок супутника в синю область"</string>
@@ -393,6 +393,8 @@
 щоб помістити значок супутника в синю область"</string>
     <string name="satellite_guide_searching">Пошук супутника…</string>
     <string name="satellite_guide_searching_floating">Пошук…</string>
+    <string name="satellite_guide_searching_fold">"Searching for satellite… Don't unfold device."</string>
+    <string name="satellite_guide_searching_unfold">"Searching for satellite… Don't fold device."</string>
     <string name="satellite_guide_signal">Для покращення якості сигналу злегка переміщайте пристрій вгору та вниз</string>
     <string name="satellite_guide_up">"Нахиліть пристрій вгору,
 щоб помістити кулю в синю область"</string>
