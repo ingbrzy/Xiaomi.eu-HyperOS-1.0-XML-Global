@@ -385,7 +385,7 @@
     <string name="satellite_guide_azimuth">Bewege dich, bis sich das Symbol im blauen Bereich befindet</string>
     <string name="satellite_guide_down">"Neige dein Gerät nach unten,
 um den Ball in den blauen Bereich zu bringen."</string>
-    <string name="satellite_guide_elevation">Bewege dich, bis sich das Symbol im blauen Kreis befindet</string>
+    <string name="satellite_guide_elevation">Tilt your device to move the blue circle on to the satellite, then stay still</string>
     <string name="satellite_guide_found">Satellit gefunden</string>
     <string name="satellite_guide_left">"Neige dein Gerät nach links,
 um das Satelliten-Symbol in den blauen Bereich zu bringen."</string>
@@ -393,6 +393,8 @@ um das Satelliten-Symbol in den blauen Bereich zu bringen."</string>
 um das Satelliten-Symbol in den blauen Bereich zu bringen."</string>
     <string name="satellite_guide_searching">Suche nach Satellit…</string>
     <string name="satellite_guide_searching_floating">Suche…</string>
+    <string name="satellite_guide_searching_fold">"Searching for satellite… Don't unfold device."</string>
+    <string name="satellite_guide_searching_unfold">"Searching for satellite… Don't fold device."</string>
     <string name="satellite_guide_signal">Um ein besseres Signal zu erhalten, bewege dein Gerät leicht nach oben und unten</string>
     <string name="satellite_guide_up">"Neige dein Gerät nach oben,
 um den Ball in den blauen Bereich zu bringen."</string>

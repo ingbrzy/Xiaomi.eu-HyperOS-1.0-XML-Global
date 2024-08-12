@@ -258,6 +258,12 @@
         <item quantity="few">%d мин назад</item>
         <item quantity="many">%d мин назад</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">Синхронизация не включена для %s объектов</item>
+        <item quantity="one">Синхронизация не включена для %s объекта</item>
+        <item quantity="few">Синхронизация не включена для %s объектов</item>
+        <item quantity="many">Синхронизация не включена для %s объектов</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">Будет синхронизировано %s сервисов</item>
         <item quantity="one">Будет синхронизирован %s сервис</item>

@@ -288,6 +288,9 @@
     <string name="incompatible_dialog_message">ערכות נושא זו אינה מתאימה לגרסת המערכת של המכשיר שלך. ייתכן שמאפיינים מסוימים לא יעבדו כנדרש לאחר החלת ערכת הנושא הזו.</string>
     <string name="incompatible_dialog_ok">הבנתי</string>
     <string name="incompatible_dialog_title">בעיות התאמה</string>
+    <string name="install_fail">לא ניתן היה להתקין</string>
+    <string name="install_succ">הותקן בהצלחה</string>
+    <string name="installing">מתקין…</string>
     <string name="is_setting_wallpaper_message">מגדיר טפט…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">שעון מעורר</string>
@@ -499,7 +502,7 @@ mm"</string>
     <string name="payment_coins_balance">(יתרה: %1s)</string>
     <string name="payment_coins_insufficient_balance">(היתרה נמוכה מדי)</string>
     <string name="payment_data_move_tips">נתוני החשבון שלך יועברו לשרתים באזור שלך כדי לציית לתקנות הפרטיות. קיים סיכון לאובדן נתונים במהלך ההעברה.</string>
-    <string name="payment_instructions">&lt;Data>על ידי השלמת התשלום, אתה מסכים ל&lt;a href=\"%1$s\">הודעה על רכישות בתוך היישום&lt;/a>.&lt;/Data></string>
+    <string name="payment_instructions"><Data>על ידי השלמת התשלום, אתה מסכים ל&lt;a href=\"%1$s\">הודעה על רכישות בתוך היישום&lt;/a>.</Data></string>
     <string name="payment_method">אמצעי תשלום</string>
     <string name="permission_desc">לאחסון נושאים שנשמרו ופריטים אחרים</string>
     <string name="permission_pop_desc">כדי לשנות את ההעדפות של התאמה אישית ולשמור פריטים שהורדו קודם עליך לאפשר ליישום ערכות נושא גישה לאחסון.</string>
@@ -526,9 +529,6 @@ mm"</string>
     <string name="present_official_themes">הבחירות שלנו</string>
     <string name="present_online_themes">קבל ערכות נושא מקוונות נוספות</string>
     <string name="privacy_desc">מדיניות פרטיות (חובה)</string>
-    <string name="privacy_simple_content">להפעיל המלצות אישיות כדי לקבל תוכן ומוצרים בהתאם לתחומי העניין שלך.</string>
-    <string name="privacy_simple_hint">ניתן לשנות את ההעדפות בכל עת תחת ההגדרות.</string>
-    <string name="privacy_simple_title">המלצות מותאמות אישית</string>
     <string name="promotion_ad">קידום מכירות</string>
     <string name="provision_default_theme_title">ברירת מחדל</string>
     <string name="provision_download_cancel">בטל הורדה</string>
@@ -1012,9 +1012,9 @@ mm"</string>
     <string name="user_authorization_dialog_agree">מסכים</string>
     <string name="user_authorization_dialog_agree_a">מסכים</string>
     <string name="user_authorization_dialog_disagree">יציאה</string>
-    <string name="user_authorization_dialog_message">"&lt;Data>עלינו לאסוף מידע אישי הכרחי כדי לספק לך את השירותים הבסיסיים. תוכל ללמוד כיצד אנו מטפלים במידע שאנו אוספים ב&lt;a href=\"%1$s\">מדיניות הפרטיות&lt;/a> שלנו. קרא והסכם ל&lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%3$s\">מדיניות הפרטיות&lt;/a> לפני שתשתמש ב'ערכות נושא'.
-בכל זמן תוכל לעבור להגדרות ולבטל את הסכמתך למדיניות הפרטיות של 'ערכות נושא'&lt;/Data>"</string>
-    <string name="user_authorization_dialog_message_a">&lt;Data>הסכם ל&lt;a href=\"%1$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a> שלנו לפני שתמשיך. תוכל לשנות את ההעדפות שלך בכל עת בהגדרות.&lt;/Data></string>
+    <string name="user_authorization_dialog_message"><Data>"עלינו לאסוף מידע אישי הכרחי כדי לספק לך את השירותים הבסיסיים. תוכל ללמוד כיצד אנו מטפלים במידע שאנו אוספים ב&lt;a href=\"%1$s\">מדיניות הפרטיות&lt;/a> שלנו. קרא והסכם ל&lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%3$s\">מדיניות הפרטיות&lt;/a> לפני שתשתמש ב'ערכות נושא'.
+בכל זמן תוכל לעבור להגדרות ולבטל את הסכמתך למדיניות הפרטיות של 'ערכות נושא'"</Data></string>
+    <string name="user_authorization_dialog_message_a"><Data>הסכם ל&lt;a href=\"%1$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a> שלנו לפני שתמשיך. תוכל לשנות את ההעדפות שלך בכל עת בהגדרות.</Data></string>
     <string name="user_authorization_dialog_title">תנאי השימוש</string>
     <string name="user_know">הבנתי</string>
     <string name="using_theme_has_update_tips">קיים עדכון זמין לערכת נושא זו.</string>

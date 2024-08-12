@@ -46,6 +46,7 @@
     <string name="am">오전</string>
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">계정 또는 비밀번호가 잘못되었습니다.</string>
+    <string name="browser_sync_settings_preference">자동 동기화</string>
     <string name="btn_return">뒤로</string>
     <string name="btn_revoke_permission">동의 철회</string>
     <string name="button_agree">동의</string>
@@ -259,6 +260,7 @@
     <string name="friday_short">금</string>
     <string name="friday_shortest">금</string>
     <string name="gallery_auto_sync_fail_noti_content">클라우드의 남은 공간이 부족합니다. 사진 및 동영상 동기화를 위해 저장소 플랜을 업그레이드하십시오.</string>
+    <string name="gallery_auto_sync_fail_noti_content_lite">클라우드 저장소가 부족합니다. 사진을 저장할 수 없습니다.</string>
     <string name="gallery_data_transfer_ddl">기한: %s</string>
     <string name="gallery_data_transfer_summary">갤러리 항목이 더 이상 Xiaomi Cloud에 동기화되지 않습니다. 클라우드에 동기화된 사진 및 동영상을 Google 포토로 전송하시고 해당 서비스를 사용하여 항목을 백업하십시오.</string>
     <string name="gallery_data_transfer_title">동기화된 사진 및 동영상을 Google 포토로 전송</string>
@@ -499,7 +501,7 @@
     <string name="micloud_setting_gallery_summary">사진과 동영상</string>
     <string name="micloud_setting_notes_summary">메모</string>
     <string name="micloud_setting_notes_summary_v2">메모</string>
-    <string name="micloud_setting_personal_assistant_summary">앱 서랍 카드 및 기능</string>
+    <string name="micloud_setting_personal_assistant_summary">앱 보관함 카드 및 기능</string>
     <string name="micloud_setting_phrase_summary">자주 사용하는 문장</string>
     <string name="micloud_setting_recorder_summary">오디오 및 통화 녹음</string>
     <string name="micloud_setting_sms_summary">SMS 메시지와 MMS 메시지</string>
@@ -560,6 +562,7 @@
     <string name="miuix_appcompat_delete_description">삭제</string>
     <string name="miuix_appcompat_deselect_all">전체 선택 해제</string>
     <string name="miuix_appcompat_deselect_all_description">전체 선택 해제</string>
+    <string name="miuix_appcompat_edit">편집</string>
     <string name="miuix_appcompat_search_action_mode_cancel">취소</string>
     <string name="miuix_appcompat_search_input_description">검색</string>
     <string name="miuix_appcompat_select_all">모두 선택</string>
@@ -657,10 +660,10 @@
     <string name="privacy_and_agreement">이용 약관</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">기기 찾기에 오신 것을 환영합니다! 해당 서비스를 이용하여 기기 분실 시에 위치 찾기, 기기 잠금 또는 데이터 삭제 등을 하실 수 있습니다.</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">기기 찾기에 오신 것을 환영합니다! 해당 서비스를 이용하여 기기 분실 시에 위치 찾기, 기기 잠금 또는 데이터 삭제 등을 하실 수 있습니다.</string>
-    <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_china_v2">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad">Xiaomi Cloud 서비스에 오신 것을 환영합니다! Xiaomi Cloud를 사용하여 메시지, 연락처, 메모, 브라우저 설정, 사진, 동영상, 녹음 파일, 캘린더 일정, 차단 목록 등을 연결된 기기들에 동기화하실 수 있습니다.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Xiaomi Cloud 서비스에 오신 것을 환영합니다! Xiaomi Cloud를 사용하여 메시지, 메모, 브라우저 설정, 사진, 동영상, 녹음 파일, 캘린더 일정, 차단 목록 등을 연결된 기기들에 동기화하실 수 있습니다.</string>
+    <string name="privacy_dialog_sync_all_purpose_china">Xiaomi Cloud 서비스에 오신 것을 환영합니다! Xiaomi Cloud를 사용하여 메시지, 연락처, 메모, 브라우즈 설정, 사진, 동영상, Wi-Fi 설정, 녹음 파일, 홈 화면 레이아웃, 앱, 캘린더 일정, 차단 목록, 통화 기록 및 앱 보관함 등을 연결된 기기들에 동기화하실 수 있습니다.</string>
+    <string name="privacy_dialog_sync_all_purpose_china_v2">Xiaomi Cloud 서비스에 오신 것을 환영합니다! Xiaomi Cloud를 사용하여 메시지, 연락처, 메모, 브라우즈 설정, 사진, 동영상, Wi-Fi 설정, 녹음 파일, 홈 화면 레이아웃, 앱, 캘린더 일정, 차단 목록, 통화 기록 및 앱 보관함 등을 연결된 기기들에 동기화하실 수 있습니다.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad">Xiaomi Cloud 서비스에 오신 것을 환영합니다! 이 앱을 사용하여 메시지, 연락처, 메모, 브라우저 항목, 클라우드 앨범, 음악, 캘린더, 차단 목록 및 통화 기록을 클라우드에 동기화하실 수 있습니다.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Xiaomi Cloud 서비스에 오신 것을 환영합니다! 이 앱을 사용하여 메시지, 메모, 브라우저 항목, 클라우드 앨범, 음악, 캘린더, 차단 목록 및 통화 기록을 클라우드에 동기화하실 수 있습니다.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">Xiaomi Cloud 서비스에 오신 것을 환영합니다! Xiaomi Cloud를 사용하여 연락처, 메모, 브라우저 설정, 사진, 동영상, 녹음 파일, 캘린더 일정, 차단 목록 등을 연결된 기기들에 동기화하실 수 있습니다.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">Xiaomi Cloud 서비스에 오신 것을 환영합니다! Xiaomi Cloud를 사용하여 메모, 브라우저 설정, 사진, 동영상, 녹음 파일, 캘린더 일정, 차단 목록 등을 연결된 기기들에 동기화하실 수 있습니다.</string>
     <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images and videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
@@ -944,7 +947,7 @@
     <string name="update_dialog_no_internet_toast_text">인터넷 연결을 확인한 후 다시 시도하십시오</string>
     <string name="update_dialog_no_update_toast_text">현재 버전은 최신입니다</string>
     <string name="update_dialog_title">업데이트 사용 가능</string>
-    <string name="update_dialog_update_button_text">업데이트</string>
+    <string name="update_dialog_update_button_text">설치</string>
     <string name="upgrade_member_storage">Xiaomi Cloud 멤버십</string>
     <string name="user_agreement_content">이 서비스를 사용하시면 %s에 동의하는 것으로 간주됩니다.</string>
     <string name="user_agreement_link">Xiaomi Cloud 서비스 약관</string>

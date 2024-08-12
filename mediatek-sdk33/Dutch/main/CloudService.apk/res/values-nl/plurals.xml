@@ -172,6 +172,10 @@
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">Synchroniseren is niet ingeschakeld voor %s items</item>
+        <item quantity="one">Synchroniseren is niet ingeschakeld voor %s item</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s services zullen gesynchroniseerd worden met Xiaomi Cloud</item>
         <item quantity="one">%s service zal gesynchroniseerd worden met Xiaomi Cloud</item>

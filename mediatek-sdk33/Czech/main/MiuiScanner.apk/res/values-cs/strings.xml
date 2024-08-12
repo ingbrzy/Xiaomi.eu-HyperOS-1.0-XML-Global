@@ -45,6 +45,7 @@
     <string name="app_name">Skener</string>
     <string name="app_remove_icon_description_content">Skener je systémová aplikace. Po odebrání zástupce z Domovské obrazovky budete aplikaci stále moci najít v Nastavení. Skenování kódů bude i nadále dostupné pomocí Fotoaparátu, Prohlížeče a Mi Peněženky.</string>
     <string name="app_remove_icon_description_title">Odebrat \"Skener\" z Domovské obrazovky?</string>
+    <string name="auracast_code_title_key">Poslouchat vysílání %s</string>
     <string name="back">Zpět</string>
     <string name="barcode_into_rectangle">Umístěte kód do rámečku</string>
     <string name="birthday">Narozeniny:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Oprávnění</string>
     <string name="phone">Telefon:</string>
     <string name="place_barcode_into_rectangle">Umístěte kód do rámečku</string>
+    <string name="please_enable_bluetooth_retry">Zapněte Bluetooth a zkuste to znovu</string>
     <string name="pm">odp.</string>
     <string name="preference_copied">Položka %1$s byla zkopírována do schránky.</string>
     <string name="preparing_sd">Příprava vnitřního úložiště…</string>

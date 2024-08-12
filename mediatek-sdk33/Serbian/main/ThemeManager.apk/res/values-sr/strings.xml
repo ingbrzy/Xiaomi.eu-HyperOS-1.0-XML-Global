@@ -397,6 +397,9 @@
     <string name="incompatible_dialog_message">Ова тема није компатибилна са верзијом система вашег уређаја. Неке системске функције можда неће радити исправно ако примените ову тему.</string>
     <string name="incompatible_dialog_ok">Схватам</string>
     <string name="incompatible_dialog_title">Проблеми с компатибилношћу</string>
+    <string name="install_fail">Инсталирање није успело</string>
+    <string name="install_succ">Успешно инсталирано</string>
+    <string name="installing">Инсталирање…</string>
     <string name="is_setting_wallpaper_message">Постaвљање позадине…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Аларми</string>
@@ -699,9 +702,6 @@ mm"</string>
     <string name="present_official_themes">Наш избор</string>
     <string name="present_online_themes">Примите више онлајн-тема</string>
     <string name="privacy_desc">Правила о приватности (обавезно)</string>
-    <string name="privacy_simple_content">Укључите персонализоване препоруке да бисте добили садржај и производе прилагођене вашим интересовањима.</string>
-    <string name="privacy_simple_hint">Подешавања можете променити у било ком тренутку у Подешавањима.</string>
-    <string name="privacy_simple_title">Персонализоване препоруке</string>
     <string name="promotion_ad">Промоција</string>
     <string name="provision_default_theme_title">Задато</string>
     <string name="provision_download_cancel">Преузимање је отказано</string>

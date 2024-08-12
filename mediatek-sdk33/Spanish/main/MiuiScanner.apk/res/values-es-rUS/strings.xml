@@ -43,8 +43,9 @@
     <string name="app_description_title">¿Desinstalar Escáner?</string>
     <string name="app_details">App:</string>
     <string name="app_name">Escáner</string>
-    <string name="app_remove_icon_description_content">Escáner es una aplicación del sistema. Aún podrá encontrarlo en los Ajustes o escanear códigos usando la Cámara, el Navegador y Monedero Mi después de eliminar el acceso directo de la Pantalla de inicio.</string>
+    <string name="app_remove_icon_description_content">Escáner es una aplicación del sistema. Aún podrá encontrarlo en la Configuración o escanear códigos usando la Cámara, el Navegador y Monedero Mi después de eliminar el acceso directo de la Pantalla de inicio.</string>
     <string name="app_remove_icon_description_title">¿Eliminar \"ShareMe\" de la Pantalla de inicio?</string>
+    <string name="auracast_code_title_key">Escuchar la retransmisión de %s</string>
     <string name="back">Atrás</string>
     <string name="barcode_into_rectangle">Coloque el código adentro del recuadro</string>
     <string name="birthday">Cumpleaños:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Permisos</string>
     <string name="phone">Teléfono:</string>
     <string name="place_barcode_into_rectangle">Coloque el código adentro del recuadro</string>
+    <string name="please_enable_bluetooth_retry">Active el Bluetooth y vuelva a intentarlo</string>
     <string name="pm">PM</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
     <string name="preparing_sd">Preparando almacenamiento interno…</string>
@@ -329,7 +331,7 @@
     <string name="setting_choose_every_time">Preguntar siempre</string>
     <string name="setting_default_function">Función por defecto</string>
     <string name="setting_function_sort">Reorganizar funciones</string>
-    <string name="setting_title">Ajustes</string>
+    <string name="setting_title">Configuración</string>
     <string name="setting_use_last_choose">Recordar elección previa</string>
     <string name="setting_wechat">WeChat</string>
     <string name="spaceIsLow_content">No hay suficiente espacio en el almacenamiento interno. Libere algo de espacio.</string>

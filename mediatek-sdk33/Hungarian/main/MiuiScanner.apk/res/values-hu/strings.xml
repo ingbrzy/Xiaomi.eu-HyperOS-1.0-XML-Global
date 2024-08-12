@@ -45,6 +45,7 @@
     <string name="app_name">Szkenner</string>
     <string name="app_remove_icon_description_content">A Szkenner egy rendszeralkalmazás. Ha eltávolítja a parancsikont a Kezdőképernyőről, az alkalmazás továbbra is megtalálható marad a Beállításokban, illetve be lehet olvasni vele kódokat a Kamerán, Böngészőn és a Mi Pénztárcán keresztül.</string>
     <string name="app_remove_icon_description_title">Eltávolítja a \"Szkennert\" a Kezdőképernyőről?</string>
+    <string name="auracast_code_title_key">Hallgassa meg %s adását</string>
     <string name="back">Vissza</string>
     <string name="barcode_into_rectangle">Helyezze a kódot a keretbe</string>
     <string name="birthday">Születésnap:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Engedélyek</string>
     <string name="phone">Telefonszám:</string>
     <string name="place_barcode_into_rectangle">Helyezze a kódot a keretbe</string>
+    <string name="please_enable_bluetooth_retry">Kapcsolja be a Bluetooth-t, majd próbálja újra</string>
     <string name="pm">DU</string>
     <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="preparing_sd">Belső tárhely előkészítése…</string>

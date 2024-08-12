@@ -46,6 +46,7 @@
     <string name="am">AM</string>
     <string name="app_name">Xiaomi คลาวด์</string>
     <string name="bad_authentication">ชื่อบัญชีหรือรหัสผ่านไม่ถูกต้อง</string>
+    <string name="browser_sync_settings_preference">ซิงค์อัตโนมัติ</string>
     <string name="btn_return">ย้อนกลับ</string>
     <string name="btn_revoke_permission">เพิกถอนความยินยอม</string>
     <string name="button_agree">ยอมรับ</string>
@@ -124,7 +125,7 @@
     <string name="data_merge_dialog_alert_msg_two">รายการจาก %1$s และ %2$s จะถูกเก็บไว้ใน Xiaomi คลาวด์ ซิงค์และรวมเข้ากับรายการในอุปกรณ์นี้หรือไม่?</string>
     <string name="data_merge_dialog_alert_msg_two_pad">รายการจาก %1$s และ %2$s จะถูกเก็บไว้ใน Xiaomi คลาวด์ ซิงค์และรวมเข้ากับรายการในอุปกรณ์นี้หรือไม่?</string>
     <string name="data_merge_dialog_loading">ตรวจสอบข้อมูล…</string>
-    <string name="data_merge_dialog_title">ควบรวมรายการ</string>
+    <string name="data_merge_dialog_title">รวมรายการ</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -259,6 +260,7 @@
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
     <string name="gallery_auto_sync_fail_noti_content">พื้นที่เก็บข้อมูลเหลือไม่เพียงพอในระบบคลาวด์ อัปเกรดแผนบริการพื้นที่เก็บข้อมูลของคุณเพื่อซิงค์รูปภาพและวิดีโอ</string>
+    <string name="gallery_auto_sync_fail_noti_content_lite">ที่เก็บข้อมูลบนคลาวด์ไม่เพียงพอ ไม่สามารถบันทึกรูปภาพ</string>
     <string name="gallery_data_transfer_ddl">กำหนดเวลา: %s</string>
     <string name="gallery_data_transfer_summary">ไม่สามารถซิงค์รายการคลังภาพกับ Xiaomi คลาวด์ ได้อีกต่อไป เราแนะนำให้โอนรูปภาพและวิดีโอที่คุณซิงค์กับระบบคลาวด์ไปยัง Google รูปภาพ และใช้บริการเพื่อสำรองข้อมูลรายการของคุณ</string>
     <string name="gallery_data_transfer_title">โอนรูปภาพและวิดีโอที่ซิงค์ไปยัง Google รูปภาพ</string>
@@ -327,7 +329,7 @@
     <string name="master_alert_notif_title">เปิดใช้งาน Xiaomi คลาวด์</string>
     <string name="member_menu_vipname_free">อิสระ</string>
     <string name="member_menu_vipname_mega">เมก้า</string>
-    <string name="member_menu_vipname_premium">พรีเมี่ยม</string>
+    <string name="member_menu_vipname_premium">พรีเมียม</string>
     <string name="member_menu_vipname_ultra">อัลตร้า</string>
     <string name="menu_add_short_cut">สร้างปุ่มลัดหน้าจอหลัก</string>
     <string name="menu_migrate_to_google_photos">โอนข้อมูลไปยัง Google รูปภาพ</string>
@@ -375,7 +377,7 @@
     <string name="micloud_dspt_provision_no_call">คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์รูปภาพ ผู้ติดต่อ ข้อความ บันทึกย่อ การบันทึก และข้อมูลอื่น ๆ ค้นหาอุปกรณ์ของคุณ และแบ่งปันรายการกับเพื่อน ๆ แอปนี้จำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อให้ทำงานได้ตามปกติ การซิงค์รายการอาจต้องใช้การเชื่อมต่อข้อมูลมือถือและเปิด Wi-Fi</string>
     <string name="micloud_dspt_provision_no_sms">คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์รูปภาพ รายชื่อติดต่อ ประวัติการโทร บันทึก บันทึก และข้อมูลอื่นๆ ค้นหาอุปกรณ์ของคุณ และแบ่งปันรายการกับเพื่อน ๆ แอพนี้จำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อให้ทำงานได้ตามปกติ การซิงค์รายการอาจต้องใช้การเชื่อมต่อข้อมูลมือถือและเปิด Wi-Fi</string>
     <string name="micloud_dspt_provision_no_sms_and_call">คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์รูปภาพ ผู้ติดต่อ บันทึกย่อ การบันทึก และข้อมูลอื่นๆ ค้นหาอุปกรณ์ของคุณ และแบ่งปันรายการกับเพื่อน ๆ แอปนี้จำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อให้ทำงานได้ตามปกติ การซิงค์รายการอาจต้องใช้การเชื่อมต่อข้อมูลมือถือและเปิด Wi-Fi</string>
-    <string name="micloud_find_device_close_alert_content">หากคุณปิดใช้งานค้นหาอุปกรณ์ คุณจะไม่สามารถระบุตำแหน่งของอุปกรณ์เมื่อใช้คุณลักณะนี้ คนที่คุณแชร์ตำแหน่งด้วยจะไม่สามารถรับข้อมูลอัปเดตเกี่ยวกับที่อยู่ของคุณได้เช่นกัน</string>
+    <string name="micloud_find_device_close_alert_content">หากคุณปิดใช้งานค้นหาอุปกรณ์ คุณจะไม่สามารถระบุตำแหน่งของอุปกรณ์ด้วยคุณลักษณะนี้ได้ คนที่คุณแชร์ตำแหน่งด้วยจะไม่สามารถรับข้อมูลอัปเดตเกี่ยวกับที่อยู่ของคุณได้เช่นกัน</string>
     <string name="micloud_find_device_close_alert_negtive">ปิดใช้งาน</string>
     <string name="micloud_find_device_close_alert_positive">เปิดไว้</string>
     <string name="micloud_find_device_close_alert_title">ปิดใช้การค้นหาอุปกรณ์?</string>
@@ -560,6 +562,7 @@
     <string name="miuix_appcompat_delete_description">ลบ</string>
     <string name="miuix_appcompat_deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_deselect_all_description">ไม่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_edit">แก้ไข</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
     <string name="miuix_appcompat_search_input_description">ค้นหา</string>
     <string name="miuix_appcompat_select_all">เลือกทั้งหมด</string>
@@ -657,10 +660,10 @@
     <string name="privacy_and_agreement">ข้อตกลงและเงื่อนไข</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">ยินดีต้อนรับสู่ ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อค้นหา ล็อค หรือลบข้อมูลในอุปกรณ์ของคุณหากอุปกรณ์สูญหาย</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">ยินดีต้อนรับสู่ ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อค้นหา ล็อค หรือลบข้อมูลในอุปกรณ์ของคุณหากอุปกรณ์สูญหาย</string>
-    <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_china_v2">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์ข้อความ, รายชื่อ, บันทึกย่อ, การตั้งค่าเบราว์เซอร์, รูปภาพและวิดีโอ, บันทึกเสียง, แอป, กำหนดการปฏิทิน และ รายการบล็อก ของคุณในอุปกรณ์ที่เชื่อมต่อทั้งหมด</string>
-    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์ ข้อความ, บันทึกย่อ, การตั้งค่าเบราว์เซอร์, รูปภาพและวิดีโอ, บันทึกเสียง, แอป, กำหนดการปฏิทิน, และ รายการบล็อก ของคุณในอุปกรณ์ที่เชื่อมต่อทั้งหมด</string>
+    <string name="privacy_dialog_sync_all_purpose_china">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์ข้อความ, รายชื่อ, บันทึกย่อ, การตั้งค่าเบราว์เซอร์, รูปภาพและวิดีโอ, การตั้งค่า WLAN, บันทึกเสียง, การจัดเรียงหน้าจอหลัก, แอป, กำหนดการปฏิทิน, รายการบล็อก, ประวัติการโทร, และ แอป vault ของคุณในอุปกรณ์ที่เชื่อมต่อทั้งหมด</string>
+    <string name="privacy_dialog_sync_all_purpose_china_v2">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์ข้อความ, รายชื่อ, บันทึกย่อ, การตั้งค่าเบราว์เซอร์, รูปภาพและวิดีโอ, การตั้งค่า WLAN, บันทึกเสียง, การจัดเรียงหน้าจอหลัก, แอป, กำหนดการปฏิทิน, รายการบล็อก, ประวัติการโทร, และ แอป vault ของคุณในอุปกรณ์ที่เชื่อมต่อทั้งหมด</string>
+    <string name="privacy_dialog_sync_all_purpose_pad">ยินดีต้อนรับสู่บริการ Xiaomi Cloud! คุณสามารถใช้แอปนี้เพื่อซิงค์ข้อความ รายชื่อ บันทึก รายการเบราว์เซอร์ อัลบั้มคลาวด์ เพลง ปฏิทิน รายการบล็อก และประวัติการโทรไปยังคลาวด์</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">ยินดีต้อนรับสู่บริการ Xiaomi Cloud! คุณสามารถใช้แอปนี้เพื่อซิงค์ข้อความ บันทึก รายการเบราว์เซอร์ อัลบั้มคลาวด์ เพลง ปฏิทิน รายการบล็อก และประวัติการโทรไปยังคลาวด์</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์ ข้อความ, รายชื่อผู้ติดต่อ, บันทึกย่อ, การตั้งค่าเบราว์เซอร์, รูปภาพและวิดีโอ, บันทึกเสียง, กำหนดการปฏิทิน และ รายการบล็อก ของคุณในอุปกรณ์ที่เชื่อมต่อทั้งหมด</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์ รายชื่อผู้ติดต่อ, บันทึกย่อ, การตั้งค่าเบราว์เซอร์, รูปภาพและวิดีโอ, บันทึกเสียง, กำหนดการปฏิทิน และ รายการบล็อก ของคุณในอุปกรณ์ที่เชื่อมต่อทั้งหมด</string>
     <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images and videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
@@ -944,7 +947,7 @@
     <string name="update_dialog_no_internet_toast_text">ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง</string>
     <string name="update_dialog_no_update_toast_text">เวอร์ชั่นปัจจุบันเป็นเวอร์ชั่นล่าสุดแล้ว</string>
     <string name="update_dialog_title">อัปเดตพร้อมใช้งาน</string>
-    <string name="update_dialog_update_button_text">อัปเดต</string>
+    <string name="update_dialog_update_button_text">ติดตั้ง</string>
     <string name="upgrade_member_storage">สมาชิก Xiaomi คลาวด์</string>
     <string name="user_agreement_content">ในการใช้บริการนี้ถือว่าคุณได้ตกลงและยินยอมตาม %s</string>
     <string name="user_agreement_link">เงื่อนไขการให้บริการ Xiaomi คลาวด์</string>

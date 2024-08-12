@@ -129,6 +129,9 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d phút trước</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">Đồng bộ chưa được bật cho các mục %s</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s dịch vụ sẽ được đồng bộ với Xiaomi Cloud</item>
     </plurals>

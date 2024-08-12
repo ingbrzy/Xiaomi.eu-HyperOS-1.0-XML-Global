@@ -397,6 +397,9 @@
     <string name="incompatible_dialog_message">Tämä teema ei ole yhteensopiva laitteesi järjestelmäversion kanssa. Jotkut järjestelmän ominaisuudet eivät ehkä toimi oikein, jos käytät tätä teemaa.</string>
     <string name="incompatible_dialog_ok">Selvä</string>
     <string name="incompatible_dialog_title">Yhteensopivuusongelmat</string>
+    <string name="install_fail">Ei voitu asentaa</string>
+    <string name="install_succ">Asennettu onnistuneesti</string>
+    <string name="installing">Asennetaan…</string>
     <string name="is_setting_wallpaper_message">Asetetaan taustakuvaa…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Hälytykset</string>
@@ -699,9 +702,6 @@ mm"</string>
     <string name="present_official_themes">Poimintani</string>
     <string name="present_online_themes">Hanki lisää teemoja</string>
     <string name="privacy_desc">Tietosuojakäytäntö (pakollinen)</string>
-    <string name="privacy_simple_content">Ota käyttöön henkilökohtaiset suositukset saadaksesi kiinnostuksen kohteidesi mukaista sisältöä ja tuotteita.</string>
-    <string name="privacy_simple_hint">Voit muuttaa asetuksiasi milloin tahansa asetuksissa.</string>
-    <string name="privacy_simple_title">Yksilöidyt suositukset</string>
     <string name="promotion_ad">Promootio</string>
     <string name="provision_default_theme_title">Oletus</string>
     <string name="provision_download_cancel">Peruutettu lataus</string>

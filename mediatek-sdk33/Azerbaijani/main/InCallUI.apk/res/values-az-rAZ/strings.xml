@@ -358,7 +358,7 @@
     <string name="satellite_guide_azimuth">Peyk işarəsi mavi sahədə olana qədər hərəkət edin</string>
     <string name="satellite_guide_down">"Topu mavi sahəyə qoymaq üçün cihazınızı
 aşağı əyin"</string>
-    <string name="satellite_guide_elevation">Peyk işarəsi mavi dairədə olana qədər hərəkət edin</string>
+    <string name="satellite_guide_elevation">Tilt your device to move the blue circle on to the satellite, then stay still</string>
     <string name="satellite_guide_found">Peyk tapıldı</string>
     <string name="satellite_guide_left">"Peyk işarəsini mavi sahəyə yerləşdirmək üçün cihazınızı
 sola əyin"</string>
@@ -366,6 +366,8 @@ sola əyin"</string>
 sağa əyin"</string>
     <string name="satellite_guide_searching">Peyk axtarılır…</string>
     <string name="satellite_guide_searching_floating">Axtarılır…</string>
+    <string name="satellite_guide_searching_fold">"Searching for satellite… Don't unfold device."</string>
+    <string name="satellite_guide_searching_unfold">"Searching for satellite… Don't fold device."</string>
     <string name="satellite_guide_signal">Daha yaxşı siqnal üçün cihazınızı bir qədər yuxarı və aşağı hərəkət etdirin</string>
     <string name="satellite_guide_up">"Topu mavi sahəyə qoymaq üçün cihazınızı
 yuxarı əyin"</string>

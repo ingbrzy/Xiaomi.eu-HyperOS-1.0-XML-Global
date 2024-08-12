@@ -45,6 +45,7 @@
     <string name="app_name">Escàner</string>
     <string name="app_remove_icon_description_content">"Escàner és una aplicació del sistema. Després d’eliminar la drecera a la Pantalla d'inici, el podreu trobar a la Configuració o als codis d’escaneig mitjançant la Càmera, el Navegador i Moneder Mi."</string>
     <string name="app_remove_icon_description_title">"Voleu eliminar \"Escàner\" de la Pantalla d'inici?"</string>
+    <string name="auracast_code_title_key">"Escolta l'emissió de %s"</string>
     <string name="back">Enrere</string>
     <string name="barcode_into_rectangle">"Poseu el codi a l'interior del marc"</string>
     <string name="birthday">Aniversari:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Permisos</string>
     <string name="phone">Telèfon:</string>
     <string name="place_barcode_into_rectangle">"Poseu el codi a l'interior del marc"</string>
+    <string name="please_enable_bluetooth_retry">Activeu el Bluetooth i proveu-ho de nou</string>
     <string name="pm">p. m.</string>
     <string name="preference_copied">"\"%1$s\" s'ha copiat al porta-retalls"</string>
     <string name="preparing_sd">Preparant memòria interna…</string>

@@ -120,6 +120,10 @@
         <item quantity="other">"Storage is full. Couldn't sync &lt;font color=#F22424>%d apps&lt;/font>."</item>
         <item quantity="one">"Storage is full. Couldn't sync &lt;font color=#F22424>%d app&lt;/font>."</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">"Sync isn't turned on for %s items"</item>
+        <item quantity="one">"Sync isn't turned on for %s item"</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s services will be synced with Xiaomi Cloud</item>
         <item quantity="one">%s service will be synced with Xiaomi Cloud</item>

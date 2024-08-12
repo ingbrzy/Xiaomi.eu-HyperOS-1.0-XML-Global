@@ -113,9 +113,9 @@
         <item>메모;클라우드;동기화;클라우드 서비스;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
-        <item>Xiaomi Cloud와 앱 서랍 동기화</item>
+        <item>Xiaomi Cloud와 앱 보관함 동기화</item>
         <item>동기화 켜기</item>
-        <item>앱 서랍;카드;클라우드;동기화;클라우드 서비스;Xiaomi Cloud</item>
+        <item>앱 보관함;카드;클라우드;동기화;클라우드 서비스;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_phrase">
         <item>앱 및 알림 동기화</item>

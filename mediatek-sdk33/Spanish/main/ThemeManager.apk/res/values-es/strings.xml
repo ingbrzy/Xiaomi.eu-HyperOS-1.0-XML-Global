@@ -400,6 +400,9 @@
     <string name="incompatible_dialog_message">Este tema no es compatible con la versión del sistema de tu dispositivo. Es posible que algunas funciones del sistema no funcionen correctamente si aplicas este tema.</string>
     <string name="incompatible_dialog_ok">De acuerdo</string>
     <string name="incompatible_dialog_title">Problemas de compatibilidad</string>
+    <string name="install_fail">No se pudo instalar</string>
+    <string name="install_succ">Instalado con éxito</string>
+    <string name="installing">Instalando…</string>
     <string name="is_setting_wallpaper_message">Estableciendo fondo de pantalla…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmas</string>
@@ -702,9 +705,6 @@ mm"</string>
     <string name="present_official_themes">Nuestra selección</string>
     <string name="present_online_themes">Obtener más temas en línea</string>
     <string name="privacy_desc">Política de Privacidad (obligatorio)</string>
-    <string name="privacy_simple_content">Activa las recomendaciones personalizadas para obtener contenido y productos adaptados a tus intereses.</string>
-    <string name="privacy_simple_hint">Puedes cambiar tus preferencias en cualquier momento en Ajustes.</string>
-    <string name="privacy_simple_title">Recomendaciones personalizadas</string>
     <string name="promotion_ad">Promoción</string>
     <string name="provision_default_theme_title">Por defecto</string>
     <string name="provision_download_cancel">Descarga cancelada</string>

@@ -385,7 +385,7 @@
     <string name="satellite_guide_azimuth">Bevæg dig rundt, indtil satellitikonen er i det blå område</string>
     <string name="satellite_guide_down">"Vip din enhed ned
 for at placere bolden i det blå område"</string>
-    <string name="satellite_guide_elevation">Bevæg dig rundt, indtil satellitikonen er i den blå cirkel</string>
+    <string name="satellite_guide_elevation">Tilt your device to move the blue circle on to the satellite, then stay still</string>
     <string name="satellite_guide_found">Fundet satellit</string>
     <string name="satellite_guide_left">"Vip din enhed til venstre
 for at placere satellit-ikonet i det blå område"</string>
@@ -393,6 +393,8 @@ for at placere satellit-ikonet i det blå område"</string>
 for at placere satellit-ikonet i det blå område"</string>
     <string name="satellite_guide_searching">Søger efter satellit…</string>
     <string name="satellite_guide_searching_floating">Søger…</string>
+    <string name="satellite_guide_searching_fold">"Searching for satellite… Don't unfold device."</string>
+    <string name="satellite_guide_searching_unfold">"Searching for satellite… Don't fold device."</string>
     <string name="satellite_guide_signal">For at få et bedre signal skal du bevæge din enhed lidt op og ned</string>
     <string name="satellite_guide_up">"Vip din enhed op
 for at placere bolden i det blå område"</string>

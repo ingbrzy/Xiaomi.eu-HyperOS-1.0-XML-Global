@@ -385,7 +385,7 @@
     <string name="satellite_guide_azimuth">Förflytta dig tills satellit-ikonen är i det blå området</string>
     <string name="satellite_guide_down">"Vinkla enheten neråt
  för att placera bollen i det blå området"</string>
-    <string name="satellite_guide_elevation">Förflytta dig tills satellit-ikonen är i den blå cirkeln</string>
+    <string name="satellite_guide_elevation">Tilt your device to move the blue circle on to the satellite, then stay still</string>
     <string name="satellite_guide_found">Hittade satellit</string>
     <string name="satellite_guide_left">"Vinkla enheten åt vänster
 för att placera satellitikonen i det blå området"</string>
@@ -393,6 +393,8 @@ för att placera satellitikonen i det blå området"</string>
 för att placera satellitikonen i det blå området"</string>
     <string name="satellite_guide_searching">Söker efter satellit…</string>
     <string name="satellite_guide_searching_floating">Söker…</string>
+    <string name="satellite_guide_searching_fold">"Searching for satellite… Don't unfold device."</string>
+    <string name="satellite_guide_searching_unfold">"Searching for satellite… Don't fold device."</string>
     <string name="satellite_guide_signal">Flytta din enhet lite upp och ner för bättre signal</string>
     <string name="satellite_guide_up">"Vinkla enheten uppåt
 för att placera bollen i det blå området"</string>

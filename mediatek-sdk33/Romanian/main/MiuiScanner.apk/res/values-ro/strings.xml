@@ -45,6 +45,7 @@
     <string name="app_name">Scaner</string>
     <string name="app_remove_icon_description_content">Scaner este o aplicație de sistem. Îl veți putea găsi în continuare în Setări sau să scanați coduri utilizând Aparatul foto, Browser și Mi Portofel după ce ați eliminat comanda rapidă din Ecranul principal.</string>
     <string name="app_remove_icon_description_title">Eliminați \"Scaner\" din Ecranul principal?</string>
+    <string name="auracast_code_title_key">Ascultă emisiunea lui %s</string>
     <string name="back">Înapoi</string>
     <string name="barcode_into_rectangle">Plasați codul în interiorul cadrului</string>
     <string name="birthday">Ziua de naștere:</string>
@@ -205,7 +206,7 @@
     <string name="mihome_update_title">Actualizează Xiaomi Home</string>
     <string name="mipay">Mi Plată</string>
     <string name="mipayin_dialog_mipayName">Mi Plată</string>
-    <string name="mipayin_dialog_more">Mai mult</string>
+    <string name="mipayin_dialog_more">Mai multe</string>
     <string name="mipayin_dialog_title">Deschide cu</string>
     <string name="miracast_connect">Difuza</string>
     <string name="miracast_connect_fail">Nu s-a putut emite. Încercați din nou.</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Permisiuni</string>
     <string name="phone">Telefon:</string>
     <string name="place_barcode_into_rectangle">Plasați codul în interiorul cadrului</string>
+    <string name="please_enable_bluetooth_retry">Activați Bluetooth și încercați din nou</string>
     <string name="pm">PM</string>
     <string name="preference_copied">„%1$s” a fost copiat în clipboard.</string>
     <string name="preparing_sd">Se pregătește stocarea internă…</string>

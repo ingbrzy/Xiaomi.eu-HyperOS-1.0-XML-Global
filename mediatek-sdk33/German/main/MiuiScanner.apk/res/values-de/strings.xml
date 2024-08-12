@@ -45,6 +45,7 @@
     <string name="app_name">Scanner</string>
     <string name="app_remove_icon_description_content">Scanner ist eine System-App. Du wirst sie in den Einstellungen weiterhin finden oder Codes mit der Kamera, dem Browser oder Mi Wallet scannen können, nachdem du die Verknüpfung auf dem Startbildschirm entfernt hast.</string>
     <string name="app_remove_icon_description_title">„Scanner“ vom Startbildschirm entfernen?</string>
+    <string name="auracast_code_title_key">Übertragung von %s anhören</string>
     <string name="back">Zurück</string>
     <string name="barcode_into_rectangle">Code im Rahmen zentrieren</string>
     <string name="birthday">Geburtstag:</string>
@@ -300,6 +301,7 @@
     <string name="permissions_use">Berechtigungen</string>
     <string name="phone">Telefon:</string>
     <string name="place_barcode_into_rectangle">Code im Rahmen zentrieren</string>
+    <string name="please_enable_bluetooth_retry">Bluetooth einschalten und erneut versuchen</string>
     <string name="pm">abends</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert.</string>
     <string name="preparing_sd">Internen Speicher vorbereiten…</string>

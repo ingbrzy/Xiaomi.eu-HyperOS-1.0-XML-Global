@@ -397,6 +397,9 @@
     <string name="incompatible_dialog_message">Toto téma není kompatibilní s verzí nainstalovanou ve vašem zařízení. Při použití tohoto tématu nemusejí některé systémové funkce správně pracovat.</string>
     <string name="incompatible_dialog_ok">Rozumím</string>
     <string name="incompatible_dialog_title">Problémy s kompatibilitou</string>
+    <string name="install_fail">Instalace se nezdařila</string>
+    <string name="install_succ">Úspěšně nainstalováno</string>
+    <string name="installing">Instaluji…</string>
     <string name="is_setting_wallpaper_message">Nastavuji tapetu…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Budíky</string>
@@ -699,9 +702,6 @@ mm"</string>
     <string name="present_official_themes">Naše tipy</string>
     <string name="present_online_themes">Získejte více online témat</string>
     <string name="privacy_desc">Zásady ochrany osobních údajů (povinné)</string>
-    <string name="privacy_simple_content">Zapněte si přizpůsobená doporučení a dostávejte obsah a produkty odpovídající vašim zájmům.</string>
-    <string name="privacy_simple_hint">Své předvolby můžete kdykoliv změnit v Nastavení.</string>
-    <string name="privacy_simple_title">Přizpůsobená doporučení</string>
     <string name="promotion_ad">Akce</string>
     <string name="provision_default_theme_title">Výchozí</string>
     <string name="provision_download_cancel">Stahování zrušeno</string>

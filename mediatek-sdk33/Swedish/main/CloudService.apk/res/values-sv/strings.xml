@@ -46,6 +46,7 @@
     <string name="am">F.m</string>
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">Ogiltigt konto eller lösenord</string>
+    <string name="browser_sync_settings_preference">Synka automatiskt</string>
     <string name="btn_return">Tillbaka</string>
     <string name="btn_revoke_permission">Återkalla samtycke</string>
     <string name="button_agree">Godkänn</string>
@@ -259,6 +260,7 @@
     <string name="friday_short">Fre</string>
     <string name="friday_shortest">Fre</string>
     <string name="gallery_auto_sync_fail_noti_content">Det finns inte tillräckligt med lagringsutrymme kvar i molnet. Uppgradera ditt lagringsplan för att synkronisera foton och videor.</string>
+    <string name="gallery_auto_sync_fail_noti_content_lite">Molnlagringen är inte tillräcklig. Kan inte spara foton.</string>
     <string name="gallery_data_transfer_ddl">Slutdatum: %s</string>
     <string name="gallery_data_transfer_summary">Galleriobjekt kan inte längre synkroniseras med Xiaomi Cloud. Vi rekommenderar att överföra foton och videor som du har synkroniserat med molnen till Google Foto och använda deras tjänster för att säkerhetskopiera dina objekt.</string>
     <string name="gallery_data_transfer_title">Överför synkroniserade foton och videor till Google Foto</string>
@@ -560,6 +562,7 @@ Säkerställ att du använder de tillhörande Xiaomi-kontot som ditt systemkonto
     <string name="miuix_appcompat_delete_description">Ta bort</string>
     <string name="miuix_appcompat_deselect_all">Avmarkera alla</string>
     <string name="miuix_appcompat_deselect_all_description">Avmarkera alla</string>
+    <string name="miuix_appcompat_edit">Redigera</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Avbryt</string>
     <string name="miuix_appcompat_search_input_description">Sök</string>
     <string name="miuix_appcompat_select_all">Välj alla</string>
@@ -657,10 +660,10 @@ Platsinfo kanske inte rapporteras när nätverksanslutningen är dålig."</strin
     <string name="privacy_and_agreement">Villkor</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">Välkommen till Find device! Du kan använda denna tjänst för att lokalisera, låsa eller radera data på din enhet om den tappats bort.</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">Välkommen till Hitta enhet! Du kan använda denna tjänst för att lokalisera, låsa eller radera data på din enhet om den tappats bort.</string>
-    <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_china_v2">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad">Välkommen till Xiaomi Cloud-tjänsterna! Du kan använda Xiaomi Cloud för att synkronisera dina meddelanden, kontakter, anteckningar, webbläsarinställningar, foton och videor, inspelningar, kalenderhändelser och poster i blockeringslistan på alla anslutna enheter.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Välkommen till Xiaomi Cloud-tjänsterna! Du kan använda Xiaomi Cloud för att synkronisera dina meddelande, anteckningar, webbläsarinställningar, foton och videor, inspelningar, kalenderhändelser samt poster i blockeringslistan på alla anslutna enheter.</string>
+    <string name="privacy_dialog_sync_all_purpose_china">Välkommen till Tjänster från Xiaomi Cloud! Du kan använda Xiaomi Cloud för att synkronisera dina meddelande, kontakter, anteckningar, webbläsarinställningar, foton och videor, WLAN-inställningar, inspelningar, utseende på Hemskärmen, appar, kalenderhändelser, poster i blockeringslistan, samtalshistorik, och App vault, över alla anslutna enheter.</string>
+    <string name="privacy_dialog_sync_all_purpose_china_v2">Välkommen till Tjänster från Xiaomi Cloud! Du kan använda Xiaomi Cloud för att synkronisera dina meddelande, kontakter, anteckningar, webbläsarinställningar, foton och videor, WLAN-inställningar, inspelningar, utseende på Hemskärmen, appar, kalenderhändelser, poster i blockeringslistan, samtalshistorik, och App vault, över alla anslutna enheter.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad">Välkommen till Tjänster från Xiaomi Cloud! Du kan använda den här appen för att synkronisera dina meddelanden, kontakter, anteckningar, webbobjekt, molnalbum, musik, kalender, blockeringslista och samtalshistorik till molnet.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Välkommen till Tjänster från Xiaomi Cloud! Du kan använda den här appen för att synkronisera dina meddelanden, anteckningar, webbobjekt, molnalbum, musik, kalender, blockeringslista och samtalshistorik till molnet.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">Välkommen till Xiaomi Cloud-tjänsterna! Du kan använda Xiaomi Cloud för att synkronisera dina kontakter, anteckningar, webbläsarinställningar, foton och videor, inspelningar, kalenderhändelser samt poster i blockeringslistan på alla anslutna enheter.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">Välkommen till Xiaomi Cloud-tjänsterna! Du kan använda Xiaomi Cloud för att synkronisera dina anteckningar, webbläsarinställningar, foton och videor, inspelningar, kalenderhändelser samt poster i blockeringslistan på alla anslutna enheter.</string>
     <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images and videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
@@ -944,7 +947,7 @@ Platsinfo kanske inte rapporteras när nätverksanslutningen är dålig."</strin
     <string name="update_dialog_no_internet_toast_text">Kontrollera din anslutning och försök igen</string>
     <string name="update_dialog_no_update_toast_text">Aktuell version är uppdaterad</string>
     <string name="update_dialog_title">Uppdatering tillgänglig</string>
-    <string name="update_dialog_update_button_text">Uppdatera</string>
+    <string name="update_dialog_update_button_text">Installera</string>
     <string name="upgrade_member_storage">Köp Xiaomi Cloud medlemskap</string>
     <string name="user_agreement_content">Genom att använda den här funktionen godkänner du %s.</string>
     <string name="user_agreement_link">Xiaomi Clouds användarvillkor</string>

@@ -46,6 +46,7 @@
     <string name="am">Пре подне</string>
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">Неважећи налог или лозинка</string>
+    <string name="browser_sync_settings_preference">Аутоматски синхронизуј</string>
     <string name="btn_return">Назад</string>
     <string name="btn_revoke_permission">Повуци пристанак</string>
     <string name="button_agree">Прихватам</string>
@@ -259,6 +260,7 @@
     <string name="friday_short">Пет</string>
     <string name="friday_shortest">Пет</string>
     <string name="gallery_auto_sync_fail_noti_content">На cloud-у нема довољно простора. Надоградите план вашег складишта ради синхронизовања фотографија и видео снимака.</string>
+    <string name="gallery_auto_sync_fail_noti_content_lite">Недовољно складишног простора у cloud-у. Не могу се сачувати фотографије.</string>
     <string name="gallery_data_transfer_ddl">Рок: %s</string>
     <string name="gallery_data_transfer_summary">Ставке Галерије више не могу да се синхронизују са Xiaomi Cloud-ом. Препоручујемо да фотографије и видео снимке које сте синхронизовали са cloud-ом пренесете у Google Photos и да користите њихове услуге за бекаповање ставки.</string>
     <string name="gallery_data_transfer_title">Пренесите синхронизоване фотографије и видео снимке у Google Photos</string>
@@ -560,6 +562,7 @@
     <string name="miuix_appcompat_delete_description">Oбриши</string>
     <string name="miuix_appcompat_deselect_all">Поништи избор</string>
     <string name="miuix_appcompat_deselect_all_description">Опозови све</string>
+    <string name="miuix_appcompat_edit">Уреди</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Откажи</string>
     <string name="miuix_appcompat_search_input_description">Тражи</string>
     <string name="miuix_appcompat_select_all">Изабери све</string>
@@ -657,10 +660,10 @@
     <string name="privacy_and_agreement">Одредбе и услови</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">Добро дошли у Пронађи уређај! Ову услугу можете користити за лоцирање, закључавање или брисање података са уређаја ако је изгубљен.</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">Добро дошли у Пронађи уређај! Ову услугу можете користити за лоцирање, закључавање или брисање података са уређаја ако је изгубљен.</string>
-    <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_china_v2">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad">Добро дошли у Xiaomi Cloud услуге! Xiaomi Cloud можете користити да синхронизујете ваше поруке, контакте, белешке, подешавања прегледача, фотографије и видео снимке, снимке, календарске догађаје и Листу блокираних ставки на свим повезаним уређајима.</string>
-    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Добро дошли у Xiaomi Cloud услуге! Xiaomi Cloud можете користити да синхронизујете ваше поруке, белешке, подешавања прегледача, фотографије и видео снимке, снимке, календарске догађаје и Листу блокираних ставки на свим повезаним уређајима.</string>
+    <string name="privacy_dialog_sync_all_purpose_china">Добро дошли у Xiaomi Cloud услуге! Можете да користите Xiaomi Cloud да синхронизујете своје поруке, контакте, белешке, подешавања Прегледача, фотографије и видео снимке, WLAN подешавања, снимке, распоред Почетног екрана, апликације, догађаје у календару, ставке на Листи блокираних, историју позива и Трезор апликација на свим повезаним уређајима.</string>
+    <string name="privacy_dialog_sync_all_purpose_china_v2">Добро дошли у Xiaomi Cloud услуге! Можете да користите Xiaomi Cloud да синхронизујете своје поруке, контакте, белешке, подешавања Прегледача, фотографије и видео снимке, WLAN подешавања, снимке, распоред Почетног екрана, апликације, догађаје у календару, ставке на Листи блокираних, историју позива и Трезор апликација на свим повезаним уређајима.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad">Добро дошли у Xiaomi Cloud услуге! Можете да користите ову апликацију да синхронизујете ваше поруке, контакте, белешке, подешавања Прегледача, cloud албуме, музику, календар, листу блокираних и историју позива са cloud-ом.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Добро дошли у Xiaomi Cloud услуге! Можете да користите ову апликацију да синхронизујете ваше поруке, белешке, ставке Прегледача, cloud албуме, музику, календар, листу блокираних и историју позива са cloud-ом.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">Добро дошли у Xiaomi Cloud услуге! Xiaomi Cloud можете користити да синхронизујете ваше контакте, белешке, подешавања прегледача, фотографије и видео снимке, снимке, календарске догађаје и Листу блокираних ставки на свим повезаним уређајима.</string>
     <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">Добро дошли у Xiaomi Cloud услуге! Xiaomi Cloud можете користити да синхронизујете ваше белешке, подешавања прегледача, фотографије и видео снимке, снимке, календарске догађаје и Листу блокираних ставки на свим повезаним уређајима.</string>
     <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images and videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
@@ -944,7 +947,7 @@
     <string name="update_dialog_no_internet_toast_text">Проверите интернет везу и покушајте опет</string>
     <string name="update_dialog_no_update_toast_text">Тренутна верзија је ажурирана</string>
     <string name="update_dialog_title">Доступно је ажурирање</string>
-    <string name="update_dialog_update_button_text">Ажурирај</string>
+    <string name="update_dialog_update_button_text">Инсталирај</string>
     <string name="upgrade_member_storage">Xiaomi Cloud чланство</string>
     <string name="user_agreement_content">Коришћењем ове услуге, пристајете на %s.</string>
     <string name="user_agreement_link">Услови коришћења услуга Xiaomi Cloud-а</string>

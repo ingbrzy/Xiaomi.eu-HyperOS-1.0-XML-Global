@@ -258,6 +258,12 @@
         <item quantity="two">Pred %d minutami</item>
         <item quantity="few">Pred %d minut</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">Sinhronizacija ni vklopljena za %s elementov</item>
+        <item quantity="one">Sinhronizacija ni vklopljena za %s element</item>
+        <item quantity="two">Sinhronizacija ni vklopljena za %s elementa</item>
+        <item quantity="few">Sinhronizacija ni vklopljena za %s elemente</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s storitve bodo sinhronizirane z Xiaomi Cloudom</item>
         <item quantity="one">%s storitev bo sinhronizirana z Xiaomi Cloudom</item>

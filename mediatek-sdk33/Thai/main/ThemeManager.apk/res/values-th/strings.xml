@@ -400,6 +400,9 @@
     <string name="incompatible_dialog_message">ธีมนี้เข้ากันไม่ได้กับเวอร์ชันระบบของอุปกรณ์ของคุณ คุณลักษณะของระบบบางอย่างอาจทำงานไม่ถูกต้องหากคุณใช้ธีมนี้</string>
     <string name="incompatible_dialog_ok">รับทราบ</string>
     <string name="incompatible_dialog_title">ปัญหาความเข้ากันได้</string>
+    <string name="install_fail">ไม่สามารถติดตั้งได้</string>
+    <string name="install_succ">ติดตั้งเสร็จสิ้น</string>
+    <string name="installing">กำลังติดตั้ง…</string>
     <string name="is_setting_wallpaper_message">กำลังตั้งค่าภาพพื้นหลัง…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">การปลุก</string>
@@ -702,9 +705,6 @@ mm"</string>
     <string name="present_official_themes">เลือกเรา</string>
     <string name="present_online_themes">รับธีมออนไลน์เพิ่มเติม</string>
     <string name="privacy_desc">นโยบายความเป็นส่วนตัว (บังคับ)</string>
-    <string name="privacy_simple_content">เปิดคำแนะนำส่วนบุคคลเพื่อรับเนื้อหาและผลิตภัณฑ์ที่เหมาะกับความสนใจของคุณ</string>
-    <string name="privacy_simple_hint">คุณสามารถเปลี่ยนการตั้งค่าของคุณได้ตลอดเวลาในการตั้งค่า</string>
-    <string name="privacy_simple_title">การแนะนำส่วนบุคคล</string>
     <string name="promotion_ad">โปรโมชั่น</string>
     <string name="provision_default_theme_title">ค่าเริ่มต้น</string>
     <string name="provision_download_cancel">ยกเลิกการดาวน์โหลด</string>
