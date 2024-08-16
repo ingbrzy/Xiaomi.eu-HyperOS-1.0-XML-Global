@@ -690,10 +690,9 @@ Bu xüsusiyyəti Tənzimləmələr > Şifrələr &amp; təhlükəsizlik > Gizlil
     <string name="terms_of_use_label_translation">Tərcümə xidməti</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">Sistem Yeniləmə Xidməti (onlayn yeniləmələri yoxlayır və yeni versiyalar haqqında məlumat verir)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">Sistem istifadə etməzdən əvvəl cihazınızda əvvəldən quraşdırılan Xiaomi tətbiqlərini (məsələn Qalereya, Mi Music, Mi Browser, Mi Video, Temalar və s.) əhatə edən İstifadəçi Sazişimizi və Gizlilik Siyasətimizi oxumalı və onunla razılaşmalısınız. Biz sizin şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq. Cihazınız aktivləşdirildikdə, aşağıdakı xidmətlər şəbəkəyə qoşulacaq və məkanınıza daxil olacaq:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Sistem istifadə etməzdən əvvəl İstifadəçi Sazişimizi və Gizlilik Siyasətimizi oxumalı və onunla razılaşmalısınız. Biz sizin şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq. Cihazınız aktivləşdirildikdə, aşağıdakı xidmətlər şəbəkəyə qoşulacaq və məkanınıza daxil olacaq:</string>
     <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Divar kağızı</string>
-    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Bu xüsusiyyəti istifadə etməzdən əvvəl Facemoji Gizlilik Siyasəti-ni qəbul etməlisiniz."</string>

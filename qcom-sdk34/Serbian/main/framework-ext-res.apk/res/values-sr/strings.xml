@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">Задати звук звона (%1$s)</string>
     <string name="android_ringtone_silent">Ништа</string>
     <string name="android_ringtone_unknown">Непознати звук звона</string>
-    <string name="aon_reader_support_scene_des">Окрећите странице док читате</string>
-    <string name="aon_video_support_scene_des">Контролишите репродукцију видео снимака</string>
     <string name="app_continuity_channel_name">Подешавање приказа апликације</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">Отварање Alipay кода за плаћање није успело</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">Рачунар</string>
     <string name="device_xiaomi">Mi Телефон</string>
     <string name="dewdrops">Јутарња роса</string>
-    <string name="dialog_enable_mic_btn_negative">Откажи</string>
-    <string name="dialog_enable_mic_btn_positive">Укључи</string>
-    <string name="dialog_enable_mic_message">Да бисте могли да користите ову функцију, прво укључите микрофон.</string>
-    <string name="dialog_enable_mic_title">Укључи микрофон</string>
     <string name="digitaluniverse">Дигитални универзум (стерео)</string>
     <string name="disable_nfc">NFC је искључен ради бежичног пуњења</string>
     <string name="disable_nfc_haptic_reverse">NFC и вибрација за бежично обрнуто пуњење су искључени</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">Емитуј</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="toast_camera_satellite_mutually_exclusive">Не можете да користите камеру док користите сателитску комуникацију</string>
-    <string name="toast_mic_muted">Микрофон је искључен</string>
-    <string name="toast_mic_unmuted">Микрофон је укључен</string>
-    <string name="tof_music_support_scene_des">Подржава контроле музичког плејера</string>
-    <string name="tof_office_support_scene_des">Подржава Word документе и PowerPoint презентације</string>
-    <string name="tof_short_video_support_scene_des">Подржава смењивање видео снимака</string>
-    <string name="tof_video_support_scene_des">Подржава контроле видео плејера преко целог екрана</string>
     <string name="total">Не ометај</string>
     <string name="total_description">Утишај звукове и искључи вибрацију за све ставке осим аларма</string>
     <string name="total_title">Не ометај</string>

@@ -33,7 +33,6 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="about">About</string>
-    <string name="ad_flag_text">AD</string>
     <string name="add_download_download">Download</string>
     <string name="add_download_error_not_support">"This link isn't supported"</string>
     <string name="add_download_text_hint">Enter a HTTP/HTTPS link</string>
@@ -233,7 +232,6 @@
     <string name="retry_after_network_available">"Can't connect to the network. Check your data connection and try again."</string>
     <string name="retry_download">Try again</string>
     <string name="search_menu_title">Search</string>
-    <string name="skip_ad">Skip</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_detail">Tasks</string>

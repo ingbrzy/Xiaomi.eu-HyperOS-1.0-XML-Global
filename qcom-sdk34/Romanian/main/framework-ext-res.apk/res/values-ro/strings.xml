@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">Ton de apel implicit (%1$s)</string>
     <string name="android_ringtone_silent">Niciunul</string>
     <string name="android_ringtone_unknown">Ton de apel necunoscut</string>
-    <string name="aon_reader_support_scene_des">Întoarce paginile în timp ce citești</string>
-    <string name="aon_video_support_scene_des">Controlați redarea video</string>
     <string name="app_continuity_channel_name">Ajustări ale aspectului aplicației</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">Nu s-a putut deschide codul de plată Alipay</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">Computer</string>
     <string name="device_xiaomi">Telefon Mi</string>
     <string name="dewdrops">Rouă de dimineață</string>
-    <string name="dialog_enable_mic_btn_negative">Anulează</string>
-    <string name="dialog_enable_mic_btn_positive">Activează</string>
-    <string name="dialog_enable_mic_message">Pentru a putea folosi această funcție, mai întâi activați microfonul.</string>
-    <string name="dialog_enable_mic_title">Activează microfonul</string>
     <string name="digitaluniverse">Univers digital (stereo)</string>
     <string name="disable_nfc">Dezactivat NFC pentru încărcarea wireless</string>
     <string name="disable_nfc_haptic_reverse">NFC și vibrațiile sunt dezactivate pentru încărcarea wireless inversă</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">Proiectare</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="toast_camera_satellite_mutually_exclusive">Nu puteți utiliza camera în timp ce utilizați comunicațiile prin satelit</string>
-    <string name="toast_mic_muted">Microfonul este oprit</string>
-    <string name="toast_mic_unmuted">Microfonul este pornit</string>
-    <string name="tof_music_support_scene_des">Acceptă comenzile playerului muzical</string>
-    <string name="tof_office_support_scene_des">Acceptă documente Word și prezentări PowerPoint</string>
-    <string name="tof_short_video_support_scene_des">Acceptă schimbarea între videoclipuri</string>
-    <string name="tof_video_support_scene_des">Acceptă comenzile playerului video pe ecran complet</string>
     <string name="total">DND</string>
     <string name="total_description">Opriți sunetele și vibrațiile pentru toate elementele, cu excepția alarmei</string>
     <string name="total_title">DND</string>

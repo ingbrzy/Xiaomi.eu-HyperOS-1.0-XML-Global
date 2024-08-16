@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">Alapértelmezett csengőhang (%1$s)</string>
     <string name="android_ringtone_silent">Néma</string>
     <string name="android_ringtone_unknown">Ismeretlen csengőhang</string>
-    <string name="aon_reader_support_scene_des">Lapozás olvasás közben</string>
-    <string name="aon_video_support_scene_des">Videólejátszás vezérlése</string>
     <string name="app_continuity_channel_name">Alkalmazás elrendezésének igazítása</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">Az Alipay fizetési kód nem nyitható meg</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">Számítógép</string>
     <string name="device_xiaomi">Xiaomi telefon</string>
     <string name="dewdrops">Reggeli harmat</string>
-    <string name="dialog_enable_mic_btn_negative">Mégse</string>
-    <string name="dialog_enable_mic_btn_positive">Bekapcsolás</string>
-    <string name="dialog_enable_mic_message">A funkció használatához először kapcsolja be a mikrofont.</string>
-    <string name="dialog_enable_mic_title">Mikrofon bekapcsolása</string>
     <string name="digitaluniverse">Digitális univerzum (sztereó)</string>
     <string name="disable_nfc">Kikapcsolta az NFC-t a vezeték nélküli töltéshez</string>
     <string name="disable_nfc_haptic_reverse">Kikapcsolta az NFC-t és a rezgést a fordított vezeték nélküli töltéshez</string>
@@ -507,12 +501,6 @@ Engedélyezés a Beállítások > További beállítások > Gombok menüpontban"
     <string name="throwing_screen">Kivetítés</string>
     <string name="tips_prompt_enable_midrop">Mi Megosztás</string>
     <string name="toast_camera_satellite_mutually_exclusive">Nem lehet használni a kamerát műholdas kommunikáció használata közben</string>
-    <string name="toast_mic_muted">Mikrofon kikapcsolva</string>
-    <string name="toast_mic_unmuted">Mikrofon bekapcsolva</string>
-    <string name="tof_music_support_scene_des">Támogatja a zenelejátszó vezérlését</string>
-    <string name="tof_office_support_scene_des">Támogatja a Word dokumentumokat és PowerPoint prezentációkat</string>
-    <string name="tof_short_video_support_scene_des">Támogatja a videók közötti váltást</string>
-    <string name="tof_video_support_scene_des">Támogatja a teljes képernyős videólejátszó vezérlését</string>
     <string name="total">Ne zavarjanak</string>
     <string name="total_description">Az ébresztőórán kívül minden szolgáltatás hangját és rezgését megszünteti</string>
     <string name="total_title">Ne zavarjanak</string>

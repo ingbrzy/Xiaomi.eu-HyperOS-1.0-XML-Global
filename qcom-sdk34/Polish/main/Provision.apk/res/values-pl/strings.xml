@@ -724,10 +724,9 @@ Możesz kontrolować tę funkcję, korzystając z opcji Ustawienia > Hasła i za
     <string name="terms_of_use_label_translation">Usługa tłumaczeniowa</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">Usługa aktualizacji systemu (sprawdza aktualizacje online i powiadamia o nowych wersjach)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">Przed użyciem systemu przeczytaj i zaakceptuj naszą Umowę Użytkownika i Politykę Prywatności, która dotyczy aplikacji Xiaomi zainstalowanych fabrycznie na Twoim urządzeniu (np. Galeria, Mi Muzyka, Mi Przeglądarka, Mi Wideo, Motywy itp.). Będziemy chronić Twoje dane osobowe zgodnie z odpowiednimi przepisami prawa, regulacjami i polityką prywatności. Po aktywowaniu urządzenia następujące usługi połączą się z siecią i uzyskają dostęp do Twojej lokalizacji:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Przed użyciem systemu musisz przeczytać i zaakceptować naszą Umowę Użytkownika i Politykę Prywatności. Będziemy chronić Twoje dane osobowe zgodnie z odpowiednim prawem, regulacjami i politykami prywatności. Kiedy Twoje urządzenie zostanie aktywowane, następujące usługi połączą się z siecią i uzyskają Twoją lokalizację:</string>
     <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Tapeta</string>
-    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Musisz zaakceptować Politykę Prywatności Facemoji, aby korzystać z tej funkcji."</string>

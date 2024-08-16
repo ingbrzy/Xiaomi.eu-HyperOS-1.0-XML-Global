@@ -73,7 +73,4 @@
         <item quantity="other">"
 ป้อนผิดได้อีกแค่ %d ครั้ง"</item>
     </plurals>
-    <plurals name="satellite_low_battery">
-        <item quantity="other">Battery level is below %1$s. Exiting Tiantong Satellite communications in %2$d seconds.</item>
-    </plurals>
 </resources>

@@ -116,8 +116,6 @@ Tjek ndstillingerne for detaljer."</string>
     <string name="fast_connect_device_title_connecting">Opretter forbindelse…</string>
     <string name="fast_connect_device_title_find_headset">Find %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Det ser ud til, at dette ikke er din enhed: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Tilsluttet</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Kamera</string>
     <string name="fast_connect_new_feture_anti_lost">Alarm om manglende øresnegl</string>
     <string name="fast_connect_new_feture_same_account">Tilslut synkroniserede enheder</string>
     <string name="fast_connect_new_feture_sound_normalizer">Bedre lyd</string>
@@ -211,7 +209,6 @@ Hurtigere forbindelsesprotokol"</string>
     <string name="headset_download_fw">Opdater</string>
     <string name="headset_downloading">Downloader</string>
     <string name="headset_downloading_indicate">Downloader…</string>
-    <string name="headset_dual_device">Øretelefoner tilsluttes automatisk. Dual-forbindelse er deaktiveret.</string>
     <string name="headset_find_new_version">En opdatering er tilgængelig</string>
     <string name="headset_finish_fw">Opdatering fuldført</string>
     <string name="headset_finish_fw_failed">Der opstod en fejl</string>
@@ -229,8 +226,8 @@ Hurtigere forbindelsesprotokol"</string>
     <string name="headset_updating">Opdaterer</string>
     <string name="information_go_to_fitness">Du kan finde de relaterede indstillinger i Mi Fitness</string>
     <string name="install_package">Installer %1$s for flere funktioner</string>
-    <string name="lea_disable_successfully">Skiftede til almindelig Bluetooth</string>
-    <string name="lea_enable_successfully">Skiftede til Bluetooth LE Audio</string>
+    <string name="lea_disable_successfully">Almindelig Bluetooth bruges nu til øretelefonforbindelse og lydtransmission</string>
+    <string name="lea_enable_successfully">LE Audio bruges nu til øretelefonforbindelse og lydtransmission</string>
     <string name="mi_audio_relay_cancel">OK</string>
     <string name="mi_audio_relay_connect_failed">Prøv igen</string>
     <string name="mi_audio_relay_localphone">Denne enhed</string>
@@ -280,7 +277,6 @@ Hurtigere forbindelsesprotokol"</string>
     <string name="miuix_appcompat_delete_description">Slet</string>
     <string name="miuix_appcompat_deselect_all">Fravælg alt</string>
     <string name="miuix_appcompat_deselect_all_description">Fravælg alt</string>
-    <string name="miuix_appcompat_edit">Redigér</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuller</string>
     <string name="miuix_appcompat_search_input_description">Søg</string>
     <string name="miuix_appcompat_select_all">Vælg alle</string>

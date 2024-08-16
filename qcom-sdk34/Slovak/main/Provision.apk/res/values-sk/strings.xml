@@ -724,10 +724,9 @@ Túto funkciu môžete ovládať v časti Nastavenia > Heslá a zabezpečenie > 
     <string name="terms_of_use_label_translation">Služba prekladania</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">Služba aktualizácie systému (kontroluje aktualizácie online a informuje o nových verziách)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">Predtým, ako začnete používať systém, prečítajte si a potvrďte svoj súhlas s našimi Podmienkami používania a Zásadami ochrany osobných údajov, ktoré sa vzťahujú na aplikácie Xiaomi nainštalované vo vašom zariadení (napr. Galéria, Mi Hudba, Mi Prehliadač, Mi Video, Motívy atď.). Vaše osobné údaje budeme chrániť v súlade so všetkými platnými zákonmi, predpismi a zásadami ochrany osobných údajov. Po aktivácii vášho zariadenia sa nižšie uvedené služby pripoja k sieti a budú pristupovať k vašej polohe:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Pred použitím systému si musíte prečítať a vyjadriť súhlas s našimi zmluvami Podmienky používania a Zásady ochrany osobných údajov. Vaše osobné údaje budeme chrániť v súlade s príslušnými zákonmi, nariadeniami a zásadami ochrany osobných údajov. Keď je vaše zariadenie aktivované, k sieti sa pripoja nasledujúce služby a získajú prístup k vašej polohe:</string>
     <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Tapeta</string>
-    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných údajov Facemoji."</string>

@@ -189,7 +189,7 @@
 · הקש על \"חלונות צפים\" ב\"אחרונים\" כדי לבחור יישומים."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· הקש על יישום בסרגל הצד כדי לפתוח אותו בחלון צף.
 · גרור יישום למרכז המסך כדי לפתוח אותו בחלון צף, או הצידה כדי להשתמש במסך מפוצל."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">גרור יישום מסרגל הצד אל מרכז המסך כדי לפתוח אותו בחלון צף, או הצידה כדי להשתמש במסך מפוצל</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· גרור יישום מסרגל הצד אל מרכז המסך כדי לפתוח אותו בחלון צף, או הצידה כדי להשתמש במסך מפוצל</string>
     <string name="freeform_vedio_description_pad">גרור פריטים אל מחוץ למעגן כדי לפתוח חלונות צפים</string>
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
@@ -237,7 +237,6 @@
     <string name="miuix_appcompat_delete_description">מחק</string>
     <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
-    <string name="miuix_appcompat_edit">עריכה</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
     <string name="miuix_appcompat_select_all">בחר הכל</string>

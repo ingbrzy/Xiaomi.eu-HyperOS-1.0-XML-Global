@@ -7,7 +7,7 @@
     <string name="DOWNLOAD_UNIT_TB">TB</string>
     <string name="abc_action_bar_home_description">Přejít na plochu</string>
     <string name="abc_action_bar_up_description">Přejít nahoru</string>
-    <string name="abc_action_menu_overflow_description">Další možnosti</string>
+    <string name="abc_action_menu_overflow_description">Více možností</string>
     <string name="abc_action_mode_done">Hotovo</string>
     <string name="abc_activity_chooser_view_see_all">Zobrazit vše</string>
     <string name="abc_activitychooserview_choose_application">Vybrat aplikaci</string>
@@ -34,7 +34,6 @@
     <string name="abc_toolbar_collapse_description">Sbalit</string>
     <string name="about">O aplikaci</string>
     <string name="actionbar_button_up_description">Zpět</string>
-    <string name="ad_flag_text">REKLAMA</string>
     <string name="add_download_download">Stáhnout</string>
     <string name="add_download_error_not_support">Tento odkaz není podporován</string>
     <string name="add_download_text_hint">Vložte HTTP/HTTPS odkaz</string>
@@ -292,9 +291,6 @@
     <string name="month_september_shortest">zář</string>
     <string name="more">Více</string>
     <string name="morning">Dopoledne</string>
-    <string name="native_body">Text</string>
-    <string name="native_headline">Nadpis</string>
-    <string name="native_media_view">Zobrazení mediálního souboru</string>
     <string name="new_file_notification_title_image">Obrázek</string>
     <string name="night">Večer</string>
     <string name="no_downloads">Žádné soubory</string>
@@ -361,7 +357,6 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="skip_ad">Přeskočit</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Neděle</string>
@@ -424,7 +419,6 @@
     <string name="v7_preference_off">Vypnutí</string>
     <string name="v7_preference_on">ZAP</string>
     <string name="version">Verze %s</string>
-    <string name="watermark_label_prefix">AdMob –</string>
     <string name="wednesday">Středa</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">Stř</string>

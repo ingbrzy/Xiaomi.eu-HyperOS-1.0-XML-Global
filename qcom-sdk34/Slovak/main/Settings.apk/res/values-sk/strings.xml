@@ -704,26 +704,6 @@ Miniaplikácia: %2$s
     <string name="aod_style_description">Zobraziť hodiny na vypnutom displeji, dátum, čas, notifikácie a iné položky</string>
     <string name="aod_style_title">Štýl</string>
     <string name="aod_to_close">Vypnúť</string>
-    <string name="aon_gesture_cue_tone_summary">Prehrať zvuk potvrdenia vždy, keď sa deteguje dlaň</string>
-    <string name="aon_gesture_cue_tone_title">Prehrať zvuk potvrdenia</string>
-    <string name="aon_gesture_dialog_message">Keď je táto funkcia zapnutá, zariadenie bude detekovať a analyzovať vaše gestá. Vaše osobné údaje nebudú spracované a žiadne údaje nebudú ukladané lokálne ani v cloude.</string>
-    <string name="aon_gesture_dialog_title">Prehlásenie o ochrane súkromia</string>
-    <string name="aon_gesture_double_press_summary">Prehrať alebo pozastaviť prehrávanie</string>
-    <string name="aon_gesture_double_press_title">Vykonajte dvojité stlačenie</string>
-    <string name="aon_gesture_draw_circle_summary_pad">Prijímajte alebo ukončujte hovory prenesené na tablet</string>
-    <string name="aon_gesture_draw_circle_summary_phone">Prijímanie a ukončovanie hovorov</string>
-    <string name="aon_gesture_draw_circle_title">Nakreslite kruh</string>
-    <string name="aon_gesture_enable_summary" formatted="false">Držte ruku %d až %d cm od kamery. Keď sa v hornej časti displeja objaví ikona ruky, vykonajte gestá.</string>
-    <string name="aon_gesture_learn_title">Zoznámte sa s gestami</string>
-    <string name="aon_gesture_left_right_waving_summary">Upravujte priebeh prehrávania a prepínajte skladby</string>
-    <string name="aon_gesture_left_right_waving_title">Mávnite horizontálne</string>
-    <string name="aon_gesture_settings">Bezdotykové gestá</string>
-    <string name="aon_gesture_status_close">Vyp.</string>
-    <string name="aon_gesture_status_open">Zap.</string>
-    <string name="aon_gesture_supported_app_title">Podporované aplikácie</string>
-    <string name="aon_gesture_supported_title">Dostupné gestá</string>
-    <string name="aon_gesture_up_down_waving_summary">Upravujte hlasitosť médií, prepínajte krátke videá a otáčajte stránky dokumentov</string>
-    <string name="aon_gesture_up_down_waving_title">Mávnite vertikálne</string>
     <string name="ap_connect_failed">Nepodarilo sa pripojiť</string>
     <string name="ap_connected_battery_level">" | Batéria %1$s"</string>
     <string name="ap_p2p_dialog_message">Aktuálne zdieľané Wi-Fi pripojenie sa už používa. Pred zapnutím osobného hotspotu sa uistite, že nepoužívate Wi-Fi Direct, Mi Share, prenášanie obrazu alebo iné služby bezdrôtového prenosu.</string>
@@ -2022,10 +2002,21 @@ Ak si nainštalujete certifikát CA, vlastník certifikátu by mohol získať pr
     <string name="camera_gesture_title">Fotoaparát – dvakrát pokrúťte zápästím</string>
     <string name="camera_grip_firmware_need_update">Aktualizovať</string>
     <string name="camera_grip_firmware_new_version">Aktuálne</string>
+    <string name="camera_grip_firmware_save_button_know">Rozumiem</string>
+    <string name="camera_grip_firmware_save_button_negaitive">Teraz nie</string>
+    <string name="camera_grip_firmware_save_button_positive">Aktualizovať</string>
+    <string name="camera_grip_firmware_save_channel">Upozornenia na držiak fotoaparátu</string>
+    <string name="camera_grip_firmware_save_networking_tips">Pripojte sa k sieti Wi-Fi alebo zapnite mobilné dáta a skúste znova aktualizovať firmvér.</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">Ak chcete toto zariadenie naďalej používať, aktualizujte firmvér.</string>
+    <string name="camera_grip_firmware_save_title">Profesionálny držiak fotoaparátu</string>
     <string name="camera_grip_firmware_title_text">Aktualizácia firmvéru</string>
     <string name="camera_grip_firmware_update_describe">Počas prebiehajúcej aktualizácie ponechajte držiak pripojený.</string>
     <string name="camera_grip_firmware_update_faild">Aktualizácia zlyhala</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify" />
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">Pred aktualizáciou firmvéru nabite toto zariadenie a držiak fotoaparátu</string>
     <string name="camera_grip_firmware_update_ongoing">Prebieha aktualizácia. Neodpájajte držiak.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">Pripojte nabíjačku k tomuto zariadeniu a skúste znova aktualizovať firmvér</string>
     <string name="camera_grip_firmware_update_successful">Úspešne aktualizované</string>
     <string name="camera_key_action_app_title">Otvoriť aplikáciu</string>
     <string name="camera_key_action_category_title">Nie je možné spustiť Fotoaparát</string>
@@ -3401,7 +3392,7 @@ Reštartujte zariadenie a skúste to znova."</string>
     <string name="ethernet_data_template">Ethernetové dáta: ^1</string>
     <string name="ethernet_data_usage">Spotreba dát prostredníctvom ethernetu</string>
     <string name="ethernet_tether_checkbox_text">Zdieľať cez Ethernet</string>
-    <string name="ethernet_tethering_subtext">Zdieľajte sieťové pripojenie telefónu cez Ethernet</string>
+    <string name="ethernet_tethering_subtext">Zdieľať internetové pripojenie telefónu cez ethernet</string>
     <string name="evening">Popoludní</string>
     <string name="every_day">Každý deň</string>
     <string name="exceptional_case">Výnimky</string>
@@ -4740,10 +4731,6 @@ Otvorte Xiaomi Cloud a obnovte položky odtiaľ."</string>
     <string name="load_esim_info">Získavajú sa informácie eSIM…</string>
     <string name="load_esim_info_error">Nepodarilo sa načítať informácie eSIM. Počkajte minútu alebo dve a skúste to znova.</string>
     <string name="loading">Malý moment…</string>
-    <string name="loading_eid_error_message">Nepodarilo sa získať informácie o EID. Chvíľu počkajte a skúste to znova.</string>
-    <string name="loading_eid_error_ok">Rozumiem</string>
-    <string name="loading_eid_error_title">Nepodarilo sa načítať</string>
-    <string name="loading_eid_tip">Získavajú sa informácie o EID…</string>
     <string name="loading_injected_setting_summary">Načítava sa…</string>
     <string name="local_auto_backup_off">Vyp.</string>
     <string name="local_auto_backup_on">Zap.</string>
@@ -5143,6 +5130,8 @@ Ak toto povolenie neudelíte, systém bude obmedzovať, ako dlho môže aplikác
     <string name="long_background_tasks_title">Dlhé úlohy na pozadí</string>
     <string name="long_press_back_key">Dlhé podržanie tlačidla Späť</string>
     <string name="long_press_buttom_key">Dlhšie podržanie tlačidla Domov na Zamknutej obrazovke</string>
+    <string name="long_press_editor_style_summary">Stlačením a podržaním zamknutej obrazovky upravíte hodiny a tapetu</string>
+    <string name="long_press_editor_style_title">Stlačte a podržte pre úpravu</string>
     <string name="long_press_home_key">Dlhé podržanie tlačidla Domov</string>
     <string name="long_press_menu_key">Dlhé podržanie tlačidla Menu</string>
     <string name="long_press_menu_key_when_lock">Dlhé podržanie Menu na zamykacej obrazovke</string>
@@ -5683,8 +5672,6 @@ Pokračujte pre prístup k ďalším nastaveniam."</string>
     <string name="miui_type_style_title">Štýl písania</string>
     <string name="miui_updater">Systémová aktualizácia</string>
     <string name="miui_userguide">Používateľská príručka</string>
-    <string name="miui_visual_perception_summary">Nechajte svoje zariadenie zaznamenať vašu prítomnosť a vyberte si pohodlnejšie možnosti uzamknutia a odomknutia</string>
-    <string name="miui_visual_perception_title">Aktívne vizuálne vnímanie</string>
     <string name="miuix_access_state_desc">Vybraté</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Zrušiť výber</string>
     <string name="miuix_appcompat_action_mode_select_all">Vybrať všetko</string>
@@ -6643,8 +6630,10 @@ Pred použitím tejto služby si prečítajte a vyjadrite súhlas s dokumentom %
     <string name="phone_language_summary" />
     <string name="photo_data">Fotografie a videá</string>
     <string name="photography_handle_button_function_settings">Nastavte tlačidlo snímania</string>
-    <string name="photography_handle_charge_protected">Automatické vypnutie pomocou nabíjacej rukoväte</string>
-    <string name="photography_handle_charge_protected_summary">Keď zariadenie rozpozná, že používate grip fotoaparátu, prestane sa nabíjať a udrží batériu na hodnote %1$s</string>
+    <string name="photography_handle_charge_protected">Ochrana proti nabíjaniu držiaka</string>
+    <string name="photography_handle_charge_protected_summary">Po pripojení držiaka fotoaparátu sa zariadenie prestane nabíjať a batéria zostane na úrovni %1$s</string>
+    <string name="photography_handle_charge_state">Nabíjanie z držiaka fotoaparátu</string>
+    <string name="photography_handle_charge_state_summary">Nabíjať toto zariadenie z držiaka fotoaparátu vždy, keď je pripojený</string>
     <string name="photography_handle_launch_and_take_photo">Vytvoriť fotografiu</string>
     <string name="photography_handle_launch_camera">Otvoriť fotoaparát</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Ak chcete vykonať akciu, stlačte a podržte tlačidlo spúšte</string>
@@ -6773,8 +6762,10 @@ stlačte naraz vypínač a tlačidlo zvýšenia hlasitosti"</string>
     <string name="pref_show_lunar_calendar_title">Zobraziť tradičný Čínsky kalendár na Zamknutej obrazovke</string>
     <string name="pref_title_network_details">Podrobnosti siete</string>
     <string name="pref_title_update_notification">Upozornenie na spotrebu dát</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Keď je obrazovka zamknutá, dvojitým ťuknutím na tlačidlo zníženia hlasitosti otvoríte Fotoaparát a môžete fotografovať.</string>
     <string name="pref_volume_launch_camera_summary">2-krát stlačiť tlačidlo hlasitosti nadol pre spustenie Fotoaparátu</string>
     <string name="pref_volume_launch_camera_title">Spustiť Fotoaparát</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">Keď je obrazovka zamknutá, dvojitým ťuknutím na tlačidlo zníženia hlasitosti otvoríte Fotoaparát.</string>
     <string name="pref_volume_wake_summary">Stlačenie tlačidiel hlasitosti prebudí zariadenie</string>
     <string name="pref_volume_wake_title">Prebudiť pomocou tlačidiel ovládania hlasitosti</string>
     <string name="preference_change_password_title">Zmeniť heslo</string>
@@ -7329,6 +7320,8 @@ Reštartujte zariadenie a skúste to znova."</string>
     <string name="safety_center_summary">Zabezpečenie aplikácií, zámka zariadenia, povolenia</string>
     <string name="safety_center_title">Zabezpečenie a ochrana súkromia</string>
     <string name="sar">Informácie o vystavení vysokofrekvenčnému (VF) žiareniu</string>
+    <string name="satellite_call_assistant">Nastavenia hovoru</string>
+    <string name="satellite_network_title">Funkcie satelitného hovoru</string>
     <string name="saturday">Sobota</string>
     <string name="saturday_first_day_of_week">Sobota</string>
     <string name="saturday_short">Sob</string>
@@ -7359,7 +7352,6 @@ Reštartujte zariadenie a skúste to znova."</string>
     <string name="screen_dark_mode_select_time_error_summary">Čas spustenia a čas ukončenia nemôžu byť rovnaké</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Niektoré aplikácie sa v Tmavom režime môžu zobrazovať nesprávne. Tu môžete zakázať používanie Tmavého režimu pre jednotlivé aplikácie.</string>
     <string name="screen_dark_mode_smart_dark_title">Tmavý režim pre celé zariadenie</string>
-    <string name="screen_dark_mode_time_summary">Zariadenie sa okolo plánovaného času prepne do tmavého režimu, keď vypnete obrazovku</string>
     <string name="screen_dark_mode_time_title">Naplánovať Tmavý režim</string>
     <string name="screen_effect">Farebná schéma</string>
     <string name="screen_effect_adapt_color_summary">Prispôsobiť farby na základe aktuálnych okolitých podmienok</string>
@@ -8483,6 +8475,11 @@ Dvojitým ťuknutím otvoríte položku Nedávne."</string>
     <string name="sort_order_frequent_notification">Najčastejšie</string>
     <string name="sort_order_recent_notification">Najnovšie</string>
     <string name="sort_order_size">Zoradiť podľa veľkosti</string>
+    <string name="sos_add_area_code_switch_summary">Automaticky pridajte smerové číslo oblasti k telefónnemu číslu pri tiesňovom volaní pomocou satelitnej komunikácie Tiantong</string>
+    <string name="sos_add_area_code_switch_title">Automaticky pridať predvoľbu oblasti</string>
+    <string name="sos_area_code_settings_hint">Zadajte kód oblasti</string>
+    <string name="sos_area_code_settings_summary">Manuálne nastavte predvoľbu pre telefónne číslo núdzového kontaktu</string>
+    <string name="sos_area_code_settings_title">Nastaviť kód krajiny</string>
     <string name="sos_phone_call_privacy_dialog_message">"Aby ste mohli volať na núdzové kontakty a prehrávať záznam SOS, táto aplikácia si vyžaduje nasledujúce povolenia:
 • Telefonovanie
 Pre vykonávanie hovorov na núdzové kontakty
@@ -9797,10 +9794,6 @@ Kliknutím na plus pridáte slová."</string>
     <string name="uwb_settings_title">Ultra-Wideband (UWB)</string>
     <string name="v7_preference_off">Vypnuté</string>
     <string name="v7_preference_on">Zapnuté</string>
-    <string name="valid_net_access">Zobraziť poverenia na prístup k sieti</string>
-    <string name="valid_net_ok">OK </string>
-    <string name="valid_net_result_fail">Nepodarilo sa získať informácie. Chvíľu počkajte a skúste to znova.</string>
-    <string name="valid_net_result_title">Výsledok</string>
     <string name="verify_apps_over_usb_summary">Kontrolovať škodlivosť aplikácií nainštalovaných pomocou nástroja ADB alebo ADT</string>
     <string name="verify_apps_over_usb_title">Overovať aplikácie z USB</string>
     <string name="version_text">verzia %1$s</string>
@@ -10710,7 +10703,6 @@ môžete tiež využiť siete iných používateľov."</string>
     <string name="winscope_trace_quick_settings_title">Trasovanie Winscope</string>
     <string name="wireless_connected">Pripojené</string>
     <string name="wireless_debugging_main_switch_title">Používať bezdrôtové ladenie</string>
-    <string name="wireless_display">Bezdrôtový displej</string>
     <string name="wireless_networks_settings_title">Bezdrôtové pripojenia a siete</string>
     <string name="wireless_off">Vyp.</string>
     <string name="wireless_on">Zap.</string>

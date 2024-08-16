@@ -24,8 +24,8 @@
     <string name="abc_searchview_description_search">Iskanje</string>
     <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
     <string name="abc_searchview_description_voice">Glasovno iskanje</string>
-    <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
-    <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi prek aplikacije %s</string>
+    <string name="abc_shareactionprovider_share_with">Deljenje z:</string>
+    <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi prek aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strnitev</string>
     <string name="actionbar_button_up_description">Nazaj</string>
     <string name="afternoon">Popoldne</string>
@@ -116,8 +116,6 @@ Preverite Nastavitve za podrobnosti."</string>
     <string name="fast_connect_device_title_connecting">Povezovanje…</string>
     <string name="fast_connect_device_title_find_headset">Najdi %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Izgleda, da ta naprava ni vaša: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Povezano</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Kamera</string>
     <string name="fast_connect_new_feture_anti_lost">Opozorilo o pogrešani slušalki</string>
     <string name="fast_connect_new_feture_same_account">Poveži sinhronizirane naprave</string>
     <string name="fast_connect_new_feture_sound_normalizer">Boljši zvok</string>
@@ -211,7 +209,6 @@ Hitrejši protokol povezave."</string>
     <string name="headset_download_fw">Posodobi</string>
     <string name="headset_downloading">Prenašanje</string>
     <string name="headset_downloading_indicate">Prenašanje…</string>
-    <string name="headset_dual_device">Slušalke so se samodejno povezale. Dvojna povezava je izklopljena.</string>
     <string name="headset_find_new_version">Posodobitev je na voljo</string>
     <string name="headset_finish_fw">Uspešno posodobljeno</string>
     <string name="headset_finish_fw_failed">Prišlo je do napake</string>
@@ -229,8 +226,8 @@ Hitrejši protokol povezave."</string>
     <string name="headset_updating">Posodabljanje</string>
     <string name="information_go_to_fitness">Povezane nastavitve najdete v aplikaciji Mi Fitness</string>
     <string name="install_package">Namesti %1$s za več opravil</string>
-    <string name="lea_disable_successfully">Preklop na običajni Bluetooth</string>
-    <string name="lea_enable_successfully">Preklop na Bluetooth LE Audio</string>
+    <string name="lea_disable_successfully">Navadna Bluetooth povezava se zdaj uporablja za povezavo slušalk in prenos zvoka</string>
+    <string name="lea_enable_successfully">LE Audio se zdaj uporablja za povezavo slušalk in prenos zvoka</string>
     <string name="mi_audio_relay_cancel">V redu</string>
     <string name="mi_audio_relay_connect_failed">Poskusi ponovno</string>
     <string name="mi_audio_relay_localphone">Ta naprava</string>
@@ -280,7 +277,6 @@ Hitrejši protokol povezave."</string>
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Prekliči izbiro</string>
     <string name="miuix_appcompat_deselect_all_description">Prekliči izbiro</string>
-    <string name="miuix_appcompat_edit">Uredi</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
     <string name="miuix_appcompat_search_input_description">Išči</string>
     <string name="miuix_appcompat_select_all">Izberi vse</string>

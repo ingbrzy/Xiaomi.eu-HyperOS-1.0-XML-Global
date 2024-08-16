@@ -3,7 +3,7 @@
     <string name="abc_action_bar_home_description">Ir a inicio</string>
     <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
     <string name="abc_action_menu_overflow_description">Más opciones</string>
-    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_action_mode_done">Hecho</string>
     <string name="abc_activity_chooser_view_see_all">Ver todo</string>
     <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
     <string name="abc_capital_off">DESACTIVADO</string>
@@ -218,7 +218,7 @@ luego arrastra para moverlo"</string>
 · Pulsa \"Ventanas flotantes\" en Recientes para seleccionar aplicaciones."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Pulsa sobre una aplicación en la barra lateral para abrirla en una ventana flotante.
 · Arrastra una aplicación al centro de la pantalla para abrirla en una ventana flotante o hacia un lado para usar la Pantalla dividida."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Arrastra una aplicación desde la barra lateral al centro de la pantalla para abrirla en una ventana flotante o hacia un lado para usar Pantalla dividida</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Arrastra una aplicación desde la barra lateral al centro de la pantalla para abrirla en una ventana flotante o hacia un lado para usar Pantalla dividida</string>
     <string name="freeform_vedio_description_pad">Arrastra elementos fuera del dock para abrir ventanas flotantes</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
@@ -266,7 +266,6 @@ luego arrastra para moverlo"</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
     <string name="miuix_appcompat_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar todo</string>
-    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Buscar</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>

@@ -218,7 +218,7 @@ drag sedan för att flytta"</string>
 · Tryck på \"Flytande fönster\" i Senaste för att välja appar."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Tryck och håll inne i sidopanelen för att öppna den i ett flytande fönster.
 · Dra en app till mitten av skärmen för att öppna den i ett flytande fönster eller vid sidan om för att använda Delad skärm."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Drag en app från sidolinjen till mitten av skärmen för att öppna den i ett flytande fönster eller åt sidan för att använda delad skärm</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Drag en app från sidopanelen till mitten av skärmen för att öppna den i ett flytande fönster, eller vid sidan om för att använda Dela skärm</string>
     <string name="freeform_vedio_description_pad">Drag objekt ut från dockan för att öppna flytande fönster</string>
     <string name="friday">Fredag</string>
     <string name="friday_short">Fre</string>
@@ -266,7 +266,6 @@ drag sedan för att flytta"</string>
     <string name="miuix_appcompat_delete_description">Ta bort</string>
     <string name="miuix_appcompat_deselect_all">Avmarkera alla</string>
     <string name="miuix_appcompat_deselect_all_description">Avmarkera alla</string>
-    <string name="miuix_appcompat_edit">Redigera</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Avbryt</string>
     <string name="miuix_appcompat_search_input_description">Sök</string>
     <string name="miuix_appcompat_select_all">Välj alla</string>

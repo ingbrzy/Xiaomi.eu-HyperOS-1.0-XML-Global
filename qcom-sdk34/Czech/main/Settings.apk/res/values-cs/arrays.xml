@@ -1464,7 +1464,7 @@ Poznámka: Pouze pro Ubuntu 8.04!"</item>
         <item>"AKA'"</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
-        <item>Použít libovolný MAC</item>
+        <item>Použít randomizovaný MAC</item>
         <item>Použít MAC zařízení</item>
     </string-array>
     <string-array name="wifi_proxy_settings">

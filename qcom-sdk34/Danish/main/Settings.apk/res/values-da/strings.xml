@@ -704,26 +704,6 @@ Widget: %2$s
     <string name="aod_style_description">Vis ur, dato, tid, notifikationer og andre elementer, når skærmen er slukket</string>
     <string name="aod_style_title">Stil</string>
     <string name="aod_to_close">Slå fra</string>
-    <string name="aon_gesture_cue_tone_summary">Afspil bekræftelseslyd, når din håndflade er detekteret</string>
-    <string name="aon_gesture_cue_tone_title">Afspil bekræftelseslyd</string>
-    <string name="aon_gesture_dialog_message">Når denne funktion er aktiveret, vil denne enhed registrere og analysere dine fagter. Dine personoplysninger vil ikke blive behandlet, og ingen data vil blive gemt lokalt eller i clouden.</string>
-    <string name="aon_gesture_dialog_title">Privatlivsmeddelelse</string>
-    <string name="aon_gesture_double_press_summary">Afspil og sæt afspilning på pause</string>
-    <string name="aon_gesture_double_press_title">Udfør en dobbelttryksbevægelse</string>
-    <string name="aon_gesture_draw_circle_summary_pad">Besvar eller afslut opkald, der er overført til tablet</string>
-    <string name="aon_gesture_draw_circle_summary_phone">Besvar og afslut opkald</string>
-    <string name="aon_gesture_draw_circle_title">Tegn en cirkel</string>
-    <string name="aon_gesture_enable_summary" formatted="false">Hold din hånd %d til %d cm fra kameraet og lav fagter, når håndikonet vises øverst på skærmen</string>
-    <string name="aon_gesture_learn_title">Lær fagter</string>
-    <string name="aon_gesture_left_right_waving_summary">Justér afspilningsfremskridt, og skift mellem sange</string>
-    <string name="aon_gesture_left_right_waving_title">Vink vandret</string>
-    <string name="aon_gesture_settings">Kontaktløse fagter</string>
-    <string name="aon_gesture_status_close">Deaktiveret</string>
-    <string name="aon_gesture_status_open">Aktiveret</string>
-    <string name="aon_gesture_supported_app_title">Understøttede apps</string>
-    <string name="aon_gesture_supported_title">Tilgængelige fagter</string>
-    <string name="aon_gesture_up_down_waving_summary">Justér medievolumen, skift mellem korte videoer, og vend sider i dokumenter</string>
-    <string name="aon_gesture_up_down_waving_title">Vink lodret</string>
     <string name="ap_connect_failed">Kunne ikke tilslutte</string>
     <string name="ap_connected_battery_level">" | Batteri %1$s"</string>
     <string name="ap_p2p_dialog_message">Den aktuelle delte Wi-fi-forbindelse bruges allerede. Sørg for, at du ikke bruger Wi-Fi direkte, Mi Share, casting eller andre trådløse overførselstjenester, før du aktiverer dit personlige hotspot.</string>
@@ -2022,10 +2002,21 @@ Hvis du installerer et CA-certifikat, kan certifikatejeren få adgang til dine d
     <string name="camera_gesture_title">Drej to gange for at åbne kameraet</string>
     <string name="camera_grip_firmware_need_update">Opdatér</string>
     <string name="camera_grip_firmware_new_version">Opdateret</string>
+    <string name="camera_grip_firmware_save_button_know">Forstået</string>
+    <string name="camera_grip_firmware_save_button_negaitive">Ikke nu</string>
+    <string name="camera_grip_firmware_save_button_positive">Opdatér</string>
+    <string name="camera_grip_firmware_save_channel">Notifikationer om kameragreb</string>
+    <string name="camera_grip_firmware_save_networking_tips">Tilslut til Wi-fi, eller aktivér mobildata, og prøv så at opdatere firmwaren igen.</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">Opdatér firmwaren for at fortsætte med at bruge denne enhed.</string>
+    <string name="camera_grip_firmware_save_title">Professionelt kameragreb</string>
     <string name="camera_grip_firmware_title_text">Opdatér firmware</string>
     <string name="camera_grip_firmware_update_describe">Hold grebet tilsluttet under hele opdateringen</string>
     <string name="camera_grip_firmware_update_faild">Kunne ikke opdatere</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">Fjern dit kameragreb, oplad denne enhed, og prøv så at opdatere firmwaren igen</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">Oplad denne enhed og dit kameragreb, før du opdaterer firmwaren</string>
     <string name="camera_grip_firmware_update_ongoing">Opdatering. Frakobl ikke grebet.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">Tilslut opladeren til denne enhed, og prøv at opdatere firmwaren igen</string>
     <string name="camera_grip_firmware_update_successful">Opdateret</string>
     <string name="camera_key_action_app_title">Åbn app</string>
     <string name="camera_key_action_category_title">Kan ikke bruge kamera</string>
@@ -3401,7 +3392,7 @@ Genstart din enhed, og prøv igen."</string>
     <string name="ethernet_data_template">^1 Ethernet-data</string>
     <string name="ethernet_data_usage">Forbrug af Ethernet-data</string>
     <string name="ethernet_tether_checkbox_text">Del via Ethernet</string>
-    <string name="ethernet_tethering_subtext">Del telefonens netværksforbindelse via Ethernet</string>
+    <string name="ethernet_tethering_subtext">Del telefonens internetforbindelse via Ethernet</string>
     <string name="evening">Eftermiddag</string>
     <string name="every_day">Hver dag</string>
     <string name="exceptional_case">Undtagelser</string>
@@ -4740,10 +4731,6 @@ Xiaomi Cloud
     <string name="load_esim_info">Henter eSIM-oplysninger…</string>
     <string name="load_esim_info_error">Kunne ikke indlæse eSIM-oplysninger. Vent et minut eller to, og prøv så igen.</string>
     <string name="loading">Lige et øjeblik…</string>
-    <string name="loading_eid_error_message">Kunne ikke hente EID-oplysninger. Vent et minut eller to, og prøv så igen.</string>
-    <string name="loading_eid_error_ok">Forstået</string>
-    <string name="loading_eid_error_title">Kunne ikke indlæse</string>
-    <string name="loading_eid_tip">Henter EID-oplysninger…</string>
     <string name="loading_injected_setting_summary">Indlæser…</string>
     <string name="local_auto_backup_off">Slået fra</string>
     <string name="local_auto_backup_on">Tændt</string>
@@ -5143,6 +5130,8 @@ Hvis denne tilladelse afvises, begrænser systemet, hvor lang tid appen kan brug
     <string name="long_background_tasks_title">Lange baggrundsopgaver</string>
     <string name="long_press_back_key">Langt tryk på tilbageknappen</string>
     <string name="long_press_buttom_key">Langt tryk på hjem på låseskærmen</string>
+    <string name="long_press_editor_style_summary">Tryk og hold på låseskærmen for at redigere ur og baggrund</string>
+    <string name="long_press_editor_style_title">Tryk og hold for at redigere</string>
     <string name="long_press_home_key">Langt tryk på hjemknappen</string>
     <string name="long_press_menu_key">Langt tryk på menuknappen</string>
     <string name="long_press_menu_key_when_lock">Langt tryk på menu på låseskærmen</string>
@@ -5683,8 +5672,6 @@ Fortsæt for at få adgang til yderligere indstillinger."</string>
     <string name="miui_type_style_title">Skrivestil</string>
     <string name="miui_updater">Systemopdatering</string>
     <string name="miui_userguide">Brugervejledning</string>
-    <string name="miui_visual_perception_summary">Få din enhed til at mærke din tilstedeværelse, og vælg mere praktiske låse- og oplåsningsmuligheder</string>
-    <string name="miui_visual_perception_title">Aktiv visuel opfattelse</string>
     <string name="miuix_access_state_desc">Valgt</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Fravælg alt</string>
     <string name="miuix_appcompat_action_mode_select_all">Vælg alle</string>
@@ -6643,8 +6630,10 @@ Læs og acceptér %s, inden du bruger denne tjeneste."</string>
     <string name="phone_language_summary" />
     <string name="photo_data">Fotos og videoer</string>
     <string name="photography_handle_button_function_settings">Indstil greb-knappen</string>
-    <string name="photography_handle_charge_protected">Automatisk stop af opladning, når kameragreb er monteret</string>
-    <string name="photography_handle_charge_protected_summary">Når din enhed detekterer, at du bruger et kameragreb, stopper enheden med at oplade og holder batteriet på %1$s</string>
+    <string name="photography_handle_charge_protected">Opladningsbeskyttelse for greb</string>
+    <string name="photography_handle_charge_protected_summary">Når kameragrebet er tilsluttet, stopper enheden med at oplade og holder batteriet på %1$s</string>
+    <string name="photography_handle_charge_state">Oplad fra kameragreb</string>
+    <string name="photography_handle_charge_state_summary">Oplad denne enhed fra kameragreb, når de er tilsluttede</string>
     <string name="photography_handle_launch_and_take_photo">Tag foto</string>
     <string name="photography_handle_launch_camera">Åbn kamera</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Tryk og hold lukkerknappen for at udføre en handling</string>
@@ -6773,8 +6762,10 @@ Hold afbryderknappen og Lydstyrke op inde på samme tid"</string>
     <string name="pref_show_lunar_calendar_title">Vis traditionel kinesisk kalender på låseskærmen</string>
     <string name="pref_title_network_details">Netværksoplysninger</string>
     <string name="pref_title_update_notification">Notifikationer om dataforbrug</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Når skærmen er låst, skal du dobbeltklikke på \"Skru ned for lyd\" for at tage et billede</string>
     <string name="pref_volume_launch_camera_summary">Tryk på lydstyrke ned to gange for at åbne kamera</string>
     <string name="pref_volume_launch_camera_title">Åbn kamera</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">Når skærmen er låst, skal du dobbeltklikke på \"Skru ned for lyd\" for at åbne kameraet</string>
     <string name="pref_volume_wake_summary">Tryk på lydstyrkeknapper vækker enheden</string>
     <string name="pref_volume_wake_title">Væk med lydstyrkeknapper</string>
     <string name="preference_change_password_title">Skift adgangskode</string>
@@ -7329,6 +7320,8 @@ Genstart din enhed, og prøv igen."</string>
     <string name="safety_center_summary">Appsikkerhed, enhedslås, tilladelser</string>
     <string name="safety_center_title">Sikkerhed og privatliv</string>
     <string name="sar">Information om RF-eksponering</string>
+    <string name="satellite_call_assistant">Opkaldsindstillinger</string>
+    <string name="satellite_network_title">Funktioner til satellitopkald</string>
     <string name="saturday">Lørdag</string>
     <string name="saturday_first_day_of_week">Lørdag</string>
     <string name="saturday_short">Lør</string>
@@ -7359,7 +7352,6 @@ Genstart din enhed, og prøv igen."</string>
     <string name="screen_dark_mode_select_time_error_summary">Starttid og sluttid kan ikke være ens</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Nogle apps vil måske ikke blive vist korrekt i mørk tilstand. Her kan du begrænse brugen af mørk tilstand for individuelle apps.</string>
     <string name="screen_dark_mode_smart_dark_title">Global mørk tilstand</string>
-    <string name="screen_dark_mode_time_summary">Din enhed skifter til mørk tilstand omkring det planlagte tidspunkt, når du slukker skærmen</string>
     <string name="screen_dark_mode_time_title">Planlæg mørk tilstand</string>
     <string name="screen_effect">Farveskema</string>
     <string name="screen_effect_adapt_color_summary">Justér farver baseret på den nuværende belysning</string>
@@ -8483,6 +8475,11 @@ Tryk to gange for at åbne Nylige."</string>
     <string name="sort_order_frequent_notification">Hyppigste</string>
     <string name="sort_order_recent_notification">Seneste</string>
     <string name="sort_order_size">Sortér efter størrelse</string>
+    <string name="sos_add_area_code_switch_summary">Tilføj automatisk områdenummeret til et telefonnummer, når du foretager et nødopkald med Tiantong-satellitkommunikation</string>
+    <string name="sos_add_area_code_switch_title">Tilføj områdenummer automatisk</string>
+    <string name="sos_area_code_settings_hint">Indtast områdenummer</string>
+    <string name="sos_area_code_settings_summary">Vælg manuelt områdenummeret for din nødkontakts telefonnummer</string>
+    <string name="sos_area_code_settings_title">Vælg områdenummer</string>
     <string name="sos_phone_call_privacy_dialog_message">"For at ringe til dine nødkontakter og afspille SOS-optagelser, skal denne app bruge følgende tilladelser:
 • At lave opkald
 Til at lave opkald til dine nødkontakter
@@ -9795,10 +9792,6 @@ Tryk på plus for at tilføje ord."</string>
     <string name="uwb_settings_title">Ultrabredbånd (UWB, Ultra-Wideband)</string>
     <string name="v7_preference_off">FRA</string>
     <string name="v7_preference_on">TIL</string>
-    <string name="valid_net_access">Se netværks-brugeroplysninger</string>
-    <string name="valid_net_ok">OK</string>
-    <string name="valid_net_result_fail">Kunne ikke hente oplysninger. Vent et minut eller to, og prøv så igen</string>
-    <string name="valid_net_result_title">Resultat</string>
     <string name="verify_apps_over_usb_summary">Tjek apps, der er installeret via ADB/ADT, for skadelig adfærd</string>
     <string name="verify_apps_over_usb_title">Verificer apps via USB</string>
     <string name="version_text">version %1$s</string>
@@ -10708,7 +10701,6 @@ kan du også bruge andre brugeres netværker."</string>
     <string name="winscope_trace_quick_settings_title">Sporing af Winscope</string>
     <string name="wireless_connected">Tilsluttet</string>
     <string name="wireless_debugging_main_switch_title">Brug trådløs fejlretning</string>
-    <string name="wireless_display">Trådløs skærm</string>
     <string name="wireless_networks_settings_title">Trådløs og netværk</string>
     <string name="wireless_off">Slået fra</string>
     <string name="wireless_on">Slået til</string>

@@ -34,7 +34,6 @@
     <string name="abc_toolbar_collapse_description">Komprimera</string>
     <string name="about">Om</string>
     <string name="actionbar_button_up_description">Tillbaka</string>
-    <string name="ad_flag_text">Annons</string>
     <string name="add_download_download">Ladda ned</string>
     <string name="add_download_error_not_support">Denna länk stöds inte</string>
     <string name="add_download_text_hint">Ange en HTTP/HTTPS-länk</string>
@@ -292,9 +291,6 @@
     <string name="month_september_shortest">Sep</string>
     <string name="more">Mer</string>
     <string name="morning">Morgon</string>
-    <string name="native_body">Brödtext</string>
-    <string name="native_headline">Rubrik</string>
-    <string name="native_media_view">Medievisning</string>
     <string name="new_file_notification_title_image">Bild</string>
     <string name="night">Kväll</string>
     <string name="no_downloads">Inga filer</string>
@@ -361,7 +357,6 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="skip_ad">Hoppa över</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Söndag</string>
@@ -424,7 +419,6 @@
     <string name="v7_preference_off">AV</string>
     <string name="v7_preference_on">PÅ</string>
     <string name="version">Version %s</string>
-    <string name="watermark_label_prefix">AdMob –</string>
     <string name="wednesday">Onsdag</string>
     <string name="wednesday_short">Ons</string>
     <string name="wednesday_shortest">Ons</string>

@@ -217,7 +217,7 @@ apoi trageți pentru a muta"</string>
 · Atingeți \"Ferestre flotante\" în Recente pentru a selecta aplicații."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Atingeți o aplicație pe bara laterală pentru a o deschide într-o fereastră plutitoare.
 · Trageți o aplicație în centrul ecranului pentru a o deschide într-o fereastră plutitoare sau în lateral pentru a utiliza Ecran împărțit."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Trageți o aplicație din bara laterală în centrul ecranului pentru a o deschide într-o fereastră plutitoare sau în lateral pentru a utiliza Ecran împărțit</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Trageți o aplicație din bara laterală în centrul ecranului pentru a o deschide într-o fereastră plutitoare sau în lateral pentru a utiliza Ecran împărțit</string>
     <string name="freeform_vedio_description_pad">Trageți elemente din dock pentru a deschide ferestre plutitoare</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
@@ -265,7 +265,6 @@ apoi trageți pentru a muta"</string>
     <string name="miuix_appcompat_delete_description">Șterge</string>
     <string name="miuix_appcompat_deselect_all">Deselectează tot</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectează tot</string>
-    <string name="miuix_appcompat_edit">Editează</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Anulează</string>
     <string name="miuix_appcompat_search_input_description">Caută</string>
     <string name="miuix_appcompat_select_all">Selectează tot</string>

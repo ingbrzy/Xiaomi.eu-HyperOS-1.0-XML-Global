@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">Мелодія за замовчуванням (%1$s)</string>
     <string name="android_ringtone_silent">Без звуку</string>
     <string name="android_ringtone_unknown">Невідома мелодія</string>
-    <string name="aon_reader_support_scene_des">Перегортайте сторінки під час читання</string>
-    <string name="aon_video_support_scene_des">Контролюйте відтворення відео</string>
     <string name="app_continuity_channel_name">Зміни макета програми</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">Не вдалося відкрити оплату у Alipay</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">"Комп'ютер"</string>
     <string name="device_xiaomi">Mi Phone</string>
     <string name="dewdrops">Ранкова роса</string>
-    <string name="dialog_enable_mic_btn_negative">Скасувати</string>
-    <string name="dialog_enable_mic_btn_positive">Увімкнути</string>
-    <string name="dialog_enable_mic_message">Увімкніть мікрофон, щоб скористатися цією функцією.</string>
-    <string name="dialog_enable_mic_title">Увімкніть мікрофон</string>
     <string name="digitaluniverse">Цифровий всесвіт (стерео)</string>
     <string name="disable_nfc">NFC-модуль було відключено для безпровідної зарядки</string>
     <string name="disable_nfc_haptic_reverse">Вібрація і NFC-модуль були відключені для реверсивної бездротової зарядки</string>
@@ -507,12 +501,6 @@
     <string name="throwing_screen">Трансляція</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="toast_camera_satellite_mutually_exclusive">"Камера недоступна під час використання супутникового зв'язку"</string>
-    <string name="toast_mic_muted">Мікрофон вимк.</string>
-    <string name="toast_mic_unmuted">Мікрофон увімк.</string>
-    <string name="tof_music_support_scene_des">Підтримує елементи керування музичним плеєром</string>
-    <string name="tof_office_support_scene_des">Підтримує документи Word та презентації PowerPoint</string>
-    <string name="tof_short_video_support_scene_des">Підтримує перемикання між відео</string>
-    <string name="tof_video_support_scene_des">Підтримує елементи керування повноекранним відеоплеєром</string>
     <string name="total">Не турбувати</string>
     <string name="total_description">Вимкнення звуку та вібрації для всіх режимів, крім будильника</string>
     <string name="total_title">Не турбувати</string>

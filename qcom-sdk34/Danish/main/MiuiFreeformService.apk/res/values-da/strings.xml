@@ -218,7 +218,7 @@ og træk derefter for at flytte"</string>
 · Tryk på \"Flydende vinduer\" i Nylige for at vælge apps."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"Tryk på en app på sidebjælken for at åbne i et flydende vindue.
 · Træk en app til midten af skærmen for at åbne den i et flydende vindue eller til siden for at bruge opdelt skærm."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Træk en app fra sidebjælken til midten af skærmen for at åbne den i et flydende vindue eller til siden for at bruge opdelt skærm</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Træk en app fra sidebjælken til midten af skærmen for at åbne den i et flydende vindue eller til siden for at bruge opdelt skærm</string>
     <string name="freeform_vedio_description_pad">Træk elementer ud af docken for at åbne flydende vinduer</string>
     <string name="friday">Fredag</string>
     <string name="friday_short">Fre</string>
@@ -266,7 +266,6 @@ og træk derefter for at flytte"</string>
     <string name="miuix_appcompat_delete_description">Slet</string>
     <string name="miuix_appcompat_deselect_all">Fravælg alt</string>
     <string name="miuix_appcompat_deselect_all_description">Fravælg alt</string>
-    <string name="miuix_appcompat_edit">Redigér</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuller</string>
     <string name="miuix_appcompat_search_input_description">Søg</string>
     <string name="miuix_appcompat_select_all">Vælg alle</string>

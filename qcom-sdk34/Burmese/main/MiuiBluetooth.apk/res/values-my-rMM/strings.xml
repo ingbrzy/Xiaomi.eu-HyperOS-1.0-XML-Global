@@ -87,8 +87,6 @@
     <string name="fast_connect_device_title_connecting">ချိတ်ဆက်နေသည်…</string>
     <string name="fast_connect_device_title_find_headset">%1$s ခု ရှာရန်</string>
     <string name="fast_connect_device_title_find_headset_others">ဤစက်သည် သင့်စက်ဟုတ်ပုံမရပါ - %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">ချိတ်ထားသည်</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">ကင်မရာ</string>
     <string name="fast_connect_new_feture_anti_lost">နားကြပ်သတိပေးချက် ပျောက်ဆုံးနေသည်</string>
     <string name="fast_connect_new_feture_same_account">ဆင့်ခ်လုပ်ထားသော စက်များကို ချိတ်ဆက်ရန်</string>
     <string name="fast_connect_new_feture_sound_normalizer">ပိုကောင်းသော အသံ</string>
@@ -182,7 +180,6 @@
     <string name="headset_download_fw">အပ်ပဒိတ်လုပ်ရန်</string>
     <string name="headset_downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="headset_downloading_indicate">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
-    <string name="headset_dual_device">နားကြပ်များ အလိုအလျောက် ချိတ်ပြီးပါပြီ။ နှစ်မျိုးတွဲချိတ်ဆက်မှု ပိတ်ထားသည်။</string>
     <string name="headset_find_new_version">အပ်ပဒိတ်တစ်ခုရှိပါသည်</string>
     <string name="headset_finish_fw">အောင်မြင်စွာ အပ်ပဒိတ်လုပ်ပြီးပါပြီ</string>
     <string name="headset_finish_fw_failed">အမှားအယွင်းရှိပါသည်</string>
@@ -200,8 +197,8 @@
     <string name="headset_updating">အပ်ပဒိတ်လုပ်နေသည်</string>
     <string name="information_go_to_fitness">သက်ဆိုင်ရာဆက်တင်ကို Mi Fitness တွင် ရှာနိုင်သည်</string>
     <string name="install_package">နောက်ထပ် လုပ်ဆောင်ချက်များအတွက် %1$s ကို တပ်ဆင်ပါ</string>
-    <string name="lea_disable_successfully">ပုံမှန်ဘလူးတုသို့ ပြောင်းထားသည်</string>
-    <string name="lea_enable_successfully">ဘလူးတု LE အော်ဒီယိုသို့ ပြောင်းထားသည်</string>
+    <string name="lea_disable_successfully">ပုံမှန်ဘလူးတုကို နားကြပ်ချိတ်ခြင်းနှင့် အသံထုတ်လွှင့်ခြင်းအတွက် ယခုသုံးထားသည်</string>
+    <string name="lea_enable_successfully">LE အော်ဒီယိုကို နားကြပ်ချိတ်ခြင်းနှင့် အသံထုတ်လွှင့်ခြင်းအတွက် ယခုသုံးထားသည်</string>
     <string name="mi_audio_relay_cancel">အိုကေ</string>
     <string name="mi_audio_relay_connect_failed">ထပ်လုပ်ကြည့်ပါ</string>
     <string name="mi_audio_relay_localphone">ဤစက်</string>
@@ -251,7 +248,6 @@
     <string name="miuix_appcompat_delete_description">ဖျက်ပစ်မည်</string>
     <string name="miuix_appcompat_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_deselect_all_description">ရွေးပြီးသားအားလုံးကို ပြန်ဖြုတ်ရန်</string>
-    <string name="miuix_appcompat_edit">ပြင်ရန်</string>
     <string name="miuix_appcompat_search_action_mode_cancel">မလုပ်တော့ရန်</string>
     <string name="miuix_appcompat_search_input_description">ရှာ​ဖွေမည်</string>
     <string name="miuix_appcompat_select_all">အားလုံး ရွေးပါ</string>

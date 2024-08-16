@@ -724,10 +724,9 @@ Você pode controlar este recurso em Configurações > Senhas e segurança > Pri
     <string name="terms_of_use_label_translation">Serviço de tradução</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">Serviço de Atualização do Sistema (procura por atualizações online e notifica sobre novas versões)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">Antes de utilizar o sistema, leia e aceite o nosso Contrato do Usuário e a Política de Privacidade, que aborda os apps Xiaomi pré-instalados no seu dispositivo (por exemplo, Galeria, Mi Música, Navegador Mi, Mi Vídeo, Temas, etc.). Nós protegeremos as suas informações pessoais conforme as leis, regulamentos e políticas de privacidade relevantes. Quando o seu dispositivo for ativado, os seguintes dispositivos se conectarão à rede para acessar a sua localização:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Antes de usar o sistema, você deve ler e aceitar o nosso Contrato do Usuário e a Política de Privacidade. Nós protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Quando seu dispositivo é ativado, os seguintes serviços se conectarão à rede e acessarão sua localização:</string>
     <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Plano de fundo</string>
-    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Você deve concordar com a Política de Privacidade do Facemoji antes de usar este recurso."</string>

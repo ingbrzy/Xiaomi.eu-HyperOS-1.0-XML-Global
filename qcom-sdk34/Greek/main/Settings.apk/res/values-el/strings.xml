@@ -704,26 +704,6 @@
     <string name="aod_style_description">Προβολή ρολογιού, ημερομηνίας, χρόνου, ειδοποιήσεων και άλλων αντικειμένων όταν η οθόνη είναι απενεργοποιημένη</string>
     <string name="aod_style_title">Στυλ</string>
     <string name="aod_to_close">Απενεργοποίηση</string>
-    <string name="aon_gesture_cue_tone_summary">Αναπαραγωγή ήχου επαλήθευσης κάθε φορά που εντοπίζεται η παλάμη σας</string>
-    <string name="aon_gesture_cue_tone_title">Αναπαραγωγή ήχου επαλήθευσης</string>
-    <string name="aon_gesture_dialog_message">Όταν αυτή η λειτουργία είναι ενεργοποιημένη, αυτή η συσκευή θα εντοπίσει και θα αναλύσει τις χειρονομίες σας. Οι προσωπικές πληροφορίες σας δεν θα υποβληθούν σε επεξεργασία, δεν θα αποθηκευτούν δεδομένα τοπικά ή στο σύννεφο.</string>
-    <string name="aon_gesture_dialog_title">Δήλωση απορρήτου</string>
-    <string name="aon_gesture_double_press_summary">Αναπαραγωγή και παύση της αναπαραγωγής</string>
-    <string name="aon_gesture_double_press_title">Εκτελέστε μια κίνηση διπλού πατήματος</string>
-    <string name="aon_gesture_draw_circle_summary_pad">Απαντήστε ή τερματίστε κλήσεις που μεταφέρονται στο τάμπλετ</string>
-    <string name="aon_gesture_draw_circle_summary_phone">Απάντηση και τερματισμός κλήσεων</string>
-    <string name="aon_gesture_draw_circle_title">Σχεδιάστε έναν κύκλο</string>
-    <string name="aon_gesture_enable_summary" formatted="false">Κρατήστε το χέρι σας %d με %d cm από την κάμερα και κάντε τις χειρονομίες αφού εμφανιστεί το εικονίδιο χεριού στο επάνω μέρος της οθόνης</string>
-    <string name="aon_gesture_learn_title">Εκμάθηση χειρονομιών</string>
-    <string name="aon_gesture_left_right_waving_summary">Προσαρμόστε την πρόοδο αναπαραγωγής και εναλλάξτε τα τραγούδια</string>
-    <string name="aon_gesture_left_right_waving_title">Χαιρετίστε οριζόντια</string>
-    <string name="aon_gesture_settings">Ανέπαφες χειρονομίες</string>
-    <string name="aon_gesture_status_close">Ανενεργό</string>
-    <string name="aon_gesture_status_open">Ενεργό</string>
-    <string name="aon_gesture_supported_app_title">Υποστηριζόμενες εφαρμογές</string>
-    <string name="aon_gesture_supported_title">Διαθέσιμες χειρονομίες</string>
-    <string name="aon_gesture_up_down_waving_summary">Ρυθμίστε την ένταση του ήχου πολυμέσων, κάντε εναλλαγή μεταξύ σύντομων βίντεο και γυρίστε σελίδες σε έγγραφα</string>
-    <string name="aon_gesture_up_down_waving_title">Χαιρετίστε κάθετα</string>
     <string name="ap_connect_failed">Αδυναμία σύνδεσης</string>
     <string name="ap_connected_battery_level">" | Μπαταρία %1$s"</string>
     <string name="ap_p2p_dialog_message">Η τρέχουσα κοινόχρηστη σύνδεση Wi-Fi χρησιμοποιείται ήδη. Βεβαιωθείτε ότι δεν χρησιμοποιείτε Wi-Fi Direct, Mi Κοινοποίηση, μετάδοση ή άλλες υπηρεσίες ασύρματης μεταφοράς προτού ενεργοποιήσετε το προσωπικό σας σημείο πρόσβασης.</string>
@@ -2022,10 +2002,21 @@ aptX Bluetooth: Λειτουργία κωδικοποιητή"</string>
     <string name="camera_gesture_title">Περιστρέψτε δύο φορές για κάμερα</string>
     <string name="camera_grip_firmware_need_update">Ενημέρωση</string>
     <string name="camera_grip_firmware_new_version">Ενημερωμένο</string>
+    <string name="camera_grip_firmware_save_button_know">Κατανοητό</string>
+    <string name="camera_grip_firmware_save_button_negaitive">Όχι τώρα</string>
+    <string name="camera_grip_firmware_save_button_positive">Ενημέρωση</string>
+    <string name="camera_grip_firmware_save_channel">Ειδοποιήσεις λαβής κάμερας</string>
+    <string name="camera_grip_firmware_save_networking_tips">Συνδεθείτε σε Wi-Fi ή ενεργοποιήστε τα δεδομένα κινητής τηλεφωνίας και δοκιμάστε να ενημερώσετε ξανά το υλικολογισμικό.</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">Ενημερώστε το υλικολογισμικό για να συνεχίσετε να χρησιμοποιείτε αυτήν τη συσκευή.</string>
+    <string name="camera_grip_firmware_save_title">Επαγγελματική λαβή κάμερας</string>
     <string name="camera_grip_firmware_title_text">Ενημέρωση υλικολογισμικού</string>
     <string name="camera_grip_firmware_update_describe">Διατηρήστε τη λαβή συνδεδεμένη σε όλη τη διαδικασία ενημέρωσης</string>
     <string name="camera_grip_firmware_update_faild">Αδυναμία ενημέρωσης</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">Αφαιρέστε τη λαβή της κάμερας, φορτίστε αυτήν τη συσκευή και, στη συνέχεια, δοκιμάστε να ενημερώσετε ξανά το υλικολογισμικό</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">Φορτίστε αυτήν τη συσκευή και τη λαβή της κάμερας πριν ενημερώσετε το υλικολογισμικό</string>
     <string name="camera_grip_firmware_update_ongoing">Ενημέρωση. Μην αποσυνδέσετε τη λαβή.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">Συνδέστε τον φορτιστή σε αυτήν τη συσκευή και δοκιμάστε να ενημερώσετε ξανά το υλικολογισμικό</string>
     <string name="camera_grip_firmware_update_successful">Επιτυχής ενημέρωση</string>
     <string name="camera_key_action_app_title">Άνοιγμα εφαρμογής</string>
     <string name="camera_key_action_category_title">Αδυναμία χρήσης Κάμερας</string>
@@ -3401,7 +3392,7 @@ aptX Bluetooth: Λειτουργία κωδικοποιητή"</string>
     <string name="ethernet_data_template">^1 δεδομένων ethernet</string>
     <string name="ethernet_data_usage">Χρήση δεδομένων Ethernet</string>
     <string name="ethernet_tether_checkbox_text">Κοινοποίηση μέσω Ethernet</string>
-    <string name="ethernet_tethering_subtext">Κοινοποίηση δικτυακής σύνδεσης τηλεφώνου μέσω Ethernet</string>
+    <string name="ethernet_tethering_subtext">Κοινή χρήση της σύνδεσης του τηλεφώνου στο διαδίκτυο μέσω Ethernet</string>
     <string name="evening">Απόγευμα</string>
     <string name="every_day">Κάθε ημέρα</string>
     <string name="exceptional_case">Εξαιρέσεις</string>
@@ -4740,10 +4731,6 @@ Xiaomi Cloud
     <string name="load_esim_info">Απόκτηση πληροφοριών eSIM…</string>
     <string name="load_esim_info_error">Αδυναμία φόρτωσης πληροφοριών eSIM. Περιμένετε ένα με δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="loading">Μια στιγμή…</string>
-    <string name="loading_eid_error_message">Αδυναμία απόκτησης πληροφοριών EID. Περιμένετε ένα με δύο λεπτά και προσπαθήστε ξανά.</string>
-    <string name="loading_eid_error_ok">Κατανοητό</string>
-    <string name="loading_eid_error_title">Αδυναμία φόρτωσης</string>
-    <string name="loading_eid_tip">Γίνεται απόκτηση πληροφοριών EID…</string>
     <string name="loading_injected_setting_summary">Φόρτωση…</string>
     <string name="local_auto_backup_off">Απενεργοποιημένο</string>
     <string name="local_auto_backup_on">Ενεργοποιημένο</string>
@@ -5143,6 +5130,8 @@ Xiaomi Cloud
     <string name="long_background_tasks_title">Εργασ. στο παρασκ. μεγ. διαρκ.</string>
     <string name="long_press_back_key">Πατήστε παρατεταμένα το κουμπί Πίσω</string>
     <string name="long_press_buttom_key">Παρατεταμένο πάτημα Αρχικής στην Οθόνη κλειδώματος</string>
+    <string name="long_press_editor_style_summary">Πατήστε παρατεταμένα την Οθόνη κλειδώματος για να επεξεργαστείτε το ρολόι και την ταπετσαρία</string>
+    <string name="long_press_editor_style_title">Πατήστε παρατεταμένα για επεξεργασία</string>
     <string name="long_press_home_key">Πατήστε παρατεταμένα το κουμπί Αρχικής</string>
     <string name="long_press_menu_key">Πατήστε παρατεταμένα το κουμπί Μενού</string>
     <string name="long_press_menu_key_when_lock">Παρατεταμένο πάτημα Μενού στην Οθόνη κλειδώματος</string>
@@ -5683,8 +5672,6 @@ Xiaomi Cloud
     <string name="miui_type_style_title">Στυλ πληκτρολόγησης</string>
     <string name="miui_updater">Ενημέρωση συστήματος</string>
     <string name="miui_userguide">Εγχειρίδιο χρήσης</string>
-    <string name="miui_visual_perception_summary">Ζητήστε από τη συσκευή σας να αντιλαμβάνεται την παρουσία σας και να επιλέξει πιο βολικές επιλογές κλειδώματος και ξεκλειδώματος.</string>
-    <string name="miui_visual_perception_title">Ενεργή οπτική αντίληψη</string>
     <string name="miuix_access_state_desc">Έγινε επιλογή</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
@@ -6645,8 +6632,10 @@ Xiaomi Cloud
     <string name="phone_language_summary" />
     <string name="photo_data">Φωτογραφίες και βίντεο</string>
     <string name="photography_handle_button_function_settings">Κουμπί ρύθμισης λαβής</string>
-    <string name="photography_handle_charge_protected">Αυτόματη αποσύνδεση λαβής φόρτισης</string>
-    <string name="photography_handle_charge_protected_summary">Όταν η συσκευή σας αναγνωρίσει ότι χρησιμοποιείτε λαβή κάμερας, η συσκευή θα σταματήσει να φορτίζεται και θα διατηρήσει την μπαταρία στο %1$s</string>
+    <string name="photography_handle_charge_protected">Προστασία φόρτισης λαβής</string>
+    <string name="photography_handle_charge_protected_summary">Όταν είναι συνδεδεμένη η λαβή κάμερας, η συσκευή θα σταματήσει να φορτίζεται και θα διατηρήσει την μπαταρία στο %1$s</string>
+    <string name="photography_handle_charge_state">Φόρτιση από λαβές κάμερας</string>
+    <string name="photography_handle_charge_state_summary">Φορτίστε αυτήν τη συσκευή από τις λαβές της κάμερας όποτε είναι συνδεδεμένες</string>
     <string name="photography_handle_launch_and_take_photo">Λήψη φωτογραφίας</string>
     <string name="photography_handle_launch_camera">Άνοιγμα κάμερας</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Πατήστε παρατεταμένα το κουμπί κλείστρου για να εκτελέσετε μια ενέργεια</string>
@@ -6775,8 +6764,10 @@ Xiaomi Cloud
     <string name="pref_show_lunar_calendar_title">Εμφάνιση παραδοσιακού κινεζικού ημερολογίου στην Οθόνη κλειδώματος</string>
     <string name="pref_title_network_details">Λεπτομέρειες δικτύου</string>
     <string name="pref_title_update_notification">Ειδοποιήσεις χρήσης δεδομένων</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Όταν η οθόνη είναι κλειδωμένη, πατήστε δύο φορές τη Μείωση έντασης και τραβήξτε μια φωτογραφία</string>
     <string name="pref_volume_launch_camera_summary">Πατήστε δύο φορές τη Μείωση έντασης για να ενεργοποιήσετε την Κάμερα</string>
     <string name="pref_volume_launch_camera_title">Εκκίνηση Κάμερας</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">Όταν η οθόνη είναι κλειδωμένη, πατήστε δύο φορές τη Μείωση έντασης για να ανοίξετε την Κάμερα</string>
     <string name="pref_volume_wake_summary">Πατώντας τα κουμπιά έντασης η συσκευή ενεργοποιείται</string>
     <string name="pref_volume_wake_title">Ενεργοποίηση με κουμπιά έντασης</string>
     <string name="preference_change_password_title">Αλλαγή κωδικού πρόσβασης</string>
@@ -7331,6 +7322,8 @@ Xiaomi Cloud
     <string name="safety_center_summary">Ασφάλεια εφαρμογής, κλείδωμα συσκευής, άδειες</string>
     <string name="safety_center_title">Ασφάλεια και απόρρητο</string>
     <string name="sar">Πληροφορίες Έκθεσης σε Ραδιοσυχνότητες (RF)</string>
+    <string name="satellite_call_assistant">Ρυθμίσεις κλήσης</string>
+    <string name="satellite_network_title">Λειτουργίες δορυφορικών κλήσεων</string>
     <string name="saturday">Σάββατο</string>
     <string name="saturday_first_day_of_week">Σάββατο</string>
     <string name="saturday_short">Σαβ</string>
@@ -7361,7 +7354,6 @@ Xiaomi Cloud
     <string name="screen_dark_mode_select_time_error_summary">Η ώρα έναρξης και η ώρα τερματισμού δεν μπορούν να είναι ίδιες</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Ορισμένες εφαρμογές ενδέχεται να εμφανίζονται εσφαλμένα στη Σκοτεινή λειτουργία. Μπορείτε να περιορίσετε τη χρήση Σκοτεινής λειτουργίας για μεμονωμένες εφαρμογές εδώ.</string>
     <string name="screen_dark_mode_smart_dark_title">Ολική σκοτεινή λειτουργία</string>
-    <string name="screen_dark_mode_time_summary">Η συσκευή σας θα μεταβεί στη Σκοτεινή λειτουργία κατά την προγραμματισμένη ώρα όταν απενεργοποιήσετε την οθόνη</string>
     <string name="screen_dark_mode_time_title">Προγραμματίστε τη Σκοτεινή λειτουργία</string>
     <string name="screen_effect">Σχέδιο χρώματος</string>
     <string name="screen_effect_adapt_color_summary">Προσαρμογή χρωμάτων βάσει τρέχοντος φωτισμού</string>
@@ -8485,6 +8477,11 @@ Xiaomi Cloud
     <string name="sort_order_frequent_notification">Πιο συχνά</string>
     <string name="sort_order_recent_notification">Πιο πρόσφατα</string>
     <string name="sort_order_size">Ταξινόμηση με βάση μέγεθος</string>
+    <string name="sos_add_area_code_switch_summary">Προσθέστε αυτόματα τον κωδικό περιοχής σε έναν αριθμό τηλεφώνου όταν πραγματοποιείτε μια κλήση έκτακτης ανάγκης με τις Δορυφορικές Επικοινωνίες Tiantong</string>
+    <string name="sos_add_area_code_switch_title">Αυτόματη προσθήκη κωδικού περιοχής</string>
+    <string name="sos_area_code_settings_hint">Εισαγωγή κωδικού περιοχής</string>
+    <string name="sos_area_code_settings_summary">Ορίστε χειροκίνητα τον κωδικό περιοχής του αριθμού τηλεφώνου της επαφής έκτακτης ανάγκης σας</string>
+    <string name="sos_area_code_settings_title">Ορισμός κωδικού περιοχής</string>
     <string name="sos_phone_call_privacy_dialog_message">"Για να καλέσετε τις επαφές έκτακτης ανάγκης και να αναπαράγετε ηχογράφηση έκτακτης ανάγκης, η εφαρμογή αυτή χρειάζεται τις ακόλουθες άδειες:
 • Πραγματοποίηση κλήσεων
 Για πραγματοποίηση κλήσεων στις επαφές έκτακτης ανάγκης
@@ -9791,10 +9788,6 @@ Xiaomi Cloud
     <string name="uwb_settings_title">Ultra-Wideband (UWB)</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
-    <string name="valid_net_access">Προβολή διαπιστευτηρίων πρόσβασης δικτύου</string>
-    <string name="valid_net_ok">ΟΚ</string>
-    <string name="valid_net_result_fail">Αδυναμία απόκτησης πληροφοριών. Περιμένετε ένα με δύο λεπτά και προσπαθήστε ξανά.</string>
-    <string name="valid_net_result_title">Αποτέλεσμα</string>
     <string name="verify_apps_over_usb_summary">Έλεγχος εφαρμογών που έχουν εγκατασταθεί μέσω ADB/ADT για επιβλαβή συμπεριφορά.</string>
     <string name="verify_apps_over_usb_title">Επαλήθευση εφαρμογών μέσω USB</string>
     <string name="version_text">έκδοση %1$s</string>
@@ -10704,7 +10697,6 @@ Xiaomi Cloud
     <string name="winscope_trace_quick_settings_title">Ίχνος Winscope</string>
     <string name="wireless_connected">Έχει συνδεθεί</string>
     <string name="wireless_debugging_main_switch_title">Χρήση ασύρματου εντοπισμού σφαλμάτων</string>
-    <string name="wireless_display">Ασύρματη προβολή</string>
     <string name="wireless_networks_settings_title">Ασύρματο και δίκτυα</string>
     <string name="wireless_off">Απενεργοποιημένο</string>
     <string name="wireless_on">Ενεργοποιημένο</string>

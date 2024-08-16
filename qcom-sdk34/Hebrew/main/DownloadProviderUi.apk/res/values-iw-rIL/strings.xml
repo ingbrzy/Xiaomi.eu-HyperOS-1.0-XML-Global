@@ -7,7 +7,6 @@
     <string name="DOWNLOAD_UNIT_TB">TB</string>
     <string name="about">אודות</string>
     <string name="actionbar_button_up_description">הקודם</string>
-    <string name="ad_flag_text">פרסומת</string>
     <string name="add_download_download">הורד</string>
     <string name="add_download_error_not_support">קישור זה אינו נתמך</string>
     <string name="add_download_text_hint">הזן קישור HTTP/HTTPS</string>
@@ -282,7 +281,6 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="skip_ad">דלג</string>
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>

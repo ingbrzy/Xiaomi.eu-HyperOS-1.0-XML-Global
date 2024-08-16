@@ -704,26 +704,6 @@ Widget: %2$s
     <string name="aod_style_description">Klok, datum, tijd, meldingen en andere items weergeven wanneer het scherm is uitgeschakeld</string>
     <string name="aod_style_title">Stijl</string>
     <string name="aod_to_close">Uitschakelen</string>
-    <string name="aon_gesture_cue_tone_summary">Speel een bevestigingsgeluid wanneer uw handpalm wordt gedetecteerd</string>
-    <string name="aon_gesture_cue_tone_title">Bevestigingsgeluid afspelen</string>
-    <string name="aon_gesture_dialog_message">Als deze functie is ingeschakeld, detecteert en analyseert dit apparaat uw gebaren. Uw persoonlijke informatie wordt niet verwerkt, er worden geen gegevens lokaal of in de cloud opgeslagen.</string>
-    <string name="aon_gesture_dialog_title">Privacyverklaring</string>
-    <string name="aon_gesture_double_press_summary">Afspelen en pauzeren</string>
-    <string name="aon_gesture_double_press_title">Voer een dubbele drukbeweging uit</string>
-    <string name="aon_gesture_draw_circle_summary_pad">Beantwoord of beëindig oproepen die zijn overgezet naar tablet</string>
-    <string name="aon_gesture_draw_circle_summary_phone">Oproepen beantwoorden en beëindigen</string>
-    <string name="aon_gesture_draw_circle_title">Teken een cirkel</string>
-    <string name="aon_gesture_enable_summary" formatted="false">Houd uw hand %d tot %d van de camera en voer gebaren uit nadat het handpictogram bovenaan het scherm verschijnt</string>
-    <string name="aon_gesture_learn_title">Gebaren leren</string>
-    <string name="aon_gesture_left_right_waving_summary">Pas de voortgang van het afspelen aan en schakel tussen nummers</string>
-    <string name="aon_gesture_left_right_waving_title">Zwaai horizontaal</string>
-    <string name="aon_gesture_settings">Contactloze gebaren</string>
-    <string name="aon_gesture_status_close">Uit</string>
-    <string name="aon_gesture_status_open">Aan</string>
-    <string name="aon_gesture_supported_app_title">Ondersteunde apps</string>
-    <string name="aon_gesture_supported_title">Beschikbare gebaren</string>
-    <string name="aon_gesture_up_down_waving_summary">"Pas het mediavolume aan, schakel tussen korte video's en sla pagina's in documenten om"</string>
-    <string name="aon_gesture_up_down_waving_title">Zwaai verticaal</string>
     <string name="ap_connect_failed">Kon niet verbinden</string>
     <string name="ap_connected_battery_level">" | Batterij %1$s"</string>
     <string name="ap_p2p_dialog_message">De huidige gedeelde wifi-verbinding wordt al gebruikt. Zorg ervoor dat u Wi-Fi Direct, Mi Share, casten of andere draadloze overdrachtsservices niet gebruikt voordat u uw persoonlijke hotspot inschakelt.</string>
@@ -2022,10 +2002,21 @@ Als je een CA-certificaat installeert, kan de eigenaar van het certificaat toega
     <string name="camera_gesture_title">Twee keer draaien voor camera</string>
     <string name="camera_grip_firmware_need_update">Bijwerken</string>
     <string name="camera_grip_firmware_new_version">Up-to-date</string>
+    <string name="camera_grip_firmware_save_button_know">Begrepen</string>
+    <string name="camera_grip_firmware_save_button_negaitive">Niet nu</string>
+    <string name="camera_grip_firmware_save_button_positive">Bijwerken</string>
+    <string name="camera_grip_firmware_save_channel">Cameragripmeldingen</string>
+    <string name="camera_grip_firmware_save_networking_tips">Maak verbinding met wifi of schakel mobiele data in en probeer de firmware opnieuw bij te werken.</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">Werk de firmware bij om dit apparaat te blijven gebruiken.</string>
+    <string name="camera_grip_firmware_save_title">Professionele cameragrip</string>
     <string name="camera_grip_firmware_title_text">Firmware bijwerken</string>
     <string name="camera_grip_firmware_update_describe">Houd de grip aangesloten tijdens het updateproces</string>
     <string name="camera_grip_firmware_update_faild">Kon niet bijwerken</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">Verwijder de cameragrip, laad dit apparaat op en probeer de firmware opnieuw bij te werken</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">Laad dit apparaat en uw cameragrip op voordat u de firmware bijwerkt</string>
     <string name="camera_grip_firmware_update_ongoing">Bijwerken. Verbreek de grip niet.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">Sluit de oplader aan op dit apparaat en probeer de firmware opnieuw bij te werken</string>
     <string name="camera_grip_firmware_update_successful">Succesvol bijgewerkt</string>
     <string name="camera_key_action_app_title">App openen</string>
     <string name="camera_key_action_category_title">Camera kan niet worden gebruikt</string>
@@ -3403,7 +3394,7 @@ Start je apparaat opnieuw op en probeer het nogmaals."</string>
     <string name="ethernet_data_template">^1 ethernetdata</string>
     <string name="ethernet_data_usage">Ethernetdatagebruik</string>
     <string name="ethernet_tether_checkbox_text">Delen via Ethernet</string>
-    <string name="ethernet_tethering_subtext">De netwerkverbinding van de telefoon delen via Ethernet</string>
+    <string name="ethernet_tethering_subtext">Deel internetverbinding van telefoon via ethernet</string>
     <string name="evening">Middag</string>
     <string name="every_day">Elke dag</string>
     <string name="exceptional_case">Uitzonderingen</string>
@@ -4742,10 +4733,6 @@ Open Xiaomi Cloud en herstel items vanaf daar."</string>
     <string name="load_esim_info">eSIM-informatie ophalen…</string>
     <string name="load_esim_info_error">Kon eSIM-informatie niet laden. Wacht een minuut of twee en probeer het opnieuw.</string>
     <string name="loading">Een ogenblik geduld…</string>
-    <string name="loading_eid_error_message">Kon EID-informatie niet ophalen. Wacht een minuut of twee en probeer het opnieuw.</string>
-    <string name="loading_eid_error_ok">Begrepen</string>
-    <string name="loading_eid_error_title">Kon niet laden</string>
-    <string name="loading_eid_tip">EID-informatie ophalen…</string>
     <string name="loading_injected_setting_summary">Laden…</string>
     <string name="local_auto_backup_off">Uit</string>
     <string name="local_auto_backup_on">Aan</string>
@@ -5145,6 +5132,8 @@ Als dit recht niet wordt toegekend, beperkt het systeem hoelang de app dit soort
     <string name="long_background_tasks_title">Lange achtergrondtaken</string>
     <string name="long_press_back_key">Houd de Terugknop lang ingedrukt</string>
     <string name="long_press_buttom_key">Houd de Home-knop lang ingedrukt op het Vergrendelscherm</string>
+    <string name="long_press_editor_style_summary">Houd het Vergrendelscherm ingedrukt om de klok en achtergrond te bewerken</string>
+    <string name="long_press_editor_style_title">Houd ingedrukt om te bewerken</string>
     <string name="long_press_home_key">Houd de Home-knop lang ingedrukt</string>
     <string name="long_press_menu_key">Houd de Menuknop lang ingedrukt</string>
     <string name="long_press_menu_key_when_lock">Houd de Menuknop lang ingedrukt op het Vergrendelscherm</string>
@@ -5685,8 +5674,6 @@ Verdergaan met openen van aanvullende instellingen."</string>
     <string name="miui_type_style_title">Typstijl</string>
     <string name="miui_updater">Systeemupdate</string>
     <string name="miui_userguide">Handleiding</string>
-    <string name="miui_visual_perception_summary">Laat uw apparaat uw aanwezigheid detecteren en handigere vergrendel- en ontgrendelingsopties selecteren</string>
-    <string name="miui_visual_perception_title">Actieve visuele perceptie</string>
     <string name="miuix_access_state_desc">Geselecteerd</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
@@ -6645,8 +6632,10 @@ Lees en ga akkoord met %s voordat u deze service gebruikt."</string>
     <string name="phone_language_summary" />
     <string name="photo_data">"Foto's en video's"</string>
     <string name="photography_handle_button_function_settings">Greepknop instellen</string>
-    <string name="photography_handle_charge_protected">Grip opladen automatische ontkoppeling</string>
-    <string name="photography_handle_charge_protected_summary">Wanneer uw apparaat herkent dat u een cameragreep gebruikt, stopt het apparaat met opladen en blijft de batterij op %1$s</string>
+    <string name="photography_handle_charge_protected">Grip-oplaadbescherming</string>
+    <string name="photography_handle_charge_protected_summary">Wanneer de cameragrip is aangesloten, stopt het apparaat met opladen en blijft de batterij op %1$s</string>
+    <string name="photography_handle_charge_state">Opladen via cameragrepen</string>
+    <string name="photography_handle_charge_state_summary">Laad dit apparaat op via cameragrepen wanneer deze zijn aangesloten</string>
     <string name="photography_handle_launch_and_take_photo">Foto maken</string>
     <string name="photography_handle_launch_camera">Open camera</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Houd de sluiterknop ingedrukt om een actie uit te voeren</string>
@@ -6775,8 +6764,10 @@ Druk tegelijkertijd op de aan/uit-knop en de knop Volume omhoog"</string>
     <string name="pref_show_lunar_calendar_title">Traditionele Chinese kalender op Vergrendelscherm laten zien</string>
     <string name="pref_title_network_details">Netwerk­gegevens</string>
     <string name="pref_title_update_notification">Datagebruikmeldingen</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Wanneer het scherm is vergrendeld, dubbeltikt u op Volume omlaag om Camera te openen en een foto te maken</string>
     <string name="pref_volume_launch_camera_summary">Druk twee keer op Volume omlaag om de Camera op te starten</string>
     <string name="pref_volume_launch_camera_title">Camera opstarten</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">Wanneer het scherm is vergrendeld, dubbeltikt u op Volume omlaag om Camera te openen</string>
     <string name="pref_volume_wake_summary">Het apparaat ontwaakt als er op de volumeknoppen wordt gedrukt</string>
     <string name="pref_volume_wake_title">Wekken met volumeknoppen</string>
     <string name="preference_change_password_title">Wachtwoord wijzigen</string>
@@ -7331,6 +7322,8 @@ Start je apparaat opnieuw op en probeer het nogmaals."</string>
     <string name="safety_center_summary">App-beveiliging, apparaatvergrendeling, rechten</string>
     <string name="safety_center_title">Beveiliging en privacy</string>
     <string name="sar">RF Blootstellingsinformatie</string>
+    <string name="satellite_call_assistant">Gespreksinstellingen</string>
+    <string name="satellite_network_title">Functies voor satellietoproepen</string>
     <string name="saturday">Zaterdag</string>
     <string name="saturday_first_day_of_week">zaterdag</string>
     <string name="saturday_short">Za</string>
@@ -7361,7 +7354,6 @@ Start je apparaat opnieuw op en probeer het nogmaals."</string>
     <string name="screen_dark_mode_select_time_error_summary">Starttijd en eindtijd kunnen niet hetzelfde zijn</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Sommige apps worden mogelijk onjuist weergegeven in de Donkere modus. U kunt het gebruik van de Donkere modus voor individuele apps hier beperken.</string>
     <string name="screen_dark_mode_smart_dark_title">Algehele donkere modus</string>
-    <string name="screen_dark_mode_time_summary">Uw apparaat schakelt rond de geplande tijd over naar Donkere modus wanneer u het scherm uitschakelt</string>
     <string name="screen_dark_mode_time_title">Plan de Donkere modus</string>
     <string name="screen_effect">Kleurenschema</string>
     <string name="screen_effect_adapt_color_summary">Wijzig kleuren op basis van de huidige belichting</string>
@@ -8485,6 +8477,11 @@ Dubbeltik om Recent te openen."</string>
     <string name="sort_order_frequent_notification">Vaakst</string>
     <string name="sort_order_recent_notification">Meest recent</string>
     <string name="sort_order_size">Sorteren op grootte</string>
+    <string name="sos_add_area_code_switch_summary">Voeg automatisch het netnummer toe aan een telefoonnummer wanneer u een noodoproep maakt met Tiantong-satellietcommunicatie</string>
+    <string name="sos_add_area_code_switch_title">Voeg automatisch het netnummer toe</string>
+    <string name="sos_area_code_settings_hint">Voer het netnummer in</string>
+    <string name="sos_area_code_settings_summary">Stel handmatig het netnummer van het telefoonnummer van uw contactpersoon voor noodgevallen in</string>
+    <string name="sos_area_code_settings_title">Netnummer instellen</string>
     <string name="sos_phone_call_privacy_dialog_message">"Om uw contacten voor noodgevallen te bellen en SOS-opnamen af te spelen, heeft deze app de volgende toestemmingen nodig:
 • Bellen
 Voor het bellen naar uw contacten voor noodgevallen
@@ -9791,10 +9788,6 @@ Druk op de plus om woorden toe te voegen."</string>
     <string name="uwb_settings_title">Ultra-WideBand (UWB)</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
-    <string name="valid_net_access">Bekijk netwerktoegangsreferenties</string>
-    <string name="valid_net_ok">OК</string>
-    <string name="valid_net_result_fail">Kon geen informatie krijgen. Wacht een minuut of twee en probeer het opnieuw.</string>
-    <string name="valid_net_result_title">Resultaat</string>
     <string name="verify_apps_over_usb_summary">Controleer apps die zijn geïnstalleerd via ADB/ADT op schadelijk gedrag</string>
     <string name="verify_apps_over_usb_title">Apps verifiëren via USB</string>
     <string name="version_text">versie %1$s</string>
@@ -10704,7 +10697,6 @@ kunt u ook netwerken van andere gebruikers gebruiken."</string>
     <string name="winscope_trace_quick_settings_title">Winscope-tracering</string>
     <string name="wireless_connected">Verbonden</string>
     <string name="wireless_debugging_main_switch_title">Draadloze foutopsporing gebruiken</string>
-    <string name="wireless_display">Draadloos scherm</string>
     <string name="wireless_networks_settings_title">Draadloos en netwerken</string>
     <string name="wireless_off">Uit</string>
     <string name="wireless_on">Aan</string>

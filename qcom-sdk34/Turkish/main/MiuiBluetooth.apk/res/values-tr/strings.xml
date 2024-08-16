@@ -116,8 +116,6 @@ Ayrıntıları Ayarlar menüsünde kontrol edebilirsiniz."</string>
     <string name="fast_connect_device_title_connecting">Bağlanılıyor…</string>
     <string name="fast_connect_device_title_find_headset">%1$s bul</string>
     <string name="fast_connect_device_title_find_headset_others">Görünüşe göre bu cihaz size ait değil: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Bağlı</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Kamera</string>
     <string name="fast_connect_new_feture_anti_lost">Kayıp kulaklık uyarısı</string>
     <string name="fast_connect_new_feture_same_account">Senkronize edilmiş cihazlara bağlan</string>
     <string name="fast_connect_new_feture_sound_normalizer">Daha iyi ses</string>
@@ -211,7 +209,6 @@ Daha hızlı bağlantı protokolü."</string>
     <string name="headset_download_fw">Güncelle</string>
     <string name="headset_downloading">İndiriliyor</string>
     <string name="headset_downloading_indicate">İndiriliyor…</string>
-    <string name="headset_dual_device">Kulaklıklar otomatik bağlandı. Çift bağlantı kapalı.</string>
     <string name="headset_find_new_version">Bir güncelleme mevcut</string>
     <string name="headset_finish_fw">Başarıyla güncellendi</string>
     <string name="headset_finish_fw_failed">Bir hata oluştu</string>
@@ -229,8 +226,8 @@ Daha hızlı bağlantı protokolü."</string>
     <string name="headset_updating">Güncelleniyor</string>
     <string name="information_go_to_fitness">"İlgili ayarları Mi Fitness'ta bulabilirsiniz"</string>
     <string name="install_package">Daha fazla özellik için \"%1$s\" yükleyin</string>
-    <string name="lea_disable_successfully">"Normal Bluetooth'a geçildi"</string>
-    <string name="lea_enable_successfully">"Bluetooth LE Audio'ya geçildi"</string>
+    <string name="lea_disable_successfully">Normal Bluetooth artık kulaklık bağlantısı ve ses iletimi için kullanılıyor</string>
+    <string name="lea_enable_successfully">LE Audio artık kulaklık bağlantısı ve ses iletimi için kullanılıyor</string>
     <string name="mi_audio_relay_cancel">Tamam</string>
     <string name="mi_audio_relay_connect_failed">Tekrar deneyin</string>
     <string name="mi_audio_relay_localphone">Bu cihaz</string>
@@ -280,7 +277,6 @@ Daha hızlı bağlantı protokolü."</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Tüm seçimleri kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
-    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>

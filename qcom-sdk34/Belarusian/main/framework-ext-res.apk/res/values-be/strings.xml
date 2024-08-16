@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">Мелодыя па змаўчанні (%1$s)</string>
     <string name="android_ringtone_silent">Без гуку</string>
     <string name="android_ringtone_unknown">Невядомая мелодыя</string>
-    <string name="aon_reader_support_scene_des">Гартаць старонкі падчас чытання</string>
-    <string name="aon_video_support_scene_des">Кіраванне прайграваннем відэа</string>
     <string name="app_continuity_channel_name">Змены макета праграмы</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">Не атрымалася адкрыць код для аплаты Alipay</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">Кампутар</string>
     <string name="device_xiaomi">Mi Phone</string>
     <string name="dewdrops">Ранішняя раса</string>
-    <string name="dialog_enable_mic_btn_negative">Адмена</string>
-    <string name="dialog_enable_mic_btn_positive">Уключыць</string>
-    <string name="dialog_enable_mic_message">Каб выкарыстоўваць гэтую функцыю, спачатку уключыце мікрафон.</string>
-    <string name="dialog_enable_mic_title">Уключыце мікрафон</string>
     <string name="digitaluniverse">Лічбавы сусвет (стэрэа)</string>
     <string name="disable_nfc">NFC-модуль быў адключаны для бесправадной зарадкі</string>
     <string name="disable_nfc_haptic_reverse">NFC-модуль і вібрацыя былі адключаныя для зваротнай бесправадной зарадкі</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">Трансляваць</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="toast_camera_satellite_mutually_exclusive">Немагчыма выкарыстоўваць камеру пры выкарыстанні спадарожнікавай сувязі</string>
-    <string name="toast_mic_muted">Мікрафон адкл.</string>
-    <string name="toast_mic_unmuted">Мікрафон укл.</string>
-    <string name="tof_music_support_scene_des">Падтрымлівае элементы кіравання музычным плэерам</string>
-    <string name="tof_office_support_scene_des">Падтрымлівае дакументы Word і прэзентацыі PowerPoint</string>
-    <string name="tof_short_video_support_scene_des">Падтрымлівае пераключэнне паміж відэа</string>
-    <string name="tof_video_support_scene_des">Падтрымлівае элементы кіравання поўнаэкранным відэаплэерам</string>
     <string name="total">Не турбаваць</string>
     <string name="total_description">Адключэнне гуку і вібрацыі для ўсіх рэжымаў, акрамя будзільніка</string>
     <string name="total_title">Не турбаваць</string>

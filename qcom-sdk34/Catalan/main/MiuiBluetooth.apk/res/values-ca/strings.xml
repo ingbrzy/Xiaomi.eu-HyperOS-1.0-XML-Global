@@ -116,8 +116,6 @@ Consulteu Configuració per obtenir més informació."</string>
     <string name="fast_connect_device_title_connecting">"S'està connectant…"</string>
     <string name="fast_connect_device_title_find_headset">Troba %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Sembla que aquest dispositiu no és teu: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Connectat</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Càmera</string>
     <string name="fast_connect_new_feture_anti_lost">"Falta l'alerta dels auriculars"</string>
     <string name="fast_connect_new_feture_same_account">Connecteu dispositius sincronitzats</string>
     <string name="fast_connect_new_feture_sound_normalizer">Millor so</string>
@@ -211,7 +209,6 @@ Protocol de connexió més ràpid."</string>
     <string name="headset_download_fw">Actualizeu</string>
     <string name="headset_downloading">Baixant</string>
     <string name="headset_downloading_indicate">"S'està baixant…"</string>
-    <string name="headset_dual_device">Auriculars connectats automàticament. La connexió dual està desactivada.</string>
     <string name="headset_find_new_version">Hi ha una actualització disponible</string>
     <string name="headset_finish_fw">"S'ha actualitzat amb èxit"</string>
     <string name="headset_finish_fw_failed">"S'ha produït un error"</string>
@@ -229,8 +226,8 @@ Protocol de connexió més ràpid."</string>
     <string name="headset_updating">"S'està actualitzant…"</string>
     <string name="information_go_to_fitness">Podeu trobar la configuració relacionada a Mi Fitness</string>
     <string name="install_package">Instal·leu %1$s per a tenir més funcions</string>
-    <string name="lea_disable_successfully">"S'ha canviat a Bluetooth normal"</string>
-    <string name="lea_enable_successfully">"S'ha canviat a Bluetooth LE Àudio"</string>
+    <string name="lea_disable_successfully">"El Bluetooth normal s'utilitza ara per a la connexió dels auriculars i la transmissió d'àudio"</string>
+    <string name="lea_enable_successfully">"Ara LE Àudio s'utilitza per a la connexió dels auriculars i la transmissió d'àudio"</string>
     <string name="mi_audio_relay_cancel">"D'acord"</string>
     <string name="mi_audio_relay_connect_failed">Prova-ho de nou</string>
     <string name="mi_audio_relay_localphone">Aquest dispositiu</string>
@@ -280,7 +277,6 @@ Protocol de connexió més ràpid."</string>
     <string name="miuix_appcompat_delete_description">Suprimeix</string>
     <string name="miuix_appcompat_deselect_all">Deseleccionar tot</string>
     <string name="miuix_appcompat_deselect_all_description">Desseleccioneu-ho tot</string>
-    <string name="miuix_appcompat_edit">Edita</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel·leu</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="miuix_appcompat_select_all">Seleccioneu-ho tot</string>

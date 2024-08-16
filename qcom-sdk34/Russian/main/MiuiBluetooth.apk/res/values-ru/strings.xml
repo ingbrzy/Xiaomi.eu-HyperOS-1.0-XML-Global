@@ -116,8 +116,6 @@
     <string name="fast_connect_device_title_connecting">Подключение…</string>
     <string name="fast_connect_device_title_find_headset">Найти %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Похоже, это не ваше устройство: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Подключено</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Камера</string>
     <string name="fast_connect_new_feture_anti_lost">Предупреждение об утере наушника</string>
     <string name="fast_connect_new_feture_same_account">Подключение синхронизированных устройств</string>
     <string name="fast_connect_new_feture_sound_normalizer">Улучшенный звук</string>
@@ -211,7 +209,6 @@
     <string name="headset_download_fw">Обновить</string>
     <string name="headset_downloading">Загрузка</string>
     <string name="headset_downloading_indicate">Загрузка…</string>
-    <string name="headset_dual_device">Наушники подключены автоматически. Двойное соединение откл.</string>
     <string name="headset_find_new_version">Доступно обновление</string>
     <string name="headset_finish_fw">Обновление завершено</string>
     <string name="headset_finish_fw_failed">Произошла ошибка</string>
@@ -229,8 +226,8 @@
     <string name="headset_updating">Обновление</string>
     <string name="information_go_to_fitness">Вы можете найти соответствующие параметры в приложении Mi Fitness</string>
     <string name="install_package">Установите %1$s для доп. функций</string>
-    <string name="lea_disable_successfully">Переключено на обычный Bluetooth</string>
-    <string name="lea_enable_successfully">Переключено на Bluetooth LE Audio</string>
+    <string name="lea_disable_successfully">Теперь для подключения наушников и передачи звука используется обычное Bluetooth-подключение</string>
+    <string name="lea_enable_successfully">Теперь для подключения наушников и передачи звука используется LE Audio</string>
     <string name="mi_audio_relay_cancel">OK</string>
     <string name="mi_audio_relay_connect_failed">Повторите попытку</string>
     <string name="mi_audio_relay_localphone">Это устройство</string>
@@ -280,7 +277,6 @@
     <string name="miuix_appcompat_delete_description">Удалить</string>
     <string name="miuix_appcompat_deselect_all">Отменить выбор</string>
     <string name="miuix_appcompat_deselect_all_description">Снять выбор</string>
-    <string name="miuix_appcompat_edit">Изменить</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>

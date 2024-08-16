@@ -218,7 +218,7 @@ puis faites glisser pour déplacer"</string>
 · Appuyez sur \"Fenêtres flottantes\" dans Récents pour sélectionner des applications."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Appuyez sur une application dans la barre latérale pour l'ouvrir dans une fenêtre flottante.
 · Faites glisser une application vers le centre de l'écran pour l'ouvrir dans une fenêtre flottante ou sur le côté pour utiliser l'Écran divisé."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">"Faites glisser une application de la barre latérale au centre de l'écran pour l'ouvrir dans une fenêtre flottante ou sur le côté pour utiliser l'Écran divisé"</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">"· Faites glisser une application de la barre latérale au centre de l'écran pour l'ouvrir dans une fenêtre flottante ou sur le côté pour utiliser l'Écran divisé"</string>
     <string name="freeform_vedio_description_pad">Faites glisser les éléments hors du dock pour ouvrir les fenêtres flottantes</string>
     <string name="friday">Vendredi</string>
     <string name="friday_short">Ven</string>
@@ -266,7 +266,6 @@ puis faites glisser pour déplacer"</string>
     <string name="miuix_appcompat_delete_description">Supprimer</string>
     <string name="miuix_appcompat_deselect_all">Tout désélectionner</string>
     <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
-    <string name="miuix_appcompat_edit">Modifier</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
     <string name="miuix_appcompat_search_input_description">Rechercher</string>
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>

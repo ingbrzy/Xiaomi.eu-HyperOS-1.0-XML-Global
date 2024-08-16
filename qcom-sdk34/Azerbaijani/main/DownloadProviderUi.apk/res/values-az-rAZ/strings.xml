@@ -7,7 +7,6 @@
     <string name="DOWNLOAD_UNIT_TB">TB</string>
     <string name="about">Haqqında</string>
     <string name="actionbar_button_up_description">Geri</string>
-    <string name="ad_flag_text">Reklam</string>
     <string name="add_download_download">Endir</string>
     <string name="add_download_error_not_support">Bu keçid dəstəklənmir</string>
     <string name="add_download_text_hint">HTTP/HTTPS keçidi daxil edin</string>
@@ -282,7 +281,6 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="skip_ad">Burax</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">B.</string>
     <string name="sunday_shortest">B.</string>

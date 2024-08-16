@@ -87,8 +87,6 @@
     <string name="fast_connect_device_title_connecting">درحال اتصال…</string>
     <string name="fast_connect_device_title_find_headset">یافتن %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">به نظر می‌رسد این دستگاه شما نیست: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">متصل</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">دوربین</string>
     <string name="fast_connect_new_feture_anti_lost">هشدار گم شدن هدفون</string>
     <string name="fast_connect_new_feture_same_account">اتصال به دستگاه‌های همگام‌سازی شده</string>
     <string name="fast_connect_new_feture_sound_normalizer">صدای بهتر</string>
@@ -182,7 +180,6 @@
     <string name="headset_download_fw">به‌روزرسانی</string>
     <string name="headset_downloading">در حال دانلود</string>
     <string name="headset_downloading_indicate">در حال دانلود…</string>
-    <string name="headset_dual_device">هدفون به طور خودکار متصل می شود. اتصال دوگانه خاموش است.</string>
     <string name="headset_find_new_version">یک به‌روزرسانی در دسترس است</string>
     <string name="headset_finish_fw">با موفقیت به‌روز شد</string>
     <string name="headset_finish_fw_failed">خطایی رخ داد</string>
@@ -200,8 +197,8 @@
     <string name="headset_updating">در حال به‌روزرسانی</string>
     <string name="information_go_to_fitness">تنظیمات مربوطه را می‌توانید در Mi Fitness بیابید</string>
     <string name="install_package">برای عملکردهای بیشتر %1$s را نصب کنید</string>
-    <string name="lea_disable_successfully">به بلوتوث عادی تعویض شد</string>
-    <string name="lea_enable_successfully">به صدای LE بلوتوث تعویض شد</string>
+    <string name="lea_disable_successfully">بلوتوث عادی اکنون برای اتصال ایرفون و انتقال صدا استفاده می‌شود</string>
+    <string name="lea_enable_successfully">صدای LE اکنون برای اتصال ایرفون و انتقال صدا استفاده می‌شود</string>
     <string name="mi_audio_relay_cancel">تأیید</string>
     <string name="mi_audio_relay_connect_failed">تلاش دوباره</string>
     <string name="mi_audio_relay_localphone">این دستگاه</string>
@@ -251,7 +248,6 @@
     <string name="miuix_appcompat_delete_description">حذف</string>
     <string name="miuix_appcompat_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_deselect_all_description">لغو انتخاب همه</string>
-    <string name="miuix_appcompat_edit">ویرایش</string>
     <string name="miuix_appcompat_search_action_mode_cancel">لغو</string>
     <string name="miuix_appcompat_search_input_description">جستجو</string>
     <string name="miuix_appcompat_select_all">انتخاب همه</string>

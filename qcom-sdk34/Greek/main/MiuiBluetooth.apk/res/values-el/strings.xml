@@ -116,8 +116,6 @@
     <string name="fast_connect_device_title_connecting">Γίνεται σύνδεση…</string>
     <string name="fast_connect_device_title_find_headset">Εύρεση %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Φαίνεται πως η συσκευή αυτή δεν είναι δική σας: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Σε σύνδεση</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Κάμερα</string>
     <string name="fast_connect_new_feture_anti_lost">Ειδοποίηση απουσίας ακουστικών</string>
     <string name="fast_connect_new_feture_same_account">Συνδέστε συγχρονισμένες συσκευές</string>
     <string name="fast_connect_new_feture_sound_normalizer">Καλύτερος ήχος</string>
@@ -211,7 +209,6 @@
     <string name="headset_download_fw">Ενημέρωση</string>
     <string name="headset_downloading">Γίνεται λήψη</string>
     <string name="headset_downloading_indicate">Γίνεται λήψη…</string>
-    <string name="headset_dual_device">Τα ακουστικά earphones συνδέθηκαν αυτόματα. Η διπλή σύνδεση είναι απενεργοποιημένη.</string>
     <string name="headset_find_new_version">Μία ενημέρωση είναι διαθέσιμη</string>
     <string name="headset_finish_fw">Επιτυχής ενημέρωση</string>
     <string name="headset_finish_fw_failed">Παρουσιάσθηκε σφάλμα</string>
@@ -229,8 +226,8 @@
     <string name="headset_updating">Γίνεται ενημέρωση</string>
     <string name="information_go_to_fitness">Μπορείτε να βρείτε τις σχετικές ρυθμίσεις στο Mi Fitness</string>
     <string name="install_package">Εγκατάσταση %1$s για περισσότερες λειτουργίες</string>
-    <string name="lea_disable_successfully">Εναλλαγή σε κανονικό Bluetooth</string>
-    <string name="lea_enable_successfully">Εναλλαγή στο Bluetooth LE Audio</string>
+    <string name="lea_disable_successfully">Το Κανονικό Bluetooth χρησιμοποιείται πλέον για σύνδεση ακουστικών earphones και μετάδοση ήχου</string>
+    <string name="lea_enable_successfully">Το LE Audio χρησιμοποιείται πλέον για σύνδεση ακουστικών και μετάδοση ήχου</string>
     <string name="mi_audio_relay_cancel">ΟΚ</string>
     <string name="mi_audio_relay_connect_failed">Προσπαθήστε ξανά</string>
     <string name="mi_audio_relay_localphone">Αυτή η συσκευή</string>
@@ -280,7 +277,6 @@
     <string name="miuix_appcompat_delete_description">Διαγραφή</string>
     <string name="miuix_appcompat_deselect_all">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή όλων</string>
-    <string name="miuix_appcompat_edit">Επεξεργασία</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
     <string name="miuix_appcompat_select_all">Επιλογή όλων</string>

@@ -724,10 +724,9 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="terms_of_use_label_translation">خدمة الترجمة</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">خدمة تحديث النظام (التحقق عبر الإنترنت من وجود تحديثات والإشعار بالإصدارات الجديدة)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">قبل استخدام النظام، يرجى قراءة شروط الاستخدام وسياسة الخصوصية الخاصة بنا والموافقة عليها، والتي تنطبق على تطبيقات Xiaomi المثبتة مسبقًا (على سبيل المثال: المعرض، موسيقى Mi، فيديو Mi، الثيمات، متصفح Mi، وما إلى ذلك). نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة. بمجرد تنشيط جهازك، ستتصل الخدمات التالية بالشبكة وتصل إلى بيانات موقعك:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">يجب عليك قراءة والموافقة على اتفاقية المستخدم وسياسة الخصوصية قبل استخدام النظام. نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة. بمجرد تنشيط جهازك، ستتصل الخدمات التالية بالشبكة وستصل إلى معلومات موقعك:</string>
     <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">خلفية الشاشة</string>
-    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 يجب عليك الموافقة على سياسة خصوصية Facemoji قبل استخدام هذه الميزة."</string>

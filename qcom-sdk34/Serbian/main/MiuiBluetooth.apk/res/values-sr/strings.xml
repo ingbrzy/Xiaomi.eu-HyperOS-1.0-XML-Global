@@ -116,8 +116,6 @@
     <string name="fast_connect_device_title_connecting">Повезивање…</string>
     <string name="fast_connect_device_title_find_headset">Пронађи %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Изгледа да уређај није Ваш: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Повезано</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Камера</string>
     <string name="fast_connect_new_feture_anti_lost">Без упозорења за слушалице</string>
     <string name="fast_connect_new_feture_same_account">Повежите синхронизоване уређаје</string>
     <string name="fast_connect_new_feture_sound_normalizer">Бољи звук</string>
@@ -211,7 +209,6 @@
     <string name="headset_download_fw">Ажурирај</string>
     <string name="headset_downloading">Преузимање</string>
     <string name="headset_downloading_indicate">Преузимање…</string>
-    <string name="headset_dual_device">Слушалице су повезане аутоматски. Двострука веза је искључена.</string>
     <string name="headset_find_new_version">Доступно је ажурирање</string>
     <string name="headset_finish_fw">Успешно ажурирано</string>
     <string name="headset_finish_fw_failed">Дошло је до грешке</string>
@@ -229,8 +226,8 @@
     <string name="headset_updating">Aжурирање</string>
     <string name="information_go_to_fitness">Повезана подешавања можете пронаћи у Mi Fitness-у</string>
     <string name="install_package">Инсталирајте %1$s за више функција</string>
-    <string name="lea_disable_successfully">Пребачено на редовни Bluetooth</string>
-    <string name="lea_enable_successfully">Пребачено на Bluetooth LE Audio</string>
+    <string name="lea_disable_successfully">Обичан Bluetooth се сада користи за повезивање слушалица и аудио пренос</string>
+    <string name="lea_enable_successfully">LE Audio се сада користи за повезивање слушалица и аудио пренос</string>
     <string name="mi_audio_relay_cancel">OK</string>
     <string name="mi_audio_relay_connect_failed">Покушај опет</string>
     <string name="mi_audio_relay_localphone">Овај уређај</string>
@@ -280,7 +277,6 @@
     <string name="miuix_appcompat_delete_description">Oбриши</string>
     <string name="miuix_appcompat_deselect_all">Поништи избор</string>
     <string name="miuix_appcompat_deselect_all_description">Опозови све</string>
-    <string name="miuix_appcompat_edit">Уреди</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Откажи</string>
     <string name="miuix_appcompat_search_input_description">Тражи</string>
     <string name="miuix_appcompat_select_all">Изабери све</string>

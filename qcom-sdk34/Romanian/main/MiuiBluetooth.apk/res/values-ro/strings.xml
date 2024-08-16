@@ -116,8 +116,6 @@ Verificați setările pentru detalii."</string>
     <string name="fast_connect_device_title_connecting">Se conectează…</string>
     <string name="fast_connect_device_title_find_headset">Găsește %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Se pare că acest dispozitiv nu este al dvs.: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Conectat</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Cameră</string>
     <string name="fast_connect_new_feture_anti_lost">Alertă pentru căști lipsă</string>
     <string name="fast_connect_new_feture_same_account">Conectați dispozitivele sincronizate</string>
     <string name="fast_connect_new_feture_sound_normalizer">Sunet mai bun</string>
@@ -211,7 +209,6 @@ Protocol de conexiune mai rapid."</string>
     <string name="headset_download_fw">Actualizează</string>
     <string name="headset_downloading">Se descarcă</string>
     <string name="headset_downloading_indicate">Se descarcă…</string>
-    <string name="headset_dual_device">Căștile conectate automat. Conexiunea duală este dezactivată.</string>
     <string name="headset_find_new_version">O actualizare este disponibilă</string>
     <string name="headset_finish_fw">Actualizat cu succes</string>
     <string name="headset_finish_fw_failed">A apărut o eroare</string>
@@ -229,8 +226,8 @@ Protocol de conexiune mai rapid."</string>
     <string name="headset_updating">Actualizare</string>
     <string name="information_go_to_fitness">Puteți găsi setările aferente în Mi Fitness</string>
     <string name="install_package">Instalează %1$s pentru mai multe funcții</string>
-    <string name="lea_disable_successfully">Schimbat la Bluetooth obișnuit</string>
-    <string name="lea_enable_successfully">Schimbat la Bluetooth LE Audio</string>
+    <string name="lea_disable_successfully">Bluetooth-ul obișnuit este acum folosit pentru conectarea căștilor și transmisia audio</string>
+    <string name="lea_enable_successfully">LE Audio este acum folosit pentru conectarea căștilor și transmisia audio</string>
     <string name="mi_audio_relay_cancel">OK</string>
     <string name="mi_audio_relay_connect_failed">Încercați din nou</string>
     <string name="mi_audio_relay_localphone">Acest dispozitiv</string>
@@ -280,7 +277,6 @@ Protocol de conexiune mai rapid."</string>
     <string name="miuix_appcompat_delete_description">Șterge</string>
     <string name="miuix_appcompat_deselect_all">Deselectează tot</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectează tot</string>
-    <string name="miuix_appcompat_edit">Editează</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Anulează</string>
     <string name="miuix_appcompat_search_input_description">Caută</string>
     <string name="miuix_appcompat_select_all">Selectează tot</string>

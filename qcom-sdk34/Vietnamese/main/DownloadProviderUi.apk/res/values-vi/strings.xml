@@ -34,7 +34,6 @@
     <string name="abc_toolbar_collapse_description">Thu gọn</string>
     <string name="about">Giới thiệu</string>
     <string name="actionbar_button_up_description">Quay lại</string>
-    <string name="ad_flag_text">QC</string>
     <string name="add_download_download">Tải xuống</string>
     <string name="add_download_error_not_support">Liên kết này không được hỗ trợ</string>
     <string name="add_download_text_hint">Nhập liên kết HTTP/HTTPS</string>
@@ -292,9 +291,6 @@
     <string name="month_september_shortest">Thg 9</string>
     <string name="more">Thêm</string>
     <string name="morning">Buổi sáng</string>
-    <string name="native_body">Nội dung</string>
-    <string name="native_headline">Tiêu đề</string>
-    <string name="native_media_view">Nội dung nghe nhìn</string>
     <string name="new_file_notification_title_image">Ảnh</string>
     <string name="night">Buổi tối</string>
     <string name="no_downloads">Không có tập tin nào</string>
@@ -361,7 +357,6 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="skip_ad">Bỏ qua</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Chủ nhật</string>
@@ -424,7 +419,6 @@
     <string name="v7_preference_off">TẮT</string>
     <string name="v7_preference_on">BẬT</string>
     <string name="version">Phiên bản %s</string>
-    <string name="watermark_label_prefix">AdMob –</string>
     <string name="wednesday">Thứ tư</string>
     <string name="wednesday_short">Th 4</string>
     <string name="wednesday_shortest">Th 4</string>

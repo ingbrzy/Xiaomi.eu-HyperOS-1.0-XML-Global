@@ -996,8 +996,8 @@ Nadal możesz wykonywać połączenia alarmowe."</string>
     <string name="mobile_networks">Ustawienia sieci komórkowej</string>
     <string name="mobile_property">Właściwości sieci komórkowej</string>
     <string name="mobile_settings_screen_title">Dane mobilne</string>
-    <string name="mobile_special_network_optimization_config_summary">Inteligentnie postrzegaj wiele scenariuszy w sieci, aby poprawić jakość komunikacji</string>
-    <string name="mobile_special_network_optimization_config_title">Tryb adaptacji sceny</string>
+    <string name="mobile_special_network_optimization_config_summary">Popraw jakość połączeń, automatycznie dostosowując się do różnych scen</string>
+    <string name="mobile_special_network_optimization_config_title">Dostosuj się do różnych scen</string>
     <string name="modem_dialog_body">Sieć komórkowa jest niestabilna, co może powodować przerwy w dostępie i problemy z siecią. Wysłać zgłoszenie błędu w celu analizy? Zgłoszenie to może zawierać Twoje informacje osobiste. Twoje zgłoszenie będzie wykorzystane w celu naprawy błędu i nigdy nie będzie udostępniane w celach marketingowych.</string>
     <string name="modem_dialog_title">Sieć komórkowa jest niestabilna</string>
     <string name="monday">Poniedziałek</string>
@@ -1569,7 +1569,6 @@ Interfejs UT: %5$s"</string>
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">Wyjdź teraz</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">Niski stan baterii</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">Nie pokazuj ponownie</string>

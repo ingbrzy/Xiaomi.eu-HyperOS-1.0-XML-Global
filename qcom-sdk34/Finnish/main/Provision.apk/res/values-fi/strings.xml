@@ -724,10 +724,9 @@ Voit hallita tätä ominaisuutta kohdassa Asetukset > Salasanat &amp; tietoturva
     <string name="terms_of_use_label_translation">Käännöspalvelu</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">Järjestelmäpäivityspalvelu (tarkistaa päivitykset verkosta ja ilmoittaa uusista versioista)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">Ennen kuin käytät järjestelmää, lue ja hyväksy käyttäjäsopimuksemme ja tietosuojakäytäntömme, jotka kattavat laitteellesi esiasennettuja Xiaomi-sovelluksia (esim. Galleria, Mi Musiikki, Mi Selain, Mi Video, Teemat jne.). Suojaamme henkilötietojasi asiaankuuluvien lakien, määräysten ja tietosuojakäytäntöjen mukaisesti. Kun laitteesi aktivoidaan, seuraavat palvelut muodostavat yhteyden verkkoon ja pääsevät sijaintiisi:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Ennen järjestelmän käyttöä sinun on luettava ja hyväksyttävä käyttöehtomme ja tietosuojakäytäntömme. Suojaamme henkilötietojasi asiaankuuluvien lakien, asetusten ja tietosuojakäytäntöjen mukaisesti. Kun laitteesi aktivoidaan, seuraavat palvelut muodostavat yhteyden verkkoon ja käyttävät sijaintiasi:</string>
     <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Taustakuva</string>
-    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Sinun on hyväksyttävä Facemoji-tietosuojakäytäntö ennen tämän ominaisuuden käyttämistä."</string>

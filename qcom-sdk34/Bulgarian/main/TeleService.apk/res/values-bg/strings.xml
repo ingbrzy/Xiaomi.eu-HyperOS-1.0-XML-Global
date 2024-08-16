@@ -1001,8 +1001,8 @@
     <string name="mobile_networks">Настройки на мобилната мрежа</string>
     <string name="mobile_property">Свойства на мобилната мрежа</string>
     <string name="mobile_settings_screen_title">Мобилни данни</string>
-    <string name="mobile_special_network_optimization_config_summary">Интелигентно предвиждане на множество варианти в мрежата с цел подобряване на комуникационното преживяване</string>
-    <string name="mobile_special_network_optimization_config_title">Режим на адаптиране към пейзажа</string>
+    <string name="mobile_special_network_optimization_config_summary">Повишете качеството на повикванията чрез автоматично адаптиране към различни среди</string>
+    <string name="mobile_special_network_optimization_config_title">Адаптиране към различни среди</string>
     <string name="modem_dialog_body">Мобилната връзка не е стабилна поради мрежови или други проблеми. Да се изпрати ли доклад за грешка до Mi за анализ? Този доклад може да съдържа лична информация. Вашият доклад ще се използва за премахване на грешката и никога няма да се споделя с комерсиална цел.</string>
     <string name="modem_dialog_title">Връзката през мобилни данни не е стабилна</string>
     <string name="monday">Понеделник</string>
@@ -1574,7 +1574,6 @@ Wi-Fi телефония: %3$s
     <string name="satellite_camera_enable_toast">Затворете Камерата, преди да отворите Сателитните комуникации Tiantong</string>
     <string name="satellite_exit_now_battery">Излизане сега</string>
     <string name="satellite_findout_settings_title">За Сателитни комуникации Tiantong</string>
-    <string name="satellite_low_battery_reminder">Изтощена батерия</string>
     <string name="satellite_mobile_settings_summary">Поддържа само сателитни SIM карти от China Telecom или други поддържани оператори</string>
     <string name="satellite_mobile_settings_title">Активиране на сателитни комуникации</string>
     <string name="satellite_not_show_again">Не показвай отново</string>

@@ -116,8 +116,6 @@ Tarkista tiedot kohdasta Asetukset."</string>
     <string name="fast_connect_device_title_connecting">Yhdistetään…</string>
     <string name="fast_connect_device_title_find_headset">Etsi %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Näyttää siltä, että tämä laite ei ole sinun: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Yhdistetty</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Kamera</string>
     <string name="fast_connect_new_feture_anti_lost">Hälytys hävinneestä kuulokkeesta</string>
     <string name="fast_connect_new_feture_same_account">Yhdistä synkronoidut laitteet</string>
     <string name="fast_connect_new_feture_sound_normalizer">Parempi ääni</string>
@@ -211,7 +209,6 @@ Nopeampi yhteysprotokolla."</string>
     <string name="headset_download_fw">Päivitä</string>
     <string name="headset_downloading">Ladataan</string>
     <string name="headset_downloading_indicate">Ladataan…</string>
-    <string name="headset_dual_device">Kuulokkeet yhdistettiin automaattisesti. Kaksoisyhteys on pois päältä.</string>
     <string name="headset_find_new_version">Päivitys saatavilla</string>
     <string name="headset_finish_fw">Päivitetty onnistuneesti</string>
     <string name="headset_finish_fw_failed">Tapahtui virhe</string>
@@ -229,8 +226,8 @@ Nopeampi yhteysprotokolla."</string>
     <string name="headset_updating">Päivitetään</string>
     <string name="information_go_to_fitness">Löydät vastaavat asetukset Mi Fitnessistä</string>
     <string name="install_package">Asenna %1$s saadaksesi lisää ominaisuuksia</string>
-    <string name="lea_disable_successfully">Vaihdettu tavalliseen Bluetoothiin</string>
-    <string name="lea_enable_successfully">Vaihdettu Bluetooth LE Audioon</string>
+    <string name="lea_disable_successfully">Tavallista Bluetoothia käytetään nyt kuulokkeiden liittämiseen ja äänen siirtoon</string>
+    <string name="lea_enable_successfully">LE Audiota käytetään nyt kuulokkeiden liittämiseen ja äänen siirtoon</string>
     <string name="mi_audio_relay_cancel">OK</string>
     <string name="mi_audio_relay_connect_failed">Yritä uudelleen</string>
     <string name="mi_audio_relay_localphone">Tämä laite</string>
@@ -280,7 +277,6 @@ Nopeampi yhteysprotokolla."</string>
     <string name="miuix_appcompat_delete_description">Poista</string>
     <string name="miuix_appcompat_deselect_all">Kumoa kaikkien valinta</string>
     <string name="miuix_appcompat_deselect_all_description">Kumoa kaikkien valinta</string>
-    <string name="miuix_appcompat_edit">Muokkaa</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Peruuta</string>
     <string name="miuix_appcompat_search_input_description">Etsi</string>
     <string name="miuix_appcompat_select_all">Valitse kaikki</string>

@@ -218,7 +218,7 @@ ja siirrä sitten vetämällä"</string>
 ·Napauta \"Kelluvat ikkunat\" kohdassa Viimeaikaiset valitaksesi sovelluksia."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Napauta sovellusta sivupalkissa avataksesi sen kelluvassa ikkunassa.
 · Vedä sovellus näytön keskelle avataksesi sen kelluvassa ikkunassa tai sivulle, jos haluat käyttää jaettua näyttöä."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Vedä sovellus sivupalkista näytön keskelle avataksesi sen kelluvassa ikkunassa tai sivulle käyttääksesi jaettua näyttöä</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Vedä sovellus sivupalkista näytön keskelle avataksesi sen kelluvassa ikkunassa tai sivulle käyttääksesi jaettua näyttöä</string>
     <string name="freeform_vedio_description_pad">Avaa kelluvia ikkunoita vetämällä kohteita ulos telakasta</string>
     <string name="friday">Perjantai</string>
     <string name="friday_short">Pe</string>
@@ -266,7 +266,6 @@ ja siirrä sitten vetämällä"</string>
     <string name="miuix_appcompat_delete_description">Poista</string>
     <string name="miuix_appcompat_deselect_all">Kumoa kaikkien valinta</string>
     <string name="miuix_appcompat_deselect_all_description">Kumoa kaikkien valinta</string>
-    <string name="miuix_appcompat_edit">Muokkaa</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Peruuta</string>
     <string name="miuix_appcompat_search_input_description">Etsi</string>
     <string name="miuix_appcompat_select_all">Valitse kaikki</string>

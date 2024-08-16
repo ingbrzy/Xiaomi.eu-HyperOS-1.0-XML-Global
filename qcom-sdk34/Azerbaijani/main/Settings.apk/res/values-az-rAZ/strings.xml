@@ -174,26 +174,6 @@
     <string name="aod_style_description">Ekran söndürüldükdə saat, tarix, vaxt, bildirişlər və digər elementləri göstərin</string>
     <string name="aod_style_title">Üslub</string>
     <string name="aod_to_close">Söndür</string>
-    <string name="aon_gesture_cue_tone_summary">Ovucunuz aşkar edildikdə təsdiqləmə səsini çalın</string>
-    <string name="aon_gesture_cue_tone_title">Təsdiq səsini çalın</string>
-    <string name="aon_gesture_dialog_message">Bu funksiya aktiv olduqda, bu cihaz jestlərinizi aşkar edəcək və təhlil edəcək. Şəxsi məlumatlarınız işlənməyəcək, heç bir məlumat yerli və ya cloud-da saxlanmayacaq.</string>
-    <string name="aon_gesture_dialog_title">Gizlilik sazişi</string>
-    <string name="aon_gesture_double_press_summary">Oynadın və oynatmanı dayandırın</string>
-    <string name="aon_gesture_double_press_title">İki dəfə basmaqla hərəkət edin</string>
-    <string name="aon_gesture_draw_circle_summary_pad">Planşetə köçürülmüş zənglərə cavab verin və ya bitirin</string>
-    <string name="aon_gesture_draw_circle_summary_phone">Zənglərə cavab verin və bitirin</string>
-    <string name="aon_gesture_draw_circle_title">Bir dairə çəkin</string>
-    <string name="aon_gesture_enable_summary" formatted="false">Əlinizi kameradan %d - %d sm məsafədə tutun və ekranın yuxarısında əl işarəsi göründükdən sonra jestlər edin</string>
-    <string name="aon_gesture_learn_title">Jestləri öyrən</string>
-    <string name="aon_gesture_left_right_waving_summary">Oxutma prosesini tənzimləyin və mahnılar arasında keçid edin</string>
-    <string name="aon_gesture_left_right_waving_title">Üfüqi dalğa</string>
-    <string name="aon_gesture_settings">Təmassız jestlər</string>
-    <string name="aon_gesture_status_close">Bağlı</string>
-    <string name="aon_gesture_status_open">Açıq</string>
-    <string name="aon_gesture_supported_app_title">Dəstəklənən tətbiqlər</string>
-    <string name="aon_gesture_supported_title">Mövcud jestlər</string>
-    <string name="aon_gesture_up_down_waving_summary">Media səsini tənzimləyin, qısa videolar arasında keçid edin və səhifələri sənədlərə çevirin</string>
-    <string name="aon_gesture_up_down_waving_title">Şaquli dalğa</string>
     <string name="ap_connect_failed">Qoşula bilmədi</string>
     <string name="ap_connected_battery_level">" | Batareya %1$s"</string>
     <string name="ap_p2p_dialog_message">Cari paylaşılan Wi-Fi bağlantısı artıq istifadə olunur. Şəxsi giriş nöqtənizi açmazdan əvvəl Wi-Fi Direct, Mi Share, yayım və ya digər simsiz ötürmə xidmətlərindən istifadə etmədiyinizə əmin olun.</string>
@@ -789,10 +769,21 @@ Bu xüsusiyyəti Tənzimləmələr> Bluetooth > Cütləşdirilmiş cihazlar meny
     <string name="camera_front">Ön %s</string>
     <string name="camera_grip_firmware_need_update">Yeniləmə</string>
     <string name="camera_grip_firmware_new_version">Yenilənib</string>
+    <string name="camera_grip_firmware_save_button_know">Başa düşdüm</string>
+    <string name="camera_grip_firmware_save_button_negaitive">İndi yox</string>
+    <string name="camera_grip_firmware_save_button_positive">Yenilə</string>
+    <string name="camera_grip_firmware_save_channel">Kamera tutma bildirişləri</string>
+    <string name="camera_grip_firmware_save_networking_tips">Wi-Fi-a qoşulun və ya mobil trafiki açın və proqram təminatını yenidən güncəlləməyə cəhd edin.</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">Bu cihazı istifadə etməyə davam etmək üçün proqram təminatını yeniləyin.</string>
+    <string name="camera_grip_firmware_save_title">Professional kamera tutuşu</string>
     <string name="camera_grip_firmware_title_text">Proqram təminatını yeniləyin</string>
     <string name="camera_grip_firmware_update_describe">Yeniləmə prosesi boyunca tutacağı bağlı saxlayın</string>
     <string name="camera_grip_firmware_update_faild">Yenilənə bilmədi</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">Kamera tutacağını çıxarın, bu cihazı doldurun, sonra mikroproqramı yenidən güncəlləməyə cəhd edin</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">Proqram təminatını yeniləməzdən əvvəl bu cihazı və kamera tutacağını doldurun</string>
     <string name="camera_grip_firmware_update_ongoing">Yenilənir. Tutmağı ayırmayın.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">Adapteri bu cihaza qoşun və proqram təminatını yenidən yeniləməyə cəhd edin</string>
     <string name="camera_grip_firmware_update_successful">Uğurla yeniləndi</string>
     <string name="camera_key_action_app_title">Tətbiq aç</string>
     <string name="camera_key_action_category_title">Kamera istifadə edilə bilmir</string>
@@ -1412,7 +1403,6 @@ Bu, itirilmiş və ya oğurlanmış cihazlarda məlumatları qorumağa kömək e
     <string name="error_apn_restrict_string">APN sahəsi %1$s ehtiva edə bilməz</string>
     <string name="error_xcap_not_add">XCAP-dan müraciət nöqtəsi adı növü kimi istifadə edilə bilməz.</string>
     <string name="ethernet_tether_checkbox_text">Ethernet ilə paylaş</string>
-    <string name="ethernet_tethering_subtext">Telefonun şəbəkə bağlantısını Ethernet vasitəsilə paylaşın</string>
     <string name="evening">Günortadan sonra</string>
     <string name="every_day">Hər gün</string>
     <string name="exceptional_case">İstisnalar</string>
@@ -2296,10 +2286,6 @@ Xiaomi Cloud-u açın və elementləri oradan bərpa edin."</string>
     <string name="load_esim_info">eSIM məlumatı əldə edilir…</string>
     <string name="load_esim_info_error">eSIM məlumatını yükləmək mümkün olmadı. Bir-iki dəqiqə gözləyin və yenidən cəhd edin.</string>
     <string name="loading">Bir saniyə…</string>
-    <string name="loading_eid_error_message">EID məlumatı alına bilmədi, bir və ya iki dəqiqə gözləyin və yenidən cəhd edin.</string>
-    <string name="loading_eid_error_ok">Başa düşdüm</string>
-    <string name="loading_eid_error_title">Yüklənə bilmədi</string>
-    <string name="loading_eid_tip">EID məlumatı əldə edilir…</string>
     <string name="local_auto_backup_off">Bağlı</string>
     <string name="local_auto_backup_on">Açıq</string>
     <string name="local_auto_backup_section_title">Avtomatik yedəkləmələr</string>
@@ -2453,6 +2439,8 @@ Birinci sahə PIN-i ilə eyni uzunluqda olmalıdır."</string>
     <string name="login_action">Daxil ol</string>
     <string name="long_press_back_key">Geri düyməsinə uzun basın</string>
     <string name="long_press_buttom_key">Kilid ekranında Əsas ekran düyməsinə uzun basın</string>
+    <string name="long_press_editor_style_summary">Saatı və divar kağızını redaktə etmək üçün Kilid ekranını sıx və saxla</string>
+    <string name="long_press_editor_style_title">Redaktə etmək üçün sıx və saxla</string>
     <string name="long_press_home_key">Əsas ekran düyməsinə uzun basın</string>
     <string name="long_press_menu_key">Menyu düyməsinə uzun basın</string>
     <string name="long_press_menu_key_when_lock">Kilid ekranında Menyu düyməsinə uzun bas</string>
@@ -2840,8 +2828,6 @@ Bu hərəkəti geri qaytara bilməyəcəksiniz."</string>
     <string name="miui_type_style_title">Yazma stili</string>
     <string name="miui_updater">Sistem yeniləmə</string>
     <string name="miui_userguide">İstifadəçi təlimatı</string>
-    <string name="miui_visual_perception_summary">Cihazınızın varlığınızı hiss etməsini və daha rahat kilidləmə və kiliddən çıxarma seçimlərini seçməsini təmin edin</string>
-    <string name="miui_visual_perception_title">Aktiv vizual qavrayış</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Bütün seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
@@ -3342,8 +3328,10 @@ Bu xidmətdən istifadə etməzdən əvvəl %s-i oxuyun və qəbul edin."</strin
     <string name="phone_call_noise_suppression">Zəng vaxtı səs-küyün qarşısını alma</string>
     <string name="photo_data">Şəkillər və videolar</string>
     <string name="photography_handle_button_function_settings">Tutma düyməsini qurun</string>
-    <string name="photography_handle_charge_protected">Tutuşun doldurulması avtomatik ayrılması</string>
-    <string name="photography_handle_charge_protected_summary">Cihazınız kamera tutacağından istifadə etdiyinizi tanıdıqda, cihaz şarj etməyi dayandıracaq və batareyanı %1$s səviyyəsində saxlayacaq.</string>
+    <string name="photography_handle_charge_protected">Tutuşun doldurulmasından qorunma</string>
+    <string name="photography_handle_charge_protected_summary">Kamera tutacağı qoşulduqda cihaz şarj etməyi dayandıracaq və batareyanı %1$s səviyyəsində saxlayacaq.</string>
+    <string name="photography_handle_charge_state">Kamera tutacaqlarından doldurun</string>
+    <string name="photography_handle_charge_state_summary">Bu cihazı hər dəfə qoşulduqda kamera tutacaqlarından doldurun</string>
     <string name="photography_handle_launch_and_take_photo">Şəkil çək</string>
     <string name="photography_handle_launch_camera">Kameranı aç</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Hərəkəti yerinə yetirmək üçün çəkim düyməsini basıb saxlayın</string>
@@ -3407,8 +3395,10 @@ Bu xidmətdən istifadə etməzdən əvvəl %s-i oxuyun və qəbul edin."</strin
     <string name="pref_operational_key">Naviqasiya düymələri</string>
     <string name="pref_show_lunar_calendar_title">Kilid ekranında ənənəvi Çin təqvimini göstər</string>
     <string name="pref_title_update_notification">Trafik haqqında bildirişlər</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Ekran kilidlənəndə, Kameranı açmaq və şəkil çəkmək üçün Səsi azaltın iki dəfə üstündən vur</string>
     <string name="pref_volume_launch_camera_summary">Kameranı başlatmaq üçün səs səviyyəsini azaltma düyməsinə iki dəfə basın</string>
     <string name="pref_volume_launch_camera_title">Kameranı başlat</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">Ekran kilidlənəndə, Kameranı açmaq üçün Səsi azaltın iki dəfə üstündən vur</string>
     <string name="pref_volume_wake_summary">Səs səviyyəsi düymələrinə basmaq cihazı oyandırır</string>
     <string name="pref_volume_wake_title">Səs səviyyəsi düymələri ilə oyandır</string>
     <string name="preference_toggle_nfc_dnd_mode_summary">Tanınmamış NFC etiketləri haqqında heç bir bildiriş almayın</string>
@@ -3636,6 +3626,8 @@ Bu xidmətdən istifadə etməzdən əvvəl %s-i oxuyun və qəbul edin."</strin
     <string name="runtime_permissions_summary_control_app_access">Tətbiqlərin məlumatlarınıza müraciətini idarə edin</string>
     <string name="safe_install_mode_settings">Təhlükəsiz rejim</string>
     <string name="sar">RF Fokuslama Məlumatları</string>
+    <string name="satellite_call_assistant">Zəng tənzimləmələri</string>
+    <string name="satellite_network_title">Peyk zəngi xüsusiyyətləri</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Ş.</string>
     <string name="saturday_shortest">Ş.</string>
@@ -3659,7 +3651,6 @@ Bu xidmətdən istifadə etməzdən əvvəl %s-i oxuyun və qəbul edin."</strin
     <string name="screen_dark_mode_select_time_error_summary">Başlanğıc və bitiş vaxtı eyni ola bilməz</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Bəzi tətbiqlər qaranlıq rejimdə yanlış göstərilə bilər. Buradakı fərdi tətbiqlər üçün Qaranlıq rejim istifadə etməyi məhdudlaşdıra bilərsiniz.</string>
     <string name="screen_dark_mode_smart_dark_title">Qlobal qaranlıq rejim</string>
-    <string name="screen_dark_mode_time_summary">Ekranı söndürdüyünüz zaman planlaşdırılmış vaxtda cihazınız Qaranlıq rejimə keçəcək</string>
     <string name="screen_dark_mode_time_title">Qaranlıq rejimini planlaşdır</string>
     <string name="screen_effect">Rəng sxemi</string>
     <string name="screen_effect_adapt_color_summary">Rəngləri mövcud işıqlandırmaya görə tənzimlə</string>
@@ -4253,6 +4244,11 @@ Sonuncuları açmaq üçün iki dəfə toxunun."</string>
     <string name="sms_received_sound_title">Alınan mesaj</string>
     <string name="softbank_apn_lock_toast">APN kilidlidir. Redaktə etmək olmur.</string>
     <string name="solid_text">Möhkəm, güclü jest təcrübəsi yaratmaq üçün aşağı tezlikli toxunma rəyindən və müvafiq vizual keçidlərdən istifadə edir</string>
+    <string name="sos_add_area_code_switch_summary">Tiantong Peyk rabitəsi ilə təcili zəng edərkən ərazi kodunu avtomatik olaraq telefon nömrəsinə əlavə edin</string>
+    <string name="sos_add_area_code_switch_title">Ərazi kodunu avtomatik əlavə edin</string>
+    <string name="sos_area_code_settings_hint">Ərazi kodunu daxil edin</string>
+    <string name="sos_area_code_settings_summary">Fövqəladə hal kontaktınızın telefon nömrəsinin ərazi kodunu əl ilə təyin edin</string>
+    <string name="sos_area_code_settings_title">Ərazi kodunu təyin edin</string>
     <string name="sos_phone_call_privacy_dialog_message">"Təcili kontaktlarınıza zəng etmək və SOS qeydini oynatmaq üçün bu tətbiqə aşağıdakı icazələr lazımdır:
 •Zəng etmək
 Fövqəladə kontaktlarınıza zəng etmək
@@ -4910,10 +4906,6 @@ Söz əlavə etmək üçün toplama işarəsinə toxunun."</string>
     <string name="user_grant_admin_message">Adminlərin digər istifadəçilərin olmayan xüsusi imtiyazları var. Admin bütün istifadəçiləri idarə edə, bu cihazı yeniləyə və ya sıfırlaya, tənzimləməri dəyişdirə, quraşdırılmış bütün tətbiqlərə baxa və başqaları üçün admin imtiyazları verə və ya ləğv edə bilər.</string>
     <string name="user_grant_admin_title">Bu istifadəçi admin edilsin?</string>
     <string name="user_settings_forbidden">Mövcud sahədə idarəçi tənzimləmələri dəyişdirilmir. Birinci sahəyə geri qayıdın.</string>
-    <string name="valid_net_access">Şəbəkəyə giriş etimadnaməsinə baxın</string>
-    <string name="valid_net_ok">OLDU</string>
-    <string name="valid_net_result_fail">Məlumat alına bilmədi, bir və ya iki dəqiqə gözləyin və yenidən cəhd edin.</string>
-    <string name="valid_net_result_title">Nəticə</string>
     <string name="vibrate_category_title">Titrəyiş</string>
     <string name="vibrate_in_normal_title">Çalarkən titrət</string>
     <string name="vibrate_in_silent_title">Səssiz rejimdə titrət</string>
@@ -5313,7 +5305,6 @@ digər istifadəçilərin şəbəkələrini də istifadə edə bilərsiniz."</st
     <string name="wifi_wps_overlap_error">Başqa bir Wi-Fi sessiyası aşkar edildi. Bir və ya iki dəqiqə gözləyin və yenidən cəhd edin.</string>
     <string name="wifi_wps_setup_title">Wi-Fi Qorumalı Quraşdırma</string>
     <string name="wireless_connected">Qoşuldu</string>
-    <string name="wireless_display">Simsiz ekran</string>
     <string name="wireless_off">Bağlı</string>
     <string name="wireless_on">Açıq</string>
     <string name="wlan_scanner_unresizeble">Bölünmüş ekran rejimində Wi-Fi tənzimləmələrini göstərmək olmur</string>

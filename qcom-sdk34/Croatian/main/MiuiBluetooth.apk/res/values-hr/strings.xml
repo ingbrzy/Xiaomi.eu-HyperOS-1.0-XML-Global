@@ -116,8 +116,6 @@
     <string name="fast_connect_device_title_connecting">Povezivanje…</string>
     <string name="fast_connect_device_title_find_headset">Pronađi %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Čini se da ovo nije Vaš uređaj: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Povezano</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Fotoaparat</string>
     <string name="fast_connect_new_feture_anti_lost">Nema slušalice za uho</string>
     <string name="fast_connect_new_feture_same_account">Povežite sinkronizirane uređaje</string>
     <string name="fast_connect_new_feture_sound_normalizer">Bolji zvuk</string>
@@ -211,7 +209,6 @@ Protokol brže veze."</string>
     <string name="headset_download_fw">Ažuriraj</string>
     <string name="headset_downloading">Preuzimanje</string>
     <string name="headset_downloading_indicate">Preuzimanje…</string>
-    <string name="headset_dual_device">Slušalice su spojene automatski. Dvostruka veza je isključena.</string>
     <string name="headset_find_new_version">Ažuriranje je dostupno</string>
     <string name="headset_finish_fw">Uspješno ažurirano</string>
     <string name="headset_finish_fw_failed">Došlo je do greške</string>
@@ -229,8 +226,8 @@ Protokol brže veze."</string>
     <string name="headset_updating">Ažuriranje</string>
     <string name="information_go_to_fitness">Povezane postavke možete pronaći u Mi Fitnessu</string>
     <string name="install_package">Instaliraj %1$s za više radnji</string>
-    <string name="lea_disable_successfully">Prešao na obični Bluetooth</string>
-    <string name="lea_enable_successfully">Prebacio se na Bluetooth LE Audio</string>
+    <string name="lea_disable_successfully">Obični Bluetooth sada se koristi za povezivanje slušalica i prijenos zvuka</string>
+    <string name="lea_enable_successfully">LE Audio se sada koristi za spajanje slušalica i prijenos zvuka</string>
     <string name="mi_audio_relay_cancel">OK</string>
     <string name="mi_audio_relay_connect_failed">Pokušajte ponovno</string>
     <string name="mi_audio_relay_localphone">Ovaj uređaj</string>
@@ -280,7 +277,6 @@ Protokol brže veze."</string>
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Poništi sve</string>
     <string name="miuix_appcompat_deselect_all_description">Poništi sve</string>
-    <string name="miuix_appcompat_edit">Uredi</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
     <string name="miuix_appcompat_search_input_description">Traži</string>
     <string name="miuix_appcompat_select_all">Odaberi sve</string>

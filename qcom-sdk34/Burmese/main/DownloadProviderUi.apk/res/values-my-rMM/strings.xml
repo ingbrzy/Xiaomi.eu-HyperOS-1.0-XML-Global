@@ -7,7 +7,6 @@
     <string name="DOWNLOAD_UNIT_TB">TB</string>
     <string name="about">အကြောင်း</string>
     <string name="actionbar_button_up_description">နောက်သို့</string>
-    <string name="ad_flag_text">ကြော်ငြာ</string>
     <string name="add_download_download">ဒေါင်းလုဒ် လုပ်မည်</string>
     <string name="add_download_error_not_support">ဤလင့်ခ်ကို မပံ့ပိုးထားပါ</string>
     <string name="add_download_text_hint">HTTP/HTTPS လင့်ခ်တစ်ခု ရိုက်ထည့်ရန်</string>
@@ -282,7 +281,6 @@
     <string name="size_peta_byte">ပီတာဘိုက်</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">တီရာဘိုက်</string>
-    <string name="skip_ad">ကျော်သွား</string>
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
     <string name="sunday_shortest">တနင်္ဂနွေ</string>

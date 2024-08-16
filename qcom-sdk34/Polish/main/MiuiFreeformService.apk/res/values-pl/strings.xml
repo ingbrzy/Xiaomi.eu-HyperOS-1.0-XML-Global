@@ -218,7 +218,7 @@ przeciągnij, aby przenieść"</string>
 · Wybierz „Pływające okna” w Ostatnich zadaniach, aby wybrać aplikacje."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Dotknij aplikację w panelu bocznym, aby otworzyć ją w pływającym oknie.
 · Przeciągnij aplikację na środek ekranu, aby otworzyć ją w pływającym oknie lub przeciągnij do boku ekranu, aby użyć Podziału ekranu."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Przeciągnij aplikację z panelu bocznego do środka ekranu, aby otworzyć pływające okno lub do boku, aby użyć Podziału ekranu</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Przeciągnij aplikację z panelu bocznego do środka ekranu, aby otworzyć pływające okno lub do boku, aby użyć Podziału ekranu</string>
     <string name="freeform_vedio_description_pad">Przeciągnij elementy z doku, aby otworzyć pływające okna</string>
     <string name="friday">Piątek</string>
     <string name="friday_short">Pt</string>
@@ -266,7 +266,6 @@ przeciągnij, aby przenieść"</string>
     <string name="miuix_appcompat_delete_description">Usuń</string>
     <string name="miuix_appcompat_deselect_all">Odznacz wszystko</string>
     <string name="miuix_appcompat_deselect_all_description">Odznacz wszystko</string>
-    <string name="miuix_appcompat_edit">Edytuj</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Anuluj</string>
     <string name="miuix_appcompat_search_input_description">Szukaj</string>
     <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>

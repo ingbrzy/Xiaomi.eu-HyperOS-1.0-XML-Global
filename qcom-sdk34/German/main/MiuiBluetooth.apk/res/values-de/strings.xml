@@ -116,8 +116,6 @@ Für Details in den Einstellungen nachsehen."</string>
     <string name="fast_connect_device_title_connecting">Verbinden…</string>
     <string name="fast_connect_device_title_find_headset">Finde %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Es scheint, dass dieses Gerät nicht dir gehört: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Verbunden</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Kamera</string>
     <string name="fast_connect_new_feture_anti_lost">Alarm bei fehlendem Kopfhörer</string>
     <string name="fast_connect_new_feture_same_account">Synchronisierte Geräte verbinden</string>
     <string name="fast_connect_new_feture_sound_normalizer">Besserer Ton</string>
@@ -211,7 +209,6 @@ Schnelleres Verbindungsprotokoll"</string>
     <string name="headset_download_fw">Aktualisieren</string>
     <string name="headset_downloading">Wird geladen</string>
     <string name="headset_downloading_indicate">Wird heruntergeladen…</string>
-    <string name="headset_dual_device">Automatisch mit Kopfhörern verbunden. Duale Verbindung ist deaktiviert.</string>
     <string name="headset_find_new_version">Update verfügbar</string>
     <string name="headset_finish_fw">Erfolgreich aktualisiert</string>
     <string name="headset_finish_fw_failed">Ein Fehler ist aufgetreten</string>
@@ -229,8 +226,8 @@ Schnelleres Verbindungsprotokoll"</string>
     <string name="headset_updating">Aktualisiere</string>
     <string name="information_go_to_fitness">Du kannst die entsprechenden Einstellungen in Mi Fitness finden</string>
     <string name="install_package">Installiere %1$s für mehr Funktionen</string>
-    <string name="lea_disable_successfully">Zu normalem Bluetooth gewechselt</string>
-    <string name="lea_enable_successfully">Zu Bluetooth-LE-Audio gewechselt</string>
+    <string name="lea_disable_successfully">Normales Bluetooth wird jetzt für die Kopfhörerverbindung und die Audioübertragung verwendet.</string>
+    <string name="lea_enable_successfully">LE-Audio wird jetzt für den Anschluss von Kopfhörern und die Audioübertragung verwendet.</string>
     <string name="mi_audio_relay_cancel">OK</string>
     <string name="mi_audio_relay_connect_failed">Erneut versuchen</string>
     <string name="mi_audio_relay_localphone">Dieses Gerät</string>
@@ -280,7 +277,6 @@ Schnelleres Verbindungsprotokoll"</string>
     <string name="miuix_appcompat_delete_description">Löschen</string>
     <string name="miuix_appcompat_deselect_all">Auswahl aufheben</string>
     <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
-    <string name="miuix_appcompat_edit">Bearbeiten</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
     <string name="miuix_appcompat_search_input_description">Suchen</string>
     <string name="miuix_appcompat_select_all">Alles auswählen</string>

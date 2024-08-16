@@ -724,10 +724,9 @@ Bạn có thể kiểm soát tính năng này từ Cài đặt > Mật khẩu &a
     <string name="terms_of_use_label_translation">Dịch vụ dịch thuật</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">Dịch vụ Cập nhật Hệ thống (kiểm tra cập nhật trực tuyến và thông báo về các phiên bản mới)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">Trước khi sử dụng hệ thống, đọc và đồng ý với Thỏa thuận Người dùng và Chính sách Riêng tư của chúng tôi, bao gồm các ứng dụng Xiaomi được cài đặt sẵn trên thiết bị của bạn (ví dụ: Thư viện, Nhạc Mi, Trình duyệt Mi, Mi Video, Chủ đề, v.v.). Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật, quy định và chính sách riêng tư có liên quan. Khi thiết bị của bạn được kích hoạt, các dịch vụ sau sẽ kết nối với mạng và truy cập vị trí:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Trước khi sử dụng hệ thống, bạn phải đọc và đồng ý với Thỏa thuận Người dùng và Chính sách Riêng tư của chúng tôi. Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật, quy định và chính sách riêng tư có liên quan. Khi thiết bị của bạn được kích hoạt, các dịch vụ sau sẽ kết nối với mạng và truy cập vị trí:</string>
     <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Hình nền</string>
-    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Bạn phải đồng ý với Chính sách Riêng tư Facemoji trước khi sử dụng tính năng này."</string>

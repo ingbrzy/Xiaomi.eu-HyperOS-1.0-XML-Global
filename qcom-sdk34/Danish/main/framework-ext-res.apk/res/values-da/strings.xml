@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">Standard ringetone (%1$s)</string>
     <string name="android_ringtone_silent">Ingen</string>
     <string name="android_ringtone_unknown">Ukendt ringetone</string>
-    <string name="aon_reader_support_scene_des">Vend sider, mens du læser</string>
-    <string name="aon_video_support_scene_des">Kontrollér videoafspilning</string>
     <string name="app_continuity_channel_name">Justeringer af appens layout</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">Kunne ikke åbne Alipay-betalingskode</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">Computer</string>
     <string name="device_xiaomi">Mi Phone</string>
     <string name="dewdrops">Morgendug</string>
-    <string name="dialog_enable_mic_btn_negative">Annuller</string>
-    <string name="dialog_enable_mic_btn_positive">Tænd</string>
-    <string name="dialog_enable_mic_message">For at kunne bruge denne funktion skal du først tænde for mikrofonen.</string>
-    <string name="dialog_enable_mic_title">Aktivér mikrofon</string>
     <string name="digitaluniverse">Digitalt univers (stereo)</string>
     <string name="disable_nfc">Deaktiverede NFC for at foretage trådløs opladning</string>
     <string name="disable_nfc_haptic_reverse">Deaktiverede NFC og vibration for at foretage omvendt trådløs opladning</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">Cast</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="toast_camera_satellite_mutually_exclusive">Kan ikke bruge kamera, mens der bruges satellitkommunikation</string>
-    <string name="toast_mic_muted">Mikrofon er deaktiveret</string>
-    <string name="toast_mic_unmuted">Mikrofon er aktiveret</string>
-    <string name="tof_music_support_scene_des">Understøtter musikafspillerkontroller</string>
-    <string name="tof_office_support_scene_des">Understøtter Word-dokumenter og PowerPoint-præsentationer</string>
-    <string name="tof_short_video_support_scene_des">Understøtter skift mellem videoer</string>
-    <string name="tof_video_support_scene_des">Understøtter videoafspillerkontroller på fuldskærm</string>
     <string name="total">DND</string>
     <string name="total_description">Slå lyde og vibration fra for alle elementer undtagen vækkeur</string>
     <string name="total_title">DND</string>

@@ -34,7 +34,6 @@
     <string name="abc_toolbar_collapse_description">Sutraukti</string>
     <string name="about">Apie</string>
     <string name="actionbar_button_up_description">Grįžti</string>
-    <string name="ad_flag_text">Reklama</string>
     <string name="add_download_download">Atsisiųsti</string>
     <string name="add_download_error_not_support">Ši nuoroda nėra palaikoma</string>
     <string name="add_download_text_hint">Įveskite HTTP/HTTPS nuorodą</string>
@@ -292,9 +291,6 @@
     <string name="month_september_shortest">Rgs.</string>
     <string name="more">Daugiau</string>
     <string name="morning">Rytas</string>
-    <string name="native_body">Tekstas</string>
-    <string name="native_headline">Antraštė</string>
-    <string name="native_media_view">Medijos rodinys</string>
     <string name="new_file_notification_title_image">Vaizdas</string>
     <string name="night">Vakaras</string>
     <string name="no_downloads">Failų nėra</string>
@@ -361,7 +357,6 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="skip_ad">Praleisti</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Sekmadienis</string>
@@ -424,7 +419,6 @@
     <string name="v7_preference_off">IŠJUNGTA</string>
     <string name="v7_preference_on">ĮJUNGTA</string>
     <string name="version">Versija %s</string>
-    <string name="watermark_label_prefix">„AdMob“ –</string>
     <string name="wednesday">Trečiadienis</string>
     <string name="wednesday_short">Tr.</string>
     <string name="wednesday_shortest">Tr.</string>

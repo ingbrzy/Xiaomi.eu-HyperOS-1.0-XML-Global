@@ -563,7 +563,7 @@ Si quieres cambiar de función, desliza 3 dedos hacia arriba y mantén presionad
 El administrador puede controlar y administrar la configuración, el acceso, las apps, y los datos asociados con este usuario, incluida la información acerca de la actividad de red y la ubicación de tu dispositivo."</string>
     <string name="additional_system_update_settings_list_item_title">Actualizaciones adicionales del sistema</string>
     <string name="adjust_3d_depth_title">Ajustar profundidad 3D en juegos</string>
-    <string name="adjust_font_size_answer_cn">¡Intente ajustar el tamaño del texto y el grosor de la fuente con los controles deslizantes a continuación!</string>
+    <string name="adjust_font_size_answer_cn">¡Intente ajustar el tamaño del texto y el peso de la fuente con los controles deslizantes a continuación!</string>
     <string name="adjust_font_size_answer_global">¡Intente ajustar el tamaño del texto con el control deslizante a continuación!</string>
     <string name="adjust_ligth">Ajuste de brillo</string>
     <string name="adjust_temperature_title">Temperatura del color</string>
@@ -704,26 +704,6 @@ Widget: %2$s
     <string name="aod_style_description">Mostrar reloj, fecha, hora, notificaciones y otros elementos cuando la pantalla está apagada</string>
     <string name="aod_style_title">Estilo</string>
     <string name="aod_to_close">Desactivar</string>
-    <string name="aon_gesture_cue_tone_summary">Reproduce un sonido de confirmación cuando se detecte su palma</string>
-    <string name="aon_gesture_cue_tone_title">Reproducir sonido de confirmación</string>
-    <string name="aon_gesture_dialog_message">Cuando esta función esté activada, este dispositivo detectará y analizará sus gestos. Su información personal no será procesada, ningún dato se almacenará localmente o en la nube.</string>
-    <string name="aon_gesture_dialog_title">Declaración de privacidad</string>
-    <string name="aon_gesture_double_press_summary">Reproduzca y pause la reproducción</string>
-    <string name="aon_gesture_double_press_title">Realizar un movimiento de doble toque</string>
-    <string name="aon_gesture_draw_circle_summary_pad">Conteste o termine llamadas transferidas a la tablet</string>
-    <string name="aon_gesture_draw_circle_summary_phone">Responda y termine llamadas</string>
-    <string name="aon_gesture_draw_circle_title">Hacer un círculo</string>
-    <string name="aon_gesture_enable_summary" formatted="false">Sostenga su mano de %d a %d cm de la cámara y realice los gestos después de que aparezca el ícono de la mano en la parte superior de la pantalla</string>
-    <string name="aon_gesture_learn_title">Aprender gestos</string>
-    <string name="aon_gesture_left_right_waving_summary">Ajuste el progreso de la reproducción y cambie entre canciones</string>
-    <string name="aon_gesture_left_right_waving_title">Saludar horizontalmente</string>
-    <string name="aon_gesture_settings">Gestos sin contacto</string>
-    <string name="aon_gesture_status_close">Desactivado</string>
-    <string name="aon_gesture_status_open">Activado</string>
-    <string name="aon_gesture_supported_app_title">Aplicaciones compatibles</string>
-    <string name="aon_gesture_supported_title">Gestos disponibles</string>
-    <string name="aon_gesture_up_down_waving_summary">Ajuste el volumen multimedia, cambie entre videos cortos y pase páginas de documentos</string>
-    <string name="aon_gesture_up_down_waving_title">Saludar verticalmente</string>
     <string name="ap_connect_failed">No se pudo conectar</string>
     <string name="ap_connected_battery_level">" | %1$s de batería"</string>
     <string name="ap_p2p_dialog_message">La conexión de Wi-Fi compartida ya está en uso. Asegúrese de que no está usando Wi-Fi Direct, Mi Share, emición u otro servicio de transferencia inalámbrica antes de activar su hotspot personal.</string>
@@ -2022,10 +2002,21 @@ Si instalas un Certificado de CA, el propietario podrá acceder a tus datos, com
     <string name="camera_gesture_title">Gira la muñeca dos veces para la cámara</string>
     <string name="camera_grip_firmware_need_update">Actualizar</string>
     <string name="camera_grip_firmware_new_version">Actualizado</string>
+    <string name="camera_grip_firmware_save_button_know">Entendido</string>
+    <string name="camera_grip_firmware_save_button_negaitive">Ahora no</string>
+    <string name="camera_grip_firmware_save_button_positive">Actualizar</string>
+    <string name="camera_grip_firmware_save_channel">Notificaciones del grip de la cámara</string>
+    <string name="camera_grip_firmware_save_networking_tips">Conéctese a Wi-Fi o active los datos móviles e intenta actualizar el firmware de nuevo.</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">Actualice el firmware para continuar usando este dispositivo.</string>
+    <string name="camera_grip_firmware_save_title">Grip de cámara profesional</string>
     <string name="camera_grip_firmware_title_text">Actualizar firmware</string>
     <string name="camera_grip_firmware_update_describe">Mantenga el grip conectado durante todo el proceso</string>
     <string name="camera_grip_firmware_update_faild">No se pudo actualizar</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">Retire el grip de la cámara, cargue este dispositivo y luego intente actualizar el firmware de nuevo</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">Cargue este dispositivo y el grip de su cámara antes de actualizar el firmware</string>
     <string name="camera_grip_firmware_update_ongoing">Actualizando. No desconecte el grip.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">Conecte el cargador a este dispositivo e intente actualizar el firmware de nuevo</string>
     <string name="camera_grip_firmware_update_successful">Actualizado con éxito</string>
     <string name="camera_key_action_app_title">Abrir aplicación</string>
     <string name="camera_key_action_category_title">No puede usar la cámara</string>
@@ -3403,7 +3394,7 @@ Reinicia el dispositivo y vuelve a intentarlo."</string>
     <string name="ethernet_data_template">Datos de Ethernet: ^1</string>
     <string name="ethernet_data_usage">Uso de datos de Ethernet</string>
     <string name="ethernet_tether_checkbox_text">Compartir vía Ethernet</string>
-    <string name="ethernet_tethering_subtext">Comparta la conexión de red del teléfono a través de Ethernet</string>
+    <string name="ethernet_tethering_subtext">Compartir la conexión a Internet del teléfono por Ethernet</string>
     <string name="evening">Tarde</string>
     <string name="every_day">Diario</string>
     <string name="exceptional_case">Excepciones</string>
@@ -4742,10 +4733,6 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="load_esim_info">Obteniendo información de la eSIM…</string>
     <string name="load_esim_info_error">No se pudo cargar la información de la eSIM. Espere uno o dos minutos e inténtelo de nuevo.</string>
     <string name="loading">Un momento…</string>
-    <string name="loading_eid_error_message">No se pudo obtener la información EID. Espere unos minutos e inténtelo de nuevo.</string>
-    <string name="loading_eid_error_ok">Entendido</string>
-    <string name="loading_eid_error_title">No se pudo cargar</string>
-    <string name="loading_eid_tip">Obteniendo información EID…</string>
     <string name="loading_injected_setting_summary">Cargando…</string>
     <string name="local_auto_backup_off">Desactivado</string>
     <string name="local_auto_backup_on">Activado</string>
@@ -5145,6 +5132,8 @@ Si se niega este permiso, el sistema limitará el tiempo que la app puede realiz
     <string name="long_background_tasks_title">Tareas largas en segundo plano</string>
     <string name="long_press_back_key">Mantener presionado el botón Atrás</string>
     <string name="long_press_buttom_key">Mantener presionado Inicio en la pantalla de bloqueo</string>
+    <string name="long_press_editor_style_summary">Mantenga presionada la Pantalla de bloqueo para editar el reloj y el fondo de pantalla</string>
+    <string name="long_press_editor_style_title">Mantenga presionado para editar</string>
     <string name="long_press_home_key">Mantenga presionado el botón Inicio</string>
     <string name="long_press_menu_key">Mantenga presionado el botón Menú</string>
     <string name="long_press_menu_key_when_lock">Mantenga presionado Menú en la pantalla de bloqueo</string>
@@ -5685,8 +5674,6 @@ Continúe para acceder a los ajustes adicionales."</string>
     <string name="miui_type_style_title">Estilo de escritura</string>
     <string name="miui_updater">Actualización del sistema</string>
     <string name="miui_userguide">Guía de usuario</string>
-    <string name="miui_visual_perception_summary">Haga que su dispositivo detecte su presencia y seleccione opciones de bloqueo y desbloqueo más convenientes</string>
-    <string name="miui_visual_perception_title">Percepción visual activa</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
@@ -6645,8 +6632,10 @@ OTG se desactiva automáticamente después de 10 minutos de inactividad."</strin
     <string name="phone_language_summary" />
     <string name="photo_data">Fotos y videos</string>
     <string name="photography_handle_button_function_settings">Configurar botón del grip</string>
-    <string name="photography_handle_charge_protected">Autodesconexión del grip durante la carga</string>
-    <string name="photography_handle_charge_protected_summary">Cuando su dispositivo reconozca que está usando el grip de la cámara, dejará de cargarse y mantendrá la batería en el %1$s</string>
+    <string name="photography_handle_charge_protected">Protección al cargar desde el grip</string>
+    <string name="photography_handle_charge_protected_summary">Cuando el grip de la cámara esté conectado, el dispositivo dejará de cargarse y mantendrá la batería al %1$s</string>
+    <string name="photography_handle_charge_state">Cargar desde el grip de la cámara</string>
+    <string name="photography_handle_charge_state_summary">Cargue este dispositivo desde el grip de la cámara cuando esté conectado</string>
     <string name="photography_handle_launch_and_take_photo">Hacer una foto</string>
     <string name="photography_handle_launch_camera">Abrir la cámara</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Mantenga presionado el botón del disparador para realizar una acción</string>
@@ -6775,8 +6764,10 @@ Presiona el botón de encendido y el botón de subir volumen al mismo tiempo"</s
     <string name="pref_show_lunar_calendar_title">Mostrar calendario tradicional chino en la pantalla de bloqueo</string>
     <string name="pref_title_network_details">Detalles de la red</string>
     <string name="pref_title_update_notification">Notificaciones de uso de datos</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Cuando la pantalla esté bloqueada, toque dos veces Bajar volumen para abrir la Cámara y tomar una foto</string>
     <string name="pref_volume_launch_camera_summary">Presionar botón de Bajar volumen dos veces para ejecutar Cámara</string>
     <string name="pref_volume_launch_camera_title">Abrir cámara</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">Cuando la pantalla esté bloqueada, toque dos veces Bajar volumen para abrir la Cámara</string>
     <string name="pref_volume_wake_summary">Presionar los botones de volumen activará el dispositivo</string>
     <string name="pref_volume_wake_title">Activar con botones de volumen</string>
     <string name="preference_change_password_title">Cambiar contraseña</string>
@@ -7331,6 +7322,8 @@ Reinicia el dispositivo y vuelve a intentarlo."</string>
     <string name="safety_center_summary">Seguridad de apps, bloqueo del dispositivo, permisos</string>
     <string name="safety_center_title">Seguridad y privacidad</string>
     <string name="sar">Información de exposición a RF</string>
+    <string name="satellite_call_assistant">Ajustes de llamada</string>
+    <string name="satellite_network_title">Funciones de llamada por satélite</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_first_day_of_week">Sábado</string>
     <string name="saturday_short">Sab</string>
@@ -7361,7 +7354,6 @@ Reinicia el dispositivo y vuelve a intentarlo."</string>
     <string name="screen_dark_mode_select_time_error_summary">La hora de inicio y fin no puede ser la misma</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Algunas aplicaciones pueden mostrarse incorrectamente en Modo oscuro. Puede restringir el uso del modo Oscuro para aplicaciones individuales aquí.</string>
     <string name="screen_dark_mode_smart_dark_title">Modo oscuro general</string>
-    <string name="screen_dark_mode_time_summary">Su dispositivo cambiará a Modo oscuro en el tiempo programado cuando apague la pantalla</string>
     <string name="screen_dark_mode_time_title">Programar Modo oscuro</string>
     <string name="screen_effect">Paleta de colores</string>
     <string name="screen_effect_adapt_color_summary">Ajustar colores basándose en la iluminación actual</string>
@@ -8485,6 +8477,11 @@ Presione dos veces para abrir Recientes."</string>
     <string name="sort_order_frequent_notification">Más frecuentes</string>
     <string name="sort_order_recent_notification">Más recientes</string>
     <string name="sort_order_size">Ordenar por tamaño</string>
+    <string name="sos_add_area_code_switch_summary">Agregue automáticamente el código de área a un número de teléfono al realizar una llamada de emergencia con las comunicaciones por satélite Tiantong</string>
+    <string name="sos_add_area_code_switch_title">Agregar código de área automáticamente</string>
+    <string name="sos_area_code_settings_hint">Ingrese el código de área</string>
+    <string name="sos_area_code_settings_summary">Establezca manualmente el código de área del número de teléfono de su contacto de emergencia</string>
+    <string name="sos_area_code_settings_title">Establecer código de área</string>
     <string name="sos_phone_call_privacy_dialog_message">"Para llamar a sus contactos de emergencia y reproducir la grabación SOS, esta aplicación necesita los siguientes permisos:
  • Hacer llamadas
 Para hacer llamadas a sus contactos de emergencia
@@ -9791,10 +9788,6 @@ Toque \"+\" para agregar palabras."</string>
     <string name="uwb_settings_title">Banda ultraancha (UWB)</string>
     <string name="v7_preference_off">DESACTIVADO</string>
     <string name="v7_preference_on">ACTIVADO</string>
-    <string name="valid_net_access">Ver credenciales de acceso a la red</string>
-    <string name="valid_net_ok">Aceptar</string>
-    <string name="valid_net_result_fail">No se pudo obtener la información. Espere unos minutos y vuelva a intentarlo.</string>
-    <string name="valid_net_result_title">Resultado</string>
     <string name="verify_apps_over_usb_summary">Comprueba que las apps instaladas mediante ADB/ADT no ocasionen daños</string>
     <string name="verify_apps_over_usb_title">Verificar aplicaciones por USB</string>
     <string name="version_text">versión %1$s</string>
@@ -10704,7 +10697,6 @@ también puede usar las redes de otros usuarios."</string>
     <string name="winscope_trace_quick_settings_title">Seguimiento de Winscope</string>
     <string name="wireless_connected">Conectado</string>
     <string name="wireless_debugging_main_switch_title">Usar depuración inalámbrica</string>
-    <string name="wireless_display">Reproducción inalámbrica</string>
     <string name="wireless_networks_settings_title">Conexiones inalámbricas y redes</string>
     <string name="wireless_off">Desactivado</string>
     <string name="wireless_on">Activado</string>

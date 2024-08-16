@@ -34,7 +34,6 @@
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
     <string name="about">Σχετικά</string>
     <string name="actionbar_button_up_description">Πίσω</string>
-    <string name="ad_flag_text">Διαφήμιση</string>
     <string name="add_download_download">Λήψη</string>
     <string name="add_download_error_not_support">Αυτός ο σύνδεσμός δεν υποστηρίζεται</string>
     <string name="add_download_text_hint">Εισαγωγή συνδέσμου HTTP/HTTPS</string>
@@ -292,9 +291,6 @@
     <string name="month_september_shortest">Σεπ</string>
     <string name="more">Περισσότερα</string>
     <string name="morning">Πρωί</string>
-    <string name="native_body">Σώμα</string>
-    <string name="native_headline">Τίτλος</string>
-    <string name="native_media_view">Προβολή μέσων</string>
     <string name="new_file_notification_title_image">Εικόνα</string>
     <string name="night">Βράδυ</string>
     <string name="no_downloads">Δεν υπάρχουν αρχεία</string>
@@ -361,7 +357,6 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="skip_ad">Παράλειψη</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Κυριακή</string>
@@ -424,7 +419,6 @@
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="version">Έκδοση %s</string>
-    <string name="watermark_label_prefix">AdMob -</string>
     <string name="wednesday">Τετάρτη</string>
     <string name="wednesday_short">Τετ</string>
     <string name="wednesday_shortest">Τετ</string>

@@ -116,8 +116,6 @@
     <string name="fast_connect_device_title_connecting">接続中…</string>
     <string name="fast_connect_device_title_find_headset">%1$sを探す</string>
     <string name="fast_connect_device_title_find_headset_others">このデバイスはあなたのものではないようです：%1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">接続されました</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">カメラ</string>
     <string name="fast_connect_new_feture_anti_lost">イヤホン紛失アラート</string>
     <string name="fast_connect_new_feture_same_account">同期されたデバイスを接続する</string>
     <string name="fast_connect_new_feture_sound_normalizer">より良いサウンド</string>
@@ -211,7 +209,6 @@
     <string name="headset_download_fw">アップデート</string>
     <string name="headset_downloading">ダウンロード中</string>
     <string name="headset_downloading_indicate">ダウンロード中…</string>
-    <string name="headset_dual_device">イヤホンが自動的に接続されました。デュアル接続はオフになりました。</string>
     <string name="headset_find_new_version">アップデートが利用可能です</string>
     <string name="headset_finish_fw">正常にアップデートされました</string>
     <string name="headset_finish_fw_failed">エラーが発生しました</string>
@@ -229,8 +226,8 @@
     <string name="headset_updating">アップデート中</string>
     <string name="information_go_to_fitness">Mi Fitnessで関連設定を確認できます</string>
     <string name="install_package">%1$sをインストールするとより多くの機能を使用できます</string>
-    <string name="lea_disable_successfully">通常のBluetoothに切り替えました</string>
-    <string name="lea_enable_successfully">Bluetooth LE Audio に切り替えました</string>
+    <string name="lea_disable_successfully">イヤホン接続と音声伝送に通常のBluetoothが使用されるようになりました</string>
+    <string name="lea_enable_successfully">イヤホン接続と音声伝送にLE Audioが使用されるようになりました</string>
     <string name="mi_audio_relay_cancel">OK</string>
     <string name="mi_audio_relay_connect_failed">再試行</string>
     <string name="mi_audio_relay_localphone">このデバイス</string>
@@ -280,7 +277,6 @@
     <string name="miuix_appcompat_delete_description">削除</string>
     <string name="miuix_appcompat_deselect_all">すべての選択を解除</string>
     <string name="miuix_appcompat_deselect_all_description">すべての選択を解除</string>
-    <string name="miuix_appcompat_edit">編集</string>
     <string name="miuix_appcompat_search_action_mode_cancel">キャンセル</string>
     <string name="miuix_appcompat_search_input_description">検索</string>
     <string name="miuix_appcompat_select_all">すべて選択</string>

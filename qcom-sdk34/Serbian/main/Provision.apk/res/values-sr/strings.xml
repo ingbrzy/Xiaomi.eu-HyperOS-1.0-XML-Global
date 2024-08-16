@@ -724,10 +724,9 @@
     <string name="terms_of_use_label_translation">Услуге превода</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">Услуга ажурирања система (проверава ажурирања на мрежи и обавештава о новим верзијама)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">Пре коришћења система, прочитајте и прихватите наш Кориснички уговор и Правила о приватности, који покривају Xiaomi апликације унапред инсталиране на вашем уређају (нпр. Галерија, Mi Музика, Mi Прегледач, Mi Видео, Теме итд.). Штитимо ваше личне податке у складу са релевантним законима, прописима и правилима о приватности. Када се уређај активира, следеће услуге ће се повезати на мрежу и приступити вашој локацији:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Пре коришћења система, морате прочитати и прихватити наш Кориснички уговор и Правила о приватности. Ваше личне податке штитимо у складу са релевантним законима, прописима и правилима о приватности. Када се ваш уређај активира, следеће услуге ће се повезати на мрежу и приступити вашој локацији:</string>
     <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Позадина</string>
-    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Пре коришћења ове функције морате прихватити Facemoji Правила о приватности."</string>

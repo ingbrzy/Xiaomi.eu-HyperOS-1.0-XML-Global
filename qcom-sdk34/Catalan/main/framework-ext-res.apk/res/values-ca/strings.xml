@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">So de trucada per defecte (%1$s)</string>
     <string name="android_ringtone_silent">Cap</string>
     <string name="android_ringtone_unknown">So de trucada desconegut</string>
-    <string name="aon_reader_support_scene_des">Passa pàgines mentre llegeix</string>
-    <string name="aon_video_support_scene_des">Controla la reproducció de vídeo</string>
     <string name="app_continuity_channel_name">"Ajustos de disseny de l'aplicació"</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">"No s'ha pogut obrir el codi de pagament d'Alipay"</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">Ordinador</string>
     <string name="device_xiaomi">Telèfon Mi</string>
     <string name="dewdrops">Rosada del matí</string>
-    <string name="dialog_enable_mic_btn_negative">Cancel·la</string>
-    <string name="dialog_enable_mic_btn_positive">Activa</string>
-    <string name="dialog_enable_mic_message">Per poder utilitzar aquesta funció, primer activeu el micròfon.</string>
-    <string name="dialog_enable_mic_title">Activa el micròfon</string>
     <string name="digitaluniverse">Univers digital (estèreo)</string>
     <string name="disable_nfc">Desactivat NFC per a la càrrega sense fils</string>
     <string name="disable_nfc_haptic_reverse">NFC i vibració desactivats per a la càrrega sense fil inversa</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">Emetre</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="toast_camera_satellite_mutually_exclusive">"No es pot utilitzar la càmera mentre s'utilitzen comunicacions per satèl·lit"</string>
-    <string name="toast_mic_muted">El micròfon està desactivat</string>
-    <string name="toast_mic_unmuted">El micròfon està activat</string>
-    <string name="tof_music_support_scene_des">Admet controls del reproductor de música</string>
-    <string name="tof_office_support_scene_des">Admet documents de Word i presentacions de PowerPoint</string>
-    <string name="tof_short_video_support_scene_des">Admet canviar entre vídeos</string>
-    <string name="tof_video_support_scene_des">Admet controls de reproductor de vídeo a pantalla completa</string>
     <string name="total">No molestis</string>
     <string name="total_description">"Silencia els sons i desactiva la vibració per a tots els elements, excepte l'alarma"</string>
     <string name="total_title">No molestis...</string>

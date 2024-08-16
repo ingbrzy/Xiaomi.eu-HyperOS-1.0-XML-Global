@@ -724,10 +724,9 @@ Vous pouvez contrôler cette fonctionnalité dans Paramètres > Mots de passe &a
     <string name="terms_of_use_label_translation">Service de traduction</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">Service de mise à jour du système (vérifie les mises à jour en ligne et notifie des nouvelles versions)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">"Avant d'utiliser le système lisez et acceptez notre Accord Utilisateur et notre Politique de confidentialité, qui couvrent les applications Xiaomi préinstallées sur votre appareil (par ex. Galerie, Mi Musique, Navigateur Mi, Mi Vidéo, Thèmes, etc.). Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables. Lorsque votre appareil est activé, les services suivants se connectent au réseau et accédez à votre localisation :"</string>
+    <string name="terms_of_use_label_use_location_and_network_global">"Avant d'utiliser le système vous devez lire et accepter notre Accord Utilisateur et notre Politique de confidentialité. Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables. Lorsque votre appareil est activé, les services suivants se connectent au réseau et accédez à votre position :"</string>
     <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">"Fond d'écran"</string>
-    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Vous devez accepter la politique de confidentialité de Facemoji avant d'utiliser cette fonctionnalité."</string>

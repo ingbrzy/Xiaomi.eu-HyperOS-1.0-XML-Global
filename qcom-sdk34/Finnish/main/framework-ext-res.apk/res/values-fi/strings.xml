@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">Oletussoittoääni (%1$s)</string>
     <string name="android_ringtone_silent">Ei mitään</string>
     <string name="android_ringtone_unknown">Tuntematon soittoääni</string>
-    <string name="aon_reader_support_scene_des">Käännä sivuja lukiessasi</string>
-    <string name="aon_video_support_scene_des">Ohjaa videon toistoa</string>
     <string name="app_continuity_channel_name">Sovelluksen asettelun säädöt</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">Ei voitu avata Alipay-maksukoodia</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">Tietokone</string>
     <string name="device_xiaomi">Mi Puhelin</string>
     <string name="dewdrops">Aamukaste</string>
-    <string name="dialog_enable_mic_btn_negative">Peruuta</string>
-    <string name="dialog_enable_mic_btn_positive">Ota käyttöön</string>
-    <string name="dialog_enable_mic_message">Kytke ensin mikrofoni päälle, jotta voit käyttää tätä ominaisuutta.</string>
-    <string name="dialog_enable_mic_title">Kytke mikrofoni päälle</string>
     <string name="digitaluniverse">Digitaalinen universumi (stereo)</string>
     <string name="disable_nfc">NFC poistettu käytöstä langatonta latausta varten</string>
     <string name="disable_nfc_haptic_reverse">NFC ja värinä pois päältä käänteistä langatonta latausta varten</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">Peilaa</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="toast_camera_satellite_mutually_exclusive">Kameraa ei voi käyttää satelliittiviestinnän aikana</string>
-    <string name="toast_mic_muted">Mikrofoni on pois päältä</string>
-    <string name="toast_mic_unmuted">Mikrofoni on päällä</string>
-    <string name="tof_music_support_scene_des">Tukee musiikkisoittimen ohjaimia</string>
-    <string name="tof_office_support_scene_des">Tukee Word-asiakirjoja ja PowerPoint-esityksiä</string>
-    <string name="tof_short_video_support_scene_des">Tukee vaihtamista videoiden välillä</string>
-    <string name="tof_video_support_scene_des">Tukee koko näytön videosoittimen säätimiä</string>
     <string name="total">Älä häiritse</string>
     <string name="total_description">Hiljennä äänet ja sammuta värinä kaikille kohteille, paitsi herätyskellolle</string>
     <string name="total_title">Älä häiritse</string>

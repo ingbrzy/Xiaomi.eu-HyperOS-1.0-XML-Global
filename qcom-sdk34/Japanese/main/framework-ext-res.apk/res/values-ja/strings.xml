@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">デフォルトの着信音 (%1$s)</string>
     <string name="android_ringtone_silent">なし</string>
     <string name="android_ringtone_unknown">不明な着信音</string>
-    <string name="aon_reader_support_scene_des">読書中にページをめくる</string>
-    <string name="aon_video_support_scene_des">ビデオ再生の操作</string>
     <string name="app_continuity_channel_name">アプリのレイアウト調整</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">Alipayの決済コードを開けませんでした</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">パソコン</string>
     <string name="device_xiaomi">Mi Phone</string>
     <string name="dewdrops">朝露</string>
-    <string name="dialog_enable_mic_btn_negative">キャンセル</string>
-    <string name="dialog_enable_mic_btn_positive">オンにする</string>
-    <string name="dialog_enable_mic_message">この機能を使用するには、まずマイクをオンにしてください。</string>
-    <string name="dialog_enable_mic_title">マイクをオンにする</string>
     <string name="digitaluniverse">デジタルユニバース（ステレオ）</string>
     <string name="disable_nfc">ワイヤレス充電のためにNFCをオフにしました</string>
     <string name="disable_nfc_haptic_reverse">リバースワイヤレス充電のためにNFCとバイブレーションをオフにしました</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">キャスト</string>
     <string name="tips_prompt_enable_midrop">：Mi シェア</string>
     <string name="toast_camera_satellite_mutually_exclusive">衛星通信使用中はカメラを使用できません</string>
-    <string name="toast_mic_muted">マイクはオフです</string>
-    <string name="toast_mic_unmuted">マイクはオンです</string>
-    <string name="tof_music_support_scene_des">音楽プレーヤーの操作をサポート</string>
-    <string name="tof_office_support_scene_des">Word ドキュメントと PowerPoint プレゼンテーションをサポート</string>
-    <string name="tof_short_video_support_scene_des">ビデオ間の切り替えをサポート</string>
-    <string name="tof_video_support_scene_des">全画面ビデオプレーヤーの操作をサポート</string>
     <string name="total">DND</string>
     <string name="total_description">アラーム時計以外のすべてのアイテムの通知音を無音にし、バイブレーションをオフにします</string>
     <string name="total_title">DND</string>

@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">Varsayılan zil sesi (%1$s)</string>
     <string name="android_ringtone_silent">Hiçbiri</string>
     <string name="android_ringtone_unknown">Bilinmeyen zil sesi</string>
-    <string name="aon_reader_support_scene_des">Okurken sayfaları çevirin</string>
-    <string name="aon_video_support_scene_des">Video oynatmayı kontrol edin</string>
     <string name="app_continuity_channel_name">Uygulama düzeni ayarları</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">Alipay ödeme kodu açılamadı</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">Bilgisayar</string>
     <string name="device_xiaomi">Mi Telefon</string>
     <string name="dewdrops">Sabah çiği</string>
-    <string name="dialog_enable_mic_btn_negative">İptal</string>
-    <string name="dialog_enable_mic_btn_positive">Aç</string>
-    <string name="dialog_enable_mic_message">Bu özelliği kullanabilmek için önce mikrofonu açın.</string>
-    <string name="dialog_enable_mic_title">Mikrofonu aç</string>
     <string name="digitaluniverse">Dijital evren (stereo)</string>
     <string name="disable_nfc">Kablosuz şarj için NFC özelliği kapatıldı</string>
     <string name="disable_nfc_haptic_reverse">Ters kablosuz şarj için NFC ve titreşim özelliği kapatıldı</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">Yansıtma</string>
     <string name="tips_prompt_enable_midrop">Mi Paylaşım</string>
     <string name="toast_camera_satellite_mutually_exclusive">Uydu iletişimini kullanırken kamera kullanılamıyor</string>
-    <string name="toast_mic_muted">Mikrofon kapalı</string>
-    <string name="toast_mic_unmuted">Mikrofon açık</string>
-    <string name="tof_music_support_scene_des">Müzik oynatıcı kontrollerini destekler</string>
-    <string name="tof_office_support_scene_des">Word belgelerini ve PowerPoint sunumlarını destekler</string>
-    <string name="tof_short_video_support_scene_des">Videolar arasında geçiş yapmayı destekler</string>
-    <string name="tof_video_support_scene_des">Tam ekran video oynatıcı kontrollerini destekler</string>
     <string name="total">Rahatsız etme</string>
     <string name="total_description">Alarm harici tüm ögeleri sustur ve titreşimi kapat</string>
     <string name="total_title">Rahatsız etme</string>

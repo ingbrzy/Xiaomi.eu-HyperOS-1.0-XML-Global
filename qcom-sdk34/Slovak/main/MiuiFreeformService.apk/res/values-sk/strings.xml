@@ -218,7 +218,7 @@ potom potiahnite na presunutie"</string>
 · Ťuknutím na „Plávajúce okná“ v Nedávnych môžete vybrať aplikácie."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Ťuknutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne.
 · Potiahnutím aplikácie do stredu obrazovky ju môžete otvoriť v plávajúcom okne alebo potiahnutím do strany zapnúť „Rozdelenú obrazovku.\""</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Potiahnite aplikáciu z bočného panela do stredu obrazovky pre otvorenie v plávajúcom okne alebo do strany, ak chcete použiť Rozdelenú obrazovku</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Potiahnutím aplikácie z bočného panelu smerom do stredu obrazovky ju môžete otvoriť v plávajúcom okne alebo potiahnutím do strany zapnúť „Rozdelenú obrazovku.\"</string>
     <string name="freeform_vedio_description_pad">Potiahnite položky von z riadku aplikácií pre otvorenie plávajúcich okien</string>
     <string name="friday">Piatok</string>
     <string name="friday_short">Pia</string>
@@ -266,7 +266,6 @@ potom potiahnite na presunutie"</string>
     <string name="miuix_appcompat_delete_description">Vymazať</string>
     <string name="miuix_appcompat_deselect_all">Zrušiť výber</string>
     <string name="miuix_appcompat_deselect_all_description">Zrušiť výber</string>
-    <string name="miuix_appcompat_edit">Upraviť</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Zrušiť</string>
     <string name="miuix_appcompat_search_input_description">Vyhľadať</string>
     <string name="miuix_appcompat_select_all">Vybrať všetko</string>

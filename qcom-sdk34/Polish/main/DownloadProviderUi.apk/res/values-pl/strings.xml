@@ -34,7 +34,6 @@
     <string name="abc_toolbar_collapse_description">Zwiń</string>
     <string name="about">O</string>
     <string name="actionbar_button_up_description">Wstecz</string>
-    <string name="ad_flag_text">Reklama</string>
     <string name="add_download_download">Pobierz</string>
     <string name="add_download_error_not_support">Ten link nie jest obsługiwany</string>
     <string name="add_download_text_hint">Wprowadź link HTTP/HTTPS</string>
@@ -292,9 +291,6 @@
     <string name="month_september_shortest">Wrz</string>
     <string name="more">Więcej</string>
     <string name="morning">Poranek</string>
-    <string name="native_body">Treść</string>
-    <string name="native_headline">Nagłówek</string>
-    <string name="native_media_view">Widok multimediów</string>
     <string name="new_file_notification_title_image">Obraz</string>
     <string name="night">Wieczór</string>
     <string name="no_downloads">Brak plików</string>
@@ -361,7 +357,6 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="skip_ad">Pomiń</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Niedziela</string>
@@ -424,7 +419,6 @@
     <string name="v7_preference_off">WYŁ.</string>
     <string name="v7_preference_on">WŁ.</string>
     <string name="version">Wersja %s</string>
-    <string name="watermark_label_prefix">AdMob -</string>
     <string name="wednesday">Środa</string>
     <string name="wednesday_short">Śr</string>
     <string name="wednesday_shortest">Śr</string>

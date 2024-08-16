@@ -996,8 +996,8 @@ Vous pouvez toujours passer des appels d'urgence."</string>
     <string name="mobile_networks">Paramètres du réseau mobile</string>
     <string name="mobile_property">Propriétés du réseau mobile</string>
     <string name="mobile_settings_screen_title">Données mobiles</string>
-    <string name="mobile_special_network_optimization_config_summary">"Percevoir intelligemment plusieurs scénarios dans le réseau pour améliorer l'expérience de communication"</string>
-    <string name="mobile_special_network_optimization_config_title">Mode adaptatif de scène</string>
+    <string name="mobile_special_network_optimization_config_summary">Améliorez la qualité des appels en vous adaptant automatiquement aux différentes scènes</string>
+    <string name="mobile_special_network_optimization_config_title">"S'adapter à différentes scènes"</string>
     <string name="modem_dialog_body">"Le réseau mobile n'est pas stable provoquant ainsi des interruptions ou des problèmes de réseau. Envoyer des commentaires à Mi pour analyse ? Ce rapport peut contenir des informations personnelles identifiables. Votre rapport sera utilisé pour aider à résoudre ce bogue et ne sera jamais partagé dans un contexte commercial."</string>
     <string name="modem_dialog_title">"Le réseau n'est pas stable"</string>
     <string name="monday">Lundi</string>
@@ -1319,7 +1319,7 @@ Votre téléphone sera automatiquement bloqué en cas de nouvel échec"</string>
     <string name="play_voicemail_settings">Écouter la messagerie vocale</string>
     <string name="pm">Après-midi</string>
     <string name="police_type_description">Police</string>
-    <string name="pref_sim_item_no_default">Toujours demander</string>
+    <string name="pref_sim_item_no_default">Non défini</string>
     <string name="prefered_network_type_3g_promp">Vous devez désactiver VoLTE avant de choisir la 3G comme type de réseau préféré. Désactiver maintenant ?</string>
     <string name="preference_auto_ip_summary_disable">Désactivé</string>
     <string name="preference_category_ringtone">Sonnerie et vibreur</string>
@@ -1569,7 +1569,6 @@ Interface UT : %5$s"</string>
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">Quitter maintenant ?</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">Batterie faible</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">Ne plus afficher</string>
@@ -1577,7 +1576,7 @@ Interface UT : %5$s"</string>
     <string name="satellite_notification_title">Vous êtes dans une zone de signal faible</string>
     <string name="satellite_point_title">Turn on Tiantong Satellite communications</string>
     <string name="satellite_select_enable_sim">Sélectionner une carte SIM</string>
-    <string name="satellite_signal_boost_setting_summary">Enhance signal strength and stability in cloudy or other non-optimal weather conditions</string>
+    <string name="satellite_signal_boost_setting_summary">Améliorer la force et la stabilité du signal dans des conditions météorologiques nuageuses ou non optimales</string>
     <string name="satellite_signal_boost_setting_title">Use Tiantong signal amplifier</string>
     <string name="satellite_start">"C'est compris"</string>
     <string name="satellite_start_battery">"C'est compris"</string>

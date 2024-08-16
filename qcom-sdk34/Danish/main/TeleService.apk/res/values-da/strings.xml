@@ -996,8 +996,8 @@ Du kan stadig foretage nødopkald."</string>
     <string name="mobile_networks">Indstillinger for mobilnetværk</string>
     <string name="mobile_property">Egenskaber for mobilnetværk</string>
     <string name="mobile_settings_screen_title">Mobildata</string>
-    <string name="mobile_special_network_optimization_config_summary">Opfatter intelligent flere scenarier i netværket for at forbedre kommunikationsoplevelsen</string>
-    <string name="mobile_special_network_optimization_config_title">Scene-adaptiv tilstand</string>
+    <string name="mobile_special_network_optimization_config_summary">Forøg opkaldskvaliteten ved automatisk at tilpasse til forskellige scener</string>
+    <string name="mobile_special_network_optimization_config_title">Tilpas til forskellige scener</string>
     <string name="modem_dialog_body">Mobilt netværk er ustabilt, hvilket kan medføre afbrydelser og netværksproblemer. Send fejlfindingsrapport til Mi til analyse? Denne rapport kan indeholde personligt identificerbare oplysninger. Din rapport vil blive brugt til at rette denne fejl og vil aldrig blive delt i nogen kommerciel sammenhæng.</string>
     <string name="modem_dialog_title">Mobilnetværket er ustabilt</string>
     <string name="monday">Mandag</string>
@@ -1569,7 +1569,6 @@ UT-grænseflade: %5$s"</string>
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">Afslut nu</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">Lavt batteri</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">Vis ikke igen</string>

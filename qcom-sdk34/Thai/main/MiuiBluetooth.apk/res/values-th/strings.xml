@@ -116,8 +116,6 @@
     <string name="fast_connect_device_title_connecting">กำลังเชื่อมต่อ…</string>
     <string name="fast_connect_device_title_find_headset">ค้นหา %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">ดูเหมือนว่าอุปกรณ์นี้ไม่ใช่ของคุณ: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">เชื่อมต่อแล้ว</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">กล้อง</string>
     <string name="fast_connect_new_feture_anti_lost">แจ้งเตือนไม่มีหูฟัง</string>
     <string name="fast_connect_new_feture_same_account">เชื่อมต่ออุปกรณ์ที่ซิงค์</string>
     <string name="fast_connect_new_feture_sound_normalizer">เสียงที่ดีขึ้น</string>
@@ -211,7 +209,6 @@
     <string name="headset_download_fw">อัปเดต</string>
     <string name="headset_downloading">ดาวน์โหลด</string>
     <string name="headset_downloading_indicate">กำลังดาวน์โหลด…</string>
-    <string name="headset_dual_device">หูฟังเชื่อมต่อโดยอัตโนมัติ การเชื่อมต่อแบบคู่ปิดอยู่</string>
     <string name="headset_find_new_version">อัปเดตพร้อมใช้งาน</string>
     <string name="headset_finish_fw">อัปเดตเสร็จสิ้น</string>
     <string name="headset_finish_fw_failed">เกิดข้อผิดพลาด</string>
@@ -229,8 +226,8 @@
     <string name="headset_updating">อัปเดต</string>
     <string name="information_go_to_fitness">คุณสามารถค้นหาการตั้งค่าที่เกี่ยวข้องได้ใน Mi Fitness</string>
     <string name="install_package">กรุณาติดตั้ง %1$s หากต้องการใข้คุณสมบัติแอปที่เพิ่มมากขึ้น</string>
-    <string name="lea_disable_successfully">เปลี่ยนเป็นบลูทูธปกติแล้ว</string>
-    <string name="lea_enable_successfully">เปลี่ยนเป็น Bluetooth LE Audio แล้ว</string>
+    <string name="lea_disable_successfully">ขณะนี้ใช้ บลูทูธ ปกติสำหรับการเชื่อมต่อหูฟังและการส่งสัญญาณเสียง</string>
+    <string name="lea_enable_successfully">ตอนนี้ใช้ LE Audio สำหรับการเชื่อมต่อหูฟังและการส่งสัญญาณเสียง</string>
     <string name="mi_audio_relay_cancel">ตกลง</string>
     <string name="mi_audio_relay_connect_failed">ลองอีกครั้ง</string>
     <string name="mi_audio_relay_localphone">อุปกรณ์นี้</string>
@@ -280,7 +277,6 @@
     <string name="miuix_appcompat_delete_description">ลบ</string>
     <string name="miuix_appcompat_deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_deselect_all_description">ไม่เลือกทั้งหมด</string>
-    <string name="miuix_appcompat_edit">แก้ไข</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
     <string name="miuix_appcompat_search_input_description">ค้นหา</string>
     <string name="miuix_appcompat_select_all">เลือกทั้งหมด</string>

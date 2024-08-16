@@ -174,26 +174,6 @@
     <string name="aod_style_description">הצג שעון, תאריך, שעה, התראות ופריטים אחרים כאשר המסך מכובה</string>
     <string name="aod_style_title">סגנון</string>
     <string name="aod_to_close">כיבוי</string>
-    <string name="aon_gesture_cue_tone_summary">להשמיע צליל אישור בכל זיהוי של כף היד שלך</string>
-    <string name="aon_gesture_cue_tone_title">להשמיע צליל אישור</string>
-    <string name="aon_gesture_dialog_message">כאשר מאפיין זה מופעל, מכשיר זה יזהה וינתח את המחוות שלך. לא יתבצע עיבוד של המידע האישי שלך, והנתונים לא יאוחסנו במכשיר או בענן.</string>
-    <string name="aon_gesture_dialog_title">הצהרת פרטיות</string>
-    <string name="aon_gesture_double_press_summary">ניגון והשהיית ניגון</string>
-    <string name="aon_gesture_double_press_title">ביצוע תנועה של לחיצה כפולה</string>
-    <string name="aon_gesture_draw_circle_summary_pad">מענה לשיחות או סיום שיחות שהועברו לטאבלט</string>
-    <string name="aon_gesture_draw_circle_summary_phone">מענה לשיחות וסיום שיחות</string>
-    <string name="aon_gesture_draw_circle_title">ציור מעגל</string>
-    <string name="aon_gesture_enable_summary" formatted="false">יש להחזיק את כף היד במרחק של %d to %d ס\"מ מהמצלמה ולבצע את המחוות לאחר הופעת סמל כף היד בחלק העליון של המסך</string>
-    <string name="aon_gesture_learn_title">למידת מחוות</string>
-    <string name="aon_gesture_left_right_waving_summary">כוונון של התקדמות ההשמעה ומעבר בין שירים</string>
-    <string name="aon_gesture_left_right_waving_title">לנופף בקו אופקי</string>
-    <string name="aon_gesture_settings">מחוות ללא מגע</string>
-    <string name="aon_gesture_status_close">מושבתת</string>
-    <string name="aon_gesture_status_open">מופעלת</string>
-    <string name="aon_gesture_supported_app_title">יישומים נתמכים</string>
-    <string name="aon_gesture_supported_title">מחוות זמינות</string>
-    <string name="aon_gesture_up_down_waving_summary">כוונון עוצמת המדיה, מעבר בין סרטונים קצרים והעברת דפים במסמכים</string>
-    <string name="aon_gesture_up_down_waving_title">לנופף בקו אנכי</string>
     <string name="ap_connect_failed">לא ניתן היה להתחבר</string>
     <string name="ap_connected_battery_level">" | סוללה %1$s"</string>
     <string name="ap_p2p_dialog_message">חיבור ה-Wi-Fi המשותף הנוכחי כבר נמצא בשימוש. ודא שאינך משתמש ב-Wi-Fi Direct, Mi Share, העברה או שירותי העברה אלחוטית אחרים לפני הפעלת הנקודה החמה האישית שלך.</string>
@@ -789,10 +769,21 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="camera_front">קדמי %s</string>
     <string name="camera_grip_firmware_need_update">עדכן</string>
     <string name="camera_grip_firmware_new_version">הכל מעודכן</string>
+    <string name="camera_grip_firmware_save_button_know">הבנתי</string>
+    <string name="camera_grip_firmware_save_button_negaitive">לא עכשיו</string>
+    <string name="camera_grip_firmware_save_button_positive">לעדכן</string>
+    <string name="camera_grip_firmware_save_channel">התראות תופסן מצלמה</string>
+    <string name="camera_grip_firmware_save_networking_tips">נא להתחבר ל-Wi-Fi או להפעיל גלישה סלולרית, ואז לנסות שוב לעדכן את הקושחה.</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">יש לעדכן את הקושחה כדי להמשיך ולהשתמש במכשיר זה.</string>
+    <string name="camera_grip_firmware_save_title">תופסן מקצועי למצלמה</string>
     <string name="camera_grip_firmware_title_text">עדכון קושחה</string>
     <string name="camera_grip_firmware_update_describe">השאר את ידית האחיזה מחוברת בזמן העדכון</string>
     <string name="camera_grip_firmware_update_faild">לא ניתן היה לעדכן</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">יש להסיר את תופסן המצלמה, לטעון את המכשיר ואז לנסות שוב לעדכן את הקושחה</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">יש לטעון את המכשיר ואת תופסן המצלמה לפני עדכון הקושחה</string>
     <string name="camera_grip_firmware_update_ongoing">מעדכן. אל תנתק את ידית האחיזה.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">יש לחבר את המטען למכשיר זה ולנסות שוב לעדכן את הקושחה</string>
     <string name="camera_grip_firmware_update_successful">העדכון בוצע בהצלחה</string>
     <string name="camera_key_action_app_title">פתיחת יישום</string>
     <string name="camera_key_action_category_title">לא ניתן להשתמש במצלמה</string>
@@ -1412,7 +1403,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="error_apn_restrict_string">שדה ה-APN לא יכול להכיל %1$s</string>
     <string name="error_xcap_not_add">לא ניתן להשתמש ב-XCAP כסוג שם נקודת הגישה.</string>
     <string name="ethernet_tether_checkbox_text">שיתוף באמצעות Ethernet</string>
-    <string name="ethernet_tethering_subtext">שיתוף חיבור האינטרנט של הטלפון דרך Ethernet</string>
     <string name="evening">לפנות ערב</string>
     <string name="every_day">כל יום</string>
     <string name="exceptional_case">חריגים</string>
@@ -2296,10 +2286,6 @@ Xiaomi Cloud
     <string name="load_esim_info">מייצר נתוני eSIM…</string>
     <string name="load_esim_info_error">לא ניתן היה לטעון את נתוני eSIM. נא להמתין דקה או שתיים ולנסות שוב.</string>
     <string name="loading">רק רגע…</string>
-    <string name="loading_eid_error_message">לא ניתן לקבל את פרטי ה-EID. נא להמתין דקה או שתיים ולנסות שוב.</string>
-    <string name="loading_eid_error_ok">הבנתי</string>
-    <string name="loading_eid_error_title">לא ניתן לטעון</string>
-    <string name="loading_eid_tip">מקבל את נתוני EID…</string>
     <string name="local_auto_backup_off">כבוי</string>
     <string name="local_auto_backup_on">מופעל</string>
     <string name="local_auto_backup_section_title">גיבויים אוטומטיים</string>
@@ -2453,6 +2439,8 @@ Xiaomi Cloud
     <string name="login_action">היכנס</string>
     <string name="long_press_back_key">"לחיצה ארוכה על לחצן ה'חזרה'"</string>
     <string name="long_press_buttom_key">"לחיצה ארוכה על 'בית' ב'מסך הנעילה'"</string>
+    <string name="long_press_editor_style_summary">יש ללחוץ לחיצה ממושכת על מסך נעילה לעריכת השעון והטפט</string>
+    <string name="long_press_editor_style_title">לעריכה יש ללחוץ לחיצה ממושכת</string>
     <string name="long_press_home_key">"לחיצה ארוכה על לחצן ה'בית'"</string>
     <string name="long_press_menu_key">"לחיצה ארוכה על לחצן ה'תפריט'"</string>
     <string name="long_press_menu_key_when_lock">"לחיצה ארוכה על 'תפריט' ב'מסך הנעילה'"</string>
@@ -2840,8 +2828,6 @@ Xiaomi Cloud
     <string name="miui_type_style_title">סגנון הקלדה</string>
     <string name="miui_updater">עדכון מערכת</string>
     <string name="miui_userguide">מדריך המשתמש</string>
-    <string name="miui_visual_perception_summary">זיהוי נוכחותך על-ידי המכשיר ובחירה באפשרויות נעילה וביטול נעילה נוחות יותר</string>
-    <string name="miui_visual_perception_title">תפיסה חזותית פעילה</string>
     <string name="miuix_access_state_desc">נבחר</string>
     <string name="miuix_appcompat_action_mode_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
@@ -3343,8 +3329,10 @@ Xiaomi Cloud
     <string name="phone_call_noise_suppression">השתק רעש במהלך שיחות</string>
     <string name="photo_data">תמונות וסרטונים</string>
     <string name="photography_handle_button_function_settings">הגדרת כפתור לתופסן</string>
-    <string name="photography_handle_charge_protected">ניתוק אוטומטי של טעינה עם תופסן</string>
-    <string name="photography_handle_charge_protected_summary">כשהמכשיר שלך מזהה שימוש בתופסן מצלמה, המכשיר יפסיק את הטעינה וישמור על רמת הסוללה של %1$s</string>
+    <string name="photography_handle_charge_protected">הגנה בטעינת התופסן</string>
+    <string name="photography_handle_charge_protected_summary">כשתופסן המצלמה מחובר, המכשיר יפסיק את הטעינה וישמור על אחוז טעינת הסוללה של %1$s</string>
+    <string name="photography_handle_charge_state">טעינה מתופסני מצלמה</string>
+    <string name="photography_handle_charge_state_summary">לטעון את המכשיר הזה מתופסני מצלמה כשהם מחוברים</string>
     <string name="photography_handle_launch_and_take_photo">צילום תמונה</string>
     <string name="photography_handle_launch_camera">פתיחת המצלמה</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">יש ללחוץ לחיצה ממושכת על כפתור התריס כדי לבצע פעולה</string>
@@ -3408,8 +3396,10 @@ Xiaomi Cloud
     <string name="pref_operational_key">לחצני ניווט</string>
     <string name="pref_show_lunar_calendar_title">הצג את לוח השנה הסיני המסורתי במצב נעילת מסך</string>
     <string name="pref_title_update_notification">התראות שימוש בנתונים</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">להקיש פעמיים על לחצן הנמכת עוצמת השמע לפתיחת המצלמה וצילום תמונה כשהמסך נעול</string>
     <string name="pref_volume_launch_camera_summary">"לחץ פעמיים על כפתור הנמכת עוצמת השמע על מנת להפעיל את ה'מצלמה'"</string>
     <string name="pref_volume_launch_camera_title">"הפעל את ה'מצלמה'"</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">להקיש על לחצן הנמכת עוצמת השמע לפתיחת המצלמה כשהמסך נעול</string>
     <string name="pref_volume_wake_summary">לחיצה על לחצני עוצמת השמע מעירה את המכשיר</string>
     <string name="pref_volume_wake_title">הער באמצעות לחצני עוצמת השמע</string>
     <string name="preference_toggle_nfc_dnd_mode_summary">אל תקבל התראות על תגי NFC לא מזוהים</string>
@@ -3637,6 +3627,8 @@ Xiaomi Cloud
     <string name="runtime_permissions_summary_control_app_access">שליטה בגישת היישומים לנתונים</string>
     <string name="safe_install_mode_settings">מצב בטוח</string>
     <string name="sar">מידע על חשיפה לתדרי רדיו (RF)</string>
+    <string name="satellite_call_assistant">הגדרות שיחה</string>
+    <string name="satellite_network_title">מאפייני שיחת לוויין</string>
     <string name="saturday">שבת</string>
     <string name="saturday_short">"ש'"</string>
     <string name="saturday_shortest">"ש'"</string>
@@ -3660,7 +3652,6 @@ Xiaomi Cloud
     <string name="screen_dark_mode_select_time_error_summary">זמן התחלה וסוף אינם יכולים להיות באותו זמן</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">אפליקציות מסוימות עשויות להיות מוצגות שלא כהלכה במצב כהה. ניתן להגביל את השימוש במצב כהה לאפליקציות ספציפיות כאן.</string>
     <string name="screen_dark_mode_smart_dark_title">מצב מוחשך גלובלי</string>
-    <string name="screen_dark_mode_time_summary">המכשיר שלך יעבור למצב מוחשך בסביבות הזמן המתוכנן לאחר כיבוי המסך</string>
     <string name="screen_dark_mode_time_title">תכנן הפעלת מצב כהה</string>
     <string name="screen_effect">מפת הצבעים</string>
     <string name="screen_effect_adapt_color_summary">התאמת הצבעים לפי התאורה הקיימת</string>
@@ -4254,6 +4245,11 @@ Xiaomi Cloud
     <string name="sms_received_sound_title">קבלת הודעה</string>
     <string name="softbank_apn_lock_toast">ה-APN נעול. לא ניתן לערוך.</string>
     <string name="solid_text">שימוש במשוב מישוש בתדר נמוך ובמעברים חזותיים מתאימים כדי ליצור חוויית מחוות מוצקה ועוצמתית</string>
+    <string name="sos_add_area_code_switch_summary">הוספה אוטומטית של הקידומת למספר טלפון בביצוע שיחת חירום באמצעות Tiantong Satellite</string>
+    <string name="sos_add_area_code_switch_title">הוספת קידומת אוטומטית</string>
+    <string name="sos_area_code_settings_hint">נא להזין קידומת</string>
+    <string name="sos_area_code_settings_summary">הגדרה ידנית של קידומת מספר החירום שלך</string>
+    <string name="sos_area_code_settings_title">הגדרת קידומת</string>
     <string name="sos_phone_call_privacy_dialog_message">"כדי להתקשר לאנשי הקשר שלך לשעת חירום ולהשמעת הקלטת SOS אפליקציה זו זקוקה להרשאות הבאות:
 • ביצוע שיחות
 כדי להתקשר לאנשי הקשר שלך לשעת חירום
@@ -4911,10 +4907,6 @@ SMSלשליחת הודעות טקסט לאנשי קשר לשעת חירום
     <string name="user_grant_admin_message">למנהלים יש הרשאות מיוחדות שאין למשתמשים אחרים. מנהל יכול לנהל את כל המשתמשים, לעדכן או לאפס מכשיר זה, לשנות הגדרות, לראות את כל האפליקציות המותקנות ולהעניק או לבטל הרשאות מנהל עבור אחרים.</string>
     <string name="user_grant_admin_title">לתת למשתמש זה הרשאות מנהל?</string>
     <string name="user_settings_forbidden">"לא ניתן לשנות את הגדרות המנהל בשטח הנוכחי, חזור אל 'שטח ראשון'."</string>
-    <string name="valid_net_access">צפייה בפרטי הגישה לרשת</string>
-    <string name="valid_net_ok">אישור</string>
-    <string name="valid_net_result_fail">לא ניתן היה לקבל פרטים. נא להמתין דקה או שתיים ולנסות שוב.</string>
-    <string name="valid_net_result_title">תוצאה</string>
     <string name="vibrate_category_title">רטט</string>
     <string name="vibrate_in_normal_title">רטט בעת צלצול</string>
     <string name="vibrate_in_silent_title">רטט במצב שקט</string>
@@ -5314,7 +5306,6 @@ SMSלשליחת הודעות טקסט לאנשי קשר לשעת חירום
     <string name="wifi_wps_overlap_error">תהליך רשת אלחוטית נוסף התגלה. המתן דקה או שתיים ונסה שוב.</string>
     <string name="wifi_wps_setup_title">הגדרת רשת אלחוטית מוגנת (WPS)</string>
     <string name="wireless_connected">מחובר</string>
-    <string name="wireless_display">תצוגה אלחוטית</string>
     <string name="wireless_off">כבוי</string>
     <string name="wireless_on">מופעל</string>
     <string name="wlan_scanner_unresizeble">לא ניתן להציג את הגדרות Wi-Fi במצב מסך מפוצל</string>

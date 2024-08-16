@@ -116,8 +116,6 @@ Kolla inställningarna för detaljer."</string>
     <string name="fast_connect_device_title_connecting">Ansluter…</string>
     <string name="fast_connect_device_title_find_headset">Hitta %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Verkar som att denna enhet inte är din: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Ansluten</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Kamera</string>
     <string name="fast_connect_new_feture_anti_lost">Saknar hörlursvarning</string>
     <string name="fast_connect_new_feture_same_account">Anslut synkade enheter</string>
     <string name="fast_connect_new_feture_sound_normalizer">Bättre ljud</string>
@@ -211,7 +209,6 @@ Snabbare anslutningsprotokoll."</string>
     <string name="headset_download_fw">Uppdatera</string>
     <string name="headset_downloading">Laddar ned</string>
     <string name="headset_downloading_indicate">Laddar ned…</string>
-    <string name="headset_dual_device">Hörlurar ansluts automatiskt. Dubbelanslutning är avaktiverat.</string>
     <string name="headset_find_new_version">En uppdatering finns tillgänglig</string>
     <string name="headset_finish_fw">Uppdaterad</string>
     <string name="headset_finish_fw_failed">Ett fel uppstod</string>
@@ -229,8 +226,8 @@ Snabbare anslutningsprotokoll."</string>
     <string name="headset_updating">Uppdaterar</string>
     <string name="information_go_to_fitness">Du finner de relaterade inställningarna i Mi Fitness</string>
     <string name="install_package">Installera %1$s för mer funktioner</string>
-    <string name="lea_disable_successfully">Växlade till vanlig Bluetooth</string>
-    <string name="lea_enable_successfully">Växlade till Bluetooth LE-ljud</string>
+    <string name="lea_disable_successfully">Vanlig Bluetooth används nu för anslutning av hörlurar och ljudöverföring</string>
+    <string name="lea_enable_successfully">LE-ljud används nu för anslutning av hörlurar och ljudöverföring</string>
     <string name="mi_audio_relay_cancel">OK</string>
     <string name="mi_audio_relay_connect_failed">Försök igen</string>
     <string name="mi_audio_relay_localphone">Den här enheten</string>
@@ -280,7 +277,6 @@ Snabbare anslutningsprotokoll."</string>
     <string name="miuix_appcompat_delete_description">Ta bort</string>
     <string name="miuix_appcompat_deselect_all">Avmarkera alla</string>
     <string name="miuix_appcompat_deselect_all_description">Avmarkera alla</string>
-    <string name="miuix_appcompat_edit">Redigera</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Avbryt</string>
     <string name="miuix_appcompat_search_input_description">Sök</string>
     <string name="miuix_appcompat_select_all">Välj alla</string>

@@ -704,26 +704,6 @@ Tiện ích: %2$s
     <string name="aod_style_description">Hiển thị đồng hồ, ngày, giờ, thông báo và các mục khác khi màn hình tắt</string>
     <string name="aod_style_title">Phong cách</string>
     <string name="aod_to_close">Tắt</string>
-    <string name="aon_gesture_cue_tone_summary">Phát âm thanh xác nhận khi phát hiện lòng bàn tay của bạn</string>
-    <string name="aon_gesture_cue_tone_title">Phát âm thanh xác nhận</string>
-    <string name="aon_gesture_dialog_message">Khi tính năng này bật, thiết bị này sẽ phát hiện và phân tích cử chỉ của bạn. Thông tin cá nhân của bạn sẽ không được xử lý, sẽ không có dữ liệu nào được lưu trữ cục bộ hoặc trên đám mây.</string>
-    <string name="aon_gesture_dialog_title">Tuyên bố Riêng tư</string>
-    <string name="aon_gesture_double_press_summary">Phát và tạm dừng phát lại</string>
-    <string name="aon_gesture_double_press_title">Thực hiện hành động bấm đúp</string>
-    <string name="aon_gesture_draw_circle_summary_pad">Trả lời hoặc kết thúc cuộc gọi được chuyển sang máy tính bảng</string>
-    <string name="aon_gesture_draw_circle_summary_phone">Trả lời và kết thúc cuộc gọi</string>
-    <string name="aon_gesture_draw_circle_title">Vẽ một vòng tròn</string>
-    <string name="aon_gesture_enable_summary" formatted="false">Giữ bàn tay cách camera từ %d đến %d cm và thực hiện các cử chỉ sau khi biểu tượng bàn tay xuất hiện ở phía trên màn hình</string>
-    <string name="aon_gesture_learn_title">Tìm hiểu cử chỉ</string>
-    <string name="aon_gesture_left_right_waving_summary">Điều chỉnh tiến trình phát và chuyển đổi giữa các bài hát</string>
-    <string name="aon_gesture_left_right_waving_title">Vẫy theo chiều ngang</string>
-    <string name="aon_gesture_settings">Cử chỉ không tiếp xúc</string>
-    <string name="aon_gesture_status_close">Tắt</string>
-    <string name="aon_gesture_status_open">Bật</string>
-    <string name="aon_gesture_supported_app_title">Ứng dụng được hỗ trợ</string>
-    <string name="aon_gesture_supported_title">Cử chỉ khả dụng</string>
-    <string name="aon_gesture_up_down_waving_summary">Điều chỉnh âm lượng phương tiện, chuyển đổi giữa các video ngắn và lật trang trong tài liệu</string>
-    <string name="aon_gesture_up_down_waving_title">Vẫy theo chiều dọc</string>
     <string name="ap_connect_failed">Không thể kết nối</string>
     <string name="ap_connected_battery_level">" | Pin %1$s"</string>
     <string name="ap_p2p_dialog_message">Kết nối Wi-Fi được chia sẻ hiện tại đã được sử dụng. Hãy chắc chắn rằng bạn không sử dụng Wi-Fi Direct, Mi Share, Chiếu hoặc dịch vụ chuyển không dây khác trước khi bật điểm phát sóng cá nhân.</string>
@@ -2022,10 +2002,21 @@ Nếu bạn cài đặt một chứng chỉ CA, thì chủ sở hữu của ch�
     <string name="camera_gesture_title">Xoay cổ tay hai lần để mở máy ảnh</string>
     <string name="camera_grip_firmware_need_update">Cập nhật</string>
     <string name="camera_grip_firmware_new_version">Đã cập nhật</string>
+    <string name="camera_grip_firmware_save_button_know">Tôi biết</string>
+    <string name="camera_grip_firmware_save_button_negaitive">Lần tới</string>
+    <string name="camera_grip_firmware_save_button_positive">Cập nhật</string>
+    <string name="camera_grip_firmware_save_channel">Thông báo tay cầm camera</string>
+    <string name="camera_grip_firmware_save_networking_tips">Kết nối Wi-Fi hoặc bật dữ liệu di động và thử cập nhật lại firmware.</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">Cập nhật firmware để tiếp tục sử dụng thiết bị này.</string>
+    <string name="camera_grip_firmware_save_title">Tay cầm camera chuyên nghiệp</string>
     <string name="camera_grip_firmware_title_text">Cập nhật firmware</string>
     <string name="camera_grip_firmware_update_describe">Giữ tay cầm được kết nối trong suốt quá trình cập nhật</string>
     <string name="camera_grip_firmware_update_faild">Không thể cập nhật</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">Tháo tay cầm máy ảnh, sạc thiết bị này rồi thử cập nhật lại firmware</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">Sạc thiết bị này và tay cầm máy ảnh của bạn trước khi cập nhật firmware</string>
     <string name="camera_grip_firmware_update_ongoing">Đang cập nhật. Không ngắt kết nối tay cầm.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">Kết nối bộ sạc với thiết bị này và thử cập nhật lại firmware</string>
     <string name="camera_grip_firmware_update_successful">Đã cập nhật thành công</string>
     <string name="camera_key_action_app_title">Mở ứng dụng</string>
     <string name="camera_key_action_category_title">Không thể sử dụng Camera</string>
@@ -3401,7 +3392,7 @@ Hãy khởi động lại thiết bị rồi thử lần nữa."</string>
     <string name="ethernet_data_template">^1 dữ liệu ethernet</string>
     <string name="ethernet_data_usage">Sử dụng dữ liệu ethernet</string>
     <string name="ethernet_tether_checkbox_text">Chia sẻ qua Ethernet</string>
-    <string name="ethernet_tethering_subtext">Chia sẻ kết nối mạng của điện thoại qua Ethernet</string>
+    <string name="ethernet_tethering_subtext">Chia sẻ kết nối Internet của điện thoại qua Ethernet</string>
     <string name="evening">Buổi chiều</string>
     <string name="every_day">Mỗi ngày</string>
     <string name="exceptional_case">Ngoại lệ</string>
@@ -4740,10 +4731,6 @@ Mở Xiaomi Cloud và khôi phục các mục từ đó."</string>
     <string name="load_esim_info">Đang nhận thông tin eSIM…</string>
     <string name="load_esim_info_error">Không thể tải thông tin eSIM. Chờ một hoặc hai phút và thử lại.</string>
     <string name="loading">Vui lòng chờ…</string>
-    <string name="loading_eid_error_message">Không thể nhận thông tin EID. Chờ một hoặc hai phút và thử lại.</string>
-    <string name="loading_eid_error_ok">Tôi biết</string>
-    <string name="loading_eid_error_title">Không thể tải</string>
-    <string name="loading_eid_tip">Đang nhận thông tin EID…</string>
     <string name="loading_injected_setting_summary">Đang tải…</string>
     <string name="local_auto_backup_off">Tắt</string>
     <string name="local_auto_backup_on">Bật</string>
@@ -5143,6 +5130,8 @@ Nếu quyền này không được cấp, hệ thống sẽ giới hạn thời 
     <string name="long_background_tasks_title">Tác vụ trong nền dài hạn</string>
     <string name="long_press_back_key">Bấm giữ phím Quay lại</string>
     <string name="long_press_buttom_key">Bấm giữ phím Trang chính trên Màn hình khóa</string>
+    <string name="long_press_editor_style_summary">Bấm và giữ Màn hình khóa để sửa đồng hồ và hình nền</string>
+    <string name="long_press_editor_style_title">Bấm và giữ để sửa</string>
     <string name="long_press_home_key">Bấm giữ phím Trang chính</string>
     <string name="long_press_menu_key">Bấm giữ phím Menu</string>
     <string name="long_press_menu_key_when_lock">Bấm giữ phím Menu trên Màn hình khóa</string>
@@ -5683,8 +5672,6 @@ Tiếp tục truy cập cài đặt bổ sung."</string>
     <string name="miui_type_style_title">Cách nhập</string>
     <string name="miui_updater">Cập nhật hệ thống</string>
     <string name="miui_userguide">Hướng dẫn sử dụng</string>
-    <string name="miui_visual_perception_summary">Để thiết bị cảm nhận được sự hiện diện của bạn và chọn các tùy chọn khóa và mở khóa thuận tiện hơn</string>
-    <string name="miui_visual_perception_title">Nhận thức trực quan chủ động</string>
     <string name="miuix_access_state_desc">Đã chọn</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn tất cả</string>
     <string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
@@ -6643,8 +6630,10 @@ OTG tự động tắt sau 10 phút không hoạt động."</string>
     <string name="phone_language_summary" />
     <string name="photo_data">Ảnh và video</string>
     <string name="photography_handle_button_function_settings">Thiết lập nút tay cầm</string>
-    <string name="photography_handle_charge_protected">Ngắt kết nối tự động sạc tay cầm</string>
-    <string name="photography_handle_charge_protected_summary">Khi thiết bị của bạn nhận dạng bạn đang sử dụng tay cầm camera, thiết bị sẽ ngừng sạc và giữ pin ở mức %1$s</string>
+    <string name="photography_handle_charge_protected">Bảo vệ sạc tay cầm</string>
+    <string name="photography_handle_charge_protected_summary">Khi tay cầm máy ảnh được kết nối, thiết bị sẽ ngừng sạc và duy trì pin ở mức %1$s</string>
+    <string name="photography_handle_charge_state">Sạc từ tay cầm máy ảnh</string>
+    <string name="photography_handle_charge_state_summary">Sạc thiết bị này từ tay cầm máy ảnh mỗi khi chúng được kết nối</string>
     <string name="photography_handle_launch_and_take_photo">Chụp ảnh</string>
     <string name="photography_handle_launch_camera">Mở camera</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Bấm và giữ phím chụp để thực hiện thao tác</string>
@@ -6773,8 +6762,10 @@ Nhấn đồng thời nút nguồn và nút tăng âm lượng"</string>
     <string name="pref_show_lunar_calendar_title">Hiển thị lịch Trung Quốc truyền thống trên Màn hình khóa</string>
     <string name="pref_title_network_details">Chi tiết mạng</string>
     <string name="pref_title_update_notification">Thông báo sử dụng dữ liệu</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Khi màn hình bị khóa, chạm đúp vào Giảm âm lượng để mở Camera và chụp ảnh</string>
     <string name="pref_volume_launch_camera_summary">Bấm phím giảm Âm lượng hai lần để khởi chạy Camera</string>
     <string name="pref_volume_launch_camera_title">Khởi chạy Camera</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">Khi màn hình bị khóa, chạm đúp vào Giảm âm lượng để mở Camera</string>
     <string name="pref_volume_wake_summary">Nhấn phím âm lượng để đánh thức thiết bị</string>
     <string name="pref_volume_wake_title">Đánh thức bằng phím âm lượng</string>
     <string name="preference_change_password_title">Thay đổi mật khẩu</string>
@@ -7329,6 +7320,8 @@ Hãy khởi động lại thiết bị rồi thử lại."</string>
     <string name="safety_center_summary">Bảo mật ứng dụng, khoá thiết bị, quyền</string>
     <string name="safety_center_title">Bảo mật và quyền riêng tư</string>
     <string name="sar">Thông tin Phơi nhiễm RF</string>
+    <string name="satellite_call_assistant">Cài đặt cuộc gọi</string>
+    <string name="satellite_network_title">Tính năng gọi vệ tinh</string>
     <string name="saturday">Thứ bảy</string>
     <string name="saturday_first_day_of_week">Thứ Bảy</string>
     <string name="saturday_short">Th 7</string>
@@ -7359,7 +7352,6 @@ Hãy khởi động lại thiết bị rồi thử lại."</string>
     <string name="screen_dark_mode_select_time_error_summary">Thời gian bắt đầu và thời gian kết thúc không thể giống nhau</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Vài ứng dụng có thể không hiển thị chính xác trong Chế độ nền tối. Bạn có thể hạn chế sử dụng Chế độ nền tối đối với một số ứng dụng tại đây.</string>
     <string name="screen_dark_mode_smart_dark_title">Chế độ nền tối toàn bộ</string>
-    <string name="screen_dark_mode_time_summary">Thiết bị sẽ chuyển sang Chế độ nền tối theo lịch trình khi bạn tắt màn hình</string>
     <string name="screen_dark_mode_time_title">Lên lịch trình bật Chế độ nền tối</string>
     <string name="screen_effect">Bảng màu</string>
     <string name="screen_effect_adapt_color_summary">Điều chỉnh màu sắc dựa trên ánh sáng hiện tại</string>
@@ -8483,6 +8475,11 @@ Chạm hai lần để mở Gần đây."</string>
     <string name="sort_order_frequent_notification">Thường xuyên nhất</string>
     <string name="sort_order_recent_notification">Gần đây nhất</string>
     <string name="sort_order_size">Sắp xếp theo kích thước</string>
+    <string name="sos_add_area_code_switch_summary">Tự động thêm mã vùng vào số điện thoại khi thực hiện cuộc gọi khẩn cấp với Liên lạc Vệ tinh Tiantong</string>
+    <string name="sos_add_area_code_switch_title">Tự động thêm mã vùng</string>
+    <string name="sos_area_code_settings_hint">Nhập mã vùng</string>
+    <string name="sos_area_code_settings_summary">Đặt thủ công mã vùng cho số điện thoại của người liên hệ khẩn cấp của bạn</string>
+    <string name="sos_area_code_settings_title">Đặt mã vùng</string>
     <string name="sos_phone_call_privacy_dialog_message">"Để gọi cho các liên hệ khẩn cấp của bạn và phát bản ghi SOS, ứng dụng này cần các quyền sau:
 • Thực hiện cuộc gọi
 Để thực hiện cuộc gọi đến các liên hệ khẩn cấp của bạn
@@ -9789,10 +9786,6 @@ Chạm dấu cộng để thêm từ."</string>
     <string name="uwb_settings_title">Băng tần siêu rộng (UWB)</string>
     <string name="v7_preference_off">TẮT</string>
     <string name="v7_preference_on">BẬT</string>
-    <string name="valid_net_access">Xem ủy nhiệm truy cập mạng</string>
-    <string name="valid_net_ok">OK</string>
-    <string name="valid_net_result_fail">Không thể nhận thông tin. Chờ một hoặc hai phút và thử lại.</string>
-    <string name="valid_net_result_title">Kết quả</string>
     <string name="verify_apps_over_usb_summary">Kiểm tra các ứng dụng được cài đặt qua ADB/ADT để xem có hoạt động gây hại hay không.</string>
     <string name="verify_apps_over_usb_title">Xác minh ứng dụng qua USB</string>
     <string name="version_text">Phiên bản %1$s</string>
@@ -10702,7 +10695,6 @@ bạn cũng có thể sử dụng mạng của người dùng khác."</string>
     <string name="winscope_trace_quick_settings_title">Dấu vết Winscope</string>
     <string name="wireless_connected">Đã kết nối</string>
     <string name="wireless_debugging_main_switch_title">Sử dụng tính năng gỡ lỗi qua Wi-Fi</string>
-    <string name="wireless_display">Hiển thị không dây</string>
     <string name="wireless_networks_settings_title">Không dây và mạng</string>
     <string name="wireless_off">Tắt</string>
     <string name="wireless_on">Bật</string>

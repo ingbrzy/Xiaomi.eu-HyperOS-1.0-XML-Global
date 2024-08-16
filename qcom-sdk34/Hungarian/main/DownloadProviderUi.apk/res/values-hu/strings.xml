@@ -34,7 +34,6 @@
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="about">Névjegy</string>
     <string name="actionbar_button_up_description">Vissza</string>
-    <string name="ad_flag_text">REKLÁM</string>
     <string name="add_download_download">Letöltés</string>
     <string name="add_download_error_not_support">Ez a hivatkozás nem támogatott</string>
     <string name="add_download_text_hint">Adja meg a HTTP/HTTPS hivatkozást</string>
@@ -292,9 +291,6 @@
     <string name="month_september_shortest">Szept</string>
     <string name="more">Továbbiak</string>
     <string name="morning">Reggel</string>
-    <string name="native_body">Törzs</string>
-    <string name="native_headline">Címsor</string>
-    <string name="native_media_view">Médianézet</string>
     <string name="new_file_notification_title_image">Fénykép</string>
     <string name="night">Este</string>
     <string name="no_downloads">Nincsenek fájlok</string>
@@ -361,7 +357,6 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="skip_ad">Kihagyás</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Vasárnap</string>
@@ -424,7 +419,6 @@
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
     <string name="version">Verzió %s</string>
-    <string name="watermark_label_prefix">AdMob –</string>
     <string name="wednesday">Szerda</string>
     <string name="wednesday_short">Sze</string>
     <string name="wednesday_shortest">Sze</string>

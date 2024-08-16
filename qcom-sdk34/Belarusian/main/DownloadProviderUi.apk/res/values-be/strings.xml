@@ -34,7 +34,6 @@
     <string name="abc_toolbar_collapse_description">Згарнуць</string>
     <string name="about">Даведка</string>
     <string name="actionbar_button_up_description">Назад</string>
-    <string name="ad_flag_text">Рэклама</string>
     <string name="add_download_download">Спампавана</string>
     <string name="add_download_error_not_support">Гэтая спасылка не падтрымліваецца</string>
     <string name="add_download_text_hint">Увядзіце спасылку HTTP/HTTPS</string>
@@ -292,9 +291,6 @@
     <string name="month_september_shortest">Вер</string>
     <string name="more">Яшчэ</string>
     <string name="morning">Раніца</string>
-    <string name="native_body">Тэкст паведамлення</string>
-    <string name="native_headline">Загаловак</string>
-    <string name="native_media_view">Цэнтр мультымедыя</string>
     <string name="new_file_notification_title_image">Выява</string>
     <string name="night">Вечар</string>
     <string name="no_downloads">Няма файлаў</string>
@@ -361,7 +357,6 @@
     <string name="size_peta_byte">ПБ</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">ТБ</string>
-    <string name="skip_ad">Прапусціць</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Нядзеля</string>
@@ -424,7 +419,6 @@
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">УКЛ.</string>
     <string name="version">Версія: %s</string>
-    <string name="watermark_label_prefix">AdMob -</string>
     <string name="wednesday">Серада</string>
     <string name="wednesday_short">Сер</string>
     <string name="wednesday_shortest">Сер</string>

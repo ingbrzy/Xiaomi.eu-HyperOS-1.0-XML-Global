@@ -996,8 +996,8 @@
     <string name="mobile_networks">Мобильные сети</string>
     <string name="mobile_property">Свойства мобильной сети</string>
     <string name="mobile_settings_screen_title">Мобильный интернет</string>
-    <string name="mobile_special_network_optimization_config_summary">Автоматически определять сценарий использования сети для улучшения взаимодействия.</string>
-    <string name="mobile_special_network_optimization_config_title">Адаптивный режим</string>
+    <string name="mobile_special_network_optimization_config_summary">Улучшать качество вызовов при помощи автоматической адаптации к разным сценариям использования.</string>
+    <string name="mobile_special_network_optimization_config_title">Адаптация к разным сценариям</string>
     <string name="modem_dialog_body">Мобильная сеть нестабильна, это вызывает перебои или сетевые проблемы. Отправить отчет об ошибке в Xiaomi? Он может содержать некоторые личные данные. Мы используем отчеты только для анализа и исправления неполадок и не предоставляем их третьим лицам в коммерческих целях.</string>
     <string name="modem_dialog_title">Мобильная сеть нестабильна</string>
     <string name="monday">Понедельник</string>
@@ -1569,7 +1569,6 @@ UT-интерфейс: %5$s"</string>
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">Выйти</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">Батарея разряжена</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">Больше не показывать</string>

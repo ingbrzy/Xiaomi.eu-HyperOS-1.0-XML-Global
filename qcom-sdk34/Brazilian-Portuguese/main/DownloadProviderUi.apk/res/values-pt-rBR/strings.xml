@@ -34,7 +34,6 @@
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="about">Sobre</string>
     <string name="actionbar_button_up_description">Voltar</string>
-    <string name="ad_flag_text">Anúncio</string>
     <string name="add_download_download">Baixar</string>
     <string name="add_download_error_not_support">Este link não é suportado</string>
     <string name="add_download_text_hint">Insira um link HTTP/HTTPS</string>
@@ -74,7 +73,7 @@
     <string name="confirm">OK</string>
     <string name="continue_download">Continuar</string>
     <string name="copy">Copiar</string>
-    <string name="copy_info">Copiado para a área de transferência. Compartilhe com seus amigos!</string>
+    <string name="copy_info">Copiado para a área de transferência. Você poderá compartilhar com os amigos!</string>
     <string name="copy_toast_msg">Link copiado para a área de transferência</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -283,9 +282,6 @@
     <string name="month_september_shortest">Set</string>
     <string name="more">Mais</string>
     <string name="morning">Manhã</string>
-    <string name="native_body">Corpo</string>
-    <string name="native_headline">Título</string>
-    <string name="native_media_view">Visualização de mídia</string>
     <string name="new_file_notification_title_image">Imagem</string>
     <string name="night">Anoitecer</string>
     <string name="no_downloads">Nenhum arquivo</string>
@@ -352,7 +348,6 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="skip_ad">Pular</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domingo</string>
@@ -415,7 +410,6 @@
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="version">Versão %s</string>
-    <string name="watermark_label_prefix">AdMob -</string>
     <string name="wednesday">Quarta-feira</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>

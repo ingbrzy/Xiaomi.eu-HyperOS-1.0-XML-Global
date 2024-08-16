@@ -964,8 +964,8 @@ You can still make emergency calls."</string>
     <string name="mobile_networks">Mobile network settings</string>
     <string name="mobile_property">Mobile network properties</string>
     <string name="mobile_settings_screen_title">Mobile data</string>
-    <string name="mobile_special_network_optimization_config_summary">Intelligently perceive multiple scenarios in the network to enhance communication experience</string>
-    <string name="mobile_special_network_optimization_config_title">Scene adaptive mode</string>
+    <string name="mobile_special_network_optimization_config_summary">Improve call quality by adapting to different scenes automatically</string>
+    <string name="mobile_special_network_optimization_config_title">Adapt to different scenes</string>
     <string name="modem_dialog_body">Mobile network is unstable which results in interruptions and network problems. Send feedback to Mi for analysis? This report may contain personally identifiable information. Your report will be used to help us fix this bug and will never be shared in any commercial context.</string>
     <string name="modem_dialog_title">Mobile network is unstable</string>
     <string name="msim_apn_not_set">Not set</string>
@@ -1493,7 +1493,6 @@ UT interface: %5$s"</string>
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">Exit now</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">Low battery</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">"Don't show again"</string>

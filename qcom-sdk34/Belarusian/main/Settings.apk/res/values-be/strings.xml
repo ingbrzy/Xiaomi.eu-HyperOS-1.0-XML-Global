@@ -704,26 +704,6 @@
     <string name="aod_style_description">"Адлюстроўваць гадзіннік, дату, час, апавяшчэнні і іншыя аб'екты, калі экран выключаны"</string>
     <string name="aod_style_title">Стыль</string>
     <string name="aod_to_close">Адключыць</string>
-    <string name="aon_gesture_cue_tone_summary">Прайграваць гук пацверджання кожны раз, калі выяўлена ваша далонь</string>
-    <string name="aon_gesture_cue_tone_title">Прайграць гук пацверджання</string>
-    <string name="aon_gesture_dialog_message">Калі гэтая функцыя ўключана, гэтая прылада будзе выяўляць і аналізаваць вашыя жэсты. Ваша асабістая інфармацыя не будзе апрацоўвацца, ніякія дадзеныя не будуць захоўвацца лакальна ці ў воблаку.</string>
-    <string name="aon_gesture_dialog_title">Заява аб прыватнасці</string>
-    <string name="aon_gesture_double_press_summary">Прайграванне і прыпыненне прайгравання</string>
-    <string name="aon_gesture_double_press_title">Выканайце падвойны націск</string>
-    <string name="aon_gesture_draw_circle_summary_pad">Адказвайце і завяршайце выклікі, перададзеныя на планшэт</string>
-    <string name="aon_gesture_draw_circle_summary_phone">Адказ і завяршэнне выклікаў</string>
-    <string name="aon_gesture_draw_circle_title">Намалюйце круг</string>
-    <string name="aon_gesture_enable_summary" formatted="false">"Трымайце руку на адлегласці ад %d да %d см ад камеры і выконвайце жэсты пасля з'яўлення значка рукі ў верхняй частцы экрана."</string>
-    <string name="aon_gesture_learn_title">Вывучыць жэсты</string>
-    <string name="aon_gesture_left_right_waving_summary">Рэгулюйце ход прайгравання і перамыкайцеся паміж песнямі</string>
-    <string name="aon_gesture_left_right_waving_title">Махайце па вертыкалі</string>
-    <string name="aon_gesture_settings">Бескантактавыя жэсты</string>
-    <string name="aon_gesture_status_close">Адкл.</string>
-    <string name="aon_gesture_status_open">Укл.</string>
-    <string name="aon_gesture_supported_app_title">Праграмы, якія падтрымліваюцца</string>
-    <string name="aon_gesture_supported_title">Даступныя жэсты</string>
-    <string name="aon_gesture_up_down_waving_summary">Рэгулюйце гучнасць мультымедыя, пераключайцеся паміж відэакліпамі і пераварочвайце старонкі ў дакументах</string>
-    <string name="aon_gesture_up_down_waving_title">Махайце па вертыкалі</string>
     <string name="ap_connect_failed">Не атрымалася падлучыцца</string>
     <string name="ap_connected_battery_level">" | Зарад батарэі %1$s"</string>
     <string name="ap_p2p_dialog_message">Бягучае злучэнне Wi-Fi з агульным доступам ужо выкарыстоўваецца. Перад уключэннем асабістага пункта доступу пераканайцеся, што вы не карыстаецеся Wi-Fi Direct, Mi Share, не ведзяце трансляцыю і не выкарыстоўваеце іншыя службы бесправадной перадачы.</string>
@@ -2022,10 +2002,21 @@
     <string name="camera_gesture_title">Павярніце двойчы, каб адкрыць камеру</string>
     <string name="camera_grip_firmware_need_update">Абнавіць</string>
     <string name="camera_grip_firmware_new_version">Абноўлена</string>
+    <string name="camera_grip_firmware_save_button_know">Зразумела</string>
+    <string name="camera_grip_firmware_save_button_negaitive">Не зараз</string>
+    <string name="camera_grip_firmware_save_button_positive">Абнавіць</string>
+    <string name="camera_grip_firmware_save_channel">Апавяшчэнні ручкі камеры</string>
+    <string name="camera_grip_firmware_save_networking_tips">Падключыцеся да Wi-Fi або уключыце мабільны інтэрнэт і паспрабуйце абнавіць прашыўку яшчэ раз.</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">Абнавіце прашыўку, каб працягнуць выкарыстанне гэтай прылады.</string>
+    <string name="camera_grip_firmware_save_title">Прафесійная ручка для камеры</string>
     <string name="camera_grip_firmware_title_text">Абнавіць прашыўку</string>
     <string name="camera_grip_firmware_update_describe">Ручка павінна быць падключана на працягу ўсяго працэсу абнаўлення</string>
     <string name="camera_grip_firmware_update_faild">Не атрымалася абнавіць</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">Зніміце ручку з камеры, зарадзіце гэтую прыладу, а затым паспрабуйце абнавіць прашыўку яшчэ раз</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">Перад абнаўленнем прашыўкі зарадзіце гэтую прыладу і ручку камеры</string>
     <string name="camera_grip_firmware_update_ongoing">Выконваецца абнаўленне. Не адключайце ручку.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">Падлучыце зарадную прыладу да гэтай прылады і паспрабуйце абнавіць прашыўку яшчэ раз</string>
     <string name="camera_grip_firmware_update_successful">Паспяхова абноўлена</string>
     <string name="camera_key_action_app_title">Адкрыць праграму</string>
     <string name="camera_key_action_category_title">Немагчыма прымяніць Камера</string>
@@ -3401,7 +3392,7 @@
     <string name="ethernet_data_template">^1 трафіку Ethernet</string>
     <string name="ethernet_data_usage">Выкарыстанне даных Ethernet</string>
     <string name="ethernet_tether_checkbox_text">Падзяліцца праз Ethernet</string>
-    <string name="ethernet_tethering_subtext">Дзяліцеся сеткавым падключэннем тэлефона праз Ethernet</string>
+    <string name="ethernet_tethering_subtext">Абагуліць інтэрнэт-падключэнне гэтага тэлефона праз Ethernet</string>
     <string name="evening">Поўдзень</string>
     <string name="every_day">Штодзённа</string>
     <string name="exceptional_case">Выключэнні</string>
@@ -4740,10 +4731,6 @@ Xiaomi Cloud
     <string name="load_esim_info">Атрыманне інфармацыі eSIM…</string>
     <string name="load_esim_info_error">Не ўдалося атрымаць інфармацыю eSIM. Пачакайце хвіліну ці дзве і паўтарыце спробу.</string>
     <string name="loading">Хвілінку…</string>
-    <string name="loading_eid_error_message">Немагчыма атрымаць інфармацыю EID. Пачакайце хвіліну ці дзве і паўтарыце спробу.</string>
-    <string name="loading_eid_error_ok">Зразумела</string>
-    <string name="loading_eid_error_title">Не атрымалася загрузіць</string>
-    <string name="loading_eid_tip">Атрыманне інфармацыі EID…</string>
     <string name="loading_injected_setting_summary">Ідзе загрузка…</string>
     <string name="local_auto_backup_off">Адкл</string>
     <string name="local_auto_backup_on">Укл</string>
@@ -5143,6 +5130,8 @@ PIN-код абараняе тэлефон у выпадку страты ці �
     <string name="long_background_tasks_title">Працяглыя фонавыя задачы</string>
     <string name="long_press_back_key">Доўгае націсканне кнопкі Назад</string>
     <string name="long_press_buttom_key">Доўгае націсканне кнопкі Дадому на экране блакавання</string>
+    <string name="long_press_editor_style_summary">Націсніце і ўтрымлівайце Экран блакавання, каб змяніць гадзіннік і шпалеры</string>
+    <string name="long_press_editor_style_title">Націсніце і ўтрымлівайце для змены</string>
     <string name="long_press_home_key">Доўгае націсканне кнопкі Дадому</string>
     <string name="long_press_menu_key">Доўгае націсканне кнопкі Меню</string>
     <string name="long_press_menu_key_when_lock">Доўгае націсканне кнопкі Меню на экране блакавання</string>
@@ -5683,8 +5672,6 @@ PIN-код абараняе тэлефон у выпадку страты ці �
     <string name="miui_type_style_title">Стыль уводу тэксту</string>
     <string name="miui_updater">Абнаўленне сістэмы</string>
     <string name="miui_userguide">Даведнік карыстальніка</string>
-    <string name="miui_visual_perception_summary">Няхай ваша прылада адчуе вашу прысутнасць і выбера больш зручныя варыянты блакіроўкі і разблакіроўкі</string>
-    <string name="miui_visual_perception_title">Актыўнае глядзельнае ўспрыманне</string>
     <string name="miuix_access_state_desc">Выбрана</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Зняць выбар з усіх</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбраць усё</string>
@@ -6643,8 +6630,10 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="phone_language_summary" />
     <string name="photo_data">Фота і відэа</string>
     <string name="photography_handle_button_function_settings">Наладзіць кнопку на ручцы</string>
-    <string name="photography_handle_charge_protected">Аўтаадключэнне зарадкі пры выкарыстанні ручкі</string>
-    <string name="photography_handle_charge_protected_summary">Калі ваша прылада распазнае, што вы выкарыстоўваеце ручку камеры, яно спыніць зарадку і будзе падтрымліваць узровень зарада батарэі на ўзроўні %1$s.</string>
+    <string name="photography_handle_charge_protected">Абарона ручкі пры зарадцы</string>
+    <string name="photography_handle_charge_protected_summary">Калі ручка камеры падключана, прылада перастане зараджацца і будзе падтрымліваць зарад батарэі на ўзроўні %1$s.</string>
+    <string name="photography_handle_charge_state">Зарадка ад ручак камеры</string>
+    <string name="photography_handle_charge_state_summary">Зараджайце гэтую прыладу ад ручак камеры, калі яны падлучаныя</string>
     <string name="photography_handle_launch_and_take_photo">Сфатаграфаваць</string>
     <string name="photography_handle_launch_camera">Адкрыць камеру</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Націсніце і ўтрымлівайце кнопку спуску засаўкі, каб выканаць дзеянне</string>
@@ -6773,8 +6762,10 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="pref_show_lunar_calendar_title">Паказаць кітайскі каляндар на экране блакавання</string>
     <string name="pref_title_network_details">Інфармацыя аб сетцы</string>
     <string name="pref_title_update_notification">Апавяшчэнне пра трафік</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Калі экран заблакаваны, двойчы націсніце «Паменшыць гучнасць», каб адкрыць «Камеру» і сфатаграфаваць</string>
     <string name="pref_volume_launch_camera_summary">Націсніце кнопку змяншэння гучнасці двойчы, каб запусціць Камеру</string>
     <string name="pref_volume_launch_camera_title">Запусціць Камеру</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">Калі экран заблакаваны, двойчы націсніце «Паменшыць гучнасць», каб адкрыць «Камеру»</string>
     <string name="pref_volume_wake_summary">Націсканне кнопак рэгуліроўкі гучнасці абудзіць прыладу</string>
     <string name="pref_volume_wake_title">Абуджаць кнопкамі гучнасці</string>
     <string name="preference_change_password_title">Змяніць пароль</string>
@@ -7329,6 +7320,8 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="safety_center_summary">Бяспека праграм, блакіроўка прылады, дазволы</string>
     <string name="safety_center_title">Бяспека і прыватнасць</string>
     <string name="sar">Звесткі аб узроўне радыёчастотнага выпраменьвання</string>
+    <string name="satellite_call_assistant">Налады выклікаў</string>
+    <string name="satellite_network_title">Функцыі спадарожнікавага выкліку</string>
     <string name="saturday">Субота</string>
     <string name="saturday_first_day_of_week">Субота</string>
     <string name="saturday_short">Суб</string>
@@ -7359,7 +7352,6 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="screen_dark_mode_select_time_error_summary">Час пачатку і час заканчэння не могуць быць аднолькавымі</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Некаторыя праграмы могуць некарэктна адлюстроўвацца ў цёмным рэжыме. Тут вы можаце абмежаваць выкарыстанне цёмнага рэжыму для асобных праграм.</string>
     <string name="screen_dark_mode_smart_dark_title">Цёмны рэжым для ўсіх</string>
-    <string name="screen_dark_mode_time_summary">Ваша прылада пераключыцца ў цёмны рэжым прыкладна ў запланаваны час, калі вы выключыце экран.</string>
     <string name="screen_dark_mode_time_title">Задаць расклад цёмнага рэжыму</string>
     <string name="screen_effect">Колеравая схема</string>
     <string name="screen_effect_adapt_color_summary">Адкарэктаваць колеры ў залежнасці ад бягучага асвятлення</string>
@@ -8482,6 +8474,11 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="sort_order_frequent_notification">Самыя частыя</string>
     <string name="sort_order_recent_notification">Самыя апошнія</string>
     <string name="sort_order_size">Сартаваць па памеры</string>
+    <string name="sos_add_area_code_switch_summary">Аўтаматычна дадаваць тэлефонны код вобласці да нумара тэлефона пры выкліку службы экстранай дапамогі праз спадарожнікавую сувязь Tiantong</string>
+    <string name="sos_add_area_code_switch_title">Дадаваць тэлефонны код вобласці аўтаматычна</string>
+    <string name="sos_area_code_settings_hint">Увядзіце тэлефонны код вобласці</string>
+    <string name="sos_area_code_settings_summary">Уручную задайце тэлефонны код вобласці для нумара тэлефона вашага кантакту для экстраных выпадкаў</string>
+    <string name="sos_area_code_settings_title">Задаць тэлефонны код вобласці</string>
     <string name="sos_phone_call_privacy_dialog_message">"Для выкліку вашых экстраных кантактаў і прайгравання запісу SOS гэтай праграме неабходныя наступныя дазволы:
  • Выклік экстраных кантактаў
 • Маніторынг стану прылады
@@ -9799,10 +9796,6 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="uwb_settings_title">Звышшырокапалосная сувязь (UWB)</string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">УКЛ.</string>
-    <string name="valid_net_access">Прагляд уліковых дадзеных доступу да сеткі</string>
-    <string name="valid_net_ok">OK</string>
-    <string name="valid_net_result_fail">Немагчыма атрымаць дадзеныя. Пачакайце хвіліну ці дзве і паўтарыце спробу.</string>
-    <string name="valid_net_result_title">Вынік</string>
     <string name="verify_apps_over_usb_summary">Праверка бяспекі праграм, усталяваных з дапамогай ADB/ADT.</string>
     <string name="verify_apps_over_usb_title">Праверце праграмы па USB</string>
     <string name="version_text">версія %1$s</string>
@@ -10712,7 +10705,6 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="winscope_trace_quick_settings_title">Трасіроўка Winscope</string>
     <string name="wireless_connected">Падключана</string>
     <string name="wireless_debugging_main_switch_title">Выкарыстоўваць адладку па Wi-Fi</string>
-    <string name="wireless_display">Бесправадны манітор</string>
     <string name="wireless_networks_settings_title">Бесправадныя і правадныя сеткі</string>
     <string name="wireless_off">Адключана</string>
     <string name="wireless_on">Уключана</string>

@@ -7,7 +7,7 @@
     <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
-    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_capital_on">مفعّلة</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -116,8 +116,6 @@
     <string name="fast_connect_device_title_connecting">جارٍ الاتصال…</string>
     <string name="fast_connect_device_title_find_headset">العثور على %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">يبدو أن هذا الجهاز ليس لك: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">متصل</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">الكاميرا</string>
     <string name="fast_connect_new_feture_anti_lost">تنبيه السماعة مفقودة</string>
     <string name="fast_connect_new_feture_same_account">توصيل الأجهزة المتزامنة</string>
     <string name="fast_connect_new_feture_sound_normalizer">تحسين جودة الصوت</string>
@@ -211,7 +209,6 @@
     <string name="headset_download_fw">تحديث</string>
     <string name="headset_downloading">يتم التنزيل</string>
     <string name="headset_downloading_indicate">جارٍ التنزيل…</string>
-    <string name="headset_dual_device">تم توصيل السماعات تلقائيًا. الاتصال المزدوج متوقف.</string>
     <string name="headset_find_new_version">هناك تحديث متوفر</string>
     <string name="headset_finish_fw">تم التحديث بنجاح</string>
     <string name="headset_finish_fw_failed">حدث خطأ ما</string>
@@ -229,8 +226,8 @@
     <string name="headset_updating">يتم التحديث</string>
     <string name="information_go_to_fitness">يمكنك العثور على الإعدادات ذات الصلة في Mi Fitness</string>
     <string name="install_package">تثبيت %1$s للمزيد من الوظائف</string>
-    <string name="lea_disable_successfully">تم التبديل إلى البلوتوث العادي</string>
-    <string name="lea_enable_successfully">تم التبديل إلى صوت LE بلوتوث</string>
+    <string name="lea_disable_successfully">يُستخدم الآن اتصال البلوتوث العادي لتوصيل السماعات ونقل الصوت</string>
+    <string name="lea_enable_successfully">يتم استخدام صوت LE الآن لتوصيل السماعات ونقل الصوت</string>
     <string name="mi_audio_relay_cancel">موافق</string>
     <string name="mi_audio_relay_connect_failed">حاول مجددا</string>
     <string name="mi_audio_relay_localphone">هذا الجهاز</string>
@@ -280,7 +277,6 @@
     <string name="miuix_appcompat_delete_description">حذف</string>
     <string name="miuix_appcompat_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_deselect_all_description">الغاء تحديد الكل</string>
-    <string name="miuix_appcompat_edit">تعديل</string>
     <string name="miuix_appcompat_search_action_mode_cancel">إلغاء</string>
     <string name="miuix_appcompat_search_input_description">بحث</string>
     <string name="miuix_appcompat_select_all">تحديد الكل</string>

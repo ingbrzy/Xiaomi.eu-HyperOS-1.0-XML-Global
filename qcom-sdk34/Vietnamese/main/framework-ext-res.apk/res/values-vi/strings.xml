@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">Nhạc chuông mặc định (%1$s)</string>
     <string name="android_ringtone_silent">Không</string>
     <string name="android_ringtone_unknown">Nhạc chuông không xác định</string>
-    <string name="aon_reader_support_scene_des">Lật trang khi đọc</string>
-    <string name="aon_video_support_scene_des">Hỗ trợ phát video</string>
     <string name="app_continuity_channel_name">Điều chỉnh bố cục ứng dụng</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">Không thể mở mã thanh toán Alipay</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">Máy tính</string>
     <string name="device_xiaomi">Điện thoại Mi</string>
     <string name="dewdrops">Sương buổi sáng</string>
-    <string name="dialog_enable_mic_btn_negative">Hủy</string>
-    <string name="dialog_enable_mic_btn_positive">Bật</string>
-    <string name="dialog_enable_mic_message">Để có thể sử dụng tính năng này, hãy bật micro trước.</string>
-    <string name="dialog_enable_mic_title">Bật micro</string>
     <string name="digitaluniverse">Vũ trụ số (lập thể)</string>
     <string name="disable_nfc">Tắt NFC để sạc không dây</string>
     <string name="disable_nfc_haptic_reverse">Tắt NFC và rung để sạc ngược không dây</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">Chiếu</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="toast_camera_satellite_mutually_exclusive">Không thể sử dụng máy ảnh khi đang sử dụng liên lạc qua vệ tinh</string>
-    <string name="toast_mic_muted">Micro đã tắt</string>
-    <string name="toast_mic_unmuted">Micro đang bật</string>
-    <string name="tof_music_support_scene_des">Hỗ trợ điều khiển trình phát nhạc</string>
-    <string name="tof_office_support_scene_des">Hỗ trợ tài liệu Word và trang trình bày PowerPoint</string>
-    <string name="tof_short_video_support_scene_des">Hỗ trợ chuyển đổi giữa các video</string>
-    <string name="tof_video_support_scene_des">Hỗ trợ điều khiển trình phát video toàn màn hình</string>
     <string name="total">Không làm phiền</string>
     <string name="total_description">Im lặng và tắt rung (trừ báo thức)</string>
     <string name="total_title">Không làm phiền</string>

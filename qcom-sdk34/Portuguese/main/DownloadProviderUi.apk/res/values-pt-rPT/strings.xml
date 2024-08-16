@@ -10,7 +10,7 @@
     <string name="abc_action_menu_overflow_description">Mais opções</string>
     <string name="abc_action_mode_done">Concluído</string>
     <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
-    <string name="abc_activitychooserview_choose_application">Escolher uma app</string>
+    <string name="abc_activitychooserview_choose_application">Escolher uma aplicação</string>
     <string name="abc_capital_off">DESATIVADO</string>
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt +</string>
@@ -30,11 +30,10 @@
     <string name="abc_searchview_description_submit">Enviar consulta</string>
     <string name="abc_searchview_description_voice">Pesquisa por voz</string>
     <string name="abc_shareactionprovider_share_with">Partilhar com</string>
-    <string name="abc_shareactionprovider_share_with_application">Partilhar com a app %s</string>
+    <string name="abc_shareactionprovider_share_with_application">Partilhar com a aplicação %s</string>
     <string name="abc_toolbar_collapse_description">Reduzir</string>
     <string name="about">Acerca de</string>
     <string name="actionbar_button_up_description">Voltar</string>
-    <string name="ad_flag_text">Anúncio</string>
     <string name="add_download_download">Transferir</string>
     <string name="add_download_error_not_support">Esta ligação não é suportada</string>
     <string name="add_download_text_hint">Introduza uma ligação HTTP/HTTPS</string>
@@ -292,9 +291,6 @@
     <string name="month_september_shortest">Set</string>
     <string name="more">Mais</string>
     <string name="morning">Manhã</string>
-    <string name="native_body">Corpo</string>
-    <string name="native_headline">Título</string>
-    <string name="native_media_view">Visualização de multimédia</string>
     <string name="new_file_notification_title_image">Imagem</string>
     <string name="night">Anoitecer</string>
     <string name="no_downloads">Sem ficheiros</string>
@@ -361,7 +357,6 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="skip_ad">Saltar</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domingo</string>
@@ -424,7 +419,6 @@
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="version">Versão %s</string>
-    <string name="watermark_label_prefix">AdMob –</string>
     <string name="wednesday">Quarta-feira</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>

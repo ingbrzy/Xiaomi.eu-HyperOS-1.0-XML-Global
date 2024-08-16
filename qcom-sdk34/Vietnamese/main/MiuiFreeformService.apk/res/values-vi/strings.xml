@@ -218,7 +218,7 @@ sau đó kéo để di chuyển"</string>
 · Chạm \"Cửa sổ nổi\" trong Gần đây để chọn ứng dụng."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Chạm một ứng dụng trên thanh bên để mở trên cửa sổ nổi.
 · Kéo một ứng dụng đến giữa màn hình để mở trên cửa sổ nổi hoặc đến cạnh màn hình để sử dụng Chia màn hình."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Kéo một ứng dụng từ thanh bên đến giữa màn hình để mở trên cửa sổ nổi hoặc đến cạnh màn hình để sử dụng Chia màn hình</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Kéo một ứng dụng từ thanh bên đến giữa màn hình để mở trên cửa sổ nổi hoặc đến cạnh màn hình để sử dụng Chia màn hình</string>
     <string name="freeform_vedio_description_pad">Kéo mục ra khỏi dock để mở cửa sổ nổi</string>
     <string name="friday">Thứ sáu</string>
     <string name="friday_short">Th 6</string>
@@ -266,7 +266,6 @@ sau đó kéo để di chuyển"</string>
     <string name="miuix_appcompat_delete_description">Xóa</string>
     <string name="miuix_appcompat_deselect_all">Bỏ chọn tất cả</string>
     <string name="miuix_appcompat_deselect_all_description">Bỏ chọn tất cả</string>
-    <string name="miuix_appcompat_edit">Sửa</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
     <string name="miuix_appcompat_search_input_description">Tìm kiếm</string>
     <string name="miuix_appcompat_select_all">Chọn tất cả</string>

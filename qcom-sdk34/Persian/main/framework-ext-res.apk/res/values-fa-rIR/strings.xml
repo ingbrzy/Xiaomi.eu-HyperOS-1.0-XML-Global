@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">آهنگ زنگ پیش‌فرض (%1$s)</string>
     <string name="android_ringtone_silent">هیچ</string>
     <string name="android_ringtone_unknown">آهنگ زنگ ناشناخته</string>
-    <string name="aon_reader_support_scene_des">صفحه را هنگام مطالعه ورق می‌زند</string>
-    <string name="aon_video_support_scene_des">کنترل بازپخش ویدئو</string>
     <string name="app_continuity_channel_name">تنظیم ابعاد برنامه</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">کد پرداخت Alipay باز نشد</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">رایانه</string>
     <string name="device_xiaomi">تلفن Mi</string>
     <string name="dewdrops">شبنم صبحگاهی</string>
-    <string name="dialog_enable_mic_btn_negative">لغو</string>
-    <string name="dialog_enable_mic_btn_positive">روشن کردن</string>
-    <string name="dialog_enable_mic_message">برای امکان استفاده از این ویژگی، ابتدا میکروفن را روشن کنید.</string>
-    <string name="dialog_enable_mic_title">روشن کردن میکروفن</string>
     <string name="digitaluniverse">دنیای دیجیتال (استریو)</string>
     <string name="disable_nfc">NFC را برای شارژ بی‌سیم خاموش کرد</string>
     <string name="disable_nfc_haptic_reverse">لرزش و NFC را برای شارژ بی‌سیم معکوس خاموش کرد</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">بازتاباندن</string>
     <string name="tips_prompt_enable_midrop">هم‌رسانی Mi</string>
     <string name="toast_camera_satellite_mutually_exclusive">هنگام استفاده از ارتباطات ماهواره‌ای امکان استفاده از دوربین وجود ندارد</string>
-    <string name="toast_mic_muted">میکروفن خاموش است</string>
-    <string name="toast_mic_unmuted">میکروفن روشن است</string>
-    <string name="tof_music_support_scene_des">از کنترل‌ها پخش‌کننده موسیقی پشتیبانی می‌کند</string>
-    <string name="tof_office_support_scene_des">از اسناد Word و ارائه‌های PowerPoint پشتیبانی می‌کند</string>
-    <string name="tof_short_video_support_scene_des">از تعویض میان ویدئوها پشتیبانی می‌کند</string>
-    <string name="tof_video_support_scene_des">از کنترل‌های پخش کننده ویدئوی تمام‌صفحه پشتیبانی می‌کند</string>
     <string name="total">مزاحم نشوید</string>
     <string name="total_description">بی‌صدا کردن صداها و خاموش کردن لرزش برای همه موارد به‌جز هشدار ساعت</string>
     <string name="total_title">مزاحم نشوید</string>

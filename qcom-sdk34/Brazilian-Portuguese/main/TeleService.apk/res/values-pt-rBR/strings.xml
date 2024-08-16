@@ -542,8 +542,8 @@ Ativar o eSIM mesmo assim?"</string>
     <string name="mobile_networks">Configurações de redes móveis</string>
     <string name="mobile_property">Propriedades da rede móvel</string>
     <string name="mobile_settings_screen_title">Dados móveis</string>
-    <string name="mobile_special_network_optimization_config_summary">Reconhecer vários cenários de forma inteligente na rede para aprimorar a experiência de comunicação</string>
-    <string name="mobile_special_network_optimization_config_title">Modo de cena adaptável</string>
+    <string name="mobile_special_network_optimization_config_summary">Melhorar qualidade da chamada ao adaptar-se a diferentes cenários automaticamente</string>
+    <string name="mobile_special_network_optimization_config_title">Adaptar a diferentes cenários</string>
     <string name="modem_dialog_body">A rede móvel está instável, causando interrupções e problemas de rede. Enviar seu feedback para a Mi analisar? O relatório poderá conter informações pessoais. Seu relatório será usado para ajudar na correção deste erro e nunca será compartilhado em contextos comerciais.</string>
     <string name="modem_dialog_title">Rede móvel instável</string>
     <string name="monday">Segunda-feira</string>
@@ -838,7 +838,6 @@ Seu cartão SIM será bloqueado após outra tentativa incorreta."</string>
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">Sair agora</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">Bateria fraca</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">Não mostrar novamente</string>
@@ -846,7 +845,7 @@ Seu cartão SIM será bloqueado após outra tentativa incorreta."</string>
     <string name="satellite_notification_title">Você está em uma área de sinal fraco</string>
     <string name="satellite_point_title">Turn on Tiantong Satellite communications</string>
     <string name="satellite_select_enable_sim">Selecionar cartão SIM</string>
-    <string name="satellite_signal_boost_setting_summary">Enhance signal strength and stability in cloudy or other non-optimal weather conditions</string>
+    <string name="satellite_signal_boost_setting_summary">Aumenta a força e a estabilidade do sinal em condições de tempo nublado ou outras condições climáticas não ideais</string>
     <string name="satellite_signal_boost_setting_title">Use Tiantong signal amplifier</string>
     <string name="satellite_start">Entendido</string>
     <string name="satellite_start_battery">Entendido</string>

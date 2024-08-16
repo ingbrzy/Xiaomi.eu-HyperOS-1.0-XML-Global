@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">မူလ သတ်မှတ်ထားသော ဖုန်းမြည်သံ (%1$s)</string>
     <string name="android_ringtone_silent">မရှိ</string>
     <string name="android_ringtone_unknown">အမည်မသိ ဖုန်းမြည်သံ</string>
-    <string name="aon_reader_support_scene_des">စာမျက်နှာများ ဖတ်ရင်းလှန်ရန်</string>
-    <string name="aon_video_support_scene_des">ဗီဒီယိုပြန်ဖွင့်ခြင်း ထိန်းချုပ်ရန်</string>
     <string name="app_continuity_channel_name">အက်(ပ်)အပြင်အဆင်ညှိခြင်းများ</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">AliPay ငွေပေးချေကုဒ်ကို ဖွင့်မရပါ</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">ကွန်ပျူတာ</string>
     <string name="device_xiaomi">Mi Phone</string>
     <string name="dewdrops">မိုးသောက်နှင်းစက်</string>
-    <string name="dialog_enable_mic_btn_negative">မလုပ်တော့ရန်</string>
-    <string name="dialog_enable_mic_btn_positive">ဖွင့်ရန်</string>
-    <string name="dialog_enable_mic_message">ဤအင်္ဂါရပ်ကို သုံးနိုင်ရန် မိုက်ခရိုဖုန်းကို ဦးစွာဖွင့်ပါ။</string>
-    <string name="dialog_enable_mic_title">မိုက်ခရိုဖုန်းဖွင့်ရန်</string>
     <string name="digitaluniverse">Digital universe (stereo)</string>
     <string name="disable_nfc">ကြိုးမဲ့အားသွင်းရန် NFC ကို ပိတ်ထားသည်</string>
     <string name="disable_nfc_haptic_reverse">ကြိုးမဲ့အားပြောင်းစနစ်အတွက် NFC နှင့် တုန်ခါမှုကို ပိတ်ထားသည်</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">လွှင့်တင်ရန်</string>
     <string name="tips_prompt_enable_midrop">Mi မျှဝေခြင်း</string>
     <string name="toast_camera_satellite_mutually_exclusive">ဂြိုဟ်တုဆက်သွယ်ရေးများသုံးချိန်တွင် ကင်မရာသုံးမရပါ</string>
-    <string name="toast_mic_muted">မိုက်ခရိုဖုန်းပိတ်ထားသည်</string>
-    <string name="toast_mic_unmuted">မိုက်ခရိုဖုန်းဖွင့်ထားသည်</string>
-    <string name="tof_music_support_scene_des">ဂီတပလေယာထိန်းချုပ်မှုများ ပံ့ပိုးသည်</string>
-    <string name="tof_office_support_scene_des">Word စာရွက်စာတမ်းနှင့် PowerPoint တင်ဆက်မှုများ ပံ့ပိုးသည်</string>
-    <string name="tof_short_video_support_scene_des">ဗီဒီယိုပြောင်းခြင်း ပံ့ပိုးသည်</string>
-    <string name="tof_video_support_scene_des">မျက်နှာပြင်အပြည့် ဗီဒီယိုပလေယာထိန်းချုပ်မှုများ ပံ့ပိုးသည်</string>
     <string name="total">မနှောင့်ယှက်ပါနှင့်</string>
     <string name="total_description">နှိုးစက်သံမှတစ်ပါး အခြားအသံများနှင့် တုန်ခါမှုအားလုံး ပိတ်မည်</string>
     <string name="total_title">မနှောင့်ယှက်ပါနှင့်</string>

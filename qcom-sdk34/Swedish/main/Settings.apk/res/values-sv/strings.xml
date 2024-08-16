@@ -704,26 +704,6 @@ Widget: %2$s
     <string name="aod_style_description">Visa, klocka, datum, tid, notifikationer och andra objekt när skärmen är av</string>
     <string name="aod_style_title">Stil</string>
     <string name="aod_to_close">Avaktivera</string>
-    <string name="aon_gesture_cue_tone_summary">Spela bekräftelseljud när din handflata upptäcks</string>
-    <string name="aon_gesture_cue_tone_title">Spela bekräftelseljud</string>
-    <string name="aon_gesture_dialog_message">När den här funktionen är aktiverad kommer den här enheten att detektera och analysera dina gester. Din personliga information kommer inte att behandlas och ingen data kommer att lagras lokalt eller i molnet.</string>
-    <string name="aon_gesture_dialog_title">Integritetsmeddelande</string>
-    <string name="aon_gesture_double_press_summary">Spela och pausa uppspelning</string>
-    <string name="aon_gesture_double_press_title">Utför rörelse för dubbeltryckning</string>
-    <string name="aon_gesture_draw_circle_summary_pad">Besvara och avsluta samtal som överförs till platta</string>
-    <string name="aon_gesture_draw_circle_summary_phone">Besvara och avsluta samtal</string>
-    <string name="aon_gesture_draw_circle_title">Rita en cirkel</string>
-    <string name="aon_gesture_enable_summary" formatted="false">Håll din hand %d för %d cm från kameran och gör gesterna medan handikonen visas överst på skärmen</string>
-    <string name="aon_gesture_learn_title">Lär dig gester</string>
-    <string name="aon_gesture_left_right_waving_summary">Justera uppspelningsprocessen och växla mellan låtar</string>
-    <string name="aon_gesture_left_right_waving_title">Vinka horisontellt</string>
-    <string name="aon_gesture_settings">Kontaktfira gester</string>
-    <string name="aon_gesture_status_close">Av</string>
-    <string name="aon_gesture_status_open">På</string>
-    <string name="aon_gesture_supported_app_title">Appar som stöds</string>
-    <string name="aon_gesture_supported_title">Tillgängliga gester</string>
-    <string name="aon_gesture_up_down_waving_summary">Justera mediavolym, växla mellan kortfilmer och byt sida i dokument</string>
-    <string name="aon_gesture_up_down_waving_title">Vinka vertikalt</string>
     <string name="ap_connect_failed">Det gick inte att ansluta</string>
     <string name="ap_connected_battery_level">" | Batteri %1$s"</string>
     <string name="ap_p2p_dialog_message">Den för närvarande delade wifi-anslutningen används redan. Kontrollera att du inte använder Wi-Fi Direkt, Mi Share, castar, eller någon annan trådlös överföringstjänst, innan du startar din privata internetdelning.</string>
@@ -2023,10 +2003,21 @@ Om du installerar ett CA-certifikat kan certifikatsägaren få åtkomst till din
     <string name="camera_gesture_title">Två handledsvridningar öppnar kameran</string>
     <string name="camera_grip_firmware_need_update">Uppdatera</string>
     <string name="camera_grip_firmware_new_version">Uppdaterad</string>
+    <string name="camera_grip_firmware_save_button_know">Jag förstår</string>
+    <string name="camera_grip_firmware_save_button_negaitive">Inte nu</string>
+    <string name="camera_grip_firmware_save_button_positive">Uppdatera</string>
+    <string name="camera_grip_firmware_save_channel">Notifikationer till kamerahandtag</string>
+    <string name="camera_grip_firmware_save_networking_tips">Anslut till wifi för att aktivera mobildata och försök att uppdatera firmware igen.</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">Uppdatera firmware för att fortsätta att använda den här enheten.</string>
+    <string name="camera_grip_firmware_save_title">Professionellt kamerahandtag</string>
     <string name="camera_grip_firmware_title_text">Uppdatera firmware</string>
     <string name="camera_grip_firmware_update_describe">Behåll anslutningen med handtaget genom hela uppdateringsprocessen</string>
     <string name="camera_grip_firmware_update_faild">Kunde inte uppdatera</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">Ta bort ditt kamerahandtag, ladda den här enheten, försök sedan att uppdatera firmware igen</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">Ladda den här enheten och ditt kamerahandtag innan du uppdaterar firmware</string>
     <string name="camera_grip_firmware_update_ongoing">Uppdatering. Koppla inte bort handtaget.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">Anslut laddaren till den här laddaren och försök att uppdatera firmware igen</string>
     <string name="camera_grip_firmware_update_successful">Uppdaterats</string>
     <string name="camera_key_action_app_title">Öppna app</string>
     <string name="camera_key_action_category_title">Kan inte använda kameran</string>
@@ -3402,7 +3393,7 @@ Starta om enheten och försök igen."</string>
     <string name="ethernet_data_template">^1 ethernetdata</string>
     <string name="ethernet_data_usage">Användning av ethernetdata</string>
     <string name="ethernet_tether_checkbox_text">Dela via Ethernet</string>
-    <string name="ethernet_tethering_subtext">DEla telefonnärverksanslutning via ethernet</string>
+    <string name="ethernet_tethering_subtext">Dela telefonens internetanslutning via Ethernet</string>
     <string name="evening">Eftermiddag</string>
     <string name="every_day">Varje dag</string>
     <string name="exceptional_case">Undantag</string>
@@ -4742,10 +4733,6 @@ Xiaomi Cloud
     <string name="load_esim_info">Hämtar eSIM-information…</string>
     <string name="load_esim_info_error">Kunde inte ladda eSIM-information. Vänta en minut eller två och försök igen.</string>
     <string name="loading">Vänta en stund…</string>
-    <string name="loading_eid_error_message">Kunde inte hämta EID-info. Vänta en minut eller två och försök igen.</string>
-    <string name="loading_eid_error_ok">Jag förstår</string>
-    <string name="loading_eid_error_title">Kunde inte ladda</string>
-    <string name="loading_eid_tip">Hämtar EID-info…</string>
     <string name="loading_injected_setting_summary">Läser in …</string>
     <string name="local_auto_backup_off">Av</string>
     <string name="local_auto_backup_on">På</string>
@@ -5145,6 +5132,8 @@ Om behörigheten nekas begränsar systemet hur länge appen kan utföra sådana 
     <string name="long_background_tasks_title">Långa bakgrundsuppgifter</string>
     <string name="long_press_back_key">Långtryck på Bakåtknappen</string>
     <string name="long_press_buttom_key">Långtryck på Hemknappen på Låsskärmen</string>
+    <string name="long_press_editor_style_summary">Tryck och håll inne låsskärmen för att redigera klocka och bakgrund</string>
+    <string name="long_press_editor_style_title">Tryck och håll inne för att redigera</string>
     <string name="long_press_home_key">Långtryck på Hemknappen</string>
     <string name="long_press_menu_key">Långtryck på Menyknappen</string>
     <string name="long_press_menu_key_when_lock">Långtryck på Menyknappen på Låsskärmen</string>
@@ -5685,8 +5674,6 @@ Fortsätt för att tillträda ytterligare inställningar."</string>
     <string name="miui_type_style_title">Skrivstil</string>
     <string name="miui_updater">Systemuppdatering</string>
     <string name="miui_userguide">Användarguide</string>
-    <string name="miui_visual_perception_summary">Låt din enhet känna av din närhet och välj bättre låsnings- och upplåsningsalternativ</string>
-    <string name="miui_visual_perception_title">Aktivera visuell upplevelse</string>
     <string name="miuix_access_state_desc">Valt</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Avmarkera alla</string>
     <string name="miuix_appcompat_action_mode_select_all">Välj alla</string>
@@ -6646,8 +6633,10 @@ Läs och acceptera %s innan du använder den här tjänsten."</string>
     <string name="phone_language_summary" />
     <string name="photo_data">Foton och videor</string>
     <string name="photography_handle_button_function_settings">Ställ in grepp-knapp</string>
-    <string name="photography_handle_charge_protected">Automatisk bortkoppling av greppladdning</string>
-    <string name="photography_handle_charge_protected_summary">När din enhet känner av att du använder ett kameragrepp kommer enheten att avsluta laddningen och hålla batterinivån på %1$s</string>
+    <string name="photography_handle_charge_protected">Laddningsskydd för handtag</string>
+    <string name="photography_handle_charge_protected_summary">När kamerahandtaget är anslutet, kommer enheten att sluta ladda och hålla batteriet på %1$s</string>
+    <string name="photography_handle_charge_state">Ladda från kamerahandtag</string>
+    <string name="photography_handle_charge_state_summary">Ladda den här enheten från kamerahandtag när de är anslutna</string>
     <string name="photography_handle_launch_and_take_photo">Ta bild</string>
     <string name="photography_handle_launch_camera">Öppna kamera</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Tryck och håll inne knappen till lutaren för att utföra en åtgärd</string>
@@ -6776,8 +6765,10 @@ Tryck på av/på-knappen och knappen för att höja volymen samtidigt"</string>
     <string name="pref_show_lunar_calendar_title">Visa traditionell Kinesisk kalender på Låskärmen</string>
     <string name="pref_title_network_details">Nätverksinformation</string>
     <string name="pref_title_update_notification">Notifikation i notifikationspanelen</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Dubbeltryck på knappen Sänk volymen för att öppna Kameran och ta ett foto</string>
     <string name="pref_volume_launch_camera_summary">Tryck Volym ned två gånger för att starta Kamera</string>
     <string name="pref_volume_launch_camera_title">Starta kamera</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">Dubbeltryck på knappen Sänk volymen, för att öppna Kameran, när skärmen är låst</string>
     <string name="pref_volume_wake_summary">Tryck på volymknapparna för att väcka enheten</string>
     <string name="pref_volume_wake_title">Väck med volymknappar</string>
     <string name="preference_change_password_title">Byt lösenord</string>
@@ -7332,6 +7323,8 @@ Starta om enheten och försök igen."</string>
     <string name="safety_center_summary">Appsäkerhet, enhetslås, behörigheter</string>
     <string name="safety_center_title">Säkerhet och integritet</string>
     <string name="sar">Information om exponering för radiofrekvent strålning</string>
+    <string name="satellite_call_assistant">Samtalsinställningar</string>
+    <string name="satellite_network_title">Funktion för satellitsamtal</string>
     <string name="saturday">Lördag</string>
     <string name="saturday_first_day_of_week">lördag</string>
     <string name="saturday_short">Lör</string>
@@ -7362,7 +7355,6 @@ Starta om enheten och försök igen."</string>
     <string name="screen_dark_mode_select_time_error_summary">Starttid och sluttid kan inte vara densamma</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Vissa appar kan visas felaktigt i Mörkt läge. Du kan begränsa användning av Mörkt läge för individuella appar här.</string>
     <string name="screen_dark_mode_smart_dark_title">Globalt mörkerläge</string>
-    <string name="screen_dark_mode_time_summary">Din enhet kommer att byta till mörkt läge runt den schemalagda tiden, när du stänger av skärmen.</string>
     <string name="screen_dark_mode_time_title">Schemalägg Mörkt läge</string>
     <string name="screen_effect">Färgschema</string>
     <string name="screen_effect_adapt_color_summary">Justera färger baserat på nuvarande ljussättning</string>
@@ -8486,6 +8478,11 @@ Dubbeltryck för att öppna Senaste."</string>
     <string name="sort_order_frequent_notification">Vanligaste</string>
     <string name="sort_order_recent_notification">Senaste</string>
     <string name="sort_order_size">Sortera efter storlek</string>
+    <string name="sos_add_area_code_switch_summary">Lägg automatiskt till riktnumret till ett telefonnummer, när ett nödsamtal görs med Tiantong Satellite communications</string>
+    <string name="sos_add_area_code_switch_title">Lägg till riktnummer automatiskt</string>
+    <string name="sos_area_code_settings_hint">Ange riktnummer</string>
+    <string name="sos_area_code_settings_summary">Ange manuellt riktnummer för din nödkontakts telefonnummer</string>
+    <string name="sos_area_code_settings_title">Ställ in riktnummer</string>
     <string name="sos_phone_call_privacy_dialog_message">"För att ringa dina nödkontakter och spela upp SOS-inspelningar behöver denna app följande behörigheter:
 • Ringa samtal
 För att ringa samtal till dina nödkontakter
@@ -9790,10 +9787,6 @@ Tryck på plus att lägga till ord."</string>
     <string name="uwb_settings_title">Ultra Wideband (UWB)</string>
     <string name="v7_preference_off">AV</string>
     <string name="v7_preference_on">PÅ</string>
-    <string name="valid_net_access">Visa information för nätverksåtkomst</string>
-    <string name="valid_net_ok">OK</string>
-    <string name="valid_net_result_fail">Det gick inte att hämta informationen. Vänta en minut eller två och försök igen.</string>
-    <string name="valid_net_result_title">Resultat</string>
     <string name="verify_apps_over_usb_summary">Kontrollera om appar som installeras via ADB/ADT kan vara skadliga.</string>
     <string name="verify_apps_over_usb_title">Verifiera appar via USB</string>
     <string name="version_text">version %1$s</string>
@@ -10703,7 +10696,6 @@ kan du använda andras nätverk också."</string>
     <string name="winscope_trace_quick_settings_title">Winscopespårning</string>
     <string name="wireless_connected">Ansluten</string>
     <string name="wireless_debugging_main_switch_title">Använd trådlös felsökning</string>
-    <string name="wireless_display">Trådlös bildskärm</string>
     <string name="wireless_networks_settings_title">Trådlöst och nätverk</string>
     <string name="wireless_off">Av</string>
     <string name="wireless_on">På</string>

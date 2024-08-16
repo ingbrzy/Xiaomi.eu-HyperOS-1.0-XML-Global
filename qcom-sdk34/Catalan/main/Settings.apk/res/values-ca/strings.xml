@@ -704,26 +704,6 @@ Widget: %2$s
     <string name="aod_style_description">Mostrar rellotge, data, hora, notificacions i altres elements quan la pantalla està apagada</string>
     <string name="aod_style_title">Estil</string>
     <string name="aod_to_close">Desactiva</string>
-    <string name="aon_gesture_cue_tone_summary">Reprodueix el so de confirmació sempre que es detecti la palma</string>
-    <string name="aon_gesture_cue_tone_title">Reprodueix el so de confirmació</string>
-    <string name="aon_gesture_dialog_message">"Quan aquesta funció està activada, aquest dispositiu detectarà i analitzarà els vostres gestos. La vostra informació personal no es processarà, no s'emmagatzemaran dades localment ni al núvol."</string>
-    <string name="aon_gesture_dialog_title">Declaració de privacitat</string>
-    <string name="aon_gesture_double_press_summary">Reprodueix i posa en pausa la reproducció</string>
-    <string name="aon_gesture_double_press_title">Realitzeu un moviment de doble pressió</string>
-    <string name="aon_gesture_draw_circle_summary_pad">Respondre o finalitzar trucades transferides a la tauleta</string>
-    <string name="aon_gesture_draw_circle_summary_phone">Contestar i finalitzar trucades</string>
-    <string name="aon_gesture_draw_circle_title">Dibuixeu un cercle</string>
-    <string name="aon_gesture_enable_summary" formatted="false">Sosteniu la vostra mà de %d a %d cm de la càmera i feu els gestos després que aparegui la icona de la mà a la part superior de la pantalla</string>
-    <string name="aon_gesture_learn_title">Aprendre gestos</string>
-    <string name="aon_gesture_left_right_waving_summary">Ajusteu el progrés de la reproducció i canvieu entre les cançons</string>
-    <string name="aon_gesture_left_right_waving_title">Saludeu horizontalment</string>
-    <string name="aon_gesture_settings">Gestos sense contacte</string>
-    <string name="aon_gesture_status_close">Desactivat</string>
-    <string name="aon_gesture_status_open">Activat</string>
-    <string name="aon_gesture_supported_app_title">Aplicacions compatibles</string>
-    <string name="aon_gesture_supported_title">Gestos disponibles</string>
-    <string name="aon_gesture_up_down_waving_summary">Ajusteu el volum dels mitjans, canvieu entre vídeos curts i passeu pàgines als documents</string>
-    <string name="aon_gesture_up_down_waving_title">Saludeu verticalment</string>
     <string name="ap_connect_failed">"No s'ha pogut connectar"</string>
     <string name="ap_connected_battery_level">" | Bateria %1$s"</string>
     <string name="ap_p2p_dialog_message">"La connexió Wi-Fi compartida actual ja s'està utilitzant. Assegureu-vos que no feu servir Wi-Fi Directe, Mi Share, emissió o altres serveis de transferència sense fil abans d'activar el vostre punt d'accés personal."</string>
@@ -2022,10 +2002,21 @@ Si instal·les un certificat de CA, el propietari del certificat pot accedir a l
     <string name="camera_gesture_title">Doble gir per obrir Càmera</string>
     <string name="camera_grip_firmware_need_update">Actualitzeu</string>
     <string name="camera_grip_firmware_new_version">Actualitzat</string>
+    <string name="camera_grip_firmware_save_button_know">Entesos</string>
+    <string name="camera_grip_firmware_save_button_negaitive">Ara no</string>
+    <string name="camera_grip_firmware_save_button_positive">Actualitza</string>
+    <string name="camera_grip_firmware_save_channel">"Notificacions de l'empunyadura de la càmera"</string>
+    <string name="camera_grip_firmware_save_networking_tips">"Connecteu-vos a la Wi-Fi o activeu les dades mòbils i torneu a provar d'actualitzar el microprogramari."</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">Actualitza el microprogramari per continuar utilitzant aquest dispositiu.</string>
+    <string name="camera_grip_firmware_save_title">Empunyadura de càmera professional</string>
     <string name="camera_grip_firmware_title_text">Actualitzeu el programari</string>
     <string name="camera_grip_firmware_update_describe">"Mantingueu l'empunyadura connectada durant tot el procés d'actualització"</string>
     <string name="camera_grip_firmware_update_faild">"No s'ha pogut actualitzar"</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">"Traieu l'empunyadura de la càmera, carregueu aquest dispositiu i torneu a provar d'actualitzar el microprogramari"</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">"Carregueu aquest dispositiu i l'empunyadura de la càmera abans d'actualitzar el microprogramari"</string>
     <string name="camera_grip_firmware_update_ongoing">Actualització. No desconnecteu la empunyadura.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">"Connecteu el carregador a aquest dispositiu i torneu a provar d'actualitzar el microprogramari"</string>
     <string name="camera_grip_firmware_update_successful">"S'ha actualitzat amb èxit"</string>
     <string name="camera_key_action_app_title">"Obre l'aplicació"</string>
     <string name="camera_key_action_category_title">No es pot utilitzar la Càmera</string>
@@ -3401,7 +3392,7 @@ Reinicia el dispositiu i torna-ho a provar."</string>
     <string name="ethernet_data_template">^1 de dades Ethernet</string>
     <string name="ethernet_data_usage">Ús de dades Ethernet</string>
     <string name="ethernet_tether_checkbox_text">Comparteix mitjançant Ethernet</string>
-    <string name="ethernet_tethering_subtext">Comparteix la connexió de xarxa del telèfon mitjançant Ethernet</string>
+    <string name="ethernet_tethering_subtext">Comparteix la connexió a Internet del telèfon per Ethernet</string>
     <string name="evening">Tarda</string>
     <string name="every_day">Cada dia</string>
     <string name="exceptional_case">Excepcions</string>
@@ -4740,10 +4731,6 @@ Obre el núvol de Xiaomi i restaura els elements des d'allà."</string>
     <string name="load_esim_info">"S'està obtenint informació de l'eSIM…"</string>
     <string name="load_esim_info_error">"No s'ha pogut carregar la informació de l'eSIM. Espereu un minut o dos i proveu-ho de nou."</string>
     <string name="loading">Un moment…</string>
-    <string name="loading_eid_error_message">"No s'ha pogut obtenir la informació de la EID. Espereu un parell de minuts i proveu-ho de nou."</string>
-    <string name="loading_eid_error_ok">Entesos</string>
-    <string name="loading_eid_error_title">"No s'ha pogut carregar"</string>
-    <string name="loading_eid_tip">Obtenint informació de la EID…</string>
     <string name="loading_injected_setting_summary">Carregant…</string>
     <string name="local_auto_backup_off">Apagat</string>
     <string name="local_auto_backup_on">Activat</string>
@@ -5143,6 +5130,8 @@ Si aquest permís es rebutja, el sistema limitarà el temps que pot dedicar l'ap
     <string name="long_background_tasks_title">Tasques llargues en segon pla</string>
     <string name="long_press_back_key">Premeu prolongadament el botó Enrere</string>
     <string name="long_press_buttom_key">"Premeu prolongadament el botó d'Inici a la pantalla de bloqueig"</string>
+    <string name="long_press_editor_style_summary">Premeu prolongadament la Pantalla de bloqueig per editar el rellotge i el fons de pantalla</string>
+    <string name="long_press_editor_style_title">Premeu prolongadament per editar</string>
     <string name="long_press_home_key">"Premeu prologadament el botó d'Inici"</string>
     <string name="long_press_menu_key">"Premeu prolongadament el botó d'Inici"</string>
     <string name="long_press_menu_key_when_lock">Pulsació llarga al botó menú a la Pantalla de bloqueig</string>
@@ -5683,8 +5672,6 @@ Continua per a accedir als ajustaments addicionals."</string>
     <string name="miui_type_style_title">Estil de mecanografia</string>
     <string name="miui_updater">Actualització del sistema</string>
     <string name="miui_userguide">"Guia de l'usuari"</string>
-    <string name="miui_visual_perception_summary">Feu que el vostre dispositiu detecti la vostra presència i seleccioneu opcions de bloqueig i desbloqueig més convenients</string>
-    <string name="miui_visual_perception_title">Percepció visual activa</string>
     <string name="miuix_access_state_desc">Seleccionat</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccioneu-ho tot</string>
@@ -6643,8 +6630,10 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="phone_language_summary" />
     <string name="photo_data">Fotos i vídeos</string>
     <string name="photography_handle_button_function_settings">"Configura el botó d'adherència"</string>
-    <string name="photography_handle_charge_protected">"Autodesconnexió de l'empunyadura durant la càrrega"</string>
-    <string name="photography_handle_charge_protected_summary">Quan el vostre dispositiu reconegui que feu servir una empunyadura de càmera, el dispositiu deixarà de carregar-se i mantindrà la bateria a %1$s</string>
+    <string name="photography_handle_charge_protected">"Protecció de càrrega de l'empunyadura"</string>
+    <string name="photography_handle_charge_protected_summary">"Quan l'empunyadura de la càmera està connectada, el dispositiu deixarà de carregar-se i mantindrà la bateria al %1$s"</string>
+    <string name="photography_handle_charge_state">"Càrrega des de l'empunyadura de la càmera"</string>
+    <string name="photography_handle_charge_state_summary">Carregueu aquest dispositiu des de les pinces de la càmera sempre que estiguin connectats</string>
     <string name="photography_handle_launch_and_take_photo">Fes una foto</string>
     <string name="photography_handle_launch_camera">Obre la càmera</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">"Premeu prolongadament el botó de l'obturador per dur a terme una acció"</string>
@@ -6773,8 +6762,10 @@ Prem el botó d'engegada i el d'apujar el volum a la vegada"</string>
     <string name="pref_show_lunar_calendar_title">Mostra el calendari Xinès tradicional a la pantalla de bloqueig</string>
     <string name="pref_title_network_details">Detalls de la xarxa</string>
     <string name="pref_title_update_notification">"Notificacions d'ús de dades"</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Quan la pantalla estigui bloquejada, feu doble toc a Baixa el volum per a fer una foto</string>
     <string name="pref_volume_launch_camera_summary">Per obrir la càmera, premeu dos cops Baixa el volum</string>
     <string name="pref_volume_launch_camera_title">Obre la càmera</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">Quan la pantalla estigui bloquejada, feu doble toc a Baixa el volum per obrir la Càmera</string>
     <string name="pref_volume_wake_summary">"El dispositiu s'engega prement les tecles de volum"</string>
     <string name="pref_volume_wake_title">"Engega'l amb les tecles de volum"</string>
     <string name="preference_change_password_title">Canvia la contrasenya</string>
@@ -7329,6 +7320,8 @@ Reinicia el dispositiu i torna-ho a provar."</string>
     <string name="safety_center_summary">"Seguretat d'aplicacions, bloqueig del dispositiu, permisos"</string>
     <string name="safety_center_title">Seguretat i privadesa</string>
     <string name="sar">"Informació d'exposició RF"</string>
+    <string name="satellite_call_assistant">Configuració de la trucada</string>
+    <string name="satellite_network_title">Funcions de trucada per satèl·lit</string>
     <string name="saturday">dissabte</string>
     <string name="saturday_first_day_of_week">Dissabte</string>
     <string name="saturday_short">ds.</string>
@@ -7359,7 +7352,6 @@ Reinicia el dispositiu i torna-ho a provar."</string>
     <string name="screen_dark_mode_select_time_error_summary">"L'hora 'inici i l'hora de finalització no poden ser les mateixes"</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">"És possible que algunes aplicacions apareguin incorrectament en el mode fosc. Aquí pots restringir l'ús del mode fosc per a aplicacions en concret."</string>
     <string name="screen_dark_mode_smart_dark_title">Mode fosc global</string>
-    <string name="screen_dark_mode_time_summary">"El vostre dispositiu canviarà al Mode fosc al voltant de l'hora programada quan apagueu la pantalla"</string>
     <string name="screen_dark_mode_time_title">Programeu el Mode fosc</string>
     <string name="screen_effect">Esquema de colors</string>
     <string name="screen_effect_adapt_color_summary">Ajustar els colors segons les condicions de llum actuals</string>
@@ -8483,6 +8475,11 @@ Premeu dos cops per obrir Recents."</string>
     <string name="sort_order_frequent_notification">Més freqüents</string>
     <string name="sort_order_recent_notification">Més recents</string>
     <string name="sort_order_size">Ordena per mida</string>
+    <string name="sos_add_area_code_switch_summary">"Afegiu automàticament el codi postal a un número de telèfon quan feu una trucada d'emergència amb les comunicacions de Tiantong Satellite"</string>
+    <string name="sos_add_area_code_switch_title">Afegeix el codi postal automàticament</string>
+    <string name="sos_area_code_settings_hint">Introduïu el codi postal</string>
+    <string name="sos_area_code_settings_summary">"Establiu manualment el codi postal del número de telèfon del vostre contacte d'emergència"</string>
+    <string name="sos_area_code_settings_title">Establiu el codi postal</string>
     <string name="sos_phone_call_privacy_dialog_message">"Per a trucar els teus contactes d'emergència i reproduir la gravació SOS, aquesta aplicació necessita els següents permisos:
 • Fer trucades
 Per a fer trucades als teus contactes d'emergència
@@ -9789,10 +9786,6 @@ Afegiu una paraula tocant el botó Afegeix (+)."</string>
     <string name="uwb_settings_title">Banda ultraampla (UWB)</string>
     <string name="v7_preference_off">DESACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
-    <string name="valid_net_access">"Veure les credencials d'accés a la xarxa"</string>
-    <string name="valid_net_ok">"D'acord"</string>
-    <string name="valid_net_result_fail">"No s'ha pogut obtenir la informació. Espereu un parell de minuts i proveu-ho de nou."</string>
-    <string name="valid_net_result_title">Resultat</string>
     <string name="verify_apps_over_usb_summary">Comprova les aplicacions instal·lades mitjançant ADB/ADT per detectar comportaments perillosos</string>
     <string name="verify_apps_over_usb_title">Verifica aplicacions per USB</string>
     <string name="version_text">versió %1$s</string>
@@ -10702,7 +10695,6 @@ podreu utilitzar les dels altres usuaris."</string>
     <string name="winscope_trace_quick_settings_title">Traça de Winscope</string>
     <string name="wireless_connected">Connectat</string>
     <string name="wireless_debugging_main_switch_title">Utilitza la depuració sense fil</string>
-    <string name="wireless_display">Pantalla sense fil</string>
     <string name="wireless_networks_settings_title">Connexions sense fil i xarxes</string>
     <string name="wireless_off">Desactivat</string>
     <string name="wireless_on">Activat</string>

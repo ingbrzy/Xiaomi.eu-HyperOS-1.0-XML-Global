@@ -218,7 +218,7 @@ majd húzza el a mozgatáshoz"</string>
  Alkalmazás kiválasztásához koppintson a \"Lebegő ablakok\" elemre az Előzmények között."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"Koppintson egy alkalmazásra az oldalsávon, ha lebegő ablakban szeretné megnyitni.
 - Húzza az alkalmazást a képernyő közepére, ha lebegő ablakban szeretné megnyitni, vagy oldalra, ha Osztott képernyőt szeretne használni."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Húzzon egy alkalmazást az oldalsávról a képernyő közepére a lebegő ablakban való megnyitásához, vagy oldalra az osztott képernyő használatához</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Húzzon el egy alkalmazást az oldalsávról a képernyő közepére, ha lebegő ablakban szeretné megnyitni, vagy oldalra, ha az Osztott képernyőt szeretné használni</string>
     <string name="freeform_vedio_description_pad">Húzza ki az elemeket a rögzített helyzetből, ha lebegő ablakként szeretné megnyitni</string>
     <string name="friday">Péntek</string>
     <string name="friday_short">Pén</string>
@@ -266,7 +266,6 @@ majd húzza el a mozgatáshoz"</string>
     <string name="miuix_appcompat_delete_description">Törlés</string>
     <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
-    <string name="miuix_appcompat_edit">Szerkeszt</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
     <string name="miuix_appcompat_select_all">Az összes kiválasztása</string>

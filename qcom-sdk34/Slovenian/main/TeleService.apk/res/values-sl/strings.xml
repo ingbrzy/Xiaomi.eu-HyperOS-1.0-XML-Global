@@ -995,8 +995,8 @@ Tega klica ni mogoče dokončati. Poskusite znova, ko se telefon ohladi.
     <string name="mobile_networks">Nastavitve mobilnega omrežja</string>
     <string name="mobile_property">Lastnosti mobilnega omrežja</string>
     <string name="mobile_settings_screen_title">Mobilni podatki</string>
-    <string name="mobile_special_network_optimization_config_summary">Inteligentno zazna različne scenarije v omrežju za izboljšanje komunikacije</string>
-    <string name="mobile_special_network_optimization_config_title">Način prilaganja scene</string>
+    <string name="mobile_special_network_optimization_config_summary">Samodejno izboljša kakovost klica s prilagajanjem različnim prizorom</string>
+    <string name="mobile_special_network_optimization_config_title">Prilagodi različnim prizorom</string>
     <string name="modem_dialog_body">Mobilno omrežje je nestabilno, kar lahko povzroči prekinitve in težave z omrežjem. Želite poslati povratne informacije na analizo? To poročilo lahko vsebuje osebne podatke. Vaše poročilo bo v pomoč za rešitev težav in popravkov in ne bo nikoli deljeno v katere koli komercialne namene.</string>
     <string name="modem_dialog_title">Mobilno omrežje je nestabilno</string>
     <string name="monday">Ponedeljek</string>
@@ -1568,7 +1568,6 @@ Vmesnik UT: %5$s"</string>
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">Želite zapreti</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">Nizko stanje baterije</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">Ne prikaži več</string>

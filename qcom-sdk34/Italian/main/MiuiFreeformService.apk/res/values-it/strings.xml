@@ -218,7 +218,7 @@ quindi trascina per spostare"</string>
 · Tocca \"Finestre a comparsa\" nella sezione Recenti per selezionare le app."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Tocca un'app sulla barra laterale per aprirla in una finestra mobile.
 · Trascina un'app al centro dello schermo per aprirla in una finestra a comparsa oppure lateralmente per utilizzare il Multischermo."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">"Trascina un'app dalla barra laterale al centro dello schermo per aprirla in una finestra a comparsa, oppure di lato per utilizzare il Multischermo"</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">"· Trascina un'app dalla barra laterale al centro dello schermo per aprirla in una finestra a comparsa o lateralmente per utilizzare il Multischermo."</string>
     <string name="freeform_vedio_description_pad">Trascina gli elementi fuori dal dock per aprire finestre a comparsa</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
@@ -266,7 +266,6 @@ quindi trascina per spostare"</string>
     <string name="miuix_appcompat_delete_description">Elimina</string>
     <string name="miuix_appcompat_deselect_all">Deseleziona tutti</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleziona tutto</string>
-    <string name="miuix_appcompat_edit">Modifica</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annulla</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>

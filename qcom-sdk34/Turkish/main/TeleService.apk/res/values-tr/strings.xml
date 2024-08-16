@@ -1003,8 +1003,8 @@ Bu süre zarfında acil durum aramaları yapabilirsiniz."</string>
     <string name="mobile_networks">Mobil ağ ayarları</string>
     <string name="mobile_property">Mobil ağ özellikleri</string>
     <string name="mobile_settings_screen_title">Mobil veri</string>
-    <string name="mobile_special_network_optimization_config_summary">İletişim deneyimini zenginleştirmek için ağdaki birden fazla senaryoyu akıllıca algılayın</string>
-    <string name="mobile_special_network_optimization_config_title">Sahne uyarlamalı mod</string>
+    <string name="mobile_special_network_optimization_config_summary">Farklı sahnelere otomatik uyum sağlayarak arama kalitesini iyileştirin</string>
+    <string name="mobile_special_network_optimization_config_title">Farklı sahnelere uyum sağla</string>
     <string name="modem_dialog_body">"Mobil ağ karasız, bu durum ağ sorunlarına ve kesintilere neden oluyor. Mi'ye bir hata raporu analiz edilmek üzere gönderilsin mi? Bu rapor kişisel bilgilerinizi içerebilir. Raporunuz bu hatayı düzeltmeye yardımcı olmak amacıyla kullanılacak olup, herhangi bir reklam içeriğiyle hiçbir zaman paylaşılmayacaktır."</string>
     <string name="modem_dialog_title">Mobil ağ kararsız</string>
     <string name="monday">Pazartesi</string>
@@ -1576,7 +1576,6 @@ UT Arayüzü: %5$s"</string>
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">Şimdi çıkış yap</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">Düşük pil</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">Tekrar gösterme</string>
@@ -1584,7 +1583,7 @@ UT Arayüzü: %5$s"</string>
     <string name="satellite_notification_title">Zayıf bir sinyal alanındasınız</string>
     <string name="satellite_point_title">Turn on Tiantong Satellite communications</string>
     <string name="satellite_select_enable_sim">SIM kart seçin</string>
-    <string name="satellite_signal_boost_setting_summary">Enhance signal strength and stability in cloudy or other non-optimal weather conditions</string>
+    <string name="satellite_signal_boost_setting_summary">Bulutlu veya diğer uygun olmayan hava koşullarında sinyal gücünü ve kararlılığını artırın</string>
     <string name="satellite_signal_boost_setting_title">Use Tiantong signal amplifier</string>
     <string name="satellite_start">Anladım</string>
     <string name="satellite_start_battery">Anladım</string>

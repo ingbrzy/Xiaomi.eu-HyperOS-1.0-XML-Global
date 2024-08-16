@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">เสียงเริ่มต้น (%1$s)</string>
     <string name="android_ringtone_silent">ไม่มี</string>
     <string name="android_ringtone_unknown">เสียงเรียกเข้าที่ไม่รู้จัก</string>
-    <string name="aon_reader_support_scene_des">พลิกหน้าขณะอ่าน</string>
-    <string name="aon_video_support_scene_des">ควบคุมการเล่นวิดีโอ</string>
     <string name="app_continuity_channel_name">การปรับเลย์เอาต์ของแอป</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">ไม่สามารถเปิดรหัสการชำระเงิน Alipay</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">คอมพิวเตอร์</string>
     <string name="device_xiaomi">Mi Phone</string>
     <string name="dewdrops">น้ำค้างยามเช้า</string>
-    <string name="dialog_enable_mic_btn_negative">ยกเลิก </string>
-    <string name="dialog_enable_mic_btn_positive">เปิดใช้งาน</string>
-    <string name="dialog_enable_mic_message">หากต้องการใช้ฟีเจอร์นี้ ให้เปิดไมโครโฟนก่อน</string>
-    <string name="dialog_enable_mic_title">เปิดไมโครโฟน</string>
     <string name="digitaluniverse">จักรวาลดิจิตอล (สเตอริโอ)</string>
     <string name="disable_nfc">ปิด NFC สำหรับการชาร์จแบบไร้สาย</string>
     <string name="disable_nfc_haptic_reverse">ปิด NFC และการสั่นเพื่อชาร์จไร้สายย้อนกลับ</string>
@@ -511,12 +505,6 @@
     <string name="throwing_screen">ฉายภาพ</string>
     <string name="tips_prompt_enable_midrop">Mi แชร์</string>
     <string name="toast_camera_satellite_mutually_exclusive">ไม่สามารถใช้กล้องในขณะที่ใช้การสื่อสารผ่านดาวเทียม</string>
-    <string name="toast_mic_muted">ไมโครโฟนปิดอยู่</string>
-    <string name="toast_mic_unmuted">ไมโครโฟนเปิดอยู่</string>
-    <string name="tof_music_support_scene_des">รองรับการควบคุมเครื่องเล่นเพลง</string>
-    <string name="tof_office_support_scene_des">รองรับเอกสาร Word และการนำเสนอ PowerPoint</string>
-    <string name="tof_short_video_support_scene_des">รองรับการสลับระหว่างวิดีโอ</string>
-    <string name="tof_video_support_scene_des">รองรับการควบคุมเครื่องเล่นวิดีโอแบบเต็มหน้าจอ</string>
     <string name="total">DND</string>
     <string name="total_description">ปิดเสียงและปิดการสั่นสะเทือนสำหรับทุกรายการยกเว้นนาฬิกาปลุก</string>
     <string name="total_title">DND</string>

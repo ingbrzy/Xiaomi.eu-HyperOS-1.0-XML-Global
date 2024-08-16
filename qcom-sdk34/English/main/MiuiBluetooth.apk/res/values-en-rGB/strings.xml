@@ -116,8 +116,6 @@ Check the Settings for details."</string>
     <string name="fast_connect_device_title_connecting">Connecting…</string>
     <string name="fast_connect_device_title_find_headset">Find %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">"Looks like this device isn't yours: %1$s"</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Connected</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Camera</string>
     <string name="fast_connect_new_feture_anti_lost">Missing earphone alert</string>
     <string name="fast_connect_new_feture_same_account">Connect synced devices</string>
     <string name="fast_connect_new_feture_sound_normalizer">Better sound</string>
@@ -211,7 +209,6 @@ Faster connection protocol."</string>
     <string name="headset_download_fw">Update</string>
     <string name="headset_downloading">Downloading</string>
     <string name="headset_downloading_indicate">Downloading…</string>
-    <string name="headset_dual_device">Earphones connected automatically. Dual connection is off.</string>
     <string name="headset_find_new_version">An update is available</string>
     <string name="headset_finish_fw">Updated successfully</string>
     <string name="headset_finish_fw_failed">An error occurred</string>
@@ -229,8 +226,8 @@ Faster connection protocol."</string>
     <string name="headset_updating">Updating</string>
     <string name="information_go_to_fitness">You can find the related settings in Mi Fitness</string>
     <string name="install_package">Install %1$s for more functions</string>
-    <string name="lea_disable_successfully">Switched to regular Bluetooth</string>
-    <string name="lea_enable_successfully">Switched to Bluetooth LE Audio</string>
+    <string name="lea_disable_successfully">Regular Bluetooth is now used for earphones connection and audio transmission</string>
+    <string name="lea_enable_successfully">LE Audio is now used for earphones connection and audio transmission</string>
     <string name="mi_audio_relay_cancel">OK</string>
     <string name="mi_audio_relay_connect_failed">Try again</string>
     <string name="mi_audio_relay_localphone">This device</string>
@@ -280,7 +277,6 @@ Faster connection protocol."</string>
     <string name="miuix_appcompat_delete_description">Delete</string>
     <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
-    <string name="miuix_appcompat_edit">Edit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
     <string name="miuix_appcompat_search_input_description">Search</string>
     <string name="miuix_appcompat_select_all">Select all</string>

@@ -116,8 +116,6 @@ Více podrobností naleznete v Nastavení."</string>
     <string name="fast_connect_device_title_connecting">Připojování…</string>
     <string name="fast_connect_device_title_find_headset">Najít %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Zdá se, že toto zařízení není vaše: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Připojeno</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Fotoaparát</string>
     <string name="fast_connect_new_feture_anti_lost">Upozornění na chybějící sluchátko</string>
     <string name="fast_connect_new_feture_same_account">Připojení synchronizovaných zařízení</string>
     <string name="fast_connect_new_feture_sound_normalizer">Vylepšení zvuku</string>
@@ -211,7 +209,6 @@ Rychlejší protokol připojování."</string>
     <string name="headset_download_fw">Aktualizovat</string>
     <string name="headset_downloading">Stahování</string>
     <string name="headset_downloading_indicate">Stahování…</string>
-    <string name="headset_dual_device">Sluchátka byla automaticky připojena. Duální připojení je vypnuto.</string>
     <string name="headset_find_new_version">Dostupná aktualizace</string>
     <string name="headset_finish_fw">Úspěšně aktualizováno</string>
     <string name="headset_finish_fw_failed">Došlo k chybě</string>
@@ -229,8 +226,8 @@ Rychlejší protokol připojování."</string>
     <string name="headset_updating">Aktualizace</string>
     <string name="information_go_to_fitness">Související nastavení naleznete v aplikaci Mi Fitness</string>
     <string name="install_package">Pro více funkcí nainstalujte %1$s</string>
-    <string name="lea_disable_successfully">Přepnuto na běžné připojení Bluetooth</string>
-    <string name="lea_enable_successfully">Přepnuto na Bluetooth LE Audio</string>
+    <string name="lea_disable_successfully">Běžné připojení Bluetooth je nyní využito pro připojení sluchátek a přenos zvuku</string>
+    <string name="lea_enable_successfully">LE Audio je nyní využito pro připojení sluchátek a přenos zvuku</string>
     <string name="mi_audio_relay_cancel">OK</string>
     <string name="mi_audio_relay_connect_failed">Opakovat</string>
     <string name="mi_audio_relay_localphone">Toto zařízení</string>
@@ -280,7 +277,6 @@ Rychlejší protokol připojování."</string>
     <string name="miuix_appcompat_delete_description">Smazat</string>
     <string name="miuix_appcompat_deselect_all">Zrušit výběr</string>
     <string name="miuix_appcompat_deselect_all_description">Zrušit výběr</string>
-    <string name="miuix_appcompat_edit">Upravit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Zrušit</string>
     <string name="miuix_appcompat_search_input_description">Hledat</string>
     <string name="miuix_appcompat_select_all">Vybrat vše</string>

@@ -218,7 +218,7 @@
 ·Натиснете \"Плаващи прозорци\" в Скорошни, за да изберете приложения."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Натиснете приложение в страничната лента, за да го отворите в плаващ прозорец.
 · Провлачете приложение до центъра на екрана, за да го отворите в плаващ прозорец, или отстрани, за да използвате Разделен екран."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Провлачете приложение от страничната лента до центъра на екрана, за да го отворите в плаващ прозорец, или до другата страна, за да използвате Разделен екран</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Провлачете приложение от страничната лента до центъра на екрана, за да го отворите в плаващ прозорец, или до другата страна, за да използвате Разделен екран</string>
     <string name="freeform_vedio_description_pad">Плъзгайте елементи извън панела, за да отваряте плаващи прозорци</string>
     <string name="friday">Петък</string>
     <string name="friday_short">Пт.</string>
@@ -266,7 +266,6 @@
     <string name="miuix_appcompat_delete_description">Изтрий</string>
     <string name="miuix_appcompat_deselect_all">Откажи всички</string>
     <string name="miuix_appcompat_deselect_all_description">Откажи всички</string>
-    <string name="miuix_appcompat_edit">Редактиране</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отказ</string>
     <string name="miuix_appcompat_search_input_description">Търси</string>
     <string name="miuix_appcompat_select_all">Избери всички</string>

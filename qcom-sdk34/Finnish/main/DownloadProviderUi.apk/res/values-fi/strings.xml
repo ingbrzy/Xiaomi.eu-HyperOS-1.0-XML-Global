@@ -34,7 +34,6 @@
     <string name="abc_toolbar_collapse_description">Tiivistä</string>
     <string name="about">Tietoja</string>
     <string name="actionbar_button_up_description">Takaisin</string>
-    <string name="ad_flag_text">MAINOS</string>
     <string name="add_download_download">Lataa</string>
     <string name="add_download_error_not_support">Tätä linkkiä ei tueta</string>
     <string name="add_download_text_hint">Syötä HTTP/HTTPS-linkki</string>
@@ -292,9 +291,6 @@
     <string name="month_september_shortest">Syys</string>
     <string name="more">Lisää</string>
     <string name="morning">Aamu</string>
-    <string name="native_body">Tekstiosa</string>
-    <string name="native_headline">Otsikko</string>
-    <string name="native_media_view">Medianäkymä</string>
     <string name="new_file_notification_title_image">Kuva</string>
     <string name="night">Ilta</string>
     <string name="no_downloads">Ei tiedostoja</string>
@@ -361,7 +357,6 @@
     <string name="size_peta_byte">Pt</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">Tt</string>
-    <string name="skip_ad">Ohita</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Sunnuntai</string>
@@ -424,7 +419,6 @@
     <string name="v7_preference_off">POIS KÄYTÖSTÄ</string>
     <string name="v7_preference_on">KÄYTÖSSÄ</string>
     <string name="version">Versio %s</string>
-    <string name="watermark_label_prefix">AdMob -</string>
     <string name="wednesday">Keskiviikko</string>
     <string name="wednesday_short">Ke</string>
     <string name="wednesday_shortest">Ke</string>

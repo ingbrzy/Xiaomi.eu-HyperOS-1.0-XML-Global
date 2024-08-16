@@ -705,26 +705,6 @@
     <string name="aod_style_description">화면이 꺼져있을 때 시계, 날짜, 시간, 알림 및 기타 항목 표시</string>
     <string name="aod_style_title">스타일</string>
     <string name="aod_to_close">끄기</string>
-    <string name="aon_gesture_cue_tone_summary">손바닥이 감지되면 확인음 재생</string>
-    <string name="aon_gesture_cue_tone_title">확인음 재생</string>
-    <string name="aon_gesture_dialog_message">이 기능이 켜져 있으면 이 기기가 사용자의 동작을 감지하고 분석합니다. 귀하의 개인 정보는 처리되지 않으며, 어떠한 데이터도 로컬이나 클라우드에 저장되지 않습니다.</string>
-    <string name="aon_gesture_dialog_title">개인 정보 보호 성명</string>
-    <string name="aon_gesture_double_press_summary">재생 및 일시정지</string>
-    <string name="aon_gesture_double_press_title">두 번 누르기 모션 수행</string>
-    <string name="aon_gesture_draw_circle_summary_pad">태블릿으로 전송된 통화 응답 또는 종료</string>
-    <string name="aon_gesture_draw_circle_summary_phone">통화 응답 및 종료</string>
-    <string name="aon_gesture_draw_circle_title">원 그리기</string>
-    <string name="aon_gesture_enable_summary" formatted="false">카메라와 손의 거리를 %d-%d cm로 유지하고 화면 상단에 손 아이콘이 표시되면 제스처를 수행하십시오</string>
-    <string name="aon_gesture_learn_title">제스처 알아보기</string>
-    <string name="aon_gesture_left_right_waving_summary">재생 진행률 조정 및 노래 간 전환</string>
-    <string name="aon_gesture_left_right_waving_title">가로로 흔들기</string>
-    <string name="aon_gesture_settings">비접촉 제스처</string>
-    <string name="aon_gesture_status_close">꺼짐</string>
-    <string name="aon_gesture_status_open">켜짐</string>
-    <string name="aon_gesture_supported_app_title">지원되는 앱</string>
-    <string name="aon_gesture_supported_title">사용 가능한 제스처</string>
-    <string name="aon_gesture_up_down_waving_summary">미디어 볼륨 조정, 짧은 동영상 간 전환, 문서의 페이지 넘기기</string>
-    <string name="aon_gesture_up_down_waving_title">세로로 흔들기</string>
     <string name="ap_connect_failed">연결 실패</string>
     <string name="ap_connected_battery_level">" | 배터리 %1$s"</string>
     <string name="ap_p2p_dialog_message">현재 공유 Wi-Fi 연결이 이미 사용되고 있습니다. 개인용 핫스팟을 켜기 전에 Wi-Fi Direct, Mi Share, 캐스팅 또는 기타 무선 전송 서비스를 사용하고 있지 않은지 확인하십시오.</string>
@@ -2023,10 +2003,21 @@ CA 인증서를 설치하면 인증서 소유자가 내가 이용하는 웹사�
     <string name="camera_gesture_title">손목을 두 번 돌려 카메라 열기</string>
     <string name="camera_grip_firmware_need_update">업데이트</string>
     <string name="camera_grip_firmware_new_version">이미 최신 버전입니다</string>
+    <string name="camera_grip_firmware_save_button_know">알겠습니다</string>
+    <string name="camera_grip_firmware_save_button_negaitive">지금 안함</string>
+    <string name="camera_grip_firmware_save_button_positive">업데이트</string>
+    <string name="camera_grip_firmware_save_channel">카메라 그립 알림</string>
+    <string name="camera_grip_firmware_save_networking_tips">Wi-Fi에 연결하시거나 모바일 데이터를 켜시고 다시 펌웨어 업데이트를 시도하십시오.</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">이 기기를 계속 사용하시려면 펌웨어를 업데이트하십시오.</string>
+    <string name="camera_grip_firmware_save_title">전문가용 카메라 그립</string>
     <string name="camera_grip_firmware_title_text">펌웨어 업데이트</string>
     <string name="camera_grip_firmware_update_describe">업데이트 과정 중에는 그립 연결을 유지하십시오</string>
     <string name="camera_grip_firmware_update_faild">업데이트 실패</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">카메라 그립을 제거하고 기기를 충전하신 후 다시 펌웨어 업데이트를 시도하십시오.</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">펌웨어 업데이트 전 기기 및 카메라 그립을 충전하십시오</string>
     <string name="camera_grip_firmware_update_ongoing">업데이트 중입니다. 그립을 분리하지 마십시오.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">기기를 충전기에 연결하시고 다시 펌웨어 업데이트를 시도하십시오</string>
     <string name="camera_grip_firmware_update_successful">업데이트 성공</string>
     <string name="camera_key_action_app_title">앱 열기</string>
     <string name="camera_key_action_category_title">카메라 사용 실패</string>
@@ -3405,7 +3396,7 @@ CA 인증서를 설치하면 인증서 소유자가 내가 이용하는 웹사�
     <string name="ethernet_data_template">^1 이더넷 데이터</string>
     <string name="ethernet_data_usage">이더넷 데이터 사용량</string>
     <string name="ethernet_tether_checkbox_text">이더넷을 통해 공유</string>
-    <string name="ethernet_tethering_subtext">이더넷을 통해 휴대전화의 네트워크 연결 공유</string>
+    <string name="ethernet_tethering_subtext">이더넷을 통해 휴대전화의 인터넷 연결 공유</string>
     <string name="evening">오후</string>
     <string name="every_day">매일</string>
     <string name="exceptional_case">예외</string>
@@ -4758,10 +4749,6 @@ Xiaomi Cloud를 여시고 항목을 복구하십시오."</string>
     <string name="load_esim_info">eSIM 정보를 가져오는 중…</string>
     <string name="load_esim_info_error">eSIM 정보를 불러올 수 없습니다. 1-2분 정도 기다리신 후 다시 시도하십시오.</string>
     <string name="loading">잠시만 기다려주십시오…</string>
-    <string name="loading_eid_error_message">EID 정보를 가져올 수 없습니다. 1-2분 후에 다시 시도하십시오.</string>
-    <string name="loading_eid_error_ok">알겠습니다</string>
-    <string name="loading_eid_error_title">로드 실패</string>
-    <string name="loading_eid_tip">EID 정보를 가져오는 중…</string>
     <string name="loading_injected_setting_summary">로드 중…</string>
     <string name="local_auto_backup_off">꺼짐</string>
     <string name="local_auto_backup_on">켜짐</string>
@@ -5161,6 +5148,8 @@ PIN을 설정하십시오.
     <string name="long_background_tasks_title">오래 걸리는 백그라운드 작업</string>
     <string name="long_press_back_key">뒤로가기 버튼을 길게 누르기</string>
     <string name="long_press_buttom_key">잠금화면에서 홈 버튼을 길게 누르기</string>
+    <string name="long_press_editor_style_summary">잠금화면을 길게 눌러 시계 및 배경화면 편집</string>
+    <string name="long_press_editor_style_title">길게 눌러 편집</string>
     <string name="long_press_home_key">홈 버튼을 길게 누르기</string>
     <string name="long_press_menu_key">메뉴 버튼을 길게 누르기</string>
     <string name="long_press_menu_key_when_lock">잠금화면에서 메뉴를 길게 누르기</string>
@@ -5701,8 +5690,6 @@ PIN을 설정하십시오.
     <string name="miui_type_style_title">타이핑 스타일</string>
     <string name="miui_updater">시스템 업데이트</string>
     <string name="miui_userguide">사용자 가이드</string>
-    <string name="miui_visual_perception_summary">기기가 사용자의 존재를 감지하여 더욱 편리한 잠금 및 잠금 해제 옵션 선택 가능</string>
-    <string name="miui_visual_perception_title">능동적 시각 감지</string>
     <string name="miuix_access_state_desc">선택됨</string>
     <string name="miuix_appcompat_action_mode_deselect_all">전체 선택 해제</string>
     <string name="miuix_appcompat_action_mode_select_all">모두 선택</string>
@@ -6661,8 +6648,10 @@ OTG는 10분 동안 미사용 시 자동으로 꺼집니다."</string>
     <string name="phone_language_summary" />
     <string name="photo_data">사진 및 동영상</string>
     <string name="photography_handle_button_function_settings">그립 버튼 설정</string>
-    <string name="photography_handle_charge_protected">그립 충전 자동 연결 해제</string>
-    <string name="photography_handle_charge_protected_summary">기기가 카메라 그립 사용을 인식하면 충전을 중지하고 배터리를 %1$s로 유지</string>
+    <string name="photography_handle_charge_protected">그립 충전 보호</string>
+    <string name="photography_handle_charge_protected_summary">카메라 그립이 연결되어 있을 시 충전을 중지하고 배터리를 %1$s로 유지</string>
+    <string name="photography_handle_charge_state">카메라 그립으로 충전</string>
+    <string name="photography_handle_charge_state_summary">기기가 연결될 때마다 카메라 그립을 사용하여 충전</string>
     <string name="photography_handle_launch_and_take_photo">사진 촬영</string>
     <string name="photography_handle_launch_camera">카메라 열기</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">셔터 버튼을 길게 눌러 동작 수행</string>
@@ -6791,8 +6780,10 @@ OTG는 10분 동안 미사용 시 자동으로 꺼집니다."</string>
     <string name="pref_show_lunar_calendar_title">잠금화면에 음력 달력 표시</string>
     <string name="pref_title_network_details">네트워크 세부정보</string>
     <string name="pref_title_update_notification">데이터 사용량 알림</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">화면이 잠기면 볼륨 다운 버튼을 더블 탭하여 카메라를 열고 사진 촬영</string>
     <string name="pref_volume_launch_camera_summary">볼륨 다운 버튼을 두 번 눌러 카메라 실행</string>
     <string name="pref_volume_launch_camera_title">카메라 실행</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">화면이 잠기면 볼륨 다운 버튼을 더블 탭하여 카메라 열기</string>
     <string name="pref_volume_wake_summary">볼륨 버튼을 눌러 기기의 절전 모드 해제</string>
     <string name="pref_volume_wake_title">볼륨 버튼으로 깨우기</string>
     <string name="preference_change_password_title">비밀번호 변경</string>
@@ -7350,6 +7341,8 @@ OTG는 10분 동안 미사용 시 자동으로 꺼집니다."</string>
     <string name="safety_center_summary">앱 보안, 기기 잠금, 권한</string>
     <string name="safety_center_title">보안 및 개인 정보 보호</string>
     <string name="sar">RF 노출 정보</string>
+    <string name="satellite_call_assistant">통화 설정</string>
+    <string name="satellite_network_title">위성 통화 기능</string>
     <string name="saturday">토요일</string>
     <string name="saturday_first_day_of_week">토요일</string>
     <string name="saturday_short">토</string>
@@ -7380,7 +7373,6 @@ OTG는 10분 동안 미사용 시 자동으로 꺼집니다."</string>
     <string name="screen_dark_mode_select_time_error_summary">시작 시간 및 종료 시간은 동일할 수 없습니다</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">일부 앱이 다크 모드에서 잘못 표시될 수 있습니다. 여기에서 개별 앱에 대한 다크 모드 사용을 제한할 수 있습니다.</string>
     <string name="screen_dark_mode_smart_dark_title">전체 다크 모드</string>
-    <string name="screen_dark_mode_time_summary">화면을 끄시면 예약된 시간에 기기가 다크 모드로 전환됩니다</string>
     <string name="screen_dark_mode_time_title">예약 다크 모드</string>
     <string name="screen_effect">배색 방안</string>
     <string name="screen_effect_adapt_color_summary">현재 밝기에 따라 색상 조절</string>
@@ -8504,6 +8496,11 @@ SIM으로 전환해도 %1$s 서비스는 취소되지 않습니다."</string>
     <string name="sort_order_frequent_notification">빈도순</string>
     <string name="sort_order_recent_notification">최근순</string>
     <string name="sort_order_size">크기순 정렬</string>
+    <string name="sos_add_area_code_switch_summary">Tiantong 위성 통신으로 긴급 전화를 발신 시 자동으로 전화번호에 지역 코드 추가</string>
+    <string name="sos_add_area_code_switch_title">자동으로 지역 코드 추가</string>
+    <string name="sos_area_code_settings_hint">지역 코드 입력</string>
+    <string name="sos_area_code_settings_summary">긴급 연락처 전화번호의 지역 코드를 수동으로 설정</string>
+    <string name="sos_area_code_settings_title">지역 코드 설정</string>
     <string name="sos_phone_call_privacy_dialog_message">"긴급 연락처에 연락하거나 SOS 녹음을 재생하시려면, 앱에 다음의 권한이 요구됩니다:
 • 통화 발신
 긴급 연락처에 통화를 발신하기 위해
@@ -9810,10 +9807,6 @@ SIM으로 전환해도 %1$s 서비스는 취소되지 않습니다."</string>
     <string name="uwb_settings_title">초광대역(UWB)</string>
     <string name="v7_preference_off">사용 안함</string>
     <string name="v7_preference_on">사용</string>
-    <string name="valid_net_access">네트워크 접근 자격 증명 보기</string>
-    <string name="valid_net_ok">확인</string>
-    <string name="valid_net_result_fail">정보를 가져올 수 없습니다. 1-2분 후에 다시 시도 하십시오.</string>
-    <string name="valid_net_result_title">결과</string>
     <string name="verify_apps_over_usb_summary">ADB/ADT를 통해 설치된 앱에 유해한 동작이 있는지 확인</string>
     <string name="verify_apps_over_usb_title">USB를 통해 설치된 앱 확인</string>
     <string name="version_text">버전 %1$s</string>
@@ -10723,7 +10716,6 @@ SIM으로 전환해도 %1$s 서비스는 취소되지 않습니다."</string>
     <string name="winscope_trace_quick_settings_title">Winscope 추적</string>
     <string name="wireless_connected">연결됨</string>
     <string name="wireless_debugging_main_switch_title">무선 디버깅 사용</string>
-    <string name="wireless_display">무선 디스플레이</string>
     <string name="wireless_networks_settings_title">무선 및 네트워크 설정</string>
     <string name="wireless_off">꺼짐</string>
     <string name="wireless_on">켜짐</string>

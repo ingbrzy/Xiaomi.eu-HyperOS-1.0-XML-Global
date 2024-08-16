@@ -704,26 +704,6 @@ Pripomoček: %2$s
     <string name="aod_style_description">Prikaži uro, datum, čas, obvestila in druge predmete, ko je zaslon izklopljen</string>
     <string name="aod_style_title">Stil</string>
     <string name="aod_to_close">Izklopi</string>
-    <string name="aon_gesture_cue_tone_summary">Vsakič, ko je zaznana vaša dlan, se predvaja potrditveni zvok</string>
-    <string name="aon_gesture_cue_tone_title">Predvajanje potrditvenega zvoka</string>
-    <string name="aon_gesture_dialog_message">Ko je ta funkcija vklopljena, naprava zazna in analizira vaše poteze. Vaši osebni podatki ne bodo obdelani, nobeni podatki ne bodo shranjeni lokalno ali v oblaku.</string>
-    <string name="aon_gesture_dialog_title">Izjava o zasebnosti</string>
-    <string name="aon_gesture_double_press_summary">Predvajanje in premor predvajanja</string>
-    <string name="aon_gesture_double_press_title">Izvedite potezo z dvojnim pritiskom</string>
-    <string name="aon_gesture_draw_circle_summary_pad">Sprejmite ali končajte klice, prenesene na tablico</string>
-    <string name="aon_gesture_draw_circle_summary_phone">Sprejemanje in končanje klicev</string>
-    <string name="aon_gesture_draw_circle_title">Narišite krog</string>
-    <string name="aon_gesture_enable_summary" formatted="false">Držite roko %d do %dcm od kamere in izvajajte poteze, ko se na vrhu zaslona prikaže ikona roke</string>
-    <string name="aon_gesture_learn_title">Naučite se poteze</string>
-    <string name="aon_gesture_left_right_waving_summary">Prilagodite potek predvajanja in preklapljajte med pesmimi</string>
-    <string name="aon_gesture_left_right_waving_title">Pomahajte vodoravno</string>
-    <string name="aon_gesture_settings">Brezstične poteze</string>
-    <string name="aon_gesture_status_close">Izklopljeno</string>
-    <string name="aon_gesture_status_open">Vklopljeno</string>
-    <string name="aon_gesture_supported_app_title">Podprte aplikacije</string>
-    <string name="aon_gesture_supported_title">Razpoložljive poteze</string>
-    <string name="aon_gesture_up_down_waving_summary">Prilagodite glasnost medijev, preklapljajte med kratkimi videoposnetki in obračajte strani v dokumentih</string>
-    <string name="aon_gesture_up_down_waving_title">Pomahajte navpično</string>
     <string name="ap_connect_failed">Ni se mogoče povezati</string>
     <string name="ap_connected_battery_level">" | Baterija %1$s"</string>
     <string name="ap_p2p_dialog_message">Trenutno uporabljate Wi-Fi omrežje v skupni rabi. Prepričajte se, da ne uporabljate Wi-Fi Direct, Mi Share, oddajanja ali drugih storitev brezžičnega prenosa, preden vklopite osebno dostopno točko.</string>
@@ -2022,10 +2002,21 @@ To vpliva na druge aplikacije ali pogovore, v katerih je prikaz v oblačkih že 
     <string name="camera_gesture_title">Dvakratno sukanje za fotoaparat</string>
     <string name="camera_grip_firmware_need_update">Posodobi</string>
     <string name="camera_grip_firmware_new_version">Posodobljeno</string>
+    <string name="camera_grip_firmware_save_button_know">Razumem</string>
+    <string name="camera_grip_firmware_save_button_negaitive">Ne zdaj</string>
+    <string name="camera_grip_firmware_save_button_positive">Posodobi</string>
+    <string name="camera_grip_firmware_save_channel">Obvestila o ročaju kamere</string>
+    <string name="camera_grip_firmware_save_networking_tips">Povežite se z Wi-Fi ali vklopite mobilne podatke in poskusite znova posodobiti vdelano programsko opremo.</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">Če želite še naprej uporabljati to napravo, posodobite vdelano programsko opremo.</string>
+    <string name="camera_grip_firmware_save_title">Profesionalni ročaj za kamero</string>
     <string name="camera_grip_firmware_title_text">Posodobi strojno programsko opremo</string>
     <string name="camera_grip_firmware_update_describe">Med postopkom posodabljanja naj bo držalo priklopljeno</string>
     <string name="camera_grip_firmware_update_faild">Ni mogoče posodobiti</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">Odstranite ročaj kamere, napolnite napravo, nato poskusite znova posodobiti vdelano programsko opremo</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">Pred posodobitvijo vdelane programske opreme napolnite to napravo in ročaj kamere</string>
     <string name="camera_grip_firmware_update_ongoing">Posodabljanje. Ne odklopite držala.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">Priključite polnilec na to napravo in znova poskusite posodobiti vdelano programsko opremo</string>
     <string name="camera_grip_firmware_update_successful">Uspešno posodobljeno</string>
     <string name="camera_key_action_app_title">Odpri aplikacijo</string>
     <string name="camera_key_action_category_title">Ni mogoče uporabiti Kamere</string>
@@ -3402,7 +3393,7 @@ Znova zaženite napravo in poskusite znova."</string>
     <string name="ethernet_data_template">^1 podatkov prek etherneta</string>
     <string name="ethernet_data_usage">Preneseni podatki (ethernet)</string>
     <string name="ethernet_tether_checkbox_text">Podeli preko Ethernet</string>
-    <string name="ethernet_tethering_subtext">Deljenje omrežne povezave telefona prek Etherneta</string>
+    <string name="ethernet_tethering_subtext">Deljenje internetne povezave telefona prek etherneta.</string>
     <string name="evening">Popoldne</string>
     <string name="every_day">Vsak dan</string>
     <string name="exceptional_case">Izjeme</string>
@@ -4743,10 +4734,6 @@ Odprite Xiaomi Cloud in obnovite predmete od tam."</string>
     <string name="load_esim_info">Pridobivanje informacij o eSIM…</string>
     <string name="load_esim_info_error">Podatkov o eSIM ni mogoče naložiti. Počakajte minuto ali dve in poskusite ponovno.</string>
     <string name="loading">Trenutek…</string>
-    <string name="loading_eid_error_message">Ni mogoče pridobiti informacij o EID. Počakajte minuto ali dve in poskusite ponovno.</string>
-    <string name="loading_eid_error_ok">Razumem</string>
-    <string name="loading_eid_error_title">Ni mogoče naložiti</string>
-    <string name="loading_eid_tip">Pridobivanje informacij o EID…</string>
     <string name="loading_injected_setting_summary">Nalaganje …</string>
     <string name="local_auto_backup_off">Izklopljeno</string>
     <string name="local_auto_backup_on">Vklopljeno</string>
@@ -5146,6 +5133,8 @@ Povežite vsaj 4 pike."</string>
     <string name="long_background_tasks_title">Dolgotrajna opravila v ozadju</string>
     <string name="long_press_back_key">Dolg pritisk gumba Nazaj</string>
     <string name="long_press_buttom_key">Dolg pritisk gumba Domov na Zaklenjenem zaslonu</string>
+    <string name="long_press_editor_style_summary">Pritisnite in držite zaklenjen zaslon, da uredite uro in ozadje</string>
+    <string name="long_press_editor_style_title">Pritisnite in držite za urejanje</string>
     <string name="long_press_home_key">Dolg pritisk gumba Domov</string>
     <string name="long_press_menu_key">Dolg pritisk gumba Meni</string>
     <string name="long_press_menu_key_when_lock">Dolg pritisk tipke Meni na Zaklenjenem zaslonu</string>
@@ -5686,8 +5675,6 @@ Nadaljujte z dostopom do dodatnih nastavitev."</string>
     <string name="miui_type_style_title">Slog tipkanja</string>
     <string name="miui_updater">Posodobitev sistema</string>
     <string name="miui_userguide">Navodila za uporabo</string>
-    <string name="miui_visual_perception_summary">Naj vaša naprava zazna vašo prisotnost in izbere bolj priročne možnosti zaklepanja in odklepanja</string>
-    <string name="miui_visual_perception_title">Aktivno vizualno zaznavanje</string>
     <string name="miuix_access_state_desc">Izbrano</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbiro</string>
     <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
@@ -6646,8 +6633,10 @@ Pred uporabo te storitve preberite in se strinjajte z %s."</string>
     <string name="phone_language_summary" />
     <string name="photo_data">Fotografije in videoposnetki</string>
     <string name="photography_handle_button_function_settings">Nastavite gumb za oprijem</string>
-    <string name="photography_handle_charge_protected">Samodejni izklop polnjenja držala</string>
-    <string name="photography_handle_charge_protected_summary">Ko naprava prepozna, da uporabljate držalo za kamero, se preneha polniti in ohrani baterijo na %1$s.</string>
+    <string name="photography_handle_charge_protected">Zaščita polnjenja ročaja</string>
+    <string name="photography_handle_charge_protected_summary">Ko je ročaj kamere priključen, se naprava neha polniti in baterija ostane na %1$s</string>
+    <string name="photography_handle_charge_state">Polnjenje iz ročajev kamere</string>
+    <string name="photography_handle_charge_state_summary">Polnite to napravo iz ročajev kamere, kadar koli so povezani</string>
     <string name="photography_handle_launch_and_take_photo">Fotografiraj</string>
     <string name="photography_handle_launch_camera">Odpri kamero</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Pritisnite in držite sprožilec, da izvedete dejanje</string>
@@ -6776,8 +6765,10 @@ Hkrati pritisnite gumb za vklop in gumb za povečanje glasnosti ter ju pridržit
     <string name="pref_show_lunar_calendar_title">Na Zaklenjenem zaslonu prikaži tradicionalen kitajski koledar</string>
     <string name="pref_title_network_details">Podatki o omrežju</string>
     <string name="pref_title_update_notification">Obvestila porabe podatkov</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Ko je zaslon zaklenjen, dvakrat tapnite Znižaj glasnost, da odprete kamero in fotografirate</string>
     <string name="pref_volume_launch_camera_summary">Za zagon Kamere dvakrat pritisnite na gumb Znižaj glasnost</string>
     <string name="pref_volume_launch_camera_title">Zaženi Kamero</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">Ko je zaslon zaklenjen, dvakrat tapnite Znižaj glasnost, da odprete kamero</string>
     <string name="pref_volume_wake_summary">Zbudi napravo s pritiskom na gumbe za glasnost</string>
     <string name="pref_volume_wake_title">Zbudi z gumbi za glasnost</string>
     <string name="preference_change_password_title">Spremeni geslo</string>
@@ -7332,6 +7323,8 @@ Znova zaženite napravo in poskusite znova."</string>
     <string name="safety_center_summary">Varnost aplikacij, zaklepanje naprave, dovoljenja</string>
     <string name="safety_center_title">Varnost in zasebnost</string>
     <string name="sar">Informacija o RF Izpostavljenosti</string>
+    <string name="satellite_call_assistant">Nastavitve klicev</string>
+    <string name="satellite_network_title">Funkcije satelitskih klicev</string>
     <string name="saturday">Sobota</string>
     <string name="saturday_first_day_of_week">sobota</string>
     <string name="saturday_short">sob.</string>
@@ -7362,7 +7355,6 @@ Znova zaženite napravo in poskusite znova."</string>
     <string name="screen_dark_mode_select_time_error_summary">Začetni in končni čas ne moreta biti enaka</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Nekatere aplikacije mogoče ne bodo prikazane pravilno v Temnem načinu. Tukaj lahko omejite uporabo Temnega načina za posamezne aplikacije.</string>
     <string name="screen_dark_mode_smart_dark_title">Temni način vsepovsod</string>
-    <string name="screen_dark_mode_time_summary">Vaša naprava bo preklopila na Temni način približno ob načrtovanem času, ko izklopite zaslon</string>
     <string name="screen_dark_mode_time_title">Načrtovanje Temnega načina</string>
     <string name="screen_effect">Izbor barv</string>
     <string name="screen_effect_adapt_color_summary">Prilagodite barve glede na trenutno osvetljavo</string>
@@ -8486,6 +8478,11 @@ Tapnite dvakrat, da bi odprli meni Nedavno."</string>
     <string name="sort_order_frequent_notification">Najpogostejše</string>
     <string name="sort_order_recent_notification">Najnovejše</string>
     <string name="sort_order_size">Razvrsti po velikosti</string>
+    <string name="sos_add_area_code_switch_summary">Samodejno dodajanje področne kode telefonski številki pri klicu v sili s satelitskimi komunikacijami Tiantong</string>
+    <string name="sos_add_area_code_switch_title">Samodejno dodajanje območne kode</string>
+    <string name="sos_area_code_settings_hint">Vnesite območno kodo</string>
+    <string name="sos_area_code_settings_summary">Ročno nastavite krajevno kodo telefonske številke vašega stika v sili.</string>
+    <string name="sos_area_code_settings_title">Nastavite območno kodo</string>
     <string name="sos_phone_call_privacy_dialog_message">"Za klicanje vaših stikov za pomoč v stiski in predvajanje SOS posnetkov, ta aplikacija zahteva naslednja dovoljenja:
 • Klicanje
 Za klicanje stikov za pomoč v stiski
@@ -9804,10 +9801,6 @@ Tapnite plus, če želite dodati besede."</string>
     <string name="uwb_settings_title">Izjemno širok pas (UWB)</string>
     <string name="v7_preference_off">IZKLOPLJENO</string>
     <string name="v7_preference_on">VKLOPLJENO</string>
-    <string name="valid_net_access">Prikaz pooblastil za dostop do omrežja</string>
-    <string name="valid_net_ok">V redu</string>
-    <string name="valid_net_result_fail">Ni mogoče pridobiti informacij. Počakajte minuto ali dve in poskusite ponovno.</string>
-    <string name="valid_net_result_title">Rezultat</string>
     <string name="verify_apps_over_usb_summary">Preveri, ali so aplikacije, nameščene prek ADB/ADT, škodljive.</string>
     <string name="verify_apps_over_usb_title">Preveri aplikacije prek USB-ja</string>
     <string name="version_text">različica %1$s</string>
@@ -10717,7 +10710,6 @@ lahko tudi uporabljate omrežja drugih."</string>
     <string name="winscope_trace_quick_settings_title">Sledenje z apl. Winscope</string>
     <string name="wireless_connected">Povezano</string>
     <string name="wireless_debugging_main_switch_title">Uporabi brezžično odpravljanje napak</string>
-    <string name="wireless_display">Brezžični zaslon</string>
     <string name="wireless_networks_settings_title">Brezžično in omrežja</string>
     <string name="wireless_off">Izklopljeno</string>
     <string name="wireless_on">Vklopljeno</string>

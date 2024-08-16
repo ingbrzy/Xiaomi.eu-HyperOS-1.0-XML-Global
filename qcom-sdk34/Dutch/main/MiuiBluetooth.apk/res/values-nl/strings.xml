@@ -4,7 +4,7 @@
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
     <string name="abc_action_mode_done">Klaar</string>
-    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activity_chooser_view_see_all">Alles tonen</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
     <string name="abc_capital_on">AAN</string>
@@ -116,8 +116,6 @@ Controleer de Instellingen voor details."</string>
     <string name="fast_connect_device_title_connecting">Verbinden…</string>
     <string name="fast_connect_device_title_find_headset">Zoeken %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Het lijkt erop dat dit apparaat niet van jou is: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Verbonden</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Camera</string>
     <string name="fast_connect_new_feture_anti_lost">Waarschuwing oortelefoon ontbreekt</string>
     <string name="fast_connect_new_feture_same_account">Verbind gesynchroniseerde apparaten</string>
     <string name="fast_connect_new_feture_sound_normalizer">Beter geluid</string>
@@ -211,7 +209,6 @@ Sneller verbindingsprotocol."</string>
     <string name="headset_download_fw">Bijwerken</string>
     <string name="headset_downloading">Downloaden</string>
     <string name="headset_downloading_indicate">Downloaden…</string>
-    <string name="headset_dual_device">Oortelefoons worden automatisch verbonden. Dubbele verbinding is uitgeschakeld.</string>
     <string name="headset_find_new_version">Er is een update beschikbaar</string>
     <string name="headset_finish_fw">Succesvol bijgewerkt</string>
     <string name="headset_finish_fw_failed">Er is een fout opgetreden</string>
@@ -229,8 +226,8 @@ Sneller verbindingsprotocol."</string>
     <string name="headset_updating">Bijwerken</string>
     <string name="information_go_to_fitness">U vindt de gerelateerde instellingen in Mi Fitness</string>
     <string name="install_package">Installeer %1$s voor meer functies</string>
-    <string name="lea_disable_successfully">Overgeschakeld naar normale Bluetooth</string>
-    <string name="lea_enable_successfully">Overgeschakeld naar Bluetooth LE Audio</string>
+    <string name="lea_disable_successfully">Normale Bluetooth wordt nu gebruikt voor het aansluiten van oortelefoons en audiotransmissie</string>
+    <string name="lea_enable_successfully">LE Audio wordt nu gebruikt voor het aansluiten van oortelefoons en audiotransmissie</string>
     <string name="mi_audio_relay_cancel">OK</string>
     <string name="mi_audio_relay_connect_failed">Opnieuw proberen</string>
     <string name="mi_audio_relay_localphone">Dit apparaat</string>
@@ -280,7 +277,6 @@ Sneller verbindingsprotocol."</string>
     <string name="miuix_appcompat_delete_description">Verwijderen</string>
     <string name="miuix_appcompat_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
-    <string name="miuix_appcompat_edit">Bewerken</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
     <string name="miuix_appcompat_search_input_description">Zoeken</string>
     <string name="miuix_appcompat_select_all">Alles selecteren</string>

@@ -218,7 +218,7 @@
 · Πατήστε \"Αναδυόμενα παράθυρα\" στα Πρόσφατα για να επιλέξετε εφαρμογές."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Πατήστε μια εφαρμογή στην πλαϊνή γραμμή για να την ανοίξετε σε ένα αιωρούμενο παράθυρο.
 · Σύρετε μια εφαρμογή στο κέντρο της οθόνης για να την ανοίξετε σε ένα αναδυόμενο παράθυρο ή στο πλάι για να χρησιμοποιήσετε τη Διαίρεση οθόνης."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Σύρετε μια εφαρμογή από την πλαϊνή γραμμή στο κέντρο της οθόνης για να την ανοίξετε σε ένα αναδυόμενο παράθυρο ή στο πλάι για να χρησιμοποιήσετε τη Διαίρεση οθόνης</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Σύρετε μια εφαρμογή από την πλαϊνή γραμμή στο κέντρο της οθόνης για να την ανοίξετε σε ένα αναδυόμενο παράθυρο ή στο πλάι για να χρησιμοποιήσετε τη Διαίρεση οθόνης</string>
     <string name="freeform_vedio_description_pad">Σύρετε αντικείμενα έξω από τη βάση για να ανοίξετε αναδυόμενα παράθυρα</string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
@@ -266,7 +266,6 @@
     <string name="miuix_appcompat_delete_description">Διαγραφή</string>
     <string name="miuix_appcompat_deselect_all">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή όλων</string>
-    <string name="miuix_appcompat_edit">Επεξεργασία</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
     <string name="miuix_appcompat_select_all">Επιλογή όλων</string>

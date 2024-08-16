@@ -704,26 +704,6 @@
     <string name="aod_style_description">Прикажи сат, датум, време, обавештења и друге ставке када је екран искључен</string>
     <string name="aod_style_title">Стил</string>
     <string name="aod_to_close">Искључи</string>
-    <string name="aon_gesture_cue_tone_summary">Емитовање потврдог звука кад год се открије ваш длан</string>
-    <string name="aon_gesture_cue_tone_title">Емитуј потврдни звук</string>
-    <string name="aon_gesture_dialog_message">Када је ова функција укључена, уређај ће открити и анализирати ваше покрете. Ваши лични подаци неће бити обрађени, никакви подаци неће бити ускладиштени ни локално нити у cloud-у.</string>
-    <string name="aon_gesture_dialog_title">Изјава о приватности</string>
-    <string name="aon_gesture_double_press_summary">Пусти и паузирај репродукцију</string>
-    <string name="aon_gesture_double_press_title">Извршите покрет двоструког притиска</string>
-    <string name="aon_gesture_draw_circle_summary_pad">Одговорите на позиве пренете на таблет или их завршите</string>
-    <string name="aon_gesture_draw_circle_summary_phone">Одговорите на позиве и завршите их</string>
-    <string name="aon_gesture_draw_circle_title">Нацртајте круг</string>
-    <string name="aon_gesture_enable_summary" formatted="false">Држите руку на %d до %d cm од камере и изводите покрете након што се икона руке појави на врху екрана</string>
-    <string name="aon_gesture_learn_title">Научите покрете</string>
-    <string name="aon_gesture_left_right_waving_summary">Прилагодите напредак репродукције и мењајте песме</string>
-    <string name="aon_gesture_left_right_waving_title">Машите хоризонтално</string>
-    <string name="aon_gesture_settings">Безконтактни покрети</string>
-    <string name="aon_gesture_status_close">Иск</string>
-    <string name="aon_gesture_status_open">Ук</string>
-    <string name="aon_gesture_supported_app_title">Подржане апликације</string>
-    <string name="aon_gesture_supported_title">Доступни покрети</string>
-    <string name="aon_gesture_up_down_waving_summary">Прилагодите јачину звука медија, мењајте кратке видео снимке и окрећите странице у документима</string>
-    <string name="aon_gesture_up_down_waving_title">Машите вертикално</string>
     <string name="ap_connect_failed">Повезивање није успело</string>
     <string name="ap_connected_battery_level">" | Батерија %1$s"</string>
     <string name="ap_p2p_dialog_message">Тренутно подељена Wi-Fi веза се већ користи. Уверите се да не користите Wi-Fi Direct, Mi Share, емитовање, или друге услуге бежичног преноса пре него што укључите своју личну приступну тачку.</string>
@@ -2022,10 +2002,21 @@ aptX-Adaptive: Кодек режим"</string>
     <string name="camera_gesture_title">Двапут заокрените за камеру</string>
     <string name="camera_grip_firmware_need_update">Ажурирај</string>
     <string name="camera_grip_firmware_new_version">Ажурирано</string>
+    <string name="camera_grip_firmware_save_button_know">Схватам</string>
+    <string name="camera_grip_firmware_save_button_negaitive">Не сада</string>
+    <string name="camera_grip_firmware_save_button_positive">Ажурирај</string>
+    <string name="camera_grip_firmware_save_channel">Обавештења о држачу камере</string>
+    <string name="camera_grip_firmware_save_networking_tips">Повежите се на Wi-Fi или укључите мобилне податке и покушајте поново да ажурирате фирмвер.</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">Ажурирајте фирмвер да бисте наставили да користите овај уређај.</string>
+    <string name="camera_grip_firmware_save_title">Професионални држач камере</string>
     <string name="camera_grip_firmware_title_text">Ажурирај фирмвер</string>
     <string name="camera_grip_firmware_update_describe">Држите за ручку повезано током процеса ажурирања</string>
     <string name="camera_grip_firmware_update_faild">Ажурирање није успело</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">Уклоните држач камере, напуните уређај, а затим покушајте поново да ажурирате фирмвер</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">Напуните овај уређај и ручку камере пре ажурирања фирмвера</string>
     <string name="camera_grip_firmware_update_ongoing">Ажурирање. Не искључујте ручку.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">Повежите пуњач са овим уређајем и покушајте поново да ажурирате фирмвер</string>
     <string name="camera_grip_firmware_update_successful">Успешно ажурирано</string>
     <string name="camera_key_action_app_title">Отвори апликацију</string>
     <string name="camera_key_action_category_title">Не може се користити Камера</string>
@@ -3401,7 +3392,7 @@ aptX-Adaptive: Кодек режим"</string>
     <string name="ethernet_data_template">^1 података на етернету</string>
     <string name="ethernet_data_usage">Потрошња података на етернету</string>
     <string name="ethernet_tether_checkbox_text">Подели преко Ethernet-а</string>
-    <string name="ethernet_tethering_subtext">Поделите мрежну везу телефона преко Ethernet-а</string>
+    <string name="ethernet_tethering_subtext">Дељење интернет везе телефона преко етернета</string>
     <string name="evening">Поподне</string>
     <string name="every_day">Сваки дан</string>
     <string name="exceptional_case">Изузеци</string>
@@ -4741,10 +4732,6 @@ Xiaomi Cloud
     <string name="load_esim_info">Добијање eSIM података…</string>
     <string name="load_esim_info_error">Учитавање eSIM података није успело. Сачекајте минут-два и покушајте опет.</string>
     <string name="loading">Само тренутак…</string>
-    <string name="loading_eid_error_message">Добијање EID података није успело. Сачекајте минут-два и покушајте опет.</string>
-    <string name="loading_eid_error_ok">Схватам</string>
-    <string name="loading_eid_error_title">Учитавање није успело</string>
-    <string name="loading_eid_tip">Добијање EID података…</string>
     <string name="loading_injected_setting_summary">Учитава се…</string>
     <string name="local_auto_backup_off">Иск</string>
     <string name="local_auto_backup_on">Ук</string>
@@ -5144,6 +5131,8 @@ PIN штити телефон ако га изгубите или га неко 
     <string name="long_background_tasks_title">Дуготрајни задаци у позадини</string>
     <string name="long_press_back_key">Дуги притисак на тастер Назад</string>
     <string name="long_press_buttom_key">Дуги притисак на Почетна на Закључаном екрану</string>
+    <string name="long_press_editor_style_summary">Притисните и задржите Закључани екран да бисте изменили сат и позадину</string>
+    <string name="long_press_editor_style_title">Притисните и задржите за уређивање</string>
     <string name="long_press_home_key">Дуги притисак на тастер Почетна</string>
     <string name="long_press_menu_key">Дуги притисак на тастер Мени</string>
     <string name="long_press_menu_key_when_lock">Дуги притисак на Мени на Закључаном екрану</string>
@@ -5685,8 +5674,6 @@ PIN штити телефон ако га изгубите или га неко 
     <string name="miui_type_style_title">Начин куцања</string>
     <string name="miui_updater">Ажурирање система</string>
     <string name="miui_userguide">Упутство за употребу</string>
-    <string name="miui_visual_perception_summary">Учините да ваш уређај осети ваше присуство и изаберите погодније опције закључавања и откључавања</string>
-    <string name="miui_visual_perception_title">Активна визуелна перцепција</string>
     <string name="miuix_access_state_desc">Изабрано</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Поништи избор</string>
     <string name="miuix_appcompat_action_mode_select_all">Изабери све</string>
@@ -6645,8 +6632,10 @@ OTG се аутоматски искључује након 10 минута не
     <string name="phone_language_summary" />
     <string name="photo_data">Фотографије и видео снимци</string>
     <string name="photography_handle_button_function_settings">Подесите дугме ручке</string>
-    <string name="photography_handle_charge_protected">Аутоматско искључивање ручком за пуњење</string>
-    <string name="photography_handle_charge_protected_summary">Када уређај препозна да користите ручку камере, уређај ће престати да се пуни и одржава батерију на %1$s</string>
+    <string name="photography_handle_charge_protected">Заштита држача од пуњења</string>
+    <string name="photography_handle_charge_protected_summary">Када је држач камере повезан, уређај ће престати да се пуни и одржаваће батерију на %1$s</string>
+    <string name="photography_handle_charge_state">Пуњење са држача камере</string>
+    <string name="photography_handle_charge_state_summary">Пуните овај уређај са држача камере кад год су повезани</string>
     <string name="photography_handle_launch_and_take_photo">Фотографиши</string>
     <string name="photography_handle_launch_camera">Отвори камеру</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Притисните и задржите тастер бленде да бисте извршили радњу</string>
@@ -6775,8 +6764,10 @@ OTG се аутоматски искључује након 10 минута не
     <string name="pref_show_lunar_calendar_title">Прикажи традиционални кинески календар на Закључаном екрану</string>
     <string name="pref_title_network_details">Детаљи о мрежи</string>
     <string name="pref_title_update_notification">Обавештења о коришћењу података</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Када је екран закључан, двапут додирните Утишавање да бисте отворили Камеру и фотографисали</string>
     <string name="pref_volume_launch_camera_summary">Притисните дугме за утишавање звука двапут за покретање Камере</string>
     <string name="pref_volume_launch_camera_title">Покрени Камеру</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">Када је екран закључан, двапут додирните Утишавање звука да бисте отворили Камеру</string>
     <string name="pref_volume_wake_summary">Притисак на тастере за јачину звука буди уређај</string>
     <string name="pref_volume_wake_title">Пробуди тастерима за јачину звука</string>
     <string name="preference_change_password_title">Промените лозинку</string>
@@ -7331,6 +7322,8 @@ OTG се аутоматски искључује након 10 минута не
     <string name="safety_center_summary">Безбедност апликација, закључавање уређаја, дозволе</string>
     <string name="safety_center_title">Безбедност и приватност</string>
     <string name="sar">RF Информације о изложености</string>
+    <string name="satellite_call_assistant">Подешавања позива</string>
+    <string name="satellite_network_title">Функције сателитског позива</string>
     <string name="saturday">Субота</string>
     <string name="saturday_first_day_of_week">субота</string>
     <string name="saturday_short">Суб</string>
@@ -7361,7 +7354,6 @@ OTG се аутоматски искључује након 10 минута не
     <string name="screen_dark_mode_select_time_error_summary">Време почетка и краја не може бити исто</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Неке апликације ће можда бити погрешно приказане у Тамном режиму. Овде можете ограничити коришћење Тамног режима за поједине апликације.</string>
     <string name="screen_dark_mode_smart_dark_title">Целокупни тамни режим</string>
-    <string name="screen_dark_mode_time_summary">Ваш уређај ће се пребацити у Тамни режим око заказаног времена када искључите екран</string>
     <string name="screen_dark_mode_time_title">Закажите Тамни режим</string>
     <string name="screen_effect">Шема боја</string>
     <string name="screen_effect_adapt_color_summary">Подесите боје на основу тренутног осветљења</string>
@@ -8485,6 +8477,11 @@ OTG се аутоматски искључује након 10 минута не
     <string name="sort_order_frequent_notification">Најчешће</string>
     <string name="sort_order_recent_notification">Најновије</string>
     <string name="sort_order_size">Сортирај према величини</string>
+    <string name="sos_add_area_code_switch_summary">Аутоматски додајте позивни број у телефонски број када упућујете хитни позив помоћу Tiantong Satellite комуникација</string>
+    <string name="sos_add_area_code_switch_title">Аутоматски додајте позивни број</string>
+    <string name="sos_area_code_settings_hint">Унесите позивни број</string>
+    <string name="sos_area_code_settings_summary">Ручно подесите позивни број за број телефона вашег контакта за хитне случајеве</string>
+    <string name="sos_area_code_settings_title">Подесите позивни број</string>
     <string name="sos_phone_call_privacy_dialog_message">"За позивање контаката за хитне случајеве и пуштање SOS снимака, ова апликација тражи следеће дозоволе:
 • Позивање
 За позивање SOS контаката
@@ -9799,10 +9796,6 @@ OTG се аутоматски искључује након 10 минута не
     <string name="uwb_settings_title">Ултра-широки појас (UWB)</string>
     <string name="v7_preference_off">ИСКЉУЧЕНО</string>
     <string name="v7_preference_on">УКЉУЧЕНО</string>
-    <string name="valid_net_access">Погледајте акредитиве за приступ мрежи</string>
-    <string name="valid_net_ok">OK</string>
-    <string name="valid_net_result_fail">Информације су недоступне. Сачекајте минут-два и покушајте опет.</string>
-    <string name="valid_net_result_title">Резултат</string>
     <string name="verify_apps_over_usb_summary">Проверава да ли су апликације инсталиране преко ADB-а/ADT-а штетне.</string>
     <string name="verify_apps_over_usb_title">Верификуј апликације преко USB-а</string>
     <string name="version_text">верзија %1$s</string>
@@ -10712,7 +10705,6 @@ OTG се аутоматски искључује након 10 минута не
     <string name="winscope_trace_quick_settings_title">Winscope траг</string>
     <string name="wireless_connected">Повезано</string>
     <string name="wireless_debugging_main_switch_title">Користи бежично отклањање грешака</string>
-    <string name="wireless_display">Бежични екран</string>
     <string name="wireless_networks_settings_title">Бежична веза и мреже</string>
     <string name="wireless_off">Иск</string>
     <string name="wireless_on">Ук</string>

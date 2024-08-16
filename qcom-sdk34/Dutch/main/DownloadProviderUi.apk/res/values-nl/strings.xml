@@ -8,7 +8,7 @@
     <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
-    <string name="abc_action_mode_done">Klaar</string>
+    <string name="abc_action_mode_done">Gereed</string>
     <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
@@ -34,7 +34,6 @@
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
     <string name="about">Over</string>
     <string name="actionbar_button_up_description">Terug</string>
-    <string name="ad_flag_text">Advertentie</string>
     <string name="add_download_download">Downloaden</string>
     <string name="add_download_error_not_support">Deze link wordt niet ondersteund</string>
     <string name="add_download_text_hint">Voer een HTTP/HTTPS-link in</string>
@@ -292,9 +291,6 @@
     <string name="month_september_shortest">Sep</string>
     <string name="more">Meer</string>
     <string name="morning">Ochtend</string>
-    <string name="native_body">Tekstgedeelte</string>
-    <string name="native_headline">Kop</string>
-    <string name="native_media_view">Mediacontent</string>
     <string name="new_file_notification_title_image">Afbeelding</string>
     <string name="night">Avond</string>
     <string name="no_downloads">Geen bestanden</string>
@@ -361,7 +357,6 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="skip_ad">Overslaan</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Zondag</string>
@@ -424,7 +419,6 @@
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
     <string name="version">Versie %s</string>
-    <string name="watermark_label_prefix">AdMob -</string>
     <string name="wednesday">Woensdag</string>
     <string name="wednesday_short">Wo</string>
     <string name="wednesday_shortest">Wo</string>

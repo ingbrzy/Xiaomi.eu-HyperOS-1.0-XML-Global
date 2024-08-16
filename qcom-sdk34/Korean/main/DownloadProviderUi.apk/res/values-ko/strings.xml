@@ -34,7 +34,6 @@
     <string name="abc_toolbar_collapse_description">접기</string>
     <string name="about">정보</string>
     <string name="actionbar_button_up_description">뒤로</string>
-    <string name="ad_flag_text">광고</string>
     <string name="add_download_download">다운로드</string>
     <string name="add_download_error_not_support">이 링크는 지원되지 않음</string>
     <string name="add_download_text_hint">HTTP/HTTPS 링크 입력</string>
@@ -292,9 +291,6 @@
     <string name="month_september_shortest">9월</string>
     <string name="more">더 보기</string>
     <string name="morning">아침</string>
-    <string name="native_body">본문</string>
-    <string name="native_headline">광고 제목</string>
-    <string name="native_media_view">미디어 보기</string>
     <string name="new_file_notification_title_image">이미지</string>
     <string name="night">저녁</string>
     <string name="no_downloads">파일 없음</string>
@@ -361,7 +357,6 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="skip_ad">건너뛰기</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">일요일</string>
@@ -424,7 +419,6 @@
     <string name="v7_preference_off">사용 안함</string>
     <string name="v7_preference_on">사용</string>
     <string name="version">버전 %s</string>
-    <string name="watermark_label_prefix">AdMob -</string>
     <string name="wednesday">수요일</string>
     <string name="wednesday_short">수</string>
     <string name="wednesday_shortest">수</string>

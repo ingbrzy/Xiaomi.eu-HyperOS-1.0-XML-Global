@@ -724,10 +724,9 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="terms_of_use_label_translation">Послуги перекладу</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">Функція системних оновлень (перевіряє наявність оновлень онлайн та сповіщає про нові версії)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">Перед використанням системи, ознайомтеся та погодьтеся з нашою Угодою користувача та Політикою конфіденційності, які поширюються на попередньо встановлені програми Xiaomi (наприклад, Галерея, Mi Музика, Mi Браузер, Mi Відео, Теми тощо). Ми захищатимемо вашу особисту інформацію відповідно до чинних законів, нортматиних актів та політики конфіденційності. Після активації пристрою наступні послуги отримають доступ до інтернету та вашого місцезнаходження:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Перед використанням системи вам необхідно ознайомитися та погодитися з нашою Угодою користувача та Політикою конфіденційності. Ми будемо захищати вашу особисту інформацію відповідно до чинних законів, нормативних актів та політики конфіденційності. Після активації пристрою наступні послуги отримають доступ до інтернету та вашого місцезнаходження:</string>
     <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Шпалери</string>
-    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Перед використанням цього засобу вам необхідно погодитися з Політикою конфіденційності Facemoji."</string>

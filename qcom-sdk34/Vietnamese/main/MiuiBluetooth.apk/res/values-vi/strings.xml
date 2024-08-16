@@ -116,8 +116,6 @@ kiểm tra phần Cài đặt để biết chi tiết."</string>
     <string name="fast_connect_device_title_connecting">Đang kết nối…</string>
     <string name="fast_connect_device_title_find_headset">Tìm %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Dường như thiết bị này không phải của bạn: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Đã kết nối</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Camera</string>
     <string name="fast_connect_new_feture_anti_lost">Cảnh báo đánh rơi tai nghe</string>
     <string name="fast_connect_new_feture_same_account">Kết nối thiết bị đã đồng bộ</string>
     <string name="fast_connect_new_feture_sound_normalizer">Âm thanh tốt hơn</string>
@@ -211,7 +209,6 @@ Giao thức kết nối nhanh hơn."</string>
     <string name="headset_download_fw">Cập nhật</string>
     <string name="headset_downloading">Đang tải xuống</string>
     <string name="headset_downloading_indicate">Đang tải xuống…</string>
-    <string name="headset_dual_device">Tai nghe đã kết nối tự động. Kết nối kép đã tắt.</string>
     <string name="headset_find_new_version">Tìm thấy cập nhật mới</string>
     <string name="headset_finish_fw">Cập nhật thành công</string>
     <string name="headset_finish_fw_failed">Xảy ra lỗi</string>
@@ -229,8 +226,8 @@ Giao thức kết nối nhanh hơn."</string>
     <string name="headset_updating">Đang cập nhật</string>
     <string name="information_go_to_fitness">Bạn có thể tìm thấy cài đặt liên quan trong Mi Fitness</string>
     <string name="install_package">Cài đặt %1$s để nhận thêm nhiều chức năng mới</string>
-    <string name="lea_disable_successfully">Đã chuyển sang Bluetooth thông thường</string>
-    <string name="lea_enable_successfully">Đã chuyển sang Bluetooth LE Audio</string>
+    <string name="lea_disable_successfully">Bluetooth thông thường hiện được sử dụng để kết nối tai nghe và truyền âm thanh</string>
+    <string name="lea_enable_successfully">LE Audio hiện được sử dụng để kết nối tai nghe và truyền âm thanh</string>
     <string name="mi_audio_relay_cancel">OK</string>
     <string name="mi_audio_relay_connect_failed">Thử lại</string>
     <string name="mi_audio_relay_localphone">Thiết bị này</string>
@@ -280,7 +277,6 @@ Giao thức kết nối nhanh hơn."</string>
     <string name="miuix_appcompat_delete_description">Xóa</string>
     <string name="miuix_appcompat_deselect_all">Bỏ chọn tất cả</string>
     <string name="miuix_appcompat_deselect_all_description">Bỏ chọn tất cả</string>
-    <string name="miuix_appcompat_edit">Sửa</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
     <string name="miuix_appcompat_search_input_description">Tìm kiếm</string>
     <string name="miuix_appcompat_select_all">Chọn tất cả</string>

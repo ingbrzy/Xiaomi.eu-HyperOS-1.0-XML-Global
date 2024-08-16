@@ -704,26 +704,6 @@ Widget: %2$s
     <string name="aod_style_description">Ekran kapalıyken saat, tarih, zaman, bildirimler ve diğer ögeleri görüntüle</string>
     <string name="aod_style_title">Stil</string>
     <string name="aod_to_close">Kapat</string>
-    <string name="aon_gesture_cue_tone_summary">Avucunuz algılandığında onaylama sesi çalsın</string>
-    <string name="aon_gesture_cue_tone_title">Onaylama sesi çal</string>
-    <string name="aon_gesture_dialog_message">"Bu özellik açık olduğunda bu cihaz harektlerinizi algılayacak ve analiz edecek. Kişisel bilgileriniz işlenmeyecek, veriler yerel olarak veya cloud'ta depolanmayacak."</string>
-    <string name="aon_gesture_dialog_title">Gizlilik bildirisi</string>
-    <string name="aon_gesture_double_press_summary">Oynatın ve duraklatın</string>
-    <string name="aon_gesture_double_press_title">Çift basma hareketi gerçekleştirin</string>
-    <string name="aon_gesture_draw_circle_summary_pad">Tablete aktarılan aramaları cevaplayın veya sonlandırın</string>
-    <string name="aon_gesture_draw_circle_summary_phone">Aramaları yanıtlayın ve bitirin</string>
-    <string name="aon_gesture_draw_circle_title">Bir daire çizin</string>
-    <string name="aon_gesture_enable_summary" formatted="false">El simgesi ekranın üst köşesinde göründükten sonra elinizi kameradan %d ila %d cm uzak tutun ve hareketleri yapın</string>
-    <string name="aon_gesture_learn_title">Hareketleri öğren</string>
-    <string name="aon_gesture_left_right_waving_summary">Çalma ilerlemesini ayarlayın ve şarkılar arasında geçiş yapın</string>
-    <string name="aon_gesture_left_right_waving_title">Yatay sallayın</string>
-    <string name="aon_gesture_settings">Temassız hareketler</string>
-    <string name="aon_gesture_status_close">Kapalı</string>
-    <string name="aon_gesture_status_open">Açık</string>
-    <string name="aon_gesture_supported_app_title">Desteklenen uygulamalar</string>
-    <string name="aon_gesture_supported_title">Kullanılabilir hareketler</string>
-    <string name="aon_gesture_up_down_waving_summary">Medya sesini ayarlayın, kısa videolar arasında geçiş yapın ve belgelerde sayfaları çevirin</string>
-    <string name="aon_gesture_up_down_waving_title">Dikey sallayın</string>
     <string name="ap_connect_failed">Bağlanılamadı</string>
     <string name="ap_connected_battery_level">" | Pil %1$s"</string>
     <string name="ap_p2p_dialog_message">"Anlık paylaşılan Wi-Fi bağlantısı zaten kullanılıyor. Kişisel bağlantı noktasını açmadan önce Wi-Fi Yönlendirme'yi, Mi Paylaşım'ı, yansıtmayı veya diğer kablosuz aktarım hizmetlerini kullanmadığınızdan emin olun."</string>
@@ -2022,10 +2002,21 @@ Bir CA sertifikası yüklerseniz sertifika sahibi; şifreler, veya kredi kartı 
     <string name="camera_gesture_title">Kamera için iki kez bükün</string>
     <string name="camera_grip_firmware_need_update">Güncelle</string>
     <string name="camera_grip_firmware_new_version">Güncel</string>
+    <string name="camera_grip_firmware_save_button_know">Anladım</string>
+    <string name="camera_grip_firmware_save_button_negaitive">Şimdi değil</string>
+    <string name="camera_grip_firmware_save_button_positive">Güncelle</string>
+    <string name="camera_grip_firmware_save_channel">Kamera tutacağı bildirimleri</string>
+    <string name="camera_grip_firmware_save_networking_tips">"Wi-Fi'a bağlanın veya mobil veriyi açın, sonra yazılımı güncellemeyi tekrar deneyin."</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">Bu cihazı kullanmaya devam etmek için yazılımı güncelleyin.</string>
+    <string name="camera_grip_firmware_save_title">Profesyonel kamera tutacağı</string>
     <string name="camera_grip_firmware_title_text">Yazılımı güncelle</string>
     <string name="camera_grip_firmware_update_describe">Güncelleme işlemi boyunca tutacağı bağlı tutun</string>
     <string name="camera_grip_firmware_update_faild">Güncellenemedi</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">Kamera tutacağını kaldırın, bu cihazı şarj edin, ardından tekrar yazılımı güncellemeyi deneyin</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">Yazılımı güncellemeden önce bu cihazı ve kamera tutacağınızı şarj edin</string>
     <string name="camera_grip_firmware_update_ongoing">Güncelleniyor. Tutacağın bağlantısını kesmeyin.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">Bu cihazı şarj cihazına takın ve tekrar yazılımı güncellemeyi deneyin</string>
     <string name="camera_grip_firmware_update_successful">Başarıyla güncellendi</string>
     <string name="camera_key_action_app_title">Uygulama aç</string>
     <string name="camera_key_action_category_title">Kamera kullanılamıyor</string>
@@ -3401,7 +3392,7 @@ Cihazınızı yeniden başlatıp tekrar deneyin."</string>
     <string name="ethernet_data_template">^1 ethernet verisi</string>
     <string name="ethernet_data_usage">Ethernet veri kullanımı</string>
     <string name="ethernet_tether_checkbox_text">Ethernet aracılığıyla paylaş</string>
-    <string name="ethernet_tethering_subtext">Telefonun ağ bağlantısını Ethernet üzerinden paylaş</string>
+    <string name="ethernet_tethering_subtext">Telefonun internet bağlantısını Ethernet üzerinden paylaşın</string>
     <string name="evening">Öğleden sonra</string>
     <string name="every_day">Her gün</string>
     <string name="exceptional_case">İstisnalar</string>
@@ -4740,10 +4731,6 @@ Xiaomi Cloud'u açın ve ögeleri oradan geri yükleyin."</string>
     <string name="load_esim_info">eSIM bilgileri alınıyor…</string>
     <string name="load_esim_info_error">eSIM bilgileri yüklenemedi. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
     <string name="loading">Yalnızca bir sn.…</string>
-    <string name="loading_eid_error_message">EID bilgisi alınamadı. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
-    <string name="loading_eid_error_ok">Anladım</string>
-    <string name="loading_eid_error_title">Yüklenemedi</string>
-    <string name="loading_eid_tip">EID bilgileri alınıyor…</string>
     <string name="loading_injected_setting_summary">Yükleniyor…</string>
     <string name="local_auto_backup_off">Kapalı</string>
     <string name="local_auto_backup_on">Açık</string>
@@ -5143,6 +5130,8 @@ Söz konusu izin reddedilirse sistem, uygulamanın bu tür görevleri arka pland
     <string name="long_background_tasks_title">Uzun süren arka plan görevleri</string>
     <string name="long_press_back_key">Geri tuşuna uzun basın</string>
     <string name="long_press_buttom_key">Kilit ekranında Ana ekran tuşuna uzun basın</string>
+    <string name="long_press_editor_style_summary">Saati ve duvar kağıdını düzenlemek için Kilit ekranına basılı tutun</string>
+    <string name="long_press_editor_style_title">Düzenlemek için basılı tutun</string>
     <string name="long_press_home_key">Ana ekran tuşuna uzun basın</string>
     <string name="long_press_menu_key">Menü tuşuna uzun basın</string>
     <string name="long_press_menu_key_when_lock">Kilit ekranında Menü tuşuna uzun basın</string>
@@ -5683,8 +5672,6 @@ Ek ayarlara erişmek için devam edin."</string>
     <string name="miui_type_style_title">Yazma stili</string>
     <string name="miui_updater">Sistem güncelleme</string>
     <string name="miui_userguide">Kullanım kılavuzu</string>
-    <string name="miui_visual_perception_summary">Cihazınızın varlığınızı algılamasını ve daha uygun kilitleme ve kilit açma seçeneklerini seçmesini sağlayın</string>
-    <string name="miui_visual_perception_title">Aktif görsel algı</string>
     <string name="miuix_access_state_desc">Seçili</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Tüm seçimleri kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
@@ -6642,8 +6629,10 @@ Bu hizmeti kullanmadan önce %s sözleşmesini okuyun ve kabul edin."</string>
     <string name="phone_language_summary" />
     <string name="photo_data">Fotoğraflar ve videolar</string>
     <string name="photography_handle_button_function_settings">Tutacak tuşunu kurun</string>
-    <string name="photography_handle_charge_protected">Tutacak otomatik şarj bağlantısını kesme</string>
-    <string name="photography_handle_charge_protected_summary">"Cihazınız bir kamera tutacağı kullandığınızı algıladığında cihaz şarj olmayı durduracak ve pili %1$s'de tutacak."</string>
+    <string name="photography_handle_charge_protected">Tutacak şarj koruması</string>
+    <string name="photography_handle_charge_protected_summary">Kamera tutacağı bağlandığında cihaz şarj olmayı durduracak ve pili %1$s seviyesinde tutacak.</string>
+    <string name="photography_handle_charge_state">Kamera tutacaklarından şarj et</string>
+    <string name="photography_handle_charge_state_summary">Bağlandıklarında bu cihazı kamera tutacaklarından şarj edin</string>
     <string name="photography_handle_launch_and_take_photo">Fotoğraf çek</string>
     <string name="photography_handle_launch_camera">Kamerayı aç</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Bir eylem gerçekleştirmek için deklanşör tuşuna basılı tutun</string>
@@ -6772,8 +6761,10 @@ Güç ve sesi artırma düğmelerine aynı anda basın."</string>
     <string name="pref_show_lunar_calendar_title">Kilit ekranında geleneksel Çin takvimini göster</string>
     <string name="pref_title_network_details">Ağ ayrıntıları</string>
     <string name="pref_title_update_notification">Veri kullanım bildirimleri</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Ekran kilitli iken kamerayı açmak ve fotoğraf çekmek için Ses kısma tuşuna çift dokunun</string>
     <string name="pref_volume_launch_camera_summary">Kamerayı başlatmak için ses kısma tuşuna iki kez basın</string>
     <string name="pref_volume_launch_camera_title">Kamerayı başlat</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">Ekran kilitli iken kamerayı açmak için Ses kısma tuşuna çift dokunun</string>
     <string name="pref_volume_wake_summary">Ses tuşlarına basmak cihazı uyandırır</string>
     <string name="pref_volume_wake_title">Ses tuşları ile uyandır</string>
     <string name="preference_change_password_title">Şifreyi değiştir</string>
@@ -7328,6 +7319,8 @@ Cihazınızı yeniden başlatıp tekrar deneyin."</string>
     <string name="safety_center_summary">Uygulama güvenliği, cihaz kilidi, izinler</string>
     <string name="safety_center_title">Güvenlik ve gizlilik</string>
     <string name="sar">RF Dalgaları Maruz Kalma Bilgileri</string>
+    <string name="satellite_call_assistant">Arama ayarları</string>
+    <string name="satellite_network_title">Uydu arama özellikleri</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_first_day_of_week">Cumartesi</string>
     <string name="saturday_short">Cts</string>
@@ -7358,7 +7351,6 @@ Cihazınızı yeniden başlatıp tekrar deneyin."</string>
     <string name="screen_dark_mode_select_time_error_summary">Başlangıç ve bitiş zamanları aynı olamaz</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Bazı uygulamalar Karanlık modda doğru bir şekilde gösterilmeyebilir. Burada tekli uygulamalar için Karanlık modu kullanmayı kısıtlayabilirsiniz.</string>
     <string name="screen_dark_mode_smart_dark_title">Global karanlık mod</string>
-    <string name="screen_dark_mode_time_summary">Ekranı kapattığınızda cihazınız programlanan zamanda Karanlık moda geçecek</string>
     <string name="screen_dark_mode_time_title">Karanlık modu planla</string>
     <string name="screen_effect">Renk şeması</string>
     <string name="screen_effect_adapt_color_summary">Mevcut ışıklandırmaya göre renkleri ayarla</string>
@@ -8483,6 +8475,11 @@ Son kullanılanları açmak için çift dokunun."</string>
     <string name="sort_order_frequent_notification">En sık</string>
     <string name="sort_order_recent_notification">En yeni</string>
     <string name="sort_order_size">Boyuta göre sırala</string>
+    <string name="sos_add_area_code_switch_summary">Tiantong Uydu iletişimleri ile acil bir durum araması yaptığınızda telefon numarasına alan kodunu otomatik olarak ekleyin</string>
+    <string name="sos_add_area_code_switch_title">Alan kodu otomatik olarak ekle</string>
+    <string name="sos_area_code_settings_hint">Alan kodunu girin</string>
+    <string name="sos_area_code_settings_summary">Acil durum kişinizin telefon numarasının alan kodunu manuel olarak ayarlayın</string>
+    <string name="sos_area_code_settings_title">Alan kodunu ayarla</string>
     <string name="sos_phone_call_privacy_dialog_message">"Acil durum kişilerinizi aramak ve SOS kaydını oynatmak için, bu uygulama aşağıdaki izinlere ihtiyaç duyar:
 • Arama yapmak
 Acil durum kişilerinizi aramak için
@@ -9788,10 +9785,6 @@ Kelime eklemek için artı simgesine dokunun."</string>
     <string name="uwb_settings_title">Ultra Geniş Bant (UWB)</string>
     <string name="v7_preference_off">KAPALI</string>
     <string name="v7_preference_on">AÇIK</string>
-    <string name="valid_net_access">Ağ erişim kimlik bilgilerini görüntüle</string>
-    <string name="valid_net_ok">Tamam</string>
-    <string name="valid_net_result_fail">Bilgi alınamadı. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
-    <string name="valid_net_result_title">Sonuç</string>
     <string name="verify_apps_over_usb_summary">ADB/ADT üzerinden yüklenen uygulamaları zararlı davranışlara karşı denetle.</string>
     <string name="verify_apps_over_usb_title">"USB'den yüklenen uygulamaları doğrula"</string>
     <string name="version_text">sürüm %1$s</string>
@@ -10701,7 +10694,6 @@ diğer kullanıcıların ağlarını da kullanabilirsiniz."</string>
     <string name="winscope_trace_quick_settings_title">Winscope İzleme</string>
     <string name="wireless_connected">Bağlandı</string>
     <string name="wireless_debugging_main_switch_title">Kablosuz hata ayıklamayı kullan</string>
-    <string name="wireless_display">Kablosuz ekran</string>
     <string name="wireless_networks_settings_title">Kablosuz özelliği ve ağlar</string>
     <string name="wireless_off">Kapalı</string>
     <string name="wireless_on">Açık</string>

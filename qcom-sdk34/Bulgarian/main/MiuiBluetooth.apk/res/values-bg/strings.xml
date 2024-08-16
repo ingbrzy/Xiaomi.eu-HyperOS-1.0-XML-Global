@@ -116,8 +116,6 @@
     <string name="fast_connect_device_title_connecting">Свързва се…</string>
     <string name="fast_connect_device_title_find_headset">Намери %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Изглежда това не е Вашето устройство: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Свързани</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Камера</string>
     <string name="fast_connect_new_feture_anti_lost">Сигнал за липсваща слушалка</string>
     <string name="fast_connect_new_feture_same_account">Свържете синхронизирани устройства</string>
     <string name="fast_connect_new_feture_sound_normalizer">По-добър звук</string>
@@ -211,7 +209,6 @@
     <string name="headset_download_fw">Обновление</string>
     <string name="headset_downloading">Изтегляне</string>
     <string name="headset_downloading_indicate">Изтегляне…</string>
-    <string name="headset_dual_device">Слушалките се свързват автоматично. Двойната връзка е изключена.</string>
     <string name="headset_find_new_version">Налично е обновление</string>
     <string name="headset_finish_fw">Успешно обновяване</string>
     <string name="headset_finish_fw_failed">Възникна грешка</string>
@@ -229,8 +226,8 @@
     <string name="headset_updating">Обновяване</string>
     <string name="information_go_to_fitness">Можете да откриете повече настройки в Mi Fitness</string>
     <string name="install_package">Инсталиране на %1$s за повече функции</string>
-    <string name="lea_disable_successfully">Преминахте към нормален Bluetooth</string>
-    <string name="lea_enable_successfully">Преминахте към Bluetooth LE Аудио</string>
+    <string name="lea_disable_successfully">Нормалния Bluetooth се използва за връзка със слушалките, както и за предаване на аудио</string>
+    <string name="lea_enable_successfully">LE Audio се използва за връзка със слушалките, както и за предаване на аудио</string>
     <string name="mi_audio_relay_cancel">OK</string>
     <string name="mi_audio_relay_connect_failed">Опитайте отново</string>
     <string name="mi_audio_relay_localphone">Това устройство</string>
@@ -280,7 +277,6 @@
     <string name="miuix_appcompat_delete_description">Изтрий</string>
     <string name="miuix_appcompat_deselect_all">Откажи всички</string>
     <string name="miuix_appcompat_deselect_all_description">Откажи всички</string>
-    <string name="miuix_appcompat_edit">Редактиране</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отказ</string>
     <string name="miuix_appcompat_search_input_description">Търси</string>
     <string name="miuix_appcompat_select_all">Избери всички</string>

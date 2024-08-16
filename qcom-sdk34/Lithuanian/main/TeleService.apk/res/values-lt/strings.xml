@@ -996,8 +996,8 @@ Jūs vis dar galite skambinti pagalbos numeriais."</string>
     <string name="mobile_networks">Mobiliojo tinklo nustatymai</string>
     <string name="mobile_property">Mobiliojo tinklo ypatybės</string>
     <string name="mobile_settings_screen_title">Mobilieji duomenys</string>
-    <string name="mobile_special_network_optimization_config_summary">Išmaniai priimkite kelis tinkle esančius scenarijus, kad pagerintumėte bendravimo patirtį</string>
-    <string name="mobile_special_network_optimization_config_title">Scenos prisitaikymo režimas</string>
+    <string name="mobile_special_network_optimization_config_summary">Pagerinkite skambučių kokybę automatiškai prisitaikydami prie skirtingų aplinkų</string>
+    <string name="mobile_special_network_optimization_config_title">Prisitaikyti prie skirtingų aplinkų</string>
     <string name="modem_dialog_body">Dėl nestabilaus mobiliojo tinklo ryšio iškilo nesklandumų arba tinklo problemų. Siųsti pranešimą apie klaidą Mi? Šioje ataskaitoje gali būti asmenį identifikuojančios informacijos. Ši ataskaita bus naudojama tik programinės klaidos taisymui, nebus bendrinama jokiais komerciniais tikslais.</string>
     <string name="modem_dialog_title">Mobilusis tinklas nestabilus</string>
     <string name="monday">Pirmadienis</string>
@@ -1569,7 +1569,6 @@ UT sąsaja: %5$s"</string>
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">Išeiti dabar</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">Žemas akumuliatoriaus lygis</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">Daugiau neberodyti</string>

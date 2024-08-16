@@ -724,10 +724,9 @@ Podeu controlar aquesta funció des de Configuració > Contrasenyes i seguretat 
     <string name="terms_of_use_label_translation">Servei de traducció</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">"Servei d'actualització del sistema (comprova si hi ha actualitzacions en línia i notifica sobre noves versions)"</string>
-    <string name="terms_of_use_label_use_location_and_network_global">"Abans d'utilitzar el sistema, llegiu i accepteu el nostre Acord d'usuari i la Política de privadesa, que cobreixen les aplicacions Xiaomi preinstal·lades al vostre dispositiu (p. ex., Galeria, Mi Música, Navegador Mi, Mi Vídeo, Temes, etc.). Protegim la vostra informació personal d'acord amb les lleis, regulacions i polítiques de privadesa pertinents. Quan el vostre dispositiu estigui activat, els serveis següents es connectaran a la xarxa i accediran a la vostra ubicació:"</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Abans d’utilitzar el sistema, heu de llegir i acceptar el nostre Acord d’usuari i la nostra Política de privadesa. Protegirem la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents. Quan el dispositiu estigui activat, els serveis següents es connectaran a la xarxa i accediran a la vostra ubicació::</string>
     <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Fons de pantalla</string>
-    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Heu d'acceptar la Política de privadesa de Facemoji abans d'utilitzar aquesta funció."</string>

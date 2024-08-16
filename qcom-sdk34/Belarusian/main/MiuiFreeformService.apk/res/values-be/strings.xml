@@ -218,7 +218,7 @@
 · Націсніце «Плывучыя вокны» у раздзеле «Апошнія», каб выбраць праграмы."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Націсніце на праграму ў бакавой панэлі, каб адкрыць яе ў плывучым акне.
  Перацягніце праграму ў цэнтр экрана, каб адкрыць яе ў плывучым акне, або ў бок, каб выкарыстоўваць Падзяленне экрана."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Перацягніце праграму з бакавой панэлі ў цэнтр экрана, каб адкрыць яе ў плавае акне, або ў бок, каб выкарыстоўаць Падзяленне экрана</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Перацягніце праграму з бакавой панэлі ў цэнтр экрана, каб адкрыць яе ў плавае акне, або ў бок, каб выкарыстоўаць Падзяленне экрана</string>
     <string name="freeform_vedio_description_pad">"Перацягніце аб'екты з панэлі, каб адкрыць плывучыя вокны"</string>
     <string name="friday">Пятніца</string>
     <string name="friday_short">Птн</string>
@@ -266,7 +266,6 @@
     <string name="miuix_appcompat_delete_description">Выдаліць</string>
     <string name="miuix_appcompat_deselect_all">Зняць выбар з усіх</string>
     <string name="miuix_appcompat_deselect_all_description">Зняць выбар</string>
-    <string name="miuix_appcompat_edit">Змяніць</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Скасаваць</string>
     <string name="miuix_appcompat_search_input_description">Пошук</string>
     <string name="miuix_appcompat_select_all">Выбраць усё</string>

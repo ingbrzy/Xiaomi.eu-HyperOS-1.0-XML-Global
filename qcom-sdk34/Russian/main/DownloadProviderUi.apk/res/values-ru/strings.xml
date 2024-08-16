@@ -34,7 +34,6 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="about">О приложении</string>
     <string name="actionbar_button_up_description">Назад</string>
-    <string name="ad_flag_text">Реклама</string>
     <string name="add_download_download">Загрузить</string>
     <string name="add_download_error_not_support">Эта ссылка не поддерживается</string>
     <string name="add_download_text_hint">Введите ссылку HTTP/HTTPS</string>
@@ -292,9 +291,6 @@
     <string name="month_september_shortest">Сен</string>
     <string name="more">Еще</string>
     <string name="morning">Утро</string>
-    <string name="native_body">Текст</string>
-    <string name="native_headline">Заголовок</string>
-    <string name="native_media_view">Просмотр мультимедиа</string>
     <string name="new_file_notification_title_image">Изображение</string>
     <string name="night">Вечер</string>
     <string name="no_downloads">Нет файлов</string>
@@ -361,7 +357,6 @@
     <string name="size_peta_byte">ПБ</string>
     <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">ТБ</string>
-    <string name="skip_ad">Пропустить</string>
     <string name="status_bar_notification_info_overflow">>999</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Воскресенье</string>
@@ -424,7 +419,6 @@
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="version">Версия %s</string>
-    <string name="watermark_label_prefix">AdMob –</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>

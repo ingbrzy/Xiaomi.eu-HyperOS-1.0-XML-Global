@@ -218,7 +218,7 @@
 · Додирните „Плутајући прозори“ у Недавно да бисте изабрали апликације."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Додирните апликацију на бочној траци да бисте је отворили у плутајућем прозору.
 · Повуците апликацију у центар екрана да бисте је отворили у плутајућем прозору или у страну да бисте користили Раздељени екран."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Превуците апликацију са бочне траке у центар екрана да бисте је отворили у плутајућем прозору или на страну да бисте користили Раздељени екран</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Повуците апликацију са бочне траке у центар екрана да бисте је отворили у плутајућем прозору или у страну да бисте користили Раздељени екран</string>
     <string name="freeform_vedio_description_pad">Повуците ставке са дока да бисте отворили плутајуће прозоре</string>
     <string name="friday">Петак</string>
     <string name="friday_short">Пет</string>
@@ -266,7 +266,6 @@
     <string name="miuix_appcompat_delete_description">Oбриши</string>
     <string name="miuix_appcompat_deselect_all">Поништи избор</string>
     <string name="miuix_appcompat_deselect_all_description">Опозови све</string>
-    <string name="miuix_appcompat_edit">Уреди</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Откажи</string>
     <string name="miuix_appcompat_search_input_description">Тражи</string>
     <string name="miuix_appcompat_select_all">Изабери све</string>

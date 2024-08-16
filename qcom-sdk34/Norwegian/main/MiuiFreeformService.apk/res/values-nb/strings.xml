@@ -218,7 +218,7 @@ dra for å flytte"</string>
 · Trykk på \"Flytende vinduer\" i Nylige for å velge apper."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Trykk på en app på sidelinjen for å åpne den i et flytende vindu.
 · Dra en app til midten av skjermen for å åpne den i et flytende vindu eller til siden for å bruke delt skjerm."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Dra en app fra sidelinjen til midten av skjermen for å åpne den i et flytende vindu eller til siden for å bruke delt skjerm</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Dra en app fra sidelinjen til midten av skjermen for å åpne den i et flytende vindu, eller til siden for å bruke delt skjerm</string>
     <string name="freeform_vedio_description_pad">Dra elementene ut av dokken for å åpne flytende vinduer</string>
     <string name="friday">Fredag</string>
     <string name="friday_short">Fre</string>
@@ -266,7 +266,6 @@ dra for å flytte"</string>
     <string name="miuix_appcompat_delete_description">Slett</string>
     <string name="miuix_appcompat_deselect_all">Fjern alle valg</string>
     <string name="miuix_appcompat_deselect_all_description">Fjern alle valg</string>
-    <string name="miuix_appcompat_edit">Rediger</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Avbryt</string>
     <string name="miuix_appcompat_search_input_description">Søk</string>
     <string name="miuix_appcompat_select_all">Velg alle</string>

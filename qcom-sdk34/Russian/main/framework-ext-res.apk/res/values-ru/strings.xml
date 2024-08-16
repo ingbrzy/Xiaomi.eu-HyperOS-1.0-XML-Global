@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">Мелодия по умолчанию (%1$s)</string>
     <string name="android_ringtone_silent">Без звука</string>
     <string name="android_ringtone_unknown">Неизвестная мелодия</string>
-    <string name="aon_reader_support_scene_des">Перелистывание страниц во время чтения</string>
-    <string name="aon_video_support_scene_des">Управление воспроизведением видео</string>
     <string name="app_continuity_channel_name">Регулировка отображения</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">Не удалось открыть код для оплаты Alipay</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">Компьютер</string>
     <string name="device_xiaomi">Mi Phone</string>
     <string name="dewdrops">Утренняя роса</string>
-    <string name="dialog_enable_mic_btn_negative">Отмена</string>
-    <string name="dialog_enable_mic_btn_positive">Включить</string>
-    <string name="dialog_enable_mic_message">Включите микрофон, чтобы воспользоваться этой функцией.</string>
-    <string name="dialog_enable_mic_title">Включите микрофон</string>
     <string name="digitaluniverse">Цифровая вселенная (стерео)</string>
     <string name="disable_nfc">NFC-модуль был отключен для беспроводной зарядки</string>
     <string name="disable_nfc_haptic_reverse">Вибрация и NFC-модуль были отключены для реверсивной беспроводной зарядки</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">Трансляция</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="toast_camera_satellite_mutually_exclusive">Камера недоступна при использовании спутниковой связи</string>
-    <string name="toast_mic_muted">Микрофон откл.</string>
-    <string name="toast_mic_unmuted">Микрофон вкл.</string>
-    <string name="tof_music_support_scene_des">Поддержка управления музыкальным плеером</string>
-    <string name="tof_office_support_scene_des">Поддержка документов Word и PowerPoint</string>
-    <string name="tof_short_video_support_scene_des">Поддержка переключения между видео</string>
-    <string name="tof_video_support_scene_des">Поддержка управления полноэкранным видеоплеером</string>
     <string name="total">Не беспокоить</string>
     <string name="total_description">Отключение звука и вибрации для всех уведомлений, кроме будильника.</string>
     <string name="total_title">Не беспокоить</string>

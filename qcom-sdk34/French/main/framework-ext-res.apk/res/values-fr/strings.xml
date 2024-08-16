@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">Sonnerie par défaut (%1$s)</string>
     <string name="android_ringtone_silent">Aucune</string>
     <string name="android_ringtone_unknown">Sonnerie inconnue</string>
-    <string name="aon_reader_support_scene_des">Feuilleter les pages pendant la lecture</string>
-    <string name="aon_video_support_scene_des">Contrôler la lecture vidéo</string>
     <string name="app_continuity_channel_name">"Ajustements de la mise en page de l'application"</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">"Impossible d'ouvrir le code de paiement Alipay"</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">Ordinateur</string>
     <string name="device_xiaomi">Téléphone Mi</string>
     <string name="dewdrops">La rosée du matin</string>
-    <string name="dialog_enable_mic_btn_negative">Annuler</string>
-    <string name="dialog_enable_mic_btn_positive">Activer</string>
-    <string name="dialog_enable_mic_message">"Pour pouvoir utiliser cette fonctionnalité, activez d'abord le microphone."</string>
-    <string name="dialog_enable_mic_title">Activer le microphone</string>
     <string name="digitaluniverse">Univers numérique (stéréo)</string>
     <string name="disable_nfc">Désactivé NFC pour le chargement sans fil</string>
     <string name="disable_nfc_haptic_reverse">Désactivé NFC et la vibration pour la recharge sans fil inversée</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">Diffuser</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="toast_camera_satellite_mutually_exclusive">"Impossible d'utiliser l'appareil photo lors de l'utilisation des communications par satellite"</string>
-    <string name="toast_mic_muted">Le Microphone est désactivé</string>
-    <string name="toast_mic_unmuted">Le Microphone est activé</string>
-    <string name="tof_music_support_scene_des">Prend en charge les commandes du lecteur de musique</string>
-    <string name="tof_office_support_scene_des">Prend en charge les documents Word et les présentations PowerPoint</string>
-    <string name="tof_short_video_support_scene_des">Prend en charge la commutation entre les vidéos</string>
-    <string name="tof_video_support_scene_des">Prend en charge les contrôles de lecteur vidéo plein écran</string>
     <string name="total">NPD</string>
     <string name="total_description">"Réduire les sons et désactiver le vibreur pour tous les éléments sauf l'alarme"</string>
     <string name="total_title">NPD</string>

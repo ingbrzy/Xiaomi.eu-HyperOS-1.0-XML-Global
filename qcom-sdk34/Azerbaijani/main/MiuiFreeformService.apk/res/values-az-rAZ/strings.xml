@@ -189,7 +189,7 @@ daha sonra hərəkət etmək üçün sürüşdürün"</string>
 · Tətbiqləri seçmək üçün Son girişdəki \"Sürüşən pəncərələr\" seçiminə toxunun."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Üzən pəncərədə açmaq üçün kənar çubuqda tətbiqə toxunun.
 · Tətbiqi üzən pəncərədə açmaq üçün onu ekranın mərkəzinə və ya bölünmüş ekrandan istifadə etmək üçün yan tərəfə çəkin."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Tətbiqi üzən pəncərədə açmaq üçün onu kənar çubuqdan ekranın mərkəzinə və ya bölünmüş ekrandan istifadə etmək üçün yan tərəfə çəkin</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Tətbiqi üzən pəncərədə açmaq üçün onu kənar çubuqdan ekranın mərkəzinə və ya bölünmüş ekrandan istifadə etmək üçün yan tərəfə çəkin</string>
     <string name="freeform_vedio_description_pad">Sürüşən pəncərələri açmaq üçün elementləri dokdan kənara çəkin</string>
     <string name="friday">Cümə</string>
     <string name="friday_short">C.</string>
@@ -237,7 +237,6 @@ daha sonra hərəkət etmək üçün sürüşdürün"</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Bütün seçimi ləğv et</string>
     <string name="miuix_appcompat_deselect_all_description">Bütün seçimi ləğv et</string>
-    <string name="miuix_appcompat_edit">Düzəliş et</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ləğv et</string>
     <string name="miuix_appcompat_search_input_description">Axtar</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>

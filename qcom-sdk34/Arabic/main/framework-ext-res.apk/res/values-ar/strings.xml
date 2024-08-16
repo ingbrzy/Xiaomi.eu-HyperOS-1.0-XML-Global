@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">نغمة الافتراضية (%1$s)</string>
     <string name="android_ringtone_silent">لا شيء</string>
     <string name="android_ringtone_unknown">نغمة غير معروفة</string>
-    <string name="aon_reader_support_scene_des">قلب الصفحات أثناء القراءة</string>
-    <string name="aon_video_support_scene_des">التحكم في تشغيل الفيديو</string>
     <string name="app_continuity_channel_name">تخصيص تخطيط التطبيق</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">لا يمكن فتح رمز دفع AliPay</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">الكمبيوتر</string>
     <string name="device_xiaomi">هاتف Mi</string>
     <string name="dewdrops">صباح الندى</string>
-    <string name="dialog_enable_mic_btn_negative">إلغاء</string>
-    <string name="dialog_enable_mic_btn_positive">تشغيل</string>
-    <string name="dialog_enable_mic_message">لاستخدام هذه الميزة، قم تشغيل الميكرفون أولاً.</string>
-    <string name="dialog_enable_mic_title">تشغيل الميكروفون</string>
     <string name="digitaluniverse">العالم الرقمي (ستيريو)</string>
     <string name="disable_nfc">تم إيقاف تشغيل NFC للشحن اللاسلكي</string>
     <string name="disable_nfc_haptic_reverse">تم إيقاف تشغيل NFC والاهتزاز للشحن اللاسلكي العكسي</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">بث</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="toast_camera_satellite_mutually_exclusive">لا يمكن استخدام الكاميرا أثناء استخدام الاتصالات عبر الأقمار الصناعية</string>
-    <string name="toast_mic_muted">الميكروفون متوقف</string>
-    <string name="toast_mic_unmuted">الميكروفون مشغل</string>
-    <string name="tof_music_support_scene_des">دعم عناصر التحكم لمشغل الموسيقى</string>
-    <string name="tof_office_support_scene_des">دعم مستندات الـ Word وعروض الـ PowerPoint</string>
-    <string name="tof_short_video_support_scene_des">دعم التبديل بين مقاطع الفيديو</string>
-    <string name="tof_video_support_scene_des">دعم عناصر التحكم في ملء الشاشة لمشغل الفيديو</string>
     <string name="total">عدم الازعاج</string>
     <string name="total_description">كتم الأصوات وإيقاف تشغيل الاهتزاز لجميع العناصر ماعدا تنبيه الساعة</string>
     <string name="total_title">عدم الازعاج</string>

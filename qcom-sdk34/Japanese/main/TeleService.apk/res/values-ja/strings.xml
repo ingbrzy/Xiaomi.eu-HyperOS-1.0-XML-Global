@@ -1013,8 +1013,8 @@ eSIMをアクティブ化してもよろしいですか？"</string>
     <string name="mobile_networks">モバイルネットワーク設定</string>
     <string name="mobile_property">モバイルネットワークのプロパティ</string>
     <string name="mobile_settings_screen_title">モバイルデータ</string>
-    <string name="mobile_special_network_optimization_config_summary">ネットワークの複数のシナリオをインテリジェントに認識して、通信体験を向上させます</string>
-    <string name="mobile_special_network_optimization_config_title">シーン適応モード</string>
+    <string name="mobile_special_network_optimization_config_summary">さまざまなシーンに自動的に適応して、通話品質を向上させる</string>
+    <string name="mobile_special_network_optimization_config_title">さまざまなシーンに対応</string>
     <string name="modem_dialog_body">モバイルネットワークが不安定のため、中断やネットワーク問題を引き起こしています。Xiaomiが問題を分析できるようにバグレポートを送信しますか？このレポートには個人情報が含まれる場合があります。レポートはバグの修正のために使用され、商業的な目的のために共有されることはありません。</string>
     <string name="modem_dialog_title">モバイルネットワークが不安定です</string>
     <string name="monday">月曜日</string>
@@ -1588,7 +1588,6 @@ UT インターフェース: %5$s"</string>
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">今すぐ終了</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">バッテリーが残りわずかです</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">今後表示しない</string>
@@ -1596,7 +1595,7 @@ UT インターフェース: %5$s"</string>
     <string name="satellite_notification_title">電波の弱いエリアにいます</string>
     <string name="satellite_point_title">Turn on Tiantong Satellite communications</string>
     <string name="satellite_select_enable_sim">SIMカードを選択</string>
-    <string name="satellite_signal_boost_setting_summary">Enhance signal strength and stability in cloudy or other non-optimal weather conditions</string>
+    <string name="satellite_signal_boost_setting_summary">曇りやその他の最適ではない気象条件での信号強度と安定性を強化します</string>
     <string name="satellite_signal_boost_setting_title">Use Tiantong signal amplifier</string>
     <string name="satellite_start">了解</string>
     <string name="satellite_start_battery">了解</string>

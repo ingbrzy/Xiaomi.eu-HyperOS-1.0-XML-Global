@@ -724,10 +724,9 @@ Ezt a funkciót a Beállítások > Jelszavak és biztonság > Adatvédelem > Has
     <string name="terms_of_use_label_translation">Fordítási szolgáltatás</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">Rendszerfrissítési szolgáltatás (online frissítéseket keres, és értesítést küld az új verziókról)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">A rendszer használata előtt olvassa el és fogadja el a Felhasználói szerződésünket és az Adatvédelmi irányelveinket, amelyek a készülékére előre telepített Xiaomi alkalmazásokra (pl. Galéria, Mi Zene, Mi Böngésző, Mi Videó, Témák stb.) vonatkoznak. Megvédjük az Ön személyes adatait a vonatkozó jogszabályokkal, szabályozásokkal és adatvédelmi irányelvekkel összhangban. Ha készüléke aktív, a következő szolgáltatások csatlakoznak a hálózatra és férnek hozzá az Ön tartózkodási helyéhez:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">A rendszer használata előtt el kell olvasnia és el kell fogadnia a Felhasználói Szerződésünket és az Adatvédelmi irányelvünket. Személyes adatait a vonatkozó törvényekkel, rendeletekkel és adatvédelmi irányelvekkel összhangban védjük. Ha készüléke aktív, a következő szolgáltatások csatlakoznak a hálózatra és férnek hozzá az Ön tartózkodási helyéhez:</string>
     <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Háttérkép</string>
-    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 A Facemoji használata előtt el kell fogadnia a szolgáltatás Adatvédelmi Irányelveit."</string>

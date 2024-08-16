@@ -34,7 +34,6 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="about">About</string>
     <string name="actionbar_button_up_description">Back</string>
-    <string name="ad_flag_text">AD</string>
     <string name="add_download_download">Download</string>
     <string name="add_download_error_not_support">"This link isn't supported"</string>
     <string name="add_download_text_hint">Enter a HTTP/HTTPS link</string>
@@ -292,9 +291,6 @@
     <string name="month_september_shortest">Sep</string>
     <string name="more">More</string>
     <string name="morning">Morning</string>
-    <string name="native_body">Body</string>
-    <string name="native_headline">Headline</string>
-    <string name="native_media_view">Media view</string>
     <string name="new_file_notification_title_image">Image</string>
     <string name="night">Evening</string>
     <string name="no_downloads">No files</string>
@@ -361,7 +357,6 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="skip_ad">Skip</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Sunday</string>
@@ -424,7 +419,6 @@
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="version">Version %s</string>
-    <string name="watermark_label_prefix">AdMob –</string>
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>

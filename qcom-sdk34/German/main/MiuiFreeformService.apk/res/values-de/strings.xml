@@ -218,7 +218,7 @@ dann zum Verschieben ziehen"</string>
 · Tippe auf „Schwebende Fenster“ in „Zuletzt“, um Apps auszuwählen."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Tippe auf eine App in der Seitenleiste, um sie in einem schwebenden Fenster zu öffnen.
 · Ziehe eine App in die Mitte des Bilschirms, um sie zu öffnen oder zu Seite, um den Mehrfenster-Moduszu verwenden."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Ziehe eine App in der Seitenleiste zur Mitte des Bildschirms, um sie in einem schwebenden Fenster zu öffnen oder zur Seite, um den Mehrfenster-Moduszu verwenden</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Ziehe eine App in der Seitenleiste zur Mitte des Bildschirms, um sie in einem schwebenden Fenster zu öffnen oder zur Seite, um den Mehrfenster-Moduszu verwenden</string>
     <string name="freeform_vedio_description_pad">Ziehe Elemente aus dem Dock, um schwebende Fenster zu öffnen</string>
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
@@ -266,7 +266,6 @@ dann zum Verschieben ziehen"</string>
     <string name="miuix_appcompat_delete_description">Löschen</string>
     <string name="miuix_appcompat_deselect_all">Auswahl aufheben</string>
     <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
-    <string name="miuix_appcompat_edit">Bearbeiten</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
     <string name="miuix_appcompat_search_input_description">Suchen</string>
     <string name="miuix_appcompat_select_all">Alles auswählen</string>

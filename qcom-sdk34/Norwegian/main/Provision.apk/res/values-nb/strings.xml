@@ -724,10 +724,9 @@ Du kan kontrollere denne funksjonen under Innstillinger > Passord &amp; Sikkerhe
     <string name="terms_of_use_label_translation">Oversettelsestjeneste</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">Systemoppdateringstjeneste (ser etter oppdateringer på nett og varsler om nye versjoner)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">Før du bruker systemet, ber vi om at du leser og godtar vår brukeravtale og personvernerklæring, som dekker Xiaomi-apper som er forhåndsinstallert på enheten din (f.eks. Galleri, Mi Musikk, Mi Nettleser, Temaer osv.). Vi vil beskytte personopplysningene dine i samsvar med gjeldende lover, forskrifter og retningslinjer for personvern. Når enheten din er aktivert, kobler følgende tjenester seg til nettverket og får tilgang til posisjonen din:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Før du bruker systemet, må du lese og godta vår brukeravtale og personvernerklæring. Vi vil beskytte dine personlige opplysninger i samsvar med gjeldende lover, forskrifter og retningslinjer for personvern. Når enheten din er aktivert, kobler følgende tjenester seg til nettverket og får tilgang til posisjonen din:</string>
     <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Bakgrunn</string>
-    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Du må samtykke i vår Facemoji-personvernpolicy før du bruker denne funksjonen."</string>

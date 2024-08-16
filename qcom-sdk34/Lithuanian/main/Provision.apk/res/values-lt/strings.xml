@@ -724,10 +724,9 @@ Jūsų siunčiamuose duomenyse bus nurodyti bendrieji jūsų įrenginio duomenys
     <string name="terms_of_use_label_translation">Vertimo paslauga</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">Sistemos atnaujinimo paslauga (tikrina, ar yra naujinių ir informuoja apie naujas versijas)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">Prieš naudodami sistemą, turite perskaityti ir sutikti su mūsų naudotojo sutartimi ir privatumo politika, kurios apima iš anksto jūsų įrenginyje įdiegtas programas (kaip antai Galerija, „Mi“ muzika, „Mi“ naršyklė, Temos ir kt.). Apsaugosime jūsų asmeninę informaciją pagal taikomus įstatymus, teisės aktus ir privatumo politikas. Kai aktyvuojate savo įrenginį, prie tinklo prisijungs ir jūsų vietos prieigą gaus toliau nurodytos paslaugos:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Prieš naudodami sistemą, turite perskaityti ir sutikti su mūsų naudotojo sutartimi ir privatumo politika. Apsaugosime jūsų asmeninę informaciją pagal taikomus įstatymus, teisės aktus ir privatumo politikas. Kai aktyvuojate savo įrenginį, prie tinklo prisijungs ir jūsų vietos prieigą gaus toliau nurodytos paslaugos:</string>
     <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Fono paveikslėlis</string>
-    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Prieš naudodami šią funkciją, turite sutikti su „Facemoji“ privatumo politika."</string>

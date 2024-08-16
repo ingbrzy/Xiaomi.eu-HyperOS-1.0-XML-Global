@@ -724,10 +724,9 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="terms_of_use_label_translation">Служба перевода</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">Служба обновления системы (проверяет наличие обновлений и уведомляет о новых версиях)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">Перед использованием системы ознакомьтесь и согласитесь с нашими Условиями использования и Политикой конфиденциальности, которые распространяются на предустановленные приложения Xiaomi (например, Галерея, Mi Музыка, Mi Браузер, Mi Видео, Темы и т. д.). Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политиками конфиденциальности. После активации устройства следующие службы будут подключаться к сети и получать доступ к данным о вашем местоположении:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Перед тем как начать использовать систему, вам необходимо ознакомиться и согласиться с нашими Условиями использования и Политикой конфиденциальности. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политиками конфиденциальности. После активации устройства следующие службы будут подключаться к сети и получать доступ к данным о вашем местоположении:</string>
     <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Обои</string>
-    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Перед использованием этой функции вы должны принять Политику конфиденциальности Facemoji."</string>

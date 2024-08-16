@@ -505,8 +505,8 @@ eSIM ကို မဖြစ်မနေအသက်သွင်းလိုသ�
     <string name="mobile_networks">မိုဘိုင်းကွန်ရက် ဆက်တင်</string>
     <string name="mobile_property">မိုဘိုင်းကွန်ရက် အရည်အသွေးများ</string>
     <string name="mobile_settings_screen_title">မိုဘိုင်းဒေတာ</string>
-    <string name="mobile_special_network_optimization_config_summary">ဆက်သွယ်ရေးအတွေ့အကြုံကို တိုးမြှင့်ရန် ကွန်ရက်ရှိ မြင်ကွင်းအမျိုးမျိုးကို ကောင်းစွာ မှတ်မိသည်</string>
-    <string name="mobile_special_network_optimization_config_title">မြင်ကွင်းအသားကျမုဒ်</string>
+    <string name="mobile_special_network_optimization_config_summary">ရှုခင်းအမျိုးမျိုးနှင့် လိုက်လျောညီထွေဖြစ်ခြင်းဖြင့် ခေါ်ဆိုမှုအရည်အသွေးကို မြှင့်ပေးသည်</string>
+    <string name="mobile_special_network_optimization_config_title">ရှုခင်းအမျိုးမျိုးနှင့် လိုက်လျောညီထွေဖြစ်သည်</string>
     <string name="modem_dialog_body">မိုဘိုင်းကွန်ရက် မတည်ငြိမ်သောကြောင့် ကွန်ရက်ပြဿနာများရှိသည်။ စိစစ်မှုများပြုလုပ်နိုင်ရန် Mi သို့ တုံ့ပြန်အကြံပြုချက်ပေးပို့မလား? ဤအစီရင်ခံစာတွင် ကိုယ်ရေးဆိုင်ရာအချက်အလက်များ ပါဝင်နိုင်ပါသည်။ သင့်အစီရင်ခံစာသည် ဤချွတ်ယွင်းမှုအား ဖြေရှင်းရာ၌ အထောက်အကူပြုနိုင်သည်၊ စီပွားရေးဆိုင်ရာအကြောင်းအရာများအား မျှဝေမည်မဟုတ်ပါ။</string>
     <string name="modem_dialog_title">မိုဘိုင်းကွန်ရက် မတည်ငြိမ်ပါ</string>
     <string name="monday">တနင်္လာ</string>
@@ -799,7 +799,6 @@ eSIM ကို မဖြစ်မနေအသက်သွင်းလိုသ�
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">ယခုထွက်ရန်</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">ဓာတ်ခဲအားနည်းနေသည်</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">ထပ်မပြပါနှင့်</string>

@@ -727,10 +727,9 @@ bedingungen"</string>
     <string name="terms_of_use_label_translation">Übersetzungsdienst</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">System-Update-Dienst (sucht online nach Updates und benachrichtigt über neue Versionen)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">Bevor du das System verwendest, lies unsere Nutzervereinbarung und Datenschutzerklärung und stimme diesen zu, da dise die Xiaomi-Apps umfassen, die auf deinem Gerät vorinstalliert sind (z. B. Galerie, Mi-Musik, Mi Browser, Mi-Video, Themen usw.). Wir werden deine personenbezogenen Daten in Übereinstimmung mit den entsprechenden Gesetzen, Vorschriften und Datenschutzrichtlinien schützen. Wenn dein Gerät aktiviert wird, verbinden sich die folgenden Dienste mit dem Netzwerk und greifen auf deinen Standort zu:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Bevor du das System verwendest, musst du unsere Nutzervereinbarung und Datenschutzerklärung lesen und diesen zustimmen. Wir schützen deine personenbezogene Daten nach den relevanten Gesetzen, Regulierungen und Datenschutzerklärungen. Wenn dein Gerät aktiviert wird, verbinden sich die folgenden Dienste mit dem Netzwerk und greifen auf deinen Standort zu:</string>
     <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Hintergrundbild</string>
-    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Du musst der Facemoji-Datenschutzerklärung zustimmen, bevor du diese Funktion nutzen kannst."</string>

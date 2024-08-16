@@ -1001,8 +1001,8 @@
     <string name="mobile_networks">Ρυθμίσεις δικτύου κινητής τηλεφωνίας</string>
     <string name="mobile_property">Ιδιότητες δικτύου κινητής τηλεφωνίας</string>
     <string name="mobile_settings_screen_title">Δεδομένα κινητής τηλεφωνίας</string>
-    <string name="mobile_special_network_optimization_config_summary">Ευφυής αντίληψη πολλαπλών σεναρίων στο δίκτυο για να βελτιώσετε την εμπειρία επικοινωνίας</string>
-    <string name="mobile_special_network_optimization_config_title">Προσαρμοστική λειτουργία σκηνής</string>
+    <string name="mobile_special_network_optimization_config_summary">Βελτιώστε την ποιότητα κλήσεων προσαρμόζοντας αυτόματα σε διαφορετικές σκηνές</string>
+    <string name="mobile_special_network_optimization_config_title">Προσαρμογή σε διαφορετικές σκηνές</string>
     <string name="modem_dialog_body">Το κινητό δίκτυο είναι ασταθές και ως αποτέλεσμα υπάρχουν διακοπές και προβλήματα δικτύου. Αποστολή σχολίων στο Mi για ανάλυση; Αυτή η αναφορά ενδέχεται να περιέχει προσωπικές πληροφορίες. Η αναφορά σας θα χρησιμοποιηθεί για να μας βοηθήσει στην επίλυση αυτού του προβλήματος και δεν θα κοινοποιηθεί για κανένα εμπορικό σκοπό.</string>
     <string name="modem_dialog_title">Ασταθές δίκτυο κινητής</string>
     <string name="monday">Δευτέρα</string>
@@ -1574,7 +1574,6 @@ PIN%d θα κλειδωθούν μετά από ακόμα μία αποτυχη
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">Έξοδος τώρα</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">Χαμηλή μπαταρία</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">Να μην εμφανιστεί ξανά</string>
@@ -1582,7 +1581,7 @@ PIN%d θα κλειδωθούν μετά από ακόμα μία αποτυχη
     <string name="satellite_notification_title">Βρίσκεστε σε περιοχή αδύναμου σήματος</string>
     <string name="satellite_point_title">Turn on Tiantong Satellite communications</string>
     <string name="satellite_select_enable_sim">Επιλογή κάρτας SIM</string>
-    <string name="satellite_signal_boost_setting_summary">Enhance signal strength and stability in cloudy or other non-optimal weather conditions</string>
+    <string name="satellite_signal_boost_setting_summary">Βελτιώστε την ισχύ και τη σταθερότητα του σήματος σε συνθήκες συννεφιάς ή άλλων μη-βέλτιστων καιρικών συνθηκών</string>
     <string name="satellite_signal_boost_setting_title">Use Tiantong signal amplifier</string>
     <string name="satellite_start">Κατανοητό</string>
     <string name="satellite_start_battery">Κατανοητό</string>

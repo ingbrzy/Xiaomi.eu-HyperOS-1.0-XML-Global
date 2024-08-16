@@ -996,8 +996,8 @@
     <string name="mobile_networks">Налады мабільнай сеткі</string>
     <string name="mobile_property">Уласцівасці мабільнай сеткі</string>
     <string name="mobile_settings_screen_title">Мабільны інтэрнэт</string>
-    <string name="mobile_special_network_optimization_config_summary">Інтэлектуальнае ўспрыманне некалькіх сцэнарыяў у сетцы для павышэння якасці сувязі</string>
-    <string name="mobile_special_network_optimization_config_title">Адаптыўны рэжым сцэны</string>
+    <string name="mobile_special_network_optimization_config_summary">Паляпшаць якасць выклікаў пры дапамозе аўтаматычнай адаптацыі да розных сцэнароў выкарыстання.</string>
+    <string name="mobile_special_network_optimization_config_title">Адаптацыя да розных сцэнароў</string>
     <string name="modem_dialog_body">"Мабільная сувязь з'яўляецца няўстойлівай, што прыводзіць да перапыненняў і праблем сеткі. Адправіць водгук Mi для аналізу? Гэтая справаздача можа ўтрымліваць асабістую інфармацыю. Ваша справаздача будзе выкарыстоўвацца, каб дапамагчы нам выправіць гэтую памылку і ніколі не будзе перададзена ў любым камерцыйным кантэксце."</string>
     <string name="modem_dialog_title">Мабільная сетка нестабільная</string>
     <string name="monday">Панядзелак</string>
@@ -1569,7 +1569,6 @@ SIM-карта будзе заблакавана пры няўдалай спр�
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">Выйсці</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">Нізкі зарад батарэі</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">Больш не паказываць</string>

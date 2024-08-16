@@ -58,7 +58,7 @@
     <string name="account_autostar_label">အော်တိုစတင်ပါ</string>
     <string name="account_list">အခြားအကောင့်များ</string>
     <string name="account_other">အခြားသော</string>
-    <string name="account_settings_menu_auto_sync">အကောင့်များနှင့် ဆင့်(ခ်)လုပ်ခြင်း</string>
+    <string name="account_settings_menu_auto_sync">အကောင့်များနှင့် ဆင့်(ခ်) လုပ်ခြင်</string>
     <string name="account_settings_title">Google နှင့် အကောင့်</string>
     <string name="acount_data">အကောင့်များ</string>
     <string name="actionbar_button_up_description">နောက်သို့</string>
@@ -174,26 +174,6 @@
     <string name="aod_style_description">မျက်နှာပြင်ပိတ်ထားချိန်တွင် နာရီ၊ ရက်စွဲ၊ အချိန်၊ အသိပေးချက်များနှင့် အခြားအရာများကို ပြသရန်</string>
     <string name="aod_style_title">စတိုင်</string>
     <string name="aod_to_close">ပိတ်မည်</string>
-    <string name="aon_gesture_cue_tone_summary">လက်ဖဝါးတွေ့ချိန်တိုင်း အတည်ပြုသံဖွင့်ရန်</string>
-    <string name="aon_gesture_cue_tone_title">အတည်ပြုသံ ဖွင့်ရန်</string>
-    <string name="aon_gesture_dialog_message">ဤအင်္ဂါရပ်ဖွင့်ထားချိန်တွင် စက်က သင့်လက်ဟန်ခြေဟန်များကို စစ်ဆေးသုံးသပ်ပါမည်။ သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ဆောင်ရွက်မည်မဟုတ်၍ စက်ထဲ သို့မဟုတ် ကလောက်တွင် ဒေတာသိမ်းမည်မဟုတ်ပါ။</string>
-    <string name="aon_gesture_dialog_title">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုကြေညာချက်</string>
-    <string name="aon_gesture_double_press_summary">ပြန်ဖွင့်ခြင်း ဖွင့်ရန်နှင့် ရပ်ရန်</string>
-    <string name="aon_gesture_double_press_title">နှစ်ချက်နှိပ်လှုပ်ရှားမှုလုပ်ခြင်း</string>
-    <string name="aon_gesture_draw_circle_summary_pad">ဖုန်းဖြေရန် သို့မဟုတ် တက်ဘလက်သို့ ပြောင်းထားသော ဖုန်းကိုချရန်</string>
-    <string name="aon_gesture_draw_circle_summary_phone">ဖုန်းဖြေရန်နှင့် ဖုန်းချရန်</string>
-    <string name="aon_gesture_draw_circle_title">စက်ဝိုင်းဆွဲခြင်း</string>
-    <string name="aon_gesture_enable_summary" formatted="false">လက်ကို ကင်မရာနှင့် %d မှ %d စင်တီမီတာအကွာ ထားပြီး မျက်နှာပြင်ထိပ်တွင် လက်သင်္ကေတပေါ်လာပြီးမှ လက်ဟန်ခြေဟန်ကို လုပ်ပါ</string>
-    <string name="aon_gesture_learn_title">လက်ဟန်ခြေဟန်များလေ့လာရန်</string>
-    <string name="aon_gesture_left_right_waving_summary">ပြန်ဖွင့်ခြင်းလုပ်ငန်းစဉ်ကိုညှိပြီး သီချင်းများပြောင်းရန်</string>
-    <string name="aon_gesture_left_right_waving_title">အလျားလိုက်ဝှေ့ယမ်းခြင်း</string>
-    <string name="aon_gesture_settings">ထိတွေ့မှုမဲ့လက်ဟန်ခြေဟန်များ</string>
-    <string name="aon_gesture_status_close">ပိတ်ရန်</string>
-    <string name="aon_gesture_status_open">ဖွင့်ရန်</string>
-    <string name="aon_gesture_supported_app_title">ပံ့ပိုးသောအက်(ပ်)များ</string>
-    <string name="aon_gesture_supported_title">ရနိုင်သော လက်ဟန်ခြေဟန်များ</string>
-    <string name="aon_gesture_up_down_waving_summary">မီဒီယာအသံညှိရန်၊ ဗီဒီယိုများပြောင်းရန်နှင့် စာရွက်စာတမ်းများတွင် စာမျက်နှာလှန်ရန်</string>
-    <string name="aon_gesture_up_down_waving_title">ထောင်လိုက်ဝှေ့ယမ်းခြင်း</string>
     <string name="ap_connect_failed">မချိတ်ဆက်နိုင်ခဲ့ပါ</string>
     <string name="ap_connected_battery_level">" | ဘက်ထရီ %1$s"</string>
     <string name="ap_p2p_dialog_message">လက်ရှိမျှဝေထားသော Wi-Fi ကို သုံးထားပြီးဖြစ်သည်။ ကိုယ်ပိုင်ဟော့စပေါ့မဖွင့်မီ Wi-Fi တိုက်ရိုက်၊ Mi မျှဝေခြင်း၊ လွှင့်တင်ခြင်း သို့မဟုတ် အခြားကြိုးမဲ့လွှဲပြောင်းစနစ်များ သုံးမနေကြောင်း သေချာပါစေ။</string>
@@ -788,10 +768,21 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="camera_front">အရှေ့ %s</string>
     <string name="camera_grip_firmware_need_update">အပ်ပဒိတ်လုပ်ရန်</string>
     <string name="camera_grip_firmware_new_version">နောက်ဆုံးပေါ်ဖြစ်သည်</string>
+    <string name="camera_grip_firmware_save_button_know">ရပါပြီ</string>
+    <string name="camera_grip_firmware_save_button_negaitive">မလုပ်သေးပါ</string>
+    <string name="camera_grip_firmware_save_button_positive">အပ်ပဒိတ်လုပ်ရန်</string>
+    <string name="camera_grip_firmware_save_channel">ကင်မရာလက်ကိုင် အသိပေးချက်များ</string>
+    <string name="camera_grip_firmware_save_networking_tips">Wi-Fi ချိတ်ပြီး သို့မဟုတ် မိုဘိုင်းဒေတာဖွင့်ပြီး ဖန်း(မ်)ဝဲကို အပ်ပဒိတ်ပြန်လုပ်ကြည့်ပါ။</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">ဤစက်ကိုဆက်သုံးရန် ဖန်း(မ်)ဝဲအပ်ပဒိတ်လုပ်ပါ။</string>
+    <string name="camera_grip_firmware_save_title">ပရော်ဖက်ရှင်နယ်ကင်မရာလက်ကိုင်</string>
     <string name="camera_grip_firmware_title_text">ဖန်းမဝဲအပ်ပဒိတ်လုပ်ရန်</string>
     <string name="camera_grip_firmware_update_describe">အပ်ပဒိတ်လုပ်ငန်းစဉ်တစ်လျှောက် လက်ကိုင်ကိုချိတ်ထားပါ</string>
     <string name="camera_grip_firmware_update_faild">အပ်ပဒိတ်လုပ်မရပါ</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">ကင်မရာလက်ကိုင်ကိုဖြုတ်ပါ၊ ဤစက်ကိုအားသွင်းပါ၊ ၎င်းနောက် ဖန်း(မ်)ဝဲကို အပ်ပဒိတ်ပြန်လုပ်ကြည့်ပါ</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">ဖန်း(မ်)ဝဲအပ်ပဒိတ်မလုပ်မီ ဤစက်နှင့် ကင်မရာလက်ကိုင်ကို အားသွင်းပါ</string>
     <string name="camera_grip_firmware_update_ongoing">အပ်ပဒိတ်လုပ်နေသည်။ လက်ကိုင်ကို မဖြုတ်ပါနှင့်။</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">ဤစက်ကို အားသွင်းကြိုးချိတ်ပြီး ဖန်း(မ်)ဝဲကို ပြန်အပ်ပဒိတ်လုပ်ကြည့်ပါ</string>
     <string name="camera_grip_firmware_update_successful">အောင်မြင်စွာ အပ်ပဒိတ်လုပ်ပြီးပါပြီ</string>
     <string name="camera_key_action_app_title">အက်ပ် ဖွင့်ပါ</string>
     <string name="camera_key_action_category_title">ကင်မရာသုံးမရပါ</string>
@@ -1411,7 +1402,6 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="error_apn_restrict_string">APN အကွက်တွင် %1$s ပါ၍ မရပါ</string>
     <string name="error_xcap_not_add">XCAP ကို အေပီအန်အမျိုးအစားအဖြစ်သုံးမရပါ။</string>
     <string name="ethernet_tether_checkbox_text">အီသာနက်နှင့် မျှဝေရန်</string>
-    <string name="ethernet_tethering_subtext">ဖုန်းကွန်ရက်လိုင်းကို အီသာနက်မှ မျှဝေရန်</string>
     <string name="evening">နေ့လယ်</string>
     <string name="every_day">နေ့တိုင်း</string>
     <string name="exceptional_case">ခြွင်းချက်များ</string>
@@ -2297,10 +2287,6 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="load_esim_info">eSIM အချက်အလက်များရယူနေသည်…</string>
     <string name="load_esim_info_error">eSIM အချက်အလက်များ တင်မရပါ။ တစ်မိနစ်၊ နှစ်မိနစ်စောင့်ပြီး ပြန်လုပ်ကြည့်ပါ</string>
     <string name="loading">ခေတ္တစောင့်ပါ…</string>
-    <string name="loading_eid_error_message">EID အချက်အလက်များ ယူမရပါ။ တစ်မိနစ်၊ နှစ်မိနစ်စောင့်ပြီး ပြန်လုပ်ကြည့်ပါ။</string>
-    <string name="loading_eid_error_ok">ရပါပြီ</string>
-    <string name="loading_eid_error_title">တင်မရပါ</string>
-    <string name="loading_eid_tip">EID အချက်အလက်များရယူနေသည်…</string>
     <string name="local_auto_backup_off">ပိတ်</string>
     <string name="local_auto_backup_on">ဖွင့်</string>
     <string name="local_auto_backup_section_title">အော်တို အရန်သိမ်းများ</string>
@@ -2454,6 +2440,8 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="login_action">ဆိုင်းအင်</string>
     <string name="long_press_back_key">နောက်ဆုတ်ခလုတ်ကို ကြာကြာဖိပါ</string>
     <string name="long_press_buttom_key">သော့ခတ်မျက်နှာပြင်ပေါ်မှ ဟုမ်းကို ကြာကြာဖိပါ</string>
+    <string name="long_press_editor_style_summary">နာရီနှင့် နောက်ခံပုံပြင်ရန် သော့ခတ်မျက်နှာပြင်ကို ထိပြီးဖိထားပါ</string>
+    <string name="long_press_editor_style_title">ပြင်ရန် ထိပြီးဖိထားပါ</string>
     <string name="long_press_home_key">ဟုမ်းခလုတ်ကို ကြာကြာဖိပါ</string>
     <string name="long_press_menu_key">မီနူးခလုတ်ကို ကြာကြာဖိပါ</string>
     <string name="long_press_menu_key_when_lock">သော့ခတ်မျက်နှာပြင်ပေါ်မှ မီနူးကို ကြာကြာဖိပါ</string>
@@ -2841,8 +2829,6 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="miui_type_style_title">စာရိုက်စတိုင်</string>
     <string name="miui_updater">စက်စနစ်အပ်ဒိတ်</string>
     <string name="miui_userguide">သုံးသူလမ်းညွှန်</string>
-    <string name="miui_visual_perception_summary">သင့်စက်အား သင်ရှိနေခြင်းကို အာရုံခံခိုင်းပြီး ပိုအဆင်ပြေသော သော့ပိတ်၊ သောဖွင့်ရွေးချယ်မှုများကို ရွေးခိုင်းပါ</string>
-    <string name="miui_visual_perception_title">အမြင်အာရုံအသက်ဝင်သည်</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
     <string name="miuix_appcompat_action_mode_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
@@ -3343,8 +3329,10 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="phone_call_noise_suppression">ဖုန်းပြောချိန်တွင်ဆူညံသံလျော့ချမည်</string>
     <string name="photo_data">ဓာတ်ပုံနှင့် ဗီဒီယိုများ</string>
     <string name="photography_handle_button_function_settings">လက်ကိုင်ခလုတ်သတ်မှတ်ရန်</string>
-    <string name="photography_handle_charge_protected">လက်ကိုင် အားသွင်းခြင်း အလိုအလျောက်ပြတ်စနစ်</string>
-    <string name="photography_handle_charge_protected_summary">ကင်မရာလက်ကိုင်သုံးနေကြောင်း စက်ကသိလျှင် အားသွင်းခြင်းကိုရပ်ပြီး ဓာတ်ခဲကို %1$s ထားပါမည်</string>
+    <string name="photography_handle_charge_protected">လက်ကိုင် အားသွင်းအကာအကွယ်</string>
+    <string name="photography_handle_charge_protected_summary">ကင်မရာလက်ကိုင်ချိတ်ထားချိန် စက်က အားသွင်းခြင်းကိုရပ်ပြီး ဓာတ်ခဲကို %1$s ထားပါမည်</string>
+    <string name="photography_handle_charge_state">ကင်မရာလက်ကိုင်မှအားသွင်းရန်</string>
+    <string name="photography_handle_charge_state_summary">ဤစက်ကို ကင်မရာလက်ကိုင်ချိတ်ထားချိန် ၎င်းမှ အားသွင်းရန်</string>
     <string name="photography_handle_launch_and_take_photo">ဓာတ်ပုံရိုက်ရန်</string>
     <string name="photography_handle_launch_camera">ကင်မရာဖွင့်ရန်</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">လုပ်ဆောင်ချက်တစ်ခုဆောင်ရွက်ရန် ရှတ္တာခလုတ်ကို ထိပြီးဖိထားပါ</string>
@@ -3408,8 +3396,10 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="pref_operational_key">တည်နေရာလမ်းညွန် ခလုတ်များ</string>
     <string name="pref_show_lunar_calendar_title">သော့ချမျက်နှာပြင်တွင် တရုတ်ရိုးရာပြက္ခဒိန်ကို ပြပါ</string>
     <string name="pref_title_update_notification">ဒေတာသုံးစွဲမှု အသိပေးချက်</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">မျက်နှာပြင်သော့ပိတ်ထားချိန် ကင်မရာဖွင့်ပြီး ဓာတ်ပုံရိုက်ရန် အသံနှိမ့်ခလုတ်ကို နှစ်ချက်တို့ပါ</string>
     <string name="pref_volume_launch_camera_summary">ကင်မရာဖွင့်ရန် အသံနှိမ့်ခလုတ်အား နှစ်ချက်ထိနှိပ်ပါ</string>
     <string name="pref_volume_launch_camera_title">ကင်မရာဖွင့်</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">မျက်နှာပြင်သော့ပိတ်ထားချိန် ကင်မရာဖွင့်ရန် အသံနှိမ့်ခလုတ်ကို နှစ်ချက်တို့ပါ</string>
     <string name="pref_volume_wake_summary">အသံခလုတ်များ ဖိပြီး စက်ကို နှိုးပါ</string>
     <string name="pref_volume_wake_title">အသံခလုတ်ဖြင့် နှိုးပါ</string>
     <string name="preference_toggle_nfc_dnd_mode_summary">မမှတ်ထားသော NFC တဂ်များအတွက် အသိပေးချက်တစ်ခုမျှ လက်မခံရန်</string>
@@ -3637,6 +3627,8 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="runtime_permissions_summary_control_app_access">သင့်ဒေတာကို အက်(ပ်)ဝင်ရောက်ခြင်းအား ထိန်းချုပ်ပါ</string>
     <string name="safe_install_mode_settings">လုံခြုံရေးမုဒ်</string>
     <string name="sar">RF အလင်းအမှောင် အချက်လက်</string>
+    <string name="satellite_call_assistant">ဖုန်းခေါ်ဆက်တင်</string>
+    <string name="satellite_network_title">ဂြိုဟ်တုဖုန်းအင်္ဂါရပ်များ</string>
     <string name="saturday">စနေ</string>
     <string name="saturday_short">စနေ</string>
     <string name="saturday_shortest">စနေ</string>
@@ -3660,7 +3652,6 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="screen_dark_mode_select_time_error_summary">စတင်ချိန်နှင့် ပြီးဆုံးချိန် တူ၍မရပါ</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">အရောင်ရင့်မုဒ်တွင် အချို့အက်(ပ်)များ မှန်ကန်စွာ ပေါ်မည်မဟုတ်ပါ။ အက်(ပ်)တစ်ခုချင်းစီအတွက် အရောင်ရင့်မုဒ် အသုံးပြုခြင်းကို ဤနေရာတွင် ကန့်သတ်နိုင်သည်။</string>
     <string name="screen_dark_mode_smart_dark_title">ကမ္ဘာသုံး အနက်ရောင်မုဒ်</string>
-    <string name="screen_dark_mode_time_summary">ဖုန်းမျက်နှာပြင်ကို ပိတ်ပြီးပါက သတ်မှတ်ထားသော အချိန်ဝန်းကျင်၌ အမှောင်မုဒ်သို့ ပြောင်းသွားပါမည်။</string>
     <string name="screen_dark_mode_time_title">ညမုဒ်အတွက် အချိန်သတ်မှတ်ရန်</string>
     <string name="screen_effect">အရောင် အစီအစဉ်</string>
     <string name="screen_effect_adapt_color_summary">လက်ရှိအလင်းရောင်အပေါ်မူတည်ပြီး အရောင်ချိန်ပါ</string>
@@ -4254,6 +4245,11 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="sms_received_sound_title">မက်ဆေ့ခ်ျ ရရှိပြီးပြီ</string>
     <string name="softbank_apn_lock_toast">APN သော့ပိတ်ထားသည်။ ပြင်မရပါ။</string>
     <string name="solid_text">ခိုင်မာအားကောင်းသော လက်ဟန်ခြေဟန်အတွေ့အကြုံဖန်တီးရန်အတွက် ကြိမ်နှုန်းနိမ့် ထိတွေ့သိတုံ့ပြန်မှုနှင့် သက်ဆိုင်ရာအမြင်အကူးအပြောင်းများ သုံးထားသည်</string>
+    <string name="sos_add_area_code_switch_summary">Tiantong Satellite ဆက်သွယ်ရေးများနှင့် အရေးပေါ်ဖုန်းခေါ်စဉ် ဖုန်းနံပါတ်တွင် ဧရိယာကုဒ် အလိုအလျောက်ထည့်ရန်</string>
+    <string name="sos_add_area_code_switch_title">ဧရိယာကုဒ် အလိုအလျောက်ထည့်ရန်</string>
+    <string name="sos_area_code_settings_hint">ဧရိယာကုဒ်ထည့်ပါ</string>
+    <string name="sos_area_code_settings_summary">အရေးပေါ်အဆက်အသွယ်ဖုန်းနံပါတ်၏ ဧရိယာကုဒ်ကို ကိုယ်တိုင်သတ်မှတ်ပါ</string>
+    <string name="sos_area_code_settings_title">ဧရိယာကုဒ်သတ်မှတ်ပါ</string>
     <string name="sos_phone_call_privacy_dialog_message">"အရေးပေါ် အဆက်အသွယ်များသို့ ခေါ်ဆိုရန်နှင့် SOS အသံဖမ်းယူမှုကို ဖွင့်ရန် အောက်ပါခွင့်ပြုချက်များအား ဤအက်ပ်က လိုအပ်ပါသည် -
 • ခေါ်ဆိုမှုများ ပြုလုပ်ခြင်း
 သင်၏ အရေးပေါ် အဆက်အသွယ်များသို့ ခေါ်ဆိုမှုများ ပြုလုပ်ရန်အတွက်
@@ -4911,10 +4907,6 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="user_grant_admin_message">အက်ဒမင်များတွင် အခြားသူများမရသော အထူးခံစားခွင့်များ ရပါသည်။ အက်ဒမင်သည် အသုံးပြုသူအားလုံးကို စီမံခန့်ခွဲနိုင်သည်၊ ဤစက်ကို အပ်ပဒိတ်လုပ်နိုင် သို့မဟုတ် ပြန်သတ်မှတ်နိုင်သည်၊ ဆက်တင်ပြင်နိုင်သည်၊ ထည့်ထားသောအက်(ပ်)အားလုံးကို ကြည့်နိုင်သည်၊ အခြားသူများကို အက်ဒမင်ခံစားခွင့်များ ပေးနိုင်/ ရုပ်သိမ်းနိုင်သည်။</string>
     <string name="user_grant_admin_title">ဤအသုံးပြုသူကို အက်ဒမင်ခန့်လိုသလား။</string>
     <string name="user_settings_forbidden">လက်ရှိနေရာတွင် အုပ်ချုပ်သူဆက်တင်များကို ပြောင်းလဲ၍မရပါ။ ပထမနေရာသို့ ပြန်သွားပါ။</string>
-    <string name="valid_net_access">ကွန်ရက်ဝင်အထောက်အထားများကြည့်ရန်</string>
-    <string name="valid_net_ok">အိုကေ</string>
-    <string name="valid_net_result_fail">အချက်အလက်များ ယူမရပါ။ တစ်မိနစ်၊ နှစ်မိနစ်စောင့်ပြီး ပြန်လုပ်ကြည့်ပါ။</string>
-    <string name="valid_net_result_title">ရလဒ်</string>
     <string name="vibrate_category_title">တုန်ခါပါ</string>
     <string name="vibrate_in_normal_title">ဖုန်းမြည်ချိန်မှာ တုန်ခါပါ</string>
     <string name="vibrate_in_silent_title">အသံတိတ်ပုံစံတွင် တုန်ခါမည်</string>
@@ -5314,7 +5306,6 @@ Xiaomi ကလောက်ကို ဖွင့်ပြီး ၎င်းမ�
     <string name="wifi_wps_overlap_error">အခြား Wi-Fi နေရာကို တွေ့ရှိသည်။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="wifi_wps_setup_title">Wi-Fiကာကွယ်ထားသော သတ်မှတ်ချက်</string>
     <string name="wireless_connected">ချိတ်ဆက်ပြီးပါပြီ</string>
-    <string name="wireless_display">ကြိုးမဲ့ပြသခြင်း</string>
     <string name="wireless_off">ပိတ်</string>
     <string name="wireless_on">ဖွင့်</string>
     <string name="wlan_scanner_unresizeble">Wi-Fi ဆက်တင်ကို မျက်နှာပြင်ခွဲမုဒ်တွင် မပြသပါ</string>

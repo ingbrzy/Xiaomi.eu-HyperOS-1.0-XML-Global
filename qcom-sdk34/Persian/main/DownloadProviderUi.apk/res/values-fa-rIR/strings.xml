@@ -7,7 +7,6 @@
     <string name="DOWNLOAD_UNIT_TB">ترابایت</string>
     <string name="about">درباره</string>
     <string name="actionbar_button_up_description">بازگشت</string>
-    <string name="ad_flag_text">آگهی</string>
     <string name="add_download_download">دانلود</string>
     <string name="add_download_error_not_support">از این پیوند پشتیبانی نمی‌شود</string>
     <string name="add_download_text_hint">پیوند a HTTP/HTTPS را وارد کنید</string>
@@ -282,7 +281,6 @@
     <string name="size_peta_byte">پتابایت</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">ترابایت</string>
-    <string name="skip_ad">رد شدن</string>
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>
     <string name="sunday_shortest">یک‌شنبه</string>

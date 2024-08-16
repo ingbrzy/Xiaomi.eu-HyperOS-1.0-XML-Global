@@ -218,7 +218,7 @@ e então arraste para mover"</string>
 · Toque em \"Janelas flutuantes\" nos Recentes para selecionar apps."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Toque em um app na barra lateral para abri-lo em uma janela flutuante.
 · Arraste um app para o centro da tela para abri-lo em uma janela flutuante ou para a lateral para utilizar a Tela dividida."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Arraste um app da barra lateral para o centro da tela para abri-lo em uma janela flutuante, ou para a lateral para utilizar a Tela dividida</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Arraste um app da barra lateral para o centro da tela para abri-lo em uma janela flutuante, ou para a lateral para utilizar a Tela dividida</string>
     <string name="freeform_vedio_description_pad">Arraste itens fora da doca para abrir janelas flutuantes</string>
     <string name="friday">Sexta-feira</string>
     <string name="friday_short">Sex</string>
@@ -266,7 +266,6 @@ e então arraste para mover"</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
     <string name="miuix_appcompat_deselect_all">Desmarcar tudo</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar tudo</string>
-    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
     <string name="miuix_appcompat_select_all">Selecionar tudo</string>

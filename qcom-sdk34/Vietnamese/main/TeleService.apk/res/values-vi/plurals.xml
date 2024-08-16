@@ -73,7 +73,4 @@
         <item quantity="other">"
 Còn lại%d lần thử."</item>
     </plurals>
-    <plurals name="satellite_low_battery">
-        <item quantity="other">Mức pin dưới %1$s. Thoát khỏi Liên lạc Vệ tinh Tiantong sau %2$d giây.</item>
-    </plurals>
 </resources>

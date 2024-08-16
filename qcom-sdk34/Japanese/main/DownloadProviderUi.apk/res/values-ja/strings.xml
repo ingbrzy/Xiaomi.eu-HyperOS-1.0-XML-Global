@@ -34,7 +34,6 @@
     <string name="abc_toolbar_collapse_description">折りたたむ</string>
     <string name="about">バージョン情報</string>
     <string name="actionbar_button_up_description">戻る</string>
-    <string name="ad_flag_text">広告</string>
     <string name="add_download_download">ダウンロード</string>
     <string name="add_download_error_not_support">このリンクはサポートされていません</string>
     <string name="add_download_text_hint">HTTP/HTTPSリンクを入力してください</string>
@@ -292,9 +291,6 @@
     <string name="month_september_shortest">9月</string>
     <string name="more">その他</string>
     <string name="morning">午前</string>
-    <string name="native_body">本文</string>
-    <string name="native_headline">見出し</string>
-    <string name="native_media_view">メディアビュー</string>
     <string name="new_file_notification_title_image">画像</string>
     <string name="night">夜</string>
     <string name="no_downloads">ファイルがありません</string>
@@ -361,7 +357,6 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="skip_ad">スキップ</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s、%2$s</string>
     <string name="sunday">日曜日</string>
@@ -424,7 +419,6 @@
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="version">バージョン %s</string>
-    <string name="watermark_label_prefix">AdMob -</string>
     <string name="wednesday">水曜日</string>
     <string name="wednesday_short">水</string>
     <string name="wednesday_shortest">水</string>

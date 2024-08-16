@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">צלצול ברירת מחדל (%1$s)</string>
     <string name="android_ringtone_silent">אין</string>
     <string name="android_ringtone_unknown">צלצול לא מוכר</string>
-    <string name="aon_reader_support_scene_des">העברת עמודים בזמן קריאה</string>
-    <string name="aon_video_support_scene_des">בקרת ניגון וידאו</string>
     <string name="app_continuity_channel_name">התאמות פריסה של יישום</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">לא ניתן היה לפתוח את קוד התשלום של Alipay</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">מחשב</string>
     <string name="device_xiaomi">טלפון Mi</string>
     <string name="dewdrops">טללי שחר</string>
-    <string name="dialog_enable_mic_btn_negative">ביטול</string>
-    <string name="dialog_enable_mic_btn_positive">להפעיל</string>
-    <string name="dialog_enable_mic_message">כדי להשתמש במאפיין זה, תחילה יש להפעיל את המיקרופון.</string>
-    <string name="dialog_enable_mic_title">להפעיל את המיקרופון</string>
     <string name="digitaluniverse">ייקום דיגיטלי (סטריאו)</string>
     <string name="disable_nfc">NFC הושבת לצורך טעינה אלחוטית</string>
     <string name="disable_nfc_haptic_reverse">ה-NFC והרטט כובו לצורך טעינה אלחוטית הפוכה</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">הקרנה</string>
     <string name="tips_prompt_enable_midrop">שיתוף Mi</string>
     <string name="toast_camera_satellite_mutually_exclusive">לא ניתן להשתמש במצלמה בזמן שימוש בתקשורת לוויינית</string>
-    <string name="toast_mic_muted">המיקרופון מושבת</string>
-    <string name="toast_mic_unmuted">המיקרופון מופעל</string>
-    <string name="tof_music_support_scene_des">תומך בבקרות נגן מוזיקה</string>
-    <string name="tof_office_support_scene_des">תומך במסמכי Word ומצגות PowerPoint</string>
-    <string name="tof_short_video_support_scene_des">תומך במעבר בין סרטונים</string>
-    <string name="tof_video_support_scene_des">תומך בבקרות נגן וידאו במסך מלא</string>
     <string name="total">נא לא להפריע</string>
     <string name="total_description">השתקת צלילים וכיבוי הרטט עבור כל הפריטים מלבד השעון המעורר</string>
     <string name="total_title">נא לא להפריע</string>

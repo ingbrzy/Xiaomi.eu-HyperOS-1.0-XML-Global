@@ -3,7 +3,7 @@
     <string name="abc_action_bar_home_description">Ir a inicio</string>
     <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
     <string name="abc_action_menu_overflow_description">Más opciones</string>
-    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_action_mode_done">Hecho</string>
     <string name="abc_activity_chooser_view_see_all">Ver todo</string>
     <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
     <string name="abc_capital_off">DESACTIVADO</string>
@@ -116,8 +116,6 @@ Consulta en Ajustes para obtener más detalles."</string>
     <string name="fast_connect_device_title_connecting">Conectando…</string>
     <string name="fast_connect_device_title_find_headset">Encontrar %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Parece que este dispositivo no es tuyo: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Conectados</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Cámara</string>
     <string name="fast_connect_new_feture_anti_lost">Alerta de auricular perdido</string>
     <string name="fast_connect_new_feture_same_account">Conectar dispositivos sincronizados</string>
     <string name="fast_connect_new_feture_sound_normalizer">Mejor sonido</string>
@@ -211,7 +209,6 @@ Protocolo de conexión más rápido."</string>
     <string name="headset_download_fw">Actualizar</string>
     <string name="headset_downloading">Descargando</string>
     <string name="headset_downloading_indicate">Descargar…</string>
-    <string name="headset_dual_device">Auriculares conectados automáticamente. La conexión dual está desactivada.</string>
     <string name="headset_find_new_version">Hay una actualización disponible</string>
     <string name="headset_finish_fw">Actualizado con éxito</string>
     <string name="headset_finish_fw_failed">Ha ocurrido un error</string>
@@ -229,8 +226,8 @@ Protocolo de conexión más rápido."</string>
     <string name="headset_updating">Actualizando</string>
     <string name="information_go_to_fitness">Puedes encotrar los ajustes relacionados en Mi Fitness</string>
     <string name="install_package">Instala %1$s para más funciones</string>
-    <string name="lea_disable_successfully">Cambiado a Bluetooth normal</string>
-    <string name="lea_enable_successfully">Cambiado a Bluetooth LE Audio</string>
+    <string name="lea_disable_successfully">El Bluetooth regular ahora es usado para la conexión de los auriculares y transmisión de audio</string>
+    <string name="lea_enable_successfully">LE Audio ahora es usado para la conexión de los auriculares y transmisión de audio</string>
     <string name="mi_audio_relay_cancel">OK</string>
     <string name="mi_audio_relay_connect_failed">Vuelve a intentarlo</string>
     <string name="mi_audio_relay_localphone">Este dispositivo</string>
@@ -280,7 +277,6 @@ Protocolo de conexión más rápido."</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
     <string name="miuix_appcompat_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar todo</string>
-    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Buscar</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>

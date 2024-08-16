@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">Tono de llamada predeterminado (%1$s)</string>
     <string name="android_ringtone_silent">Ninguno</string>
     <string name="android_ringtone_unknown">Tono de llamada desconocido</string>
-    <string name="aon_reader_support_scene_des">Gire páginas mientras lee</string>
-    <string name="aon_video_support_scene_des">Controle la reproducción de videos</string>
     <string name="app_continuity_channel_name">Ajustes de diseño de la aplicación</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">No se pudo abrir el código de pago de Alipay</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">Computadora</string>
     <string name="device_xiaomi">Mi Teléfono</string>
     <string name="dewdrops">Rocío matutino</string>
-    <string name="dialog_enable_mic_btn_negative">Cancelar</string>
-    <string name="dialog_enable_mic_btn_positive">Activar</string>
-    <string name="dialog_enable_mic_message">Para poder utilizar esta función, primero active el micrófono.</string>
-    <string name="dialog_enable_mic_title">Activar micrófono</string>
     <string name="digitaluniverse">Universo digital (estéreo)</string>
     <string name="disable_nfc">Apagado NFC para carga inalámbrica</string>
     <string name="disable_nfc_haptic_reverse">Desactivado NFC y vibración para carga inalámbrica inversa</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">Emitir</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="toast_camera_satellite_mutually_exclusive">No se puede usar la cámara mientras se usan comunicaciones satelitales</string>
-    <string name="toast_mic_muted">Micrófono desactivado</string>
-    <string name="toast_mic_unmuted">Micrófono activado</string>
-    <string name="tof_music_support_scene_des">Soporta controles de reproductor de música</string>
-    <string name="tof_office_support_scene_des">Soporta documentos Word y presentaciones PowerPoint</string>
-    <string name="tof_short_video_support_scene_des">Soporta cambiar entre videos</string>
-    <string name="tof_video_support_scene_des">Soporta controles de reproductor de video a pantalla completa</string>
     <string name="total">No molestar</string>
     <string name="total_description">Silenciar sonidos y desactivar vibración para todos las funciones excepto el despertador</string>
     <string name="total_title">No molestar</string>

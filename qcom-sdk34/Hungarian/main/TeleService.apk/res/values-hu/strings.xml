@@ -1001,8 +1001,8 @@ Segélyhívást így is indíthat."</string>
     <string name="mobile_networks">Mobilhálózati beállítások</string>
     <string name="mobile_property">Mobilhálózati beállítások</string>
     <string name="mobile_settings_screen_title">Mobiladat</string>
-    <string name="mobile_special_network_optimization_config_summary">Intelligens módon érzékeli a többféle hálózati helyzetet a kommunikációs élmény fokozása érdekében</string>
-    <string name="mobile_special_network_optimization_config_title">Jelenetadaptív mód</string>
+    <string name="mobile_special_network_optimization_config_summary">A hívásminőség javítása a különböző helyszínekhez való automatikus alkalmazkodással</string>
+    <string name="mobile_special_network_optimization_config_title">Alkalmazkodás a különböző helyszínekhez</string>
     <string name="modem_dialog_body">A mobilhálózat instabil, ami szakadozásokat vagy hálózati problémákat okoz. Küld visszajelzést a Xiaominak elemzési célra? A jelentés tartalmazhat személyes információkat. A jelentés segíti a munkánkat a hiba kijavításában és soha nem osztjuk meg semmilyen közösségi oldalon.</string>
     <string name="modem_dialog_title">A mobilhálózat instabil</string>
     <string name="monday">Hétfő</string>
@@ -1574,7 +1574,6 @@ UT-felület: %5$s"</string>
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">Kilép most</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">Alacsony akkumulátor-töltöttség</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">Ne jelenjen meg újra</string>

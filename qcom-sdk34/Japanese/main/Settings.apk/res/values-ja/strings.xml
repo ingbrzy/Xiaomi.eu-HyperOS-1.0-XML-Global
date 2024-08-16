@@ -705,26 +705,6 @@
     <string name="aod_style_description">画面オフ時に、時計、日付、時刻、通知、およびその他のアイテムを表示する</string>
     <string name="aod_style_title">スタイル</string>
     <string name="aod_to_close">オフにする</string>
-    <string name="aon_gesture_cue_tone_summary">手のひらが検知されるたびに確認音を再生する</string>
-    <string name="aon_gesture_cue_tone_title">確認音を再生</string>
-    <string name="aon_gesture_dialog_message">この機能がオンの場合、このデバイスはジェスチャーを検出して分析します。個人情報は処理されず、データがローカルまたはクラウドに保存されることはありません。</string>
-    <string name="aon_gesture_dialog_title">プライバシーに関する声明</string>
-    <string name="aon_gesture_double_press_summary">再生と一時停止</string>
-    <string name="aon_gesture_double_press_title">2回押す動作を実行</string>
-    <string name="aon_gesture_draw_circle_summary_pad">タブレットに転送された通話の応答または終了</string>
-    <string name="aon_gesture_draw_circle_summary_phone">通話の応答と終了</string>
-    <string name="aon_gesture_draw_circle_title">円を描く</string>
-    <string name="aon_gesture_enable_summary" formatted="false">カメラから %d ～ %d cm の距離で手をかざし、画面上部に手のアイコンが表示されてからジェスチャーを実行します</string>
-    <string name="aon_gesture_learn_title">ジェスチャーを学ぶ</string>
-    <string name="aon_gesture_left_right_waving_summary">再生の進行状況を調整、曲を切り替える</string>
-    <string name="aon_gesture_left_right_waving_title">横に手を振る</string>
-    <string name="aon_gesture_settings">非接触ジェスチャー</string>
-    <string name="aon_gesture_status_close">オフ</string>
-    <string name="aon_gesture_status_open">オン</string>
-    <string name="aon_gesture_supported_app_title">対応アプリ</string>
-    <string name="aon_gesture_supported_title">利用可能なジェスチャー</string>
-    <string name="aon_gesture_up_down_waving_summary">メディア音量を調整、ショートビデオを切り替える、ドキュメントのページをめくる</string>
-    <string name="aon_gesture_up_down_waving_title">縦に手を振る</string>
     <string name="ap_connect_failed">接続できませんでした</string>
     <string name="ap_connected_battery_level">" | バッテリー %1$s"</string>
     <string name="ap_p2p_dialog_message">現在の共有Wi-Fi接続はすでに使用されています。パーソナルホットスポットをオンにする前に、Wi-Fi Direct、Mi シェア、キャスト、その他のワイヤレス転送サービスを使用していないことを確認してください。</string>
@@ -2023,10 +2003,21 @@ CA 証明書をインストールすると、あなたがアクセスしたウ�
     <string name="camera_gesture_title">2回ひねる動作でカメラアプリを開く</string>
     <string name="camera_grip_firmware_need_update">アップデート</string>
     <string name="camera_grip_firmware_new_version">最新の状態です</string>
+    <string name="camera_grip_firmware_save_button_know">了解</string>
+    <string name="camera_grip_firmware_save_button_negaitive">今はしない</string>
+    <string name="camera_grip_firmware_save_button_positive">アップデート</string>
+    <string name="camera_grip_firmware_save_channel">カメラグリップ通知</string>
+    <string name="camera_grip_firmware_save_networking_tips">Wi-Fi に接続するかモバイルデータをオンにして、再度ファームウェアのアップデートをお試しください。</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">このデバイスを引き続き使用するには、ファームウェアをアップデートしてください。</string>
+    <string name="camera_grip_firmware_save_title">プロ仕様のカメラグリップ</string>
     <string name="camera_grip_firmware_title_text">ファームウェアをアップデート</string>
     <string name="camera_grip_firmware_update_describe">アップデート中はグリップを接続したままにしてください</string>
     <string name="camera_grip_firmware_update_faild">アップデートできませんでした</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">カメラグリップを取り外し、このデバイスを充電してから、ファームウェアを再度アップデートしてみてください</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">ファームウェアをアップデートする前に、このデバイスとカメラグリップを充電してください</string>
     <string name="camera_grip_firmware_update_ongoing">アップデートしています。グリップを取り外さないでください。</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">充電器をこのデバイスに接続し、ファームウェアを再度アップデートしてみてください</string>
     <string name="camera_grip_firmware_update_successful">正常にアップデートされました</string>
     <string name="camera_key_action_app_title">アプリを開く</string>
     <string name="camera_key_action_category_title">カメラは使用できません</string>
@@ -3415,7 +3406,7 @@ Googleアカウントなど、アカウントによっては、スマートフ�
     <string name="ethernet_data_template">^1（イーサネット データ）</string>
     <string name="ethernet_data_usage">イーサネット データ使用量</string>
     <string name="ethernet_tether_checkbox_text">イーサネットで共有</string>
-    <string name="ethernet_tethering_subtext">スマートフォンのネットワーク接続をイーサネットで共有する</string>
+    <string name="ethernet_tethering_subtext">スマートフォンのインターネット接続をイーサネット経由で共有</string>
     <string name="evening">夕方</string>
     <string name="every_day">毎日</string>
     <string name="exceptional_case">例外</string>
@@ -4768,10 +4759,6 @@ Xiaomi Cloudを開き、そこからアイテムを復元します。"</string>
     <string name="load_esim_info">eSIM情報を取得中…</string>
     <string name="load_esim_info_error">eSIM情報を読み込めませんでした。数分待ってからもう一度お試しください。</string>
     <string name="loading">お待ちください…</string>
-    <string name="loading_eid_error_message">EID 情報を取得できませんでした。数分待ってからもう一度お試しください。</string>
-    <string name="loading_eid_error_ok">了解</string>
-    <string name="loading_eid_error_title">読み込めませんでした</string>
-    <string name="loading_eid_tip">EID情報を取得中…</string>
     <string name="loading_injected_setting_summary">読み込んでいます…</string>
     <string name="local_auto_backup_off">オフ</string>
     <string name="local_auto_backup_on">オン</string>
@@ -5171,6 +5158,8 @@ PINを設定してください。
     <string name="long_background_tasks_title">長いバックグラウンド タスク</string>
     <string name="long_press_back_key">戻るボタンを長押し</string>
     <string name="long_press_buttom_key">ロック画面でホームボタンを長押し</string>
+    <string name="long_press_editor_style_summary">ロック画面を長押しして時計と壁紙を編集します</string>
+    <string name="long_press_editor_style_title">長押しして編集</string>
     <string name="long_press_home_key">ホームボタンを長押し</string>
     <string name="long_press_menu_key">メニューボタンを長押し</string>
     <string name="long_press_menu_key_when_lock">ロック画面でメニューボタンを長押し</string>
@@ -5718,8 +5707,6 @@ PINを設定してください。
     <string name="miui_type_style_title">入力スタイル</string>
     <string name="miui_updater">システムアップデート</string>
     <string name="miui_userguide">ユーザーガイド</string>
-    <string name="miui_visual_perception_summary">デバイスがユーザーの存在を感知し、より便利なロック方法とロック解除方法を選択します</string>
-    <string name="miui_visual_perception_title">能動的な視覚認識</string>
     <string name="miuix_access_state_desc">選択済み</string>
     <string name="miuix_appcompat_action_mode_deselect_all">すべての選択を解除</string>
     <string name="miuix_appcompat_action_mode_select_all">すべて選択</string>
@@ -6678,8 +6665,10 @@ OTGは、10分間使用されないと自動的にオフになります。"</str
     <string name="phone_language_summary" />
     <string name="photo_data">写真とビデオ</string>
     <string name="photography_handle_button_function_settings">グリップボタンの設定</string>
-    <string name="photography_handle_charge_protected">グリップ充電の自動切断</string>
-    <string name="photography_handle_charge_protected_summary">カメラグリップを使用していることをデバイスが認識すると、デバイスは充電を停止し、バッテリーを %1$s に保ちます。</string>
+    <string name="photography_handle_charge_protected">グリップ充電保護</string>
+    <string name="photography_handle_charge_protected_summary">カメラグリップが接続されている場合、デバイスは充電を停止し、バッテリーを %1$s に保ちます</string>
+    <string name="photography_handle_charge_state">カメラグリップから充電</string>
+    <string name="photography_handle_charge_state_summary">接続時はいつでもカメラグリップからこのデバイスを充電できます</string>
     <string name="photography_handle_launch_and_take_photo">写真を撮る</string>
     <string name="photography_handle_launch_camera">カメラを開く</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">シャッターボタンを長押しして操作を実行します</string>
@@ -6808,8 +6797,10 @@ OTGは、10分間使用されないと自動的にオフになります。"</str
     <string name="pref_show_lunar_calendar_title">ロック画面に中国暦を表示</string>
     <string name="pref_title_network_details">ネットワークの詳細</string>
     <string name="pref_title_update_notification">データ使用量の通知</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">画面がロックされている場合は、音量ダウンボタンをダブルタップしてカメラを開き、写真を撮ります</string>
     <string name="pref_volume_launch_camera_summary">音量ダウンボタンを2回押してカメラを起動する</string>
     <string name="pref_volume_launch_camera_title">カメラを起動</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">画面がロックされている場合は、音量ダウンボタンをダブルタップしてカメラを開きます</string>
     <string name="pref_volume_wake_summary">音量ボタンを押してデバイスのスリープ状態を解除する</string>
     <string name="pref_volume_wake_title">音量ボタンでスリープ解除</string>
     <string name="preference_change_password_title">パスワードを変更</string>
@@ -7367,6 +7358,8 @@ OTGは、10分間使用されないと自動的にオフになります。"</str
     <string name="safety_center_summary">アプリのセキュリティ、デバイスのロック、権限</string>
     <string name="safety_center_title">セキュリティとプライバシー</string>
     <string name="sar">高周波 (RF) 曝露情報</string>
+    <string name="satellite_call_assistant">通話設定</string>
+    <string name="satellite_network_title">衛星通話機能</string>
     <string name="saturday">土曜日</string>
     <string name="saturday_first_day_of_week">土曜日</string>
     <string name="saturday_short">土</string>
@@ -7397,7 +7390,6 @@ OTGは、10分間使用されないと自動的にオフになります。"</str
     <string name="screen_dark_mode_select_time_error_summary">開始時刻と終了時刻を同じにすることはできません</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">一部のアプリは、ダークモードで正しく表示されない場合があります。ここでは、アプリごとにダークモードの使用を制限することができます。</string>
     <string name="screen_dark_mode_smart_dark_title">グローバルダークモード</string>
-    <string name="screen_dark_mode_time_summary">画面をオフにすると、設定時刻頃にダークモードに切り替わります</string>
     <string name="screen_dark_mode_time_title">ダークモードの時間設定</string>
     <string name="screen_effect">色彩</string>
     <string name="screen_effect_adapt_color_summary">現在の照明に合わせて色を調整する</string>
@@ -8522,6 +8514,11 @@ OTGは、10分間使用されないと自動的にオフになります。"</str
     <string name="sort_order_frequent_notification">通知件数の多い順</string>
     <string name="sort_order_recent_notification">新しい順</string>
     <string name="sort_order_size">サイズ順</string>
+    <string name="sos_add_area_code_switch_summary">Tiantong 衛星通信で緊急通話を発信する場合、電話番号に市外局番を自動的に追加する</string>
+    <string name="sos_add_area_code_switch_title">市外局番を自動追加</string>
+    <string name="sos_area_code_settings_hint">市外局番を入力してください</string>
+    <string name="sos_area_code_settings_summary">緊急連絡先の電話番号の市外局番を手動で設定する</string>
+    <string name="sos_area_code_settings_title">市外局番を設定</string>
     <string name="sos_phone_call_privacy_dialog_message">"緊急連絡先に電話してSOSの録音を再生するには、このアプリは以下の権限が必要です。
 • 通話の発信
 緊急連絡先に電話をかけるため
@@ -9829,10 +9826,6 @@ PIN を削除すると、デバイスに保存されている指紋モデルも�
     <string name="uwb_settings_title">超広帯域無線（UWB）</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
-    <string name="valid_net_access">ネットワークアクセス資格情報を表示</string>
-    <string name="valid_net_ok">OК</string>
-    <string name="valid_net_result_fail">情報を取得できませんでした。数分待ってからもう一度お試しください。</string>
-    <string name="valid_net_result_title">結果</string>
     <string name="verify_apps_over_usb_summary">ADB/ADT 経由でインストールされたアプリに不正な動作がないかを確認する</string>
     <string name="verify_apps_over_usb_title">USB 経由のアプリも検証</string>
     <string name="version_text">バージョン%1$s</string>
@@ -10742,7 +10735,6 @@ PIN を削除すると、デバイスに保存されている指紋モデルも�
     <string name="winscope_trace_quick_settings_title">ウィンスコープ トレース</string>
     <string name="wireless_connected">接続済み</string>
     <string name="wireless_debugging_main_switch_title">ワイヤレス デバッグの使用</string>
-    <string name="wireless_display">ワイヤレスディスプレイ</string>
     <string name="wireless_networks_settings_title">無線とネットワーク</string>
     <string name="wireless_off">オフ</string>
     <string name="wireless_on">オン</string>

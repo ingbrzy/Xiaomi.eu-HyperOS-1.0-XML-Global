@@ -189,7 +189,7 @@
 · با زدن روی «پنجره‌های شناور» در موارد تازه برنامه‌ها را انتخاب کنید."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· با زدن روی یک برنامه از نوار کناری آن را در یک پنجره شناور باز کنید.
 · یبا کشیدن یک برنامه به مرکز صفحه آن را در یک پنجره شناور باز کرده یا با کشیدن آن به کنار از تقسیم صفحه استفاده کنید."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">با کشیدن یک برنامه از نوار کناری به وسط صفحه آن را در پنجره‌های شناور باز کرده و یا برای استفاده از تقسیم صفحه آن را به کنار صفحه بکشید</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· با کشیدن یک برنامه از نوار کناری به مرکز صفحه آن را در یک پنجره شناور باز کرده و یا با کشیدن آن به کنار از تقسیم صفحه استفاده کنید</string>
     <string name="freeform_vedio_description_pad">برای باز کردن پنجره‌های شناور موارد را از لنگرگاه به بیرون بکشید</string>
     <string name="friday">جمعه</string>
     <string name="friday_short">جمعه</string>
@@ -237,7 +237,6 @@
     <string name="miuix_appcompat_delete_description">حذف</string>
     <string name="miuix_appcompat_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_deselect_all_description">لغو انتخاب همه</string>
-    <string name="miuix_appcompat_edit">ویرایش</string>
     <string name="miuix_appcompat_search_action_mode_cancel">لغو</string>
     <string name="miuix_appcompat_search_input_description">جستجو</string>
     <string name="miuix_appcompat_select_all">انتخاب همه</string>

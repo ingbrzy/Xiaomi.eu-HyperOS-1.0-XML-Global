@@ -996,8 +996,8 @@ Tísňové volání máte pořád k dispozici."</string>
     <string name="mobile_networks">Nastavení mobilní sítě</string>
     <string name="mobile_property">Vlastnosti mobilní sítě</string>
     <string name="mobile_settings_screen_title">Mobilní data</string>
-    <string name="mobile_special_network_optimization_config_summary">Inteligentní rozpoznání vícero scénářů v síti pro zlepšení komunikace</string>
-    <string name="mobile_special_network_optimization_config_title">Režim adaptivní scény</string>
+    <string name="mobile_special_network_optimization_config_summary">Vylepšit kvalitu hovorů pomocí automatického přizpůsobení aktuální scéně</string>
+    <string name="mobile_special_network_optimization_config_title">Přizpůsobit aktuální scéně</string>
     <string name="modem_dialog_body">Mobilní připojení je nestabilní a způsobuje výpadky sítě. Chce sdílet chybové hlášení se Xiaomi? Toto hlášení může obsahovat vaše osobní údaje. Veškeré informace budou využity pouze pro opravu této chyby a nebudou použity k žádným reklamním účelům.</string>
     <string name="modem_dialog_title">Mobilní síť je nestabilní</string>
     <string name="monday">Pondělí</string>
@@ -1569,7 +1569,6 @@ Rozhraní UT: %5$s"</string>
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">Ukončit nyní</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">Slabá baterie</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">Znovu nezobrazovat</string>

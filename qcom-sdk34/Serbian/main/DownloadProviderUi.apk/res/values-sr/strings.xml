@@ -34,7 +34,6 @@
     <string name="abc_toolbar_collapse_description">Скупи</string>
     <string name="about">О апликацији</string>
     <string name="actionbar_button_up_description">Назад</string>
-    <string name="ad_flag_text">РЕКЛАМА</string>
     <string name="add_download_download">Преузми</string>
     <string name="add_download_error_not_support">Ова веза није подржана</string>
     <string name="add_download_text_hint">Унесите HTTP/HTTPS линк</string>
@@ -292,9 +291,6 @@
     <string name="month_september_shortest">Сеп</string>
     <string name="more">Више</string>
     <string name="morning">Јутро</string>
-    <string name="native_body">Садржај</string>
-    <string name="native_headline">Наслов</string>
-    <string name="native_media_view">Приказ медија</string>
     <string name="new_file_notification_title_image">Слика</string>
     <string name="night">Вече</string>
     <string name="no_downloads">Нема датотека</string>
@@ -361,7 +357,6 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="skip_ad">Прескочи</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Недеља</string>
@@ -424,7 +419,6 @@
     <string name="v7_preference_off">ИСКЉУЧЕНО</string>
     <string name="v7_preference_on">УКЉУЧЕНО</string>
     <string name="version">Верзија %s</string>
-    <string name="watermark_label_prefix">AdMob -</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Сре</string>
     <string name="wednesday_shortest">Сре</string>

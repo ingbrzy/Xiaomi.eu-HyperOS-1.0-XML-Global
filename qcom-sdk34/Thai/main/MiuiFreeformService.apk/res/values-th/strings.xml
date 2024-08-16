@@ -218,7 +218,7 @@
 · แตะ \"หน้าต่างลอย\" ในล่าสุดเพื่อเลือกแอป"</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· แตะแอปบนแถบด้านข้างเพื่อเปิดในหน้าต่างแบบลอย
 · ลากแอปไปที่กลางหน้าจอเพื่อเปิดในหน้าต่างแบบลอยหรือไปที่ด้านข้างเพื่อใช้หน้าจอแยก"</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">ลากแอปจากแถบด้านข้างมาที่กึ่งกลางของหน้าจอเพื่อเปิดในหน้าต่างลอยหรือไปด้านข้างเพื่อใช้ หน้าจอแยก</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· ลากแอปจากแถบด้านข้างไปที่กึ่งกลางของหน้าจอเพื่อเปิดในหน้าต่างแบบลอยหรือไปทางด้านข้างเพื่อใช้หน้าจอแยก</string>
     <string name="freeform_vedio_description_pad">ลากรายการออกจากแท่นเพื่อเปิดหน้าต่างลอย</string>
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
@@ -266,7 +266,6 @@
     <string name="miuix_appcompat_delete_description">ลบ</string>
     <string name="miuix_appcompat_deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_deselect_all_description">ไม่เลือกทั้งหมด</string>
-    <string name="miuix_appcompat_edit">แก้ไข</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
     <string name="miuix_appcompat_search_input_description">ค้นหา</string>
     <string name="miuix_appcompat_select_all">เลือกทั้งหมด</string>

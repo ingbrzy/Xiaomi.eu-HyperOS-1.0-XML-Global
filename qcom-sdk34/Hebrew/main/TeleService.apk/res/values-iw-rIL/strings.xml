@@ -506,8 +506,8 @@
     <string name="mobile_networks">הגדרות הרשת הסלולרית</string>
     <string name="mobile_property">תכונות הרשת הסלולרית</string>
     <string name="mobile_settings_screen_title">נתונים סלולריים</string>
-    <string name="mobile_special_network_optimization_config_summary">תפיסה אינטליגנטית של תרחישים מרובים ברשת כדי לשפר את חווית התקשורת</string>
-    <string name="mobile_special_network_optimization_config_title">מצב התאמה לסצנה</string>
+    <string name="mobile_special_network_optimization_config_summary">שפר את איכות השיחה על ידי הסתגלות למצבים שונים באופן אוטומטי</string>
+    <string name="mobile_special_network_optimization_config_title">הסתגל למצבים שונים</string>
     <string name="modem_dialog_body">הרשת הסלולרית אינה יציבה, דבר אשר גורם להפרעות בחיבור ולבעיות רשת. לשלוח משוב אל Mi לצורך ניתוח? דו\"ח זה עשוי להכיל מידע המאפשר זיהוי אישי. המשוב שלך יעזור לנו בתיקון תקלה זו ולעולם לא ישותף בשום הקשר מסחרי.</string>
     <string name="modem_dialog_title">הרשת הסלולרית אינה יציבה</string>
     <string name="monday">שני</string>
@@ -800,7 +800,6 @@
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">לצאת עכשיו</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">סוללה חלשה</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">לא להציג שוב</string>

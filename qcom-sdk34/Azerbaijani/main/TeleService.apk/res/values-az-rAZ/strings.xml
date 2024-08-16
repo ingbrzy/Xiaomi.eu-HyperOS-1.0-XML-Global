@@ -506,8 +506,8 @@ Hər halda eSIM aktiv edilsin?"</string>
     <string name="mobile_networks">Mobil şəbəkə tənzimləmələri</string>
     <string name="mobile_property">Mobil şəbəkə xüsusiyyətləri</string>
     <string name="mobile_settings_screen_title">Mobil trafik</string>
-    <string name="mobile_special_network_optimization_config_summary">Rabitə təcrübəsini artırmaq üçün şəbəkədəki çoxsaylı ssenariləri ağıllı şəkildə qəbul edin</string>
-    <string name="mobile_special_network_optimization_config_title">Səhnəyə uyğunlaşma rejimi</string>
+    <string name="mobile_special_network_optimization_config_summary">Avtomatik olaraq müxtəlif səhnələrə uyğunlaşaraq zəng keyfiyyətini artırın</string>
+    <string name="mobile_special_network_optimization_config_title">Fərqli səhnələrə uyğunlaşın</string>
     <string name="modem_dialog_body">Mobil şəbəkə qeyri-stabildir hansı ki, kəsilmələrə və şəbəkə problemlərinə səbəb olur. Analiz edilməsi üçün Mi-ə geri bildirişı göndərilsin? Bu hesabat şəxsi məlumatlarınızı ehtiva edə bilər. Bildirişiniz bizə bu nöqsanı düzəltməyə kömək etmək üçün istifadə olunacaq və heç bir ticarət məzmununda əsla paylaşılmayacaq.</string>
     <string name="modem_dialog_title">Mobil şəbəkə qeyri-stabildir</string>
     <string name="monday">Bazar ertəsi</string>
@@ -800,7 +800,6 @@ SIM kartınız başqa bir uğursuz cəhddən sonra kilidlənəcək."</string>
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">İndi çıxılsın</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">Zəif batareya</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">Təkrar göstərmə</string>
@@ -808,7 +807,7 @@ SIM kartınız başqa bir uğursuz cəhddən sonra kilidlənəcək."</string>
     <string name="satellite_notification_title">Siz zəif siqnal zonasındasınız</string>
     <string name="satellite_point_title">Turn on Tiantong Satellite communications</string>
     <string name="satellite_select_enable_sim">SIM kart seçin</string>
-    <string name="satellite_signal_boost_setting_summary">Enhance signal strength and stability in cloudy or other non-optimal weather conditions</string>
+    <string name="satellite_signal_boost_setting_summary">Buludlu və ya digər qeyri-optimal hava şəraitində siqnal gücünü və sabitliyini artırın</string>
     <string name="satellite_signal_boost_setting_title">Use Tiantong signal amplifier</string>
     <string name="satellite_start">Başa düşdüm</string>
     <string name="satellite_start_battery">Başa düşdüm</string>

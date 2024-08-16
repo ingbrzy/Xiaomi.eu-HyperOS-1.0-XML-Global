@@ -203,7 +203,7 @@ then drag to move"</string>
 · Tap \"Floating windows\" in Recents to select apps."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Tap an app on the sidebar to open it in a floating window.
 · Drag an app to the centre of the screen to open it in a floating window or to the side to use Split screen."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Drag an app from the sidebar to the center of the screen to open it in a floating window or to the side to use Split screen</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Drag an app from the sidebar to the centre of the screen to open it in a floating window or to the side to use Split screen</string>
     <string name="freeform_vedio_description_pad">Drag items out of the dock to open floating windows</string>
     <string name="fullscreen_slide_to_small_freeform">Minimize an app</string>
     <string name="fullscreen_slide_to_small_freeform_summary">Swipe from the bottom of the screen to the upper right corner</string>
@@ -241,7 +241,6 @@ then drag to move"</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
-    <string name="miuix_appcompat_edit">Edit</string>
     <string name="multi_window_cvw_summary">Drag the corner to switch to a floating window and adjust its size</string>
     <string name="multi_window_cvw_summary_global">Drag the corner to switch to a floating window and adjust its size</string>
     <string name="multi_window_cvw_title">Floating window</string>

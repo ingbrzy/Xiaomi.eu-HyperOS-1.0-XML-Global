@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">Προεπιλεγμένος ήχος κλήσης (%1$s)</string>
     <string name="android_ringtone_silent">Χωρίς ήχο κλήσης</string>
     <string name="android_ringtone_unknown">Άγνωστος ήχος κλήσης</string>
-    <string name="aon_reader_support_scene_des">Αλλαγή σελίδων κατά την ανάγνωση</string>
-    <string name="aon_video_support_scene_des">Χειρισμός αναπαραγωγής βίντεο</string>
     <string name="app_continuity_channel_name">Προσαρμογές διάταξης εφαρμογής</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">Αδυναμία ανοίγματος του κωδικού πληρωμής του Alipay</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">Υπολογιστής</string>
     <string name="device_xiaomi">Mi Τηλέφωνο</string>
     <string name="dewdrops">Πρωινή δροσιά</string>
-    <string name="dialog_enable_mic_btn_negative">Ακύρωση</string>
-    <string name="dialog_enable_mic_btn_positive">Ενεργοποίηση</string>
-    <string name="dialog_enable_mic_message">Για να μπορέσετε να χρησιμοποιήσετε αυτήν τη λειτουργία, ενεργοποιήστε πρώτα το μικρόφωνο.</string>
-    <string name="dialog_enable_mic_title">Ενεργοποίηση μικροφώνου</string>
     <string name="digitaluniverse">Ψηφιακό σύμπαν (στέρεο)</string>
     <string name="disable_nfc">Απενεργοποιήθηκε το NFC για ασύρματη φόρτιση</string>
     <string name="disable_nfc_haptic_reverse">Απενεργοποιήθηκε το NFC και η δόνηση για αντίστροφη ασύρματη φόρτιση</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">Μετάδοση</string>
     <string name="tips_prompt_enable_midrop">Mi Κοινοποίηση</string>
     <string name="toast_camera_satellite_mutually_exclusive">Δεν είναι δυνατή η χρήση κάμερας κατά τη χρήση δορυφορικών επικοινωνιών</string>
-    <string name="toast_mic_muted">Μικρόφωνο ανενεργό</string>
-    <string name="toast_mic_unmuted">Μικρόφωνο ενεργό</string>
-    <string name="tof_music_support_scene_des">Υποστηρίζει χειριστήρια αναπαραγωγής μουσικής</string>
-    <string name="tof_office_support_scene_des">Υποστηρίζει έγγραφα Word και παρουσιάσεις PowerPoint</string>
-    <string name="tof_short_video_support_scene_des">Υποστηρίζει εναλλαγή μεταξύ βίντεο</string>
-    <string name="tof_video_support_scene_des">Υποστηρίζει στοιχεία ελέγχου αναπαραγωγής βίντεο πλήρους οθόνης</string>
     <string name="total">Μην ενοχλείτε</string>
     <string name="total_description">Σίγαση ήχων και απενεργοποίηση δονήσεων για όλα εκτός από το ξυπνητήρι</string>
     <string name="total_title">Μην ενοχλείτε</string>

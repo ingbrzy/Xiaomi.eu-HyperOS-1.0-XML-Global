@@ -116,8 +116,6 @@ Se Innstillinger for mer informasjon."</string>
     <string name="fast_connect_device_title_connecting">Kobler til…</string>
     <string name="fast_connect_device_title_find_headset">Finn %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Det ser ikke ut til at denne enheten er din: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Tilkoblet</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Kamera</string>
     <string name="fast_connect_new_feture_anti_lost">Varsel om manglende hodetelefon</string>
     <string name="fast_connect_new_feture_same_account">Koble til synkroniserte enheter</string>
     <string name="fast_connect_new_feture_sound_normalizer">Bedre lyd</string>
@@ -211,7 +209,6 @@ Raskere tilkoblingsprotokoll."</string>
     <string name="headset_download_fw">Oppdater</string>
     <string name="headset_downloading">Laster ned</string>
     <string name="headset_downloading_indicate">Laster ned…</string>
-    <string name="headset_dual_device">Øretelefoner tilkoblet automatisk. Dobbelttilkobling er deaktivert.</string>
     <string name="headset_find_new_version">En oppdatering er tilgjengelig</string>
     <string name="headset_finish_fw">Oppdateringen er vellykket</string>
     <string name="headset_finish_fw_failed">En feil oppstod</string>
@@ -229,8 +226,8 @@ Raskere tilkoblingsprotokoll."</string>
     <string name="headset_updating">Oppdaterer</string>
     <string name="information_go_to_fitness">Du finner de tilhørende innstillingene i Mi Fitness</string>
     <string name="install_package">Installer %1$s for ytterligere funksjoner</string>
-    <string name="lea_disable_successfully">Byttet til vanlig Bluetooth</string>
-    <string name="lea_enable_successfully">Byttet til Bluetooth LE Audio</string>
+    <string name="lea_disable_successfully">Vanlig Bluetooth brukes nå til hodetelefontilkobling og lydoverføring</string>
+    <string name="lea_enable_successfully">LE Audio brukes nå til hodetelefontilkobling og lydoverføring</string>
     <string name="mi_audio_relay_cancel">OK</string>
     <string name="mi_audio_relay_connect_failed">Prøv igjen</string>
     <string name="mi_audio_relay_localphone">Denne enheten</string>
@@ -280,7 +277,6 @@ Raskere tilkoblingsprotokoll."</string>
     <string name="miuix_appcompat_delete_description">Slett</string>
     <string name="miuix_appcompat_deselect_all">Fjern alle valg</string>
     <string name="miuix_appcompat_deselect_all_description">Fjern alle valg</string>
-    <string name="miuix_appcompat_edit">Rediger</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Avbryt</string>
     <string name="miuix_appcompat_search_input_description">Søk</string>
     <string name="miuix_appcompat_select_all">Velg alle</string>

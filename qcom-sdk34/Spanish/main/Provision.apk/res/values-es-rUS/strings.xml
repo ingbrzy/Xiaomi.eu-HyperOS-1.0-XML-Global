@@ -724,10 +724,9 @@ Puedes controlar esta función desde Ajustes > Contraseñas y seguridad > Pivaci
     <string name="terms_of_use_label_translation">Servicio de traducción</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">Servicio de actualización del sistema (busca actualizaciones en línea y notifica sobre nuevas versiones)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">Antes de usar el sistema, lee y acepte nuestro Acuerdo de usuario y Política de Privacidad, que cubren las aplicaciones Xiaomi preinstaladas en su dispositivo (por ejemplo, Galería, Mi Música, Navegador Mi, Mi Video, Temas, etc.). Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad pertinentes. Cuando su dispositivo esté activado, los siguientes servicios se conectarán a la red y accederán a su ubicación:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Antes de usar el sistema, debes leer y aceptar nuestro Acuerdo de Usuario y Política de Privacidad. Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad pertinentes. Cuando su dispositivo esté activado, los siguientes servicios se conectarán a la red y accederán a su ubicación:</string>
     <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Fondo de pantalla</string>
-    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Debe aceptar la Política de Privacidad de Facemoji antes de utilizar esta función."</string>

@@ -116,8 +116,6 @@ Sprawdź ustawienia, aby uzyskać szczegółowe informacje."</string>
     <string name="fast_connect_device_title_connecting">Łączenie…</string>
     <string name="fast_connect_device_title_find_headset">Znajdź %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Wygląda na to, że to urządzenie nie należy do Ciebie: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Połączono</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Aparat</string>
     <string name="fast_connect_new_feture_anti_lost">Alarm o braku słuchawki</string>
     <string name="fast_connect_new_feture_same_account">Połącz zsynchronizowane urządzenia</string>
     <string name="fast_connect_new_feture_sound_normalizer">Lepszy dźwięk</string>
@@ -211,7 +209,6 @@ Szybszy protokół połączenia."</string>
     <string name="headset_download_fw">Aktualizuj</string>
     <string name="headset_downloading">Pobieranie</string>
     <string name="headset_downloading_indicate">Pobieranie…</string>
-    <string name="headset_dual_device">Słuchawki połączyły się automatycznie. Podwójne połączenie jest wyłączone.</string>
     <string name="headset_find_new_version">Dostępna jest aktualizacja</string>
     <string name="headset_finish_fw">Pomyślnie zaktualizowano</string>
     <string name="headset_finish_fw_failed">Wystąpił błąd</string>
@@ -229,8 +226,8 @@ Szybszy protokół połączenia."</string>
     <string name="headset_updating">Aktualizowanie</string>
     <string name="information_go_to_fitness">Powiązane ustawienia możesz znaleźć w Mi Fitness</string>
     <string name="install_package">Skorzystaj z innych funkcji po instalacji %1$s</string>
-    <string name="lea_disable_successfully">Przełączono na zwykły Bluetooth</string>
-    <string name="lea_enable_successfully">Przełączono na Bluetooth LE Audio</string>
+    <string name="lea_disable_successfully">Zwykły Bluetooth jest wykorzystywany teraz do połączenia ze słuchawkami i transmisji audio</string>
+    <string name="lea_enable_successfully">LE Audio jest teraz używany do połączenia ze słuchawkami i transmisji audio</string>
     <string name="mi_audio_relay_cancel">OK</string>
     <string name="mi_audio_relay_connect_failed">Spróbuj ponownie</string>
     <string name="mi_audio_relay_localphone">To urządzenie</string>
@@ -280,7 +277,6 @@ Szybszy protokół połączenia."</string>
     <string name="miuix_appcompat_delete_description">Usuń</string>
     <string name="miuix_appcompat_deselect_all">Odznacz wszystko</string>
     <string name="miuix_appcompat_deselect_all_description">Odznacz wszystko</string>
-    <string name="miuix_appcompat_edit">Edytuj</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Anuluj</string>
     <string name="miuix_appcompat_search_input_description">Szukaj</string>
     <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>

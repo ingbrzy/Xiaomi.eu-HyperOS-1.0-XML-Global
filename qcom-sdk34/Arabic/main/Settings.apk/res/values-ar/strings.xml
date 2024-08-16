@@ -704,26 +704,6 @@
     <string name="aod_style_description">سيتم عرض الساعة والتاريخ والوقت والإشعارات وعناصر أخرى عند اطفاء الشاشة أو قفلها</string>
     <string name="aod_style_title">ثيمات الشاشة</string>
     <string name="aod_to_close">إيقاف التشغيل</string>
-    <string name="aon_gesture_cue_tone_summary">تشغيل صوت تأكيد في كل مرة يتم فيها اكتشاف كف يدك</string>
-    <string name="aon_gesture_cue_tone_title">تشغيل صوت التأكيد</string>
-    <string name="aon_gesture_dialog_message">عند تشغيل هذه الميزة، سيقوم هذا الجهاز باكتشاف إيماءاتك وتحليلها. لن تتم معالجة معلوماتك الشخصية ولن يتم تخزين أي بيانات في الجهاز أو في Cloud.</string>
-    <string name="aon_gesture_dialog_title">بيان الخصوصية</string>
-    <string name="aon_gesture_double_press_summary">تشغيل وإيقاف مؤقت للوسائط</string>
-    <string name="aon_gesture_double_press_title">إجراء حركة الضغط مرتين (مزدوج)</string>
-    <string name="aon_gesture_draw_circle_summary_pad">الرد على المكالمات المحولة إلى الجهاز اللوحي أو إنهائها</string>
-    <string name="aon_gesture_draw_circle_summary_phone">الرد على المكالمات وإنهائها</string>
-    <string name="aon_gesture_draw_circle_title">ارسم دائرة</string>
-    <string name="aon_gesture_enable_summary" formatted="false">أجعل المسافة بين كف يدك والكاميرا مابين %d إلى %d سم، ثم قم بإجراء عمليات الإيماءات بعد ظهور أيقونة اليد أعلى الشاشة</string>
-    <string name="aon_gesture_learn_title">تعلم كيفية استخدام الإيماءات</string>
-    <string name="aon_gesture_left_right_waving_summary">تعديل تقدم تشغيل الأغاني والتبديل بينها</string>
-    <string name="aon_gesture_left_right_waving_title">لوح إلى اليسار واليمين</string>
-    <string name="aon_gesture_settings">إيماءات بدون تلامس</string>
-    <string name="aon_gesture_status_close">متوقف</string>
-    <string name="aon_gesture_status_open">مشغل</string>
-    <string name="aon_gesture_supported_app_title">التطبيقات المدعومة</string>
-    <string name="aon_gesture_supported_title">الإيماءات المتاحة</string>
-    <string name="aon_gesture_up_down_waving_summary">ضبط مستوى صوت الوسائط والتبديل بين الفيديوهات القصيرة وقلب الصفحات في المستندات</string>
-    <string name="aon_gesture_up_down_waving_title">لوح إلى أعلى وأسفل</string>
     <string name="ap_connect_failed">تعذر الاتصال</string>
     <string name="ap_connected_battery_level">" | البطارية: %1$s"</string>
     <string name="ap_p2p_dialog_message">اتصال Wi-Fi المشترك الحالي قيد الاستخدام. تأكد من أنك لا تستخدم اتصال Wi-Fi مباشر أو Mi Share أو البث أو خدمات النقل اللاسلكي الأخرى قبل تشغيل نقطة الاتصال الشخصية.</string>
@@ -2022,10 +2002,21 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="camera_gesture_title">يمكنك اللف مرتين لفتح الكاميرا</string>
     <string name="camera_grip_firmware_need_update">تحديث</string>
     <string name="camera_grip_firmware_new_version">محدث</string>
+    <string name="camera_grip_firmware_save_button_know">حسنا</string>
+    <string name="camera_grip_firmware_save_button_negaitive">ليس الآن</string>
+    <string name="camera_grip_firmware_save_button_positive">تحديث</string>
+    <string name="camera_grip_firmware_save_channel">إشعارات مقبض الكاميرا</string>
+    <string name="camera_grip_firmware_save_networking_tips">اتصل بشبكة Wi-Fi أو قم بتشغيل بيانات الهاتف، وحاول تحديث البرنامج الثابت مرة أخرى.</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">قم بتحديث البرنامج الثابت لمواصلة استخدام هذا الجهاز.</string>
+    <string name="camera_grip_firmware_save_title">مقبض الكاميرا الاحترافي</string>
     <string name="camera_grip_firmware_title_text">تحديث البرنامج الثابت</string>
     <string name="camera_grip_firmware_update_describe">أبق المقبض متصل طوال عملية التحديث</string>
     <string name="camera_grip_firmware_update_faild">تعذر التحديث</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">قم بإزالة قبضة الكاميرا، واشحن هذا الجهاز، ثم حاول تحديث البرنامج الثابت مرة أخرى</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">قم بشحن هذا الجهاز وقبضة الكاميرا قبل تحديث البرنامج الثابت</string>
     <string name="camera_grip_firmware_update_ongoing">جارٍ التحديث. لا تقم بفك المقبض.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">قم بتوصيل الشاحن بهذا الجهاز وحاول تحديث البرنامج الثابت مرة أخرى</string>
     <string name="camera_grip_firmware_update_successful">تم التحديث بنجاح</string>
     <string name="camera_key_action_app_title">فتح التطبيق</string>
     <string name="camera_key_action_category_title">لا يمكن استخدام الكاميرا</string>
@@ -3400,7 +3391,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="ethernet_data_template">^1 من بيانات إيثرنت</string>
     <string name="ethernet_data_usage">استخدام بيانات إيثرنت</string>
     <string name="ethernet_tether_checkbox_text">مشاركة عبر إيثرنت</string>
-    <string name="ethernet_tethering_subtext">مشاركة اتصال شبكة الهاتف عبر إيثرنت</string>
+    <string name="ethernet_tethering_subtext">مشاركة اتصال الإنترنت على الهاتف عبر إيثرنت</string>
     <string name="evening">عصر</string>
     <string name="every_day">كل يوم</string>
     <string name="exceptional_case">الإستثناءات</string>
@@ -4740,10 +4731,6 @@ Xiaomi Cloud
     <string name="load_esim_info">جارٍ الحصول على معلومات eSIM…</string>
     <string name="load_esim_info_error">تعذر تحميل معلومات eSIM. انتظر دقيقة أو دقيقتين وحاول مرة أخرى.</string>
     <string name="loading">لحظة من فضلك…</string>
-    <string name="loading_eid_error_message">تعذر الحصول على معلومات EID. انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
-    <string name="loading_eid_error_ok">حسنا</string>
-    <string name="loading_eid_error_title">فشل التحميل</string>
-    <string name="loading_eid_tip">جارٍ الحصول على معلومات EID…</string>
     <string name="loading_injected_setting_summary">جارٍ التحميل…</string>
     <string name="local_auto_backup_off">إيقاف</string>
     <string name="local_auto_backup_on">تشغيل</string>
@@ -5143,6 +5130,8 @@ Xiaomi Cloud
     <string name="long_background_tasks_title">المهام الطويلة في الخلفية</string>
     <string name="long_press_back_key">اضغط مطولاً على زر الرجوع</string>
     <string name="long_press_buttom_key">الضغط مطولاً على زر الصفحة الرئيسية من شاشة القفل</string>
+    <string name="long_press_editor_style_summary">اضغط مطولا على قفل الشاشة لتعديل الساعة وخلفيات الشاشة</string>
+    <string name="long_press_editor_style_title">اضغط مطولا للتعديل</string>
     <string name="long_press_home_key">اضغط مطولاً على زر الشاشة الرئيسية</string>
     <string name="long_press_menu_key">اضغط مطولاً على زر القائمة</string>
     <string name="long_press_menu_key_when_lock">الضغط مطولاً على زر القائمة في شاشة القفل</string>
@@ -5683,8 +5672,6 @@ Xiaomi Cloud
     <string name="miui_type_style_title">نمط الكتابة</string>
     <string name="miui_updater">تحديث النظام</string>
     <string name="miui_userguide">دليل المستخدم</string>
-    <string name="miui_visual_perception_summary">يجعل جهازك يستشعر وجودك ويحدد خيارات القفل وفتح القفل الأكثر ملاءمة</string>
-    <string name="miui_visual_perception_title">الإدراك البصري النشط</string>
     <string name="miuix_access_state_desc">محدد</string>
     <string name="miuix_appcompat_action_mode_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
@@ -6643,8 +6630,10 @@ Xiaomi Cloud
     <string name="phone_language_summary" />
     <string name="photo_data">الصور والفيديوهات</string>
     <string name="photography_handle_button_function_settings">إعداد زر المقبض</string>
-    <string name="photography_handle_charge_protected">مقبض شحن إيقاف التشغيل التلقائي</string>
-    <string name="photography_handle_charge_protected_summary">عندما يتعرف الجهاز على أنك تستخدم المقبض، سيتوقف عن الشحن ويحافظ على شحن البطارية عند %1$s.</string>
+    <string name="photography_handle_charge_protected">مقبض لحماية الشحن</string>
+    <string name="photography_handle_charge_protected_summary">عند توصيل مقبض الكاميرا، سيتوقف الجهاز عن الشحن وسيحتفظ بالبطارية عند مستوى %1$s</string>
+    <string name="photography_handle_charge_state">شحن من مقابض الكاميرا</string>
+    <string name="photography_handle_charge_state_summary">شحن هذا الجهاز من مقابض الكاميرا عندما تكون متصلة</string>
     <string name="photography_handle_launch_and_take_photo">أخذ صورة</string>
     <string name="photography_handle_launch_camera">فتح الكاميرا</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">اضغط مطولا على على زر الغالق لتنفيذ إجراء ما</string>
@@ -6773,8 +6762,10 @@ Xiaomi Cloud
     <string name="pref_show_lunar_calendar_title">عرض التقويم الصيني على شاشة القفل</string>
     <string name="pref_title_network_details">تفاصيل الشبكة</string>
     <string name="pref_title_update_notification">إشعارات استخدام البيانات</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">بعد قفل الشاشة، انقر مرتين على زر خفض الصوت لفتح الكاميرا وأخذ صورة.</string>
     <string name="pref_volume_launch_camera_summary">اضغط على زر خفض الصوت مرتين لتشغيل الكاميرا</string>
     <string name="pref_volume_launch_camera_title">تشغيل الكاميرا</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">بعد قفل الشاشة، انقر مرتين على زر خفض الصوت لفتح الكاميرا.</string>
     <string name="pref_volume_wake_summary">يؤدي الضغط على أزرار الصوت إلى إيقاظ الجهاز</string>
     <string name="pref_volume_wake_title">إيقاظ بواسطة أزرار الصوت</string>
     <string name="preference_change_password_title">تغيير كلمة المرور</string>
@@ -7329,6 +7320,8 @@ Xiaomi Cloud
     <string name="safety_center_summary">أمان التطبيقات، وقَفل الجهاز، والأذونات</string>
     <string name="safety_center_title">الأمان والخصوصية</string>
     <string name="sar">معلومات التعرض للتردد اللاسلكي (RF)</string>
+    <string name="satellite_call_assistant">إعدادات المكالمات</string>
+    <string name="satellite_network_title">ميزات المكالمات عبر القمر الصناعي</string>
     <string name="saturday">السبت</string>
     <string name="saturday_first_day_of_week">السبت</string>
     <string name="saturday_short">السبت</string>
@@ -7359,7 +7352,6 @@ Xiaomi Cloud
     <string name="screen_dark_mode_select_time_error_summary">لا يمكن أن يكون وقت البدء نفس وقت الانتهاء</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">قد لا تظهر بعض التطبيقات بشكل صحيح في الوضع الداكن. فيمكنك تقييد استخدام الوضع الداكن لبعض التطبيقات الفردية من هنا.</string>
     <string name="screen_dark_mode_smart_dark_title">الوضع الداكن العام</string>
-    <string name="screen_dark_mode_time_summary">سيدخل جهازك في الوضع الداكن في الوقت المحدد عندما تقوم بإيقاف تشغيل الشاشة</string>
     <string name="screen_dark_mode_time_title">جدولة الوضع الداكن</string>
     <string name="screen_effect">نظام الألوان</string>
     <string name="screen_effect_adapt_color_summary">ضبط الألوان على أساس الضوء الحالي</string>
@@ -8483,6 +8475,11 @@ Xiaomi Cloud
     <string name="sort_order_frequent_notification">الأكثر تكرارًا</string>
     <string name="sort_order_recent_notification">الأحدث</string>
     <string name="sort_order_size">ترتيب حسب الحجم</string>
+    <string name="sos_add_area_code_switch_summary">إضافة رمز المنطقة تلقائيًا إلى رقم الهاتف عند إجراء مكالمة طوارئ مع اتصالات Tiantong Satellite</string>
+    <string name="sos_add_area_code_switch_title">إضافة رمز المنطقة تلقائيا</string>
+    <string name="sos_area_code_settings_hint">أدخل رمز المنطقة</string>
+    <string name="sos_area_code_settings_summary">تعيين رمز المنطقة يدويًا لرقم هاتف جهة اتصال الطوارئ الخاصة بك</string>
+    <string name="sos_area_code_settings_title">تعيين رمز المنطقة</string>
     <string name="sos_phone_call_privacy_dialog_message">"للاتصال بجهات الاتصال في حالات الطوارئ وتشغيل تسجيل SOS، يتطلب هذا التطبيق الأذونات التالية:
 • إجراء مكالمة
 للاتصال برقم جهة اتصال الطوارئ
@@ -9805,10 +9802,6 @@ Xiaomi Cloud
     <string name="uwb_settings_title">‏النطاق الواسع جدًا (UWB)</string>
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">مفعّلة</string>
-    <string name="valid_net_access">عرض بيانات اعتماد الوصول إلى الشبكة</string>
-    <string name="valid_net_ok">موافق</string>
-    <string name="valid_net_result_fail">تعذر الحصول على المعلومات. انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
-    <string name="valid_net_result_title">النتيجة</string>
     <string name="verify_apps_over_usb_summary">‏التحقق من التطبيقات المثبتة عبر ADB/ADT لكشف السلوك الضار</string>
     <string name="verify_apps_over_usb_title">‏التحقق من التطبيقات عبر USB</string>
     <string name="version_text">الإصدار %1$s</string>
@@ -10718,7 +10711,6 @@ Xiaomi Cloud
     <string name="winscope_trace_quick_settings_title">‏تتبّع أنشطة Winscope</string>
     <string name="wireless_connected">متصل</string>
     <string name="wireless_debugging_main_switch_title">استخدام ميزة \"تصحيح الأخطاء اللاسلكي\"</string>
-    <string name="wireless_display">العرض اللاسلكي</string>
     <string name="wireless_networks_settings_title">اللاسلكي والشبكات</string>
     <string name="wireless_off">إيقاف</string>
     <string name="wireless_on">مشغل</string>

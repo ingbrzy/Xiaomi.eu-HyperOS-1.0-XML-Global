@@ -4,7 +4,7 @@
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
     <string name="abc_action_mode_done">Klaar</string>
-    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activity_chooser_view_see_all">Alles tonen</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
     <string name="abc_capital_on">AAN</string>
@@ -218,7 +218,7 @@ en sleep om te verplaatsen"</string>
 · Tik op \"Zwevende vensters\" in Recent om apps te selecteren."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Tik op een app in de zijbalk om deze in een zwevend venster te openen.
 · Sleep een app naar het midden van het scherm om deze in een zwevend venster te openen of naar de zijkant om Gesplitst scherm te gebruiken."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Sleep een app van de zijbalk naar het midden van het scherm om deze in een zwevend venster te openen of naar de zijkant om Gesplitst scherm te gebruiken</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Sleep een app van de zijbalk naar het midden van het scherm om deze te openen in een zwevend venster of naar de zijkant om Gesplitst scherm te gebruiken</string>
     <string name="freeform_vedio_description_pad">Sleep items uit het dock om zwevende vensters te openen</string>
     <string name="friday">Vrijdag</string>
     <string name="friday_short">Vr</string>
@@ -266,7 +266,6 @@ en sleep om te verplaatsen"</string>
     <string name="miuix_appcompat_delete_description">Verwijderen</string>
     <string name="miuix_appcompat_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
-    <string name="miuix_appcompat_edit">Bewerken</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
     <string name="miuix_appcompat_search_input_description">Zoeken</string>
     <string name="miuix_appcompat_select_all">Alles selecteren</string>

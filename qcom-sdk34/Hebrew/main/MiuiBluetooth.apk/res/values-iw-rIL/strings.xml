@@ -87,8 +87,6 @@
     <string name="fast_connect_device_title_connecting">מתחבר…</string>
     <string name="fast_connect_device_title_find_headset">מצא %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">נראה שהמכשיר הזה לא שייך לך: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">מחובר</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">מצלמה</string>
     <string name="fast_connect_new_feture_anti_lost">חסרה התראת אוזניות</string>
     <string name="fast_connect_new_feture_same_account">חבר מכשירים מסונכרנים</string>
     <string name="fast_connect_new_feture_sound_normalizer">צליל טוב יותר</string>
@@ -182,7 +180,6 @@
     <string name="headset_download_fw">עדכן</string>
     <string name="headset_downloading">מתבצעת הורדה</string>
     <string name="headset_downloading_indicate">מתבצעת הורדה…</string>
-    <string name="headset_dual_device">האוזניות חוברו אוטומטית. חיבור כפול מושבת.</string>
     <string name="headset_find_new_version">קיים עדכון זמין</string>
     <string name="headset_finish_fw">עודכן בהצלחה</string>
     <string name="headset_finish_fw_failed">אירעה שגיאה</string>
@@ -200,8 +197,8 @@
     <string name="headset_updating">מעדכן</string>
     <string name="information_go_to_fitness">ניתן למצוא את ההגדרות הרלוונטיות ב-Mi Fitness</string>
     <string name="install_package">התקן את %1$s לפונקציות נוספות</string>
-    <string name="lea_disable_successfully">עבר ל-Bluetooth רגיל</string>
-    <string name="lea_enable_successfully">עבר ל-Bluetooth LE Audio</string>
+    <string name="lea_disable_successfully">Bluetooth רגיל משמש כעת לחיבור אוזניות והעברת שמע</string>
+    <string name="lea_enable_successfully">LE Audio משמש כעת לחיבור אוזניות והעברת שמע</string>
     <string name="mi_audio_relay_cancel">אישור</string>
     <string name="mi_audio_relay_connect_failed">נסה שנית</string>
     <string name="mi_audio_relay_localphone">מכשיר זה</string>
@@ -251,7 +248,6 @@
     <string name="miuix_appcompat_delete_description">מחק</string>
     <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
-    <string name="miuix_appcompat_edit">עריכה</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
     <string name="miuix_appcompat_select_all">בחר הכל</string>

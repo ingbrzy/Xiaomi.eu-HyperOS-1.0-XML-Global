@@ -995,8 +995,8 @@ Tiesňové volania môžete uskutočňovať aj naďalej."</string>
     <string name="mobile_networks">Nastavenie mobilnej siete</string>
     <string name="mobile_property">Vlastnosti mobilnej siete</string>
     <string name="mobile_settings_screen_title">Mobilné dáta</string>
-    <string name="mobile_special_network_optimization_config_summary">Inteligentne vnímajte viac scenárov v sieti a zlepšite svoj zážitok z komunikácie</string>
-    <string name="mobile_special_network_optimization_config_title">Režim adaptívnej scény</string>
+    <string name="mobile_special_network_optimization_config_summary">Zlepšite kvalitu hovorov automatickým prispôsobením na rôzne situácie</string>
+    <string name="mobile_special_network_optimization_config_title">Prispôsobiť na rôzne scény</string>
     <string name="modem_dialog_body">Mobilná sieť je nestabilná a spôsobuje výpadky siete. Chcete odoslať spätnú väzbu na analýzu? Toto hlásenie môže obsahovať vaše osobné údaje. Odoslané údaje budú použité na opravu chyby a nikdy nebudú použité na komerčné účely.</string>
     <string name="modem_dialog_title">Mobilná sieť je nestabilná</string>
     <string name="monday">Pondelok</string>
@@ -1565,7 +1565,6 @@ Rozhranie UT: %5$s"</string>
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">Ukončiť teraz</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">Slabá batéria</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">Viac nezobrazovať</string>
@@ -1573,7 +1572,7 @@ Rozhranie UT: %5$s"</string>
     <string name="satellite_notification_title">Nachádzate sa v oblasti so slabým signálom</string>
     <string name="satellite_point_title">Turn on Tiantong Satellite communications</string>
     <string name="satellite_select_enable_sim">Vyberte SIM kartu</string>
-    <string name="satellite_signal_boost_setting_summary">Enhance signal strength and stability in cloudy or other non-optimal weather conditions</string>
+    <string name="satellite_signal_boost_setting_summary">Zvýšte silu a stabilitu signálu v zamračenom alebo inom neoptimálnom počasí</string>
     <string name="satellite_signal_boost_setting_title">Use Tiantong signal amplifier</string>
     <string name="satellite_start">Rozumiem</string>
     <string name="satellite_start_battery">Rozumiem</string>

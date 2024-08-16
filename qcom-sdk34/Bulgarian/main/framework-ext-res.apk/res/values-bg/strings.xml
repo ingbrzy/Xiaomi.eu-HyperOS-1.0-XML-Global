@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">Мелодия по подразбиране (%1$s)</string>
     <string name="android_ringtone_silent">Няма</string>
     <string name="android_ringtone_unknown">Неизвестна мелодия</string>
-    <string name="aon_reader_support_scene_des">Сменяйте страници докато четете</string>
-    <string name="aon_video_support_scene_des">Контролирайте видео възпроизвеждането</string>
     <string name="app_continuity_channel_name">Настройки за оформление на приложения</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">Неуспешно отваряне на Alipay код за плащане</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">Компютър</string>
     <string name="device_xiaomi">Mi Телефон</string>
     <string name="dewdrops">Утринна роса</string>
-    <string name="dialog_enable_mic_btn_negative">Отказ</string>
-    <string name="dialog_enable_mic_btn_positive">Включване</string>
-    <string name="dialog_enable_mic_message">За да можете да използвате тази функция, първо включете микрофона.</string>
-    <string name="dialog_enable_mic_title">Включване на микрофона</string>
     <string name="digitaluniverse">Дигитална вселена (стерео)</string>
     <string name="disable_nfc">Изключен е NFC за безжично зареждане</string>
     <string name="disable_nfc_haptic_reverse">Изключени са NFC и вибрация за обратно безжично зареждане</string>
@@ -508,12 +502,6 @@
     <string name="throwing_screen">Прожекция</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="toast_camera_satellite_mutually_exclusive">Не можете да използвате камера, докато се използват сателитни комуникации</string>
-    <string name="toast_mic_muted">Микрофона е изключен</string>
-    <string name="toast_mic_unmuted">Микрофона е включен</string>
-    <string name="tof_music_support_scene_des">Поддържа контроли за музикален плейър</string>
-    <string name="tof_office_support_scene_des">Поддържа Word документи и PowerPoint презентации</string>
-    <string name="tof_short_video_support_scene_des">Поддържа превключване между видеоклипове</string>
-    <string name="tof_video_support_scene_des">Поддържа контроли за видеоплейър на цял екран</string>
     <string name="total">Режим Не безпокойте</string>
     <string name="total_description">Заглушаване на звуците и изключване на вибрацията за всички, освен Будилника</string>
     <string name="total_title">Режим Не безпокойте</string>

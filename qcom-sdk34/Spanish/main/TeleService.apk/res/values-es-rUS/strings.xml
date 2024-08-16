@@ -1002,8 +1002,8 @@ De todos modos, puedes hacer llamadas de emergencia."</string>
     <string name="mobile_networks">Ajustes de redes móviles</string>
     <string name="mobile_property">Propiedades de redes móviles</string>
     <string name="mobile_settings_screen_title">Datos móviles</string>
-    <string name="mobile_special_network_optimization_config_summary">Perciba de forma inteligente múltiples escenarios en la red para mejorar la experiencia de comunicación</string>
-    <string name="mobile_special_network_optimization_config_title">Modo adaptativo de escena</string>
+    <string name="mobile_special_network_optimization_config_summary">Mejore la calidad de la llamada adaptándose a diferentes escenas automáticamente</string>
+    <string name="mobile_special_network_optimization_config_title">Adaptarse a diferentes escenas</string>
     <string name="modem_dialog_body">La red móvil es inestable, lo que causa interrupciones y problemas de red. ¿Desea enviar un reporte de errores a Mi para su análisis? Este reporte podría contener información personal identificable. Su reporte será usado para ayudar a solucionar este error y la información nunca será compartida para fines comerciales.</string>
     <string name="modem_dialog_title">La red móvil es inestable</string>
     <string name="monday">Lunes</string>
@@ -1583,7 +1583,6 @@ Interfaz de UT: %5$s"</string>
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">Salir ahora</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">Batería baja</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">No mostrar de nuevo</string>
@@ -1591,7 +1590,7 @@ Interfaz de UT: %5$s"</string>
     <string name="satellite_notification_title">Está en un área de señal débil</string>
     <string name="satellite_point_title">Turn on Tiantong Satellite communications</string>
     <string name="satellite_select_enable_sim">Seleccionar tarjeta SIM</string>
-    <string name="satellite_signal_boost_setting_summary">Enhance signal strength and stability in cloudy or other non-optimal weather conditions</string>
+    <string name="satellite_signal_boost_setting_summary">Mejora la intensidad y la estabilidad de la señal en condiciones climáticas de nubladas u otras condiciones no óptimas</string>
     <string name="satellite_signal_boost_setting_title">Use Tiantong signal amplifier</string>
     <string name="satellite_start">Entendido</string>
     <string name="satellite_start_battery">Entendido</string>

@@ -996,8 +996,8 @@ Poți, totuși, să inițiezi apeluri de urgență."</string>
     <string name="mobile_networks">Setările rețelei mobile</string>
     <string name="mobile_property">Proprietățile rețelei mobile</string>
     <string name="mobile_settings_screen_title">Date mobile</string>
-    <string name="mobile_special_network_optimization_config_summary">Percepți în mod inteligent mai multe scenarii din rețea pentru a îmbunătăți experiența de comunicare</string>
-    <string name="mobile_special_network_optimization_config_title">Mod adaptiv scenă</string>
+    <string name="mobile_special_network_optimization_config_summary">Îmbunătățiți calitatea apelurilor, adaptându-vă automat la diferite scene</string>
+    <string name="mobile_special_network_optimization_config_title">Adaptați-vă la diferite scene</string>
     <string name="modem_dialog_body">Rețeaua mobilă este instabilă, cauzând întreruperi sau probleme de rețea. Trimiteți raport de erori la Mi pentru a analiza? Acest raport poate conține informații identificabile personale. Raportul dvs. va fi folosit pentru a rezolva această problemă și nu va fi niciodată folosit în context comercial.</string>
     <string name="modem_dialog_title">Rețea mobilă este instabilă</string>
     <string name="monday">Luni</string>
@@ -1569,7 +1569,6 @@ Interfață UT: %5$s"</string>
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">Ieșiți acum</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">Baterie descărcată</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">Nu mai afișa din nou</string>
@@ -1577,7 +1576,7 @@ Interfață UT: %5$s"</string>
     <string name="satellite_notification_title">Te afli într-o zonă cu semnal slab</string>
     <string name="satellite_point_title">Turn on Tiantong Satellite communications</string>
     <string name="satellite_select_enable_sim">Selectează cartela SIM</string>
-    <string name="satellite_signal_boost_setting_summary">Enhance signal strength and stability in cloudy or other non-optimal weather conditions</string>
+    <string name="satellite_signal_boost_setting_summary">Îmbunătățiți puterea și stabilitatea semnalului în condiții meteorologice înnorate sau alte condiții neoptimale</string>
     <string name="satellite_signal_boost_setting_title">Use Tiantong signal amplifier</string>
     <string name="satellite_start">Am înțeles</string>
     <string name="satellite_start_battery">Am înțeles</string>

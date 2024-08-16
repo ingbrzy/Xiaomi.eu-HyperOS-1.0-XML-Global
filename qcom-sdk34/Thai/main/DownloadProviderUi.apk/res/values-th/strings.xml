@@ -34,7 +34,6 @@
     <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="about">เกี่ยวกับ</string>
     <string name="actionbar_button_up_description">ย้อนกลับ</string>
-    <string name="ad_flag_text">โฆษณา</string>
     <string name="add_download_download">ดาวน์โหลด</string>
     <string name="add_download_error_not_support">ระบบไม่รองรับลิงก์นี้</string>
     <string name="add_download_text_hint">ป้อนลิงก์ HTTP/HTTPS</string>
@@ -292,9 +291,6 @@
     <string name="month_september_shortest">กันยา</string>
     <string name="more">เพิ่มเติม</string>
     <string name="morning">เช้า</string>
-    <string name="native_body">เนื้อความ</string>
-    <string name="native_headline">บรรทัดแรก</string>
-    <string name="native_media_view">มุมมองสื่อ</string>
     <string name="new_file_notification_title_image">รูปภาพ</string>
     <string name="night">เย็น</string>
     <string name="no_downloads">ไม่มีไฟล์</string>
@@ -361,7 +357,6 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="skip_ad">ข้าม</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="sunday">วันอาทิตย์</string>
@@ -424,7 +419,6 @@
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
     <string name="version">เวอร์ชั่น %s</string>
-    <string name="watermark_label_prefix">AdMob -</string>
     <string name="wednesday">วันพุธ</string>
     <string name="wednesday_short">พุธ</string>
     <string name="wednesday_shortest">พุธ</string>

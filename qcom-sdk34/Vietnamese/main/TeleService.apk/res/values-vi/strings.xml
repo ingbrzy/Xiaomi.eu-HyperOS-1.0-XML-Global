@@ -1001,8 +1001,8 @@ Bạn vẫn có thể thực hiện cuộc gọi khẩn cấp."</string>
     <string name="mobile_networks">Cài đặt mạng di động</string>
     <string name="mobile_property">Thuộc tính mạng di động</string>
     <string name="mobile_settings_screen_title">Dữ liệu di động</string>
-    <string name="mobile_special_network_optimization_config_summary">Nhận biết thông minh nhiều tình huống mạng để nâng cao trải nghiệm giao tiếp</string>
-    <string name="mobile_special_network_optimization_config_title">Chế độ thích ứng bối cảnh</string>
+    <string name="mobile_special_network_optimization_config_summary">Cải thiện chất lượng cuộc gọi bằng cách thích ứng với bối cảnh khác nhau tự động</string>
+    <string name="mobile_special_network_optimization_config_title">Thích ứng với bối cảnh khác nhau</string>
     <string name="modem_dialog_body">Mạng di động không ổn định dẫn đến sự gián đoạn và các vấn đề về mạng. Bạn có muốn gửi phản hồi đến Mi để phân tích? Báo cáo này có thể chứa các thông tin cá nhân. Báo cáo của bạn sẽ được sử dụng để giúp chúng tôi khắc phục lỗi này và sẽ không bao giờ được chia sẻ trong bất kỳ bối cảnh thương mại nào.</string>
     <string name="modem_dialog_title">Mạng di động không ổn định</string>
     <string name="monday">Thứ hai</string>
@@ -1574,7 +1574,6 @@ Giao diện UT: %5$s"</string>
     <string name="satellite_camera_enable_toast">Đóng Camera trước khi mở Liên lạc Vệ tinh Tiantong</string>
     <string name="satellite_exit_now_battery">Thoát ngay</string>
     <string name="satellite_findout_settings_title">Giới thiệu Liên lạc Vệ tinh Tiantong</string>
-    <string name="satellite_low_battery_reminder">Pin yếu</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">Không hiển thị lại</string>
@@ -1582,7 +1581,7 @@ Giao diện UT: %5$s"</string>
     <string name="satellite_notification_title">Bạn đang ở khu vực tín hiệu kém</string>
     <string name="satellite_point_title">Bật Liên lạc Vệ tinh Tiantong</string>
     <string name="satellite_select_enable_sim">Chọn thẻ SIM</string>
-    <string name="satellite_signal_boost_setting_summary">Enhance signal strength and stability in cloudy or other non-optimal weather conditions</string>
+    <string name="satellite_signal_boost_setting_summary">Tăng cường cường độ tín hiệu và độ ổn định trong điều kiện thời tiết nhiều mây hoặc không lý tưởng khác</string>
     <string name="satellite_signal_boost_setting_title">Use Tiantong signal amplifier</string>
     <string name="satellite_start">Tôi biết</string>
     <string name="satellite_start_battery">Tôi biết</string>

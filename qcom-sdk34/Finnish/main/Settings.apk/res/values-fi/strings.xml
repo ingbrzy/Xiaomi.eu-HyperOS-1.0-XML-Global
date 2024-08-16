@@ -704,26 +704,6 @@ Widget: %2$s
     <string name="aod_style_description">Näytä kello, päivämäärä, aika, ilmoitukset ja muut kohteet, kun näyttö on pois päältä</string>
     <string name="aod_style_title">Tyyli</string>
     <string name="aod_to_close">Poista käytöstä</string>
-    <string name="aon_gesture_cue_tone_summary">Toista vahvistusääni aina, kun kämmenesi havaitaan</string>
-    <string name="aon_gesture_cue_tone_title">Toista vahvistusääni</string>
-    <string name="aon_gesture_dialog_message">Kun tämä ominaisuus on käytössä, tämä laite havaitsee ja analysoi eleesi. Henkilökohtaisia ​​tietojasi ei käsitellä, eikä tietoja tallenneta paikallisesti tai pilveen.</string>
-    <string name="aon_gesture_dialog_title">Tietosuojalausunto</string>
-    <string name="aon_gesture_double_press_summary">Toista ja keskeytä toisto</string>
-    <string name="aon_gesture_double_press_title">Tee kaksoispainallusliike</string>
-    <string name="aon_gesture_draw_circle_summary_pad">Vastaa tai lopeta tabletille siirrettyjä puheluita</string>
-    <string name="aon_gesture_draw_circle_summary_phone">Vastaa ja lopeta puheluita</string>
-    <string name="aon_gesture_draw_circle_title">Piirrä ympyrä</string>
-    <string name="aon_gesture_enable_summary" formatted="false">Pidä kättäsi %d - %d cm kamerasta ja suorita eleet käsikuvakkeen tullessa näkyviin näytön yläosaan</string>
-    <string name="aon_gesture_learn_title">Opi eleet</string>
-    <string name="aon_gesture_left_right_waving_summary">Säädä toiston edistymistä ja vaihda kappaleiden välillä</string>
-    <string name="aon_gesture_left_right_waving_title">Heiluta vaakatasossa</string>
-    <string name="aon_gesture_settings">Kontaktittomat eleet</string>
-    <string name="aon_gesture_status_close">Pois</string>
-    <string name="aon_gesture_status_open">Päällä</string>
-    <string name="aon_gesture_supported_app_title">Tuetut sovellukset</string>
-    <string name="aon_gesture_supported_title">Saatavilla olevat eleet</string>
-    <string name="aon_gesture_up_down_waving_summary">Säädä median äänenvoimakkuutta, vaihda pikavideoiden välillä ja käännä sivuja asiakirjoissa</string>
-    <string name="aon_gesture_up_down_waving_title">Heiluta pystysuorassa</string>
     <string name="ap_connect_failed">Ei voitu yhdistää</string>
     <string name="ap_connected_battery_level">" | Akun varaustaso %1$s"</string>
     <string name="ap_p2p_dialog_message">Nykyinen jaettu Wi-Fi-yhteys on jo käytössä. Varmista, että et käytä Wi-Fi Direct-, Mi Share-, suoratoisto- tai muita langattomia siirtopalveluja, ennen kuin otat käyttöön henkilökohtaisen tukiaseman.</string>
@@ -2022,10 +2002,21 @@ Jos asennat CA-varmenteen, sen omistaja voi päästä sivustoilta ja sovelluksis
     <string name="camera_gesture_title">Kaksoiskääntäminen kameraa varten</string>
     <string name="camera_grip_firmware_need_update">Päivitä</string>
     <string name="camera_grip_firmware_new_version">Ajan tasalla</string>
+    <string name="camera_grip_firmware_save_button_know">Selvä</string>
+    <string name="camera_grip_firmware_save_button_negaitive">Ei nyt</string>
+    <string name="camera_grip_firmware_save_button_positive">Päivitä</string>
+    <string name="camera_grip_firmware_save_channel">Kamerakahvan ilmoitukset</string>
+    <string name="camera_grip_firmware_save_networking_tips">Yhdistä Wi-Fi-verkkoon tai ota mobiilidata käyttöön ja yritä päivittää laiteohjelmisto uudelleen.</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">Päivitä laiteohjelmisto jatkaaksesi tämän laitteen käyttöä.</string>
+    <string name="camera_grip_firmware_save_title">Ammattimainen kamerakahva</string>
     <string name="camera_grip_firmware_title_text">Päivitä laiteohjelmisto</string>
     <string name="camera_grip_firmware_update_describe">Pidä kahva kytkettynä koko päivitysprosessin ajan</string>
     <string name="camera_grip_firmware_update_faild">Ei voitu päivittää</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">Irrota kamerakahva, lataa tämä laite ja yritä sitten päivittää laiteohjelmisto uudelleen</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">Lataa tämä laite ja kamerakahva ennen laiteohjelmiston päivittämistä</string>
     <string name="camera_grip_firmware_update_ongoing">Päivitetään. Älä irrota kahvaa.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">Liitä laturi tähän laitteeseen ja yritä päivittää laiteohjelmisto uudelleen</string>
     <string name="camera_grip_firmware_update_successful">Päivitetty onnistuneesti</string>
     <string name="camera_key_action_app_title">Avaa sovellus</string>
     <string name="camera_key_action_category_title">Kameraa ei voi käyttää</string>
@@ -3401,7 +3392,7 @@ Käynnistä laite uudelleen ja yritä sitten uudelleen."</string>
     <string name="ethernet_data_template">^1 Ethernet-dataa</string>
     <string name="ethernet_data_usage">Ethernet-datan käyttö</string>
     <string name="ethernet_tether_checkbox_text">Jaa Ethernetin kautta</string>
-    <string name="ethernet_tethering_subtext">Jaa puhelimen verkkoyhteys Ethernetin kautta</string>
+    <string name="ethernet_tethering_subtext">Jaa puhelimen internetyhteys Ethernetillä</string>
     <string name="evening">Iltapäivä</string>
     <string name="every_day">Joka päivä</string>
     <string name="exceptional_case">Poikkeukset</string>
@@ -4740,10 +4731,6 @@ Avaa Xiaomi Cloud ja palauta kohteet sieltä."</string>
     <string name="load_esim_info">Noudetaan eSIM-kortin tietoja…</string>
     <string name="load_esim_info_error">eSIM-tietoja ei voitu ladata. Odota pari minuuttia ja yritä uudelleen.</string>
     <string name="loading">Hetki vain…</string>
-    <string name="loading_eid_error_message">EID-tietoja ei saatu. Odota pari minuuttia ja yritä uudelleen.</string>
-    <string name="loading_eid_error_ok">Selvä</string>
-    <string name="loading_eid_error_title">Ei voitu ladata</string>
-    <string name="loading_eid_tip">Hankitaan EID-tietoja…</string>
     <string name="loading_injected_setting_summary">Ladataan…</string>
     <string name="local_auto_backup_off">Pois</string>
     <string name="local_auto_backup_on">Päällä</string>
@@ -5143,6 +5130,8 @@ Jos lupaa ei myönnetä, järjestelmä rajoittaa, kuinka kauan sovellus voi suor
     <string name="long_background_tasks_title">Pitkät taustatehtävät</string>
     <string name="long_press_back_key">Paina pitkään Takaisin-painiketta</string>
     <string name="long_press_buttom_key">Paina pitkään kotinäppäintä lukitusnäytössä</string>
+    <string name="long_press_editor_style_summary">Muokkaa kelloa ja taustakuvaa painamalla lukitusnäyttöä pitkään</string>
+    <string name="long_press_editor_style_title">Muokkaa painamalla pitkään</string>
     <string name="long_press_home_key">Paina pitkään kotinäppäintä</string>
     <string name="long_press_menu_key">Paina pitkään valikkopainiketta</string>
     <string name="long_press_menu_key_when_lock">Paina pitkään valikkopainiketta lukitusnäytössä</string>
@@ -5683,8 +5672,6 @@ Jatka käyttääksesi lisäasetuksia."</string>
     <string name="miui_type_style_title">Kirjoitustyyli</string>
     <string name="miui_updater">Järjestelmäpäivitys</string>
     <string name="miui_userguide">Käyttöopas</string>
-    <string name="miui_visual_perception_summary">Pyydä laitettasi havaitsemaan läsnäolosi ja valitsemaan kätevämpiä lukitus- ja avausvaihtoehtoja</string>
-    <string name="miui_visual_perception_title">Aktiivinen visuaalinen havainto</string>
     <string name="miuix_access_state_desc">Valittu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Kumoa kaikkien valinta</string>
     <string name="miuix_appcompat_action_mode_select_all">Valitse kaikki</string>
@@ -6643,8 +6630,10 @@ Lue ja hyväksy %s ennen kuin käytät tätä palvelua."</string>
     <string name="phone_language_summary" />
     <string name="photo_data">Kuvat ja videot</string>
     <string name="photography_handle_button_function_settings">Aseta kahvapainike</string>
-    <string name="photography_handle_charge_protected">Kahvan latauksen automaattinen katkaisu</string>
-    <string name="photography_handle_charge_protected_summary">Kun laitteesi tunnistaa, että käytät kamerakahvaa, laite lopettaa lataamisen ja pitää akun tasolla %1$s</string>
+    <string name="photography_handle_charge_protected">Kahvan lataussuoja</string>
+    <string name="photography_handle_charge_protected_summary">Kun kamerakahva on liitetty, laite lopettaa lataamisen ja pitää akun varaustason %1$s</string>
+    <string name="photography_handle_charge_state">Lataa kameran kahvoista</string>
+    <string name="photography_handle_charge_state_summary">Lataa tämä laite kameran kahvoista aina, kun ne on kytketty</string>
     <string name="photography_handle_launch_and_take_photo">Ota kuva</string>
     <string name="photography_handle_launch_camera">Avaa kamera</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Paina ja pidä laukaisinta painettuna suorittaaksesi toiminnon</string>
@@ -6773,8 +6762,10 @@ Paina virtapainiketta ja äänenvoimakkuuden lisäyspainiketta yhtä aikaa"</str
     <string name="pref_show_lunar_calendar_title">Näytä perinteinen kiinalainen kalenteri lukitusnäytöllä</string>
     <string name="pref_title_network_details">Verkon tiedot</string>
     <string name="pref_title_update_notification">Datankäyttöilmoitukset</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Kun näyttö on lukittu, avaa Kamera ja ota valokuva kaksoisnapauttamalla Äänenvoimakkuuden vähennys</string>
     <string name="pref_volume_launch_camera_summary">Käynnistä kamera painamalla äänen vähennyspainiketta kahdesti</string>
     <string name="pref_volume_launch_camera_title">Käynnistä kamera</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">Kun näyttö on lukittu, avaa Kamera kaksoisnapauttamalla Äänenvoimakkuuden vähennys</string>
     <string name="pref_volume_wake_summary">Painamalla äänenvoimakkuuspainikkeita laite herää</string>
     <string name="pref_volume_wake_title">Herätä äänenvoimakkuuspainikkeilla</string>
     <string name="preference_change_password_title">Vaihda salasana</string>
@@ -7329,6 +7320,8 @@ Käynnistä laite uudelleen ja yritä sitten uudelleen."</string>
     <string name="safety_center_summary">Sovellusten turvallisuus, laitteen lukitus, luvat</string>
     <string name="safety_center_title">Turvallisuus ja yksityisyys</string>
     <string name="sar">RF-altistustiedot</string>
+    <string name="satellite_call_assistant">Puheluasetukset</string>
+    <string name="satellite_network_title">Satelliittipuhelun ominaisuudet</string>
     <string name="saturday">Lauantai</string>
     <string name="saturday_first_day_of_week">Lauantai</string>
     <string name="saturday_short">La</string>
@@ -7359,7 +7352,6 @@ Käynnistä laite uudelleen ja yritä sitten uudelleen."</string>
     <string name="screen_dark_mode_select_time_error_summary">Aloitus- ja lopetusaika eivät voi olla samat</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Jotkin sovellukset voivat näkyä väärin tummassa tilassa. Voit rajoittaa tumman tilan käyttöä yksittäisissä sovelluksissa täällä.</string>
     <string name="screen_dark_mode_smart_dark_title">Kokonaisvaltainen tumma tila</string>
-    <string name="screen_dark_mode_time_summary">Laitteesi siirtyy tummaan tilaan suunnitellun ajoituksen tienoilla, kun sammutat näytön</string>
     <string name="screen_dark_mode_time_title">Ajoita tumma tila</string>
     <string name="screen_effect">Väriskeema</string>
     <string name="screen_effect_adapt_color_summary">Säädä värejä nykyisen valaistuksen mukaisesti</string>
@@ -8483,6 +8475,11 @@ Kaksoisnapauta avataksesi Viimeaikaiset."</string>
     <string name="sort_order_frequent_notification">Eniten ilmoituksia</string>
     <string name="sort_order_recent_notification">Uusimmat ilmoitukset</string>
     <string name="sort_order_size">Lajittelu koon mukaan</string>
+    <string name="sos_add_area_code_switch_summary">Lisää suuntanumero automaattisesti puhelinnumeroon, kun soitat hätäpuhelun Tiantong Satellite -viestinnällä</string>
+    <string name="sos_add_area_code_switch_title">Lisää suuntanumero automaattisesti</string>
+    <string name="sos_area_code_settings_hint">Syötä suuntanumero</string>
+    <string name="sos_area_code_settings_summary">Aseta hätäyhteyshenkilön puhelinnumeron suuntanumero manuaalisesti</string>
+    <string name="sos_area_code_settings_title">Aseta suuntanumero</string>
     <string name="sos_phone_call_privacy_dialog_message">"Soittaaksesi hätäyhteyshenkilöillesi ja toistaaksesi SOS-nauhoitusta, tämä sovellus tarvitsee seuraavat käyttöoikeudet:
 • Puhelujen soittaminen
 Puhelujen soittamiseksi hätäyhteyshenkilöille
@@ -9789,10 +9786,6 @@ Napauta plussaa lisätäksesi sanoja."</string>
     <string name="uwb_settings_title">UWB-taajuus</string>
     <string name="v7_preference_off">POIS KÄYTÖSTÄ</string>
     <string name="v7_preference_on">KÄYTÖSSÄ</string>
-    <string name="valid_net_access">Näytä verkon käyttöoikeustiedot</string>
-    <string name="valid_net_ok">OK</string>
-    <string name="valid_net_result_fail">Tietoja ei saatu. Odota muutama minuutti ja yritä uudelleen.</string>
-    <string name="valid_net_result_title">Tulos</string>
     <string name="verify_apps_over_usb_summary">Tarkista ADB:n/ADT:n kautta asennetut sovellukset haitallisen toiminnan varalta</string>
     <string name="verify_apps_over_usb_title">Tarkista USB:n kautta asennetut</string>
     <string name="version_text">versio %1$s</string>
@@ -10702,7 +10695,6 @@ Annetaanko tämä lupa kaikille sovelluksille, jotka haluavat etsiä verkkoja?"<
     <string name="winscope_trace_quick_settings_title">Winscope-jäljitys</string>
     <string name="wireless_connected">Yhdistetty</string>
     <string name="wireless_debugging_main_switch_title">Käytä langatonta virheenkorjausta</string>
-    <string name="wireless_display">Langaton näyttö</string>
     <string name="wireless_networks_settings_title">Langaton verkko ja verkot</string>
     <string name="wireless_off">Pois</string>
     <string name="wireless_on">Päällä</string>

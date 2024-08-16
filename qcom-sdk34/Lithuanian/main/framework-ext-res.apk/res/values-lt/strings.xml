@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">Numatytasis skambėjimo garsas (%1$s)</string>
     <string name="android_ringtone_silent">Nėra</string>
     <string name="android_ringtone_unknown">Nežinomas skambėjimo garsas</string>
-    <string name="aon_reader_support_scene_des">Puslapių vartymas skaitant</string>
-    <string name="aon_video_support_scene_des">Vaizdo įrašų atkūrimo valdymas</string>
     <string name="app_continuity_channel_name">Programėlės išdėstymo korekcijos</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">Nepavyko atidaryti „Alipay“ mokėjimo kodo</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">Kompiuteris</string>
     <string name="device_xiaomi">Mi Telefonas</string>
     <string name="dewdrops">Ryto rasa</string>
-    <string name="dialog_enable_mic_btn_negative">Atšaukti</string>
-    <string name="dialog_enable_mic_btn_positive">Įjungti</string>
-    <string name="dialog_enable_mic_message">Norėdami naudoti šią funkciją, pirmiausia į junkite mikrofoną.</string>
-    <string name="dialog_enable_mic_title">Įjunkite mikrofoną</string>
     <string name="digitaluniverse">Skaitmeninė visata (stereo)</string>
     <string name="disable_nfc">Išjungiamas belaidžio krovimo NFC</string>
     <string name="disable_nfc_haptic_reverse">NFC ir vibracija išjungti atvirkštiniam belaidžiam įkrovimui</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">Transliuoti</string>
     <string name="tips_prompt_enable_midrop">„Mi Share“</string>
     <string name="toast_camera_satellite_mutually_exclusive">Naudojant palydovinį ryšį negalima naudoti fotoaparato</string>
-    <string name="toast_mic_muted">Mikrofonas išjungtas</string>
-    <string name="toast_mic_unmuted">Mikrofonas įjungtas</string>
-    <string name="tof_music_support_scene_des">Palaiko vaizdo grotuvo valdiklius</string>
-    <string name="tof_office_support_scene_des">Palaiko „Word“ dokumentus ir „PowerPoint“ pristatymus</string>
-    <string name="tof_short_video_support_scene_des">Palaiko vaizdo įrašų perjungimą</string>
-    <string name="tof_video_support_scene_des">Palaiko viso ekrano vaizdo grotuvo valdiklius</string>
     <string name="total">Netrukdyti</string>
     <string name="total_description">Nutildyti garsus ir išjungti vibraciją visiems elementams, išskyrus žadintuvą</string>
     <string name="total_title">Netrukdyti</string>

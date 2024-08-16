@@ -34,7 +34,6 @@
     <string name="abc_toolbar_collapse_description">Strnitev</string>
     <string name="about">O</string>
     <string name="actionbar_button_up_description">Nazaj</string>
-    <string name="ad_flag_text">OGLAS</string>
     <string name="add_download_download">Prenos</string>
     <string name="add_download_error_not_support">Ta povezava ni podprta</string>
     <string name="add_download_text_hint">Vnesite HTTP/HTTPS povezavo</string>
@@ -292,9 +291,6 @@
     <string name="month_september_shortest">Sep</string>
     <string name="more">Več</string>
     <string name="morning">Jutro</string>
-    <string name="native_body">Telo</string>
-    <string name="native_headline">Naslov</string>
-    <string name="native_media_view">Ogled predstavnosti</string>
     <string name="new_file_notification_title_image">Slika</string>
     <string name="night">Večer</string>
     <string name="no_downloads">Ni datotek</string>
@@ -361,7 +357,6 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="skip_ad">Preskoči</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Nedelja</string>
@@ -424,7 +419,6 @@
     <string name="v7_preference_off">IZKLOPLJENO</string>
     <string name="v7_preference_on">VKLOPLJENO</string>
     <string name="version">Različica %s</string>
-    <string name="watermark_label_prefix">AdMob –</string>
     <string name="wednesday">Sreda</string>
     <string name="wednesday_short">Sre</string>
     <string name="wednesday_shortest">Sre</string>

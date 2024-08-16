@@ -704,26 +704,6 @@ Widgetul: %2$s
     <string name="aod_style_description">Afișați ceasul, data, ora, notificările și alte elemente atunci când ecranul este oprit</string>
     <string name="aod_style_title">Stil</string>
     <string name="aod_to_close">Dezactivează</string>
-    <string name="aon_gesture_cue_tone_summary">Redă sunet de confirmare ori de câte ori palma este detectată</string>
-    <string name="aon_gesture_cue_tone_title">Redă sunet de confirmare</string>
-    <string name="aon_gesture_dialog_message">Când această funcție este pornită, acest dispozitiv va detecta și analiza gesturile dvs. Informațiile dumneavoastră personale nu vor fi procesate, nicio dată nu va fi stocată local sau în cloud.</string>
-    <string name="aon_gesture_dialog_title">Declarație de confidențialitate</string>
-    <string name="aon_gesture_double_press_summary">Redați și întrerupeți redarea</string>
-    <string name="aon_gesture_double_press_title">Efectuați o mișcare de apăsare dublă</string>
-    <string name="aon_gesture_draw_circle_summary_pad">Răspundeți sau terminați apelurile transferate pe tabletă</string>
-    <string name="aon_gesture_draw_circle_summary_phone">Răspundeți și terminați apelurile</string>
-    <string name="aon_gesture_draw_circle_title">Desenează un cerc</string>
-    <string name="aon_gesture_enable_summary" formatted="false">Ține-ți mâna la %d până la %d cm de cameră și efectuați gesturi după ce pictograma mâinii apare în partea de sus a ecranului</string>
-    <string name="aon_gesture_learn_title">Învață gesturile</string>
-    <string name="aon_gesture_left_right_waving_summary">Reglați progresul redării și schimbați între melodii</string>
-    <string name="aon_gesture_left_right_waving_title">Flutură orizontal</string>
-    <string name="aon_gesture_settings">Gesturi fără contact</string>
-    <string name="aon_gesture_status_close">Oprit</string>
-    <string name="aon_gesture_status_open">Pornit</string>
-    <string name="aon_gesture_supported_app_title">Aplicații acceptate</string>
-    <string name="aon_gesture_supported_title">Gesturi disponibile</string>
-    <string name="aon_gesture_up_down_waving_summary">Reglați volumul media, comutați între videoclipuri scurte și întoarceți paginile în documente</string>
-    <string name="aon_gesture_up_down_waving_title">Flutură vertical</string>
     <string name="ap_connect_failed">Nu se poate conecta</string>
     <string name="ap_connected_battery_level">" | Baterie %1$s"</string>
     <string name="ap_p2p_dialog_message">Conexiunea Wi-Fi partajată actuală este deja utilizată. Asigurați-vă că nu utilizați Wi-Fi Direct, Mi Share, proiectare sau alte servicii de transfer wireless înainte de a activa hotspot-ul dvs. personal.</string>
@@ -2022,10 +2002,21 @@ Dacă instalezi un certificat CA, proprietarul certificatului îți poate accesa
     <string name="camera_gesture_title">Două răsuciri pentru camera foto</string>
     <string name="camera_grip_firmware_need_update">Actualizați</string>
     <string name="camera_grip_firmware_new_version">Actualizat</string>
+    <string name="camera_grip_firmware_save_button_know">Am înțeles</string>
+    <string name="camera_grip_firmware_save_button_negaitive">Nu acum</string>
+    <string name="camera_grip_firmware_save_button_positive">Actualizează</string>
+    <string name="camera_grip_firmware_save_channel">Notificări pentru mânerul camerei</string>
+    <string name="camera_grip_firmware_save_networking_tips">Conectați-vă la Wi-Fi sau porniți datele mobile și încercați să actualizați din nou firmware-ul.</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">Actualizați firmware-ul pentru a continua să utilizați acest dispozitiv.</string>
+    <string name="camera_grip_firmware_save_title">Mâner profesional al camerei</string>
     <string name="camera_grip_firmware_title_text">Actualizați firmware-ul</string>
     <string name="camera_grip_firmware_update_describe">Păstrați mânerul conectat pe tot parcursul procesului de actualizare</string>
     <string name="camera_grip_firmware_update_faild">Nu s-a putut actualiza</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">Eliminați mânerul camerei, încărcați acest dispozitiv, apoi încercați să actualizați din nou firmware-ul</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">Încărcați acest dispozitiv și mânerul camerei înainte de a actualiza firmware-ul</string>
     <string name="camera_grip_firmware_update_ongoing">Se actualizează. Nu deconectați mânerul.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">Conectați încărcătorul la acest dispozitiv și încercați să actualizați din nou firmware-ul</string>
     <string name="camera_grip_firmware_update_successful">Actualizat cu succes</string>
     <string name="camera_key_action_app_title">Deschide aplicația</string>
     <string name="camera_key_action_category_title">Nu se poate utiliza Aparatul Foto</string>
@@ -3403,7 +3394,7 @@ Repornește dispozitivul și încearcă din nou."</string>
     <string name="ethernet_data_template">Date ethernet: ^1</string>
     <string name="ethernet_data_usage">Utilizarea datelor ethernet</string>
     <string name="ethernet_tether_checkbox_text">Partajează prin Ethernet</string>
-    <string name="ethernet_tethering_subtext">Partajați conexiunea de rețea a telefonului prin Ethernet</string>
+    <string name="ethernet_tethering_subtext">Permite accesul la conexiunea de internet a telefonului prin Ethernet</string>
     <string name="evening">După-amiază</string>
     <string name="every_day">În fiecare zi</string>
     <string name="exceptional_case">Excepții</string>
@@ -4742,10 +4733,6 @@ Deschideți Xiaomi Cloud și restabilește elementele de acolo."</string>
     <string name="load_esim_info">Se obțin informații despre eSIM…</string>
     <string name="load_esim_info_error">Nu s-au putut încărca informațiile eSIM. Așteptați un minut sau două și încercați din nou.</string>
     <string name="loading">Doar o secundă…</string>
-    <string name="loading_eid_error_message">Nu s-au putut obține informațiile EID. Așteptați un minut sau două și încercați din nou.</string>
-    <string name="loading_eid_error_ok">Am înțeles</string>
-    <string name="loading_eid_error_title">Nu s-a putut încărca</string>
-    <string name="loading_eid_tip">Se obțin informațiile EID…</string>
     <string name="loading_injected_setting_summary">Se încarcă…</string>
     <string name="local_auto_backup_off">Oprit</string>
     <string name="local_auto_backup_on">Pornit</string>
@@ -5145,6 +5132,8 @@ Dacă permisiunea este refuzată, sistemul va limita timpul în care aplicația 
     <string name="long_background_tasks_title">Activități de durată în fundal</string>
     <string name="long_press_back_key">Apăsați lung butonul Înapoi</string>
     <string name="long_press_buttom_key">Apăsați lung Acasă pe Ecranul de blocare</string>
+    <string name="long_press_editor_style_summary">Țineți apăsat Ecranul de blocare pentru a edita ceasul și imaginea de fundal</string>
+    <string name="long_press_editor_style_title">Țineți apăsat pentru a edita</string>
     <string name="long_press_home_key">Apăsați lung butonul Acasă</string>
     <string name="long_press_menu_key">Apăsați lung butonul Meniu</string>
     <string name="long_press_menu_key_when_lock">Apăsați lung pe Meniu pe Ecranul de blocare</string>
@@ -5685,8 +5674,6 @@ Continuați pentru a accesa setări adiționale."</string>
     <string name="miui_type_style_title">Stilul de tastare</string>
     <string name="miui_updater">Actualizare sistem</string>
     <string name="miui_userguide">Manual de utilizare</string>
-    <string name="miui_visual_perception_summary">Puneți dispozitivul să vă simtă prezența și să selectați opțiuni de blocare și deblocare mai convenabile</string>
-    <string name="miui_visual_perception_title">Percepție vizuală activă</string>
     <string name="miuix_access_state_desc">Selectat</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectează tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectează tot</string>
@@ -6646,8 +6633,10 @@ Citiți și acceptați %s înainte de a utiliza acest serviciu."</string>
     <string name="phone_language_summary" />
     <string name="photo_data">Fotografii și videoclipuri</string>
     <string name="photography_handle_button_function_settings">Configurați butonul de prindere</string>
-    <string name="photography_handle_charge_protected">Deconectare automată pentru încărcare prin mâner</string>
-    <string name="photography_handle_charge_protected_summary">Când dispozitivul recunoaște că utilizați un mâner pentru cameră, dispozitivul se va opri din încărcare și va menține bateria la %1$s</string>
+    <string name="photography_handle_charge_protected">Protecție la încărcare prin mâner</string>
+    <string name="photography_handle_charge_protected_summary">Când mânerul camerei este conectat, dispozitivul se va opri din încărcare și va menține bateria la %1$s</string>
+    <string name="photography_handle_charge_state">Încărcați din mânerele camerei</string>
+    <string name="photography_handle_charge_state_summary">Încărcați acest dispozitiv din mânerele camerei ori de câte ori sunt conectate</string>
     <string name="photography_handle_launch_and_take_photo">Faceți o fotografie</string>
     <string name="photography_handle_launch_camera">Deschide aparatul foto</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Țineți apăsat butonul declanșator pentru a efectua o acțiune</string>
@@ -6776,8 +6765,10 @@ apasă simultan pe butonul de pornire și pe cel de creștere a volumului"</stri
     <string name="pref_show_lunar_calendar_title">Afișează calendarul tradițional chinezesc pe Ecranul Blocat</string>
     <string name="pref_title_network_details">Detalii despre rețea</string>
     <string name="pref_title_update_notification">Notificări de utilizare a datelor</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Când ecranul este blocat, atingeți de două ori Volum jos pentru a deschide Aparat foto și faceți o fotografie</string>
     <string name="pref_volume_launch_camera_summary">Apăsați pe Volum jos de două ori pentru a lansa Aparatul foto</string>
     <string name="pref_volume_launch_camera_title">Lansează aparatul foto</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">Când ecranul este blocat, atingeți de două ori Volum jos pentru a deschide Aparat foto</string>
     <string name="pref_volume_wake_summary">Apăsarea butoanelor de volum va activa dispozitivul</string>
     <string name="pref_volume_wake_title">Activează cu butoanele de volum</string>
     <string name="preference_change_password_title">Schimbă parola</string>
@@ -7332,6 +7323,8 @@ Repornește dispozitivul și încearcă din nou."</string>
     <string name="safety_center_summary">Securitatea aplicației, blocarea dispozitivului, permisiuni</string>
     <string name="safety_center_title">Securitate și confidențialitate</string>
     <string name="sar">Informație Expunere RF</string>
+    <string name="satellite_call_assistant">Setări apel</string>
+    <string name="satellite_network_title">Funcții de apel prin satelit</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_first_day_of_week">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
@@ -7362,7 +7355,6 @@ Repornește dispozitivul și încearcă din nou."</string>
     <string name="screen_dark_mode_select_time_error_summary">Ora de începere și ora de încheiere nu pot fi aceleași</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Unele aplicații pot fi afișate incorect în Modul întunecat. Puteți restricționa utilizarea Modului întunecat pentru aplicații individuale aici.</string>
     <string name="screen_dark_mode_smart_dark_title">Mod întunecat general</string>
-    <string name="screen_dark_mode_time_summary">Dispozitivul dvs. va comuta la Modul întunecat în jurul orei programate când opriți ecranul</string>
     <string name="screen_dark_mode_time_title">Programează Modul Întunecat</string>
     <string name="screen_effect">Schemă culoare</string>
     <string name="screen_effect_adapt_color_summary">Reglați culorile în funcție de iluminarea curentă</string>
@@ -8486,6 +8478,11 @@ Atingeți de două ori pentru a deschide Recente."</string>
     <string name="sort_order_frequent_notification">Cele mai frecvente</string>
     <string name="sort_order_recent_notification">Cele mai recente</string>
     <string name="sort_order_size">Sortează după dimensiune</string>
+    <string name="sos_add_area_code_switch_summary">Adăugați automat prefixul la un număr de telefon atunci când efectuați un apel de urgență cu comunicațiile prin satelit Tiantong</string>
+    <string name="sos_add_area_code_switch_title">Adăugați automat prefixul zonal</string>
+    <string name="sos_area_code_settings_hint">Introduceți prefixul zonal</string>
+    <string name="sos_area_code_settings_summary">Setați manual prefixul de zonă al numărului de telefon al contactului dvs. de urgență</string>
+    <string name="sos_area_code_settings_title">Setați prefixul zonal</string>
     <string name="sos_phone_call_privacy_dialog_message">"Pentru a apela contactele dvs. de urgență și pentru a reda înregistrarea SOS, această aplicație are nevoie de următoarele permisiuni:
 • Efectuare apeluri
 Pentru efectuarea de apeluri la contactele dvs. de urgență
@@ -9794,10 +9791,6 @@ Atingeți pe plus pentru a adăuga cuvinte."</string>
     <string name="uwb_settings_title">Ultra-Wideband (UWB)</string>
     <string name="v7_preference_off">DEZACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
-    <string name="valid_net_access">Vizualizați acreditările de acces la rețea</string>
-    <string name="valid_net_ok">OK</string>
-    <string name="valid_net_result_fail">Nu s-au putut obține informații. Așteptați un minut sau două și încercați din nou.</string>
-    <string name="valid_net_result_title">Rezultat</string>
     <string name="verify_apps_over_usb_summary">Verifică aplicațiile instalate utilizând ADB/ADT, pentru a detecta un comportament dăunător.</string>
     <string name="verify_apps_over_usb_title">Verifică aplicațiile prin USB</string>
     <string name="version_text">versiunea %1$s</string>
@@ -10707,7 +10700,6 @@ Permiți acest lucru pentru toate aplicațiile care solicită scanarea?"</string
     <string name="winscope_trace_quick_settings_title">Urmă Winscope</string>
     <string name="wireless_connected">Conectat</string>
     <string name="wireless_debugging_main_switch_title">Folosește remedierea erorilor wireless</string>
-    <string name="wireless_display">Afișaj wireless</string>
     <string name="wireless_networks_settings_title">Wireless și rețele</string>
     <string name="wireless_off">Oprit</string>
     <string name="wireless_on">Pornit</string>

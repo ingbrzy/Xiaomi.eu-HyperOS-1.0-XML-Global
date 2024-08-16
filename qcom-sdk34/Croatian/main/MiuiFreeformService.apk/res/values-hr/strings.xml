@@ -218,7 +218,7 @@ zatim povucite za pomicanje"</string>
 · Dodirnite \"Plutajući prozori\" u Nedavnim za odabir aplikacija."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Dodirnite aplikaciju na bočnoj traci da biste je otvorili u plutajućem prozoru.
 · Povucite aplikaciju u središte zaslona da biste je otvorili u plutajućem prozoru ili u stranu da biste koristili Podijeljeni zaslon."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Povucite aplikaciju s bočnog izbornika do središta zaslona kako biste ju otvorili u plutajućem prozoru ili na stranu za korištenje Podijeljenog zaslona</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Povucite aplikaciju s bočnog izbornika do središta zaslona kako biste ju otvorili u plutajućem prozoru ili na stranu za korištenje Podijeljenog zaslona</string>
     <string name="freeform_vedio_description_pad">Odvucite stavke iz doka za otvaranje plutajućih prozora</string>
     <string name="friday">Petak</string>
     <string name="friday_short">Pet</string>
@@ -266,7 +266,6 @@ zatim povucite za pomicanje"</string>
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Poništi sve</string>
     <string name="miuix_appcompat_deselect_all_description">Poništi sve</string>
-    <string name="miuix_appcompat_edit">Uredi</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
     <string name="miuix_appcompat_search_input_description">Traži</string>
     <string name="miuix_appcompat_select_all">Odaberi sve</string>

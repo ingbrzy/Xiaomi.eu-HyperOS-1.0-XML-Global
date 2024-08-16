@@ -87,8 +87,6 @@ Detallar üçün Tənzimləmələri yoxlayın."</string>
     <string name="fast_connect_device_title_connecting">Qoşulur…</string>
     <string name="fast_connect_device_title_find_headset">Tap %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Görünüşə görə bu cihaz sizin deyil: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Qoşuldu</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Kamera</string>
     <string name="fast_connect_new_feture_anti_lost">Qulaqlıq siqnalı yoxdur</string>
     <string name="fast_connect_new_feture_same_account">Sinxronizasiya edilmiş cihazları qoşun</string>
     <string name="fast_connect_new_feture_sound_normalizer">Daha yaxşı səs</string>
@@ -182,7 +180,6 @@ Daha sürətli əlaqə protokolu."</string>
     <string name="headset_download_fw">Yenilə</string>
     <string name="headset_downloading">Endirilir…</string>
     <string name="headset_downloading_indicate">Endirilir…</string>
-    <string name="headset_dual_device">Qulaqlıqlar avtomatik qoşulur. İkili əlaqə söndürülüb.</string>
     <string name="headset_find_new_version">Yeniləmə mövcuddur</string>
     <string name="headset_finish_fw">Uğurla yeniləndi</string>
     <string name="headset_finish_fw_failed">Xəta baş verdi</string>
@@ -200,8 +197,8 @@ Daha sürətli əlaqə protokolu."</string>
     <string name="headset_updating">Yenilənir</string>
     <string name="information_go_to_fitness">Müvafiq tənzimləmələri Mi Fitness-də tapa bilərsiniz</string>
     <string name="install_package">Daha çox xüsusiyyət üçün \"%1$s\" quraşdırın</string>
-    <string name="lea_disable_successfully">Adi Bluetooth-a keçdi</string>
-    <string name="lea_enable_successfully">Bluetooth LE Audio-a keçdi</string>
+    <string name="lea_disable_successfully">Daimi Bluetooth indi qulaqlıqların qoşulması və səs ötürülməsi üçün istifadə olunur</string>
+    <string name="lea_enable_successfully">LE Audio indi qulaqlıqların qoşulması və səs ötürülməsi üçün istifadə olunur</string>
     <string name="mi_audio_relay_cancel">Oldu</string>
     <string name="mi_audio_relay_connect_failed">Yenidən cəhd et</string>
     <string name="mi_audio_relay_localphone">Bu cihaz</string>
@@ -251,7 +248,6 @@ Daha sürətli əlaqə protokolu."</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Bütün seçimi ləğv et</string>
     <string name="miuix_appcompat_deselect_all_description">Bütün seçimi ləğv et</string>
-    <string name="miuix_appcompat_edit">Düzəliş et</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ləğv et</string>
     <string name="miuix_appcompat_search_input_description">Axtar</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>

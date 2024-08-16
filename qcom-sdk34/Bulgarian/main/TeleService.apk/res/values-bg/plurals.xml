@@ -98,8 +98,4 @@
         <item quantity="one">"
 Имате още %d оставащ опит."</item>
     </plurals>
-    <plurals name="satellite_low_battery">
-        <item quantity="other">Нивото на батерията е под %1$s. Излизане от Сателитните комуникации Tiantong след %2$d секунди.</item>
-        <item quantity="one">Нивото на батерията е под %1$s. Излизане от Сателитните комуникации Tiantong след %2$d секунда.</item>
-    </plurals>
 </resources>

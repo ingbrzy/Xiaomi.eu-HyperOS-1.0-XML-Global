@@ -704,26 +704,6 @@ Modul: %2$s
     <string name="aod_style_description">Óra, dátum, idő, értesítések és egyéb elemek megjelenítése, amikor a kijelző ki van kapcsolva</string>
     <string name="aod_style_title">Stílus</string>
     <string name="aod_to_close">Kikapcsolás</string>
-    <string name="aon_gesture_cue_tone_summary">Megerősítő hang lejátszása, amikor a rendszer észleli a tenyerét</string>
-    <string name="aon_gesture_cue_tone_title">Megerősítő hang lejátszása</string>
-    <string name="aon_gesture_dialog_message">Ha ez a funkció be van kapcsolva, a készülék érzékeli és elemzi a kézmozdulatokat. Az Ön személyes adatait nem dolgozzuk fel, semmilyen adat nem kerül tárolásra sem helyben, sem a felhőben.</string>
-    <string name="aon_gesture_dialog_title">Adatvédelmi nyilatkozat</string>
-    <string name="aon_gesture_double_press_summary">Lejátszás és szüneteltetés</string>
-    <string name="aon_gesture_double_press_title">Végezzen dupla nyomó mozdulatot</string>
-    <string name="aon_gesture_draw_circle_summary_pad">A táblagépre átvitt hívások fogadása vagy befejezése</string>
-    <string name="aon_gesture_draw_circle_summary_phone">Hívások fogadása és befejezése</string>
-    <string name="aon_gesture_draw_circle_title">Kör rajzolása</string>
-    <string name="aon_gesture_enable_summary" formatted="false">Tartsa a kezét %d - %d cm-re a kamerától, majd amikor a kéz ikon megjelenik a képernyő tetején, végezze el a kézmozdulatotokat</string>
-    <string name="aon_gesture_learn_title">Útmutató a kézmozdulatokhoz</string>
-    <string name="aon_gesture_left_right_waving_summary">A lejátszás állapotának beállítása és váltás a dalok között</string>
-    <string name="aon_gesture_left_right_waving_title">Integetés vízszintesen</string>
-    <string name="aon_gesture_settings">Érintés nélküli kézmozdulatok</string>
-    <string name="aon_gesture_status_close">Ki</string>
-    <string name="aon_gesture_status_open">Be</string>
-    <string name="aon_gesture_supported_app_title">Támogatott alkalmazások</string>
-    <string name="aon_gesture_supported_title">Elérhető kézmozdulatok</string>
-    <string name="aon_gesture_up_down_waving_summary">A médialejátszó hangerejének beállítása, váltás rövid videók között, és a dokumentumok lapozása</string>
-    <string name="aon_gesture_up_down_waving_title">Integetés függőlegesen</string>
     <string name="ap_connect_failed">Csatlakozás sikertelen</string>
     <string name="ap_connected_battery_level">" | Akkumulátor %1$s"</string>
     <string name="ap_p2p_dialog_message">A jelenleg megosztott Wi-Fi-kapcsolat már használatban van. A személyes hotspot bekapcsolása előtt győződjön meg róla, hogy nem használ Wi-Fi Direct, Mi Share, Kivetítés vagy egyéb vezeték nélküli átviteli szolgáltatásokat.</string>
@@ -2022,10 +2002,21 @@ Ez hatással lehet a többi olyan alkalmazásra vagy beszélgetésre is, amelyek
     <string name="camera_gesture_title">A kamera eléréshez forgassa kétszer a csuklóját</string>
     <string name="camera_grip_firmware_need_update">Frissítés</string>
     <string name="camera_grip_firmware_new_version">Naprakész</string>
+    <string name="camera_grip_firmware_save_button_know">Értem</string>
+    <string name="camera_grip_firmware_save_button_negaitive">Nem most</string>
+    <string name="camera_grip_firmware_save_button_positive">Frissítés</string>
+    <string name="camera_grip_firmware_save_channel">Kamera markolat értesítések</string>
+    <string name="camera_grip_firmware_save_networking_tips">Csatlakozzon a Wi-Fi-hez vagy kapcsolja be a mobiladatot, és próbálja meg újra frissíteni a firmware-t.</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">Frissítse a firmware-t a készülék további használatához.</string>
+    <string name="camera_grip_firmware_save_title">Professzionális kameramarkolat</string>
     <string name="camera_grip_firmware_title_text">Firmware frissítése</string>
     <string name="camera_grip_firmware_update_describe">Tartsa a fogantyút összekötve a frissítési folyamat során</string>
     <string name="camera_grip_firmware_update_faild">Frissítés sikertelen</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">Távolítsa el a kamera markolatát, töltse fel a készüléket, majd próbálja meg újra frissíteni a firmware-t</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">A firmware frissítése előtt töltse fel ezt a készüléket és a kamera markolatát</string>
     <string name="camera_grip_firmware_update_ongoing">Frissítés. Ne válassza le a fogantyút.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">Csatlakoztassa a töltőt a készülékhez, és próbálja meg újra frissíteni a firmware-t</string>
     <string name="camera_grip_firmware_update_successful">Sikeresen frissítve</string>
     <string name="camera_key_action_app_title">Alkalmazásindítás</string>
     <string name="camera_key_action_category_title">Használja, ha a Kamera alkalmazás nem nyitható meg</string>
@@ -4739,10 +4730,6 @@ Nyissa meg a Xiaomi Cloudot és állítsa helyre az elemeket."</string>
     <string name="load_esim_info">eSIM információ beolvasása…</string>
     <string name="load_esim_info_error">Nem sikerült betölteni az eSIM információkat. Várjon néhány percet, majd próbálja újra.</string>
     <string name="loading">Egy pillanat…</string>
-    <string name="loading_eid_error_message">Nem sikerült az EID adatait lekérni. Várjon egy-két percet, majd próbálja újra.</string>
-    <string name="loading_eid_error_ok">Rendben</string>
-    <string name="loading_eid_error_title">Nem sikerült betölteni</string>
-    <string name="loading_eid_tip">EID információ beolvasása…</string>
     <string name="loading_injected_setting_summary">Betöltés…</string>
     <string name="local_auto_backup_off">Ki</string>
     <string name="local_auto_backup_on">Be</string>
@@ -5142,6 +5129,8 @@ Az engedély elutasításával a rendszer korlátozza majd annak időtartamát, 
     <string name="long_background_tasks_title">Hosszan futó háttérfeladatok</string>
     <string name="long_press_back_key">Vissza gomb hosszan nyomva</string>
     <string name="long_press_buttom_key">Home gomb hosszan nyomva lezárt képernyőnél</string>
+    <string name="long_press_editor_style_summary">Nyomja hosszan a képernyőzárat az óra és a háttérkép szerkesztéséhez</string>
+    <string name="long_press_editor_style_title">Nyomja hosszan a szerkesztéshez</string>
     <string name="long_press_home_key">Home gomb hosszan nyomva</string>
     <string name="long_press_menu_key">Menü gomb hosszan nyomva</string>
     <string name="long_press_menu_key_when_lock">Menü gomb hosszan nyomva lezárt képernyőnél</string>
@@ -5682,8 +5671,6 @@ A műveletet nem tudja visszavonni."</string>
     <string name="miui_type_style_title">Írásmód</string>
     <string name="miui_updater">Rendszerfrissítés</string>
     <string name="miui_userguide">Felhasználói útmutató</string>
-    <string name="miui_visual_perception_summary">Hagyja, hogy készüléke érzékelje jelenlétét, és válasszon kényelmesebb zárolási és feloldási lehetőségeket</string>
-    <string name="miui_visual_perception_title">Aktív vizuális észlelés</string>
     <string name="miuix_access_state_desc">Kiválasztott</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
@@ -6642,8 +6629,10 @@ A szolgáltatás használata előtt olvassa el és fogadja el a következőt: %s
     <string name="phone_language_summary" />
     <string name="photo_data">Fényképek és videók</string>
     <string name="photography_handle_button_function_settings">Állítsa be a tartó gombot</string>
-    <string name="photography_handle_charge_protected">Grip töltés automatikus leválasztása</string>
-    <string name="photography_handle_charge_protected_summary">Amikor a készülék felismeri, hogy kamera gripet használ, a készülék leállítja a töltést, és az akkumulátort %1$s szinten tartja</string>
+    <string name="photography_handle_charge_protected">Markolat töltésvédelem</string>
+    <string name="photography_handle_charge_protected_summary">Ha a kameramarkolat csatlakoztatva van, a készülék leállítja a töltést, és az akkumulátort %1$s szinten tartja.</string>
+    <string name="photography_handle_charge_state">Töltés a kamera markolatáról</string>
+    <string name="photography_handle_charge_state_summary">Készülék töltése a kamera markolatáról, amikor az csatlakoztatva van</string>
     <string name="photography_handle_launch_and_take_photo">Készítsen fényképet</string>
     <string name="photography_handle_launch_camera">Nyissa meg a kamerát</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Nyomja meg és tartsa lenyomva az exponálógombot egy művelet végrehajtásához</string>
@@ -6772,8 +6761,10 @@ Nyomja le egyszerre a bekapcsológombot és a hangerő növelése gombot."</stri
     <string name="pref_show_lunar_calendar_title">A hagyományos kínai naptár megjelenítése a zárolt képernyőn</string>
     <string name="pref_title_network_details">Hálózati információk</string>
     <string name="pref_title_update_notification">Adatforgalmi értesítés</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Ha a képernyő zárolva van, duplán koppintson a Hangerő le gombra a Kamera megnyitásához és fénykép készítéséhez</string>
     <string name="pref_volume_launch_camera_summary">Kamera eléréséhez nyomja meg kétszer a hangerő le gombot</string>
     <string name="pref_volume_launch_camera_title">A kamera indítása</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">Ha a képernyő zárolva van, duplán koppintson a Hangerő le gombra a Kamera megnyitásához</string>
     <string name="pref_volume_wake_summary">Nyomja meg a hangerőgombokat a készülék felébresztéséhez</string>
     <string name="pref_volume_wake_title">Felébresztés hangerőgombokkal</string>
     <string name="preference_change_password_title">Jelszó módosítása</string>
@@ -7328,6 +7319,8 @@ Indítsa újra az eszközt, majd próbálja újra."</string>
     <string name="safety_center_summary">Alkalmazásbiztonság, eszközzárolás, engedélyek</string>
     <string name="safety_center_title">Biztonság és adatvédelem</string>
     <string name="sar">Rádiófrekvenciás sugárzási információ</string>
+    <string name="satellite_call_assistant">Hívásbeállítások</string>
+    <string name="satellite_network_title">Műholdas hívás funkciók</string>
     <string name="saturday">Szombat</string>
     <string name="saturday_first_day_of_week">Szombat</string>
     <string name="saturday_short">Szo</string>
@@ -7358,7 +7351,6 @@ Indítsa újra az eszközt, majd próbálja újra."</string>
     <string name="screen_dark_mode_select_time_error_summary">A kezdés és a befejezés ideje nem lehet azonos</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Néhány alkalmazás lehet, hogy helytelenül kerül megjelenítésre Sötét módban. Itt korlátozhatja az egyes alkalmazások számára a Sötét módot.</string>
     <string name="screen_dark_mode_smart_dark_title">Teljesen sötét mód</string>
-    <string name="screen_dark_mode_time_summary">A készülék a képernyő kikapcsolásakor az ütemezett időpontban Sötét módba kapcsol</string>
     <string name="screen_dark_mode_time_title">Sötét mód ütemezése</string>
     <string name="screen_effect">Színséma</string>
     <string name="screen_effect_adapt_color_summary">Az aktuális fényviszonyokhoz igazítsa a színeket</string>
@@ -8482,6 +8474,11 @@ Az Előzmények megnyitásához koppintson duplán."</string>
     <string name="sort_order_frequent_notification">Leggyakoribb</string>
     <string name="sort_order_recent_notification">Legújabb</string>
     <string name="sort_order_size">Rendezés méret szerint</string>
+    <string name="sos_add_area_code_switch_summary">A körzetszám automatikus hozzáadása egy telefonszámhoz, amikor segélyhívást kezdeményez a Tiantong Satellite kommunikációs rendszerrel</string>
+    <string name="sos_add_area_code_switch_title">Körzetszám automatikus megadása</string>
+    <string name="sos_area_code_settings_hint">Körzetszám megadása</string>
+    <string name="sos_area_code_settings_summary">A Vészhelyzeti névjegyhez tartozó telefonszám körzetszámának manuális megadása</string>
+    <string name="sos_area_code_settings_title">Körzetszám beállítása</string>
     <string name="sos_phone_call_privacy_dialog_message">"A vészhelyzet esetén értesítendő személyek és SOS-felvétel rögzítéséhez az alkalmazásnak a következő engedélyekre van szüksége:
 • Hívásindítás
 A vészhelyzet esetén értesítendő személyek felhívása
@@ -9788,10 +9785,6 @@ Hozzáadáshoz érintse meg a + gombot."</string>
     <string name="uwb_settings_title">Ultraszélessáv (UWB)</string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
-    <string name="valid_net_access">Hálózati hozzáférés azoonsítók megtekintése</string>
-    <string name="valid_net_ok">OK</string>
-    <string name="valid_net_result_fail">Nem sikerült az adatokat lekérni. Várjon egy-két percet, majd próbálja újra.</string>
-    <string name="valid_net_result_title">Eredmény</string>
     <string name="verify_apps_over_usb_summary">Az ADB/ADT útján telepített alkalmazások ellenőrzése kártékony viselkedésre.</string>
     <string name="verify_apps_over_usb_title">USB-n keresztül telepített alkalmazások ellenőrzése</string>
     <string name="version_text">Verzió: %1$s</string>
@@ -10701,7 +10694,6 @@ Engedélyezi ezt az összes olyan alkalmazásnál, amely keresést akar végezni
     <string name="winscope_trace_quick_settings_title">Winscope Trace</string>
     <string name="wireless_connected">Csatlakozva</string>
     <string name="wireless_debugging_main_switch_title">Vezeték nélküli hibakeresés használata</string>
-    <string name="wireless_display">Vezeték nélküli kijelző</string>
     <string name="wireless_networks_settings_title">Vezeték nélküli és egyéb hálózatok</string>
     <string name="wireless_off">Ki</string>
     <string name="wireless_on">Be</string>

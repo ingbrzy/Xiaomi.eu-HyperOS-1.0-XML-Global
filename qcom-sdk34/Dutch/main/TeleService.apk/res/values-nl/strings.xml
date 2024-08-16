@@ -1001,8 +1001,8 @@ Je kunt nog steeds noodoproepen plaatsen."</string>
     <string name="mobile_networks">Mobiele netwerkinstellingen</string>
     <string name="mobile_property">Eigenschappen mobiel netwerk</string>
     <string name="mobile_settings_screen_title">Mobiele data</string>
-    <string name="mobile_special_network_optimization_config_summary">"Neem intelligent meerdere scenario's in het netwerk waar om de communicatie-ervaring te verbeteren"</string>
-    <string name="mobile_special_network_optimization_config_title">Scène-adaptieve modus</string>
+    <string name="mobile_special_network_optimization_config_summary">Verbeter de gesprekskwaliteit door zich automatisch aan te passen aan verschillende scènes</string>
+    <string name="mobile_special_network_optimization_config_title">Aanpassen aan verschillende scènes</string>
     <string name="modem_dialog_body">Mobiel netwerk is onstabiel wat leidt tot onderbrekingen en netwerkproblemen. Feedback voor een Mi-analyse versturen? Dit rapport kan persoonlijk identificeerbare informatie bevatten. Uw rapport zal worden gebruikt om ons te helpen deze systeemfout op te lossen en zal nooit voor commerciële doeleinden worden gedeeld.</string>
     <string name="modem_dialog_title">Mobiel netwerk is onstabiel</string>
     <string name="monday">Maandag</string>
@@ -1574,7 +1574,6 @@ UT-interface: %5$s"</string>
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">Nu afsluiten</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">Batterij laag</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">Niet meer tonen</string>
@@ -1582,7 +1581,7 @@ UT-interface: %5$s"</string>
     <string name="satellite_notification_title">U bevindt zich in een gebied met zwak signaal</string>
     <string name="satellite_point_title">Turn on Tiantong Satellite communications</string>
     <string name="satellite_select_enable_sim">SIM-kaart selecteren</string>
-    <string name="satellite_signal_boost_setting_summary">Enhance signal strength and stability in cloudy or other non-optimal weather conditions</string>
+    <string name="satellite_signal_boost_setting_summary">Verbeter de signaalsterkte en stabiliteit bij bewolkte of andere niet-optimale weersomstandigheden</string>
     <string name="satellite_signal_boost_setting_title">Use Tiantong signal amplifier</string>
     <string name="satellite_start">Begrepen</string>
     <string name="satellite_start_battery">Begrepen</string>

@@ -724,10 +724,9 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="terms_of_use_label_translation">Υπηρεσία μετάφρασης</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">Υπηρεσία Ενημέρωσης Συστήματος (ελέγχει για ενημερώσεις στο διαδίκτυο και ειδοποιεί για νέες εκδόσεις)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">Πριν χρησιμοποιήσετε το σύστημα, διαβάστε και αποδεχτείτε τη Συμφωνία Χρήστη και την Πολιτική Απορρήτου οι οποίες καλύπτουν εφαρμογές Xiaomi που είναι προεγκατεστημένες στη συσκευή σας (π.χ. Συλλογή, Mi Μουσική, Mi Browser, Mi Βίντεο, Θέματα κ.λπ.). Θα προστατεύσουμε τις προσωπικές σας πληροφορίες σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου. Όταν η συσκευή σας είναι ενεργοποιημένη, οι ακόλουθες υπηρεσίες θα συνδεθούν στο δίκτυο και θα αποκτήσουν πρόσβαση στην τοποθεσία σας:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Πριν χρησιμοποιήσετε το σύστημα, πρέπει να διαβάσετε και να αποδεχτείτε τη Συμφωνία Χρήστη και την Πολιτική Απορρήτου μας. Θα προστατεύσουμε τις προσωπικές σας πληροφορίες σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου. Όταν η συσκευή σας είναι ενεργοποιημένη, οι ακόλουθες υπηρεσίες θα συνδεθούν στο δίκτυο και θα αποκτήσουν πρόσβαση στην τοποθεσία σας:</string>
     <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Ταπετσαρία</string>
-    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Πρέπει να αποδεχτείτε την Πολιτική Απορρήτου του Facemoji πριν χρησιμοποιήσετε αυτή τη λειτουργία."</string>

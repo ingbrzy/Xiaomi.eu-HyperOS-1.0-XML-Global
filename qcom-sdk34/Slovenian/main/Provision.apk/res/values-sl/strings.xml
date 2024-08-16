@@ -724,10 +724,9 @@ To funkcijo lahko nadzorujete v Nastavitvah > Gesla in varnost > Zasebnost > Upo
     <string name="terms_of_use_label_translation">Storitev prevajanja</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">Storitev za posodobitev sistema (preverja za posodobitve na spletu in obvešča o novih različicah)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">Pred uporabo sistema morate prebrati in se strinjati z našim Uporabniškim dogovorom in Pravilnikom o zasebnosti, ki zajemata aplikacije Xiaomi, vnaprej nameščene v vaši napravi (npr. Galerija, Mi Glasba, Mi Brskalnik, Mi Video, Teme itd.). Vaše osebne podatke bomo varovali v skladu z ustreznimi zakoni, predpisi in pravilniki o zasebnosti. Ko je vaša naprava aktivirana, se bodo naslednje storitve povezale na omrežje ter dostopale do vaše lokacije:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Pred uporabo sistema morate prebrati in se strinjati z našim Uporabniškim dogovorom in Pravilnikom o zasebnosti. Vaše osebne podatke bomo varovali v skladu z ustreznimi zakoni, predpisi in pravilnikom o zasebnosti. Ko je vaša naprava aktivirana, se bodo naslednje storitve povezale na omrežje ter dostopale do vaše lokacije:</string>
     <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Ozadje</string>
-    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Morate se strinjati z Facemoji Pravilnikom o zasebnosti pred uporabo te funkcije."</string>

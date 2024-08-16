@@ -218,7 +218,7 @@ a continuació, arrossegueu per moure"</string>
 · Toqueu \"Finestres flotants\" a Recents per seleccionar aplicacions."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Toqueu una aplicació a la barra lateral per obrir-la en una finestra flotant.
 · Arrossegueu una aplicació al centre de la pantalla per obrir-la en una finestra flotant o cap al costat per utilitzar la Pantalla dividida."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Arrossegueu una aplicació des de la barra lateral fins al centre de la pantalla per obrir-la en una finestra flotant o cap al costat per utilitzar la pantalla dividida</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Arrossegueu una aplicació des de la barra lateral fins al centre de la pantalla per obrir-la en una finestra flotant o cap al costat per utilitzar la pantalla dividida</string>
     <string name="freeform_vedio_description_pad">Arrossegueu els elements fora de la base per obrir finestres flotants</string>
     <string name="friday">divendres</string>
     <string name="friday_short">dv.</string>
@@ -266,7 +266,6 @@ a continuació, arrossegueu per moure"</string>
     <string name="miuix_appcompat_delete_description">Suprimeix</string>
     <string name="miuix_appcompat_deselect_all">Deseleccionar tot</string>
     <string name="miuix_appcompat_deselect_all_description">Desseleccioneu-ho tot</string>
-    <string name="miuix_appcompat_edit">Edita</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel·leu</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="miuix_appcompat_select_all">Seleccioneu-ho tot</string>

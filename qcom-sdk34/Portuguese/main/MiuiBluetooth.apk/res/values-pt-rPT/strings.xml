@@ -116,8 +116,6 @@ Verifique as Definições para detalhes."</string>
     <string name="fast_connect_device_title_connecting">A ligar…</string>
     <string name="fast_connect_device_title_find_headset">Encontrar %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Parece que este dispositivo não é seu: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Ligado</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Câmara</string>
     <string name="fast_connect_new_feture_anti_lost">Alerta de auricular ausente</string>
     <string name="fast_connect_new_feture_same_account">Ligar dispositivos sincronizados</string>
     <string name="fast_connect_new_feture_sound_normalizer">Som aprimorado</string>
@@ -211,7 +209,6 @@ Protocolo de ligação mais ágil."</string>
     <string name="headset_download_fw">Atualizar</string>
     <string name="headset_downloading">A transferir</string>
     <string name="headset_downloading_indicate">A transferir…</string>
-    <string name="headset_dual_device">Auriculares ligados automaticamente. Ligação dupla desligada.</string>
     <string name="headset_find_new_version">Uma atualização está disponível</string>
     <string name="headset_finish_fw">Atualizado com sucesso</string>
     <string name="headset_finish_fw_failed">Ocorreu um erro</string>
@@ -229,8 +226,8 @@ Protocolo de ligação mais ágil."</string>
     <string name="headset_updating">A atualizar</string>
     <string name="information_go_to_fitness">Pode localizar as definições relacionadas na Mi Fitness</string>
     <string name="install_package">Instalar %1$s para mais funções</string>
-    <string name="lea_disable_successfully">Alterado para Bluetooth regular</string>
-    <string name="lea_enable_successfully">Alterado para Áudio Bluetooth LE</string>
+    <string name="lea_disable_successfully">O Bluetooth regular agora é utilizado para a ligação de auriculares e transmissão de áudio</string>
+    <string name="lea_enable_successfully">O Áudio LE agora é utilizado para a ligação de auriculares e transmissão de áudio</string>
     <string name="mi_audio_relay_cancel">OK</string>
     <string name="mi_audio_relay_connect_failed">Tentar novamente</string>
     <string name="mi_audio_relay_localphone">Este dispositivo</string>
@@ -280,7 +277,6 @@ Protocolo de ligação mais ágil."</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
     <string name="miuix_appcompat_deselect_all">Desmarcar tudo</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar tudo</string>
-    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
     <string name="miuix_appcompat_select_all">Selecionar tudo</string>

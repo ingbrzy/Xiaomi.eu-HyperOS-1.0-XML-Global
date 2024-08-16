@@ -704,26 +704,6 @@ Valdiklis: %2$s
     <string name="aod_style_description">Rodyti laikrodį, datą, laiką, pranešimus ir kitus elementus, kai ekranas išjungtas</string>
     <string name="aod_style_title">Stilius</string>
     <string name="aod_to_close">Išjungti</string>
-    <string name="aon_gesture_cue_tone_summary">Groti patvirtinimo garsą, kai aptiktas delno judesys</string>
-    <string name="aon_gesture_cue_tone_title">Groti patvirtinimo garsą</string>
-    <string name="aon_gesture_dialog_message">Kai ši funkcija įjungta, įrenginys aptiks ir analizuos jūsų gestus. Jūsų asmeninė informacija nebus apdorojama, jokie duomenys nebus saugomi įrenginyje arba debesyje.</string>
-    <string name="aon_gesture_dialog_title">Privatumo pareiškimas</string>
-    <string name="aon_gesture_double_press_summary">Paleiskite ir sustabdykite atkūrimą</string>
-    <string name="aon_gesture_double_press_title">Dvigubo paspaudimo judesys</string>
-    <string name="aon_gesture_draw_circle_summary_pad">Atsakykite arba užbaikite skambučius, kurie buvo perduoti į planeštinį kompiuterį</string>
-    <string name="aon_gesture_draw_circle_summary_phone">Atsakykite arba užbaikite skambutį</string>
-    <string name="aon_gesture_draw_circle_title">Apskritimo piešimas</string>
-    <string name="aon_gesture_enable_summary" formatted="false">Laikykite savo ranką %d–%d cm atstumu nuo fotoaparato ir, ekrano viršuje atsiradus rankos piktogramai, rodykite gestus</string>
-    <string name="aon_gesture_learn_title">Išmokti gestus</string>
-    <string name="aon_gesture_left_right_waving_summary">Pareguliuokite atkūrimo progresą ir perjunkite dainas</string>
-    <string name="aon_gesture_left_right_waving_title">Mojavimas horizontaliai</string>
-    <string name="aon_gesture_settings">Bekontakčiai gestai</string>
-    <string name="aon_gesture_status_close">Išjungta</string>
-    <string name="aon_gesture_status_open">Įjungta</string>
-    <string name="aon_gesture_supported_app_title">Palaikomos programos</string>
-    <string name="aon_gesture_supported_title">Galimi gestai</string>
-    <string name="aon_gesture_up_down_waving_summary">Pareguliuokite medijų garsą, perjunkite trumpus vaizdo įrašus ir verskite dokumentų puslapius</string>
-    <string name="aon_gesture_up_down_waving_title">Mojavimas vertikaliai</string>
     <string name="ap_connect_failed">Nepavyko prisijungti</string>
     <string name="ap_connected_battery_level">" | Akumuliatoriaus %1$s"</string>
     <string name="ap_p2p_dialog_message">Šiuo metu bendrinama „Wi-Fi“ jungtis jau naudojama. Prieš jungdami asmeninę aktyviąją sritį, įsitikinkite, kad nenaudojate Tiesioginio „Wi-Fi“ ryšio, „Mi Share“, perdavimo ar kitų bevielių perdavimo paslaugų.</string>
@@ -2022,10 +2002,21 @@ Jei įdiegsite CA sertifikatą, jo savininkas galės pasiekti jūsų duomenis (n
     <string name="camera_gesture_title">Dukart pasukti, kad fotoap. pr. būtų at.</string>
     <string name="camera_grip_firmware_need_update">Atnaujinti</string>
     <string name="camera_grip_firmware_new_version">Naujinimų nėra</string>
+    <string name="camera_grip_firmware_save_button_know">Supratau</string>
+    <string name="camera_grip_firmware_save_button_negaitive">Ne dabar</string>
+    <string name="camera_grip_firmware_save_button_positive">Atnaujinti</string>
+    <string name="camera_grip_firmware_save_channel">Fotoaparato rankenos pranešimai</string>
+    <string name="camera_grip_firmware_save_networking_tips">Prisijunkite prie „Wi-Fi“ arba įjunkite mobiliuosius duomenis ir dar kartą pabandykite atnaujinti programinę aparatinę įrangą.</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">Norėdami toliau naudotis šiuo įrenginiu atnaujinkite programinę aparatinę įrangą.</string>
+    <string name="camera_grip_firmware_save_title">Profesionalaus fotoaparato rankena</string>
     <string name="camera_grip_firmware_title_text">Atnaujinti programinę aparatinę įrangą</string>
     <string name="camera_grip_firmware_update_describe">Atnaujinimo proceso metu laikykite laikiklį prijungtą</string>
     <string name="camera_grip_firmware_update_faild">Nepavyko atnaujinti</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">Nuimkite fotoaparato rankeną, įkraukite šį įrenginį, tada bandykite dar kartą atnaujinti programinę aparatinę įrangą.</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">Prieš atnaujindami programinę aparatinę įrangą, įkraukite šį įrenginį ir fotoaparato rankeną.</string>
     <string name="camera_grip_firmware_update_ongoing">Naujinama. Neatjunkite laikiklio.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">Prijunkite įkroviklį prie šio įrenginio ir pabandykite dar kartą atnaujinti programinę aparatinę įrangą.</string>
     <string name="camera_grip_firmware_update_successful">Sėkmingai atnaujinta</string>
     <string name="camera_key_action_app_title">Atidaryti programą</string>
     <string name="camera_key_action_category_title">Nepavyksta naudoti fotoaparato</string>
@@ -3409,7 +3400,7 @@ Paleiskite įrenginį iš naujo ir bandykite dar kartą."</string>
     <string name="ethernet_data_template">^1 eterneto duomenų</string>
     <string name="ethernet_data_usage">Eterneto duomenų naudojimas</string>
     <string name="ethernet_tether_checkbox_text">Bendrinti per eternetą</string>
-    <string name="ethernet_tethering_subtext">Per eternetą bendrinkite telefono tinklo jungtį</string>
+    <string name="ethernet_tethering_subtext">Bendrinkite telefono interneto ryšį eternetu</string>
     <string name="evening">Popietė</string>
     <string name="every_day">Kasdien</string>
     <string name="exceptional_case">Išimtys</string>
@@ -4748,10 +4739,6 @@ Atidarykite „Xiaomi debesį“ ir atkurkite elementus iš ten."</string>
     <string name="load_esim_info">Gaunama eSIM informacija…</string>
     <string name="load_esim_info_error">Nepavyko įkelti eSIM informacijos. Minutėlę palaukite ir pabandykite dar kartą.</string>
     <string name="loading">Sekundėlę…</string>
-    <string name="loading_eid_error_message">Nepavyko gauti EID informacijos. Minutėlę palaukite ir pabandykite dar kartą.</string>
-    <string name="loading_eid_error_ok">Supratau</string>
-    <string name="loading_eid_error_title">Nepavyko įkelti</string>
-    <string name="loading_eid_tip">Gaunama EID informacija…</string>
     <string name="loading_injected_setting_summary">Įkeliama…</string>
     <string name="local_auto_backup_off">Išj.</string>
     <string name="local_auto_backup_on">Įj.</string>
@@ -5151,6 +5138,8 @@ Atmetus šį leidimą sistema apribos, kiek laiko programa gali vykdyti tokias u
     <string name="long_background_tasks_title">Ilgai trunkančios užduotys fone</string>
     <string name="long_press_back_key">Palaikykite nuspaudę grįžimo mygtuką</string>
     <string name="long_press_buttom_key">Užrakto ekrane ilgu paspaudimu palaikykite „Pagrindinis“ mygtuką</string>
+    <string name="long_press_editor_style_summary">Norėdami redaguoti laikrodį ir fono paveikslėlį, paspauskite ir palaikykite ant užrakto ekrano</string>
+    <string name="long_press_editor_style_title">Norėdami redaguoti, paspauskite ir palaikykite</string>
     <string name="long_press_home_key">Palaikykite nuspaudę mygtuką „Pagrindinis“</string>
     <string name="long_press_menu_key">Ilgai palaikykite nuspaudę „Meniu“ mygtuką</string>
     <string name="long_press_menu_key_when_lock">Užrakto ekrane ilgai palaikykite nuspaudę „Meniu“</string>
@@ -5691,8 +5680,6 @@ Norėdami pasiekti papildomus parametrus – tęskite."</string>
     <string name="miui_type_style_title">Rašymo stilius</string>
     <string name="miui_updater">Sisteminis naujinimas</string>
     <string name="miui_userguide">Naudotojo vadovas</string>
-    <string name="miui_visual_perception_summary">Leiskite įrenginiui pajusti jūsų buvimą ir parinkti patogesnes užrakinimo ir atrakinimo parinktis</string>
-    <string name="miui_visual_perception_title">Aktyvus vizualinis suvokimas</string>
     <string name="miuix_access_state_desc">Pasirinkta</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Atžymėti viską</string>
     <string name="miuix_appcompat_action_mode_select_all">Pasirinkti viską</string>
@@ -6651,8 +6638,10 @@ Prieš naudodami šią paslaugą perskaitykite ir sutikite su %s."</string>
     <string name="phone_language_summary" />
     <string name="photo_data">Nuotraukos ir vaizdo įrašai</string>
     <string name="photography_handle_button_function_settings">Nustatyti laikiklio mygtuką</string>
-    <string name="photography_handle_charge_protected">Laikiklio įkraunamas automatinis atjungimas</string>
-    <string name="photography_handle_charge_protected_summary">Kai jūsų įrenginys atpažįsta, kad naudojate fotoaparato laikiklį, įrenginys nustoja krautis ir akumuliatorių laiko %1$s</string>
+    <string name="photography_handle_charge_protected">Laikiklio krovimo apsauga</string>
+    <string name="photography_handle_charge_protected_summary">Kai įjungtas fotoaparato laikiklis, įrenginys nustos krautis ir baterija išliks %1$s</string>
+    <string name="photography_handle_charge_state">Kraukite iš fotoaparato laikiklių</string>
+    <string name="photography_handle_charge_state_summary">Kai tik prijungti fotoaparato laikikliai, kraukite šį įrenginį iš jų</string>
     <string name="photography_handle_launch_and_take_photo">Fotografuoti</string>
     <string name="photography_handle_launch_camera">Atidaryti fotoaparatą</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Paspauskite ir palaikykite fotografavimo mygtuką ir veiksmas bus įvykdytas</string>
@@ -6781,8 +6770,10 @@ paspauskite maitinimo ir garsumo mygtukus tuo pačiu metu"</string>
     <string name="pref_show_lunar_calendar_title">Rdyti tradicinį kinų kalendorių užrakto ekrane</string>
     <string name="pref_title_network_details">Išsami tinklo info.</string>
     <string name="pref_title_update_notification">Duomenų naudojimo perspėjimai</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Ekranui esant užrakintam, norėdami atidaryti fotoaparatą ir fotografuoti dukart palieskite garsumo mažinimo mygtuką</string>
     <string name="pref_volume_launch_camera_summary">Norėdami paleisti fotoaparatą, dukart spustelėkite garsumo mažinimo mygtuką</string>
     <string name="pref_volume_launch_camera_title">Fotoaparato paleidimas</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">Ekranui esant užrakintam, norėdami atidaryti fotoaparatą dukart palieskite garsumo mažinimo mygtuką</string>
     <string name="pref_volume_wake_summary">Įrenginio pažadinimas garsumo mygtukų paspaudimu</string>
     <string name="pref_volume_wake_title">Pažadinti garsumo mygtukais</string>
     <string name="preference_change_password_title">Keisti slaptažodį</string>
@@ -7337,6 +7328,8 @@ Paleiskite įrenginį iš naujo ir bandykite dar kartą."</string>
     <string name="safety_center_summary">Programų saugumas, įrenginio užraktas, leidimai</string>
     <string name="safety_center_title">Sauga ir privatumas</string>
     <string name="sar">RD poveikio informacija</string>
+    <string name="satellite_call_assistant">Skambučių nustatymai</string>
+    <string name="satellite_network_title">Palydovinio skambučio funkcijos</string>
     <string name="saturday">Šeštadienis</string>
     <string name="saturday_first_day_of_week">Šeštadienis</string>
     <string name="saturday_short">Št.</string>
@@ -7367,7 +7360,6 @@ Paleiskite įrenginį iš naujo ir bandykite dar kartą."</string>
     <string name="screen_dark_mode_select_time_error_summary">Pradžios ir pabaigos laikas negali sutapti</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Tamsaus režimo metu kai kurios programos gali būti rodomos netinkamai. Atskirų programų naktinio režimo naudojimą galite apriboti čia.</string>
     <string name="screen_dark_mode_smart_dark_title">Visuotinis tamsus režimas</string>
-    <string name="screen_dark_mode_time_summary">Jūsų įrenginys persijungs į tamsų režimą maždaug tuo metu, kai išjungsite ekraną</string>
     <string name="screen_dark_mode_time_title">Suplanuoti tamsų režimą</string>
     <string name="screen_effect">Spalvų schema</string>
     <string name="screen_effect_adapt_color_summary">Derinti spalvas pagal dabartinį apšvietimą</string>
@@ -8492,6 +8484,11 @@ Dukart bakstelėkite, kad atidarytumėte „Naujausi“."</string>
     <string name="sort_order_frequent_notification">Dažniausios</string>
     <string name="sort_order_recent_notification">Naujausios</string>
     <string name="sort_order_size">Rūšiuoti pagal dydį</string>
+    <string name="sos_add_area_code_switch_summary">Automatiškai pridėkite vietovės kodą prie telefono numerio, kai atliekate pagalbos skambutį naudojant „Tiantong Satellite“ ryšį</string>
+    <string name="sos_add_area_code_switch_title">Pridėti vietovės kodą automatiškai</string>
+    <string name="sos_area_code_settings_hint">Įveskite vietovės kodą</string>
+    <string name="sos_area_code_settings_summary">Rankiniu būdu nustatykite kontakto nelaimės atveju telefono numerio vietovės kodą</string>
+    <string name="sos_area_code_settings_title">Nustatyti vietovės kodą</string>
     <string name="sos_phone_call_privacy_dialog_message">"Skambučiams jūsų pagalbos konktaktams ir SOS įrašo paleidimui šiai programai reikalingi toliau nurodyti leidimai:•Skambučių
 Skambučiams jūsų pagalbos kontaktams
 •Įrenginio būsenos stebėjimo
@@ -9811,10 +9808,6 @@ Bakstelėkite pliusą, kad pridėtumėte žodžių."</string>
     <string name="uwb_settings_title">Ultraplačiajuostė ryšio technologija (UWB)</string>
     <string name="v7_preference_off">IŠJUNGTA</string>
     <string name="v7_preference_on">ĮJUNGTA</string>
-    <string name="valid_net_access">Peržiūrėti tinklo prieigos kredencialus</string>
-    <string name="valid_net_ok">Gerai</string>
-    <string name="valid_net_result_fail">Nepavyko gauti informacijos. Minutėlę palaukite ir pabandykite dar kartą.</string>
-    <string name="valid_net_result_title">Rezultatas</string>
     <string name="verify_apps_over_usb_summary">Patikrinkite, ar programų, įdiegtų naudojant ADB / ADT, veikimas nėra žalingas.</string>
     <string name="verify_apps_over_usb_title">Patvirtinti progr. naudojant USB</string>
     <string name="version_text">%1$s versija</string>
@@ -10578,9 +10571,9 @@ taip pat galite naudoti kitų naudotojų pasidalintus tinklus."</string>
     <string name="wifi_tether_carrier_unsupport_dialog_content">Jei reikia išsamios informacijos, susisiekite su operatoriumi</string>
     <string name="wifi_tether_carrier_unsupport_dialog_title">Įrenginio kaip modemo naudojimas nepasiekiamas</string>
     <string name="wifi_tether_checkbox_kddi_text">Bendrasis „Wi-Fi“ ryšys</string>
-    <string name="wifi_tether_checkbox_text">Belaidis internetas</string>
+    <string name="wifi_tether_checkbox_text">Aktyvioji sritis</string>
     <string name="wifi_tether_configure_ap_kddi_text">Įdiegti bendrajį „Wi-Fi“ ryšį</string>
-    <string name="wifi_tether_configure_ap_text">Sukurti belaidį internetą</string>
+    <string name="wifi_tether_configure_ap_text">Sukurti aktyviąją sritį</string>
     <string name="wifi_tether_configure_ssid_default">„AndroidHotspot“</string>
     <string name="wifi_tether_configure_subtext">%1$s%2$s nešiojama aktyvioji sritis</string>
     <string name="wifi_tether_enabled_nosecurity_summary">%1$s nėra užšifruotas</string>
@@ -10589,7 +10582,7 @@ taip pat galite naudoti kitų naudotojų pasidalintus tinklus."</string>
     <string name="wifi_tether_failed_subtext">Aktyviosios srities klaida</string>
     <string name="wifi_tether_high_temperature_toast">Jūsų įrenginys perkaito. Šiuo metu negalima naudoti šios funkcijos.</string>
     <string name="wifi_tether_setting_title">Parametrai</string>
-    <string name="wifi_tether_settings_title">Belaidis internetas</string>
+    <string name="wifi_tether_settings_title">Aktyvioji sritis</string>
     <string name="wifi_tether_starting">Įjungiamas viešosios interneto prieigos taškas…</string>
     <string name="wifi_tether_stopping">Išjungiamas viešosios interneto prieigos taškas…</string>
     <string name="wifi_time_remaining">Liko %1$s</string>
@@ -10724,7 +10717,6 @@ taip pat galite naudoti kitų naudotojų pasidalintus tinklus."</string>
     <string name="winscope_trace_quick_settings_title">„Winscope“ pėdsakas</string>
     <string name="wireless_connected">Prisijungta</string>
     <string name="wireless_debugging_main_switch_title">Belaidžio ryšio derinimo naudojimas</string>
-    <string name="wireless_display">Belaidis ekranas</string>
     <string name="wireless_networks_settings_title">Belaidis ryšys ir tinklai</string>
     <string name="wireless_off">Išj.</string>
     <string name="wireless_on">Įj.</string>

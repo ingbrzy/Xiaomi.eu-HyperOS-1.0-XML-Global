@@ -218,7 +218,7 @@
 · Нажмите \"Плавающие окна\" в Недавних для выбора приложений."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Коснитесь приложения на боковой панели, чтобы открыть его в плавающем окне.
 · Перетащите приложение в центр экрана, чтобы открыть его в плавающем окне, или к краю экрана, чтобы включить режим разделения экрана."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Перетащите приложение с боковой панели в центр экрана, чтобы открыть его в плавающем окне, или к краю, чтобы включить режим разделения экрана.</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Перетащите приложение с боковой панели в центр экрана, чтобы открыть его в плавающем окне, или к краю, чтобы включить режим разделения экрана</string>
     <string name="freeform_vedio_description_pad">Перетащите объект из панели приложений, чтобы открыть его в плавающем окне</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
@@ -266,7 +266,6 @@
     <string name="miuix_appcompat_delete_description">Удалить</string>
     <string name="miuix_appcompat_deselect_all">Отменить выбор</string>
     <string name="miuix_appcompat_deselect_all_description">Снять выбор</string>
-    <string name="miuix_appcompat_edit">Изменить</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>

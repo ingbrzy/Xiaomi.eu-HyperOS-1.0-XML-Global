@@ -996,8 +996,8 @@
     <string name="mobile_networks">إعدادات شبكة الجوال</string>
     <string name="mobile_property">خصائض شبكات الجوال</string>
     <string name="mobile_settings_screen_title">بيانات الهاتف</string>
-    <string name="mobile_special_network_optimization_config_summary">قم بتحسين تجربة الاتصال الخاصة بك من خلال التعرف بذكاء على سيناريوهات الشبكة المتعددة</string>
-    <string name="mobile_special_network_optimization_config_title">وضع التكيف مع المشهد</string>
+    <string name="mobile_special_network_optimization_config_summary">قم بتحسين جودة المكالمة من خلال التكيف التلقائي مع المشهد الحالي</string>
+    <string name="mobile_special_network_optimization_config_title">التكيف مع مشاهد مختلفة</string>
     <string name="modem_dialog_body">شبكة الجوال غير مستقرة مما تسبب في انقطاع أو مشاكل في الشبكة. هل تريد الإبلاغ عن خلل إلى Mi للتحليل؟ قد يتضمن هذا التقرير معلومات التعريف الشخصية. سيُستخدم تقريرك للمساعدة في إصلاح هذه المشكلة ولن يتم مشاركتة ابدا في أي محتوى تجاري.</string>
     <string name="modem_dialog_title">شبكة الجوال غير مستقرة</string>
     <string name="monday">الإثنين</string>
@@ -1569,7 +1569,6 @@
     <string name="satellite_camera_enable_toast">Close Camera before opening Tiantong Satellite communications</string>
     <string name="satellite_exit_now_battery">خروج الآن</string>
     <string name="satellite_findout_settings_title">About Tiantong Satellite communications</string>
-    <string name="satellite_low_battery_reminder">البطارية منخفضة</string>
     <string name="satellite_mobile_settings_summary">Only supports satellite-enabled SIM cards from China Telecom or other supported carriers</string>
     <string name="satellite_mobile_settings_title">Enable satellite communications</string>
     <string name="satellite_not_show_again">لا تظهر مرة اخرى</string>
@@ -1577,7 +1576,7 @@
     <string name="satellite_notification_title">أنت في منطقة الإشارة فيها ضعيفة</string>
     <string name="satellite_point_title">Turn on Tiantong Satellite communications</string>
     <string name="satellite_select_enable_sim">اختر بطاقة SIM</string>
-    <string name="satellite_signal_boost_setting_summary">Enhance signal strength and stability in cloudy or other non-optimal weather conditions</string>
+    <string name="satellite_signal_boost_setting_summary">تعزيز قوة الإشارة واستقرارها في الظروف الجوية الغائمة أو غيرها من الظروف الجوية غير المثالية</string>
     <string name="satellite_signal_boost_setting_title">Use Tiantong signal amplifier</string>
     <string name="satellite_start">حسنا</string>
     <string name="satellite_start_battery">حسنا</string>

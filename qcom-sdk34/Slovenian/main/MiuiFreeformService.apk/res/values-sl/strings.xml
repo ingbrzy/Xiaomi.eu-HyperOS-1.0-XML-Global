@@ -24,8 +24,8 @@
     <string name="abc_searchview_description_search">Iskanje</string>
     <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
     <string name="abc_searchview_description_voice">Glasovno iskanje</string>
-    <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
-    <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi prek aplikacije %s</string>
+    <string name="abc_shareactionprovider_share_with">Deljenje z:</string>
+    <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi prek aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strnitev</string>
     <string name="actionbar_button_up_description">Nazaj</string>
     <string name="afternoon">Popoldne</string>
@@ -218,7 +218,7 @@ nato povlecite, da premaknete"</string>
 · Tapnite »Plavajoča okna« v meniju Nedavno, da izberete aplikacije."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Tapnite aplikacijo na stranski vrstici, da jo odprete v plavajočem oknu.
 · Povlecite aplikacijo na sredino zaslona, da jo odprete v plavajočem oknu, ali na stran, da uporabite Razdeljen zaslon."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Povlecite aplikacijo iz stranske vrstice na sredino zaslona, da jo odprete v plavajočem oknu, ali na stran, da uporabite Razdeljen zaslon</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Povlecite aplikacijo iz stranske vrstice na sredino zaslona, da jo odprete v plavajočem oknu, ali na stran, da uporabite Razdeljen zaslon.</string>
     <string name="freeform_vedio_description_pad">Povlecite predmete iz doka, da odprete plavajoča okna</string>
     <string name="friday">Petek</string>
     <string name="friday_short">pet.</string>
@@ -266,7 +266,6 @@ nato povlecite, da premaknete"</string>
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Prekliči izbiro</string>
     <string name="miuix_appcompat_deselect_all_description">Prekliči izbiro</string>
-    <string name="miuix_appcompat_edit">Uredi</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
     <string name="miuix_appcompat_search_input_description">Išči</string>
     <string name="miuix_appcompat_select_all">Izberi vse</string>

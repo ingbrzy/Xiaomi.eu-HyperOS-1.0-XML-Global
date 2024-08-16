@@ -60,9 +60,6 @@
     <string name="fallback_menu_item_copy_link">Copier le lien</string>
     <string name="fallback_menu_item_open_in_browser">Ouvrir dans le navigateur</string>
     <string name="fallback_menu_item_share_link">Partager le lien</string>
-    <string name="native_body">Corps</string>
-    <string name="native_headline">Titre</string>
-    <string name="native_media_view">Affichage multimédia</string>
     <string name="not_set">Non défini</string>
     <string name="offline_notification_text">"Toucher pour ouvrir l'annonce"</string>
     <string name="offline_notification_title">"Voir l'annonce que vous avez enregistrée lorsque vous étiez en ligne"</string>
@@ -84,5 +81,4 @@
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="v7_preference_off">DÉSACTIVÉ</string>
     <string name="v7_preference_on">ACTIVÉ</string>
-    <string name="watermark_label_prefix">AdMob -</string>
 </resources>

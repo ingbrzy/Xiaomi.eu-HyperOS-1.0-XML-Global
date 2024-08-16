@@ -116,8 +116,6 @@ További részletek a Beállításokban."</string>
     <string name="fast_connect_device_title_connecting">Csatlakoztatás…</string>
     <string name="fast_connect_device_title_find_headset">%1$s megkeresése</string>
     <string name="fast_connect_device_title_find_headset_others">Úgy tűnik, hogy ez az eszköz nem az Öné: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Csatlakoztatva</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Kamera</string>
     <string name="fast_connect_new_feture_anti_lost">Hiányzó fülhallgatóval kapcsolatos riasztás</string>
     <string name="fast_connect_new_feture_same_account">Szinkronizált eszközök csatlakoztatása</string>
     <string name="fast_connect_new_feture_sound_normalizer">Jobb hangzás</string>
@@ -211,7 +209,6 @@ Gyorsabb csatlakozási protokoll."</string>
     <string name="headset_download_fw">Frissítés</string>
     <string name="headset_downloading">Letöltés</string>
     <string name="headset_downloading_indicate">Letöltés…</string>
-    <string name="headset_dual_device">Fülhallgató automatikusan csatlakoztatva. A duális csatlakozás ki van kapcsolva.</string>
     <string name="headset_find_new_version">Frissítés érhető el</string>
     <string name="headset_finish_fw">Sikeresen frissítve</string>
     <string name="headset_finish_fw_failed">Hiba történt</string>
@@ -229,8 +226,8 @@ Gyorsabb csatlakozási protokoll."</string>
     <string name="headset_updating">Frissítés</string>
     <string name="information_go_to_fitness">A vonatkozó beállításokat a Mi Fitness alkalmazásban találja</string>
     <string name="install_package">%1$s telepítése több funkcióért</string>
-    <string name="lea_disable_successfully">Hagyományos Bluetoothra kapcsolt</string>
-    <string name="lea_enable_successfully">Bluetooth LE Audióra kapcsolt</string>
+    <string name="lea_disable_successfully">A hagyományos Bluetooth mostantól fülhallgató csatlakoztatására és hangátvitelre szolgál</string>
+    <string name="lea_enable_successfully">Az LE Audio mostantól fülhallgató csatlakoztatására és hangátvitelre szolgál</string>
     <string name="mi_audio_relay_cancel">OK</string>
     <string name="mi_audio_relay_connect_failed">Újrapróbálkozás</string>
     <string name="mi_audio_relay_localphone">Ez a készülék</string>
@@ -280,7 +277,6 @@ Gyorsabb csatlakozási protokoll."</string>
     <string name="miuix_appcompat_delete_description">Törlés</string>
     <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
-    <string name="miuix_appcompat_edit">Szerkeszt</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
     <string name="miuix_appcompat_select_all">Az összes kiválasztása</string>

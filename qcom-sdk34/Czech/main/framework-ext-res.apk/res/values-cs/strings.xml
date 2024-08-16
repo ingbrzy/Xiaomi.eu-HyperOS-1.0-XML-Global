@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">Výchozí tón vyzvánění (%1$s)</string>
     <string name="android_ringtone_silent">Žádné</string>
     <string name="android_ringtone_unknown">Neznámé zvonění</string>
-    <string name="aon_reader_support_scene_des">Převracet stránky při čtení</string>
-    <string name="aon_video_support_scene_des">Ovládat přehrávání videa</string>
     <string name="app_continuity_channel_name">Přizpůsobení rozložení aplikace</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">Otevření platebního kódu apl. Alipay se nezdařilo</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">Počítač</string>
     <string name="device_xiaomi">Mi Telefon</string>
     <string name="dewdrops">Ranní rosa</string>
-    <string name="dialog_enable_mic_btn_negative">Zrušit</string>
-    <string name="dialog_enable_mic_btn_positive">Zapnout</string>
-    <string name="dialog_enable_mic_message">Abyste mohli používat tuto funkci, nejprve zapněte mikrofon.</string>
-    <string name="dialog_enable_mic_title">Zapnout mikrofon</string>
     <string name="digitaluniverse">Digitální vesmír (stereo)</string>
     <string name="disable_nfc">NFC je během bezdrátového nabíjení vypnuto</string>
     <string name="disable_nfc_haptic_reverse">Pro využití zpětného bezdrátového nabíjení byly funkce NFC a vibrace vypnuty</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">Přenášet</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="toast_camera_satellite_mutually_exclusive">Při používání satelitní komunikace nelze používat fotoaparát</string>
-    <string name="toast_mic_muted">Mikrofon je vypnutý</string>
-    <string name="toast_mic_unmuted">Mikrofon je zapnutý</string>
-    <string name="tof_music_support_scene_des">Podporuje ovládací prvky přehrávače hudby</string>
-    <string name="tof_office_support_scene_des">Podporuje dokumenty Word a prezentace v PowerPointu</string>
-    <string name="tof_short_video_support_scene_des">Podporuje přepínání mezi videi</string>
-    <string name="tof_video_support_scene_des">Podporuje ovládací prvky videopřehrávače v režimu celé obrazovky</string>
     <string name="total">Nerušit</string>
     <string name="total_description">Ztišit zvuky a vypnout vibrace pro všechny položky kromě budíku</string>
     <string name="total_title">Nerušit</string>

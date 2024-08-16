@@ -7,7 +7,7 @@
     <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
-    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_capital_on">مفعّلة</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -218,7 +218,7 @@
 . انقر على \"النوافذ المنبثقة\" في شاشة التطبيقات الأخيرة لاختيار تطبيقات."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· انقر على أحد التطبيقات الموجودة على الشريط الجانبي لفتحه في نافذة منبثقة.
 · اسحب التطبيق إلى منتصف الشاشة لفتحه في نافذة منبثقة أو اسحبه إلى جنب لاستخدام تقسيم الشاشة."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">اسحب التطبيق من الشريط الجانبي إلى منتصف الشاشة لفتحه في نافذة منبثقة أو اسحبه إلى الجانب لاستخدام تقسيم الشاشة</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· اسحب التطبيق من الشريط الجانبي إلى منتصف الشاشة لفتحه في نافذة منبثقة أو اسحبه إلى جنب لاستخدام تقسيم الشاشة</string>
     <string name="freeform_vedio_description_pad">اسحب العناصر لخارج شريط التطبيقات لفتح النوافذ المنبثقة</string>
     <string name="friday">الجمعة</string>
     <string name="friday_short">الجمعة</string>
@@ -266,7 +266,6 @@
     <string name="miuix_appcompat_delete_description">حذف</string>
     <string name="miuix_appcompat_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_deselect_all_description">الغاء تحديد الكل</string>
-    <string name="miuix_appcompat_edit">تعديل</string>
     <string name="miuix_appcompat_search_action_mode_cancel">إلغاء</string>
     <string name="miuix_appcompat_search_input_description">بحث</string>
     <string name="miuix_appcompat_select_all">تحديد الكل</string>

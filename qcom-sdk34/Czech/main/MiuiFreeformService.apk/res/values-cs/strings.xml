@@ -218,7 +218,7 @@ a přetáhněte pro přesunutí"</string>
 · Klepnutím na „Plovoucí okna“ v Nedávných můžete vybrat aplikace."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Klepnutím na aplikaci na postranní liště ji otevřete v plovoucím okně.
 · Přetažením aplikace do středu obrazovky ji můžete otevřít v plovoucím okně nebo přetažením na stranu zapnout Rozdělení obrazovky."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Přetáhněte aplikaci z postranní lišty do středu obrazovky pro její otevření v plovoucím okně nebo na okraj displeje pro její otevření pomocí funkce Rozdělení obrazovky</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Přetažením aplikace z postranní lišty směrem do středu obrazovky ji můžete otevřít v plovoucím okně nebo přetažením do strany zapnout Rozdělení obrazovky.</string>
     <string name="freeform_vedio_description_pad">Přetažením položek ven z řádku pevných aplikací otevřete plovoucí okna</string>
     <string name="friday">Pátek</string>
     <string name="friday_short">Pát</string>
@@ -266,7 +266,6 @@ a přetáhněte pro přesunutí"</string>
     <string name="miuix_appcompat_delete_description">Smazat</string>
     <string name="miuix_appcompat_deselect_all">Zrušit výběr</string>
     <string name="miuix_appcompat_deselect_all_description">Zrušit výběr</string>
-    <string name="miuix_appcompat_edit">Upravit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Zrušit</string>
     <string name="miuix_appcompat_search_input_description">Hledat</string>
     <string name="miuix_appcompat_select_all">Vybrat vše</string>

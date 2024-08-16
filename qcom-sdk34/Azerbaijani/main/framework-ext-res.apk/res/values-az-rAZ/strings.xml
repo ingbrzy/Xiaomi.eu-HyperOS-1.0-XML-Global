@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">Standart zəng səsi (%1$s)</string>
     <string name="android_ringtone_silent">Heç biri</string>
     <string name="android_ringtone_unknown">Naməlum zəng səsi</string>
-    <string name="aon_reader_support_scene_des">Oxuyarkən səhifələri çevirin</string>
-    <string name="aon_video_support_scene_des">Video oynatmaya nəzarət edin</string>
     <string name="app_continuity_channel_name">Tətbiq düzülüşü tənzimləməsi</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">Alipay ödəmə kodu açıla bilmədi</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">Kompüter</string>
     <string name="device_xiaomi">Mi Telefon</string>
     <string name="dewdrops">Səhər şehi</string>
-    <string name="dialog_enable_mic_btn_negative">Ləğv et</string>
-    <string name="dialog_enable_mic_btn_positive">Aç</string>
-    <string name="dialog_enable_mic_message">Bu funksiyadan istifadə etmək üçün əvvəlcə mikrofonu açın.</string>
-    <string name="dialog_enable_mic_title">Mikrofonu açın</string>
     <string name="digitaluniverse">Rəqəmsal kainat (stereo)</string>
     <string name="disable_nfc">Simsiz enerji yığma üçün NFC söndürüldü</string>
     <string name="disable_nfc_haptic_reverse">Əks simsiz şarj üçün NFC və vibrasiya söndürüldü</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">Əks etdir</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="toast_camera_satellite_mutually_exclusive">Peyk rabitəsindən istifadə edərkən kameradan istifadə etmək mümkün deyil</string>
-    <string name="toast_mic_muted">Mikrofon bağlıdır</string>
-    <string name="toast_mic_unmuted">Mikrofon açıqdır</string>
-    <string name="tof_music_support_scene_des">Musiqi oynadıcısı nəzarətini dəstəkləyir</string>
-    <string name="tof_office_support_scene_des">Word sənədlərini və PowerPoint təqdimatlarını dəstəkləyir</string>
-    <string name="tof_short_video_support_scene_des">Videolar arasında keçidi dəstəkləyir</string>
-    <string name="tof_video_support_scene_des">Tam ekran video oynadıcısı nəzarətini dəstəkləyir</string>
     <string name="total">Narahat etmə</string>
     <string name="total_description">Zəngli saatdan başqa bütün səsləri susdur və titrəyişi söndür</string>
     <string name="total_title">Narahat etmə</string>

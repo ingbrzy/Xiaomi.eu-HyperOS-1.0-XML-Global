@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">Standaard beltoon (%1$s)</string>
     <string name="android_ringtone_silent">Geen</string>
     <string name="android_ringtone_unknown">Onbekende beltoon</string>
-    <string name="aon_reader_support_scene_des">"Pagina's omslaan tijdens het lezen"</string>
-    <string name="aon_video_support_scene_des">"Controle van het afspelen van video's"</string>
     <string name="app_continuity_channel_name">Aanpassingen app-layout</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">Kon Alipay-betalingscode niet openen</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">Computer</string>
     <string name="device_xiaomi">Mi Phone</string>
     <string name="dewdrops">Ochtenddauw</string>
-    <string name="dialog_enable_mic_btn_negative">Annuleren</string>
-    <string name="dialog_enable_mic_btn_positive">Inschakelen</string>
-    <string name="dialog_enable_mic_message">Schakel eerst de microfoon in om deze functie te kunnen gebruiken.</string>
-    <string name="dialog_enable_mic_title">Microfoon inschakelen</string>
     <string name="digitaluniverse">Digitaal universum (stereo)</string>
     <string name="disable_nfc">NFC uitgeschakeld voor draadloos opladen</string>
     <string name="disable_nfc_haptic_reverse">NFC en vibratie uitgeschakeld voor omgekeerd draadloos opladen</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">Casten</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="toast_camera_satellite_mutually_exclusive">Kan de camera niet gebruiken tijdens satellietcommunicatie</string>
-    <string name="toast_mic_muted">Microfoon staat uit</string>
-    <string name="toast_mic_unmuted">Microfoon staat aan</string>
-    <string name="tof_music_support_scene_des">Ondersteunt bedieningselementen voor muziekspelers</string>
-    <string name="tof_office_support_scene_des">Ondersteunt Word-documenten en PowerPoint-presentaties</string>
-    <string name="tof_short_video_support_scene_des">"Ondersteunt het schakelen tussen video's"</string>
-    <string name="tof_video_support_scene_des">Ondersteunt bedieningselementen voor videospelers op volledig scherm</string>
     <string name="total">Niet storen</string>
     <string name="total_description">Zet geluiden en vibraties voor alle items uit behalve de wekker</string>
     <string name="total_title">Niet storen</string>

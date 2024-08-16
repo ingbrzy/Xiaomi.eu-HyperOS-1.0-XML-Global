@@ -116,8 +116,6 @@ Controlla le Impostazioni per i dettagli."</string>
     <string name="fast_connect_device_title_connecting">Connessione…</string>
     <string name="fast_connect_device_title_find_headset">Trova %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Sembra che questo dispositivo non sia il tuo: %1$s</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_done">Connesso</string>
-    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Fotocamera</string>
     <string name="fast_connect_new_feture_anti_lost">Avviso auricolare mancante</string>
     <string name="fast_connect_new_feture_same_account">Connetti i dispositivi sincronizzati</string>
     <string name="fast_connect_new_feture_sound_normalizer">Suono migliorato</string>
@@ -211,7 +209,6 @@ Protocollo di connessione più veloce."</string>
     <string name="headset_download_fw">Aggiorna</string>
     <string name="headset_downloading">Download in corso</string>
     <string name="headset_downloading_indicate">Download in corso…</string>
-    <string name="headset_dual_device">Gli auricolari si collegano automaticamente. La connessione doppia è disattivata.</string>
     <string name="headset_find_new_version">Aggiornamento disponibile</string>
     <string name="headset_finish_fw">Aggiornamento completato</string>
     <string name="headset_finish_fw_failed">Si è verificato un errore</string>
@@ -229,8 +226,8 @@ Protocollo di connessione più veloce."</string>
     <string name="headset_updating">Aggiornamento</string>
     <string name="information_go_to_fitness">Puoi trovare le relative impostazioni in Mi Fitness</string>
     <string name="install_package">Installa %1$s per avere più funzioni</string>
-    <string name="lea_disable_successfully">Passato al Bluetooth normale</string>
-    <string name="lea_enable_successfully">Passato ad audio LE Bluetooth</string>
+    <string name="lea_disable_successfully">Il normale Bluetooth è ora utilizzato per la connessione degli auricolari e la trasmissione audio</string>
+    <string name="lea_enable_successfully">Audio LE è ora utilizzato per la connessione degli auricolari e la trasmissione audio</string>
     <string name="mi_audio_relay_cancel">OK</string>
     <string name="mi_audio_relay_connect_failed">Riprova</string>
     <string name="mi_audio_relay_localphone">Questo dispositivo</string>
@@ -280,7 +277,6 @@ Protocollo di connessione più veloce."</string>
     <string name="miuix_appcompat_delete_description">Elimina</string>
     <string name="miuix_appcompat_deselect_all">Deseleziona tutti</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleziona tutto</string>
-    <string name="miuix_appcompat_edit">Modifica</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annulla</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>

@@ -13,8 +13,6 @@
     <string name="android_ringtone_default_with_actual">Privzeta melodija zvonjenja (%1$s)</string>
     <string name="android_ringtone_silent">Nič</string>
     <string name="android_ringtone_unknown">Neznana melodija zvonjenja</string>
-    <string name="aon_reader_support_scene_des">Med branjem obračajte strani</string>
-    <string name="aon_video_support_scene_des">Upravljajte predvajanje videa</string>
     <string name="app_continuity_channel_name">Prilagoditev postavitve aplikacije</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">Ni mogoče odpreti Alipay kode za plačilo</string>
@@ -135,10 +133,6 @@
     <string name="device_type_pc">Računalnik</string>
     <string name="device_xiaomi">Mi Telefon</string>
     <string name="dewdrops">Jutranja rosa</string>
-    <string name="dialog_enable_mic_btn_negative">Prekliči</string>
-    <string name="dialog_enable_mic_btn_positive">Vklopi</string>
-    <string name="dialog_enable_mic_message">Če želite uporabljati to funkcijo, najprej vklopite mikrofon.</string>
-    <string name="dialog_enable_mic_title">Vklopi mikrofon</string>
     <string name="digitaluniverse">Digitalno vesolje (stereo)</string>
     <string name="disable_nfc">NFC je bil izklopljen zaradi brezžičnega polnjenja</string>
     <string name="disable_nfc_haptic_reverse">NFC in vibracija izklopljena zaradi povratnega brezžičnega polnjenja</string>
@@ -506,12 +500,6 @@
     <string name="throwing_screen">Predvajaj</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="toast_camera_satellite_mutually_exclusive">Med uporabo satelitskih komunikacij ni mogoče uporabljati kamero</string>
-    <string name="toast_mic_muted">Mikrofon je izklopljen.</string>
-    <string name="toast_mic_unmuted">Mikrofon je vklopljen.</string>
-    <string name="tof_music_support_scene_des">Podpira kontrole predvajalnika glasbe</string>
-    <string name="tof_office_support_scene_des">Podpira Wordove dokumente in PowerPoint predstavitve</string>
-    <string name="tof_short_video_support_scene_des">Podpira preklapljanje med videi</string>
-    <string name="tof_video_support_scene_des">Podpira kontrole celozaslonskega video predvajalnika</string>
     <string name="total">Ne moti</string>
     <string name="total_description">Utiša zvoke in izklopi vibracijo za vse predmete razen alarma</string>
     <string name="total_title">Ne moti</string>

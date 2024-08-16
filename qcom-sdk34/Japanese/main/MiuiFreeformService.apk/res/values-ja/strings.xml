@@ -218,7 +218,7 @@
 · \"最近のタスク\"で\"フローティングウィンドウ\"をタップしてアプリを選択します。"</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· サイドバーのアプリをタップして、フローティングウィンドウで開きます。
 · アプリを画面の中央にドラッグしてフローティングウィンドウで開くか、横にドラッグして画面分割を使用します。"</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">アプリをサイドバーから画面の中央にドラッグしてフローティング ウィンドウで開くか、横にドラッグして画面分割を使用します</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· アプリをサイドバーから画面の中央にドラッグしてフローティングウィンドウで開くか、横にドラッグして画面分割を使用します</string>
     <string name="freeform_vedio_description_pad">ドックからアイテムをドラッグしてフローティングウィンドウを開く</string>
     <string name="friday">金曜日</string>
     <string name="friday_short">金</string>
@@ -266,7 +266,6 @@
     <string name="miuix_appcompat_delete_description">削除</string>
     <string name="miuix_appcompat_deselect_all">すべての選択を解除</string>
     <string name="miuix_appcompat_deselect_all_description">すべての選択を解除</string>
-    <string name="miuix_appcompat_edit">編集</string>
     <string name="miuix_appcompat_search_action_mode_cancel">キャンセル</string>
     <string name="miuix_appcompat_search_input_description">検索</string>
     <string name="miuix_appcompat_select_all">すべて選択</string>

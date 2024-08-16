@@ -704,26 +704,6 @@
     <string name="aod_style_description">Показвай часовник, дата, време, известия и други елементи, когато екранът е изключен</string>
     <string name="aod_style_title">Стил</string>
     <string name="aod_to_close">Изключване</string>
-    <string name="aon_gesture_cue_tone_summary">Възпроизвеждане на звук за потвърждение, когато дланта Ви бъде открита</string>
-    <string name="aon_gesture_cue_tone_title">Възпроизвеждане на звук за потвърждение</string>
-    <string name="aon_gesture_dialog_message">Когато тази функция е включена, устройството ще открие и анализира Вашите жестове. Вашите лични данни няма да бъдат обработвани, никакви данни няма да се съхраняват локално или в облака.</string>
-    <string name="aon_gesture_dialog_title">Правила за поверителност</string>
-    <string name="aon_gesture_double_press_summary">Възпроизвеждане и пауза на възпроизвеждането</string>
-    <string name="aon_gesture_double_press_title">Извършете движение с двойно натискане</string>
-    <string name="aon_gesture_draw_circle_summary_pad">Отговаряне или прекратяване на повиквания, прехвърлени към таблета</string>
-    <string name="aon_gesture_draw_circle_summary_phone">Отговаряне и прекратяване на повиквания</string>
-    <string name="aon_gesture_draw_circle_title">Начертайте кръг</string>
-    <string name="aon_gesture_enable_summary" formatted="false">Дръжте ръката си на %d до %d см от камерата и изпълнете жестовете след като иконката на ръка се появи в началото на екрана</string>
-    <string name="aon_gesture_learn_title">Научете жестове</string>
-    <string name="aon_gesture_left_right_waving_summary">Регулирайте прогреса на възпроизвеждане и превключвайте между песните</string>
-    <string name="aon_gesture_left_right_waving_title">Помахайте хоризонтално</string>
-    <string name="aon_gesture_settings">Безконтактни жестове</string>
-    <string name="aon_gesture_status_close">Изкл</string>
-    <string name="aon_gesture_status_open">Вкл</string>
-    <string name="aon_gesture_supported_app_title">Поддържани приложения</string>
-    <string name="aon_gesture_supported_title">Налични жестове</string>
-    <string name="aon_gesture_up_down_waving_summary">Регулирайте силата на звука на медиите, превключвайте между кратки видеоклипове и обръщайте страници в документи</string>
-    <string name="aon_gesture_up_down_waving_title">Помахайте вертикално</string>
     <string name="ap_connect_failed">Неуспешно свързване</string>
     <string name="ap_connected_battery_level">" | Батерия %1$s"</string>
     <string name="ap_p2p_dialog_message">Текущата споделена Wi-Fi връзка вече се използва. Уверете се, че не използвате Wi-Fi Direct, Mi Share, прожекция или други услуги за безжично прехвърляне, преди да включите Вашия личен хотспот.</string>
@@ -2021,10 +2001,21 @@ aptX адаптивен: режим Кодек"</string>
     <string name="camera_gesture_title">Завъртане два пъти за достъп до камерата</string>
     <string name="camera_grip_firmware_need_update">Обновяване</string>
     <string name="camera_grip_firmware_new_version">Актуално</string>
+    <string name="camera_grip_firmware_save_button_know">Разбрах</string>
+    <string name="camera_grip_firmware_save_button_negaitive">Не сега</string>
+    <string name="camera_grip_firmware_save_button_positive">Обновяване</string>
+    <string name="camera_grip_firmware_save_channel">Известия за дръжка на камерата</string>
+    <string name="camera_grip_firmware_save_networking_tips">Свържете се с Wi-Fi или включете мобилни данни и опитайте отново да обновите фърмуера.</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
+    <string name="camera_grip_firmware_save_text">Обновете фърмуера, за да продължите да използвате това устройство.</string>
+    <string name="camera_grip_firmware_save_title">Професионална дръжка за камера</string>
     <string name="camera_grip_firmware_title_text">Обновяване на фърмуер</string>
     <string name="camera_grip_firmware_update_describe">Дръжте дръжката свързана през целия процес на обновяване</string>
     <string name="camera_grip_firmware_update_faild">Неуспешно обновяване</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">Премахнете дръжката на камерата, заредете това устройство, след което опитайте отново да обновите фърмуера</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">Заредете това устройство и ръкохватката на камерата, преди да обновите фърмуера</string>
     <string name="camera_grip_firmware_update_ongoing">Обновяване. Не изключвайте дръжката.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">Свържете зарядното устройство към това устройство и опитайте отново да обновите фърмуера</string>
     <string name="camera_grip_firmware_update_successful">Успешно обновяване</string>
     <string name="camera_key_action_app_title">Отвори избраното приложение</string>
     <string name="camera_key_action_category_title">Не може да се използва Камера</string>
@@ -3400,7 +3391,7 @@ aptX адаптивен: режим Кодек"</string>
     <string name="ethernet_data_template">Данни през Ethernet: ^1</string>
     <string name="ethernet_data_usage">Пренос на данни през Ethernet</string>
     <string name="ethernet_tether_checkbox_text">Споделяне чрез Ethernet</string>
-    <string name="ethernet_tethering_subtext">Споделяйте мрежовата връзка на телефона чрез Ethernet</string>
+    <string name="ethernet_tethering_subtext">Споделете връзката с интернет на телефона чрез Ethernet</string>
     <string name="evening">Следобед</string>
     <string name="every_day">Ежедневно</string>
     <string name="exceptional_case">Изключения</string>
@@ -4736,10 +4727,6 @@ Xiaomi Cloud
     <string name="load_esim_info">Получаване на информация за eSIM…</string>
     <string name="load_esim_info_error">Неуспешно зареждане на информацията за eSIM. Изчакайте минута-две и опитайте отново.</string>
     <string name="loading">Един момент…</string>
-    <string name="loading_eid_error_message">Неуспешно получаване на EID информация. Изчакайте минута-две и опитайте отново.</string>
-    <string name="loading_eid_error_ok">Разбрах</string>
-    <string name="loading_eid_error_title">Неуспешно зареждане</string>
-    <string name="loading_eid_tip">Получаване на EID информация…</string>
     <string name="loading_injected_setting_summary">Зарежда се…</string>
     <string name="local_auto_backup_off">Изкл</string>
     <string name="local_auto_backup_on">Вкл</string>
@@ -5139,6 +5126,8 @@ Xiaomi Cloud
     <string name="long_background_tasks_title">Продълж. задачи на заден план</string>
     <string name="long_press_back_key">Дълго натискане на бутон Назад</string>
     <string name="long_press_buttom_key">Дълго натискане на бутон Начало при Заключен екран</string>
+    <string name="long_press_editor_style_summary">Натиснете и задръжте Заключения екран, за да редактирате часовника и тапета</string>
+    <string name="long_press_editor_style_title">Натиснете и задръжте, за да редактирате</string>
     <string name="long_press_home_key">Дълго натискане на бутон Начало</string>
     <string name="long_press_menu_key">Дълго натискане на бутон Меню</string>
     <string name="long_press_menu_key_when_lock">Дълго натискане на бутон Меню на Заключен екран</string>
@@ -5679,8 +5668,6 @@ Xiaomi Cloud
     <string name="miui_type_style_title">Стил на писане</string>
     <string name="miui_updater">Системно обновление</string>
     <string name="miui_userguide">Упътване за употреба</string>
-    <string name="miui_visual_perception_summary">Накарайте устройството си да усети вашето присъствие и изберете по-удобни опции за заключване и отключване</string>
-    <string name="miui_visual_perception_title">Активно зрително възприятие</string>
     <string name="miuix_access_state_desc">Избрани</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Откажи всички</string>
     <string name="miuix_appcompat_action_mode_select_all">Избиране на всички</string>
@@ -6639,8 +6626,10 @@ OTG се изключва автоматично след 10 минути неа
     <string name="phone_language_summary" />
     <string name="photo_data">Снимки и видеоклипове</string>
     <string name="photography_handle_button_function_settings">Настройване на бутон за захващане</string>
-    <string name="photography_handle_charge_protected">Автоматично изключване на зареждането на ръкохватката</string>
-    <string name="photography_handle_charge_protected_summary">Когато устройството ви разпознае, че използвате ръкохватка на камерата, устройството ще спре да се зарежда и ще поддържа батерията на %1$s</string>
+    <string name="photography_handle_charge_protected">Защита от зареждане на ръкохватката</string>
+    <string name="photography_handle_charge_protected_summary">Когато ръкохватката на камерата е свързана, устройството ще спре да се зарежда и ще поддържа батерията на %1$s</string>
+    <string name="photography_handle_charge_state">Зареждане от ръкохватката на камерата</string>
+    <string name="photography_handle_charge_state_summary">Зареждайте това устройство от ръкохватката на камерата винаги, когато е свързана</string>
     <string name="photography_handle_launch_and_take_photo">Направи снимка</string>
     <string name="photography_handle_launch_camera">Отвори камерата</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Натиснете и задръжте бутона на камерата, за да извършите действие</string>
@@ -6769,8 +6758,10 @@ OTG се изключва автоматично след 10 минути неа
     <string name="pref_show_lunar_calendar_title">Показване на традиционния китайски календар при Заключен екран</string>
     <string name="pref_title_network_details">Подробности за мрежата</string>
     <string name="pref_title_update_notification">Показване на известия за трафика</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Когато екранът е заключен, натиснете два пъти Намаляване на звука, за да отворите Камерата и да направите снимка</string>
     <string name="pref_volume_launch_camera_summary">Натиснете бутона за намаляване на звука два пъти, за да стартирате камерата</string>
     <string name="pref_volume_launch_camera_title">Стартирай камерата</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">Когато екранът е заключен, натиснете два пъти Намаляване на звука, за да отворите Камерата</string>
     <string name="pref_volume_wake_summary">Натискането на бутоните за сила на звука активира устройството</string>
     <string name="pref_volume_wake_title">Активиране с бутони за сила на звука</string>
     <string name="preference_change_password_title">Промяна на паролата</string>
@@ -7327,6 +7318,8 @@ OTG се изключва автоматично след 10 минути неа
     <string name="safety_center_summary">Сигурност на приложенията, заключване на у-вото, разрешения</string>
     <string name="safety_center_title">Сигурност и поверителност</string>
     <string name="sar">RF Информация за излъчване</string>
+    <string name="satellite_call_assistant">Настройки за повикване</string>
+    <string name="satellite_network_title">Функции за сателитно обаждане</string>
     <string name="saturday">Събота</string>
     <string name="saturday_first_day_of_week">събота</string>
     <string name="saturday_short">Сб.</string>
@@ -7357,7 +7350,6 @@ OTG се изключва автоматично след 10 минути неа
     <string name="screen_dark_mode_select_time_error_summary">Времето на започване и приключване не може да бъде еднакво</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Някои приложения може да не бъдат визуализирани правилно по време на Тъмен Режим. Можете да ограничите употребата на Тъмен Режим до индивидуални приложения.</string>
     <string name="screen_dark_mode_smart_dark_title">Тъмен режим за цялото устройство</string>
-    <string name="screen_dark_mode_time_summary">Устройството Ви ще премине към Тъмен режим около планираното време, когато изключите екрана</string>
     <string name="screen_dark_mode_time_title">Планиране на Тъмен режим</string>
     <string name="screen_effect">Цветова схема</string>
     <string name="screen_effect_adapt_color_summary">Регулиране на цветовете спрямо наличното осветление</string>
@@ -8481,6 +8473,11 @@ OTG се изключва автоматично след 10 минути неа
     <string name="sort_order_frequent_notification">Най-чести</string>
     <string name="sort_order_recent_notification">Най-скорошни</string>
     <string name="sort_order_size">Сортиране по размер</string>
+    <string name="sos_add_area_code_switch_summary">Автоматично добавяне на регионалния код към телефонен номер, когато правите спешно повикване с Tiantong Satellite комуникации</string>
+    <string name="sos_add_area_code_switch_title">Автоматично добавяне на регионален код</string>
+    <string name="sos_area_code_settings_hint">Въведете регионален код</string>
+    <string name="sos_area_code_settings_summary">Задайте ръчно кода на областта на телефонния номер на Вашия контакт за спешни случаи</string>
+    <string name="sos_area_code_settings_title">Задаване на регионален код</string>
     <string name="sos_phone_call_privacy_dialog_message">"За да може да се обади на Вашите спешни контакти и да възпроизведе SOS записа, това приложение се нуждае от следните разрешения:
 • Правене на повиквания
 За да се обади на Вашите спешни контакти
@@ -9785,10 +9782,6 @@ OTG се изключва автоматично след 10 минути неа
     <string name="uwb_settings_title">Ултрашироколентови сигнали (UWB)</string>
     <string name="v7_preference_off">ИЗКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
-    <string name="valid_net_access">Преглед на идентификационните данни за достъп до мрежата</string>
-    <string name="valid_net_ok">ОК</string>
-    <string name="valid_net_result_fail">Не може да се получи информация, изчакайте минута-две и опитайте отново.</string>
-    <string name="valid_net_result_title">Резултат</string>
     <string name="verify_apps_over_usb_summary">Проверка на инсталираните чрез ADB/ADT приложения за опасно поведение.</string>
     <string name="verify_apps_over_usb_title">Потвържд. на прил. през USB</string>
     <string name="version_text">версия %1$s</string>
@@ -10698,7 +10691,6 @@ OTG се изключва автоматично след 10 минути неа
     <string name="winscope_trace_quick_settings_title">Трасиране на Winscope</string>
     <string name="wireless_connected">Свързан</string>
     <string name="wireless_debugging_main_switch_title">Използване на безжичното отстраняване на грешки</string>
-    <string name="wireless_display">Безжичен дисплей</string>
     <string name="wireless_networks_settings_title">Кабелни и безжични мрежи</string>
     <string name="wireless_off">Изкл</string>
     <string name="wireless_on">Вкл</string>
