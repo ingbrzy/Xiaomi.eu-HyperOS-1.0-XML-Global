@@ -5122,6 +5122,8 @@ Wenn diese Berechtigung nicht gewährt wird, wird durch das System begrenzt, wie
     <string name="long_background_tasks_title">Lange Hintergrundaufgaben</string>
     <string name="long_press_back_key">Zurück-Taste gedrückt halten</string>
     <string name="long_press_buttom_key">Starttaste im Sperrbildschirm gedrückt halten</string>
+    <string name="long_press_editor_style_summary">Sperrbildschirm drücken und halten, um die Uhr und das Hintergrundbild zu bearbeiten</string>
+    <string name="long_press_editor_style_title">Zum Bearbeiten drücken und halten</string>
     <string name="long_press_home_key">Home-Taste gedrückt halten</string>
     <string name="long_press_menu_key">Menü-Taste gedrückt halten</string>
     <string name="long_press_menu_key_when_lock">Im Sperrbildschirm Menü gedrückt halten</string>

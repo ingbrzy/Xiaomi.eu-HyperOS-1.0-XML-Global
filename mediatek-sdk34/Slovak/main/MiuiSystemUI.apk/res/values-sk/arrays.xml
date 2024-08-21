@@ -5,6 +5,12 @@
         <item>Zobrazovať percentá počas nabíjania (predvolené)</item>
         <item>Nezobrazovať túto ikonu</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, aktívne</item>
+        <item>, aktívne (médiá)</item>
+        <item>, aktívne (telefón)</item>
+    </string-array>
     <string-array name="clock_options">
         <item>Zobrazovať hodiny, minúty a sekundy</item>
         <item>Zobrazovať hodiny a minúty (predvolené)</item>

@@ -5,6 +5,12 @@
         <item>הצגת אחוזים בזמן הטעינה (ברירת מחדל)</item>
         <item>אל תציגו את הסמל הזה</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, פעיל</item>
+        <item>, פעיל (מדיה)</item>
+        <item>, פעיל (טלפון)</item>
+    </string-array>
     <string-array name="clock_options">
         <item>הצגת שעות, דקות ושניות</item>
         <item>הצגת שעות ודקות (ברירת מחדל)</item>

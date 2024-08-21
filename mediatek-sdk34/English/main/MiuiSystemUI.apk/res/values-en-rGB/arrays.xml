@@ -5,6 +5,12 @@
         <item>Show percentage when charging (default)</item>
         <item>"Don't show this icon"</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, active</item>
+        <item>, active (media)</item>
+        <item>, active (phone)</item>
+    </string-array>
     <string-array name="clock_options">
         <item>Show hours, minutes and seconds</item>
         <item>Show hours and minutes (default)</item>

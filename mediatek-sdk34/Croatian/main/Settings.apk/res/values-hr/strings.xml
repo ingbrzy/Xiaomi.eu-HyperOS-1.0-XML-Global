@@ -5132,6 +5132,8 @@ Ako se to dopuštenje odbije, sustav će ograničiti koliko dugo aplikacija mož
     <string name="long_background_tasks_title">Dugački zadaci u pozadini</string>
     <string name="long_press_back_key">Dugi pritisak na tipku Natrag</string>
     <string name="long_press_buttom_key">Dugi pritisak na tipku Početna na Zaključanom zaslonu</string>
+    <string name="long_press_editor_style_summary">Pritisnite i držite zaključani zaslon za uređivanje sata i pozadine</string>
+    <string name="long_press_editor_style_title">Pritisnite i držite za uređivanje</string>
     <string name="long_press_home_key">Dugi pritisak na tipku Početna</string>
     <string name="long_press_menu_key">Dugi pritisak na tipku Izbornik</string>
     <string name="long_press_menu_key_when_lock">Dugi pritisak tipke Izbornik na Zaklj. zaslonu</string>

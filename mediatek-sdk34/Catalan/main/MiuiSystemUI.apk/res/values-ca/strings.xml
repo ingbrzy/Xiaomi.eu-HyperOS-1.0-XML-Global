@@ -307,6 +307,8 @@ Torna-ho a provar d'aquí a %d segons."</string>
     <string name="bluetooth_battery_level">%1$s de bateria</string>
     <string name="bluetooth_battery_level_untethered">E: %1$s bateria, D: %2$s bateria</string>
     <string name="bluetooth_connected">%1$s Connectat</string>
+    <string name="bluetooth_connected_no_a2dp">%1$s connectat (sense contingut multimèdia)</string>
+    <string name="bluetooth_connected_no_headset">%1$s connectat (sense accés al telèfon)</string>
     <string name="bluetooth_connecting">"S'està connectant…"</string>
     <string name="bluetooth_disconnected">Desconnectat</string>
     <string name="bluetooth_disconnecting">"S'està desconnectant..."</string>

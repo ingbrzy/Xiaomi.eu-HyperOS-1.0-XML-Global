@@ -307,6 +307,8 @@
     <string name="bluetooth_battery_level">Батерия: %1$s</string>
     <string name="bluetooth_battery_level_untethered">Л: %1$s батерия. Д: %2$s батерия</string>
     <string name="bluetooth_connected">Свързано%1$s</string>
+    <string name="bluetooth_connected_no_a2dp">Свързано (без мултимедия)%1$s</string>
+    <string name="bluetooth_connected_no_headset">Свързано (без телефон)%1$s</string>
     <string name="bluetooth_connecting">Установява се връзка…</string>
     <string name="bluetooth_disconnected">Изкл.</string>
     <string name="bluetooth_disconnecting">Изключва се...</string>

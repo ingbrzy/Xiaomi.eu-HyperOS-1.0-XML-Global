@@ -307,6 +307,8 @@ Bitte probiere es in %d Sekunden noch einmal."</string>
     <string name="bluetooth_battery_level">Akkustand: %1$s</string>
     <string name="bluetooth_battery_level_untethered">Akkustand L: %1$s; R: %2$s</string>
     <string name="bluetooth_connected">Mit %1$s verbunden</string>
+    <string name="bluetooth_connected_no_a2dp">Mit %1$s verbunden (kein Medien-Audio)</string>
+    <string name="bluetooth_connected_no_headset">Mit %1$s verbunden (kein Telefon-Audio)</string>
     <string name="bluetooth_connecting">Verbindung wird hergestellt...</string>
     <string name="bluetooth_disconnected">Nicht verbunden</string>
     <string name="bluetooth_disconnecting">Verbindung wird getrennt...</string>

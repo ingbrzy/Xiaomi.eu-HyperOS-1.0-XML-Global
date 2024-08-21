@@ -307,6 +307,8 @@ Yritä uudelleen %d sekunnin kuluttua."</string>
     <string name="bluetooth_battery_level">Akun taso %1$s</string>
     <string name="bluetooth_battery_level_untethered">V: akku %1$s, O: akku %2$s</string>
     <string name="bluetooth_connected">Yhdistetty %1$s</string>
+    <string name="bluetooth_connected_no_a2dp">Yhdistetty (ei median ääntä) %1$s</string>
+    <string name="bluetooth_connected_no_headset">Yhdistetty (ei puhelimen ääntä) %1$s</string>
     <string name="bluetooth_connecting">Yhdistetään…</string>
     <string name="bluetooth_disconnected">Yhteys katkaistu</string>
     <string name="bluetooth_disconnecting">Katkaistaan yhteyttä...</string>

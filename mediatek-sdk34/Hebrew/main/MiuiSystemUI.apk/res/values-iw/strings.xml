@@ -272,6 +272,8 @@
     <string name="bluetooth_battery_level">טעינת הסוללה: %1$s</string>
     <string name="bluetooth_battery_level_untethered">שמאל: %1$s סוללה, ימין: %2$s סוללה</string>
     <string name="bluetooth_connected">%1$s מחובר</string>
+    <string name="bluetooth_connected_no_a2dp">מחובר (ללא מדיה)%1$s</string>
+    <string name="bluetooth_connected_no_headset">מחובר (ללא טלפון)%1$s</string>
     <string name="bluetooth_connecting">מתבצעת התחברות…</string>
     <string name="bluetooth_disconnected">מנותק</string>
     <string name="bluetooth_disconnecting">מתבצעת התנתקות...</string>

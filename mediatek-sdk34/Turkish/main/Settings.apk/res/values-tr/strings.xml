@@ -5122,6 +5122,8 @@ Söz konusu izin reddedilirse sistem, uygulamanın bu tür görevleri arka pland
     <string name="long_background_tasks_title">Uzun süren arka plan görevleri</string>
     <string name="long_press_back_key">Geri tuşuna uzun basın</string>
     <string name="long_press_buttom_key">Kilit ekranında Ana ekran tuşuna uzun basın</string>
+    <string name="long_press_editor_style_summary">Saati ve duvar kağıdını düzenlemek için Kilit ekranına basılı tutun</string>
+    <string name="long_press_editor_style_title">Düzenlemek için basılı tutun</string>
     <string name="long_press_home_key">Ana ekran tuşuna uzun basın</string>
     <string name="long_press_menu_key">Menü tuşuna uzun basın</string>
     <string name="long_press_menu_key_when_lock">Kilit ekranında Menü tuşuna uzun basın</string>

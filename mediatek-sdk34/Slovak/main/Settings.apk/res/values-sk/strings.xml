@@ -5122,6 +5122,8 @@ Ak toto povolenie neudelíte, systém bude obmedzovať, ako dlho môže aplikác
     <string name="long_background_tasks_title">Dlhé úlohy na pozadí</string>
     <string name="long_press_back_key">Dlhé podržanie tlačidla Späť</string>
     <string name="long_press_buttom_key">Dlhšie podržanie tlačidla Domov na Zamknutej obrazovke</string>
+    <string name="long_press_editor_style_summary">Stlačením a podržaním zamknutej obrazovky upravíte hodiny a tapetu</string>
+    <string name="long_press_editor_style_title">Stlačte a podržte pre úpravu</string>
     <string name="long_press_home_key">Dlhé podržanie tlačidla Domov</string>
     <string name="long_press_menu_key">Dlhé podržanie tlačidla Menu</string>
     <string name="long_press_menu_key_when_lock">Dlhé podržanie Menu na zamykacej obrazovke</string>

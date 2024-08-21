@@ -5122,6 +5122,8 @@ Nếu quyền này không được cấp, hệ thống sẽ giới hạn thời 
     <string name="long_background_tasks_title">Tác vụ trong nền dài hạn</string>
     <string name="long_press_back_key">Bấm giữ phím Quay lại</string>
     <string name="long_press_buttom_key">Bấm giữ phím Trang chính trên Màn hình khóa</string>
+    <string name="long_press_editor_style_summary">Bấm và giữ Màn hình khóa để sửa đồng hồ và hình nền</string>
+    <string name="long_press_editor_style_title">Bấm và giữ để sửa</string>
     <string name="long_press_home_key">Bấm giữ phím Trang chính</string>
     <string name="long_press_menu_key">Bấm giữ phím Menu</string>
     <string name="long_press_menu_key_when_lock">Bấm giữ phím Menu trên Màn hình khóa</string>

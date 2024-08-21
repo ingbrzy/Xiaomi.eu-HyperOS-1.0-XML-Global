@@ -307,6 +307,8 @@
     <string name="bluetooth_battery_level">Pil düzeyi %1$s</string>
     <string name="bluetooth_battery_level_untethered">Sol: %1$s pil, Sağ: %2$s pil</string>
     <string name="bluetooth_connected">%1$s cihazına bağlandı</string>
+    <string name="bluetooth_connected_no_a2dp">%1$s cihazına bağlandı (medya yok)</string>
+    <string name="bluetooth_connected_no_headset">%1$s cihazına bağlandı (telefon yok)</string>
     <string name="bluetooth_connecting">Bağlanıyor…</string>
     <string name="bluetooth_disconnected">Bağlantı kesildi</string>
     <string name="bluetooth_disconnecting">Bağlantı kesiliyor…</string>

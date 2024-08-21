@@ -307,6 +307,8 @@ Riprova tra %d secondi."</string>
     <string name="bluetooth_battery_level">Batteria: %1$s</string>
     <string name="bluetooth_battery_level_untethered">S: batteria %1$s, D: batteria %2$s</string>
     <string name="bluetooth_connected">%1$s Connesso</string>
+    <string name="bluetooth_connected_no_a2dp">%1$s connesso (contenuti multimediali esclusi)</string>
+    <string name="bluetooth_connected_no_headset">%1$s connesso (telefono escluso)</string>
     <string name="bluetooth_connecting">Connessione…</string>
     <string name="bluetooth_disconnected">Disconnesso</string>
     <string name="bluetooth_disconnecting">Disconnessione…</string>

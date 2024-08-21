@@ -5123,6 +5123,8 @@ PIN штити телефон ако га изгубите или га неко 
     <string name="long_background_tasks_title">Дуготрајни задаци у позадини</string>
     <string name="long_press_back_key">Дуги притисак на тастер Назад</string>
     <string name="long_press_buttom_key">Дуги притисак на Почетна на Закључаном екрану</string>
+    <string name="long_press_editor_style_summary">Притисните и задржите Закључани екран да бисте изменили сат и позадину</string>
+    <string name="long_press_editor_style_title">Притисните и задржите за уређивање</string>
     <string name="long_press_home_key">Дуги притисак на тастер Почетна</string>
     <string name="long_press_menu_key">Дуги притисак на тастер Мени</string>
     <string name="long_press_menu_key_when_lock">Дуги притисак на Мени на Закључаном екрану</string>

@@ -307,6 +307,8 @@ Bandykite dar kartą po %d sek."</string>
     <string name="bluetooth_battery_level">Akumuliatoriaus įkrova: %1$s</string>
     <string name="bluetooth_battery_level_untethered">KAIRĖ: akumuliatoriaus lygis: %1$s, DEŠINĖ: akumuliatoriaus lygis: %2$s</string>
     <string name="bluetooth_connected">Prisijungta (%1$s)</string>
+    <string name="bluetooth_connected_no_a2dp">Prisijungta (%1$s), (medijos nėra)</string>
+    <string name="bluetooth_connected_no_headset">Prisijungta (%1$s), (telefono nėra)</string>
     <string name="bluetooth_connecting">Prisijungiama...</string>
     <string name="bluetooth_disconnected">Atsijungęs (-usi)</string>
     <string name="bluetooth_disconnecting">Atjungiama...</string>

@@ -5122,6 +5122,8 @@ Pokud oprávnění neudělíte, systém omezí, jak dlouho může aplikace prov�
     <string name="long_background_tasks_title">Dlouhé úkoly na pozadí</string>
     <string name="long_press_back_key">Dlouhé stisknutí tlačítka Zpět</string>
     <string name="long_press_buttom_key">Dlouhé stisknutí tlačítka Domů na Zamykací obrazovce</string>
+    <string name="long_press_editor_style_summary">Přidržte Zamykací obrazovku, abyste mohli změnit hodiny a tapetu</string>
+    <string name="long_press_editor_style_title">Přidržte, chcete-li provést změny</string>
     <string name="long_press_home_key">Dlouhé stisknutí tlačítka Domů</string>
     <string name="long_press_menu_key">Dlouhé stisknutí tlačítka Menu</string>
     <string name="long_press_menu_key_when_lock">Dlouhé stisknutí tlačítka Menu na Zamykací obrazovce</string>

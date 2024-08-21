@@ -307,6 +307,8 @@ Prøv på nytt om %d sekunder."</string>
     <string name="bluetooth_battery_level">%1$s batteri</string>
     <string name="bluetooth_battery_level_untethered">V: %1$s batteri, H: %2$s batteri</string>
     <string name="bluetooth_connected">Koblet til %1$s</string>
+    <string name="bluetooth_connected_no_a2dp">Koblet til (ingen medier) %1$s</string>
+    <string name="bluetooth_connected_no_headset">Koblet til (ingen telefon) %1$s</string>
     <string name="bluetooth_connecting">Kobler til…</string>
     <string name="bluetooth_disconnected">Frakoblet</string>
     <string name="bluetooth_disconnecting">Kobler fra…</string>

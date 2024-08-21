@@ -5124,6 +5124,8 @@ Si se niega este permiso, el sistema limitará el tiempo que la app puede realiz
     <string name="long_background_tasks_title">Tareas largas en segundo plano</string>
     <string name="long_press_back_key">Mantener presionado el botón Atrás</string>
     <string name="long_press_buttom_key">Mantener presionado Inicio en la pantalla de bloqueo</string>
+    <string name="long_press_editor_style_summary">Mantenga presionada la Pantalla de bloqueo para editar el reloj y el fondo de pantalla</string>
+    <string name="long_press_editor_style_title">Mantenga presionado para editar</string>
     <string name="long_press_home_key">Mantenga presionado el botón Inicio</string>
     <string name="long_press_menu_key">Mantenga presionado el botón Menú</string>
     <string name="long_press_menu_key_when_lock">Mantenga presionado Menú en la pantalla de bloqueo</string>

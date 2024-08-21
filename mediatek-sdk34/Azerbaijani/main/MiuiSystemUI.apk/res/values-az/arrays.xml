@@ -5,6 +5,12 @@
         <item>Enerji dolan zaman faizi göstərin (defolt)</item>
         <item>Bu piktoqramı göstərməyin</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, aktiv</item>
+        <item>, aktiv (media)</item>
+        <item>, aktiv (telefon)</item>
+    </string-array>
     <string-array name="clock_options">
         <item>Saat, dəqiqə və saniyəni göstərin</item>
         <item>Saat və dəqiqəni göstərin (defolt)</item>

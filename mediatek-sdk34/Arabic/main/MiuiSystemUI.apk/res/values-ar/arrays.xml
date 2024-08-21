@@ -68,6 +68,12 @@
         <item>عرض النسبة المئوية عند الشحن (تلقائي)</item>
         <item>عدم عرض هذا الرمز</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>، مُفعَّل</item>
+        <item>، مُفعَّل (وسائط)</item>
+        <item>، مُفعَّل (هاتف)</item>
+    </string-array>
     <string-array name="clock_options">
         <item>عرض الساعات والدقائق والثواني</item>
         <item>عرض الساعات والدقائق (تلقائي)</item>

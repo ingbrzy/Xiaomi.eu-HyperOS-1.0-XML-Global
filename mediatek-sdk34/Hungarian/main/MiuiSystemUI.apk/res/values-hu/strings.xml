@@ -307,6 +307,8 @@ Próbálja újra %d másodperc múlva."</string>
     <string name="bluetooth_battery_level">Akkumulátor: %1$s</string>
     <string name="bluetooth_battery_level_untethered">B: %1$s-os töltöttség, J: %2$s-os töltöttség</string>
     <string name="bluetooth_connected">Csatlakoztatva%1$s</string>
+    <string name="bluetooth_connected_no_a2dp">Csatlakoztatva (médiahang nélkül)%1$s</string>
+    <string name="bluetooth_connected_no_headset">Csatlakoztatva (telefonhang nélkül)%1$s</string>
     <string name="bluetooth_connecting">Csatlakozás…</string>
     <string name="bluetooth_disconnected">Szétkapcsolva</string>
     <string name="bluetooth_disconnecting">Szétkapcsolás...</string>

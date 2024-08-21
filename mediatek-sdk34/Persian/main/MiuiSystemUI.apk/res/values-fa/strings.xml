@@ -272,6 +272,8 @@
     <string name="bluetooth_battery_level">%1$s شارژ باتری</string>
     <string name="bluetooth_battery_level_untethered">چپ: %1$s باتری، راست: %2$s باتری</string>
     <string name="bluetooth_connected">متصل%1$s</string>
+    <string name="bluetooth_connected_no_a2dp">متصل (بدون رسانه)%1$s</string>
+    <string name="bluetooth_connected_no_headset">متصل (بدون تلفن)%1$s</string>
     <string name="bluetooth_connecting">در حال اتصال…</string>
     <string name="bluetooth_disconnected">اتصال قطع شد</string>
     <string name="bluetooth_disconnecting">در حال قطع اتصال...</string>

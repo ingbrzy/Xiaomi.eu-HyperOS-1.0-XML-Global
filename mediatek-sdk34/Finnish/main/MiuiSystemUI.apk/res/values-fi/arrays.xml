@@ -5,6 +5,12 @@
         <item>Näytä prosenttiluku latauksen aikana (oletus)</item>
         <item>Älä näytä tätä kuvaketta</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, aktiivinen</item>
+        <item>, aktiivinen (media)</item>
+        <item>, aktiivinen (puhelin)</item>
+    </string-array>
     <string-array name="clock_options">
         <item>Näytä tunnit, minuutit ja sekunnit</item>
         <item>Näytä tunnit ja minuutit (oletus)</item>

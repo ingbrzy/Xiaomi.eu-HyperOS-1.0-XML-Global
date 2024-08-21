@@ -5,6 +5,12 @@
         <item>Прикажи проценат током пуњења (подразумевано)</item>
         <item>Не приказуј ову икону</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, активан</item>
+        <item>, активан (медијски)</item>
+        <item>, активан (телефон)</item>
+    </string-array>
     <string-array name="clock_options">
         <item>Прикажи сате, минуте и секунде</item>
         <item>Прикажи сате и минуте (подразумевано)</item>

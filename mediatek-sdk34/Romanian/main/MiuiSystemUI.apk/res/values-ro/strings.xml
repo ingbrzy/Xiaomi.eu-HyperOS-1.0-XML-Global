@@ -307,6 +307,8 @@
     <string name="bluetooth_battery_level">Nivelul bateriei: %1$s</string>
     <string name="bluetooth_battery_level_untethered">L: %1$s baterie, R: %2$s baterie</string>
     <string name="bluetooth_connected">Te-ai conectat la %1$s</string>
+    <string name="bluetooth_connected_no_a2dp">Conectat (fără conținut media) la %1$s</string>
+    <string name="bluetooth_connected_no_headset">Conectat (fără telefon) la %1$s</string>
     <string name="bluetooth_connecting">Se conectează...</string>
     <string name="bluetooth_disconnected">Deconectat</string>
     <string name="bluetooth_disconnecting">În curs de deconectare...</string>

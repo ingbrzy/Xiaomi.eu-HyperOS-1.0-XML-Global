@@ -5,6 +5,12 @@
         <item>Afișează procentajul când se încarcă (prestabilit)</item>
         <item>Nu afișa această pictogramă</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, activ</item>
+        <item>, activ (media)</item>
+        <item>, activ (telefon)</item>
+    </string-array>
     <string-array name="clock_options">
         <item>Afișează orele, minutele și secundele</item>
         <item>Afișează orele și minutele (prestabilit)</item>

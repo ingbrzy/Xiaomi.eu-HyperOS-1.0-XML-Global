@@ -307,6 +307,8 @@
     <string name="bluetooth_battery_level">แบตเตอรี่ %1$s</string>
     <string name="bluetooth_battery_level_untethered">L: แบตเตอรี่ %1$s, R: แบตเตอรี่ %2$s</string>
     <string name="bluetooth_connected">เชื่อมต่อแล้ว%1$s</string>
+    <string name="bluetooth_connected_no_a2dp">เชื่อมต่อแล้ว (ไม่รวมสื่อ)%1$s</string>
+    <string name="bluetooth_connected_no_headset">เชื่อมต่อแล้ว (ไม่รวมโทรศัพท์)%1$s</string>
     <string name="bluetooth_connecting">กำลังเชื่อมต่อ…</string>
     <string name="bluetooth_disconnected">ตัดการเชื่อมต่อ</string>
     <string name="bluetooth_disconnecting">กำลังตัดการเชื่อมต่อ...</string>

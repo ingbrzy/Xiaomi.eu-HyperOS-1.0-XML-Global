@@ -5,6 +5,12 @@
         <item>충전할 때 퍼센트 표시(기본값)</item>
         <item>이 아이콘 표시 안함</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, 활성</item>
+        <item>, 활성(미디어)</item>
+        <item>, 활성(휴대전화)</item>
+    </string-array>
     <string-array name="clock_options">
         <item>시간, 분, 초 표시</item>
         <item>시간, 분 표시(기본값)</item>

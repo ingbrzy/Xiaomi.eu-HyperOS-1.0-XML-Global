@@ -5,6 +5,12 @@
         <item>Mostra el percentatge quan es carregui (opció predeterminada)</item>
         <item>No mostris aquesta icona</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, actiu</item>
+        <item>, actiu (contingut multimèdia)</item>
+        <item>, actiu (telèfon)</item>
+    </string-array>
     <string-array name="clock_options">
         <item>Mostra les hores, els minuts i els segons</item>
         <item>Mostra les hores i els minuts (opció predeterminada)</item>

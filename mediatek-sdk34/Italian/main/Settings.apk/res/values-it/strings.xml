@@ -5132,6 +5132,8 @@ Se questa autorizzazione viene negata, il sistema limiterà il tempo di esecuzio
     <string name="long_background_tasks_title">Attività in background lunghe</string>
     <string name="long_press_back_key">Tieni premuto il tasto Indietro</string>
     <string name="long_press_buttom_key">Tieni premuto il tasto Home nella schermata di blocco</string>
+    <string name="long_press_editor_style_summary">"Tieni premuto la schermata di blocco per modificare l'orologio e lo sfondo"</string>
+    <string name="long_press_editor_style_title">Tieni premuto per modificare</string>
     <string name="long_press_home_key">Tieni premuto il tasto Home</string>
     <string name="long_press_menu_key">Tieni premuto il tasto Menu</string>
     <string name="long_press_menu_key_when_lock">Tieni premuto il tasto Menu nella schermata di blocco</string>

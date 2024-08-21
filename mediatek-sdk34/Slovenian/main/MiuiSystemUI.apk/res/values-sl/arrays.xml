@@ -5,6 +5,12 @@
         <item>Prikaži odstotek med polnjenjem (privzeto)</item>
         <item>Ne prikaži te ikone</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, aktivno</item>
+        <item>, aktivno (predstavnost)</item>
+        <item>, aktivno (telefon)</item>
+    </string-array>
     <string-array name="clock_options">
         <item>Prikaži ure, minute in sekunde</item>
         <item>Prikaži ure in minute (privzeto)</item>

@@ -5122,6 +5122,8 @@ Hvis denne tilladelse afvises, begrænser systemet, hvor lang tid appen kan brug
     <string name="long_background_tasks_title">Lange baggrundsopgaver</string>
     <string name="long_press_back_key">Langt tryk på tilbageknappen</string>
     <string name="long_press_buttom_key">Langt tryk på hjem på låseskærmen</string>
+    <string name="long_press_editor_style_summary">Tryk og hold på låseskærmen for at redigere ur og baggrund</string>
+    <string name="long_press_editor_style_title">Tryk og hold for at redigere</string>
     <string name="long_press_home_key">Langt tryk på hjemknappen</string>
     <string name="long_press_menu_key">Langt tryk på menuknappen</string>
     <string name="long_press_menu_key_when_lock">Langt tryk på menu på låseskærmen</string>

@@ -307,6 +307,8 @@
     <string name="bluetooth_battery_level">مستوى طاقة البطارية %1$s</string>
     <string name="bluetooth_battery_level_untethered">مستوى البطارية: %1$s، المعدّل: %2$s</string>
     <string name="bluetooth_connected">الجهاز متصل%1$s</string>
+    <string name="bluetooth_connected_no_a2dp">الجهاز متصل (بدون وسائط)%1$s</string>
+    <string name="bluetooth_connected_no_headset">الجهاز متصل (بدون هاتف)%1$s</string>
     <string name="bluetooth_connecting">جارٍ الاتصال…</string>
     <string name="bluetooth_disconnected">غير متصل</string>
     <string name="bluetooth_disconnecting">جارٍ قطع الاتصال...</string>

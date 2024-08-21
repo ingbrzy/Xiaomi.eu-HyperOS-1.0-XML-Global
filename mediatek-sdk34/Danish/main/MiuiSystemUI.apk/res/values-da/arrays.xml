@@ -5,6 +5,12 @@
         <item>Vis procent ved opladning (standard)</item>
         <item>Vis ikke dette ikon</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, aktiv</item>
+        <item>, aktiv (medier)</item>
+        <item>, aktiv (telefon)</item>
+    </string-array>
     <string-array name="clock_options">
         <item>Vis timer, minutter og sekunder</item>
         <item>Vis timer og minutter (standard)</item>

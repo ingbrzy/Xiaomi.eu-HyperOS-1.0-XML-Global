@@ -5,6 +5,12 @@
         <item>Паказваць працэнты падчас зарадкі (стандартна)</item>
         <item>Не паказваць гэты значок</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, уключана</item>
+        <item>, уключана (мультымедыя)</item>
+        <item>, уключана (тэлефон)</item>
+    </string-array>
     <string-array name="clock_options">
         <item>Паказваць гадзіны, хвіліны і секунды</item>
         <item>Паказваць гадзіны і хвіліны (стандартна)</item>

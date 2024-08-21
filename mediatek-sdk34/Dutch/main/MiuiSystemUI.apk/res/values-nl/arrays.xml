@@ -5,6 +5,12 @@
         <item>Percentage tonen tijdens opladen (standaard)</item>
         <item>Dit icoon niet tonen</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, actief</item>
+        <item>, actief (media)</item>
+        <item>, actief (telefoon)</item>
+    </string-array>
     <string-array name="clock_options">
         <item>Uren, minuten en seconden tonen</item>
         <item>Uren en minuten tonen (standaard)</item>

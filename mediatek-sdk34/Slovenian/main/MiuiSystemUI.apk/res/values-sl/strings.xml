@@ -307,6 +307,8 @@ Poskusite znova čez %d s."</string>
     <string name="bluetooth_battery_level">Baterija na %1$s</string>
     <string name="bluetooth_battery_level_untethered">L: napolnjenost baterije je %1$s, D: napolnjenost baterije je %2$s</string>
     <string name="bluetooth_connected">Povezano %1$s</string>
+    <string name="bluetooth_connected_no_a2dp">Povezano (brez predstavnosti) %1$s</string>
+    <string name="bluetooth_connected_no_headset">Povezano (brez telefona) %1$s</string>
     <string name="bluetooth_connecting">Vzpostavljanje povezave ...</string>
     <string name="bluetooth_disconnected">Prekinjena povezava</string>
     <string name="bluetooth_disconnecting">Prekinjanje povezave ...</string>

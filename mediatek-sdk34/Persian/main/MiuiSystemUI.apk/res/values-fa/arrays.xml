@@ -5,6 +5,12 @@
         <item>هنگام شارژ شدن درصد نشان داده شود (پیش‌فرض)</item>
         <item>این نماد نشان داده نشود</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>، فعال</item>
+        <item>، فعال (رسانه)</item>
+        <item>، فعال (تلفن)</item>
+    </string-array>
     <string-array name="clock_options">
         <item>ساعت، دقیقه و ثانیه نشان داده شود</item>
         <item>ساعت و دقیقه نشان داده شود (پیش‌فرض)</item>

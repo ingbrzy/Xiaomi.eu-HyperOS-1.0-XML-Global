@@ -5,6 +5,12 @@
         <item>แสดงเปอร์เซ็นต์เมื่อชาร์จ (ค่าเริ่มต้น)</item>
         <item>อย่าแสดงไอคอนนี้</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>ใช้งานอยู่</item>
+        <item>ใช้งานอยู่ (สื่อ)</item>
+        <item>ใช้งานอยู่ (โทรศัพท์)</item>
+    </string-array>
     <string-array name="clock_options">
         <item>แสดงชั่วโมง นาที และวินาที</item>
         <item>แสดงชั่วโมงและนาที (ค่าเริ่มต้น)</item>

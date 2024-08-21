@@ -307,6 +307,8 @@ Skúste to znova o %d s."</string>
     <string name="bluetooth_battery_level">Batéria: %1$s</string>
     <string name="bluetooth_battery_level_untethered">Ľ: %1$s batérie, P: %2$s batérie</string>
     <string name="bluetooth_connected">Pripojené k zariadeniu %1$s</string>
+    <string name="bluetooth_connected_no_a2dp">Pripojené k zariadeniu %1$s (bez médií)</string>
+    <string name="bluetooth_connected_no_headset">Pripojené k zariadeniu %1$s (bez telefónu)</string>
     <string name="bluetooth_connecting">Prebieha pripájanie…</string>
     <string name="bluetooth_disconnected">Odpojený</string>
     <string name="bluetooth_disconnecting">Prebieha odpájanie...</string>

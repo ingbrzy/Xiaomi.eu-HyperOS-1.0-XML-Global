@@ -307,6 +307,8 @@ Probeer het over %d seconden opnieuw."</string>
     <string name="bluetooth_battery_level">Batterijniveau %1$s</string>
     <string name="bluetooth_battery_level_untethered">L: %1$s batterij, R: %2$s batterij</string>
     <string name="bluetooth_connected">Verbonden: %1$s</string>
+    <string name="bluetooth_connected_no_a2dp">Verbonden: %1$s (geen media)</string>
+    <string name="bluetooth_connected_no_headset">Verbonden: %1$s (geen telefoon)</string>
     <string name="bluetooth_connecting">Verbinding maken...</string>
     <string name="bluetooth_disconnected">Verbinding verbroken</string>
     <string name="bluetooth_disconnecting">Verbinding verbreken...</string>

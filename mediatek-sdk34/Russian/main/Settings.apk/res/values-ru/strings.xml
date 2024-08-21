@@ -5119,6 +5119,8 @@ Xiaomi Cloud
     <string name="long_background_tasks_title">Продолжительные фоновые задачи</string>
     <string name="long_press_back_key">Долгое нажатие \"Назад\"</string>
     <string name="long_press_buttom_key">Долгое нажатие \"Домой\" на экране блокировки</string>
+    <string name="long_press_editor_style_summary">Нажмите и удерживайте Экран блокировки, чтобы изменить часы и обои</string>
+    <string name="long_press_editor_style_title">Нажмите и удерживайте, чтобы изменить</string>
     <string name="long_press_home_key">Долгое нажатие \"Домой\"</string>
     <string name="long_press_menu_key">Долгое нажатие \"Меню\"</string>
     <string name="long_press_menu_key_when_lock">Долгое нажатие \"Меню\" на экране блокировки</string>

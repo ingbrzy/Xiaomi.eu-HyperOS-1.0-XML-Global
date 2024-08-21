@@ -272,6 +272,8 @@
     <string name="bluetooth_battery_level">ဘက်ထရီ %1$s</string>
     <string name="bluetooth_battery_level_untethered">L− ဘက်ထရီ %1$s၊ R− ဘက်ထရီ %2$s</string>
     <string name="bluetooth_connected">%1$s ချိတ်ဆက်ပြီးပြီ</string>
+    <string name="bluetooth_connected_no_a2dp">%1$s ချိတ်ဆက်ပြီးပြီ (မီဒီယာ မရှိပါ)</string>
+    <string name="bluetooth_connected_no_headset">%1$s ချိတ်ဆက်ပြီးပြီ (ဖုန်းမရှိပါ)</string>
     <string name="bluetooth_connecting">ချိတ်ဆက်နေသည်</string>
     <string name="bluetooth_disconnected">ချိတ်ဆက်မှုပြတ်တောက်သည်</string>
     <string name="bluetooth_disconnecting">အဆက်အသွယ်ဖြတ်တောက်သည်</string>

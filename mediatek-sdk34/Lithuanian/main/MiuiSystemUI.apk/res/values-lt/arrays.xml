@@ -5,6 +5,12 @@
         <item>Rodyti procentus kraunant (numatytasis nustatymas)</item>
         <item>Nerodyti šios piktogramos</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, aktyvus</item>
+        <item>, aktyvus (medija)</item>
+        <item>, aktyvus (telefonas)</item>
+    </string-array>
     <string-array name="clock_options">
         <item>Rodyti valandas, minutes ir sekundes</item>
         <item>Rodyti valandas ir minutes (numatytasis nustatymas)</item>

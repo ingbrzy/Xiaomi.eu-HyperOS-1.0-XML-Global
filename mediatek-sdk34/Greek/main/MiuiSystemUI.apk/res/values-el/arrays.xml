@@ -60,6 +60,12 @@
         <item>Να εμφανίζεται ποσοστό κατά τη φόρτιση (προεπιλογή)</item>
         <item>Να μην εμφανίζεται αυτό το εικονίδιο</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, ενεργή</item>
+        <item>, ενεργή (μέσα)</item>
+        <item>, ενεργή (τηλέφωνο)</item>
+    </string-array>
     <string-array name="clock_options">
         <item>Να εμφανίζονται ώρες, λεπτά και δευτερόλεπτα</item>
         <item>Να εμφανίζονται ώρες και λεπτά (προεπιλογή)</item>

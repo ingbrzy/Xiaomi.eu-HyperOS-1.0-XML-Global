@@ -307,6 +307,8 @@
     <string name="bluetooth_battery_level">バッテリー %1$s</string>
     <string name="bluetooth_battery_level_untethered">L: バッテリー残量 %1$s、R: バッテリー残量 %2$s</string>
     <string name="bluetooth_connected">接続済み: %1$s</string>
+    <string name="bluetooth_connected_no_a2dp">接続済み（メディアなし）: %1$s</string>
+    <string name="bluetooth_connected_no_headset">接続済み（電話なし）: %1$s</string>
     <string name="bluetooth_connecting">接続処理中...</string>
     <string name="bluetooth_disconnected">切断</string>
     <string name="bluetooth_disconnecting">切断中...</string>

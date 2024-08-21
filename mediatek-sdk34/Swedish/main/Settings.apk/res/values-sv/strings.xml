@@ -5124,6 +5124,8 @@ Om behörigheten nekas begränsar systemet hur länge appen kan utföra sådana 
     <string name="long_background_tasks_title">Långa bakgrundsuppgifter</string>
     <string name="long_press_back_key">Långtryck på Bakåtknappen</string>
     <string name="long_press_buttom_key">Långtryck på Hemknappen på Låsskärmen</string>
+    <string name="long_press_editor_style_summary">Tryck och håll inne låsskärmen för att redigera klocka och bakgrund</string>
+    <string name="long_press_editor_style_title">Tryck och håll inne för att redigera</string>
     <string name="long_press_home_key">Långtryck på Hemknappen</string>
     <string name="long_press_menu_key">Långtryck på Menyknappen</string>
     <string name="long_press_menu_key_when_lock">Långtryck på Menyknappen på Låsskärmen</string>

@@ -307,6 +307,8 @@
     <string name="bluetooth_battery_level">Ниво батерије је %1$s</string>
     <string name="bluetooth_battery_level_untethered">Л: %1$s батерије, Д: %2$s батерије</string>
     <string name="bluetooth_connected">Повезано: %1$s</string>
+    <string name="bluetooth_connected_no_a2dp">Повезано (без медија): %1$s</string>
+    <string name="bluetooth_connected_no_headset">Повезано (без телефона): %1$s</string>
     <string name="bluetooth_connecting">Повезивање…</string>
     <string name="bluetooth_disconnected">Веза је прекинута</string>
     <string name="bluetooth_disconnecting">Прекидање везе...</string>
