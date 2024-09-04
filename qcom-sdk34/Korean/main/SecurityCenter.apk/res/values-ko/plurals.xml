@@ -227,7 +227,7 @@
         <item quantity="other">%d일 무료 체험 얻기</item>
     </plurals>
     <plurals name="gd_app_edit_desc_new">
-        <item quantity="other">최대 %d개 앱을 추가합니다. 길게 눌러 재배치하십십시오.</item>
+        <item quantity="other">최대 %d개 앱을 추가합니다. 길게 눌러 재배치하십시오.</item>
     </plurals>
     <plurals name="gtb_brightness_dialog_message">
         <item quantity="other">이 기능은 전력 절약을 위해 %d분 동안 활동이 없을 시, 자동으로 화면 밝기를 낮춥니다. 이 기능을 계속 사용하시겠습니까?</item>
@@ -430,6 +430,9 @@
     </plurals>
     <plurals name="pc_battery_history_minute">
         <item quantity="other">" 분"</item>
+    </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d일</item>
     </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d개 항목</item>

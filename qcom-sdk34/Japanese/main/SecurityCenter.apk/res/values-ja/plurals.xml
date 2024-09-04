@@ -431,6 +431,9 @@
     <plurals name="pc_battery_history_minute">
         <item quantity="other">分</item>
     </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d日間</item>
+    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d個</item>
     </plurals>

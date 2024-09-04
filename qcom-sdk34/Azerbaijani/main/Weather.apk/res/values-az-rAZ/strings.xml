@@ -6,6 +6,8 @@
     <string name="abrupt_weather_settings_summary_type">Gözlənilən yağış, hava keyfiyyəti dəyişiklikləri və digər vacib dəyişikliklər haqqında xəbərdarlıqlar alın</string>
     <string name="act_find_city_hint">Məkan daxil et</string>
     <string name="act_find_city_hot_city_title">Məşhur şəhərlər</string>
+    <string name="act_find_city_location_button_text">Məkanı al</string>
+    <string name="act_find_city_location_title">Cari məkan</string>
     <string name="act_location_error_to_find_city">Məkan məlumatını əldə etmək mümkün olmadı. Məkanı əl ilə əlavə edə bilərsiniz.</string>
     <string name="act_set_city_find_side">Məkan aşkarlanır</string>
     <string name="act_set_city_find_side_error">Cihaz məkanı tapılmadı</string>
@@ -30,6 +32,7 @@
     <string name="activity_main_update_time">Yeniləndi %1$s</string>
     <string name="activity_main_update_time_expire">Məlumat müddəti bitdi</string>
     <string name="activity_main_update_time_right_now">indicə</string>
+    <string name="add_city">Əlavə et</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="alert_detail_title">Xəbərdarlıq detalları</string>
     <string name="alert_warning">Hava məlumatları xəbərdarlıqları</string>
@@ -37,7 +40,7 @@
     <string name="alert_weather_enable_settings_title">Hava xəbərdarlıqları</string>
     <string name="already_voted_toast">Bu gün artq səs vermisiniz</string>
     <string name="am">GƏ</string>
-    <string name="app_name">Hava məlumatları</string>
+    <string name="app_name">Hava</string>
     <string name="aqi_15_days_desc">%d-gün HKİ proqnozu</string>
     <string name="aqi_24_hours_desc">%d-saat HKİ proqnozu</string>
     <string name="aqi_48_hours_desc">%d-saat HKİ proqnozu</string>
@@ -104,7 +107,7 @@
     <string name="date_time_picker_dialog_title">Tarix və saatı təyin et</string>
     <string name="dialog_internet_error_title">Xəta baş verdi</string>
     <string name="dialog_msg_score_midrop">Hava tətbiqi haqqında nə hiss edirsiniz?</string>
-    <string name="dialog_msg_score_not_good">Geri bilidirşinizi də bizimlə paylaşarsınız?</string>
+    <string name="dialog_msg_score_not_good">Geri bildirişinizi də bizimlə paylaşarsınız?</string>
     <string name="dialog_msg_score_perfect">Gözəl! Play Store-da Hava tətbiqi qiymətləndirilsin?</string>
     <string name="dialog_score_bad">Narazı</string>
     <string name="dialog_score_general">Neytral</string>
@@ -132,7 +135,7 @@
     <string name="feedback_overcast">Tutqun</string>
     <string name="feedback_report_privacy_msg">Bildiriş məkan məlumatınızı ehtiva edəcək</string>
     <string name="feedback_result_fail_no_choice">Mövcud hava şəraitini seçin</string>
-    <string name="feedback_result_fail_no_reason">Geri bildirşiniz üçün təşəkkürlər!</string>
+    <string name="feedback_result_fail_no_reason">Geri bildirişiniz üçün təşəkkürlər!</string>
     <string name="feedback_result_fail_same_type">Görünüşə görə bildirişiniz, mövcud hava-dan fərqli deyil. Yenidən cəhd edin.</string>
     <string name="feedback_result_success">Uğurla göndərildi. Geri bildirişiniz üçün təşəkkürlər.</string>
     <string name="feedback_sandy">Toz fırtınası</string>
@@ -313,8 +316,8 @@
     <string name="privacy_grant_or_revoke_settings">Razılığın geri çəkilməsi</string>
     <string name="privacy_grant_success">Səlahiyyət uğurla verildi</string>
     <string name="privacy_policy">Gizlilik Siyasəti</string>
-    <string name="privacy_policy_msg"><Data>Tətbiq aşağıdakı xüsusiyyətləri ehtiva edir&lt;br/>• Məkanınıza xüsusi hava məlumatı&lt;br/>• Hava proqnozu&lt;br/>• Hava məlumatı xəbərdarlıqları&lt;br/>&lt;br/>Hava məlumatları, əsas xidmətləri təmin etmək üçün lazımi şəxsi məlumatları toplamalıdır. Topladığımız məlumatları necə işlətdiyimizi &lt;a href=\"%1$s\">Gizlilik Siyasəti&lt;/a> sazişimizdə öyrənə bilərsiniz. Hava məlumatlarını istifadə etməzdən əvvəl&lt;a href=\"%2$s\">İstifadəçi Sazişi&lt;/a> və &lt;a href=\"%3$s\">Gizlilik Siyasəti&lt;/a> sazişlərimizi oxuyun və qəbul edin.İstədiyiniz zaman Tənzimləmələrdə Hava məlumatları Gizlilik Siyasətinə razılığınızı geri çəkə bilərsiniz..</Data></string>
-    <string name="privacy_policy_msg_for_gp"><Data>Bu tətbiq aşağıdakı xüsusiyyətləri ehtiva edir:&lt;br/>• Məkanınız üçün xüsusi hava məlumatı&lt;br/>• Hava proqnozu&lt;br/>• Hava xəbərdarlıqları&lt;br/>&lt;br/>Tətbiq bağlandıqda və ya istifadə edilmədikdə belə bu xüsusiyyətləri əlçatan etmək üçün hava şəraiti, məkan məlumatları daxil olmaqla lazımi şəxsi məlumatları toplamalıdır. Topladığımız məlumatları necə işətdiyimizi &lt;a href=\"%1$s\">Gizlilik Siyasəti&lt;/a> sazişimizdə öyrənə bilərsiniz. Hava tətbiqini istifadə etməzdən əvvəl &lt;a href=\"%2$s\">İstifadəçi Sazişi&lt;/a> və &lt;a href=\"%3$s\">Gizlilik Siyasəti&lt;/a> sazişlərimizi oxuyun və qəbul edin. İstədiyiniz zaman Tənzimləmələrdə Hava Gizlilik Siyasəti ilə razılığınızı geri çəkə bilərsiniz.</Data></string>
+    <string name="privacy_policy_msg">&lt;Data>Tətbiq aşağıdakı xüsusiyyətləri ehtiva edir&lt;br/>• Məkanınıza xüsusi hava məlumatı&lt;br/>• Hava proqnozu&lt;br/>• Hava məlumatı xəbərdarlıqları&lt;br/>&lt;br/>Hava məlumatları, əsas xidmətləri təmin etmək üçün lazımi şəxsi məlumatları toplamalıdır. Topladığımız məlumatları necə işlətdiyimizi &lt;a href=\"%1$s\">Gizlilik Siyasəti&lt;/a> sazişimizdə öyrənə bilərsiniz. Hava məlumatlarını istifadə etməzdən əvvəl&lt;a href=\"%2$s\">İstifadəçi Sazişi&lt;/a> və &lt;a href=\"%3$s\">Gizlilik Siyasəti&lt;/a> sazişlərimizi oxuyun və qəbul edin.İstədiyiniz zaman Tənzimləmələrdə Hava məlumatları Gizlilik Siyasətinə razılığınızı geri çəkə bilərsiniz..&lt;/Data></string>
+    <string name="privacy_policy_msg_for_gp">&lt;Data>Bu tətbiq aşağıdakı xüsusiyyətləri ehtiva edir:&lt;br/>• Məkanınız üçün xüsusi hava məlumatı&lt;br/>• Hava proqnozu&lt;br/>• Hava xəbərdarlıqları&lt;br/>&lt;br/>Tətbiq bağlandıqda və ya istifadə edilmədikdə belə bu xüsusiyyətləri əlçatan etmək üçün hava şəraiti, məkan məlumatları daxil olmaqla lazımi şəxsi məlumatları toplamalıdır. Topladığımız məlumatları necə işətdiyimizi &lt;a href=\"%1$s\">Gizlilik Siyasəti&lt;/a> sazişimizdə öyrənə bilərsiniz. Hava tətbiqini istifadə etməzdən əvvəl &lt;a href=\"%2$s\">İstifadəçi Sazişi&lt;/a> və &lt;a href=\"%3$s\">Gizlilik Siyasəti&lt;/a> sazişlərimizi oxuyun və qəbul edin. İstədiyiniz zaman Tənzimləmələrdə Hava Gizlilik Siyasəti ilə razılığınızı geri çəkə bilərsiniz.&lt;/Data></string>
     <string name="privacy_revoke_success">Səlahiyyət uğurla ləğv edildi</string>
     <string name="privacy_settings">Gizlilik Siyasəti</string>
     <string name="pull_fresh_updated">Uğurla yeniləndi</string>

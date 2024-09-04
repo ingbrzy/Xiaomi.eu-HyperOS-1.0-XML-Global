@@ -50,6 +50,7 @@
     <string name="cancel">لغو</string>
     <string name="cancel_moving_dialog_message">اکنون وارد کردن متوقف شود؟</string>
     <string name="cancel_moving_dialog_title">توقف وارد کردن</string>
+    <string name="cancel_tranfer">لغو</string>
     <string name="cannot_use_mi_huanji_button">متوجه‌ام</string>
     <string name="cannot_use_mi_huanji_summary">به نظر می‌رسد MIUI درحال پشتیبان‌گیری از موارد است. پشتیبان‌گیری‌های درحال انجام را متوقف کرده و یا دستگاه خود را دوباره راه‌اندازی کنید تا جابجاگر Mi انتقال را آغاز کند.</string>
     <string name="cannot_use_mi_huanji_title">اکنون نمی‎توان انتقال داد</string>
@@ -239,6 +240,7 @@
     <string name="guest_unfinished_task_alert_message">به نظر می‌رسد شما یک جابجایی ناتمام دارید. جابجایی ادامه یابد؟</string>
     <string name="guest_unfinished_task_alert_title">کارهای ناتمام</string>
     <string name="hide_password_description">پنهان کردن گذرواژه</string>
+    <string name="high_temp_summary">ممکن است دستگاه شما در حین انتقال مقادیر زیادی داده گرم شود. این طبیعی است و دستگاه شما پس از اتمام انتقال خنک می‌شود.</string>
     <string name="host_boot_installation_bottom_tips">جابجاگر Mi یافت نمی‌شود؟ برای دانلود ضربه بزنید.</string>
     <string name="host_boot_installation_button">بعدی</string>
     <string name="host_boot_installation_dialog_message">نسخه جابجاگر Mi دستگاه قدیمی شما با نسخه‌ای که در اینجا نصب شده است سازگار نیست.</string>
@@ -433,8 +435,8 @@
     <string name="new_trans_intro_desc_6">ممکن است گوشی جدید Mi شما مجوزهای لازم را برای انجام آن نداشته باشد.</string>
     <string name="new_trans_intro_desc_7">جابجاگر Mi می‌تواند از هر جایی که ترک کرده‌اید ادامه دهد. با این وجود، در صورتی که اشکالات سازگاری سبب جلوگیری از ادامه انتقال قطع شده شود ممکن است لازم شود از ابتدا آغاز کنید.</string>
     <string name="new_trans_intro_desc_8">هنگام انتقال تاریخچه WeChat از دستگاه قدیمی روی تاریخچه WeChat دستگاه جدید بازنویسی خواهد شد.</string>
-    <string name="new_trans_intro_desc_new">"%1$d. مطمئن شوید که «جابجاگر Mi» در دستگاه شما به‌روز است. می‌توانید آخرین نسخۀ جابجاگر Mi را در پلی‌استور دانلود کنید یا اینجا ضربه بزنید: %2$s. 
-%3$d اگر هات‌اسپات هنوز در «جابجاگر Mi» دیده نمی‌شود، تنظیمات وای‌فای را باز کنید و ببینید که می‌توانید هات‌اسپات را آنجا ببینید یا خیر. اگر توانستید آن را ببینید، به «جابجاگر Mi» برگردید و روی نام هات‌اسپات ضربه بزنید."</string>
+    <string name="new_trans_intro_desc_new">"%1$d. مطمئن شوید که «جابجاگر Mi» در دستگاه شما به‌روز است. می‌توانید آخرین نسخۀ جابجاگر Mi را در فروشگاه Play دانلود کنید یا اینجا ضربه بزنید: %2$s. 
+%3$d اگر کانون داغ هنوز در «جابجاگر Mi» دیده نمی‌شود، تنظیمات Wi-Fi را باز کنید و ببینید که می‌توانید کانون داغ را آنجا ببینید یا خیر. اگر توانستید آن را ببینید، به «جابجاگر Mi» برگردید و روی نام کانون داغ ضربه بزنید."</string>
     <string name="new_trans_intro_desc_new_click">دانلود</string>
     <string name="new_trans_intro_desc_old">%d. در صورتی که کانون داغ همچنان در جابجاگر Mi نمایان نشد، تنظیمات Wi-Fi را باز کرده و بررسی کنید که آیا در آنجا دیده می‌شود یا خیر. اگر چنین است به جابجاگر Mi و روی نام کانون داغ بزنید.</string>
     <string name="new_trans_intro_question_1">%d. چرا نمی‌توانم کانون داغ دستگاه جدید را در دستگاه قدیمی ببینم؟</string>
@@ -443,7 +445,7 @@
     <string name="new_trans_intro_question_4">%d. چرا همه برنامه‌ها با موفقیت جابجا نشدند؟</string>
     <string name="new_trans_intro_question_5">%d. چرا گذرواژه حساب‌های برخی برنامه‌های سوم شخص با موفقیت جابجا نشدند؟</string>
     <string name="new_trans_intro_question_6">%d. چرا داده‌های برنامه‌ها نمی‌توانند از یک دستگاه سوم‌شخص جابجا شوند؟</string>
-    <string name="new_trans_intro_question_7">%d. اگر جابجاگر Mi را در وسط یک جابجایی ترک کنم، آشا باید بار بعدی از ابتدا آغاز کنم؟</string>
+    <string name="new_trans_intro_question_7">%d. اگر جابجاگر Mi را در وسط یک جابجایی ترک کنم، آیا باید بار بعدی از ابتدا آغاز کنم؟</string>
     <string name="new_trans_intro_question_8">%d. چرا تاریخچه WeChat من در دستگاه جدید ناپدید شد؟</string>
     <string name="new_wait_link_message_2">دکمه «من یک فرستنده هستم» درست در صفحه آغاز جابجاگر Mi قرار دارد.</string>
     <string name="next">بعدی</string>

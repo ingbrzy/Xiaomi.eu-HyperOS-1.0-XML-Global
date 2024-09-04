@@ -33,6 +33,8 @@
     <string name="abrupt_weather_settings_summary_type">Получавай предупреждения за валежи, промени в качеството на въздуха и други важни промени</string>
     <string name="act_find_city_hint">Въведете място</string>
     <string name="act_find_city_hot_city_title">Популярни градове</string>
+    <string name="act_find_city_location_button_text">Получаване на местоположение</string>
+    <string name="act_find_city_location_title">Настоящо местоположение</string>
     <string name="act_location_error_to_find_city">Неуспешно получаване на информация за местоположението. Можете ръчно да добавите местоположение.</string>
     <string name="act_set_city_find_side">Локализиране</string>
     <string name="act_set_city_find_side_error">Не може да се определи позицията ви</string>
@@ -57,6 +59,7 @@
     <string name="activity_main_update_time">Обновено %1$s</string>
     <string name="activity_main_update_time_expire">Инф. не е актуална</string>
     <string name="activity_main_update_time_right_now">току-що</string>
+    <string name="add_city">Добавяне</string>
     <string name="afternoon">Следобяд</string>
     <string name="alert_detail_title">Подробности за алармиране</string>
     <string name="alert_warning">Предупреждение за времето</string>
@@ -64,7 +67,7 @@
     <string name="alert_weather_enable_settings_title">Предупреждения за времето</string>
     <string name="already_voted_toast">Вие вече гласувахте днес</string>
     <string name="am">AM</string>
-    <string name="app_name">Времето</string>
+    <string name="app_name">Време</string>
     <string name="aqi_15_days_desc">%d-дневна прогноза за AQI</string>
     <string name="aqi_24_hours_desc">%d-часова прогноза за AQI</string>
     <string name="aqi_48_hours_desc">%d-часова прогноза за AQI</string>
@@ -159,7 +162,7 @@
     <string name="dialog_score_very_good">Много доволен</string>
     <string name="dialog_title_score">Оценете Времето</string>
     <string name="download_rsc_tips">Зареждане на фоново аудио…</string>
-    <string name="dynamic_weather">Времето</string>
+    <string name="dynamic_weather">Време</string>
     <string name="early_morning">Сутрин</string>
     <string name="edit_city">Редакция на градове</string>
     <string name="empty">" "</string>

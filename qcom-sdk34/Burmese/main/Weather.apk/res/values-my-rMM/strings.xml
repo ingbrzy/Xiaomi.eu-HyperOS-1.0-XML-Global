@@ -6,6 +6,8 @@
     <string name="abrupt_weather_settings_summary_type">မိုးရွာနိုင်ခြေရှိမရှိ၊ လေအရည်အသွေးအပြောင်းအလဲများနှင့် အခြား ထင်ရှားသော အပြောင်းအလဲများအကြောင်း သတိပေးချက်များရယူရန်</string>
     <string name="act_find_city_hint">တည်နေရာအားထည့်သွင်းပါ</string>
     <string name="act_find_city_hot_city_title">အထင်ကရမြို့တော်များ</string>
+    <string name="act_find_city_location_button_text">တည်နေရာရယူရန်</string>
+    <string name="act_find_city_location_title">လက်ရှိတည်နေရာ</string>
     <string name="act_location_error_to_find_city">တည်နေရာအချက်အလက် ယူမရပါ။ တည်နေရာကို လက်ဖြင့်ထည့်နိုင်သည်။</string>
     <string name="act_set_city_find_side">တည်နေရာရှာနေ</string>
     <string name="act_set_city_find_side_error">ကိရိယာအားမရှာဖွေနိုင်ပါ</string>
@@ -30,6 +32,7 @@
     <string name="activity_main_update_time">မွမ်းမံထားသော %1$s</string>
     <string name="activity_main_update_time_expire">ဒေတာ သက်တမ်းကုန်သွားသော</string>
     <string name="activity_main_update_time_right_now">အခုလေးတင်</string>
+    <string name="add_city">ထည့်ရန်</string>
     <string name="afternoon">နေ့လယ်</string>
     <string name="alert_detail_title">သတိပေးချက်အသေးစိတ်များ</string>
     <string name="alert_warning">ရာသီဥတု သတိပေးချက်များ</string>

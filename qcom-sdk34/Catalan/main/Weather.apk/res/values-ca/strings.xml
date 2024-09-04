@@ -33,6 +33,8 @@
     <string name="abrupt_weather_settings_summary_type">"Rebre alertes sobre les precipitacions previstes, els canvis de qualitat de l'aire i altres canvis significatius"</string>
     <string name="act_find_city_hint">Introduïu una ubicació</string>
     <string name="act_find_city_hot_city_title">Ciutats populars</string>
+    <string name="act_find_city_location_button_text">Obtén la ubicació</string>
+    <string name="act_find_city_location_title">Ubicació actual</string>
     <string name="act_location_error_to_find_city">"No s'ha pogut obtenir la informació d'ubicació. Podeu afegir una ubicació manualment."</string>
     <string name="act_set_city_find_side">"S'està ubicant"</string>
     <string name="act_set_city_find_side_error">No es pot ubicar el dispositiu</string>
@@ -57,6 +59,7 @@
     <string name="activity_main_update_time">Actualitzat %1$s</string>
     <string name="activity_main_update_time_expire">Les dades han caducat</string>
     <string name="activity_main_update_time_right_now">ara mateix</string>
+    <string name="add_city">Afegeix</string>
     <string name="afternoon">Tarda</string>
     <string name="alert_detail_title">"Dades de l'alerta"</string>
     <string name="alert_warning">Alertes meteorològiques</string>

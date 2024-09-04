@@ -146,6 +146,10 @@ Mynt är inte återbetalningsbara"</item>
         <item quantity="other">%d arbeten</item>
         <item quantity="one">%d arbete</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">Din begäran kommer att behandlas om cirka %1$d sekunder.</item>
+        <item quantity="one">Din begäran kommer att behandlas om cirka %1$d sekund.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"%d beställningarna har nu återbetalats. "</item>
         <item quantity="one">"%dbeställningen har nu återbetalats. "</item>

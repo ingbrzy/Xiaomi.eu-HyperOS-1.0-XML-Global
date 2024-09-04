@@ -79,6 +79,10 @@
     <string name="author_new_theme">Yeni</string>
     <string name="author_popularity">Baxışlar</string>
     <string name="author_unfollow_succeed">İzləmə uğurla buraxıldı</string>
+    <string name="automatic_renewal_monthly">%s /aylıq avtomatik yenilənir</string>
+    <string name="automatic_renewal_weekly">%s /həftəlik avtomatik yenilənir</string>
+    <string name="automatic_renewal_yearly">%s / illik avtomatik yenilənir</string>
+    <string name="automatically_push_content_to_lock_screen">Hər gün Kilid ekranında yeni məzmun görüntülənəcək</string>
     <string name="automatically_update_using_theme_tips">Növbəti dəfə avtomatik olaraq yenilə</string>
     <string name="back_to_default">Varsayılana qayıt</string>
     <string name="back_to_none">Zəng səsi təyin etməyin</string>
@@ -94,6 +98,9 @@
     <string name="bottom_of_page">İndilik bu qədər.</string>
     <string name="browser_local_resource">Yerli mənbələr</string>
     <string name="can_not_apply">Tətbiq edilə bilmir</string>
+    <string name="canceled_failed">Ləğv edilə bilmədi</string>
+    <string name="canceled_subscription_failed">Abunəlik ləğv edilə bilmədi. Yenidən cəhd et.</string>
+    <string name="canceled_trial_failed">Ləğv edilə bilmədi. Yenidən cəhd et.</string>
     <string name="card_data_request_error">Xəta baş verdi. Bir və ya iki dəqiqə gözləyin və yenidən cəhd edin.</string>
     <string name="card_loading">Bir saniyə…</string>
     <string name="card_no_network">Şəbəkəyə qoşula bilmədi. Şəbəkə tənzimləmələrinizi yoxlayın və yenidən cəhd edin.</string>
@@ -124,6 +131,7 @@
     <string name="current_using_desktop_wallpaper_text">Əsas ekran</string>
     <string name="current_using_lockscreen_wallpaper_text">Kilid ekranı</string>
     <string name="current_version_incompatible">Uyğun deyil</string>
+    <string name="custom_wallpaper_for_you">Sənin üçün fərdiləşdirilmiş divar kağızları</string>
     <string name="data_use_desc">Hüquqi sənədlər</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -133,6 +141,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">Tətbiq et</string>
     <string name="de_super_wp_land_position_default_des">Görünüşü seç</string>
     <string name="deleting">Silinir…</string>
+    <string name="delivers_fresh_content_and_design_daily">Hər gün təzə dizaynlar</string>
     <string name="description_author">Yazıçı</string>
     <string name="description_designer">Dizayner</string>
     <string name="description_download">Endirilmə sayı</string>
@@ -159,6 +168,7 @@
     <string name="editor_apply_message">"Bu xüsusiyyət dizaynerlər tərəfindən sazlama üçün istifadə olunur. Standart tema bir müddət sonra avtomatik olaraq bərpa olunacaq. Cari mövzunun fayl yolu: "</string>
     <string name="editor_apply_toast">Kök qovluğunda temp.mtz-i əl ilə seçin</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">E-poçt ünvanını daxil edin</string>
     <string name="eras_ad">B.E</string>
     <string name="eras_bc">E.ə.</string>
     <string name="evening">Günortadan sonra</string>
@@ -276,6 +286,7 @@
     <string name="hide_incompatible_font">Uyğun olmayan şriftləri gizlədin</string>
     <string name="hide_incompatible_theme">Uyğun olmayan temaları gizlədin</string>
     <string name="hide_incompatible_wallpaper">Uyğun olmayan divar kağızlarını gizlədin</string>
+    <string name="hint_email_address">E-poçt ünvanını daxil edin</string>
     <string name="home_apply_failured">Əsas ekran divar kağızı tətbiq edilə bilmədi</string>
     <string name="home_apply_success">Əsas ekran divar kağızı tətbiq edildi</string>
     <string name="hot_first">Əvvəlcə məşhurlar</string>
@@ -307,6 +318,7 @@
     <string name="loading_resource_detail_fail">Mənbə yüklənə bilmədi</string>
     <string name="loading_resource_detail_info">Bir saniyə…</string>
     <string name="local_photos">Yerli şəkillər</string>
+    <string name="local_record__email_info">E-poçt ünvanımı xatırla</string>
     <string name="local_resouce_creator_name">Təkmilləşdirici: %1$s</string>
     <string name="lock_screen_edit">Kilid ekranını düzəlt</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">Bu Kilid ekranı şablonu Super divar kağızlarını dəstəkləmir. Tətbiq edildikdən sonra Kilid ekranınız standart vəziyyətinə qayıdacaq və Əsas və Kilid ekranı divar kağızları dəyişdiriləcək.</string>
@@ -335,6 +347,7 @@
     <string name="message_sim_two">SIM %d mesajı</string>
     <string name="mi_wallpaper">MIUI divar kağızı</string>
     <string name="midnight">Gecə</string>
+    <string name="mine_subscribed_wallpaper">Abunə olunmuş divar kağızları</string>
     <string name="miui_clock_city_name_local">Yerli</string>
     <string name="miui_clock_city_name_second">İkinci saat</string>
     <string name="miui_lock_screen_date">EEE, MMM dd</string>
@@ -528,7 +541,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">Cihazınızı xüsusiləşdirin</string>
     <string name="present_official_themes">Seçdiklərimiz</string>
     <string name="present_online_themes">Daha çox onlayn tema alın</string>
+    <string name="price_for_automatic_renewal">%1$s üçün avtomatik yenilə</string>
     <string name="privacy_desc">Gizlilik Siyasəti (məcburi)</string>
+    <string name="privacy_simple_content">Öz maraqlarınıza uyğun məzmun və məhsulları əldə etmək üçün fərdiləşdirilmiş tövsiyyələri aktiv edin.</string>
+    <string name="privacy_simple_hint">Seçilmiş maraqlarınızı istənilən vaxt Tənzimləmələrdə dəyişə bilərsiniz.</string>
+    <string name="privacy_simple_title">Şəxsiləşdirilmiş tövsiyələr</string>
     <string name="promotion_ad">Promosyon</string>
     <string name="provision_default_theme_title">İlkin təyin olunan</string>
     <string name="provision_download_cancel">Endirilmə ləğv edildi</string>
@@ -574,6 +591,9 @@ mm"</string>
     <string name="related_theme">Temalar</string>
     <string name="related_wallpaper">Divar kağızları</string>
     <string name="reload">Yenidən cəhd edin</string>
+    <string name="renewal_of_a_contract_monthly">%s/ aylıq yenilə</string>
+    <string name="renewal_of_a_contract_weekly">%s/ həftəlik yenilə</string>
+    <string name="renewal_of_a_contract_yearly">%s/ illik yenilə</string>
     <string name="res_migrate_tip">Temaların yaxınlaşan Android versiyaları ilə uyğun olması üçün endirdiyiniz elementləri yeni bir yerə köçürdük. Dəyişiklikləri tətbiq etmək və endirdiyiniz məzmuna baxmaq üçün tətbiqi yenidən başladın.</string>
     <string name="resource_account_abnormal_state">Hesab səhvi. Bir və ya iki dəqiqə gözləyin və yenidən cəhd edin.</string>
     <string name="resource_account_fail_to_add">Hesab əlavə edilə bilmir</string>
@@ -593,6 +613,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">Bütün axtarış tarixçəsi təmizlənsin?</string>
     <string name="resource_continue">Növbəti</string>
     <string name="resource_current_using_title">Mövcud mənbələr</string>
+    <string name="resource_currently_applied">Tətbiq edildi</string>
     <string name="resource_data_empty">Burada element yoxdur.</string>
     <string name="resource_default">İlkin təyin olunan zəng səsi</string>
     <string name="resource_default_name">Mənbə</string>
@@ -783,6 +804,7 @@ mm"</string>
     <string name="select_all">Hamısını seç</string>
     <string name="selected_resource_file_invalid">Seçilən mənbə faylı istifadə edilə bilmir</string>
     <string name="send">Göndər</string>
+    <string name="service_expiration_date">%1$s qədər etibarlıdır</string>
     <string name="set_color_ring_back_tone">Xüsusi zəng səsi təyin edin</string>
     <string name="settings">Tənzimləmələr</string>
     <string name="shortcut_add">Əlavə et</string>
@@ -803,6 +825,9 @@ mm"</string>
     <string name="start_all">Hamısına davam et</string>
     <string name="still_apply">Tətbiq et</string>
     <string name="storage_file">Endirilən elementləri saxlamaq üçün</string>
+    <string name="submission_successfully">Uğurla göndərildi</string>
+    <string name="subscription_service_shutdown_tip">Abunə olunmuş divar kağızları artıq görüntülənmir çünki başqa xidmətdən istifadə edirsiniz. Abunə olunmuş divar kağızını yenidən tətbiq edə bilərsən.</string>
+    <string name="successfully_applied_wallpaper_tip">Divar kağızı uğurla tətbiq edildi</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">B.</string>
     <string name="sunday_shortest">B.</string>
@@ -814,11 +839,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">Quraşdır</string>
     <string name="super_wallpaper_list_footer_text">Tezliklə daha çox Super divar kağızları</string>
     <string name="super_wallpaper_list_label">Super divar kağızları</string>
+    <string name="super_wallpaper_low_version_tip_push">Super divar kağızları onlardan istifafə edə bilmək üçün ən son versiyaya yenilə.</string>
+    <string name="super_wallpaper_restore_msg_push">Super divar kağızların cari versiyası uyğunsuzluq problemi ilə qarşılaşdı. İlkin divarkağızı bərpa edildi. Super divar kağızlardan istifadə edə bilmək üçün ən son versiyaya yenilə.</string>
     <string name="super_wallpaper_setting_apply_success_toast">Uğurla tətbiq edildi</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Tətbiq et</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Seçimlər</string>
     <string name="super_wallpaper_setting_coordinate_title">Koordinatlar</string>
     <string name="super_wallpaper_setting_view_height_title">Yüksəklik</string>
+    <string name="super_wallpaper_upgrade_tip_push">Super divar kağızları yenilə</string>
     <string name="support_google_dynamic_color_hint">Google Dynamic Color istifadə edirsiniz. Yeni temalar və divar kağızları tətbiq etdiyiniz zaman bəzi tətbiqlərin rəng palitrası dəyişə bilər.</string>
     <string name="swipe_find_more">Daha çoxuna baxmaq üçün yuxarı sürüşdürün</string>
     <string name="system_aod_dialog_message">Bu funksiyadan istifadə etmək üçün Həmişə açıq ekranı açın.</string>
@@ -826,7 +854,26 @@ mm"</string>
     <string name="system_aod_dialog_title">Həmişə açıq ekran</string>
     <string name="system_phone">Zənglər</string>
     <string name="system_precust">Əvvəlcədən quraşdırılmış</string>
+    <string name="text_billing_info">İnvoys məlumatları</string>
+    <string name="text_cancel_subscription_service">Bu abunəlik indi ləğv edilsin?</string>
+    <string name="text_content_update">Gündəlik yeni məzmun</string>
+    <string name="text_free_trial">Ödənişsiz yoxlayın</string>
+    <string name="text_pay_monthly" formatted="false">%s başlayaraq ləğv edilənə qədər%s/aylıq avtomatik yenilənir</string>
+    <string name="text_pay_weekly" formatted="false">%s başlayaraq ləğv edilənə qədər%s/həftəlik avtomatik yenilənir</string>
+    <string name="text_pay_yearly" formatted="false">%s başlayaraq ləğv edilənə qədər%s/illik avtomatik yenilənir</string>
     <string name="text_play">Oynat</string>
+    <string name="text_start_time_format">dd.MM</string>
+    <string name="text_status_apply_now">Tətbiq et</string>
+    <string name="text_status_be_subscribing">Abunə olundu</string>
+    <string name="text_status_cancel_the_trial">Sınağı dayandır</string>
+    <string name="text_status_on_trial">Davam edən sınaq</string>
+    <string name="text_status_subscribe_now">Abunə ol</string>
+    <string name="text_status_unsubscribe">Abunəlikdən çıx</string>
+    <string name="text_status_unsubscribed">Abunəlikdən çıxıldı</string>
+    <string name="text_subscribe">Abunəliklər</string>
+    <string name="text_subscribed">Abunə olundu</string>
+    <string name="text_when_cancel_the_trial_tip">Əgər bu sınağı ləğv etsəniz, bu divar kağızı cihazınızdan silinəcək.</string>
+    <string name="text_when_unsubscribe_tip">Əgər bu abunəliyi ləğv etsəniz, bu divar kağızı cihazınızdan silinəcək.</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İl dönümü</string>
     <string name="the_anti_aggression_day">Aqressiyaya qarşı mübarizə Günü</string>
     <string name="the_arbor_day">Arbor günü</string>
@@ -967,6 +1014,8 @@ mm"</string>
     <string name="tip_lockscreen">Kilid ekranı divar kağızı və saatı dəyişdirin</string>
     <string name="tip_lockscreen2">Siz Divar kağızı Karuseli istifadə edirsiniz. Temanızı fərdiləşdirmək Kilid ekranı divar kağızı və saatınızı dəyişəcək.</string>
     <string name="tip_statusbar">İdarəetmə mərkəzini və Bildiriş panelini dəyişdirin</string>
+    <string name="tips_subscriptions_close">Divar kağızları abunəliyi söndürülüb</string>
+    <string name="tips_talk_later">İndi yox</string>
     <string name="tips_theme_gate_transfer_fail">Bu səhifə açıla bilmədi. Bir və ya iki dəqiqə gözləyin və yenidən cəhd edin.</string>
     <string name="title_component">Temanı xüsusiləşdir</string>
     <string name="title_home_miwallpaper_home_screen_effects">Əsas ekran effektləri</string>
@@ -981,6 +1030,7 @@ mm"</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Sabah</string>
     <string name="top">Məşhur</string>
+    <string name="trial_cancellation_succeeded">Sınaq uğurla ləğv edildi</string>
     <string name="try_fresh_functions_and_contents">Yeni funksiyalarımızı və məzmunumuzu yoxlayın</string>
     <string name="try_it">Göz gəzdir</string>
     <string name="try_tap">Ön baxış üçün toxunun</string>
@@ -992,6 +1042,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">Başa düşdüm</string>
     <string name="uid_change_dialog_title">Cihazı yenidən başlat</string>
     <string name="unknown_error">Xəta baş verdi</string>
+    <string name="unsubscribe_successfully">Abunəlikdən uğurla çıxıldı</string>
     <string name="unsupport_tip">Bu fayl növü dəstəklənmir. Fərqli bir fayl seçməyə cəhd edin.</string>
     <string name="up_to_the_end">Göstərmək üçün daha çox element yoxdur</string>
     <string name="update_btn">İNDİ YENİLƏ</string>
@@ -1006,6 +1057,7 @@ mm"</string>
     <string name="update_push_content">İndi yenilə</string>
     <string name="update_push_title">Temanızın yeni bir versiyası mövcuddur</string>
     <string name="update_title">YENİ YENİLƏMƏ MÖVCUDDUR</string>
+    <string name="updating_the_app_tip">Yenilənir…</string>
     <string name="used_wallpaper">Əvvəlcə istifadə edilən</string>
     <string name="user_agree">Qəbul et</string>
     <string name="user_attention_new_theme">%s-dən yeni məzmun</string>
@@ -1053,6 +1105,7 @@ mm"</string>
     <string name="wallpaper_group_natural_texture_title">Təbiət naxışları</string>
     <string name="wallpaper_group_sgn_mountain_title">Siguniang Dağı</string>
     <string name="wallpaper_might_like">Bəyənə biləcəyiniz divar kağızları</string>
+    <string name="wallpaper_restore_defalut_push">İlkin təyin olunanlara bərpa edildi</string>
     <string name="wallpaper_scroll_type_tips">Divar kağızı sürüşdürmə</string>
     <string name="wallpaper_set_as_both">İkisinə də tətbiq et</string>
     <string name="wallpaper_set_as_desktop">Əsas ekran olaraq təyin et</string>

@@ -106,6 +106,10 @@
     <string name="author_new_theme">Neu</string>
     <string name="author_popularity">Aufrufe</string>
     <string name="author_unfollow_succeed">Folge nicht mehr</string>
+    <string name="automatic_renewal_monthly">Verlängert sich automatisch für%s/Monat</string>
+    <string name="automatic_renewal_weekly">Verlängert sich automatisch für %s/Woche</string>
+    <string name="automatic_renewal_yearly">Verlängert sich automatisch für %s/Jahr</string>
+    <string name="automatically_push_content_to_lock_screen">Jeden Tag werden auf deinem Sperrbildschirm neue Inhalte angezeigt</string>
     <string name="automatically_update_using_theme_tips">Nächstes Mal automatisch aktualisieren</string>
     <string name="back_to_default">Zurück zu Standard</string>
     <string name="back_to_none">Keinen Klingelton festlegen</string>
@@ -122,6 +126,9 @@
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte maximieren</string>
     <string name="browser_local_resource">Lokale Quellen</string>
     <string name="can_not_apply">Konnte nicht hinzugefügt werden</string>
+    <string name="canceled_failed">Kündigung fehlgeschlagen</string>
+    <string name="canceled_subscription_failed">Kündigung des Abonnements fehlgeschlagen. Versuche es erneut!</string>
+    <string name="canceled_trial_failed">Kündigung fehlgeschlagen. Versuche es erneut.</string>
     <string name="card_data_request_error">Ein Fehler ist aufgetreten. Ein oder zwei Minuten warten und erneut versuchen.</string>
     <string name="card_loading">Einen Moment…</string>
     <string name="card_no_network">Es konnte keine Verbindung zum Netzwerk hergestellt werden. Überprüfe deine Netzwerkeinstellungen und wiederhole den Vorgang.</string>
@@ -175,6 +182,7 @@
     <string name="current_using_desktop_wallpaper_text">Startbildschirm</string>
     <string name="current_using_lockscreen_wallpaper_text">Sperrbildschirm</string>
     <string name="current_version_incompatible">Nicht kompatibel</string>
+    <string name="custom_wallpaper_for_you">Individuelle Hintergrundbilder für dich</string>
     <string name="data_use_desc">Rechtliche Dokumente</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +192,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">Anwenden</string>
     <string name="de_super_wp_land_position_default_des">Anzeige auswählen</string>
     <string name="deleting">Löschen…</string>
+    <string name="delivers_fresh_content_and_design_daily">Jeden Tag neue Designs</string>
     <string name="description_author">Autor</string>
     <string name="description_designer">Ersteller</string>
     <string name="description_download">Heruntergeladen</string>
@@ -210,6 +219,7 @@
     <string name="editor_apply_message">"Diese Funktion wird von Designern zum Debuggen verwendet. Das Standardtheme wird nach einer Weile automatisch wiederhergestellt. Dateipfad des aktuellen Themes: "</string>
     <string name="editor_apply_toast">temp.mtz im Stammverzeichnis manuell auswählen</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">Gib eine E-Mail-Adresse ein</string>
     <string name="eras_ad">n. Chr.</string>
     <string name="eras_bc">v. Chr.</string>
     <string name="error_icon_content_description">Fehler</string>
@@ -384,6 +394,7 @@
     <string name="hide_incompatible_font">Nicht kompatible Schriftarten ausblenden</string>
     <string name="hide_incompatible_theme">Nicht kompatible Themen ausblenden</string>
     <string name="hide_incompatible_wallpaper">Nicht kompatible Wallpaper ausblenden</string>
+    <string name="hint_email_address">Gib eine E-Mail-Adresse ein</string>
     <string name="home_apply_failured">Startbildschirm-Hintergrund kann nicht angewendet werden</string>
     <string name="home_apply_success">Startbildschirm-Hintergrund angewendet</string>
     <string name="hot_first">Beliebtes zuerst</string>
@@ -420,6 +431,7 @@
     <string name="loading_resource_detail_fail">Resource kann nicht geladen werden</string>
     <string name="loading_resource_detail_info">Einen Moment…</string>
     <string name="local_photos">Eigene Fotos</string>
+    <string name="local_record__email_info">Meine E-Mail-Adresse merken</string>
     <string name="local_resouce_creator_name">Entwickler: %1$s</string>
     <string name="lock_screen_edit">Sperrbildschirm bearbeiten</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">Diese Sperrbildschirmvorlage unterstützt keine Super-Hintergrundbilder. Nach der Anwendung wird dein Sperrbildschirm auf die Standardeinstellungen zurückgesetzt und deine Start- und Sperrbildschirmhintergrundbilder werden ersetzt. Jetzt anwenden?</string>
@@ -460,6 +472,7 @@
     <string name="message_sim_two">SIM %d Nachricht</string>
     <string name="mi_wallpaper">MIUI Hintergrund</string>
     <string name="midnight">Nacht</string>
+    <string name="mine_subscribed_wallpaper">Abonnierte Hintergrundbilder</string>
     <string name="miui_clock_city_name_local">Lokal</string>
     <string name="miui_clock_city_name_second">Zweite Uhr</string>
     <string name="miui_lock_screen_date">EEE, d. MMM</string>
@@ -704,7 +717,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">Dein Gerät anpassen</string>
     <string name="present_official_themes">Unsere Auswahl</string>
     <string name="present_online_themes">Mehr Online-Themen holen</string>
+    <string name="price_for_automatic_renewal">Für %1$s automatisch verlängern</string>
     <string name="privacy_desc">Datenschutzerklärung (obligatorisch)</string>
+    <string name="privacy_simple_content">Schalte personalisierte Empfehlungen ein, um auf deine Interessen zugeschnittene Inhalte und Produkte zu erhalten.</string>
+    <string name="privacy_simple_hint">Du kannst deine Präferenzen jederzeit in den Einstellungen ändern.</string>
+    <string name="privacy_simple_title">Personalisierte Empfehlungen</string>
     <string name="promotion_ad">Werbung</string>
     <string name="provision_default_theme_title">Standard</string>
     <string name="provision_download_cancel">Herunterladen abgebrochen</string>
@@ -750,6 +767,9 @@ mm"</string>
     <string name="related_theme">Themen</string>
     <string name="related_wallpaper">Hintergrundbilder</string>
     <string name="reload">Erneut versuchen</string>
+    <string name="renewal_of_a_contract_monthly">Verlängern für %s/Monat</string>
+    <string name="renewal_of_a_contract_weekly">Verlängern für %s/Woche</string>
+    <string name="renewal_of_a_contract_yearly">Verlängern für %s/Jahr</string>
     <string name="res_migrate_tip">Um Themen mit den kommenden Android-Versionen kompatibel zu machen, haben wir deine heruntergeladenen Elemente an einen neuen Ort verschoben. Starte zur Übernahme der Änderungen und Ansicht der heruntergeladenen Inhalte die App erneut.</string>
     <string name="resource_account_abnormal_state">Kontofehler. Ein oder zwei Minuten warten und erneut versuchen.</string>
     <string name="resource_account_fail_to_add">Konto kann nicht hinzugefügt werden</string>
@@ -769,6 +789,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">Den kompletten Suchverlauf löschen?</string>
     <string name="resource_continue">Weiter</string>
     <string name="resource_current_using_title">Aktuelle Ressourcen</string>
+    <string name="resource_currently_applied">Angewendet</string>
     <string name="resource_data_empty">Keine Elemente vorhanden.</string>
     <string name="resource_default">Standard-Alarmton</string>
     <string name="resource_default_name">Quelle</string>
@@ -967,6 +988,7 @@ mm"</string>
     <string name="select_all">Alle auswählen</string>
     <string name="selected_resource_file_invalid">Ausgewählte Datei fehlerhaft.</string>
     <string name="send">Senden</string>
+    <string name="service_expiration_date">Gültig bis %1$s</string>
     <string name="set_color_ring_back_tone">Benutzerdefinierten Rückrufton festlegen</string>
     <string name="settings">Einstellungen</string>
     <string name="shortcut_add">Hinzufügen</string>
@@ -988,6 +1010,9 @@ mm"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Anwenden</string>
     <string name="storage_file">Für das Speichern heruntergeladener Elemente</string>
+    <string name="submission_successfully">Erfolgreich eingereicht</string>
+    <string name="subscription_service_shutdown_tip">Es werden keine Abo-Hintergrundbilder mehr angezeigt, da du einen anderen Dienst verwendest. Du kannst wieder ein abonniertes Hintergrundbild einstellen.</string>
+    <string name="successfully_applied_wallpaper_tip">Hintergrundbild erfolgreich eingestellt</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
@@ -1000,11 +1025,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">Installieren</string>
     <string name="super_wallpaper_list_footer_text">Mehr Super-Hintergrundbilder gibt es demnächst</string>
     <string name="super_wallpaper_list_label">Super-Hintergrundbilder</string>
+    <string name="super_wallpaper_low_version_tip_push">Super-Hintergrundbilder auf die neueste Version aktualisieren, um sie weiterhin nutzen zu können.</string>
+    <string name="super_wallpaper_restore_msg_push">Bei der aktuellen Version von Super-Hintergrundbilder ist ein Inkompatibilitätsproblem aufgetreten. Dein Standard-Hintergrundbild wurde wiederhergestellt. Aktualisiere auf die neueste Version, um Super-Hintergrundbilder verwenden zu können.</string>
     <string name="super_wallpaper_setting_apply_success_toast">Erfolgreich angewendet</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Anwenden</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Optionen</string>
     <string name="super_wallpaper_setting_coordinate_title">Koordinaten</string>
     <string name="super_wallpaper_setting_view_height_title">Höhe</string>
+    <string name="super_wallpaper_upgrade_tip_push">Super-Hintergrundbilder aktualisieren</string>
     <string name="support_google_dynamic_color_hint">Du verwendest Google Dynamic Color. Die Farbpaletten einiger Apps können sich ändern, wenn du neue Themen und Wallpapers anwendest.</string>
     <string name="swipe_find_more">Nach oben wischen für Weiteres</string>
     <string name="system_aod_dialog_message">Schalte \"Immer eingeschaltetes Display\" ein, um diese Funktion verwenden zu können.</string>
@@ -1012,7 +1040,26 @@ mm"</string>
     <string name="system_aod_dialog_title">Immer eingeschaltetes Display</string>
     <string name="system_phone">Anrufe</string>
     <string name="system_precust">Vorinstalliert</string>
+    <string name="text_billing_info">Rechnungsinformationen</string>
+    <string name="text_cancel_subscription_service">Dieses Abonnement jetzt kündigen?</string>
+    <string name="text_content_update">Täglich neue Inhalte</string>
+    <string name="text_free_trial">Kostenlos testen</string>
+    <string name="text_pay_monthly" formatted="false">Ab %s, verlängert sich automatisch für %s/Monat bis zur Kündigung</string>
+    <string name="text_pay_weekly" formatted="false">Ab %s, verlängert sich automatisch für %s/Woche bis zur Kündigung</string>
+    <string name="text_pay_yearly" formatted="false">Ab %s, verlängert sich automatisch für %s/Jahr bis zur Kündigung</string>
     <string name="text_play">Spielen</string>
+    <string name="text_start_time_format">dd.MM.</string>
+    <string name="text_status_apply_now">Anwenden</string>
+    <string name="text_status_be_subscribing">Abonniert</string>
+    <string name="text_status_cancel_the_trial">Probeversion anhalten</string>
+    <string name="text_status_on_trial">Probeversion läuft</string>
+    <string name="text_status_subscribe_now">Abonnieren</string>
+    <string name="text_status_unsubscribe">Deabonnieren</string>
+    <string name="text_status_unsubscribed">Deabonniert</string>
+    <string name="text_subscribe">Abonnements</string>
+    <string name="text_subscribed">Abonniert</string>
+    <string name="text_when_cancel_the_trial_tip">Wenn du diese Probeversion abbrichst, wird dieses Hintergrundbild von deinem Gerät gelöscht.</string>
+    <string name="text_when_unsubscribe_tip">Wenn du dieses Abo kündigst, wird dieses Hintergrundbild von deinem Gerät gelöscht.</string>
     <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>
     <string name="the_anti_aggression_day">Anti-Aggressionstag</string>
     <string name="the_arbor_day">Tag des Baumes</string>
@@ -1153,6 +1200,8 @@ mm"</string>
     <string name="tip_lockscreen">Sperrbildschirm-Hintergrundbild und Uhr ändern</string>
     <string name="tip_lockscreen2">Du verwendest das Hintergrundbild-Karussell. Eine Bearbeitung deines Themas wird deinen Sperrbildschirm und deine Uhr verändern.</string>
     <string name="tip_statusbar">Kontrollzentrum und Benachrichtigungsleiste ändern</string>
+    <string name="tips_subscriptions_close">Hintergrundbild-Abonnements sind ausgeschaltet</string>
+    <string name="tips_talk_later">Nicht jetzt</string>
     <string name="tips_theme_gate_transfer_fail">Öffnen der Seite fehlgeschlagen. Ein oder zwei Minuten warten und erneut versuchen.</string>
     <string name="title_component">Thema anpassen</string>
     <string name="title_home_miwallpaper_home_screen_effects">Startbildschirmeffekte</string>
@@ -1167,6 +1216,7 @@ mm"</string>
     <string name="today">Heute</string>
     <string name="tomorrow">Morgen</string>
     <string name="top">Beliebt</string>
+    <string name="trial_cancellation_succeeded">Probeversion erfolgreich abgebrochen</string>
     <string name="try_fresh_functions_and_contents">Sieh dir unsere neuen Funktionen und Inhalte an</string>
     <string name="try_it">Probieren Sie es aus</string>
     <string name="try_tap">Tippen, um eine Vorschau anzuzeigen</string>
@@ -1178,6 +1228,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">Verstanden</string>
     <string name="uid_change_dialog_title">Gerät neustarten</string>
     <string name="unknown_error">Ein Fehler ist aufgetreten</string>
+    <string name="unsubscribe_successfully">Erfolgreich abbestellt</string>
     <string name="unsupport_tip">Dieses Dateiformat wird nicht unterstützt. Bitte eine andere Datei auswählen.</string>
     <string name="up_to_the_end">Keine weiteren Elemente anzuzeigen</string>
     <string name="update_btn">JETZT AKTUALISIEREN</string>
@@ -1192,6 +1243,7 @@ mm"</string>
     <string name="update_push_content">Jetzt aktualisieren</string>
     <string name="update_push_title">Für dein Thema ist eine neue Version verfügbar</string>
     <string name="update_title">NEUE AKTUALISIERUNG VERFÜGBAR</string>
+    <string name="updating_the_app_tip">Aktualisiere…</string>
     <string name="used_wallpaper">Zuvor genutzt</string>
     <string name="user_agree">Zustimmen</string>
     <string name="user_attention_new_theme">Neue Inhalte von %s</string>
@@ -1241,6 +1293,7 @@ Du kannst deine Zustimmung zur Datenschutzerklärung von Themen jederzeit in den
     <string name="wallpaper_group_natural_texture_title">Naturmuster</string>
     <string name="wallpaper_group_sgn_mountain_title">Berg Siguniang</string>
     <string name="wallpaper_might_like">Hintergrundbilder, die dir gefallen könnten</string>
+    <string name="wallpaper_restore_defalut_push">Standard wiederherstellen</string>
     <string name="wallpaper_scroll_type_tips">Hintergrundbild-Bewegung</string>
     <string name="wallpaper_set_as_both">Für beide festlegen</string>
     <string name="wallpaper_set_as_desktop">Als Startbildschirm festlegen</string>

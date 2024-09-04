@@ -6,6 +6,8 @@
     <string name="abrupt_weather_settings_summary_type">קבל התראות אודות גשמים, שינויים באיכות מזג האוויר ושינויים משמעותיים אחרים</string>
     <string name="act_find_city_hint">הזן מיקום</string>
     <string name="act_find_city_hot_city_title">ערים פופולריות</string>
+    <string name="act_find_city_location_button_text">לקבל מיקום</string>
+    <string name="act_find_city_location_title">המיקום הנוכחי</string>
     <string name="act_location_error_to_find_city">לא ניתן היה לקבל פרטי מיקום. ניתן להוסיף מיקום באופן ידני.</string>
     <string name="act_set_city_find_side">מאתר</string>
     <string name="act_set_city_find_side_error">לא ניתן לאתר את המכשיר</string>
@@ -30,6 +32,7 @@
     <string name="activity_main_update_time">עודכן ב: %1$s</string>
     <string name="activity_main_update_time_expire">פג תוקף הנתונים</string>
     <string name="activity_main_update_time_right_now">ממש עכשיו</string>
+    <string name="add_city">הוספה</string>
     <string name="afternoon">אחר הצהריים</string>
     <string name="alert_detail_title">פרטי התרעה</string>
     <string name="alert_warning">"התרעות 'מזג אויר'"</string>

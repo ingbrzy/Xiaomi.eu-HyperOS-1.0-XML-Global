@@ -33,6 +33,8 @@
     <string name="abrupt_weather_settings_summary_type">รับการแจ้งเตือนเกี่ยวกับปริมาณน้ำฝนที่คาดหวังการเปลี่ยนแปลงคุณภาพอากาศและการเปลี่ยนแปลงที่สำคัญอื่นๆ</string>
     <string name="act_find_city_hint">ป้อนตำแหน่งพิกัด</string>
     <string name="act_find_city_hot_city_title">เมืองยอดนิยม</string>
+    <string name="act_find_city_location_button_text">ขอตำแหน่งพิกัด</string>
+    <string name="act_find_city_location_title">ตำแหน่งปัจจุบัน</string>
     <string name="act_location_error_to_find_city">ไม่สามารถรับข้อมูลตำแหน่ง คุณสามารถเพิ่มตำแหน่งพิกัดด้วยตนเอง</string>
     <string name="act_set_city_find_side">กำลังระบุตำแหน่ง</string>
     <string name="act_set_city_find_side_error">หาตำแหน่งพิกัดของเครื่องไม่พบ</string>
@@ -57,6 +59,7 @@
     <string name="activity_main_update_time">อัปเดตล่าสุด %1$s</string>
     <string name="activity_main_update_time_expire">ข้อมูลหมดอายุ</string>
     <string name="activity_main_update_time_right_now">เมื่อสักครู่</string>
+    <string name="add_city">เพิ่ม</string>
     <string name="afternoon">บ่าย</string>
     <string name="alert_detail_title">แจ้งเตือนรายละเอียด</string>
     <string name="alert_warning">แจ้งเตือนสภาพอากาศ</string>

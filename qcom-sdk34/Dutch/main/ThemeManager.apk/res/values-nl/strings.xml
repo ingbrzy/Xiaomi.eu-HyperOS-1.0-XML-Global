@@ -106,6 +106,10 @@
     <string name="author_new_theme">Nieuw</string>
     <string name="author_popularity">Keer bekeken</string>
     <string name="author_unfollow_succeed">Succesvol niet meer gevolgd</string>
+    <string name="automatic_renewal_monthly">Wordt automatisch verlengd voor %s/maand</string>
+    <string name="automatic_renewal_weekly">Wordt automatisch verlengd voor %s/week</string>
+    <string name="automatic_renewal_yearly">Wordt automatisch verlengd voor %s/jaar</string>
+    <string name="automatically_push_content_to_lock_screen">Elke dag wordt er nieuwe inhoud op uw Vergrendelscherm weergegeven</string>
     <string name="automatically_update_using_theme_tips">Update de volgende keer automatisch</string>
     <string name="back_to_default">Terug naar standaardinstelling</string>
     <string name="back_to_none">Geen beltoon instellen</string>
@@ -122,6 +126,9 @@
     <string name="bottomsheet_action_expand_halfway">Half uitvouwen</string>
     <string name="browser_local_resource">Lokale bronnen</string>
     <string name="can_not_apply">Kan niet worden toegepast</string>
+    <string name="canceled_failed">Kon niet annuleren</string>
+    <string name="canceled_subscription_failed">Kon abonnement niet opzeggen. Probeer het opnieuw.</string>
+    <string name="canceled_trial_failed">Kon niet annuleren. Probeer het opnieuw.</string>
     <string name="card_data_request_error">Er is een fout opgetreden. Wacht een minuut of twee en probeer het opnieuw.</string>
     <string name="card_loading">Een ogenblik geduld…</string>
     <string name="card_no_network">Kon niet verbinden met het netwerk. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
@@ -175,6 +182,7 @@
     <string name="current_using_desktop_wallpaper_text">Startscherm</string>
     <string name="current_using_lockscreen_wallpaper_text">Vergrendelscherm</string>
     <string name="current_version_incompatible">Niet compatibel</string>
+    <string name="custom_wallpaper_for_you">Gepersonaliseerde achtergronden voor u</string>
     <string name="data_use_desc">Juridische documenten</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +192,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">Toepassen</string>
     <string name="de_super_wp_land_position_default_des">Selecteer weergave</string>
     <string name="deleting">Verwijderen…</string>
+    <string name="delivers_fresh_content_and_design_daily">Elke dag nieuwe ontwerpen</string>
     <string name="description_author">Auteur</string>
     <string name="description_designer">Ontwerper</string>
     <string name="description_download">Gedownload</string>
@@ -210,6 +219,7 @@
     <string name="editor_apply_message">"Deze functie wordt gebruikt voor debugging door ontwerpers. Het standaardthema wordt over een tijdje automatisch hersteld. Bestandspad van het huidige thema: "</string>
     <string name="editor_apply_toast">Selecteer handmatig temp.mtz in de hoofdmap</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">Voer een e-mailadres in</string>
     <string name="eras_ad">n.C.</string>
     <string name="eras_bc">v.C.</string>
     <string name="error_icon_content_description">Fout</string>
@@ -384,6 +394,7 @@
     <string name="hide_incompatible_font">Incompatibele lettertypen verbergen</string>
     <string name="hide_incompatible_theme">"Incompatibele thema's verbergen"</string>
     <string name="hide_incompatible_wallpaper">Incompatibele achtergronden verbergen</string>
+    <string name="hint_email_address">Voer een e-mailadres in</string>
     <string name="home_apply_failured">Kan Startscherm achtergrond niet toepassen</string>
     <string name="home_apply_success">Startscherm achtergrond toegepast</string>
     <string name="hot_first">Populairste eerst</string>
@@ -417,6 +428,7 @@
     <string name="loading_resource_detail_fail">Kan bron niet laden</string>
     <string name="loading_resource_detail_info">Een ogenblik geduld…</string>
     <string name="local_photos">"Lokale foto's"</string>
+    <string name="local_record__email_info">Onthoud mijn e-mailadres</string>
     <string name="local_resouce_creator_name">Ontwikkelaar: %1$s</string>
     <string name="lock_screen_edit">Vergrendelscherm bewerken</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">Deze sjabloon voor een Vergrendelscherm ondersteunt geen Super achtergronden. Eenmaal toegepast, wordt uw Vergrendelscherm teruggezet naar de standaardinstelling en worden de achtergronden van uw Startscherm en Vergrendelscherm vervangen. Nu toepassen?</string>
@@ -457,6 +469,7 @@
     <string name="message_sim_two">SIM %d bericht</string>
     <string name="mi_wallpaper">MIUI achtergrond</string>
     <string name="midnight">Nacht</string>
+    <string name="mine_subscribed_wallpaper">Geabonneerde achtergronden</string>
     <string name="miui_clock_city_name_local">Lokaal</string>
     <string name="miui_clock_city_name_second">Tweede klok</string>
     <string name="miui_lock_screen_date">EEE dd MMM</string>
@@ -701,7 +714,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">Pas uw apparaat aan</string>
     <string name="present_official_themes">Onze favorieten</string>
     <string name="present_online_themes">"Krijg meer online thema's"</string>
+    <string name="price_for_automatic_renewal">Verleng automatisch voor %1$s</string>
     <string name="privacy_desc">Privacybeleid (vereist)</string>
+    <string name="privacy_simple_content">Schakel gepersonaliseerde aanbevelingen in om inhoud en producten te krijgen die zijn afgestemd op uw interesses.</string>
+    <string name="privacy_simple_hint">U kunt uw voorkeuren op elk gewenst moment wijzigen in Instellingen.</string>
+    <string name="privacy_simple_title">Gepersonaliseerde aanbevelingen</string>
     <string name="promotion_ad">Promotie</string>
     <string name="provision_default_theme_title">Standaard</string>
     <string name="provision_download_cancel">Download geannuleerd</string>
@@ -747,6 +764,9 @@ mm"</string>
     <string name="related_theme">"Thema's"</string>
     <string name="related_wallpaper">Achtergronden</string>
     <string name="reload">Opnieuw proberen</string>
+    <string name="renewal_of_a_contract_monthly">Verleng voor %s/maand</string>
+    <string name="renewal_of_a_contract_weekly">Verleng voor %s/week</string>
+    <string name="renewal_of_a_contract_yearly">Verleng voor %s/jaar</string>
     <string name="res_migrate_tip">"Om Thema's compatibel te maken met de komende versies van Android, hebben we uw gedownloade items naar een nieuwe locatie verplaatst. Start de app opnieuw om wijzigingen toe te passen en uw gedownloade inhoud te bekijken."</string>
     <string name="resource_account_abnormal_state">Account fout. Wacht een minuut of 2 en probeer dan opnieuw.</string>
     <string name="resource_account_fail_to_add">Kan account niet toevoegen</string>
@@ -766,6 +786,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">Volledige zoekgeschiedenis wissen?</string>
     <string name="resource_continue">Volgende</string>
     <string name="resource_current_using_title">Huidige bronnen</string>
+    <string name="resource_currently_applied">Toegepast</string>
     <string name="resource_data_empty">Geen items hier.</string>
     <string name="resource_default">Standaard beltoon</string>
     <string name="resource_default_name">Hulpbron</string>
@@ -964,6 +985,7 @@ mm"</string>
     <string name="select_all">Alles selecteren</string>
     <string name="selected_resource_file_invalid">Kan geselecteerde bronbestand niet gebruiken</string>
     <string name="send">Verzenden</string>
+    <string name="service_expiration_date">Geldig tot %1$s</string>
     <string name="set_color_ring_back_tone">Stel een aangepaste terugbeltoon in</string>
     <string name="settings">Instellingen</string>
     <string name="shortcut_add">Toevoegen</string>
@@ -985,6 +1007,9 @@ mm"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Toepassen</string>
     <string name="storage_file">Voor het opslaan van gedownloade items</string>
+    <string name="submission_successfully">Succesvol ingediend</string>
+    <string name="subscription_service_shutdown_tip">Geabonneerde achtergronden worden niet meer weergegeven omdat u een andere service gebruikt. U kunt een geabonneerde achtergrond opnieuw toepassen.</string>
+    <string name="successfully_applied_wallpaper_tip">Achtergrond succesvol toegepast</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Zondag</string>
     <string name="sunday_short">Zo</string>
@@ -997,11 +1022,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">Installeren</string>
     <string name="super_wallpaper_list_footer_text">Binnenkort meer Super achtergronden</string>
     <string name="super_wallpaper_list_label">Super achtergronden</string>
+    <string name="super_wallpaper_low_version_tip_push">Werk Super achtergronden bij naar de nieuwste versie om ze te kunnen blijven gebruiken.</string>
+    <string name="super_wallpaper_restore_msg_push">De huidige versie van Super achtergronden heeft een incompatibiliteitsprobleem ondervonden. Uw standaard achtergrond is hersteld. Werk bij naar de nieuwste versie om Super achtergronden te kunnen gebruiken.</string>
     <string name="super_wallpaper_setting_apply_success_toast">Succesvol toegepast</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Toepassen</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Opties</string>
     <string name="super_wallpaper_setting_coordinate_title">Coördinaten</string>
     <string name="super_wallpaper_setting_view_height_title">Hoogte</string>
+    <string name="super_wallpaper_upgrade_tip_push">Super achtergronden bijwerken</string>
     <string name="support_google_dynamic_color_hint">"U gebruikt Google Dynamic Color. De kleurenpaletten van sommige apps kunnen veranderen wanneer u nieuwe thema's en achtergronden toepast."</string>
     <string name="swipe_find_more">Swipe omhoog voor meer</string>
     <string name="system_aod_dialog_message">Schakel Altijd-aan-display in om deze functie te kunnen gebruiken.</string>
@@ -1009,7 +1037,26 @@ mm"</string>
     <string name="system_aod_dialog_title">Altijd-aan-display</string>
     <string name="system_phone">Gesprekken</string>
     <string name="system_precust">Voorgeïnstalleerd</string>
+    <string name="text_billing_info">Factureringsinformatie</string>
+    <string name="text_cancel_subscription_service">Dit abonnement nu opzeggen?</string>
+    <string name="text_content_update">Dagelijks nieuwe inhoud</string>
+    <string name="text_free_trial">Probeer gratis</string>
+    <string name="text_pay_monthly" formatted="false">Vanaf %s, wordt automatisch verlengd voor %s/maand tot annulering</string>
+    <string name="text_pay_weekly" formatted="false">Vanaf %s, wordt automatisch verlengd voor %s/week tot annulering</string>
+    <string name="text_pay_yearly" formatted="false">Vanaf %s, wordt automatisch verlengd voor %s/jaar tot annulering</string>
     <string name="text_play">Spelen</string>
+    <string name="text_start_time_format">dd/MM</string>
+    <string name="text_status_apply_now">Toepassen</string>
+    <string name="text_status_be_subscribing">Geabonneerd</string>
+    <string name="text_status_cancel_the_trial">Proefperiode stoppen</string>
+    <string name="text_status_on_trial">Lopende proefperiode</string>
+    <string name="text_status_subscribe_now">Abonneren</string>
+    <string name="text_status_unsubscribe">Afmelden</string>
+    <string name="text_status_unsubscribed">Afgemeld</string>
+    <string name="text_subscribe">Abonnementen</string>
+    <string name="text_subscribed">Geabonneerd</string>
+    <string name="text_when_cancel_the_trial_tip">Als u deze proefperiode annuleert, wordt deze achtergrond van uw apparaat verwijderd.</string>
+    <string name="text_when_unsubscribe_tip">Als u dit abonnement opzegt, wordt deze achtergrond van uw apparaat verwijderd.</string>
     <string name="the_anniversary_of_lifting_martial_law">Verjaardag van de Opheffing van de Staat van Beleg</string>
     <string name="the_anti_aggression_day">Anti-agressie dag</string>
     <string name="the_arbor_day">Nationale Boomfeestdag</string>
@@ -1150,6 +1197,8 @@ mm"</string>
     <string name="tip_lockscreen">Verander Vergrendelscherm achtergrond en klok</string>
     <string name="tip_lockscreen2">U gebruikt Achtergrondcarrousel. Als u uw thema aanpast, veranderen de Achtergrond vergrendelscherm en klok.</string>
     <string name="tip_statusbar">Verander Controlecentrum en Meldingenpaneel</string>
+    <string name="tips_subscriptions_close">Achtergrondabonnementen zijn uitgeschakeld</string>
+    <string name="tips_talk_later">Niet nu</string>
     <string name="tips_theme_gate_transfer_fail">Kon pagina niet openen. Wacht ongeveer twee minuten en probeer opnieuw.</string>
     <string name="title_component">Thema aanpassen</string>
     <string name="title_home_miwallpaper_home_screen_effects">Startscherm effecten</string>
@@ -1164,6 +1213,7 @@ mm"</string>
     <string name="today">Vandaag</string>
     <string name="tomorrow">Morgen</string>
     <string name="top">Populair</string>
+    <string name="trial_cancellation_succeeded">Proefperiode succesvol geannuleerd</string>
     <string name="try_fresh_functions_and_contents">Bekijk onze nieuwe functies en inhoud</string>
     <string name="try_it">Bekijk dit eens</string>
     <string name="try_tap">Tik voor een preview</string>
@@ -1175,6 +1225,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">Begrepen</string>
     <string name="uid_change_dialog_title">Apparaat opnieuw opstarten</string>
     <string name="unknown_error">Er is een fout opgetreden</string>
+    <string name="unsubscribe_successfully">Succesvol afgemeld</string>
     <string name="unsupport_tip">Dit bestandsformaat wordt niet ondersteund. Probeer een ander bestand te selecteren.</string>
     <string name="up_to_the_end">Niets om weer te geven</string>
     <string name="update_btn">UPDATE NU</string>
@@ -1189,6 +1240,7 @@ mm"</string>
     <string name="update_push_content">Nu bijwerken</string>
     <string name="update_push_title">Uw thema heeft een nieuwe versie beschikbaar</string>
     <string name="update_title">NIEUWE UPDATE BESCHIKBAAR</string>
+    <string name="updating_the_app_tip">Bijwerken…</string>
     <string name="used_wallpaper">Eerder gebruikt</string>
     <string name="user_agree">Akkoord</string>
     <string name="user_attention_new_theme">Nieuwe inhoud van %s</string>
@@ -1238,6 +1290,7 @@ U kunt uw toestemming voor het Privacybeleid van Thema's op elk moment in de Ins
     <string name="wallpaper_group_natural_texture_title">Natuurpatronen</string>
     <string name="wallpaper_group_sgn_mountain_title">Berg Siguniang</string>
     <string name="wallpaper_might_like">Achtergronden die u mogelijk leuk vindt</string>
+    <string name="wallpaper_restore_defalut_push">Hersteld naar standaard</string>
     <string name="wallpaper_scroll_type_tips">Scrol om achtergronden te bekijken</string>
     <string name="wallpaper_set_as_both">Voor beiden instellen</string>
     <string name="wallpaper_set_as_desktop">Als Startscherm instellen</string>

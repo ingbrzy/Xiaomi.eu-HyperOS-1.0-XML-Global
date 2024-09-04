@@ -146,6 +146,10 @@
         <item quantity="other">%d εργασίες</item>
         <item quantity="one">%d εργασία</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">Το αίτημά σας θα διεκπεραιωθεί σε περίπου %1$d δευτερόλεπτα.</item>
+        <item quantity="one">Το αίτημά σας θα διεκπεραιωθεί σε περίπου %1$d δευτερόλεπτο.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"%d παραγγελίες επιστράφηκαν με επιτυχία. "</item>
         <item quantity="one">"%d παραγγελία επιστράφηκε με επιτυχία. "</item>

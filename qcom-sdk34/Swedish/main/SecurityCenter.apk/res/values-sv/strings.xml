@@ -590,6 +590,7 @@ Du kommer inte förlora någon appdata."</string>
     <string name="apps_list_header_title_sms_access">Begränsa tillgång till verifieringskoder</string>
     <string name="ask_create_shortcut">Skapa en genväg på Hemskärmen?</string>
     <string name="audio_optimization_summary">Förbättra ljud och minska omgivande ljud i konversationer</string>
+    <string name="audio_optimization_summary_new">Optimera ljudkvalitén i hörlurarna, medan du spelar och minska brus under samtal</string>
     <string name="audio_optimization_title">Förbättrat ljud</string>
     <string name="auto_atsk_condition_battery_level_text_down">När batteriet når%s</string>
     <string name="auto_atsk_condition_battery_level_text_up">När batteriet är laddat till %s</string>
@@ -1130,6 +1131,7 @@ Men, vissa av dina transaktioner är einte genomförda än. För att kunna åter
     <string name="continue_set">Fortsätt</string>
     <string name="convenient_mode">Lås upp alla appar</string>
     <string name="convenient_summary">Ange lösenord en gång för att låsa upp alla appar</string>
+    <string name="conversation_phone_title">Verktygslåda för samtal</string>
     <string name="conversation_settings_top">"·Dra ut konferensverktygspanelen vid ljud- och videosamtal i helskärm, för åtkomst till dess funktioner. 
 ·Sortens och antalet funktioner beror på enhetens modell."</string>
     <string name="conversation_sider_tips">Använd nya konferensverktyg för bästa samtalsupplevelsen</string>
@@ -1144,9 +1146,13 @@ Men, vissa av dina transaktioner är einte genomförda än. För att kunna åter
     <string name="create_gamebooster_destop">Genväg på Hemskärmen skapad</string>
     <string name="create_shortcut">Skapa en genväg på Hemskärmen för Spelturbo</string>
     <string name="cs_color_sense">Färgtemperatur</string>
+    <string name="cs_conversation_record_using">Spelar in</string>
     <string name="cs_func_toast_headset">Koppla bort ditt headset för att kunna använda den här funktionen</string>
     <string name="cs_func_toast_light">Byt till front-kamera för att kunna använda den här funktionen</string>
     <string name="cs_func_toast_pickup">Byt till videosamtal för att kunna använda den här funktionen</string>
+    <string name="cs_func_unavailable_tips">Använd den här funktionen vid samtal</string>
+    <string name="cs_light_enhance_physical_options">Färgtemperatur</string>
+    <string name="cs_light_enhance_physical_title">Ljusstyrka</string>
     <string name="cs_pickup_denoise_desc">Reducera brus från inkommande ljud vid användande av högtalare eller hörlurar</string>
     <string name="cs_pickup_denoise_title">Brusreduktion</string>
     <string name="cs_pickup_multi_desc">%d graden av ljudupptagning</string>
@@ -1160,11 +1166,19 @@ Men, vissa av dina transaktioner är einte genomförda än. För att kunna åter
     <string name="cs_pickup_vioce_print_unsupport_tips">Spela in röstprofil innan du väljer \"En deltagare\"</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Koppla bort externa enheter och försök igen</string>
     <string name="cs_pickup_voice_print_desc">Ta upp ljud från endast en person</string>
+    <string name="cs_privacy_camera_global_settings_title">Samtalsintegritet</string>
     <string name="cs_screen_translation_title">Skärmöversättning</string>
+    <string name="cs_simultaneous_interpretation_title">Tolka</string>
     <string name="cs_title_pickup">Brusreduktion</string>
     <string name="cs_title_smart_subtitle">Undertext-transkribering</string>
     <string name="cs_title_ultraclear">Ultra-HD-läge</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Testa simultantolkning och andra verktyg för konferenssamtal i den nya verktygslådan för samtal</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Testa ett utbud av funktioner för konferenssamtal i den nya verktygslådan för samtal</string>
+    <string name="cs_tool_box_phone_guide_case_1">Testa simultantolkning och andra funktioner i den nya verktygslådan för samtal</string>
+    <string name="cs_tool_box_phone_guide_case_2">Festa ett utbud av funktioner i den nya verktygslådan för samtal</string>
     <string name="cs_voice_print">Spela in röstprofil</string>
+    <string name="cs_vt_camera_toast_case1">Öppna kamera i den aktuella appen</string>
+    <string name="cs_vt_camera_toast_case2">Inga kompatibla enheter i närheten</string>
     <string name="cta_agree_desc">För att kunna använda våra tjänster, tillåt denna app att ansluta till internet och bevilja de behörigheter som listas ovan.</string>
     <string name="cta_close_dialog_cancel">Avbryt</string>
     <string name="cta_close_dialog_content">Om du begränsar Säkerhetstillträde till internet och din platsinfo, kommer du inte kunna ta emot jordbävningsvarningar, uppdatera virusdefinitioner och blockeringslistinfo. Din enhet kommer bli mindre säker. Begränsa ändå?</string>
@@ -1845,6 +1859,8 @@ All data på enheten kan raderas och ditt lösenord till Låsskärmen kanske nol
     <string name="gb_audition_play_instruction">Använd hörlurar för bästa effekt</string>
     <string name="gb_award_noti_message">Starta \"Game for Peace\", bakgrundsuppdateringar i Game Turbo för att få belöningar</string>
     <string name="gb_award_noti_title">\"Game for Peace\"-belöningar finns här!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Kan inte byta till balanserat läge i Spelturbo, när system-brett ultimat läge är aktivt. Du kan ändra batteriinställningarna i Säkerhet. &lt;br>&lt;a href=\"#\">Öppna Säkerhet&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Kan inte byta till balanserat läge i Spelturbo, när system-brett ultimat läge är aktivt. Du kan ändra batteriinställningarna i Säkerhet. &lt;br>&lt;a href=\"#\">Öppna Säkerhet&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">Hög</string>
     <string name="gb_bar_low">Låg</string>
     <string name="gb_bar_mid">Medium</string>
@@ -2000,6 +2016,8 @@ men ökar också strömförbrukningen och tillåter din enhet att överhettas"</
     <string name="gb_predownload_receive_tips">Aktivera bagrundsuppdateringar för att få belöningar</string>
     <string name="gb_predownload_receiving">Tar emot…</string>
     <string name="gb_predownload_title">Bakgrundsuppdateringar</string>
+    <string name="gb_setting_dock_toast">Funktioner för Assistent för frontkamera, finns nu i Verktygslådan för samtal</string>
+    <string name="gb_setting_dock_toast_2">Funktioner för Assistent för frontkamera, finns nu i Verktygslådan för samtal</string>
     <string name="gb_shortcut_pref_title">Genväg på Hemskärmen</string>
     <string name="gb_shoulder_guide_message1">Flytta [L] till valfri funktionell position för att använd det via popup-triggern</string>
     <string name="gb_shoulder_guide_message2">Handling [1] aktiveras genom att trycka på knappen. Handling [2] aktiveras genom att släppa knappen.</string>
@@ -2135,9 +2153,21 @@ av dina spelsessioner"</string>
     <string name="gd_dock_shortcut_splitescreen">Dela skärm</string>
     <string name="gd_setting_conversation">Konferensverktyg</string>
     <string name="gd_setting_conversation_desc">Ger en variation av funktioner för användande av ljud- och videosamtal med helskärm</string>
+    <string name="gd_setting_dock_activity_title">Panel-verktygslåda</string>
+    <string name="gd_setting_dock_call_summary">Funktioner för röst- och videosamtal (t.ex. fyll ljus)</string>
+    <string name="gd_setting_dock_call_title">Verktygslåda för samtal</string>
+    <string name="gd_setting_dock_game_summary">Förbättra skärmen och prestandan när du spelar spel</string>
+    <string name="gd_setting_dock_game_summary_new">Förbättra skärmen och prestandan när du spelar spel</string>
+    <string name="gd_setting_dock_summary">Öppna andra appar i flytande fönster medan en app används i fullskärmsläge</string>
+    <string name="gd_setting_dock_title">Sidopanel</string>
+    <string name="gd_setting_dock_video_summary">Använd effekter så som Dolby Atmos när du ser på videor</string>
+    <string name="gd_setting_dock_video_summary_new">Använd verktyg och effekter medan vi tittar på videor</string>
+    <string name="gd_setting_group_custom_conversation_apps">Spela in röstprofil för samtal</string>
     <string name="gd_setting_group_custom_gtb_apps">Spel</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Hantera spelappar</string>
     <string name="gd_setting_group_custom_settings">Anpassning</string>
     <string name="gd_setting_group_custom_vtb_apps">Videoappar</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Hantera videoappar</string>
     <string name="gd_setting_group_title_switch">Scener</string>
     <string name="gd_setting_gtb">Visa när du spelar spel</string>
     <string name="gd_setting_gtb_desc">Specialfunktioner för spel</string>
@@ -2157,11 +2187,17 @@ av dina spelsessioner"</string>
     <string name="get_phone_num_fail">Okänt telefonnummer</string>
     <string name="get_sys_info">Hämtar info…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">Tryck och håll inne indikatorn för att flytta runt fönstret</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Tryck på en app på sidopanelen för att öppna den i ett flytande fönster.
 · Dra en app till mitten av skärmen för att öppna den i ett flytande fönster eller sitt sidan för att använda Dela skärm.
 Tryck och håll inne indikatorn för att flytta runt fönstret."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"Tryck på en app i sidlinjen, för att öppna den i ett flytande fönster.
+Dra en app till mitten av skärmen för att öppna den i ett flytande fönster, eller vid sidan, för att använda Dela skärm.
+Tryck och håll indikatorn för att flytta runt fönstret."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Tryck på en app på sidopanelen för att öppna i ett flytande fönster.
  Tryck och håll inne indikatorn för att flytta runt fönstret."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Svep för att öppna sidopanelen och tryck på en app för att öppna den i ett flytande fönster.
+Tryck och håll inne indikatorn för att flytta runt fönstret."</string>
     <string name="global_satisfaction_notification_button">Betygsätt</string>
     <string name="global_satisfaction_notification_channel">Nöjdhetsundersökning</string>
     <string name="global_satisfaction_notification_subhead">Berätta om din upplevelse</string>
@@ -3182,6 +3218,7 @@ Försök med en annan nätverkskabel. Om du misstänker att det är ett problem 
     <string name="pc_battery_history_total_consumption_title">Total strömförbrukning</string>
     <string name="pc_battery_history_usetime_title">Aktiv</string>
     <string name="pc_battery_low_health_reminder">Det är dags att byta ut dina batterier</string>
+    <string name="pc_battery_replacement_service_title">Testa vår batteribytestjänst. %1$s originalhårvara med en garanti på %2$s.</string>
     <string name="pc_berserk_mode_dialog_title">Aktivera Ultimat läge</string>
     <string name="pc_berserk_mode_noti_summary">Ultimat läge kan öka strömförbrukningen och leda till överhettningsproblem</string>
     <string name="pc_berserk_mode_performance_title">Ultimat läge</string>
@@ -3255,6 +3292,7 @@ Försök med en annan nätverkskabel. Om du misstänker att det är ett problem 
     <string name="pc_fast_charge_switch_summary_new">Påminn om att öka laddningshastigheten när den medföljande laddaren är ansluten och batteriet är under den inställda nivån.</string>
     <string name="pc_fast_charge_switch_title">Öka laddningshastigheten</string>
     <string name="pc_fast_charge_switch_toast_message">Ändringarna kommer att tillämpas nästa gång du laddar denna enhet</string>
+    <string name="pc_fast_charge_temp_remider">Aktivera för att reglera laddningshastigheten automatiskt. Den här funktionen fungerar bara med Xiaomis medföljande laddare. Din enhet kan värma upp under laddning.</string>
     <string name="pc_fast_charge_title">Öka laddningshastigheten</string>
     <string name="pc_going_to_exit_extreme_mode">Lämna viloläge</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Din enhet laddar. Viloläget är av.</string>
@@ -3343,6 +3381,16 @@ Ultra batterisparare"</string>
     <string name="pc_search_keywords_capacity">Batterikapacitet</string>
     <string name="pc_search_keywords_property">Prestanda</string>
     <string name="pc_settings_title">Batteri</string>
+    <string name="pc_smart_charge_button_summary">För förlängd batteritid, kommer systemet att lära sig hur du laddar din enhet och avsluta laddningen när batterinivån når %1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Din enhet värmdes upp. Laddningen kommer att avslutas när batterinivån når %1$s</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Navigerar… Laddningen avslutas när batterinivån når %1$s</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">Laddningen kommer att avslutas vid %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">För att förlänga batteritiden kommer den här enhetens batteri inte att gå över den aktuella nivån, medan den är ansluten till bilen.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Visa inte igen</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Batteriskydd</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">För att förlänga batteritiden kommer den här enhetens batteri att gå över den aktuella nivån medan den här ansluten till bilen</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Batteriskydd</string>
+    <string name="pc_smart_charge_title">Smart laddning</string>
     <string name="pc_smart_discharge_checkbox_summary">När navigeringsfunktionerna används kommer laddning att avstanna automatiskt vid en särskild procent. Batterispararen kommer att stängas av.</string>
     <string name="pc_smart_discharge_checkbox_title">Laddar automatisk bortkoppling</string>
     <string name="pc_smart_discharge_drop_down_title">Inställningar för automatisk bortkoppling</string>
@@ -3355,6 +3403,8 @@ Ultra batterisparare"</string>
     <string name="pc_statistics_battery_use_title">Batterianvändning</string>
     <string name="pc_suggest_open_fast_charge">Aktivera %d W snabbladdning</string>
     <string name="pc_temperature_too_high">Enheten överhettad</string>
+    <string name="pc_this_time_charge_full">Ladda helt den här gången</string>
+    <string name="pc_this_time_charge_full_work">Nästan fulladdat</string>
     <string name="pc_timely_charging_summary">Batteriet är under %1$s. Om enheten överhettas medan batteriet är svagt kan detta skada batteriet.</string>
     <string name="pc_timely_charging_title">Ladda din enhet</string>
     <string name="pc_to_phone_install">Blockerade installation av %s via USB</string>
@@ -4375,6 +4425,13 @@ Dra tillbaka samtycke nu?"</string>
     <string name="sd_mount">Montera SD-kort</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">App</string>
+    <string name="search_keyword_applybar">App-docka</string>
+    <string name="search_keyword_call">Samtal</string>
+    <string name="search_keyword_sidebar">Sidopanel</string>
+    <string name="search_keyword_tool">Verktyg</string>
+    <string name="search_keyword_tools">Verktygslåda</string>
+    <string name="search_keyword_voice">Röst</string>
     <string name="search_menu_title">Sök</string>
     <string name="search_result_text">Kunde inte hitta några appar</string>
     <string name="section_clear_acc_item_title">%s. Om det är fortfarande inte tillräckligt med lagringsutrymme, prova att använda Städaren.</string>
@@ -5164,6 +5221,7 @@ Formateringen kommer att radera befintligt innehåll på ^2. För att undvika f�
     <string name="title_cloud_space_almost_full">Molnlagring nästan full, objekt kanske inte synkroniseras</string>
     <string name="title_cloud_space_full">Utrymmet i molnet är fullt</string>
     <string name="title_cmcc_app_check">Verifiering är inte slutförd</string>
+    <string name="title_condition_meeting">Möte</string>
     <string name="title_consume_power_rank">Appens batterianvändning</string>
     <string name="title_dark_mode">Vissa objekt visas inte korrekt</string>
     <string name="title_data_flow">Kontroll mobildata</string>
@@ -5224,6 +5282,8 @@ Formateringen kommer att radera befintligt innehåll på ^2. För att undvika f�
     <string name="toast_cleaner_cloudscan">Städaren kommer använda definitioner från internet</string>
     <string name="toast_dark_mode_fixed">Framgångsrikt fixad. Lämna denna sida för att applicera ändringarna.</string>
     <string name="toast_flow_notification">Aktiverade notifikationer om dataanvändning</string>
+    <string name="toast_gamembox_unenable_pad">Aktivera Spelturbo i Säkerhet, först</string>
+    <string name="toast_gamembox_unenable_phone">Aktivera Spelturbo i Säkerhet, först</string>
     <string name="toast_garbage_lib">Aktiverade automatiska uppdateringar för Städaren</string>
     <string name="toast_keyword_blank">Du måste ange ett nyckelord</string>
     <string name="toast_keyword_exist">Nyckelord tillagt</string>

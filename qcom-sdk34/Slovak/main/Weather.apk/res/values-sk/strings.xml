@@ -33,6 +33,8 @@
     <string name="abrupt_weather_settings_summary_type">Dostávať informácie o očakávanom daždi, zmenách kvality ovzdušia a iných dôležitých zmenách</string>
     <string name="act_find_city_hint">Zadajte polohu</string>
     <string name="act_find_city_hot_city_title">Populárne mestá</string>
+    <string name="act_find_city_location_button_text">Získať polohu</string>
+    <string name="act_find_city_location_title">Aktuálna poloha</string>
     <string name="act_location_error_to_find_city">Nepodarilo sa získať údaje o polohe. Polohu môžete pridať manuálne.</string>
     <string name="act_set_city_find_side">Zisťovanie polohy...</string>
     <string name="act_set_city_find_side_error">Nie je možné lokalizovať</string>
@@ -57,6 +59,7 @@
     <string name="activity_main_update_time">Aktualizované %1$s</string>
     <string name="activity_main_update_time_expire">Platnosť údajov vypršala</string>
     <string name="activity_main_update_time_right_now">práve teraz</string>
+    <string name="add_city">Pridať</string>
     <string name="afternoon">Popoludní</string>
     <string name="alert_detail_title">Podrobnosti upozornenia</string>
     <string name="alert_warning">Výstrahy počasia</string>
@@ -539,7 +542,7 @@
     <string name="top_pollution_no2">NO2</string>
     <string name="top_pollution_o3">O3</string>
     <string name="top_pollution_pm10">PM10</string>
-    <string name="top_pollution_pm25">PM2,5</string>
+    <string name="top_pollution_pm25">PM2.5</string>
     <string name="top_pollution_so2">SO2</string>
     <string name="traffic_control_daty_after_tomorrow_numbers">Pozajtra: %1$s</string>
     <string name="traffic_control_today_numbers">Dnes: %1$s</string>

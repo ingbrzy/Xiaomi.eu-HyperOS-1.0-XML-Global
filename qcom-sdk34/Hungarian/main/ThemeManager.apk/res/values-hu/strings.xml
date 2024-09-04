@@ -106,6 +106,10 @@
     <string name="author_new_theme">Új</string>
     <string name="author_popularity">Megtekintések</string>
     <string name="author_unfollow_succeed">Követés sikeresen visszavonva</string>
+    <string name="automatic_renewal_monthly">Automatikusan megújul %s/hónap áron</string>
+    <string name="automatic_renewal_weekly">Automatikusan megújul %s/hét áron</string>
+    <string name="automatic_renewal_yearly">Automatikusan megújul %s/év áron</string>
+    <string name="automatically_push_content_to_lock_screen">Minden nap új tartalom jelenik meg a Képernyőzáron</string>
     <string name="automatically_update_using_theme_tips">Legközelebb frissüljön automatikusan</string>
     <string name="back_to_default">Vissza az alapértelmezetthez</string>
     <string name="back_to_none">Ne állítson be csengőhangot</string>
@@ -122,6 +126,9 @@
     <string name="bottomsheet_action_expand_halfway">Kibontás félig</string>
     <string name="browser_local_resource">Helyi források</string>
     <string name="can_not_apply">Nem alkalmazható</string>
+    <string name="canceled_failed">Lemondás sikertelen</string>
+    <string name="canceled_subscription_failed">Nem sikerült lemondani az előfizetést. Próbálja újra.</string>
+    <string name="canceled_trial_failed">Lemondás sikertelen. Próbálja újra.</string>
     <string name="card_data_request_error">Hiba történt. Várjon egy-két percet, majd próbálja újra.</string>
     <string name="card_loading">Egy pillanat…</string>
     <string name="card_no_network">Nem sikerült kapcsolódni a hálózathoz. Ellenőrizze a beállításokat és próbálja újra.</string>
@@ -175,6 +182,7 @@
     <string name="current_using_desktop_wallpaper_text">Kezdőképernyő</string>
     <string name="current_using_lockscreen_wallpaper_text">Képernyőzár</string>
     <string name="current_version_incompatible">Nem kompatibilis</string>
+    <string name="custom_wallpaper_for_you">Személyre szabott háttérképek Önnek</string>
     <string name="data_use_desc">Jogi dokumentumok</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +192,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">Alkalmaz</string>
     <string name="de_super_wp_land_position_default_des">Nézet kiválasztása</string>
     <string name="deleting">Törlés…</string>
+    <string name="delivers_fresh_content_and_design_daily">Friss tervezések mindennap</string>
     <string name="description_author">Készítő:</string>
     <string name="description_designer">Tervező:</string>
     <string name="description_download">Letöltés:</string>
@@ -210,6 +219,7 @@
     <string name="editor_apply_message">"Ezt a funkciót a tervezők használják hibakeresésre. Az alapértelmezett téma kis idő múlva automatikusan vissza lesz állítva. Az aktuális téma elérési útja: "</string>
     <string name="editor_apply_toast">A temp.mtz manuális kiválasztása a gyökérkönyvtárban</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">Adjon meg egy e-mail-címet</string>
     <string name="eras_ad">I.SZ.</string>
     <string name="eras_bc">I.E.</string>
     <string name="error_icon_content_description">Hiba</string>
@@ -384,6 +394,7 @@
     <string name="hide_incompatible_font">Nem kompatibilis betűtípusok elrejtése</string>
     <string name="hide_incompatible_theme">Nem kompatibilis témák elrejtése</string>
     <string name="hide_incompatible_wallpaper">Nem kompatibilis háttérképek elrejtése</string>
+    <string name="hint_email_address">Adjon meg egy e-mail-címet</string>
     <string name="home_apply_failured">Nem lehetett beállítani a Kezdőképernyő háttérképet</string>
     <string name="home_apply_success">Kezdőképernyő háttérkép beállítva</string>
     <string name="hot_first">Népszerű elől</string>
@@ -417,6 +428,7 @@
     <string name="loading_resource_detail_fail">Téma betöltése nem sikerült!</string>
     <string name="loading_resource_detail_info">Egy pillanat…</string>
     <string name="local_photos">Helyi fényképek</string>
+    <string name="local_record__email_info">Jegyezze meg az e-mail-címemet</string>
     <string name="local_resouce_creator_name">Fejlesztő: %1$s</string>
     <string name="lock_screen_edit">Képernyőzár szerkesztése</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">Ez a Képernyőzár sablon nem támogatja a Szuper háttérképeket. Az alkalmazás után a Képernyőzár visszaáll az alapértelmezettre, és a Kezdőképernyő és a Képernyőzár háttérképei lecserélődnek. Alkalmazza most?</string>
@@ -457,6 +469,7 @@
     <string name="message_sim_two">SIM %d üzenet</string>
     <string name="mi_wallpaper">MIUI háttérkép</string>
     <string name="midnight">Éjjel</string>
+    <string name="mine_subscribed_wallpaper">Előfizetett háttérképek</string>
     <string name="miui_clock_city_name_local">Helyi</string>
     <string name="miui_clock_city_name_second">A második óra</string>
     <string name="miui_lock_screen_date">MMM. dd., EEE</string>
@@ -701,7 +714,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">Testre szabhatja készülékét</string>
     <string name="present_official_themes">A Xiaomi ajánlata</string>
     <string name="present_online_themes">Szerezzen be több online témát</string>
+    <string name="price_for_automatic_renewal">Automatikus megújítás: %1$s</string>
     <string name="privacy_desc">Adatvédelmi szabályzat (kötelező)</string>
+    <string name="privacy_simple_content">Kapcsolja be a személyre szabott ajánlásokat, hogy az érdeklődési körének megfelelő tartalmakat és termékeket kapjon.</string>
+    <string name="privacy_simple_hint">A preferenciáit bármikor megváltoztathatja a Beállításokban.</string>
+    <string name="privacy_simple_title">Személyre szabott ajánlások</string>
     <string name="promotion_ad">Promóció</string>
     <string name="provision_default_theme_title">Alapértelmezett</string>
     <string name="provision_download_cancel">Letöltés törölve</string>
@@ -747,6 +764,9 @@ mm"</string>
     <string name="related_theme">Témák</string>
     <string name="related_wallpaper">Háttérképek</string>
     <string name="reload">Próbálja újra</string>
+    <string name="renewal_of_a_contract_monthly">Megújítás %s/hónap áron</string>
+    <string name="renewal_of_a_contract_weekly">Megújítás %s/hét áron</string>
+    <string name="renewal_of_a_contract_yearly">Megújítás %s/év áron</string>
     <string name="res_migrate_tip">Annak érdekében, hogy a Témák kompatibilisek legyenek az Android következő verzióival, a letöltött elemeket új helyre költöztettük. A módosítások érvényesítéséhez és a letöltött tartalmak megtekintéséhez indítsa újra az alkalmazást.</string>
     <string name="resource_account_abnormal_state">Fiókhiba, próbálja később.</string>
     <string name="resource_account_fail_to_add">A fiók hozzáadása nem sikerült!</string>
@@ -766,6 +786,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">Törli a keresési előzményeket?</string>
     <string name="resource_continue">Következő</string>
     <string name="resource_current_using_title">Jelenlegi témák</string>
+    <string name="resource_currently_applied">Alkalmazva</string>
     <string name="resource_data_empty">Itt nincsenek elemek.</string>
     <string name="resource_default">Alapértelmezett csengőhang</string>
     <string name="resource_default_name">Téma</string>
@@ -964,6 +985,7 @@ mm"</string>
     <string name="select_all">Összes kijelölése</string>
     <string name="selected_resource_file_invalid">A kiválasztott fájl formátuma hibás.</string>
     <string name="send">Küldés</string>
+    <string name="service_expiration_date">Érvényes: %1$s</string>
     <string name="set_color_ring_back_tone">Egyéni hívásvárakoztatási hang beállítása</string>
     <string name="settings">Beállítások</string>
     <string name="shortcut_add">Hozzáadás</string>
@@ -985,6 +1007,9 @@ mm"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Alkalmaz</string>
     <string name="storage_file">A letöltött elemek mentéséhez</string>
+    <string name="submission_successfully">Sikeresen beküldve</string>
+    <string name="subscription_service_shutdown_tip">Az előfizetett háttérképek már nem jelennek meg, mert más szolgáltatást használ. Újra alkalmazhat egy előfizetett háttérképet.</string>
+    <string name="successfully_applied_wallpaper_tip">Háttérkép sikeres alkalmazása</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Vasárnap</string>
     <string name="sunday_short">Vas</string>
@@ -997,11 +1022,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">Telepítés</string>
     <string name="super_wallpaper_list_footer_text">További Szuper háttérképek hamarosan</string>
     <string name="super_wallpaper_list_label">Szuper háttérképek</string>
+    <string name="super_wallpaper_low_version_tip_push">Frissítse a Szuper háttérképeket a legújabb verzióra, hogy továbbra is használni tudja őket.</string>
+    <string name="super_wallpaper_restore_msg_push">A Szuper háttérképek jelenlegi verziója inkompatibilitási problémába ütközött. Az Ön alapértelmezett háttérképét visszaállítottuk. Frissítsen a legújabb verzióra, hogy használni tudja a Szuper háttérképeket.</string>
     <string name="super_wallpaper_setting_apply_success_toast">Sikeresen alkalmazva</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Alkalmaz</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Beállítások</string>
     <string name="super_wallpaper_setting_coordinate_title">Koordináták</string>
     <string name="super_wallpaper_setting_view_height_title">Magasság</string>
+    <string name="super_wallpaper_upgrade_tip_push">Szuper háttérképek frissítése</string>
     <string name="support_google_dynamic_color_hint">A Google Dynamic Color-t használja. Egyes alkalmazások színpalettája megváltozhat, ha új témákat és háttérképeket alkalmaz.</string>
     <string name="swipe_find_more">Húzza fel a további lehetőségekhez</string>
     <string name="system_aod_dialog_message">A szolgáltatás használatához kapcsolja be a Always-on display funkciót.</string>
@@ -1009,7 +1037,26 @@ mm"</string>
     <string name="system_aod_dialog_title">Always-on display funkció</string>
     <string name="system_phone">Hívások</string>
     <string name="system_precust">Előre telepített</string>
+    <string name="text_billing_info">Számlázási adatok</string>
+    <string name="text_cancel_subscription_service">Lemondja az előfizetést most?</string>
+    <string name="text_content_update">Új tartalom naponta</string>
+    <string name="text_free_trial">Próbálja ki ingyen</string>
+    <string name="text_pay_monthly" formatted="false">%s-tól kezdődően, automatikusan megújul %s/hónap áron lemondásig</string>
+    <string name="text_pay_weekly" formatted="false">%s-tól kezdődően, automatikusan megújul %s/hét áron lemondásig</string>
+    <string name="text_pay_yearly" formatted="false">%s-tól kezdődően, automatikusan megújul %s/év áron lemondásig</string>
     <string name="text_play">Játék</string>
+    <string name="text_start_time_format">MM. dd.</string>
+    <string name="text_status_apply_now">Alkalmaz</string>
+    <string name="text_status_be_subscribing">Feliratkozva</string>
+    <string name="text_status_cancel_the_trial">Próbaidőszak leállítása</string>
+    <string name="text_status_on_trial">Próbaidőszak folyamatban</string>
+    <string name="text_status_subscribe_now">Előfizetés</string>
+    <string name="text_status_unsubscribe">Leiratkozás</string>
+    <string name="text_status_unsubscribed">Leiratkozva</string>
+    <string name="text_subscribe">Feliratkozások</string>
+    <string name="text_subscribed">Feliratkozva</string>
+    <string name="text_when_cancel_the_trial_tip">Ha lemondja ezt a próbaidőszakot, ez a háttérkép törlődik a készülékéről.</string>
+    <string name="text_when_unsubscribe_tip">Ha lemondja ezt az előfizetést, ez a háttérkép törlődik a készülékéről.</string>
     <string name="the_anniversary_of_lifting_martial_law">A harci törvény feloldásának évfordulója</string>
     <string name="the_anti_aggression_day">Agresszióellenes Nap</string>
     <string name="the_arbor_day">A Fák Napja</string>
@@ -1150,6 +1197,8 @@ mm"</string>
     <string name="tip_lockscreen">A Képernyőzár háttérképének és órájának módosítása</string>
     <string name="tip_lockscreen2">Ön a Váltakozó háttérképek alkalmazást használja. A téma testreszabásával megváltozik a Képernyőzár háttérképe és az óra.</string>
     <string name="tip_statusbar">Irányítóközpont és Értesítési felület módosítása</string>
+    <string name="tips_subscriptions_close">A háttérkép-előfizetések ki vannak kapcsolva</string>
+    <string name="tips_talk_later">Most nem</string>
     <string name="tips_theme_gate_transfer_fail">Nem sikerült megnyitni ezt az oldalt. Várj egy-két percet, majd próbáld meg újra.</string>
     <string name="title_component">Témaszerkesztés</string>
     <string name="title_home_miwallpaper_home_screen_effects">Kezdőképernyő effektusok</string>
@@ -1164,6 +1213,7 @@ mm"</string>
     <string name="today">Ma</string>
     <string name="tomorrow">Holnap</string>
     <string name="top">Népszerű</string>
+    <string name="trial_cancellation_succeeded">Próbaidőszak sikeres lemondása</string>
     <string name="try_fresh_functions_and_contents">Nézze meg új funkcióinkat és tartalmainkat</string>
     <string name="try_it">Nézd meg</string>
     <string name="try_tap">Kattintson az előnézethez</string>
@@ -1175,6 +1225,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">Rendben</string>
     <string name="uid_change_dialog_title">Készülék újraindítása</string>
     <string name="unknown_error">Hiba történt</string>
+    <string name="unsubscribe_successfully">Sikeresen leiratkozott</string>
     <string name="unsupport_tip">Ez a fájlformátum nem támogatott. Válasszon másik fájlt.</string>
     <string name="up_to_the_end">Nincs több megtekinthető elem</string>
     <string name="update_btn">FRISSÍTÉS MOST</string>
@@ -1189,6 +1240,7 @@ mm"</string>
     <string name="update_push_content">Frissítés most</string>
     <string name="update_push_title">A témájához elérhető egy új verzió</string>
     <string name="update_title">ÚJ FRISSÍTÉS ÉRHETŐ EL</string>
+    <string name="updating_the_app_tip">Frissítés…</string>
     <string name="used_wallpaper">Korábban használt</string>
     <string name="user_agree">Elfogadom</string>
     <string name="user_attention_new_theme">Új tartalom %s tervezőtől</string>
@@ -1238,6 +1290,7 @@ Bármikor visszavonhatja a Témák alkalmazás Adatvédelmi irányelvéhez adott
     <string name="wallpaper_group_natural_texture_title">Természeti minták</string>
     <string name="wallpaper_group_sgn_mountain_title">Siguniang-hegység</string>
     <string name="wallpaper_might_like">Háttérképek, amelyek tetszhetnek Önnek</string>
+    <string name="wallpaper_restore_defalut_push">Alapértelmezés visszaállítása</string>
     <string name="wallpaper_scroll_type_tips">Háttérkép görgetése</string>
     <string name="wallpaper_set_as_both">Beállítás mindkettőnek</string>
     <string name="wallpaper_set_as_desktop">Beállítás Kezdőképernyőnek</string>

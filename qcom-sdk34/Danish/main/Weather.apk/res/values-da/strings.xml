@@ -33,6 +33,8 @@
     <string name="abrupt_weather_settings_summary_type">Modtag alarmer om forventet regn, ændringer i luftkvaliteten og andre betydelige ændringer</string>
     <string name="act_find_city_hint">Indtast placering</string>
     <string name="act_find_city_hot_city_title">Populære byer</string>
+    <string name="act_find_city_location_button_text">Hent placering</string>
+    <string name="act_find_city_location_title">Aktuel placering</string>
     <string name="act_location_error_to_find_city">Kunne ikke få placeringsoplysninger. Du kan tilføje en placering manuelt.</string>
     <string name="act_set_city_find_side">Finder</string>
     <string name="act_set_city_find_side_error">Kan ikke finde enheden</string>
@@ -57,6 +59,7 @@
     <string name="activity_main_update_time">Opdateret %1$s</string>
     <string name="activity_main_update_time_expire">Data udløbet</string>
     <string name="activity_main_update_time_right_now">lige nu</string>
+    <string name="add_city">Tilføj</string>
     <string name="afternoon">Eftermiddag</string>
     <string name="alert_detail_title">Advarselsoplysninger</string>
     <string name="alert_warning">Vejrmeldinger</string>

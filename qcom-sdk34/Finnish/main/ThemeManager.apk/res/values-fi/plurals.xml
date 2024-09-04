@@ -146,6 +146,10 @@ Kolikoilla ei ole palautusoikeutta"</item>
         <item quantity="other">%d teosta</item>
         <item quantity="one">%d teos</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">Pyyntösi käsitellään noin %1$d sekunnin kuluttua.</item>
+        <item quantity="one">Pyyntösi käsitellään noin %1$d sekunnin kuluttua.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"%d tilausta hyvitetty onnistuneesti. "</item>
         <item quantity="one">"%d tilaus hyvitetty onnistuneesti. "</item>

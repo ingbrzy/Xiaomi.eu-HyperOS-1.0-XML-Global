@@ -854,6 +854,12 @@
         <item quantity="two">" דקות"</item>
         <item quantity="many">" דקות"</item>
     </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d ימים</item>
+        <item quantity="one">יום %d</item>
+        <item quantity="two">%d ימים</item>
+        <item quantity="many">%d ימים</item>
+    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d פריטים</item>
         <item quantity="one">פריט אחד (%d)</item>

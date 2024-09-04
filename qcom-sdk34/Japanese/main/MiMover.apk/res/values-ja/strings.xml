@@ -77,6 +77,7 @@
     <string name="cancel">キャンセル</string>
     <string name="cancel_moving_dialog_message">今すぐインポートを停止しますか？</string>
     <string name="cancel_moving_dialog_title">インポートの停止</string>
+    <string name="cancel_tranfer">キャンセル</string>
     <string name="cannot_use_mi_huanji_button">了解</string>
     <string name="cannot_use_mi_huanji_summary">MIUIは現在アイテムをバックアップしているようです。Mi Moverが転送を開始できるように、進行中のバックアップを停止するか、デバイスを再起動してください。</string>
     <string name="cannot_use_mi_huanji_title">現在、転送できません</string>
@@ -269,6 +270,7 @@ WeChatを開き、[自分] > [設定] > [一般] > [チャットのバックア�
     <string name="guest_unfinished_task_alert_message">転送タスクが未完了のようです。転送を続けますか？</string>
     <string name="guest_unfinished_task_alert_title">未完了のタスク</string>
     <string name="hide_password_description">パスワードを非表示</string>
+    <string name="high_temp_summary">大量のデータを転送している間、デバイスが熱くなることがあります。これは正常な動作であり、転送が完了するとデバイスの温度は下がります。</string>
     <string name="host_boot_installation_bottom_tips">Mi Moverが見つかりませんか？タップしてダウンロードします。</string>
     <string name="host_boot_installation_button">次へ</string>
     <string name="host_boot_installation_dialog_message">古いデバイスのMi Moverのバージョンは、ここにインストールされているバージョンと互換性がありません。古いデバイスのMi Moverをアップデートしてください。</string>

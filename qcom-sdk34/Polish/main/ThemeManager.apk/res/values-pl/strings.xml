@@ -106,6 +106,10 @@
     <string name="author_new_theme">Nowy</string>
     <string name="author_popularity">Wyświetlenia</string>
     <string name="author_unfollow_succeed">Pomyślnie przerwano obserwowanie</string>
+    <string name="automatic_renewal_monthly">Automatyczne odnawianie za %s/miesiąc</string>
+    <string name="automatic_renewal_weekly">Automatyczne odnawianie za %s/tydzień</string>
+    <string name="automatic_renewal_yearly">Automatyczne odnawianie za %s/rok</string>
+    <string name="automatically_push_content_to_lock_screen">Każdego dnia nowa zawartość wyświetli się na ekranie blokady</string>
     <string name="automatically_update_using_theme_tips">Aktualizuj automatycznie następnym razem</string>
     <string name="back_to_default">Powrót do domyślnych</string>
     <string name="back_to_none">Nie ustawiaj dzwonka</string>
@@ -122,6 +126,9 @@
     <string name="bottomsheet_action_expand_halfway">Rozwiń do połowy</string>
     <string name="browser_local_resource">Zasoby lokalne</string>
     <string name="can_not_apply">Nie można zastosować</string>
+    <string name="canceled_failed">Nie udało się anulować</string>
+    <string name="canceled_subscription_failed">Nie udało się anulować subskrypcji. Spróbuj ponownie.</string>
+    <string name="canceled_trial_failed">Nie udało się anulować. Spróbuj ponownie.</string>
     <string name="card_data_request_error">Wystąpił błąd. Poczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="card_loading">Chwileczkę…</string>
     <string name="card_no_network">Nie udało się połączyć z siecią. Sprawdź ustawienia sieci i spróbuj ponownie.</string>
@@ -175,6 +182,7 @@
     <string name="current_using_desktop_wallpaper_text">Ekran główny</string>
     <string name="current_using_lockscreen_wallpaper_text">Ekran blokady</string>
     <string name="current_version_incompatible">Niekompatybilna</string>
+    <string name="custom_wallpaper_for_you">Spersonalizowane tapety specjalnie dla Ciebie</string>
     <string name="data_use_desc">Dokumenty prawne</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +192,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">Zastosuj</string>
     <string name="de_super_wp_land_position_default_des">Wybierz widok</string>
     <string name="deleting">Usuwanie…</string>
+    <string name="delivers_fresh_content_and_design_daily">Codziennie nowe wzory</string>
     <string name="description_author">Autor:</string>
     <string name="description_designer">Projektant:</string>
     <string name="description_download">Pobrań:</string>
@@ -210,6 +219,7 @@
     <string name="editor_apply_message">"Ta funkcja jest używana do debugowania przez projektantów. Domyślny motyw zostanie automatycznie przywrócony po chwili. Ścieżka pliku bieżącego motywu: "</string>
     <string name="editor_apply_toast">Wybierz ręcznie temp.mtz w katalogu ROOT</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">Wprowadź adres e-mail</string>
     <string name="eras_ad">n.e</string>
     <string name="eras_bc">p.n.e</string>
     <string name="error_icon_content_description">Błąd</string>
@@ -384,6 +394,7 @@
     <string name="hide_incompatible_font">Ukryj niekompatybilne czcionki</string>
     <string name="hide_incompatible_theme">Ukryj niekompatybilne motywy</string>
     <string name="hide_incompatible_wallpaper">Ukryj niekompatybilne tapety</string>
+    <string name="hint_email_address">Wprowadź adres e-mail</string>
     <string name="home_apply_failured">Nie można ustawić tapety ekranu głównego</string>
     <string name="home_apply_success">Ustawiono tapetę ekranu głównego</string>
     <string name="hot_first">Najpierw popularne</string>
@@ -417,6 +428,7 @@
     <string name="loading_resource_detail_fail">Nie udało się wczytać zasobu</string>
     <string name="loading_resource_detail_info">Chwileczkę…</string>
     <string name="local_photos">Zdjęcia lokalne</string>
+    <string name="local_record__email_info">Zapamiętaj mój adres e-mail</string>
     <string name="local_resouce_creator_name">Twórca: %1$s</string>
     <string name="lock_screen_edit">Edytuj Ekran blokady</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">Ten szablon Ekranu blokady nie obsługuje Super tapet. Po zastosowaniu Ekran blokady powróci do ustawień domyślnych, a tapety Ekranu głównego i Ekranu blokady zostaną zastąpione. Zastosować teraz?</string>
@@ -457,6 +469,7 @@
     <string name="message_sim_two">Wiadomość SIM %d</string>
     <string name="mi_wallpaper">Tapeta MIUI</string>
     <string name="midnight">Noc</string>
+    <string name="mine_subscribed_wallpaper">Subskrybowane tapety</string>
     <string name="miui_clock_city_name_local">Lokalny</string>
     <string name="miui_clock_city_name_second">Drugi zegar</string>
     <string name="miui_lock_screen_date">EEE d MMM</string>
@@ -701,7 +714,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">Dostosuj swoje urządzenie</string>
     <string name="present_official_themes">Nasz wybór</string>
     <string name="present_online_themes">Uzyskaj więcej motywów</string>
+    <string name="price_for_automatic_renewal">Automatyczne odnawianie za %1$s</string>
     <string name="privacy_desc">Polityka Prywatności (obowiązkowa)</string>
+    <string name="privacy_simple_content">Włącz spersonalizowane propozycje, aby otrzymywać treści i produkty dostosowane do Twoich zainteresowań.</string>
+    <string name="privacy_simple_hint">Możesz zmienić swoje preferencje w dowolnym momencie w Ustawieniach.</string>
+    <string name="privacy_simple_title">Spersonalizowane propozycje</string>
     <string name="promotion_ad">Promocja</string>
     <string name="provision_default_theme_title">Domyślny</string>
     <string name="provision_download_cancel">Anulowano pobieranie</string>
@@ -747,6 +764,9 @@ mm"</string>
     <string name="related_theme">Motywy</string>
     <string name="related_wallpaper">Tapety</string>
     <string name="reload">Spróbuj ponownie</string>
+    <string name="renewal_of_a_contract_monthly">Odnów za %s/miesiąc</string>
+    <string name="renewal_of_a_contract_weekly">Odnów za %s/tydzień</string>
+    <string name="renewal_of_a_contract_yearly">Odnów za %s/rok</string>
     <string name="res_migrate_tip">Aby Motywy były kompatybilne z nadchodzącymi wersjami Androida, przenieśliśmy twoje pobrane elementy do nowej lokalizacji. Uruchom ponownie aplikację, aby zmieniać i wyświetlać pobraną zawartość.</string>
     <string name="resource_account_abnormal_state">Błąd konta: Spróbuj ponownie później.</string>
     <string name="resource_account_fail_to_add">Nie można dodać konta</string>
@@ -766,6 +786,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">Wyczyścić historię wyszukiwania?</string>
     <string name="resource_continue">Dalej</string>
     <string name="resource_current_using_title">Aktualne zasoby</string>
+    <string name="resource_currently_applied">Zastosowano</string>
     <string name="resource_data_empty">Brak elementów.</string>
     <string name="resource_default">Domyślny dzwonek</string>
     <string name="resource_default_name">Element</string>
@@ -964,6 +985,7 @@ mm"</string>
     <string name="select_all">Zaznacz wszystko</string>
     <string name="selected_resource_file_invalid">Wybrany plik jest niedostępny</string>
     <string name="send">Wyślij</string>
+    <string name="service_expiration_date">Ważne do %1$s</string>
     <string name="set_color_ring_back_tone">Ustaw dźwięk dzwonka zwrotnego użytkownika</string>
     <string name="settings">Ustawienia</string>
     <string name="shortcut_add">Dodaj</string>
@@ -985,6 +1007,9 @@ mm"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Zastosuj</string>
     <string name="storage_file">Do zapisywania pobranych elementów</string>
+    <string name="submission_successfully">Pomyślnie przesłano</string>
+    <string name="subscription_service_shutdown_tip">Subskrybowane tapety przestały się wyświetlać, ponieważ korzystasz z innej usługi. Masz jednak możliwość przywrócenia subskrypcji.</string>
+    <string name="successfully_applied_wallpaper_tip">Pomyślnie zmieniono tapetę</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Niedziela</string>
     <string name="sunday_short">Ndz</string>
@@ -997,11 +1022,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">Instaluj</string>
     <string name="super_wallpaper_list_footer_text">Więcej Super tapet już wkrótce</string>
     <string name="super_wallpaper_list_label">Super tapety</string>
+    <string name="super_wallpaper_low_version_tip_push">Zaktualizuj Super tapety do najnowszej wersji, aby móc dalej korzystać z aplikacji.</string>
+    <string name="super_wallpaper_restore_msg_push">Aktualna wersja Super tapet napotkała błąd niezgodności. Przywrócono domyślną tapetę. Zaktualizuj Super tapety do najnowszej wersji, aby móc dalej korzystać z aplikacji.</string>
     <string name="super_wallpaper_setting_apply_success_toast">Pomyślnie zastosowano</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Zastosuj</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Opcje</string>
     <string name="super_wallpaper_setting_coordinate_title">Współrzędne</string>
     <string name="super_wallpaper_setting_view_height_title">Wysokość</string>
+    <string name="super_wallpaper_upgrade_tip_push">Zaktualizuj Super tapety</string>
     <string name="support_google_dynamic_color_hint">Korzystasz z Google Dynamic Color. Paleta kolorów niektórych aplikacji może ulec zmianie, gdy zastosujesz nowe motywy lub tapety.</string>
     <string name="swipe_find_more">Przesuń w górę aby zobaczyć więcej</string>
     <string name="system_aod_dialog_message">Włącz Ekran zawsze włączony, aby móc korzystać z tej funkcji.</string>
@@ -1009,7 +1037,26 @@ mm"</string>
     <string name="system_aod_dialog_title">Ekran zawsze włączony</string>
     <string name="system_phone">Połączenia</string>
     <string name="system_precust">Zainstalowane fabrycznie</string>
+    <string name="text_billing_info">Dane rozliczeniowe</string>
+    <string name="text_cancel_subscription_service">Chcesz anulować subskrypcję?</string>
+    <string name="text_content_update">Codziennie nowe treści</string>
+    <string name="text_free_trial">Wypróbuj za darmo</string>
+    <string name="text_pay_monthly" formatted="false">Automatyczne odnawianie za %s/miesiąc do momentu rezygnacji. Data rozpoczęcia: %s</string>
+    <string name="text_pay_weekly" formatted="false">Automatyczne odnawianie za %s/tydzień do momentu rezygnacji. Data rozpoczęcia: %s</string>
+    <string name="text_pay_yearly" formatted="false">Automatyczne odnawianie za %s/rok do momentu rezygnacji. Data rozpoczęcia: %s</string>
     <string name="text_play">Graj</string>
+    <string name="text_start_time_format">d.MM</string>
+    <string name="text_status_apply_now">Zastosuj</string>
+    <string name="text_status_be_subscribing">Zasubskrybowano</string>
+    <string name="text_status_cancel_the_trial">Przerwij wersję próbną</string>
+    <string name="text_status_on_trial">Wersja próbna w toku</string>
+    <string name="text_status_subscribe_now">Subskrybuj</string>
+    <string name="text_status_unsubscribe">Anuluj subskrypcję</string>
+    <string name="text_status_unsubscribed">Anuluj subskrypcję</string>
+    <string name="text_subscribe">Subskrypcje</string>
+    <string name="text_subscribed">Zasubskrybowano</string>
+    <string name="text_when_cancel_the_trial_tip">W przypadku anulowania wersji próbnej tapeta zostanie usunięta z urządzenia.</string>
+    <string name="text_when_unsubscribe_tip">W przypadku anulowania subskrypcji tapeta zostanie usunięta z urządzenia.</string>
     <string name="the_anniversary_of_lifting_martial_law">Rocznica zniesienia stanu wojennego</string>
     <string name="the_anti_aggression_day">Dzień antyagresji</string>
     <string name="the_arbor_day">Dzień Altany</string>
@@ -1150,6 +1197,8 @@ mm"</string>
     <string name="tip_lockscreen">Zmień tapetę i zegar Ekranu blokady</string>
     <string name="tip_lockscreen2">Korzystasz z Codziennych Tapet. Dostosowanie motywu spowoduje zmianę tapety i zegara na Ekranie blokady.</string>
     <string name="tip_statusbar">Zmień Centrum kontroli i Panel powiadomień</string>
+    <string name="tips_subscriptions_close">Subskrypcje tapet są wyłączone</string>
+    <string name="tips_talk_later">Nie teraz</string>
     <string name="tips_theme_gate_transfer_fail">Nie udało się otworzyć tej strony. Poczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="title_component">Dostosuj motyw</string>
     <string name="title_home_miwallpaper_home_screen_effects">Efekty ekranu głównego</string>
@@ -1164,6 +1213,7 @@ mm"</string>
     <string name="today">Dzisiaj</string>
     <string name="tomorrow">Jutro</string>
     <string name="top">Popularne</string>
+    <string name="trial_cancellation_succeeded">Pomyślnie anulowano wersję próbną</string>
     <string name="try_fresh_functions_and_contents">Sprawdź nasze nowe funkcje i treści</string>
     <string name="try_it">Sprawdź</string>
     <string name="try_tap">Dotknij, aby wyświetlić podgląd</string>
@@ -1175,6 +1225,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">Rozumiem</string>
     <string name="uid_change_dialog_title">Uruchom ponownie</string>
     <string name="unknown_error">Wystąpił błąd</string>
+    <string name="unsubscribe_successfully">Pomyślnie anulowano subskrypcję</string>
     <string name="unsupport_tip">Ten format pliku nie jest obsługiwany. Spróbuj wybrać inny plik.</string>
     <string name="up_to_the_end">Nie ma więcej elementów do wyświetlenia</string>
     <string name="update_btn">AKTUALIZUJ TERAZ</string>
@@ -1189,6 +1240,7 @@ mm"</string>
     <string name="update_push_content">Zaktualizuj teraz</string>
     <string name="update_push_title">Twój motyw ma dostępną nową wersję</string>
     <string name="update_title">DOSTĘPNA JEST NOWA AKTUALIZACJA</string>
+    <string name="updating_the_app_tip">Aktualizowanie…</string>
     <string name="used_wallpaper">Poprzednio używane</string>
     <string name="user_agree">Zgadzam się</string>
     <string name="user_attention_new_theme">%s dodał nowe treści</string>
@@ -1238,6 +1290,7 @@ W dowolnym momencie możesz wycofać swoją zgodę na Politykę Prywatności Mot
     <string name="wallpaper_group_natural_texture_title">Wzory przyrody</string>
     <string name="wallpaper_group_sgn_mountain_title">Góra Siguniang</string>
     <string name="wallpaper_might_like">Tapety, które mogą Ci się spodobać</string>
+    <string name="wallpaper_restore_defalut_push">Przywrócono domyślne ustawienia</string>
     <string name="wallpaper_scroll_type_tips">Przewijanie tapety</string>
     <string name="wallpaper_set_as_both">Ustaw na obu</string>
     <string name="wallpaper_set_as_desktop">Ustaw jako Ekran główny</string>

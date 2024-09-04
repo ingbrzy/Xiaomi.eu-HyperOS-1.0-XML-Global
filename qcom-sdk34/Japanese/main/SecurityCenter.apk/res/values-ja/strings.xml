@@ -590,6 +590,7 @@
     <string name="apps_list_header_title_sms_access">認証コードへのアクセスを制限する</string>
     <string name="ask_create_shortcut">ホーム画面ショートカットを作成しますか？</string>
     <string name="audio_optimization_summary">会話中にオーディオを強化して周囲の騒音を低減する</string>
+    <string name="audio_optimization_summary_new">ゲーム中のイヤホンの音質を最適化し、通話中のノイズを低減します</string>
     <string name="audio_optimization_title">強化されたオーディオ</string>
     <string name="auto_atsk_condition_battery_level_text_down">バッテリーが%sに達すると</string>
     <string name="auto_atsk_condition_battery_level_text_up">バッテリーが%sまで充電されると</string>
@@ -1130,6 +1131,7 @@
     <string name="continue_set">続ける</string>
     <string name="convenient_mode">一度にすべてのアプリをロック解除</string>
     <string name="convenient_summary">パスワードを1度入力するとすべてのアプリのロックを解除する</string>
+    <string name="conversation_phone_title">通話ツールボックス</string>
     <string name="conversation_settings_top">"· 全画面表示での音声通話やビデオ通話中に会議ツールバーをスライドさせると、その機能にアクセスできます。
 · 機能の種類と数は、デバイスのモデルによって異なります。"</string>
     <string name="conversation_sider_tips">新しい会議ツールを使用して最高の通話体験を実現</string>
@@ -1144,9 +1146,13 @@
     <string name="create_gamebooster_destop">ホーム画面ショートカットを正常に作成しました</string>
     <string name="create_shortcut">ゲームターボのホーム画面ショートカットを作成する</string>
     <string name="cs_color_sense">色温度</string>
+    <string name="cs_conversation_record_using">録音中</string>
     <string name="cs_func_toast_headset">この機能を使用するには、ヘッドセットとの接続を解除してください</string>
     <string name="cs_func_toast_light">この機能を使用するには、フロントカメラに切り替えてください</string>
     <string name="cs_func_toast_pickup">この機能を使用するには、ビデオ通話に切り替えてください</string>
+    <string name="cs_func_unavailable_tips">この機能は通話中に使用してください</string>
+    <string name="cs_light_enhance_physical_options">色温度</string>
+    <string name="cs_light_enhance_physical_title">明るさ</string>
     <string name="cs_pickup_denoise_desc">スピーカーやイヤホンの使用中に入ってくるオーディオのノイズを減らします</string>
     <string name="cs_pickup_denoise_title">ノイズ低減</string>
     <string name="cs_pickup_multi_desc">%d度オーディオピックアップ</string>
@@ -1160,11 +1166,19 @@
     <string name="cs_pickup_vioce_print_unsupport_tips">「単一参加者」を選択する前に声紋を録音してください</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">外部デバイスを取り外し、もう一度お試しください</string>
     <string name="cs_pickup_voice_print_desc">1 人の音だけを拾う</string>
+    <string name="cs_privacy_camera_global_settings_title">通話プライバシー</string>
     <string name="cs_screen_translation_title">画面翻訳</string>
+    <string name="cs_simultaneous_interpretation_title">同時通訳</string>
     <string name="cs_title_pickup">ノイズ低減</string>
     <string name="cs_title_smart_subtitle">字幕起こし</string>
     <string name="cs_title_ultraclear">ウルトラHDモード</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">新しい通話ツールボックスで同時通訳やその他の電話会議ツールをお試しください</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">新しい通話ツールボックスでさまざまな電話会議機能をお試しください</string>
+    <string name="cs_tool_box_phone_guide_case_1">新しい通話ツールボックスで同時通訳やその他の機能をお試しください</string>
+    <string name="cs_tool_box_phone_guide_case_2">新しい通話ツールボックスのさまざまな機能をお試しください</string>
     <string name="cs_voice_print">声紋を録音</string>
+    <string name="cs_vt_camera_toast_case1">現在のアプリでカメラを開く</string>
+    <string name="cs_vt_camera_toast_case2">付近に互換性のあるデバイスがありません</string>
     <string name="cta_agree_desc">当社のサービスを利用できるようにするには、このアプリにインターネットへの接続を許可し、上記のアクセス許可を付与してください。</string>
     <string name="cta_close_dialog_cancel">キャンセル</string>
     <string name="cta_close_dialog_content">セキュリティのインターネットおよび位置情報へのアクセスを制限すると、地震警報の受信、ウイルス定義やブロックリスト情報のアップデートなどができなくなります。デバイスの安全性が低下します。制限してもよろしいですか？</string>
@@ -1845,6 +1859,8 @@
     <string name="gb_audition_play_instruction">イヤホンを使用すると効果的です</string>
     <string name="gb_award_noti_message">ゲームターボでGame for Peaceのバックグラウンドでのアップデートをオンにして報酬を獲得</string>
     <string name="gb_award_noti_title">Game for Peaceの報酬はこちら！</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>システム全体で究極モードがオンになっている場合、ゲームターボでバランスモードに切り替えることはできません。セキュリティでバッテリー設定を変更できます。&lt;br>&lt;a href=\"#\">セキュリティを開く&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>システム全体で究極モードがオンになっている場合、ゲームターボでバランスモードに切り替えることはできません。セキュリティでバッテリー設定を変更できます。&lt;br>&lt;a href=\"#\">セキュリティを開く&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">高</string>
     <string name="gb_bar_low">低</string>
     <string name="gb_bar_mid">中</string>
@@ -2000,6 +2016,8 @@
     <string name="gb_predownload_receive_tips">バックグラウンドでのアップデートをオンにすると報酬を獲得できます</string>
     <string name="gb_predownload_receiving">受信中…</string>
     <string name="gb_predownload_title">バックグラウンドでのアップデート</string>
+    <string name="gb_setting_dock_toast">フロントカメラアシスタント機能が通話ツールボックスで利用可能になりました</string>
+    <string name="gb_setting_dock_toast_2">フロントカメラアシスタント機能が通話ツールボックスで利用可能になりました</string>
     <string name="gb_shortcut_pref_title">ホーム画面ショートカット</string>
     <string name="gb_shoulder_guide_message1">[L]を任意の機能位置に移動させると、ポップアップトリガーで起動できます</string>
     <string name="gb_shoulder_guide_message2">ボタンを押すと操作[1]が起動します。ボタンを離すと操作[2]が起動します。</string>
@@ -2135,9 +2153,21 @@
     <string name="gd_dock_shortcut_splitescreen">画面分割</string>
     <string name="gd_setting_conversation">会議ツール</string>
     <string name="gd_setting_conversation_desc">全画面表示での音声通話やビデオ通話で使用するための様々な機能を提供します</string>
+    <string name="gd_setting_dock_activity_title">サイドツールボックス</string>
+    <string name="gd_setting_dock_call_summary">音声通話とビデオ通話の機能（例：フィルライト）</string>
+    <string name="gd_setting_dock_call_title">通話ツールボックス</string>
+    <string name="gd_setting_dock_game_summary">ゲームプレイ中の表示とパフォーマンスを向上</string>
+    <string name="gd_setting_dock_game_summary_new">ゲームプレイ中の表示とパフォーマンスを向上</string>
+    <string name="gd_setting_dock_summary">1 つのアプリを全画面で使用している際に、フローティングウィンドウで他のアプリを開く</string>
+    <string name="gd_setting_dock_title">サイドバー</string>
+    <string name="gd_setting_dock_video_summary">ビデオの視聴中にドルビーアトモスなどのエフェクトを使用する</string>
+    <string name="gd_setting_dock_video_summary_new">ビデオの視聴中にツールやエフェクトを使用する</string>
+    <string name="gd_setting_group_custom_conversation_apps">通話の声紋を録音する</string>
     <string name="gd_setting_group_custom_gtb_apps">ゲーム</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">ゲームアプリを管理</string>
     <string name="gd_setting_group_custom_settings">パーソナライゼーション</string>
     <string name="gd_setting_group_custom_vtb_apps">動画アプリ</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">ビデオアプリを管理</string>
     <string name="gd_setting_group_title_switch">シーン</string>
     <string name="gd_setting_gtb">ゲーム中に表示</string>
     <string name="gd_setting_gtb_desc">ゲーム用の特殊機能</string>
@@ -2157,11 +2187,17 @@
     <string name="get_phone_num_fail">不明な電話番号</string>
     <string name="get_sys_info">情報を取得中…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">インジケーターを長押しするとウィンドウを移動させることができます</string>
     <string name="global_dock_guide_desc_with_split_screen">"· サイドバーのアプリをタップすると、フローティングウィンドウで開くことができます。
 · アプリを画面の中央にドラッグするとフローティングウィンドウで開き、横にドラッグすると画面分割を使用できます
 · インジケーターを長押しすると、ウィンドウを移動できます。"</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"· サイドバーのアプリをタップすると、フローティングウィンドウで開くことができます。
+ アプリを画面の中央にドラッグするとフローティングウィンドウで開き、横にドラッグすると画面分割を使用できます。
+ インジケーターを長押しするとウィンドウを移動させることができます。"</string>
     <string name="global_dock_guide_desc_without_split_screen">"· サイドバーのアプリをタップすると、フローティングウィンドウで開くことができます。
 · インジケーターを長押しすると、ウィンドウを移動できます。"</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"スワイプしてサイドバーを開き、アプリをタップしてフローティングウィンドウで開きます。
+インジケーターを長押しすると、ウィンドウが移動します。"</string>
     <string name="global_satisfaction_notification_button">評価</string>
     <string name="global_satisfaction_notification_channel">ユーザー満足度調査</string>
     <string name="global_satisfaction_notification_subhead">使用感についてぜひご評価ください</string>
@@ -3182,6 +3218,7 @@
     <string name="pc_battery_history_total_consumption_title">合計消費電力</string>
     <string name="pc_battery_history_usetime_title">アクティブ</string>
     <string name="pc_battery_low_health_reminder">バッテリーの交換時期です</string>
+    <string name="pc_battery_replacement_service_title">バッテリー交換サービスをお試しください。%1$sオリジナルのハードウェアには、%2$sの保証が付いています。</string>
     <string name="pc_berserk_mode_dialog_title">究極モードをオンにする</string>
     <string name="pc_berserk_mode_noti_summary">究極モードでは、消費電力が増加し、デバイスが発熱する可能性があります</string>
     <string name="pc_berserk_mode_performance_title">究極モード</string>
@@ -3255,6 +3292,7 @@
     <string name="pc_fast_charge_switch_summary_new">付属の充電器で充電中にバッテリー残量が設定値を下回った場合、充電速度を上げるようリマインドする</string>
     <string name="pc_fast_charge_switch_title">充電速度のブースト</string>
     <string name="pc_fast_charge_switch_toast_message">変更は次回の充電時に適用されます</string>
+    <string name="pc_fast_charge_temp_remider">オンにすると、充電速度が自動的に調整されます。この機能は、Xiaomi 付属の充電器でのみ動作します。充電中にデバイスが熱くなる場合があります。</string>
     <string name="pc_fast_charge_title">充電速度のブースト</string>
     <string name="pc_going_to_exit_extreme_mode">休止モードを終了しています</string>
     <string name="pc_going_to_exit_extreme_mode_summary">デバイスは充電中です。休止モードはオフになりました。</string>
@@ -3343,6 +3381,16 @@
     <string name="pc_search_keywords_capacity">バッテリー容量</string>
     <string name="pc_search_keywords_property">パフォーマンス</string>
     <string name="pc_settings_title">バッテリー</string>
+    <string name="pc_smart_charge_button_summary">バッテリーの寿命を延ばすため、システムはデバイスの充電習慣を学習し、バッテリー残量が %1$s に達すると充電を停止します。</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">デバイスの温度が高すぎます。バッテリー残量が %1$s に達すると充電が停止します。</string>
+    <string name="pc_smart_charge_notify_summary_navagition">ナビゲート中… バッテリー残量が %1$s に達すると充電が停止します。</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">充電は %s に停止します</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">バッテリーの寿命を延ばすため、このデバイスのバッテリーは、自動車に接続されている間は現在のレベル以上にはなりません。</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">今後表示しない</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">バッテリー保護</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">バッテリーの寿命を延ばすため、このデバイスのバッテリーは、自動車に接続されている間は現在のレベル以上にはなりません</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">バッテリー保護</string>
+    <string name="pc_smart_charge_title">スマート充電</string>
     <string name="pc_smart_discharge_checkbox_summary">ナビゲーション機能を使用すると、指定したパーセントで充電が自動的に停止されます。バッテリーセーバーはオフになります。</string>
     <string name="pc_smart_discharge_checkbox_title">充電の自動切断</string>
     <string name="pc_smart_discharge_drop_down_title">自動切断設定</string>
@@ -3355,6 +3403,8 @@
     <string name="pc_statistics_battery_use_title">バッテリー使用量</string>
     <string name="pc_suggest_open_fast_charge">%dW 急速充電をオンにする</string>
     <string name="pc_temperature_too_high">デバイスが発熱しています</string>
+    <string name="pc_this_time_charge_full">今回はフル充電</string>
+    <string name="pc_this_time_charge_full_work">ほぼフル充電</string>
     <string name="pc_timely_charging_summary">バッテリーが %1$s を下回っています。バッテリー残量が少ないときにデバイスが発熱すると、バッテリーが損傷する可能性があります。</string>
     <string name="pc_timely_charging_title">デバイスを充電してください</string>
     <string name="pc_to_phone_install">USB経由の%sのインストールをブロックしました</string>
@@ -4375,6 +4425,13 @@
     <string name="sd_mount">SDカードをマウント</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">アプリ</string>
+    <string name="search_keyword_applybar">アプリドック</string>
+    <string name="search_keyword_call">通話</string>
+    <string name="search_keyword_sidebar">サイドバー</string>
+    <string name="search_keyword_tool">ツール</string>
+    <string name="search_keyword_tools">ツールボックス</string>
+    <string name="search_keyword_voice">音声</string>
     <string name="search_menu_title">検索</string>
     <string name="search_result_text">アプリが見つかりませんでした</string>
     <string name="section_clear_acc_item_title">%s。ストレージ容量が足りない場合は、クリーナーを使用してみてください。</string>
@@ -5164,6 +5221,7 @@
     <string name="title_cloud_space_almost_full">クラウドストレージがほぼいっぱいで、アイテムが同期されない可能性があります</string>
     <string name="title_cloud_space_full">クラウドはいっぱいです</string>
     <string name="title_cmcc_app_check">認証が完了していません</string>
+    <string name="title_condition_meeting">会議</string>
     <string name="title_consume_power_rank">アプリの電力使用量</string>
     <string name="title_dark_mode">一部のアイテムが正しく表示されていません</string>
     <string name="title_data_flow">モバイルデータを制御する</string>
@@ -5224,6 +5282,8 @@
     <string name="toast_cleaner_cloudscan">クリーナーはオンライン定義を使用します</string>
     <string name="toast_dark_mode_fixed">正常に修正されました。変更を適用するには、このページを終了します。</string>
     <string name="toast_flow_notification">データ使用量の通知をオンにしました</string>
+    <string name="toast_gamembox_unenable_pad">まずセキュリティでゲームターボをオンにしてください</string>
+    <string name="toast_gamembox_unenable_phone">まずセキュリティでゲームターボをオンにしてください</string>
     <string name="toast_garbage_lib">クリーナーの自動アップデートをオンにしました</string>
     <string name="toast_keyword_blank">キーワードを入力する必要があります</string>
     <string name="toast_keyword_exist">キーワードを追加しました</string>

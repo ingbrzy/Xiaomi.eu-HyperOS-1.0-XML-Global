@@ -77,6 +77,7 @@
     <string name="cancel">Avbryt</string>
     <string name="cancel_moving_dialog_message">Sluta importera nu?</string>
     <string name="cancel_moving_dialog_title">Sluta importera</string>
+    <string name="cancel_tranfer">Avbryt</string>
     <string name="cannot_use_mi_huanji_button">Jag förstår</string>
     <string name="cannot_use_mi_huanji_summary">Verkar som att MIUI säkerhetskopierar objekt nu. Stoppa pågående säkerhetskopieringar eller starta om din enhet för att tillåta Mi Mover att starta överföringen.</string>
     <string name="cannot_use_mi_huanji_title">Kan inte överföra nu</string>
@@ -269,6 +270,7 @@ Besök https://appleid.apple.com/#!&amp;page=signin för att avaktivera"</string
     <string name="guest_unfinished_task_alert_message">Det verkar som om du har oavslutade överföringsuppgifter. Fortsätt med överföringen?</string>
     <string name="guest_unfinished_task_alert_title">Oavslutade uppgifter</string>
     <string name="hide_password_description">Dölj lösenord</string>
+    <string name="high_temp_summary">Din enhet kan hettas upp under överföring av större mängder data. Det är normalt och din enhet kommer att svalna efter att överföringen är genomförd.</string>
     <string name="host_boot_installation_bottom_tips">Hittar du inte Mi Mover? Tryck för att ladda ner.</string>
     <string name="host_boot_installation_button">Nästa</string>
     <string name="host_boot_installation_dialog_message">Versionen av Mi Mover på din gamla enhet är inte kompatibel med den som är installerad här. Uppdatera Mi Mover på din gamla enhet.</string>

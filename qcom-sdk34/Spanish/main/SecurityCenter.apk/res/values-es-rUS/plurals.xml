@@ -576,6 +576,10 @@ para obtener una prueba gratuita de %d día."</item>
         <item quantity="other">" mins"</item>
         <item quantity="one">" min"</item>
     </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d días</item>
+        <item quantity="one">%d día</item>
+    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d elementos</item>
         <item quantity="one">%d elemento</item>

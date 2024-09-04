@@ -872,6 +872,12 @@ Lahko pridobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="two">" min"</item>
         <item quantity="few">" min"</item>
     </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d-dni</item>
+        <item quantity="one">%d-dan</item>
+        <item quantity="two">%d-dni</item>
+        <item quantity="few">%d-dni</item>
+    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d elementov</item>
         <item quantity="one">%d element</item>

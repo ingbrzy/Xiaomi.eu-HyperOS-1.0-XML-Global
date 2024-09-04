@@ -563,6 +563,7 @@
     <string name="apps_list_header_title_sms_access">محدود کردن دسترسی به کدهای تایید</string>
     <string name="ask_create_shortcut">میانبر صفحه اصلی ایجاد شود؟</string>
     <string name="audio_optimization_summary">صدا را بهبود داده و سر و صدای محیطی را در گفتگوها کاهش می‌دهد</string>
+    <string name="audio_optimization_summary_new">بهبود کیفیت صدای ایرفون‌ها در هنگام بازی و کاهش سر و صدا هنگام برقراری تماس‌ها</string>
     <string name="audio_optimization_title">صدای بهینه شده</string>
     <string name="auto_atsk_condition_battery_level_text_down">هنگامی‌که باتری به %s رسیذ</string>
     <string name="auto_atsk_condition_battery_level_text_up">هنگامی‌که باتری تا %s شارژ‌ شد</string>
@@ -1081,6 +1082,7 @@
     <string name="continue_set">ادامه</string>
     <string name="convenient_mode">باز کردن قفل همه برنامه‌ها به صورت یکجا</string>
     <string name="convenient_summary">گذرواژه را یک بار وارد کرده تا قفل همه برنامه‌ها را باز کنید</string>
+    <string name="conversation_phone_title">جعبه ابزار تماس</string>
     <string name="conversation_settings_top">"·با بیرون کشیدن نوار ابزارهای کنفرانس هنگام تماس‌های صوتی و تصویری تمام‌صفحه، به ویژگی‌های آن‌ها دسترسی پیدا کنید.
 ·نوع و شماره ویژگی‌ها به مدل دستگاه بستگی دارد."</string>
     <string name="conversation_sider_tips">با استفاده از ابزارهای جدید کنفرانس بهترین تجربه تماس را داشته باشید</string>
@@ -1094,9 +1096,13 @@
     <string name="create_gamebooster_destop">میان‌بر صفحه اصلی با موفقیت ایجاد شد</string>
     <string name="create_shortcut">یک میانبر صفحه اصلی برای افزاینده سرعت بازی ایجاد کنید</string>
     <string name="cs_color_sense">دمای رنگ</string>
+    <string name="cs_conversation_record_using">ضبط کردن</string>
     <string name="cs_func_toast_headset">برای امکان استفاده از این ویژگی هدست خود را قطع کنید</string>
     <string name="cs_func_toast_light">برای امکان استفاده از این ویژگی به دوربین جلو تعویض کنید</string>
     <string name="cs_func_toast_pickup">برای امکان استفاده از این ویژگی به تماس تصویری تعویض کنید</string>
+    <string name="cs_func_unavailable_tips">از این قابلیت در هنگام تماس استفاده کنید</string>
+    <string name="cs_light_enhance_physical_options">دمای رنگ</string>
+    <string name="cs_light_enhance_physical_title">روشنایی</string>
     <string name="cs_pickup_denoise_desc">کاهش سر و صدای صداهای ورودی هنگام استفاده از بلندگوها یا ایرفون‌ها</string>
     <string name="cs_pickup_denoise_title">کاهش سر و صدا</string>
     <string name="cs_pickup_multi_desc">دریافت صدای %d درجه</string>
@@ -1110,11 +1116,19 @@
     <string name="cs_pickup_vioce_print_unsupport_tips">پیش از انتخاب «تک شرکت کننده» صدا را ضبط کنید</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">دستگاه‌های خارجی را قطع کرده و سپس دوباره تلاش کنید</string>
     <string name="cs_pickup_voice_print_desc">برداشت صدای فقط یک نفر</string>
+    <string name="cs_privacy_camera_global_settings_title">حریم خصوصی تماس</string>
     <string name="cs_screen_translation_title">ترجمه صفحه</string>
+    <string name="cs_simultaneous_interpretation_title">تفسیر</string>
     <string name="cs_title_pickup">کاهش سر و صدا</string>
     <string name="cs_title_smart_subtitle">رونویسی زیرنویس</string>
     <string name="cs_title_ultraclear">حالت وضوح فوق‌العاده</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">ترجمه همزمان و سایر ابزارهای تماس کنفرانسی را در جعبه ابزار تماس جدید امتحان کنید</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">طیف وسیعی از ویژگی‌های تماس کنفرانسی را در جعبه ابزار تماس جدید امتحان کنید</string>
+    <string name="cs_tool_box_phone_guide_case_1">ترجمه همزمان و سایر ویژگی‌ها را در جعبه ابزار تماس جدید امتحان کنید</string>
+    <string name="cs_tool_box_phone_guide_case_2">طیف وسیعی از ویژگی‌ها را در جعبه ابزار تماس جدید امتحان کنید</string>
     <string name="cs_voice_print">ضبط صدا</string>
+    <string name="cs_vt_camera_toast_case1">دوربین را در برنامه کنونی باز کنید</string>
+    <string name="cs_vt_camera_toast_case2">هیچ دستگاه سازگاری در اطراف یافت نشد</string>
     <string name="cta_agree_desc">برای امکان استفاده از خدمات ما، به این برنامه اجازه اتصال به اینترنت را داده و مجوزهای فهرست شده در بالا را بدهید.</string>
     <string name="cta_close_dialog_cancel">لغو</string>
     <string name="cta_close_dialog_content">در صورتی که دسترسی به اینترنت و موقیت خود را محدود کنید، دیگر هشدارهای زلزله، به‌روزرسانی مصادیق ویروس و اطلاعات فهرست سیاه را دریافت نخواهید کردو. دستگاه شما از ایمنی کمتری برخوردار خواهد بود. در هر صورت محدود شود؟</string>
@@ -1740,6 +1754,8 @@
     <string name="gb_audition_play_instruction">برای تأثیر بهتر از هدفون استفاده کنید</string>
     <string name="gb_award_noti_message">برای دریافت پاداش، به‌روزرسانی‌های پس‌زمینه Game for Peace را در افزاینده سرعت بازی روشن کنید</string>
     <string name="gb_award_noti_title">جوایز Game for Peace اینجا هستند!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>هنگام روشن بودن حالت نهایی در سطح سیستم، در افزاینده سرعت بازی به حالت متعادل تعویض نمی‌شود. شما می‌توانید در امنیت، تنظیمات باتری را تغییر دهید. &lt;br>&lt;a href=\"#\">باز کردن امنیت&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>هنگام روشن بودن حالت نهایی در سطح سیستم، در افزاینده سرعت بازی به حالت متعادل تعویض نمی‌شود. شما می‌توانید در امنیت، تنظیمات باتری را تغییر دهید. &lt;br>&lt;a href=\"#\">باز کردن امنیت&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">زیاد</string>
     <string name="gb_bar_low">کم</string>
     <string name="gb_bar_mid">متوسط</string>
@@ -1895,6 +1911,8 @@ Record sequences and use them anytime!"</string>
     <string name="gb_predownload_receive_tips">برای دریافت پاداش‌ها به‌روزرسانی‌های پس زمینه را روشن کنید</string>
     <string name="gb_predownload_receiving">درحال دریافت…</string>
     <string name="gb_predownload_title">به‌روزرسانی‌های پس‌زمینه</string>
+    <string name="gb_setting_dock_toast">ویژگی‌های دستیار دوربین جلو اکنون در جعبه ابزار تماس موجود است</string>
+    <string name="gb_setting_dock_toast_2">ویژگی‌های دستیار دوربین جلو اکنون در جعبه ابزار تماس موجود است</string>
     <string name="gb_shortcut_pref_title">میان‌بر صفحه اصلی</string>
     <string name="gb_shoulder_guide_message1">دکمه [L] را به موقعیت هر کارایی حرکت داده و از طریق دکمه بازشو از آن استفاده کنید</string>
     <string name="gb_shoulder_guide_message2">حرکت [1] با فشردن دکمه فعال شده است. حرکت [2] با رها کردن دکمه فعال شده است.</string>
@@ -2030,9 +2048,21 @@ Record sequences and use them anytime!"</string>
     <string name="gd_dock_shortcut_splitescreen">تقسیم صفحه</string>
     <string name="gd_setting_conversation">ابزارهای کنفرانس</string>
     <string name="gd_setting_conversation_desc">ویژگی‌های مختلفی را برای استفاده در تماس‌های صوتی و تصویری تمام‌صفحه ارائه می‌دهد</string>
+    <string name="gd_setting_dock_activity_title">جعبه ابزار کناری</string>
+    <string name="gd_setting_dock_call_summary">ویژگی‌های تماس صوتی و تصویری (برای مثال پرنور کردن)</string>
+    <string name="gd_setting_dock_call_title">جعبه ابزار تماس</string>
+    <string name="gd_setting_dock_game_summary">نمایش و کارایی را در هنگام بازی افزایش دهید</string>
+    <string name="gd_setting_dock_game_summary_new">نمایش و کارایی را در هنگام بازی افزایش دهید</string>
+    <string name="gd_setting_dock_summary">هنگام استفاده از یک برنامه تمام‌صفحه، سایر برنامه‌ها در پنجره‌های شناور باز می‌شوند</string>
+    <string name="gd_setting_dock_title">نوار کناری</string>
+    <string name="gd_setting_dock_video_summary">استفاده از جلوه‌هایی همچون Dolby Atmos هنگام تماشای ویدئوها</string>
+    <string name="gd_setting_dock_video_summary_new">هنگام تماشای فیلم از ابزارها و جلوه ها استفاده کنید</string>
+    <string name="gd_setting_group_custom_conversation_apps">ضبط اثر صدا برای تماس‌ها</string>
     <string name="gd_setting_group_custom_gtb_apps">بازی‌ها</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">مدیریت برنامه‌های بازی</string>
     <string name="gd_setting_group_custom_settings">شخصی سازی</string>
     <string name="gd_setting_group_custom_vtb_apps">برنامه‌های ویدئویی</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">مدیریت برنامه‌های ویدئویی</string>
     <string name="gd_setting_group_title_switch">صحنه‌ها</string>
     <string name="gd_setting_gtb">نمایش هنگام بازی کردن</string>
     <string name="gd_setting_gtb_desc">ویژگی‌های خاص برای بازی</string>
@@ -2052,11 +2082,17 @@ Record sequences and use them anytime!"</string>
     <string name="get_phone_num_fail">شماره تلفن ناشناس</string>
     <string name="get_sys_info">در حال دریافت اطلاعات…</string>
     <string name="gigabyteShort">گیگابایت</string>
+    <string name="global_dock_guide_desc_pad">برای حرکت دادن پنجره در اطراف، نشانگر را فشرده و نگه دارید</string>
     <string name="global_dock_guide_desc_with_split_screen">"· با زدن روی نوار کناری، آن را در پنجره‌های شناور باز کنید.
 · با کشیدن یک برنامه به وسط صفحه آن را در پنجره‌های شناور باز کرده و یا برای استفاده از تقسیم صفحه آن را به کنار صفحه بکشید.
 · با فشردن و نگه داشتن نشان‌گر، پنجره را در اطراف حرکت دهید."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"با زدن روی نوار کناری، آن را در پنجره‌های شناور باز کنید.
+با کشیدن یک برنامه به وسط صفحه آن را در پنجره‌های شناور باز کرده و یا برای استفاده از تقسیم صفحه آن را به کنار صفحه بکشید.
+با فشردن و نگه داشتن نشان‌گر، پنجره را در اطراف حرکت دهید."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· با زدن روی یک برنامه در نوار کناری آن را در یک پنجره شناور باز کنید.
 · با فشردن و نگه داشتن نشان‌گر پنجره را در اطراف حرکت دهید."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"با کشیدن روی صفحه و باز کردن نوار کناری روی یک برنامه زده تا در پنجره شناور آن را باز کند.
+با فشردن و نگه داشتن نشانگر پنجره را در اطراف حرکت دهید."</string>
     <string name="global_satisfaction_notification_button">امتیازدهی</string>
     <string name="global_satisfaction_notification_channel">نظرسنجی رضایت کاربران</string>
     <string name="global_satisfaction_notification_subhead">به ما درباره تجربه خود بگویید</string>
@@ -3029,6 +3065,7 @@ to join our egg hunt!"</string>
     <string name="pc_battery_history_total_consumption_title">کل برق مصرف شده</string>
     <string name="pc_battery_history_usetime_title">فعال</string>
     <string name="pc_battery_low_health_reminder">زمان تعویض باتری شما فرا رسیده است</string>
+    <string name="pc_battery_replacement_service_title">خدمات تعویض باتری ما را امتحان کنید. %1$s سخت‌افزار اصلی با %2$s گارانتی.</string>
     <string name="pc_berserk_mode_dialog_title">روشن کردن حالت نهایی</string>
     <string name="pc_berserk_mode_noti_summary">حالت نهایی ممکن است مصرف برق را افزایش داده و منجر به مشکلات بیش از حد شود</string>
     <string name="pc_berserk_mode_performance_title">حالت نهایی</string>
@@ -3102,6 +3139,7 @@ to join our egg hunt!"</string>
     <string name="pc_fast_charge_switch_summary_new">یادآوری برای افزایش سرعت شارژ هنگامی که شارژر ارائه شده متصل بوده و باتری به زیر سطح تنظیم شده می‌رسد</string>
     <string name="pc_fast_charge_switch_title">افزایش سرعت شارژ</string>
     <string name="pc_fast_charge_switch_toast_message">زمان بعدی که این دستگاه را شارژ کنید، تغییرات اعمال خواهد شد</string>
+    <string name="pc_fast_charge_temp_remider">برای تنظیم خودکار سرعت شارژ، روشن کنید. این ویژگی فقط با شارژرهای عرضه شده Xiaomi کار می‌کند. ممکن است دستگاه شما در حین شارژ شدن گرم شود.</string>
     <string name="pc_fast_charge_title">افزایش سرعت شارژ</string>
     <string name="pc_going_to_exit_extreme_mode">خروج از حالت خواب زمستانی</string>
     <string name="pc_going_to_exit_extreme_mode_summary">دستگاه شما در حال شارژ است. حالت خواب زمستانی خاموش است.</string>
@@ -3190,6 +3228,16 @@ to join our egg hunt!"</string>
     <string name="pc_search_keywords_capacity">ظرفیت باتری</string>
     <string name="pc_search_keywords_property">کارایی</string>
     <string name="pc_settings_title">باتری</string>
+    <string name="pc_smart_charge_button_summary">برای افزایش طول عمر باتری، سیستم یاد می‌گیرد که چگونه دستگاهتان را شارژ می‌کنید و وقتی سطح باتری به %1$s رسید، شارژ کردن را متوقف می‌کند.</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">درحال پیمایش شارژ کردن پس از رسیدن باتری به سطح %1$s متوقف خواهد شد</string>
+    <string name="pc_smart_charge_notify_summary_navagition">درحال پیمایش… شارژ کردن پس از رسیدن باتری به سطح %1$s متوقف خواهد شد</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">شارژ در %s متوقف خواهد شد</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">برای افزایش طول عمر باتری، باتری این دستگاه هنگام اتصال به خودرو از سطح کنونی بالاتر نمی‌رود.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">دوباره نمایش داده نشود</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">محافظت از باتری</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">برای افزایش طول عمر باتری، باتری این دستگاه هنگام اتصال به خودرو از سطح کنونی بالاتر نمی‌رود</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">محافظت از باتری</string>
+    <string name="pc_smart_charge_title">شارژ هوشمند</string>
     <string name="pc_smart_discharge_checkbox_summary">هنگام استفاده از ویژگی‌های مسیریابی، شارژ کردن به طور خودکار با درصد مشخصی متوقف می‌شود. بهینه‌ساز باتری خاموش خواهد شد.</string>
     <string name="pc_smart_discharge_checkbox_title">قطع خودکار شارژ کردن</string>
     <string name="pc_smart_discharge_drop_down_title">تنظیمات قطع خودکار</string>
@@ -3202,6 +3250,8 @@ to join our egg hunt!"</string>
     <string name="pc_statistics_battery_use_title">مصرف باتری</string>
     <string name="pc_suggest_open_fast_charge">شارژ فوری %d واتی را روشن کنید</string>
     <string name="pc_temperature_too_high">دستگاه داغ شده است</string>
+    <string name="pc_this_time_charge_full">این بار کامل شارژ شود</string>
+    <string name="pc_this_time_charge_full_work">تقریباً کامل شارژ شده است</string>
     <string name="pc_timely_charging_summary">سطح باتری کمتر از %1$s است. اگر دستگاه در زمانی که باتری کم است بیش از حد گرم شود، ممکن است به باتری آسیب برسد.</string>
     <string name="pc_timely_charging_title">دستگاه خود را شارژ کنید</string>
     <string name="pc_to_phone_install">نصب %s از طریق USB مسدود شد</string>
@@ -4221,6 +4271,13 @@ to join our egg hunt!"</string>
     <string name="sd_mount">سوار کردن کارت SD</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">برنامه</string>
+    <string name="search_keyword_applybar">لنگرگاه برنامه‌ها</string>
+    <string name="search_keyword_call">تماس</string>
+    <string name="search_keyword_sidebar">نوار کناری</string>
+    <string name="search_keyword_tool">ابزارها</string>
+    <string name="search_keyword_tools">جعبه ابزار</string>
+    <string name="search_keyword_voice">صدا</string>
     <string name="search_result_text">برنامه‌ای یافت نشد</string>
     <string name="section_clear_acc_item_title">%s. اگر همچنان فضای کافی وجود ندارد٬ از پاک‌سازی کننده استفاده کنید.</string>
     <string name="section_security_defend_item_title">با قفل برنامه از داده‌های خود حفاظت کنید</string>
@@ -4698,7 +4755,7 @@ to join our egg hunt!"</string>
     <string name="storage_fob_date_format">dd/MM</string>
     <string name="storage_format_failure">%1$s فرمت نشد</string>
     <string name="storage_format_success">%1$s با موفقیت فرمت شد</string>
-    <string name="storage_item_apk_name">APKها</string>
+    <string name="storage_item_apk_name">هاAPK</string>
     <string name="storage_item_appdata_name">برنامه‌ها و داده‌ها</string>
     <string name="storage_item_audio_name">صدا</string>
     <string name="storage_item_clean_name">آزاد کردن فضا</string>
@@ -5007,6 +5064,7 @@ to join our egg hunt!"</string>
     <string name="title_cloud_space_almost_full">حافظه فضای ابری تقریباً پر است، ممکن است موارد همگام‌سازی نشوند</string>
     <string name="title_cloud_space_full">فضای ابری پر است</string>
     <string name="title_cmcc_app_check">تأیید کامل نیست</string>
+    <string name="title_condition_meeting">ملاقات</string>
     <string name="title_consume_power_rank">مصرف برق برنامه</string>
     <string name="title_dark_mode">برخی موارد به درستی نمایش داده نمی‌شوند</string>
     <string name="title_data_flow">کنترل اینترنت همراه</string>
@@ -5067,6 +5125,8 @@ to join our egg hunt!"</string>
     <string name="toast_cleaner_cloudscan">پاک‌سازی کننده از تعاریف آنلاین استفاده خواهد کرد</string>
     <string name="toast_dark_mode_fixed">با موفقیت اصلاح شد. این صفحه را ترک کرده تا تغییرات اعمال شوند.</string>
     <string name="toast_flow_notification">اعلان‌های مصرف اینترنت همراه روشن شد</string>
+    <string name="toast_gamembox_unenable_pad">ابتدا افزاینده سرعت بازی را در امنیت روشن کنید</string>
+    <string name="toast_gamembox_unenable_phone">ابتدا افزاینده سرعت بازی را در امنیت روشن کنید</string>
     <string name="toast_garbage_lib">به‌روزرسانی‌های خودکار برای پاک‌سازی کننده روشن شد</string>
     <string name="toast_keyword_blank">لازم است یک کلیدواژه وارد کنید</string>
     <string name="toast_keyword_exist">کلیدواژه افزوده شد</string>

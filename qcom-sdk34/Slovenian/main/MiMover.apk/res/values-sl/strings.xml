@@ -77,6 +77,7 @@
     <string name="cancel">Prekliči</string>
     <string name="cancel_moving_dialog_message">Želite ustaviti uvoz?</string>
     <string name="cancel_moving_dialog_title">Ustavi uvoz</string>
+    <string name="cancel_tranfer">Prekliči</string>
     <string name="cannot_use_mi_huanji_button">Razumem</string>
     <string name="cannot_use_mi_huanji_summary">Izgleda, da MIUI trenutno varnostno kopira predmete. Ustavite varnostno kopiranje v teku ali ponovno zaženite vašo napravo, da bi aplikaciji Mi Mover omogočili začetek prenosa.</string>
     <string name="cannot_use_mi_huanji_title">Prenos sedaj ni mogoč</string>
@@ -269,6 +270,7 @@ Odprite WeChat in pojdite na Me > Settings > General > Back up &amp; migrate cha
     <string name="guest_unfinished_task_alert_message">Zdi se, da imate nedokončane prenose. Želite nadaljevati?</string>
     <string name="guest_unfinished_task_alert_title">Nedokončani prenosi</string>
     <string name="hide_password_description">Skrij geslo</string>
+    <string name="high_temp_summary">Naprava se lahko med prenašanjem velikih količin podatkov segreje. To je normalno in naprava se bo po končanem prenosu ohladila.</string>
     <string name="host_boot_installation_bottom_tips">Ne najdete Mi Mover? Tapnite za prenos.</string>
     <string name="host_boot_installation_button">Naprej</string>
     <string name="host_boot_installation_dialog_message">Različica aplikacije Mi Mover, ki jo imate na stari napravi ni kompatibilna s tisto, ki je tukaj nameščena. Na stari napravi posodobite Mi Mover.</string>

@@ -33,6 +33,8 @@
     <string name="abrupt_weather_settings_summary_type">Gauti įspėjimus apie numatomą stiprų lietų, oro kokybės pokyčius ir kitus reikšmingus pokyčius</string>
     <string name="act_find_city_hint">Įvesti vietą</string>
     <string name="act_find_city_hot_city_title">Populiarūs miestai</string>
+    <string name="act_find_city_location_button_text">Nustatyti vietą</string>
+    <string name="act_find_city_location_title">Dabartinė vieta</string>
     <string name="act_location_error_to_find_city">Nepavyko gauti vietos informacijos. Galite pridėti vietovę rankiniu būdu.</string>
     <string name="act_set_city_find_side">Nustatoma</string>
     <string name="act_set_city_find_side_error">Nepavyko aptikti įrenginio vietovės</string>
@@ -57,6 +59,7 @@
     <string name="activity_main_update_time">Atnaujinta %1$s</string>
     <string name="activity_main_update_time_expire">Duomenys nebegalioja</string>
     <string name="activity_main_update_time_right_now">ką tik</string>
+    <string name="add_city">Pridėti</string>
     <string name="afternoon">Popietė</string>
     <string name="alert_detail_title">Įspėjimo informacija</string>
     <string name="alert_warning">Orų įspėjimai</string>
@@ -97,7 +100,7 @@
     <string name="button_exit">Nesutinku</string>
     <string name="button_settings_cancel">Atšaukti</string>
     <string name="button_settings_confirm">Atsisakyti</string>
-    <string name="button_settings_confirm_to_revoke_msg">Išjungdami jungiklį, jūs atsisakote orų privatumo politikos įgaliojimo. Jūsų asmeninė informacija nebus renkama. Surinkta ir išsaugota asmeninė informacija bus ištrinta per konkretų laikotarpį, kaip to reikalaujama pagal taikytiną teisę. Pagrindinėms orų paslaugoms teikti reikalinga būtinoji jūsų asmeninė informacija. Privatumo politikos įgaliojimo atšaukimas bus laikomas atsisakymu sutikti su paslaugos teikimo sąlygomis dėl asmeninės informacijos rinkimo.</string>
+    <string name="button_settings_confirm_to_revoke_msg">Išjungdami jungiklį, jūs atsisakote orų privatumo politikos įgaliojimo. Jūsų asmeninė informacija nebus renkama. Surinkta ir išsaugota asmeninė informacija bus ištrinta per konkretų laikotarpį, kaip to reikalaujama pagal įstatymus. Pagrindinėms orų paslaugoms teikti reikalinga būtinoji jūsų asmeninė informacija. Privatumo politikos įgaliojimo atšaukimas bus laikomas atsisakymu sutikti su paslaugos teikimo sąlygomis dėl asmeninės informacijos rinkimo.</string>
     <string name="card_vote_item_vs">Prieš</string>
     <string name="change_alert">Patikrinkite interneto ryšį, ir bandykite dar kartą</string>
     <string name="city_exceeded_warning">Neįmanoma pridėti daugiau miestų. Norėdami pridėti naują miestą, pirmiausia iš sąrašo pašalinkite kitą.</string>
@@ -585,7 +588,7 @@
     <string name="wind_direction_no_data">Vėjas</string>
     <string name="wind_power">%d</string>
     <string name="wind_unit">%1$skm/h</string>
-    <string name="xiaomi_weather_description_content">„Orai“ yra sisteminė programėlė. Išdiegę šią programėlę, nebegalėsite peržiūrėti orų prognozės ar naudotis susijusiais valdikliais.</string>
+    <string name="xiaomi_weather_description_content">„Orai“ yra sisteminė programa. Išdiegę šią programa, nebegalėsite peržiūrėti orų prognozės ar naudotis susijusiais valdikliais.</string>
     <string name="xiaomi_weather_description_title">Išdiegti „Orai“?</string>
     <string name="yes_vote_ratio">Už %1$s%%</string>
     <string name="yesterday">Vakar</string>

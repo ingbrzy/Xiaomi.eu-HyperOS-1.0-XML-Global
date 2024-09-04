@@ -210,7 +210,7 @@
     <string name="mipayin_dialog_title">Otvoriť s</string>
     <string name="miracast_connect">Preniesť</string>
     <string name="miracast_connect_fail">Prenos zlyhal. Skúste to znova.</string>
-    <string name="miracast_connecting">Prenáša sa…</string>
+    <string name="miracast_connecting">Prenášanie…</string>
     <string name="miracast_details">Prenášať pomocou načítania QR kódu</string>
     <string name="miracast_message">Preniesť do %s?</string>
     <string name="miracast_switch_off">Bezdrôtový displej je vypnutý</string>

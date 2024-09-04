@@ -124,7 +124,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_header_condition_wlan">Wi-Fi</string>
     <string name="cloud_backup_detail_header_condition_wlan_china">WLAN</string>
     <string name="cloud_backup_detail_header_msg">"Siz indi cihazınızın Əsas ekran düzülüşünü, tətbiqlər, sistem tənzimləmələri və WeChat məlumatlarını yedəkləyə bilərsiniz. &lt;font color=#0D84FF>&lt;a href=>Ətraflı öyrənmək üçün toxunun.&lt;/a>&lt;/font> "</string>
-    <string name="cloud_backup_detail_header_msg_no_wechat_backup">Cihazınızın əsas ekran düzülüşünü, tətbiqlər siyahısını və sistem təzimləmələrini yedəkləyin. &lt;font color=#0D84FF>&lt;a href=>Ətraflı öyrənmək üçün toxunun&lt;/a>&lt;/font>.</string>
+    <string name="cloud_backup_detail_header_msg_no_wechat_backup">Cihazınızın əsas ekran düzülüşünü, tətbiqlər siyahısını və sistem tənzimləmələrini yedəkləyin. &lt;font color=#0D84FF>&lt;a href=>Ətraflı öyrənmək üçün toxunun&lt;/a>&lt;/font>.</string>
     <string name="cloud_backup_detail_local_backup_size">Hesablanan yedəkləmə ölçüsü: %s</string>
     <string name="cloud_backup_detail_manage">Yedəkləmələri idarə et</string>
     <string name="cloud_backup_detail_no_time">Yedəkləmə hələ yoxdur</string>

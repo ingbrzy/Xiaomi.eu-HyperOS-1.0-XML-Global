@@ -294,6 +294,14 @@
         <item quantity="few">%d مشاريع</item>
         <item quantity="many">%d مشروع</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">سيتم معالجة طلبك خلال %1$d ثانية</item>
+        <item quantity="zero">سيتم معالجة طلبك خلال %1$d ثانية</item>
+        <item quantity="one">سيتم معالجة طلبك خلال %1$d ثانية</item>
+        <item quantity="two">سيتم معالجة طلبك خلال %1$d ثواني</item>
+        <item quantity="few">سيتم معالجة طلبك خلال %1$d ثواني</item>
+        <item quantity="many">سيتم معالجة طلبك خلال %1$d ثانية</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"تم استرجاع عملات %d طلب بنجاح. "</item>
         <item quantity="zero">"تم استرجاع عملات %d طلب بنجاح. "</item>

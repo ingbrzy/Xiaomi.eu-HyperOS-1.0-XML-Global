@@ -77,6 +77,7 @@
     <string name="cancel">Anulează</string>
     <string name="cancel_moving_dialog_message">Opriți importarea acum?</string>
     <string name="cancel_moving_dialog_title">Opriți importarea</string>
+    <string name="cancel_tranfer">Anulează</string>
     <string name="cannot_use_mi_huanji_button">Am înțeles</string>
     <string name="cannot_use_mi_huanji_summary">Se pare că MIUI face copii de rezervă acum. Opriți copiile de rezervă în curs sau reporniți dispozitivul pentru a permite Mi Mover să înceapă transferul.</string>
     <string name="cannot_use_mi_huanji_title">Nu se poate transfera acum</string>
@@ -269,6 +270,7 @@ Vizitați https://appleid.apple.com/#!&amp;page=signin pentru a opri"</string>
     <string name="guest_unfinished_task_alert_message">Se pare că aveți sarcini de transfer neterminate. Continuați cu transferul?</string>
     <string name="guest_unfinished_task_alert_title">Sarcini neterminate</string>
     <string name="hide_password_description">Ascunde parola</string>
+    <string name="high_temp_summary">Dispozitivul dvs. se poate încălzi în timp ce transferați cantități mari de date. Acest lucru este normal și dispozitivul se va răci după ce transferul este finalizat.</string>
     <string name="host_boot_installation_bottom_tips">Nu puteți găsi Mi Mover? Atingeți pentru a descărca.</string>
     <string name="host_boot_installation_button">Următorul</string>
     <string name="host_boot_installation_dialog_message">Versiunea Mi Mover de pe dispozitivul dvs. vechi nu este compatibilă cu cea instalată aici. Actualizați Mi Mover pe dispozitivul vechi.</string>

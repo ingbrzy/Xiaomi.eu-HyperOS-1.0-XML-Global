@@ -146,6 +146,10 @@ Münzen sind nicht erstattungsfähig"</item>
         <item quantity="other">%d Werke</item>
         <item quantity="one">%d Werk</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">Deine Anfrage wird in etwa %1$d Sekunden bearbeitet.</item>
+        <item quantity="one">Deine Anfrage wird in etwa %1$d Sekunde bearbeitet.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"%d Bestellungen erfolgreich erstattet. "</item>
         <item quantity="one">"%d Bestellung erfolgreich erstattet. "</item>

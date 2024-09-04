@@ -590,6 +590,7 @@ Nepřijdete o žádná data aplikací."</string>
     <string name="apps_list_header_title_sms_access">Omezit přístup k ověřovacím kódům</string>
     <string name="ask_create_shortcut">Vytvořit zástupce na Domovské obrazovce?</string>
     <string name="audio_optimization_summary">Vylepšení zvuků a snížení okolního šumu během konverzací</string>
+    <string name="audio_optimization_summary_new">Optimalizuje kvalitu zvuku sluchátek při hraní a omezuje šum během hovorů</string>
     <string name="audio_optimization_title">Vylepšený zvuk</string>
     <string name="auto_atsk_condition_battery_level_text_down">Když baterie dosáhne %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Když je baterie nabita na %s</string>
@@ -1130,12 +1131,13 @@ Některé z platebních transakcí však nebyly dokončeny. Pro odebrání souhl
     <string name="continue_set">Pokračovat</string>
     <string name="convenient_mode">Odemknout všechny aplikace najednou</string>
     <string name="convenient_summary">Zadejte jedno heslo pro odemknutí všech aplikací</string>
+    <string name="conversation_phone_title">Sada nástrojů pro volání</string>
     <string name="conversation_settings_top">"· Pro zobrazení funkcí během audio/video hovoru v režimu na celou obrazovku potáhněte z panelu Nástrojů konference.
 · Typ a počet funkcí závisí na modelu zařízení."</string>
     <string name="conversation_sider_tips">Využijte Nástroje konference pro pohodlnější a efektivnější konferenční hovory</string>
     <string name="conversation_summary">Zkrášlení, přepis konverzace a další funkce, které lze využít během audio a video hovorů</string>
     <string name="conversation_summary_new">Zkrášlení, titulky a další funkce, které lze využít během audio a video hovorů</string>
-    <string name="conversation_title">Nástroje konferece</string>
+    <string name="conversation_title">Nástroje konference</string>
     <string name="copy">Kopírovat</string>
     <string name="cpu_usage_android_system">Systém Android</string>
     <string name="cpu_usage_process_run_time_little_time">Méně než 1 minuta</string>
@@ -1144,9 +1146,13 @@ Některé z platebních transakcí však nebyly dokončeny. Pro odebrání souhl
     <string name="create_gamebooster_destop">Zástupce na Domovské obrazovce úspěšně vytvořen</string>
     <string name="create_shortcut">Vytvořit zástupce pro Game Turbo na Domovské obrazovce</string>
     <string name="cs_color_sense">Teplota barev</string>
+    <string name="cs_conversation_record_using">Nahrávání</string>
     <string name="cs_func_toast_headset">Pro využití této funkce nejprve odpojte sluchátka</string>
     <string name="cs_func_toast_light">Pro využití této funkce přepněte na přední fotoaparát</string>
     <string name="cs_func_toast_pickup">Pro využití této funkce přepněte na videohovor</string>
+    <string name="cs_func_unavailable_tips">Použít tuto funkci během volání</string>
+    <string name="cs_light_enhance_physical_options">Teplota barev</string>
+    <string name="cs_light_enhance_physical_title">Jas</string>
     <string name="cs_pickup_denoise_desc">Snížit šum příchozího zvuku při používaní reproduktorů nebo sluchátek</string>
     <string name="cs_pickup_denoise_title">Redukce šumu</string>
     <string name="cs_pickup_multi_desc">%dstupňové snímání zvuku</string>
@@ -1160,11 +1166,19 @@ Některé z platebních transakcí však nebyly dokončeny. Pro odebrání souhl
     <string name="cs_pickup_vioce_print_unsupport_tips">Než vyberete možnost „Jeden účastník“, nahrajte hlas.</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Odpojte externí zařízení a zkuste to znovu.</string>
     <string name="cs_pickup_voice_print_desc">Zachytávejte hlas pouze jedné osoby</string>
+    <string name="cs_privacy_camera_global_settings_title">Soukromí hovorů</string>
     <string name="cs_screen_translation_title">Překlad obrazovky</string>
+    <string name="cs_simultaneous_interpretation_title">Tlumočení</string>
     <string name="cs_title_pickup">Redukce šumu</string>
     <string name="cs_title_smart_subtitle">Přepis konverzace na titulky</string>
     <string name="cs_title_ultraclear">Režim Ultra HD</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Vyzkoušejte simultánní tlumočení a další nástroje pro konfereční hovory v nové Sadě nástrojů pro volání</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Vyzkoušejte širokou škálu funkcí pro konferenční hovory v nové Sadě nástrojů pro volání</string>
+    <string name="cs_tool_box_phone_guide_case_1">Vyzkoušejte simultánní tlumočení a další funkce nové Sady nástrojů pro volání</string>
+    <string name="cs_tool_box_phone_guide_case_2">Vyzkoušejte širokou škálu funkcí nové Sady nástrojů pro volání</string>
     <string name="cs_voice_print">Nahrajte hlas</string>
+    <string name="cs_vt_camera_toast_case1">Otevření fotoaparátu v aktuální aplikaci</string>
+    <string name="cs_vt_camera_toast_case2">Poblíž nejsou žádná kompatibilní zařízení</string>
     <string name="cta_agree_desc">Pro využití našich služeb, povolte aplikaci připojit se k internetu a udělte jí výše uvedená oprávnění.</string>
     <string name="cta_close_dialog_cancel">Zrušit</string>
     <string name="cta_close_dialog_content">Pokud aplikaci Optimalizace zakážete přístup k internetu a informacím o vaší poloze, nebudete již moci přijímat varování při zemětřeseních, aktualizovat virové databáze a informace v seznamu blokovaných kontaktů. Zabezpečení vašeho zařízení bude výrazně oslabeno. Přesto zakázat?</string>
@@ -1845,6 +1859,8 @@ Všechna data na vašem zařízení mohou být smazána a heslo Zamykací obrazo
     <string name="gb_audition_play_instruction">Pro lepší výsledek použijte sluchátka</string>
     <string name="gb_award_noti_message">Zapněte aktualizace na pozadí pro Game for Peace v Game Turbo pro získání odměn</string>
     <string name="gb_award_noti_title">Odměny Game for Peace už na vás čekají!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Po zapnutí Nejvyššího režimu pro celý systém nelze v Game Turbo přepnout na Vyvážený režim. Nastavení baterie můžete změnit v Optimalizaci.&lt;br>&lt;a href=\"#\">Otevřít Optimalizaci&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Po zapnutí Nejvyššího režimu pro celý systém nelze v Game Turbo přepnout na Vyvážený režim. Nastavení baterie můžete změnit v Optimalizaci. &lt;br>&lt;a href=\"#\">Otevřít Optimalizaci&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">Vysoká</string>
     <string name="gb_bar_low">Nízká</string>
     <string name="gb_bar_mid">Střední</string>
@@ -2000,6 +2016,8 @@ zvýší také spotřebu energie a může způsobit přehřívání zařízení"
     <string name="gb_predownload_receive_tips">Pro získání odměn zapněte aktualizace na pozadí</string>
     <string name="gb_predownload_receiving">Přijímání…</string>
     <string name="gb_predownload_title">Aktualizace na pozadí</string>
+    <string name="gb_setting_dock_toast">V Sadě nástrojů pro volání jsou nyní k dispozici funkce Asistenta předního fotoaparátu</string>
+    <string name="gb_setting_dock_toast_2">V Sadě nástrojů pro volání jsou nyní k dispozici funkce Asistenta předního fotoaparátu</string>
     <string name="gb_shortcut_pref_title">Zástupce na Domovské obrazovce</string>
     <string name="gb_shoulder_guide_message1">Přesuňte klávesu [L] do libovolné funkční polohy pro její využití pomocí funkčního tlačítka</string>
     <string name="gb_shoulder_guide_message2">Akce [1] je spuštěna pomocí stisknutí tlačítka. Akce [2] je spuštěna pomocí uvolnění tlačítka.</string>
@@ -2133,11 +2151,23 @@ klíčové momenty vaší hry"</string>
     <string name="gd_app_edit_title_new">Upravit zástupce plovoucích oken</string>
     <string name="gd_dock_shortcut_fullscreen">Celá obrazovka</string>
     <string name="gd_dock_shortcut_splitescreen">Rozdělení obrazovky</string>
-    <string name="gd_setting_conversation">Nástroje konferece</string>
+    <string name="gd_setting_conversation">Nástroje konference</string>
     <string name="gd_setting_conversation_desc">Množství užitečných funkcí pro audio a video hovory v režimu celé obrazovky</string>
+    <string name="gd_setting_dock_activity_title">Postranní sada nástrojů</string>
+    <string name="gd_setting_dock_call_summary">Funkce pro hlasové hovory a videohovory (např. doplňkové světlo)</string>
+    <string name="gd_setting_dock_call_title">Sada nástrojů pro volání</string>
+    <string name="gd_setting_dock_game_summary">Vylepšete zobrazení a výkon při hraní her</string>
+    <string name="gd_setting_dock_game_summary_new">Vylepšete zobrazení a výkon při hraní her</string>
+    <string name="gd_setting_dock_summary">Oteveřete během používání aplikace na celé obrazovce jiné aplikace v plovoucích oknech</string>
+    <string name="gd_setting_dock_title">Postranní lišta</string>
+    <string name="gd_setting_dock_video_summary">Využijte při sledování videí efekty jako např. Dolby Atmos</string>
+    <string name="gd_setting_dock_video_summary_new">Využijte při sledování videí nástroje a efekty</string>
+    <string name="gd_setting_group_custom_conversation_apps">Nahrát hlas pro hovory</string>
     <string name="gd_setting_group_custom_gtb_apps">Hry</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Správa herních aplikací</string>
     <string name="gd_setting_group_custom_settings">Přizpůsobení</string>
     <string name="gd_setting_group_custom_vtb_apps">Video aplikace</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Správa video aplikací</string>
     <string name="gd_setting_group_title_switch">Scény</string>
     <string name="gd_setting_gtb">Zobrazit během hraní</string>
     <string name="gd_setting_gtb_desc">Speciální funkce pro hraní</string>
@@ -2157,11 +2187,17 @@ klíčové momenty vaší hry"</string>
     <string name="get_phone_num_fail">Neznámé telefonní číslo</string>
     <string name="get_sys_info">Získávám informace…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">Přidržením indikátoru okno přesunete</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Klepněte na aplikaci v postranní liště pro otevření plovoucího okna.
 · Přetáhněte aplikaci do středu obrazovky pro její otevření v plovoucím okně nebo na boční hranu obrazovky pro její otevření pomocí funkce Rozdělení obrazovky.
 · Stiskněte a přidržte prst na indikátoru pro přesunutí okna."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"Klepněte na aplikaci v postranní liště pro otevření v plovoucím okně.
+ Přetažením aplikace do středu obrazovky ji otevřete v plovoucím okně a přetažením do strany ji otevřete v režimu Rozdělení obrazovky.
+ Přidržením indikátoru okno přesunete."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Klepněte na aplikaci v postranní liště pro otevření plovoucího okna.
 · Stiskněte a přidržte prst na indikátoru pro přesunutí okna."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Potažením otevřete postranní lištu a klepnutím na aplikaci ji otevřete v plovoucím okně.
+Přidržením indikátoru okno posunete."</string>
     <string name="global_satisfaction_notification_button">Ohodnotit</string>
     <string name="global_satisfaction_notification_channel">Průzkum uživatelské spokojenosti</string>
     <string name="global_satisfaction_notification_subhead">Podělte se s námi o vaše zkušenosti</string>
@@ -3182,6 +3218,7 @@ Zkuste použít jiný ethernetový kabel pro připojení routeru. Pokud se domn�
     <string name="pc_battery_history_total_consumption_title">Celková spotřeba energie</string>
     <string name="pc_battery_history_usetime_title">Aktivní</string>
     <string name="pc_battery_low_health_reminder">Je čas vyměnit baterii</string>
+    <string name="pc_battery_replacement_service_title">Vyzkoušejte naši službu výměny baterie. %1$s originální hardware s %2$s zárukou.</string>
     <string name="pc_berserk_mode_dialog_title">Zapnout Nejvyšší režim</string>
     <string name="pc_berserk_mode_noti_summary">Nejvyšší režim může způsobit zvýšení spotřeby energie a vést k přehřívání zařízení</string>
     <string name="pc_berserk_mode_performance_title">Nejvyšší režim</string>
@@ -3255,6 +3292,7 @@ Zkuste použít jiný ethernetový kabel pro připojení routeru. Pokud se domn�
     <string name="pc_fast_charge_switch_summary_new">Připomenout zvýšení rychlosti nabíjení, pokud je připojena nabíječka dodávaná se zařízením a nabití baterie zařízení klesne pod nastavenou hodnotu</string>
     <string name="pc_fast_charge_switch_title">Zvýšení rychlosti nabíjení</string>
     <string name="pc_fast_charge_switch_toast_message">Změny se projeví při příštím nabíjení zařízení</string>
+    <string name="pc_fast_charge_temp_remider">Po zapnutí se bude automaticky regulovat rychlost nabíjení. Tuto funkci lze využít pouze s nabíječkami dodanými společností Xiaomi. Zařízení se během nabíjení může zahřívat.</string>
     <string name="pc_fast_charge_title">Zvýšení rychlosti nabíjení</string>
     <string name="pc_going_to_exit_extreme_mode">Ukončování režimu Hibernace</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Probíhá nabíjení zařízení. Režim Hibernace byl vypnut.</string>
@@ -3343,6 +3381,16 @@ Ultra spořiče baterie"</string>
     <string name="pc_search_keywords_capacity">Kapacita baterie</string>
     <string name="pc_search_keywords_property">Výkon</string>
     <string name="pc_settings_title">Baterie</string>
+    <string name="pc_smart_charge_button_summary">Aby se prodloužila životnost baterie, systém se naučí, jak své zařízení nabíjíte, a ukončí jej po dosažení %1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Zařízení se zahřívá. Nabíjení se zastaví, až úroveň baterie dosáhne %1$s</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Navigování… Nabíjení se zastaví, až úroveň baterie dosáhne %1$s</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">Nabíjení se zastaví po dosažení %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">Baterie tohoto zařízení se během připojení k automobilu nebude nabíjet nad aktuální úroveň, aby se prodloužila její životnost.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Znovu nezobrazovat</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Ochrana baterie</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">Baterie tohoto zařízení se během připojení k automobilu nebude nabíjet nad aktuální úroveň, aby se prodloužila její životnost</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Ochrana baterie</string>
+    <string name="pc_smart_charge_title">Chytré nabíjení</string>
     <string name="pc_smart_discharge_checkbox_summary">Při používání funkcí navigace se nabíjení automaticky zastaví po nabití baterie na určité procento. Spořič baterie se vypne.</string>
     <string name="pc_smart_discharge_checkbox_title">Automatické odpojení nabíjení</string>
     <string name="pc_smart_discharge_drop_down_title">Nastavení automatického odpojení</string>
@@ -3355,6 +3403,8 @@ Ultra spořiče baterie"</string>
     <string name="pc_statistics_battery_use_title">Využití baterie</string>
     <string name="pc_suggest_open_fast_charge">Zapněte %drychlonabíjení W</string>
     <string name="pc_temperature_too_high">Zařízení se přehřívá</string>
+    <string name="pc_this_time_charge_full">Tentokrát nabít plně</string>
+    <string name="pc_this_time_charge_full_work">Téměř plně nabito</string>
     <string name="pc_timely_charging_summary">Kapacita baterie je méně než %1$s. Pokud se zařízení přehřeje, když je nízká kapacita baterie, může se baterie poškodit.</string>
     <string name="pc_timely_charging_title">Nabijte zařízení</string>
     <string name="pc_to_phone_install">Blokována instalace %s aplikací přes USB</string>
@@ -4375,6 +4425,13 @@ Odebrat souhlas nyní?"</string>
     <string name="sd_mount">Připojit SD kartu</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">Aplikace</string>
+    <string name="search_keyword_applybar">Řádek pevných aplikací</string>
+    <string name="search_keyword_call">Hovor</string>
+    <string name="search_keyword_sidebar">Postranní lišta</string>
+    <string name="search_keyword_tool">Nástroje</string>
+    <string name="search_keyword_tools">Sada nástrojů</string>
+    <string name="search_keyword_voice">Hlas</string>
     <string name="search_menu_title">Hledat</string>
     <string name="search_result_text">Nenalezeny žádné aplikace</string>
     <string name="section_clear_acc_item_title">%s. Pokud stále potřebujete více úložného prostoru, vyzkoušejte Čistič.</string>
@@ -5164,6 +5221,7 @@ Formátování vymaže veškerý obsah z ^2. Před zahájením formátování ul
     <string name="title_cloud_space_almost_full">Cloudové úložiště je téměř plné, položky tak nemusejí být synchronizovány</string>
     <string name="title_cloud_space_full">Cloud je plný</string>
     <string name="title_cmcc_app_check">Ověření není dokončeno</string>
+    <string name="title_condition_meeting">Schůze</string>
     <string name="title_consume_power_rank">Využití baterie aplikacemi</string>
     <string name="title_dark_mode">Některé položky se nezobrazují správně</string>
     <string name="title_data_flow">Kontrolovat mobilní data</string>
@@ -5224,6 +5282,8 @@ Formátování vymaže veškerý obsah z ^2. Před zahájením formátování ul
     <string name="toast_cleaner_cloudscan">Čistič využije online databázi</string>
     <string name="toast_dark_mode_fixed">Úspěšně opraveno. Pro použití změn odejděte z této stránky.</string>
     <string name="toast_flow_notification">Upozornění na využití dat je zapnuto</string>
+    <string name="toast_gamembox_unenable_pad">Nejprve zapněte v aplikaci Optimalizace režim Game Turbo</string>
+    <string name="toast_gamembox_unenable_phone">Nejprve zapněte v aplikaci Optimalizace režim Game Turbo</string>
     <string name="toast_garbage_lib">Automatické aktualizace pro Čistič povoleny</string>
     <string name="toast_keyword_blank">Zadejte klíčové slovo</string>
     <string name="toast_keyword_exist">Klíčové slovo uloženo</string>

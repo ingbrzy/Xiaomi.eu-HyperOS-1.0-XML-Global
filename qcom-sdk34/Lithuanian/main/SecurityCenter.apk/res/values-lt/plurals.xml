@@ -872,6 +872,12 @@ Išbandykite nemokamą %d-ių dienų bandomąją versiją!"</item>
         <item quantity="few">" min."</item>
         <item quantity="many">" min."</item>
     </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d dienos</item>
+        <item quantity="one">%d diena</item>
+        <item quantity="few">%d dienos</item>
+        <item quantity="many">%d dienų</item>
+    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d elementų</item>
         <item quantity="one">%d elementas</item>
