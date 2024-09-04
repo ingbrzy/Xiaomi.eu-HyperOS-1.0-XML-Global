@@ -106,6 +106,10 @@
     <string name="author_new_theme">Нов</string>
     <string name="author_popularity">Гледания</string>
     <string name="author_unfollow_succeed">Вече не следвате</string>
+    <string name="automatic_renewal_monthly">Автоматично подновяване за %s/месец</string>
+    <string name="automatic_renewal_weekly">Автоматично подновяване за %s/седмица</string>
+    <string name="automatic_renewal_yearly">Автоматично подновяване за %s/година</string>
+    <string name="automatically_push_content_to_lock_screen">Ново съдържание ще се показва на Вашия Заключен екран всеки ден</string>
     <string name="automatically_update_using_theme_tips">Актуализирай автоматично следващия път</string>
     <string name="back_to_default">Обратно към настройките по подразбиране</string>
     <string name="back_to_none">Не задавай мелодия</string>
@@ -122,6 +126,9 @@
     <string name="bottomsheet_action_expand_halfway">Разгъване наполовина</string>
     <string name="browser_local_resource">Съхранени на устройството</string>
     <string name="can_not_apply">Не може да се приложи</string>
+    <string name="canceled_failed">Неуспешно прекратяване</string>
+    <string name="canceled_subscription_failed">Неуспешно прекратяване на абонамент. Опитайте отново.</string>
+    <string name="canceled_trial_failed">Неуспешно прекратяване. Опитайте отново.</string>
     <string name="card_data_request_error">Възникна грешка. Изчакайте минута-две и опитайте отново.</string>
     <string name="card_loading">Момент…</string>
     <string name="card_no_network">Не мога да се свържа с мрежата. Проверете настройките си и опитайте отново.</string>
@@ -175,6 +182,7 @@
     <string name="current_using_desktop_wallpaper_text">Начален екран</string>
     <string name="current_using_lockscreen_wallpaper_text">Заключване на екрана</string>
     <string name="current_version_incompatible">Не е съвместим</string>
+    <string name="custom_wallpaper_for_you">Персонализирани тапети за вас</string>
     <string name="data_use_desc">Правни документи</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +192,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">Приложи</string>
     <string name="de_super_wp_land_position_default_des">Изберете изглед</string>
     <string name="deleting">Изтриване…</string>
+    <string name="delivers_fresh_content_and_design_daily">Свежи дизайни всеки ден</string>
     <string name="description_author">Автор:</string>
     <string name="description_designer">Дизайнер:</string>
     <string name="description_download">Изтеглено:</string>
@@ -210,6 +219,7 @@
     <string name="editor_apply_message">"Тази функция се използва за отстраняване на грешки от дизайнерите. Темата по подразбиране автоматично ще бъде възстановена след известно време. Път на файла на текущата тема: "</string>
     <string name="editor_apply_toast">Ръчно изберете temp.mtz в основната директория</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">Въведете имейл адрес</string>
     <string name="eras_ad">н.е.</string>
     <string name="eras_bc">пр.Хр.</string>
     <string name="error_icon_content_description">Грешка</string>
@@ -384,6 +394,7 @@
     <string name="hide_incompatible_font">Скрий несъвместими шрифтове</string>
     <string name="hide_incompatible_theme">Скрий несъвместими теми</string>
     <string name="hide_incompatible_wallpaper">Скрий несъвместими тапети</string>
+    <string name="hint_email_address">Въведете имейл адрес</string>
     <string name="home_apply_failured">Тапетът не може да се приложи</string>
     <string name="home_apply_success">Тапетът на начален екран е приложен</string>
     <string name="hot_first">Първо популярните</string>
@@ -417,6 +428,7 @@
     <string name="loading_resource_detail_fail">Неуспешно зареждане на детайли!</string>
     <string name="loading_resource_detail_info">Момент…</string>
     <string name="local_photos">Локални снимки</string>
+    <string name="local_record__email_info">Запомни моя имейл адрес</string>
     <string name="local_resouce_creator_name">Автор: %1$s</string>
     <string name="lock_screen_edit">Редактиране на Заключен екран</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">Този шаблон за Заключен екран не поддържа Супер тапети. След като бъде приложен, Вашият Заключен екран ще се върне към стандартното състояние и тапетите Ви за Начален и Заключен екран ще бъдат заменени. Прилагане сега?</string>
@@ -457,6 +469,7 @@
     <string name="message_sim_two">Съобщение от SIM %d</string>
     <string name="mi_wallpaper">MIUI тапет</string>
     <string name="midnight">Нощ</string>
+    <string name="mine_subscribed_wallpaper">Абонирани тапети</string>
     <string name="miui_clock_city_name_local">Местно</string>
     <string name="miui_clock_city_name_second">Втори часовник</string>
     <string name="miui_lock_screen_date">EEE, dd MMM</string>
@@ -674,7 +687,7 @@ mm"</string>
     <string name="payment_coins_balance">(Баланс: %1s)</string>
     <string name="payment_coins_insufficient_balance">(Недостатъчен баланс)</string>
     <string name="payment_data_move_tips">Данните от Вашия профил ще бъдат преместени в сървъри във Вашия регион, с цел спазването на закони за поверителност. Съществува риск от загуба на данни при преместването.</string>
-    <string name="payment_instructions">&lt;Data>Извършвайки това заплащане, Вие приемате &lt;a href=\"%1$s\">Известието за покупки в приложението&lt;/a>.&lt;/Data></string>
+    <string name="payment_instructions"><Data>Извършвайки това заплащане, Вие приемате &lt;a href=\"%1$s\">Известието за покупки в приложението&lt;/a>.</Data></string>
     <string name="payment_method">Метод на плащане</string>
     <string name="permission_desc">За съхраняване на запазени теми и други теми</string>
     <string name="permission_pop_desc">За да можете да промените предпочитанията за персонализация и да запазвате изтеглени елементи, първо разрешете на Теми да получават достъп до паметта.</string>
@@ -701,7 +714,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">Персонализирайте Вашето устройство</string>
     <string name="present_official_themes">Нашите предложения</string>
     <string name="present_online_themes">Получете още теми онлайн</string>
+    <string name="price_for_automatic_renewal">Подновете автоматично за %1$s</string>
     <string name="privacy_desc">Правила за поверителност (задължително)</string>
+    <string name="privacy_simple_content">Включете персонализираните препоръки, за да получавате съдържание и продукти, подбрани според Вашите интереси.</string>
+    <string name="privacy_simple_hint">Можете да промените предпочитанията си по всяко време в „Настройки“.</string>
+    <string name="privacy_simple_title">Персонализирани препоръки</string>
     <string name="promotion_ad">Промоция</string>
     <string name="provision_default_theme_title">По подразбиране</string>
     <string name="provision_download_cancel">Изтеглянето е отменено.</string>
@@ -747,6 +764,9 @@ mm"</string>
     <string name="related_theme">Теми</string>
     <string name="related_wallpaper">Тапети</string>
     <string name="reload">Опитайте отново</string>
+    <string name="renewal_of_a_contract_monthly">Поднови за %s/месец</string>
+    <string name="renewal_of_a_contract_weekly">Поднови за %s/седмица</string>
+    <string name="renewal_of_a_contract_yearly">Поднови за %s/година</string>
     <string name="res_migrate_tip">За да направим приложението Теми съвместимо с предстоящи версии на Android преместихме вашите изтеглени елементи на ново място. Рестартирайте приложението, за да приложите промените и да прегледате изтегленото съдържание.</string>
     <string name="resource_account_abnormal_state">Грешка в профила. Опитайте отново по-късно.</string>
     <string name="resource_account_fail_to_add">Неуспешно добавяне на профил!</string>
@@ -766,6 +786,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">Да се изчисти ли историята на търсенията?</string>
     <string name="resource_continue">Следващ</string>
     <string name="resource_current_using_title">Текущи източници</string>
+    <string name="resource_currently_applied">Приложено</string>
     <string name="resource_data_empty">Няма елементи тук.</string>
     <string name="resource_default">Мелодия по подразбиране</string>
     <string name="resource_default_name">Ресурс</string>
@@ -964,6 +985,7 @@ mm"</string>
     <string name="select_all">Избери всички</string>
     <string name="selected_resource_file_invalid">Избраният файл не може да се използва</string>
     <string name="send">Изпращане</string>
+    <string name="service_expiration_date">Валиден до %1$s</string>
     <string name="set_color_ring_back_tone">Задай потребителски тон за обратно звънене</string>
     <string name="settings">Настройки</string>
     <string name="shortcut_add">Добавяне</string>
@@ -985,6 +1007,9 @@ mm"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Приложи</string>
     <string name="storage_file">За запазване на изтеглени елементи</string>
+    <string name="submission_successfully">Успешно изпратено</string>
+    <string name="subscription_service_shutdown_tip">Абонираните тапети вече не се показват, защото използвате друга услуга. Можете отново да приложите абониран тапет.</string>
+    <string name="successfully_applied_wallpaper_tip">Успешно прилагане на тапет</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Неделя</string>
     <string name="sunday_short">Нед.</string>
@@ -997,11 +1022,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">Инсталиране</string>
     <string name="super_wallpaper_list_footer_text">Очаквайте още Супер тапети скоро</string>
     <string name="super_wallpaper_list_label">Супер тапети</string>
+    <string name="super_wallpaper_low_version_tip_push">Обновете Супер тапети до най-новата версия, за да можете да продължите да ги използвате.</string>
+    <string name="super_wallpaper_restore_msg_push">Текущата версия на Супер тапети се натъкна на проблем с несъвместимостта. Вашият тапет по подразбиране е възстановен. Обновете до най-новата версия, за да можете да използвате Супер тапети.</string>
     <string name="super_wallpaper_setting_apply_success_toast">Успешно приложено</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Приложи</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Опции</string>
     <string name="super_wallpaper_setting_coordinate_title">Координати</string>
     <string name="super_wallpaper_setting_view_height_title">Височина</string>
+    <string name="super_wallpaper_upgrade_tip_push">Обновете Супер тапети</string>
     <string name="support_google_dynamic_color_hint">Използвате Google Dynamic Color. Палитрите на някои от приложенията може да се променят когато приложите нови теми и тапети.</string>
     <string name="swipe_find_more">Плъзнете нагоре, за да видите още</string>
     <string name="system_aod_dialog_message">За да можете да използвате тази функция, включете Винаги включен дисплей.</string>
@@ -1009,7 +1037,26 @@ mm"</string>
     <string name="system_aod_dialog_title">Винаги включен дисплей</string>
     <string name="system_phone">Обаждания</string>
     <string name="system_precust">Преинсталирани</string>
+    <string name="text_billing_info">Информация за плащане</string>
+    <string name="text_cancel_subscription_service">Желаете ли да прекратите този абонамент?</string>
+    <string name="text_content_update">Ново съдържание ежедневно</string>
+    <string name="text_free_trial">Тествайте безплатно</string>
+    <string name="text_pay_monthly" formatted="false">Започвайки от %s, се подновява автоматично за %s/месец до отмяна</string>
+    <string name="text_pay_weekly" formatted="false">Започвайки от %s, се подновява автоматично за %s/седмица до отмяна</string>
+    <string name="text_pay_yearly" formatted="false">Започвайки от %s, се подновява автоматично за %s/година до отмяна</string>
     <string name="text_play">Играй</string>
+    <string name="text_start_time_format">dd.MM</string>
+    <string name="text_status_apply_now">Приложи</string>
+    <string name="text_status_be_subscribing">Абониран</string>
+    <string name="text_status_cancel_the_trial">Прекрати безплатния период</string>
+    <string name="text_status_on_trial">Активен безплатен период</string>
+    <string name="text_status_subscribe_now">Абониране</string>
+    <string name="text_status_unsubscribe">Отписване</string>
+    <string name="text_status_unsubscribed">Отписан</string>
+    <string name="text_subscribe">Абонаменти</string>
+    <string name="text_subscribed">Абониран</string>
+    <string name="text_when_cancel_the_trial_tip">Ако прекратите безплатния период, този тапет ще бъде изчистен от Вашето устройство.</string>
+    <string name="text_when_unsubscribe_tip">Ако прекратите този абонамент, този тапет ще бъде изчистен от Вашето устройство.</string>
     <string name="the_anniversary_of_lifting_martial_law">Годишнина от прекратяването на военно положение</string>
     <string name="the_anti_aggression_day">Ден на борба с агресията</string>
     <string name="the_arbor_day">Ден на дървото</string>
@@ -1150,6 +1197,8 @@ mm"</string>
     <string name="tip_lockscreen">Променете тапета за Заключен екран и часовника</string>
     <string name="tip_lockscreen2">Използвате Сменящи се тапети. Персонализирането на вашата тема ще промени тапета и часовника на вашия Заключен екран.</string>
     <string name="tip_statusbar">Променете Контролния център и Лентата с известия</string>
+    <string name="tips_subscriptions_close">Абонаментите за тапети са изключени</string>
+    <string name="tips_talk_later">Не сега</string>
     <string name="tips_theme_gate_transfer_fail">Неуспешно отваряне на таци страница. Изчакайте минута-две и опитайте отново.</string>
     <string name="title_component">Редактиране на темата</string>
     <string name="title_home_miwallpaper_home_screen_effects">Ефекти за Начален екран</string>
@@ -1164,6 +1213,7 @@ mm"</string>
     <string name="today">Днес</string>
     <string name="tomorrow">Утре</string>
     <string name="top">Популярни</string>
+    <string name="trial_cancellation_succeeded">Успешно прекратяване на безплатния период</string>
     <string name="try_fresh_functions_and_contents">Прегледайте новите ни функции и съдържание</string>
     <string name="try_it">Изпробвайте ги</string>
     <string name="try_tap">Натиснете за преглед</string>
@@ -1175,6 +1225,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">Разбрах</string>
     <string name="uid_change_dialog_title">Рестартирай устройството</string>
     <string name="unknown_error">Възникна грешка</string>
+    <string name="unsubscribe_successfully">Успешно отписване</string>
     <string name="unsupport_tip">Този файлов формат не се поддържа. Пробвайте да изберете различен файл.</string>
     <string name="up_to_the_end">Няма повече елементи за показване</string>
     <string name="update_btn">АКТУАЛИЗИРАЙ СЕГА</string>
@@ -1189,15 +1240,16 @@ mm"</string>
     <string name="update_push_content">Обновете сега</string>
     <string name="update_push_title">Вашата тема има налична нова версия</string>
     <string name="update_title">НАЛИЧНА Е НОВА АКТУАЛИЗАЦИЯ</string>
+    <string name="updating_the_app_tip">Обновяване…</string>
     <string name="used_wallpaper">Предишно използвани</string>
     <string name="user_agree">Приемам</string>
     <string name="user_attention_new_theme">%s качи ново съдържание</string>
     <string name="user_authorization_dialog_agree">Приемам</string>
     <string name="user_authorization_dialog_agree_a">Приемам</string>
     <string name="user_authorization_dialog_disagree">Изход</string>
-    <string name="user_authorization_dialog_message">"&lt;Data>Необходимо е да събираме ваши лични данни, за да можем да ви предоставяме основни услуги. Можете да научите как обработваме събраната информация в нашите &lt;a href=\"%1$s\">Правила за поверителност&lt;/a>. Прочетете и приемете нашето &lt;a href=\"%2$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%3$s\">Правила за поверителност&lt;/a> преди да използвате Теми.
-Можете да оттеглите съгласието си за Правилата за поверителност на Теми в Настройки по всяко време.&lt;/Data>"</string>
-    <string name="user_authorization_dialog_message_a">&lt;Data>Преди да продължите приемете нашето &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%2$s\">Правила за поверителност&lt;/a>. Можете да промените предпочитанията си по всяко време в Настройките.&lt;/Data></string>
+    <string name="user_authorization_dialog_message"><Data>"Необходимо е да събираме ваши лични данни, за да можем да ви предоставяме основни услуги. Можете да научите как обработваме събраната информация в нашите &lt;a href=\"%1$s\">Правила за поверителност&lt;/a>. Прочетете и приемете нашето &lt;a href=\"%2$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%3$s\">Правила за поверителност&lt;/a> преди да използвате Теми.
+Можете да оттеглите съгласието си за Правилата за поверителност на Теми в Настройки по всяко време."</Data></string>
+    <string name="user_authorization_dialog_message_a"><Data>Преди да продължите приемете нашето &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%2$s\">Правила за поверителност&lt;/a>. Можете да промените предпочитанията си по всяко време в Настройките.</Data></string>
     <string name="user_authorization_dialog_title">Правила и условия</string>
     <string name="user_know">Разбрах</string>
     <string name="using_theme_has_update_tips">Налично е обновление за тази тема.</string>
@@ -1238,6 +1290,7 @@ mm"</string>
     <string name="wallpaper_group_natural_texture_title">Природни мотиви</string>
     <string name="wallpaper_group_sgn_mountain_title">Планина Съгунян</string>
     <string name="wallpaper_might_like">Тапети, които може да Ви харесат</string>
+    <string name="wallpaper_restore_defalut_push">Възстановено по подразбиране</string>
     <string name="wallpaper_scroll_type_tips">Сменящи се тапети</string>
     <string name="wallpaper_set_as_both">Начало и закл. екран</string>
     <string name="wallpaper_set_as_desktop">Задайте като начален екран</string>

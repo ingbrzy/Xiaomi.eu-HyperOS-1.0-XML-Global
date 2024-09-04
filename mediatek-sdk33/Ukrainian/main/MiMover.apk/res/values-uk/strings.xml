@@ -77,6 +77,7 @@
     <string name="cancel">Скасувати</string>
     <string name="cancel_moving_dialog_message">Зупинити імпорт зараз?</string>
     <string name="cancel_moving_dialog_title">Зупинити імпорт</string>
+    <string name="cancel_tranfer">Скасувати</string>
     <string name="cannot_use_mi_huanji_button">Зрозуміло</string>
     <string name="cannot_use_mi_huanji_summary">Схоже, що MIUI зараз створює резервну копію даних. Якщо ви зупините процес або перезапустите пристрій, то Mi Mover зможе почати передачу.</string>
     <string name="cannot_use_mi_huanji_title">Неможливо перенести зараз</string>
@@ -269,6 +270,7 @@
     <string name="guest_unfinished_task_alert_message">Виявлено незавершені завдання перенесення даних. Продовжити передачу?</string>
     <string name="guest_unfinished_task_alert_title">Незавершені завдання</string>
     <string name="hide_password_description">Приховати пароль</string>
+    <string name="high_temp_summary">Ваш пристрій може нагріватися при передачі великих обсягів даних. Це нормально, і після завершення передачі пристрій охолоне.</string>
     <string name="host_boot_installation_bottom_tips">Не вдалося знайти Mi Mover? Натисніть для завантаження.</string>
     <string name="host_boot_installation_button">Далі</string>
     <string name="host_boot_installation_dialog_message">Версія Mi Mover на вашому старому пристрої несумісна з версією, яка встановлена на цьому пристрої. Оновіть Mi Mover на вашому старому пристрої.</string>

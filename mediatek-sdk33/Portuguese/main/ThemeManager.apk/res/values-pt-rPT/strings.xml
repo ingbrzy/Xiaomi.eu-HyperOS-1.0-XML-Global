@@ -106,6 +106,10 @@
     <string name="author_new_theme">Novo</string>
     <string name="author_popularity">Visualizações</string>
     <string name="author_unfollow_succeed">Deixou de seguir com sucesso</string>
+    <string name="automatic_renewal_monthly">Renova automaticamente por %s/mês</string>
+    <string name="automatic_renewal_weekly">Renova automaticamente por %s/semana</string>
+    <string name="automatic_renewal_yearly">Renova automaticamente por %s/ano</string>
+    <string name="automatically_push_content_to_lock_screen">Novo conteúdo será exibido diariamente no seu Ecrã de bloqueio</string>
     <string name="automatically_update_using_theme_tips">Atualizar automaticamente da próxima vez</string>
     <string name="back_to_default">Voltar ao predefinido</string>
     <string name="back_to_none">Não definir toque</string>
@@ -122,6 +126,9 @@
     <string name="bottomsheet_action_expand_halfway">Expandir até metade</string>
     <string name="browser_local_resource">Recursos locais</string>
     <string name="can_not_apply">Não pode aplicar</string>
+    <string name="canceled_failed">Não foi possível cancelar</string>
+    <string name="canceled_subscription_failed">Não foi possível cancelar a subscrição. Tente novamente.</string>
+    <string name="canceled_trial_failed">Não foi possível cancelar. Tente novamente.</string>
     <string name="card_data_request_error">Ocorreu um erro. Espere um minuto ou dois e tente novamente.</string>
     <string name="card_loading">Um momento…</string>
     <string name="card_no_network">Não foi possível ligar à rede. Verifique suas definições de rede e tente novamente.</string>
@@ -175,6 +182,7 @@
     <string name="current_using_desktop_wallpaper_text">Ecrã inicial</string>
     <string name="current_using_lockscreen_wallpaper_text">Ecrã de bloqueio</string>
     <string name="current_version_incompatible">Não compatível</string>
+    <string name="custom_wallpaper_for_you">Papéis de parede personalizados para si</string>
     <string name="data_use_desc">Documentos legais</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +192,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">Aplicar</string>
     <string name="de_super_wp_land_position_default_des">Selecionar visualização</string>
     <string name="deleting">A eliminar…</string>
+    <string name="delivers_fresh_content_and_design_daily">Designs frescos diariamente</string>
     <string name="description_author">Autor</string>
     <string name="description_designer">Designer</string>
     <string name="description_download">Transferido</string>
@@ -210,6 +219,7 @@
     <string name="editor_apply_message">"Esta funcionalidade é utilizada para depuração pelos designers. O tema predefinido será automaticamente definido por um momento. Caminho de ficheiro para o tema atual: "</string>
     <string name="editor_apply_toast">Selecione manualmente o temp.mtz no diretório raiz</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">Introduza um endereço de email</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_icon_content_description">Erro</string>
@@ -384,10 +394,11 @@
     <string name="hide_incompatible_font">Ocultar tipos de letra incompatíveis</string>
     <string name="hide_incompatible_theme">Ocultar temas incompatíveis</string>
     <string name="hide_incompatible_wallpaper">Ocultar papéis de parede incompatíveis</string>
+    <string name="hint_email_address">Introduza um endereço de email</string>
     <string name="home_apply_failured">Não é possível aplicar o papel de parede ao Ecrã inicial</string>
     <string name="home_apply_success">Papel de parede aplicado ao Ecrã inicial</string>
     <string name="hot_first">Populares primeiro</string>
-    <string name="humidity_format">Umidade %s</string>
+    <string name="humidity_format">Humidade %s</string>
     <string name="humidity_format_with_unit">%s</string>
     <string name="icon_content_description">Ícone de caixa de diálogo</string>
     <string name="icon_size">Tamanho do ícone</string>
@@ -417,6 +428,7 @@
     <string name="loading_resource_detail_fail">Não é possível carregar o recurso</string>
     <string name="loading_resource_detail_info">Um momento…</string>
     <string name="local_photos">Fotos locais</string>
+    <string name="local_record__email_info">Lembrar o meu endereço de email</string>
     <string name="local_resouce_creator_name">Programador: %1$s</string>
     <string name="lock_screen_edit">Editar Ecrã de bloqueio</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">Este modelo de Ecrã de bloqueio não suporta os Super papéis de parede. Uma vez aplicado, o seu ecrã de bloqueio será revertida para o padrão, e os planos de fundo para o Ecrã de bloqueio e o Ecrã inicial serão substituídos. Aplicar agora?</string>
@@ -457,6 +469,7 @@
     <string name="message_sim_two">Mensagem SIM %d</string>
     <string name="mi_wallpaper">Papéis de parede MIUI</string>
     <string name="midnight">Noite</string>
+    <string name="mine_subscribed_wallpaper">Papéis de parede subscritos</string>
     <string name="miui_clock_city_name_local">Local</string>
     <string name="miui_clock_city_name_second">Relógio secundário</string>
     <string name="miui_lock_screen_date">EEE, dd/MMM</string>
@@ -701,7 +714,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">Personalize seu dispositivo</string>
     <string name="present_official_themes">As nossas escolhas</string>
     <string name="present_online_themes">Obter mais temas online</string>
+    <string name="price_for_automatic_renewal">Renovar automaticamente por %1$s</string>
     <string name="privacy_desc">Política de Privacidade (Obrigatório)</string>
+    <string name="privacy_simple_content">Ligue as recomendações personalizadas para receber conteúdos e produtos conforme os seus interesses.</string>
+    <string name="privacy_simple_hint">Pode alterar as suas preferências a qualquer altura nas Definições.</string>
+    <string name="privacy_simple_title">Recomendações personalizadas</string>
     <string name="promotion_ad">Promoção</string>
     <string name="provision_default_theme_title">Predefinido</string>
     <string name="provision_download_cancel">Transferência cancelada</string>
@@ -747,6 +764,9 @@ mm"</string>
     <string name="related_theme">Temas</string>
     <string name="related_wallpaper">Papéis de parede</string>
     <string name="reload">Tentar novamente</string>
+    <string name="renewal_of_a_contract_monthly">Renovar por %s/mês</string>
+    <string name="renewal_of_a_contract_weekly">Renovar por %s/semana</string>
+    <string name="renewal_of_a_contract_yearly">Renovar por %s/ano</string>
     <string name="res_migrate_tip">Para tornar os Temas compatíveis com as futuras versões do Android, movemos os seus itens transferidos para um novo local. Reinicie a aplicação para aplicar as alterações e ver o seu conteúdo transferido.</string>
     <string name="resource_account_abnormal_state">Erro na conta. Espere um minuto ou dois e tente novamente.</string>
     <string name="resource_account_fail_to_add">Não é possível adicionar conta</string>
@@ -766,6 +786,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">Limpar todo o histórico de pesquisa?</string>
     <string name="resource_continue">Seguinte</string>
     <string name="resource_current_using_title">Recursos atuais</string>
+    <string name="resource_currently_applied">Aplicado</string>
     <string name="resource_data_empty">Sem itens aqui.</string>
     <string name="resource_default">Toque predefinido</string>
     <string name="resource_default_name">Recurso</string>
@@ -964,6 +985,7 @@ mm"</string>
     <string name="select_all">Selecionar tudo</string>
     <string name="selected_resource_file_invalid">Não é possível utilizar o ficheiro de recurso selecionado</string>
     <string name="send">Enviar</string>
+    <string name="service_expiration_date">Válido até %1$s</string>
     <string name="set_color_ring_back_tone">Definir um tom de CRBT personalizado</string>
     <string name="settings">Definições</string>
     <string name="shortcut_add">Adicionar</string>
@@ -985,6 +1007,9 @@ mm"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Aplicar</string>
     <string name="storage_file">Para guardar itens transferidos</string>
+    <string name="submission_successfully">Submetido com sucesso</string>
+    <string name="subscription_service_shutdown_tip">Os papéis de parede subscritos não são mais exibidos porque está a utilizar outro serviço. Pode aplicar um papel de parede subscrito novamente.</string>
+    <string name="successfully_applied_wallpaper_tip">Papel de parede aplicado com sucesso</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
@@ -997,11 +1022,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">Instalar</string>
     <string name="super_wallpaper_list_footer_text">Mais Super papéis de parede chegando em breve</string>
     <string name="super_wallpaper_list_label">Super papéis de parede</string>
+    <string name="super_wallpaper_low_version_tip_push">Atualize os Super papéis de parede para a versão mais recente para continuar a utilizá-los.</string>
+    <string name="super_wallpaper_restore_msg_push">A versão atual dos Super papéis de parede encontrou um problema de compatibilidade. O seu papel de parede predefinido foi reposto. Atualize para a versão mais recente para utilizar os Super papéis de parede.</string>
     <string name="super_wallpaper_setting_apply_success_toast">Aplicado com sucesso</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Aplicar</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Opções</string>
     <string name="super_wallpaper_setting_coordinate_title">Coordenadas</string>
     <string name="super_wallpaper_setting_view_height_title">Altitude</string>
+    <string name="super_wallpaper_upgrade_tip_push">Atualizar Super papéis de parede</string>
     <string name="support_google_dynamic_color_hint">Está a utilizar o Dynamic Color do Google. As paletas de cores de algumas aplicações podem alterar quando aplicar novos temas e papéis de parede.</string>
     <string name="swipe_find_more">Deslize para cima para ver mais</string>
     <string name="system_aod_dialog_message">Ligue o Ecrã sempre ligado para poder utilizar esta funcionalidade.</string>
@@ -1009,7 +1037,26 @@ mm"</string>
     <string name="system_aod_dialog_title">Ecrã sempre ligado</string>
     <string name="system_phone">Chamadas</string>
     <string name="system_precust">Pré-instalados</string>
+    <string name="text_billing_info">Informação de faturamento</string>
+    <string name="text_cancel_subscription_service">Cancelar esta subscrição agora?</string>
+    <string name="text_content_update">Novo conteúdo diariamente</string>
+    <string name="text_free_trial">Testar gratuitamente</string>
+    <string name="text_pay_monthly" formatted="false">A partir de %s, renova automaticamente por %s/mês até ser cancelado</string>
+    <string name="text_pay_weekly" formatted="false">A partir de %s, renova automaticamente por %s/semana até ser cancelado</string>
+    <string name="text_pay_yearly" formatted="false">A partir de %s, renova automaticamente por %s/ano até ser cancelado</string>
     <string name="text_play">Jogar</string>
+    <string name="text_start_time_format">dd/MM</string>
+    <string name="text_status_apply_now">Aplicar</string>
+    <string name="text_status_be_subscribing">Subscrito</string>
+    <string name="text_status_cancel_the_trial">Parar teste</string>
+    <string name="text_status_on_trial">Teste em andamento</string>
+    <string name="text_status_subscribe_now">Subscrever</string>
+    <string name="text_status_unsubscribe">Cancelar subscrição</string>
+    <string name="text_status_unsubscribed">Subscrição cancelada</string>
+    <string name="text_subscribe">Subscrições</string>
+    <string name="text_subscribed">Subscrito</string>
+    <string name="text_when_cancel_the_trial_tip">Se cancelar este teste, este papel de parede será limpo do seu dispositivo.</string>
+    <string name="text_when_unsubscribe_tip">Se cancelar esta subscrição, este papel de parede será limpo do seu dispositivo.</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da lei Marcial</string>
     <string name="the_anti_aggression_day">Dia da Anti-agressão</string>
     <string name="the_arbor_day">Dia da Árvore</string>
@@ -1150,6 +1197,8 @@ mm"</string>
     <string name="tip_lockscreen">Alterar papel de parede do Ecrã de bloqueio e relógio</string>
     <string name="tip_lockscreen2">Está a utilizar o Carrossel de Papéis de parede. Personalizar o seu tema alterará o papel de parede do Ecrã de bloqueio e o relógio.</string>
     <string name="tip_statusbar">Alterar Centro de controlo e a Área de notificações</string>
+    <string name="tips_subscriptions_close">As subscrições de papéis de parede estão desligadas</string>
+    <string name="tips_talk_later">Agora não</string>
     <string name="tips_theme_gate_transfer_fail">Não foi possível abrir esta página. Espere um minuto ou dois e tente novamente.</string>
     <string name="title_component">Personalizar tema</string>
     <string name="title_home_miwallpaper_home_screen_effects">Efeitos do ecrã inicial</string>
@@ -1164,6 +1213,7 @@ mm"</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="top">Popular</string>
+    <string name="trial_cancellation_succeeded">Teste cancelado com sucesso</string>
     <string name="try_fresh_functions_and_contents">Confira as nossas novas funcionalidades e conteúdos</string>
     <string name="try_it">Conferir</string>
     <string name="try_tap">Toque para pré-visualizar</string>
@@ -1175,6 +1225,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">Percebi</string>
     <string name="uid_change_dialog_title">Reiniciar dispositivo</string>
     <string name="unknown_error">Ocorreu um erro</string>
+    <string name="unsubscribe_successfully">Subscrição cancelada com sucesso</string>
     <string name="unsupport_tip">Este formato de ficheiro não é suportado. Tente selecionar um ficheiro diferente.</string>
     <string name="up_to_the_end">Sem mais itens para mostrar</string>
     <string name="update_btn">Atualizar agora</string>
@@ -1189,6 +1240,7 @@ mm"</string>
     <string name="update_push_content">Atualizar agora</string>
     <string name="update_push_title">O seu tema tem uma nova versão disponível</string>
     <string name="update_title">NOVA ATUALIZAÇÃO DISPONÍVEL</string>
+    <string name="updating_the_app_tip">A atualizar…</string>
     <string name="used_wallpaper">Utilizado anteriormente</string>
     <string name="user_agree">Aceitar</string>
     <string name="user_attention_new_theme">Novo conteúdo de %s</string>
@@ -1238,6 +1290,7 @@ Pode retirar o seu consentimento à Política de Privacidade da aplicação Tema
     <string name="wallpaper_group_natural_texture_title">Padrões da natureza</string>
     <string name="wallpaper_group_sgn_mountain_title">Monte Siguniang</string>
     <string name="wallpaper_might_like">Papéis de parede que pode gostar</string>
+    <string name="wallpaper_restore_defalut_push">Reposto para a predefinição</string>
     <string name="wallpaper_scroll_type_tips">Deslizar do papel de parede</string>
     <string name="wallpaper_set_as_both">Definir ambos</string>
     <string name="wallpaper_set_as_desktop">Definir como Ecrã inicial</string>

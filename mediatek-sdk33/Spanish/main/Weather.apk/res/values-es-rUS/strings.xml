@@ -33,6 +33,8 @@
     <string name="abrupt_weather_settings_summary_type">Recibir alertas acerca de lluvias, cambios en la calidad del aire y otros cambios significativos</string>
     <string name="act_find_city_hint">Ingrese una ubicación</string>
     <string name="act_find_city_hot_city_title">Ciudades populares</string>
+    <string name="act_find_city_location_button_text">Obtener ubicación</string>
+    <string name="act_find_city_location_title">Ubicación actual</string>
     <string name="act_location_error_to_find_city">No se pudo obtener la información de ubicación. Puede agregar la ubicación manualmente.</string>
     <string name="act_set_city_find_side">Ubicando</string>
     <string name="act_set_city_find_side_error">No se puede ubicar el dispositivo</string>
@@ -47,7 +49,7 @@
     <string name="activity_find_city_dialog_message">Permita a Tiempo acceder a su ubicación para obtener información precisa del lugar.</string>
     <string name="activity_find_city_dialog_message_global">Active los servicios de ubicación y permita a su dispositivo determinar su ubicación usando redes inalámbricas.</string>
     <string name="activity_find_city_dialog_message_location_service">Para obtener información relevante sobre el tiempo, permita a Tiempo acceder a su ubicación.</string>
-    <string name="activity_find_city_dialog_set">Ajustes</string>
+    <string name="activity_find_city_dialog_set">Configuración</string>
     <string name="activity_find_city_dialog_title">Acceso a ubicación</string>
     <string name="activity_find_city_location_authorize_message">Para garantizar que Tiempo pueda mostrar información relevante para su ubicación, otorgue permisos de ubicación y seleccione \"Permitir siempre\". Puede otorgar este permiso manteniendo pulsado el ícono de la aplicación y luego seleccionando Información de aplicaciones > Permisos de aplicaciones > Ubicación.</string>
     <string name="activity_find_city_location_authorize_tag">Permisos requeridos</string>
@@ -57,6 +59,7 @@
     <string name="activity_main_update_time">Actualizado %1$s</string>
     <string name="activity_main_update_time_expire">Datos no actualizados</string>
     <string name="activity_main_update_time_right_now">justo ahora</string>
+    <string name="add_city">Agregar</string>
     <string name="afternoon">Tarde</string>
     <string name="alert_detail_title">Detalles de la alerta</string>
     <string name="alert_warning">Alertas meteorológicas</string>
@@ -89,7 +92,7 @@
     <string name="aqi_station_min_distance_station">Estación más cercana</string>
     <string name="aqi_title_pad">ICA: %1$s</string>
     <string name="aqi_top_pollution">Contaminantes principales</string>
-    <string name="background_location_dialog_authorize_button">Ajustes</string>
+    <string name="background_location_dialog_authorize_button">Configuración</string>
     <string name="background_location_guide_dialog_msg">Permita que esta aplicación acceda a la ubicación mientras se ejecuta en segundo plano y seleccione \"Permitir siempre\" para asegurarse de recibir información meteorológica actualizada.</string>
     <string name="background_location_guide_dialog_title">Permisos requeridos</string>
     <string name="button_allow">Aceptar</string>
@@ -394,7 +397,7 @@
     <string name="privacy_grant_or_revoke_settings">Retirada del consentimiento</string>
     <string name="privacy_grant_success">Autorización concedida con éxito</string>
     <string name="privacy_policy">Política de Privacidad</string>
-    <string name="privacy_policy_msg"><Data>Esta aplicación contiene las siguientes funciones:&lt;br/>• Información del tiempo específica de su ubicación&lt;br/>• Pronóstico del tiempo&lt;br/>•Avisos del tiempo &lt;br/>&lt;br/>Tiempo necesita recopilar la información personal necesaria para brindarle los servicios básicos. Puede aprender cómo manejamos la información que recopilamos en nuestra &lt;a href=\"%1$s\">Política de Privacidad&lt;/a>. Lea y acepte nuestro &lt;a href=\"%2$s\">Acuerdo de usuario&lt;/a> y nuestra &lt;a href=\"%3$s\">Política de Privacidad&lt;/a> antes de usar Tiempo. Puede retirar su consentimiento a la Política de Privacidad de Tiempo en los Ajustes en cualquier momento</Data></string>
+    <string name="privacy_policy_msg"><Data>Esta aplicación contiene las siguientes funciones:&lt;br/>• Información del tiempo específica de su ubicación&lt;br/>• Pronóstico del tiempo&lt;br/>•Avisos del tiempo &lt;br/>&lt;br/>Tiempo necesita recopilar la información personal necesaria para brindarle los servicios básicos. Puede aprender cómo manejamos la información que recopilamos en nuestra &lt;a href=\"%1$s\">Política de Privacidad&lt;/a>. Lea y acepte nuestro &lt;a href=\"%2$s\">Acuerdo de usuario&lt;/a> y nuestra &lt;a href=\"%3$s\">Política de Privacidad&lt;/a> antes de usar Tiempo. Puede retirar su consentimiento a la Política de Privacidad de Tiempo en la Configuración en cualquier momento</Data></string>
     <string name="privacy_policy_msg_for_gp"><Data>Esta aplicación contiene las siguientes funciones:&lt;br/>• Información del tiempo específico de su ubicación&lt;br/>•Pronóstico del tiempo&lt;br/>•Avisos del tiempo&lt;br/>&lt;br/>Tiempo necesita recopilar la información personal necesaria, incluidos los datos de ubicación, para que estas funciones estén disponibles, incluso cuando la aplicación está cerrada o no está en uso. Puede aprender cómo manejamos la información que recopilamos en nuestra &lt;a href=\"%1$s\">Política de privacidad&lt;/a>. Lea y acepte nuestro &lt;a href=\"%2$s\">Acuerdo de usuario&lt;/a> y nuestra &lt;a href=\"%3$s\">Política de privacidad&lt;/a> antes de usar Tiempo. Puede retirar su consentimiento a la Política de privacidad de Tiempo en Ajustes en cualquier momento.</Data></string>
     <string name="privacy_revoke_success">Autorización revocada con éxito</string>
     <string name="privacy_settings">Política de Privacidad</string>
@@ -429,7 +432,7 @@
     <string name="set_fahrenheit">°F</string>
     <string name="setting_notification_manager">Notificaciones</string>
     <string name="setting_used_to_push_reminder">Reciba alertas y avisos meteorológicos</string>
-    <string name="settings">Ajustes</string>
+    <string name="settings">Configuración</string>
     <string name="settings_atmospheric_pressure_atm">Atmósfera estándar (atm)</string>
     <string name="settings_atmospheric_pressure_hpa">Hectopascal (hPa)</string>
     <string name="settings_atmospheric_pressure_inhg">Pulgada de mercurio (inHg)</string>

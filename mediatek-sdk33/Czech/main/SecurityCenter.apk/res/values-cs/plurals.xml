@@ -872,6 +872,12 @@ Získejte %ddenní zkušební verzi zdarma!"</item>
         <item quantity="few">" min."</item>
         <item quantity="many">" min."</item>
     </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%ddenní</item>
+        <item quantity="one">%ddenní</item>
+        <item quantity="few">%ddenní</item>
+        <item quantity="many">%ddenní</item>
+    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d položek</item>
         <item quantity="one">%d položka</item>

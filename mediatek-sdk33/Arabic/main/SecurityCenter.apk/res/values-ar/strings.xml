@@ -590,6 +590,7 @@
     <string name="apps_list_header_title_sms_access">تقييد الوصول إلى رموز التحقق</string>
     <string name="ask_create_shortcut">إنشاء اختصار في الشاشة الرئيسية؟</string>
     <string name="audio_optimization_summary">تحسين الصوت وتقليل الضوضاء في المكالمات</string>
+    <string name="audio_optimization_summary_new">تحسين جودة صوت سماعات الأذن وتقليل الضوضاء أثناء المكالمات</string>
     <string name="audio_optimization_title">محسن الصوت</string>
     <string name="auto_atsk_condition_battery_level_text_down">عند وصول البطارية إلى %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">عند اكتمال شحن البطارية إلى %s</string>
@@ -1130,6 +1131,7 @@
     <string name="continue_set">متابعة</string>
     <string name="convenient_mode">إلغاء قفل جميع التطبيقات في وقت واحد</string>
     <string name="convenient_summary">أدخل كلمة المرور مرة واحدة لإلغاء قفل جميع التطبيقات</string>
+    <string name="conversation_phone_title">صندوق أدوات الاتصال</string>
     <string name="conversation_settings_top">"· اسحب شريط أدوات الاجتماع أثناء المكالمة الصوتية أو مكالمة الفيديو في وضع ملء الشاشة للوصول إلى ميزاته.
 · يختلف نوع الميزات وعددها حسب طراز الجهاز."</string>
     <string name="conversation_sider_tips">استخدم أدوات الاجتماع لإجراء مكالمات جماعية أكثر ملاءمة وفعالية</string>
@@ -1144,9 +1146,13 @@
     <string name="create_gamebooster_destop">تم إنشاء الاختصار في الشاشة الرئيسية بنجاح</string>
     <string name="create_shortcut">إنشاء إختصار على الشاشة الرئيسية لمسرع الألعاب</string>
     <string name="cs_color_sense">درجة حرارة اللون</string>
+    <string name="cs_conversation_record_using">جارٍٍ التسجيل</string>
     <string name="cs_func_toast_headset">افصل سماعات الرأس أولاً لاستخدام هذه الميزة</string>
     <string name="cs_func_toast_light">قم بالتبديل إلى الكاميرا الأمامية لاستخدام هذه الميزة</string>
     <string name="cs_func_toast_pickup">قم بالتبديل إلى مكالمة فيديو لاستخدام هذه الميزة</string>
+    <string name="cs_func_unavailable_tips">استخدام هذه الميزة أثناء إجراء المكالمات</string>
+    <string name="cs_light_enhance_physical_options">درجة حرارة اللون</string>
+    <string name="cs_light_enhance_physical_title">السطوع</string>
     <string name="cs_pickup_denoise_desc">تقليل ضوضاء الصوت الوارد أثناء استخدام مكبرات الصوت أو سماعات الأذن</string>
     <string name="cs_pickup_denoise_title">تقليل الضوضاء</string>
     <string name="cs_pickup_multi_desc">التقاط الصوت %d درجة</string>
@@ -1160,11 +1166,19 @@
     <string name="cs_pickup_vioce_print_unsupport_tips">سجل بصمة الصوت قبل اختيار \"مشارك واحد\"</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">يرجى فصل الأجهزة الخارجية ثم حاول مجددا</string>
     <string name="cs_pickup_voice_print_desc">التقاط الصوت من شخص واحد</string>
+    <string name="cs_privacy_camera_global_settings_title">خصوصية المكالمة</string>
     <string name="cs_screen_translation_title">ترجمة الشاشة</string>
+    <string name="cs_simultaneous_interpretation_title">ترجمة</string>
     <string name="cs_title_pickup">تقليل الضوضاء</string>
     <string name="cs_title_smart_subtitle">نسخ الترجمة</string>
     <string name="cs_title_ultraclear">وضع Ultra HD</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">جرب الترجمة الفورية وأدوات المكالمات الجماعية الأخرى في مربع أدوات الاتصال الجديدة</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">جرب مجموعة من ميزات المكالمات الجماعية في مربع أدوات الاتصال الجديد</string>
+    <string name="cs_tool_box_phone_guide_case_1">جرب الترجمة الفورية والميزات الأخرى في صندوق أدوات الاتصال الجديدة</string>
+    <string name="cs_tool_box_phone_guide_case_2">جرب مجموعة من الميزات في صندوق أدوات الاتصال الجديد</string>
     <string name="cs_voice_print">تسجيل بصمة الصوت</string>
+    <string name="cs_vt_camera_toast_case1">افتح الكاميرا في التطبيق الحالي</string>
+    <string name="cs_vt_camera_toast_case2">لا توجد أجهزة متوافقة قريبة</string>
     <string name="cta_agree_desc">لاستخدام خدماتنا، اسمح للتطبيق بالاتصال بالإنترنت ومنح الأذونات أعلاه.</string>
     <string name="cta_close_dialog_cancel">إلغاء</string>
     <string name="cta_close_dialog_content">إذا قمت بتقييد وصول تطبيق \"الحماية\" إلى الإنترنت و معلومات موقعك، فلن تتمكن من تلقي تحذيرات الزلازل، وتحديث تعريفات الفيروسات، ومعلومات قائمة الحظر. سيصبح جهازك أقل أمانًا. تقييد على أي حال؟</string>
@@ -1845,6 +1859,8 @@
     <string name="gb_audition_play_instruction">استخدم سماعة الأذن لتأثير أفضل</string>
     <string name="gb_award_noti_message">قم بتشغيل تحديثات لعبة Peace في الخلفية من مسرع الألعاب لتحصل على مكافآتك</string>
     <string name="gb_award_noti_title">مكافآت لعبة Peace في انتظارك!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>لا يمكن التبديل إلى الوضع المتوازن في مسرع الألعاب عندما يكون الوضع النهائي على مستوى النظام مشغل. يمكنك تغيير إعدادات البطارية من تطبيق الحماية.&lt;br>&lt;a href=\"#\">فتح الحماية&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>لا يمكن التبديل إلى الوضع المتوازن في مسرع الألعاب عندما يكون الوضع النهائي على مستوى النظام مشغل. يمكنك تغيير إعدادات البطارية من تطبيق الحماية. &lt;br>&lt;a href=\"#\">فتح الحماية&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">عالية</string>
     <string name="gb_bar_low">منخفضة</string>
     <string name="gb_bar_mid">متوسطة</string>
@@ -2000,6 +2016,8 @@ Record sequences and use them anytime!"</string>
     <string name="gb_predownload_receive_tips">تشغيل التحديثات في الخلفية للحصول على المكآفات</string>
     <string name="gb_predownload_receiving">جارٍ الاستلام…</string>
     <string name="gb_predownload_title">تحديثات الخلفية</string>
+    <string name="gb_setting_dock_toast">تتوفر الآن ميزات مساعد الكاميرا الأمامية في صندوق أدوات الاتصال</string>
+    <string name="gb_setting_dock_toast_2">تتوفر الآن ميزات مساعد الكاميرا الأمامية في صندوق أدوات الاتصال</string>
     <string name="gb_shortcut_pref_title">إختصار الشاشة الرئيسية</string>
     <string name="gb_shoulder_guide_message1">حرك الزر الافتراضي [L] لأي موضع وظيفي في اللعبة وشغله عبر الأزرار الميكانيكية.</string>
     <string name="gb_shoulder_guide_message2">يتم التشغيل الكامل [1] بالضغط على الزر. يتم التشغيل الجزئي [2] بتحرير الزر.</string>
@@ -2135,9 +2153,21 @@ Record sequences and use them anytime!"</string>
     <string name="gd_dock_shortcut_splitescreen">تقسيم الشاشة</string>
     <string name="gd_setting_conversation">أدوات الاجتماع</string>
     <string name="gd_setting_conversation_desc">مجموعة كبيرة من الميزات للاستخدام أثناء مكالمات الصوت والفيديو في وضع ملء الشاشة.</string>
+    <string name="gd_setting_dock_activity_title">صندوق أدوات جانبي</string>
+    <string name="gd_setting_dock_call_summary">ميزات للمكالمات الصوتية ومكالمات الفيديو (مثل ملء الضوء)</string>
+    <string name="gd_setting_dock_call_title">صندوق أدوات الاتصال</string>
+    <string name="gd_setting_dock_game_summary">تحسين العرض والأداء أثناء اللعب</string>
+    <string name="gd_setting_dock_game_summary_new">تحسين العرض والأداء أثناء اللعب</string>
+    <string name="gd_setting_dock_summary">افتح التطبيقات الأخرى في النوافذ المنبثقة أثناء استخدام ملء الشاشة للتطبيق</string>
+    <string name="gd_setting_dock_title">الشريط الجانبي</string>
+    <string name="gd_setting_dock_video_summary">استخدم تأثيرات مثل Dolby Atmos أثناء مشاهدة مقاطع الفيديو</string>
+    <string name="gd_setting_dock_video_summary_new">استخدام الأدوات والتأثيرات أثناء مشاهدة مقاطع الفيديو</string>
+    <string name="gd_setting_group_custom_conversation_apps">سجل بصمة صوتك للمكالمات</string>
     <string name="gd_setting_group_custom_gtb_apps">الألعاب</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">إدارة تطبيقات الألعاب</string>
     <string name="gd_setting_group_custom_settings">التخصيص</string>
     <string name="gd_setting_group_custom_vtb_apps">تطبيقات الفيديوهات</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">إدارة تطبيقات الفيديوهات</string>
     <string name="gd_setting_group_title_switch">مشاهد</string>
     <string name="gd_setting_gtb">اظهار أثناء اللعب</string>
     <string name="gd_setting_gtb_desc">ميزات خاصة للألعاب</string>
@@ -2157,11 +2187,17 @@ Record sequences and use them anytime!"</string>
     <string name="get_phone_num_fail">رقم هاتف غير معروف</string>
     <string name="get_sys_info">جار الحصول على المعلومات…</string>
     <string name="gigabyteShort">ج.ب</string>
+    <string name="global_dock_guide_desc_pad">اضغط مطولا على المؤشر لتحريك النافذة</string>
     <string name="global_dock_guide_desc_with_split_screen">"· انقر على أحد التطبيقات الموجودة على الشريط الجانبي لفتحه في نافذة منبثقة.
 · اسحب التطبيق إلى منتصف الشاشة لفتحه في نافذة منبثقة أو اسحبه إلى الجانب لاستخدام تقسيم الشاشة .
 · اضغط مطولا على زر المؤشر لتحريك النافذة."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"انقر على أحد التطبيقات الموجودة على الشريط الجانبي لفتحه في نافذة منبثقة.
+ اسحب التطبيق إلى منتصف الشاشة لفتحه في نافذة منبثقة أو اسحبه إلى الجانب لاستخدام تقسيم الشاشة .
+ اضغط مطولا على زر المؤشر لتحريك النافذة."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· انقر على أحد التطبيقات الموجودة على الشريط الجانبي لفتحه في نافذة منبثقة.
 · اضغط مطولا على زر المؤشر لتحريك النافذة."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"مرّر بسرعة لفتح الشريط الجانبي ثم انقر على أحد التطبيقات لفتحه في نافذة منبثقة.
+اضغط مطولا على المؤشر لتحريك النافذة."</string>
     <string name="global_satisfaction_notification_button">تقييم</string>
     <string name="global_satisfaction_notification_channel">استبيان رضا المستخدم</string>
     <string name="global_satisfaction_notification_subhead">أخبرنا عن تجربتك</string>
@@ -3182,6 +3218,7 @@ to join our egg hunt!"</string>
     <string name="pc_battery_history_total_consumption_title">اجمالي استهلاك الطاقة</string>
     <string name="pc_battery_history_usetime_title">تفعيل</string>
     <string name="pc_battery_low_health_reminder">حان الوقت لاستبدال بطاريتك</string>
+    <string name="pc_battery_replacement_service_title">جرب خدمة استبدال البطارية لدينا. الجهاز الأصلي %1$s لديه ضمان %2$s</string>
     <string name="pc_berserk_mode_dialog_title">تشغيل الوضع النهائي</string>
     <string name="pc_berserk_mode_noti_summary">قد يؤدي الوضع النهائي إلى زيادة استهلاك الطاقة وارتفاع درجة حرارة الجهاز.</string>
     <string name="pc_berserk_mode_performance_title">الوضع النهائي</string>
@@ -3255,6 +3292,7 @@ to join our egg hunt!"</string>
     <string name="pc_fast_charge_switch_summary_new">تذكير بزيادة سرعة الشحن عند توصيل الشاحن وشحن بطارية الجهاز أقل من القيمة المحددة</string>
     <string name="pc_fast_charge_switch_title">زيادة سرعة الشحن</string>
     <string name="pc_fast_charge_switch_toast_message">سيتم تطبيق التغييرات في المرة القادمة التي تقوم فيها بشحن هذا الجهاز</string>
+    <string name="pc_fast_charge_temp_remider">قم بتشغيل هذه الميزة لتنظيم سرعة الشحن تلقائيًا. تعمل هذه الميزة فقط مع أجهزة الشحن المتوفرة من Xiaomi. قد يسخن جهازك أثناء الشحن.</string>
     <string name="pc_fast_charge_title">زيادة سرعة الشحن</string>
     <string name="pc_going_to_exit_extreme_mode">الخروج من وضع الإسبات</string>
     <string name="pc_going_to_exit_extreme_mode_summary">جهازك قيد الشحن. وضع الإسبات متوقف.</string>
@@ -3343,6 +3381,16 @@ to join our egg hunt!"</string>
     <string name="pc_search_keywords_capacity">سعة البطارية</string>
     <string name="pc_search_keywords_property">الأداء</string>
     <string name="pc_settings_title">البطارية</string>
+    <string name="pc_smart_charge_button_summary">لإطالة عمر البطارية، سيتعرف النظام على عادات الشحن الخاصة بك ويوقف الشحن مؤقتًا عندما يصل مستوى البطارية إلى %1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">عند سخونة جهازك، سيتم إيقاف الشحن عندما تصل البطارية إلى %1$s.</string>
+    <string name="pc_smart_charge_notify_summary_navagition">أثناء التنقل…، سيتم إيقاف الشحن عندما تصل البطارية إلى %1$s.</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">سيتوقف الشحن عند %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">لإطالة عمر البطارية، لن تتجاوز بطارية هذا الجهاز المستوى الحالي أثناء توصيلها بالسيارة.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">لا تظهر مرة اخرى</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">حماية البطارية</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">لإطالة عمر البطارية، لن تتجاوز بطارية هذا الجهاز المستوى الحالي أثناء توصيلها بالسيارة</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">حماية البطارية</string>
+    <string name="pc_smart_charge_title">الشحن الذكي</string>
     <string name="pc_smart_discharge_checkbox_summary">عند استخدام ميزات الملاحة، سيتوقف الشحن تلقائيًا عند نسبة مئوية محددة. سيتم إيقاف تشغيل موفر البطارية.</string>
     <string name="pc_smart_discharge_checkbox_title">فصل الشحن تلقائيا</string>
     <string name="pc_smart_discharge_drop_down_title">إعدادات الفصل تلقائيا</string>
@@ -3355,6 +3403,8 @@ to join our egg hunt!"</string>
     <string name="pc_statistics_battery_use_title">استخدام البطارية</string>
     <string name="pc_suggest_open_fast_charge">قم بتشغيل الشحن السريع %d واط</string>
     <string name="pc_temperature_too_high">الجهاز ساخن</string>
+    <string name="pc_this_time_charge_full">مشحونة بالكامل هذه المرة</string>
+    <string name="pc_this_time_charge_full_work">تقريباً مشحونة بالكامل</string>
     <string name="pc_timely_charging_summary">مستوى البطارية أقل من %1$s. إذا ارتفعت درجة حرارة الجهاز أثناء انخفاض طاقة البطارية، فقد يؤدي ذلك إلى تلف البطارية.</string>
     <string name="pc_timely_charging_title">قم بشحن جهازك</string>
     <string name="pc_to_phone_install">تم حظر تنصيب %s عبر الـUSB</string>
@@ -4295,7 +4345,7 @@ to join our egg hunt!"</string>
     <string name="required_permissions">أذونات إلزامية</string>
     <string name="required_permissions_desc">تحتاج هذه الأذونات لتوفير الميزات والخدمات الأساسية لهذا التطبيق.</string>
     <string name="reset_data_dialog_message">هذا الجهاز غير مرتبط بحساب Mi الخاص بك. لا يمكن إعادة تعيين كلمة المرور أو إعادة تعيينها. انسخ جميع العناصر المهمة احتياطيًا وأعد ضبط إعدادات المصنع. سيتم مسح جميع البيانات بشكل دائم وسيتم تهيئة بطاقة SD أثناء إعادة إعدادات المصنع.</string>
-    <string name="reset_data_dialog_ok">إعادة ضبط المصنع</string>
+    <string name="reset_data_dialog_ok">إعادة ضبط إعدادات المصنع</string>
     <string name="reset_data_title">لا يمكن إستعادة كلمة المرور</string>
     <string name="result_autoscan_header">مراقبة الدفع</string>
     <string name="result_autoscan_info">مراقبة بيئة النظام تلقائيا عندما يتم تشغيل تطبيقات الدفع</string>
@@ -4375,6 +4425,13 @@ to join our egg hunt!"</string>
     <string name="sd_mount">تحميل بطاقة SD</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">تطبيق</string>
+    <string name="search_keyword_applybar">Dock التطبيقات</string>
+    <string name="search_keyword_call">مكالمة</string>
+    <string name="search_keyword_sidebar">شريط جانبي</string>
+    <string name="search_keyword_tool">الأدوات</string>
+    <string name="search_keyword_tools">صندوق أدوات</string>
+    <string name="search_keyword_voice">صوت</string>
     <string name="search_menu_title">البحث</string>
     <string name="search_result_text">تعذر العثور على أية تطبيقات</string>
     <string name="section_clear_acc_item_title">%s. إذا مازال هناك مساحة غير كافية، حاول استخدام المنظف.</string>
@@ -5166,6 +5223,7 @@ to join our egg hunt!"</string>
     <string name="title_cloud_space_almost_full">سعة تخزين Cloud ممتلئة تقريبا، ربما لن يتم مزامنة العناصر</string>
     <string name="title_cloud_space_full">Cloud ممتلئ</string>
     <string name="title_cmcc_app_check">لم تكتمل عملية التحقق</string>
+    <string name="title_condition_meeting">اجتماع</string>
     <string name="title_consume_power_rank">استخدام تطبيق الطاقة</string>
     <string name="title_dark_mode">لا يتم عرض بعض العناصر بشكل صحيح</string>
     <string name="title_data_flow">التحكم في بيانات الهاتف</string>
@@ -5226,6 +5284,8 @@ to join our egg hunt!"</string>
     <string name="toast_cleaner_cloudscan">سيستخدم المنظف تعريفات عبر الإنترنت</string>
     <string name="toast_dark_mode_fixed">تم الإصلاح بنجاح. مغادرة الصفحة لتعيين التغييرات.</string>
     <string name="toast_flow_notification">تم إيقاف تشغيل إخطارات استخدام البيانات</string>
+    <string name="toast_gamembox_unenable_pad">قم بتشغيل مسرع الألعاب في تطبيق الحماية أولاً</string>
+    <string name="toast_gamembox_unenable_phone">قم بتشغيل مسرع الألعاب في تطبيق الحماية أولاً</string>
     <string name="toast_garbage_lib">تم تشغيل التحديثات التلقائية للمنظف</string>
     <string name="toast_keyword_blank">يجب إدخال كلمة مفتاحية</string>
     <string name="toast_keyword_exist">تمت اضافة كلمة مفتاحية</string>

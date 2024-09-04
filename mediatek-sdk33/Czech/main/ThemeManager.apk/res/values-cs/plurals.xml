@@ -220,6 +220,12 @@ Mince nejsou vratné."</item>
         <item quantity="few">%d výtvory</item>
         <item quantity="many">%d výtvoru</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">Váš požadavek se zpracuje zhruba za %1$d sekund.</item>
+        <item quantity="one">Váš požadavek se zpracuje zhruba za %1$d sekundu.</item>
+        <item quantity="few">Váš požadavek se zpracuje zhruba za %1$d sekundy.</item>
+        <item quantity="many">Váš požadavek se zpracuje zhruba za %1$d sekund.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"%d objednávek bylo úspěšně vráceno. "</item>
         <item quantity="one">"%d objednávka byla úspěšně vrácena. "</item>

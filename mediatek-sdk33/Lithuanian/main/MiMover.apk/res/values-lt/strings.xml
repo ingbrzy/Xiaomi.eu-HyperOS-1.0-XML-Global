@@ -77,6 +77,7 @@
     <string name="cancel">Atšaukti</string>
     <string name="cancel_moving_dialog_message">Sustabdyti importavimą dabar?</string>
     <string name="cancel_moving_dialog_title">Sustabdyti importavimą</string>
+    <string name="cancel_tranfer">Atcelt</string>
     <string name="cannot_use_mi_huanji_button">Supratau</string>
     <string name="cannot_use_mi_huanji_summary">Atrodo, „MIUI“ šiuo metu kuria elementų atsargines kopijas. Norėdami pradėti „Mi Mover“ perkėlimą, sustabdykite vykstantį kopijavimą arba paleiskite įrenginį iš naujo.</string>
     <string name="cannot_use_mi_huanji_title">Šiuo metu perkėlimas negalimas</string>
@@ -269,6 +270,7 @@ Atidarykite „WeChat“ ir eikite į „Me“ > „Settings“ > „General“ 
     <string name="guest_unfinished_task_alert_message">Atrodo, kad liko neužbaigtų perkėlimo užduočių. Tęsti perkėlimą?</string>
     <string name="guest_unfinished_task_alert_title">Neužbaigtos užduotys</string>
     <string name="hide_password_description">Slėpti slaptažodį</string>
+    <string name="high_temp_summary">Siunčiant didelį duomenų kiekį, įrenginys gali įkaisti. Tai normalu ir jūsų įrenginys atvės iš karto, kai tik baigsis duomenų perdavimas.</string>
     <string name="host_boot_installation_bottom_tips">Nepavyksta rasti „Mi Mover“? Bakstelėkite, norėdami atsisiųsti.</string>
     <string name="host_boot_installation_button">Toliau</string>
     <string name="host_boot_installation_dialog_message">Jūsų senojo įrenginio „Mi Mover“ versija nesuderinama su ta, kuri įdiegta čia. Atnaujinkite „Mi Mover“ senajame įrenginyje.</string>
@@ -617,7 +619,7 @@ Prisijunkite prie savo „Xiaomi“ paskyros, kad juos atkurtumėte."</string>
     <string name="revoke">Atšaukti sutikimą</string>
     <string name="revoke_agree">Sutikimo atšaukimas</string>
     <string name="revoke_confirm_dialog_cancel">Atšaukti</string>
-    <string name="revoke_confirm_dialog_content">Išjungdami jungiklį, jūs atsisakote „Mi Mover“ privatumo politikos įgaliojimų. Jūsų asmeninė informacija nebus renkama. Surinkta ir išsaugota asmeninė informacija bus ištrinta per konkretų laikotarpį, kaip to reikalaujama pagal taikytiną teisę. „Mi Mover“ perdavimo proceso optimizavimui reikalinga būtinoji jūsų asmeninė informacija. Privatumo politikos įgaliojimo atšaukimas bus laikomas atsisakymu sutikti su paslaugos teikimo sąlygomis dėl asmeninės informacijos rinkimo.</string>
+    <string name="revoke_confirm_dialog_content">Išjungdami jungiklį, jūs atsisakote „Mi Mover“ privatumo politikos įgaliojimų. Jūsų asmeninė informacija nebus renkama. Surinkta ir išsaugota asmeninė informacija bus ištrinta per konkretų laikotarpį, kaip to reikalaujama pagal įstatymus. „Mi Mover“ perdavimo proceso optimizavimui reikalinga būtinoji jūsų asmeninė informacija. Privatumo politikos įgaliojimo atšaukimas bus laikomas atsisakymu sutikti su paslaugos teikimo sąlygomis dėl asmeninės informacijos rinkimo.</string>
     <string name="revoke_confirm_dialog_statement">Jei tęsite, tai reikš, kad atšaukiate sutikimą su „Mi Mover“ privatumo politika. Surinkta ir išsaugota asmeninė informacija bus ištrinta per tam tikrą laikotarpį pagal galiojančius įstatymus ir teisės aktus, nebent numatyta kitaip. Kadangi „Mi Mover“ teikia paslaugas remiantis būtinos asmeninės informacijos rinkimu, jūsų sutikimo atšaukimas bus laikomas atsisakymu priimti „Mi Mover“ paslaugas.</string>
     <string name="revoke_confirm_dialog_yes">Gerai</string>
     <string name="revoke_desc">Išjungdami jungiklį, jūs atšaukiate savo „Mi Mover“ privatumo politikos įgaliojimą.</string>

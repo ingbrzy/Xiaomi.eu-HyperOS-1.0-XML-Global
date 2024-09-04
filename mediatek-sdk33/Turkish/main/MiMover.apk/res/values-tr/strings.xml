@@ -77,6 +77,7 @@
     <string name="cancel">İptal</string>
     <string name="cancel_moving_dialog_message">İçe aktarım durdurulsun mu?</string>
     <string name="cancel_moving_dialog_title">İçe aktarımı durdur</string>
+    <string name="cancel_tranfer">İptal</string>
     <string name="cannot_use_mi_huanji_button">Anladım</string>
     <string name="cannot_use_mi_huanji_summary">"MIUI şu an ögeleri yedekliyor gibi görünüyor. Mi Taşıyıcı'nın aktarımı başlatmasına izin vermek için devam eden yedeklemeleri durdurun ya da cihazı tekrar başlatın."</string>
     <string name="cannot_use_mi_huanji_title">Aktarılamıyor</string>
@@ -269,6 +270,7 @@ WeChat'i açın ve Ben > Ayarlar > Genel > Yedekle &amp; sohbetleri taşı menü
     <string name="guest_unfinished_task_alert_message">Görünüşe göre bitmemiş aktarım görevleriniz mevcut. Aktarıma devam edilsin mi?</string>
     <string name="guest_unfinished_task_alert_title">Bitmemiş görevler</string>
     <string name="hide_password_description">Şifreyi gizle</string>
+    <string name="high_temp_summary">Büyük miktarlarda veri aktarırken cihazınız ısınabilir. Bu normaldir ve aktarma işlemi tamamlandıktan sonra cihazınız soğuyacaktır.</string>
     <string name="host_boot_installation_bottom_tips">"Mi Taşıyıcı'yı bulamıyor musunuz? İndirmek için dokunun."</string>
     <string name="host_boot_installation_button">Sonraki</string>
     <string name="host_boot_installation_dialog_message">"Eski cihazınızdaki Mi Taşıyıcı sürümü buraya yüklenilen ile uyumlu değil. Eski cihazınızdaki Mi Taşıyıcı'yı güncelleyin."</string>

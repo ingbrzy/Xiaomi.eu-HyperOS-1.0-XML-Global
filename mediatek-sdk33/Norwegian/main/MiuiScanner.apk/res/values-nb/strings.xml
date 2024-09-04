@@ -76,7 +76,7 @@
     <string name="copy_web_url">Kopier URL</string>
     <string name="crop_cancel_description">Avbryt</string>
     <string name="crop_done_description">Ferdig</string>
-    <string name="cta_purpose">Skanner må bruke kameraet ditt og behandle bildene du tar mens du bruker appen. Ikke bruk skanneren til å ta bilder av objektene som inneholder personopplysninger om deg. Ved å trykke på \"Godta\" samtykker du vil personvernerklæringen vår og tillater at Skanner kobles til internett.</string>
+    <string name="cta_purpose">Skanner må bruke kameraet ditt og behandle bildene du tar mens du bruker appen. Ikke bruk skanneren til å ta bilder av objektene som inneholder personopplysninger om deg. Ved å trykke på \"Godta\" samtykker du til personvernerklæringen vår og tillater at Skanner kobles til internett.</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -182,7 +182,7 @@
     <string name="friday_shortest">Fre</string>
     <string name="got_it">Skjønner</string>
     <string name="import_contact">Importer kontakt</string>
-    <string name="impunity_declaration_content">Skanner må bruke kameraet ditt og behandle bildene du tar mens du bruker appen. Ikke bruk Skanner til å ta bilder av ting som inneholder personlige opplysninger om deg. Ved å trykke på «Godta», samtykker du i &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">personvernerklæringen&lt;/a>&lt;/font> vår og tillater at Skanner kobler til internett.</string>
+    <string name="impunity_declaration_content">Skanner må bruke kameraet ditt og behandle bildene du tar mens du bruker appen. Ikke bruk skanneren til å ta bilder av objektene som inneholder personopplysninger om deg. Ved å trykke på \"Godta\" samtykker du til &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">personvernerklæringen&lt;/a>&lt;/font> vår og tillater at Skanner kobles til internett.</string>
     <string name="impunity_declaration_negative_text">Avslutt</string>
     <string name="jingdong">JD</string>
     <string name="kuaidi100_data">Drevet av Kuaidi 100</string>

@@ -590,6 +590,7 @@ Nu veți pierde niciun fel de date despre aplicații."</string>
     <string name="apps_list_header_title_sms_access">Restricționează accesul la codurile de verificare</string>
     <string name="ask_create_shortcut">Creați o comandă rapidă pe Ecranul principal?</string>
     <string name="audio_optimization_summary">Îmbunătățiți sunetul și reduceți zgomotul ambiental în conversație</string>
+    <string name="audio_optimization_summary_new">Optimizați calitatea sunetului căștilor în timpul jocului și reduceți zgomotul în timpul apelurilor</string>
     <string name="audio_optimization_title">Audio îmbunătățit</string>
     <string name="auto_atsk_condition_battery_level_text_down">Atunci când bateria ajunge la %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Atunci când bateria este încărcată la %s</string>
@@ -1130,6 +1131,7 @@ După aceasta, vom înceta colectarea și informațiile dvs. personale și vom �
     <string name="continue_set">Continuă</string>
     <string name="convenient_mode">Deblochează toate aplicațiile dintr-o dată</string>
     <string name="convenient_summary">Introduceți o parolă o dată pentru a debloca toate aplicațiile</string>
+    <string name="conversation_phone_title">Instrumente pentru apeluri</string>
     <string name="conversation_settings_top">"·Deplasați bara de instrumente Conferință în timpul apelurilor audio și video pe ecran complet pentru a accesa funcțiile acesteia.
 ·Tipul și numărul de funcții depind de modelul dispozitivului."</string>
     <string name="conversation_sider_tips">Utilizați noile Instrumente de conferință pentru cea mai bună experiență de apel</string>
@@ -1144,9 +1146,13 @@ După aceasta, vom înceta colectarea și informațiile dvs. personale și vom �
     <string name="create_gamebooster_destop">Comandă rapidă pentru Ecranul principal creată cu succes</string>
     <string name="create_shortcut">Creați o comandă rapidă pe Ecranul principal pentru Joc Turbo</string>
     <string name="cs_color_sense">Culoare temperatură</string>
+    <string name="cs_conversation_record_using">Se înregistrează</string>
     <string name="cs_func_toast_headset">Deconectați-vă căștile pentru a putea folosi această funcție</string>
     <string name="cs_func_toast_light">Comutați la camera frontală pentru a putea folosi această funcție</string>
     <string name="cs_func_toast_pickup">Comutați la un apel video pentru a putea folosi această funcție</string>
+    <string name="cs_func_unavailable_tips">Utilizați această funcție în timpul apelurilor</string>
+    <string name="cs_light_enhance_physical_options">Culoare temperatură</string>
+    <string name="cs_light_enhance_physical_title">Luminozitate</string>
     <string name="cs_pickup_denoise_desc">Reduceți zgomotul sunetului primit în timp ce utilizați difuzoare sau căști</string>
     <string name="cs_pickup_denoise_title">Reducerea zgomotului</string>
     <string name="cs_pickup_multi_desc">%d preluare audio de grad</string>
@@ -1160,11 +1166,19 @@ După aceasta, vom înceta colectarea și informațiile dvs. personale și vom �
     <string name="cs_pickup_vioce_print_unsupport_tips">Înregistrați amprenta vocală înainte de a selecta \"Participant unic\"</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Deconectați căștile și încercați din nou</string>
     <string name="cs_pickup_voice_print_desc">Captează sunetul de la o singură persoană</string>
+    <string name="cs_privacy_camera_global_settings_title">Confidențialitate la apeluri</string>
     <string name="cs_screen_translation_title">Traducere pe ecran</string>
+    <string name="cs_simultaneous_interpretation_title">Interpretează</string>
     <string name="cs_title_pickup">Reducerea zgomotului</string>
     <string name="cs_title_smart_subtitle">Transcrierea subtitrărilor</string>
     <string name="cs_title_ultraclear">Mod Ultra HD</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Încercați interpretarea simultană și alte instrumente de apel conferință în noua casetă de instrumente Apel</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Încercați o serie de funcții pentru apeluri conferință în noua casetă de instrumente Apel</string>
+    <string name="cs_tool_box_phone_guide_case_1">Încercați interpretarea simultană și alte funcții în noua casetă de instrumente Apel</string>
+    <string name="cs_tool_box_phone_guide_case_2">Încercați o serie de funcții din noua casetă de instrumente Apel</string>
     <string name="cs_voice_print">Înregistrează amprentă vocală</string>
+    <string name="cs_vt_camera_toast_case1">Deschideți camera în aplicația curentă</string>
+    <string name="cs_vt_camera_toast_case2">Nu există dispozitive compatibile în apropiere</string>
     <string name="cta_agree_desc">Pentru a putea folosi serviciile noastre, permiteți acestei aplicații să se conecteze la internet și să acordați permisiunile enumerate mai sus.</string>
     <string name="cta_close_dialog_cancel">Anulează</string>
     <string name="cta_close_dialog_content">Dacă restricționați accesul Securității la internet și la informațiile despre locație, nu veți putea primi avertismente de cutremur, actualizați definițiile virusului și informații despre blocări. Dispozitivul dvs. va deveni mai puțin securizat. Restricționați oricum?</string>
@@ -1845,6 +1859,8 @@ Va fi adăugat la excepții, dar elementele blocate anterior nu vor apărea în 
     <string name="gb_audition_play_instruction">Utilizați căști pentru un efect cât mai bun</string>
     <string name="gb_award_noti_message">Activați actualizările de fundal Game for Peace în Joc Turbo pentru a obține recompense</string>
     <string name="gb_award_noti_title">Recompensele Game for Peace sunt aici!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Nu se poate comuta la Modul Echilibrat în Joc Turbo atunci când Modul final la nivelul întregului sistem este pornit. Puteți modifica setările bateriei în Securitate. &lt;br>&lt;a href=\"#\">Deschide Securitate&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Nu se poate comuta la Modul Echilibrat în Joc Turbo atunci când Modul final la nivelul întregului sistem este pornit.Puteți modifica setările bateriei în Securitate. &lt;br>&lt;a href=\"#\">Deschide Securitate&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">Mare</string>
     <string name="gb_bar_low">Mic</string>
     <string name="gb_bar_mid">Mediu</string>
@@ -2000,6 +2016,8 @@ dar crește și consumul de energie și permite supraîncălzirea dispozitivului
     <string name="gb_predownload_receive_tips">Activați actualizările de fundal pentru a obține recompense</string>
     <string name="gb_predownload_receiving">Se primește…</string>
     <string name="gb_predownload_title">Actualizări de fundal</string>
+    <string name="gb_setting_dock_toast">Funcțiile asistentului camerei frontale sunt disponibile acum în instrumentele de la Apel</string>
+    <string name="gb_setting_dock_toast_2">Funcțiile asistentului camerei frontale sunt disponibile acum în instrumentele de la Apel</string>
     <string name="gb_shortcut_pref_title">Comenzi rapide Ecran principal</string>
     <string name="gb_shoulder_guide_message1">Mută [L] în orice poziție funcțională și utilizați-l prin declanșatorul pop-up.</string>
     <string name="gb_shoulder_guide_message2">Acțiunea [1] este activată prin apăsarea butonului. Acțiunea [2] este activată prin eliberarea butonului.</string>
@@ -2135,9 +2153,21 @@ ale sesiunilor dvs. de joc"</string>
     <string name="gd_dock_shortcut_splitescreen">Ecran împărțit</string>
     <string name="gd_setting_conversation">Instrumente de conferință</string>
     <string name="gd_setting_conversation_desc">Oferă o varietate de funcții pentru utilizare în apelurile audio și video pe ecran complet</string>
+    <string name="gd_setting_dock_activity_title">Instrumente bara laterală</string>
+    <string name="gd_setting_dock_call_summary">Funcții pentru apeluri vocale și video (de exemplu: lumină de umplere)</string>
+    <string name="gd_setting_dock_call_title">Instrumente pentru apeluri</string>
+    <string name="gd_setting_dock_game_summary">Îmbunătățiți afișarea și performanța în timp ce jucați jocuri</string>
+    <string name="gd_setting_dock_game_summary_new">Îmbunătățește afișarea și performanța în timp ce jucați jocuri</string>
+    <string name="gd_setting_dock_summary">Deschideți alte aplicații în ferestre plutitoare în timp ce utilizați o aplicație pe ecran complet</string>
+    <string name="gd_setting_dock_title">Bara laterală</string>
+    <string name="gd_setting_dock_video_summary">Utilizați efecte precum Dolby Atmos în timp ce vizionați videoclipuri</string>
+    <string name="gd_setting_dock_video_summary_new">Folosește instrumente și efecte în timp ce vizionați videoclipuri</string>
+    <string name="gd_setting_group_custom_conversation_apps">Înregistrați amprenta vocală pentru apeluri</string>
     <string name="gd_setting_group_custom_gtb_apps">Jocuri</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Gestionați aplicațiile de jocuri</string>
     <string name="gd_setting_group_custom_settings">Personalizare</string>
     <string name="gd_setting_group_custom_vtb_apps">Aplicații video</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Gestionați aplicațiile video</string>
     <string name="gd_setting_group_title_switch">Scene</string>
     <string name="gd_setting_gtb">Afișează în timp ce jucați jocuri</string>
     <string name="gd_setting_gtb_desc">Funcții speciale pentru jocuri</string>
@@ -2157,11 +2187,17 @@ ale sesiunilor dvs. de joc"</string>
     <string name="get_phone_num_fail">Număr de telefon necunoscut</string>
     <string name="get_sys_info">Se obțin informații…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">Țineți apăsat indicatorul pentru a muta fereastra</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Atingeți o aplicație de pe bara laterală pentru a o deschide într-o fereastră plutitoare.
 · Trageți o aplicație în centrul ecranului pentru a o deschide într-o fereastră plutitoare sau în lateral pentru a utiliza Ecran împărțit.
 · Țineți apăsat butonul indicator pentru a deplasa fereastra."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"Atinge o aplicație de pe bara laterală pentru a o deschide într-o fereastră plutitoare.
+ Trage o aplicație în centrul ecranului pentru a o deschide într-o fereastră plutitoare sau în lateral pentru a utiliza Ecran împărțit.
+ Ține apăsat butonul indicator pentru a deplasa fereastra."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Atingeți o aplicație de pe bara laterală pentru a o deschide într-o fereastră plutitoare.
 · Țineți apăsat indicatorul pentru a muta fereastra."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Glisați pentru a deschide bara laterală și atingeți o aplicație pentru a o deschide într-o fereastră plutitoare.
+Țineți apăsat pe indicator pentru a muta fereastra."</string>
     <string name="global_satisfaction_notification_button">Evaluează</string>
     <string name="global_satisfaction_notification_channel">Sondaj de satisfacție a utilizatorilor</string>
     <string name="global_satisfaction_notification_subhead">Povestește-ne despre experiența ta</string>
@@ -2735,44 +2771,44 @@ Dispozitivul dvs. este mai rapid cu %s acum."</string>
     <string name="monitor_app_add">Adaugă</string>
     <string name="monitor_app_more">Mai multe</string>
     <string name="monitor_requests_from_pc">Gestionează instalarea aplicațiilor prin USB</string>
-    <string name="month_april">Aprilie</string>
+    <string name="month_april">aprilie</string>
     <string name="month_april_short">Apr</string>
     <string name="month_april_shortest">Apr</string>
-    <string name="month_august">August</string>
+    <string name="month_august">august</string>
     <string name="month_august_short">Aug</string>
     <string name="month_august_shortest">Aug</string>
-    <string name="month_december">Decembrie</string>
+    <string name="month_december">decembrie</string>
     <string name="month_december_short">Dec</string>
     <string name="month_december_shortest">Dec</string>
-    <string name="month_february">Februarie</string>
+    <string name="month_february">februarie</string>
     <string name="month_february_short">Feb</string>
     <string name="month_february_shortest">Feb</string>
     <string name="month_fix_remind_warning_text_tips">Avertizează când datele lunare fixe sunt epuizate</string>
-    <string name="month_january">Ianuarie</string>
+    <string name="month_january">ianuarie</string>
     <string name="month_january_short">Ian</string>
     <string name="month_january_shortest">Ian</string>
-    <string name="month_july">Iulie</string>
+    <string name="month_july">iulie</string>
     <string name="month_july_short">Iul</string>
     <string name="month_july_shortest">Iul</string>
-    <string name="month_june">Iunie</string>
+    <string name="month_june">iunie</string>
     <string name="month_june_short">Iun</string>
     <string name="month_june_shortest">Iun</string>
-    <string name="month_march">Martie</string>
+    <string name="month_march">martie</string>
     <string name="month_march_short">Mar</string>
     <string name="month_march_shortest">Mar</string>
-    <string name="month_may">Mai</string>
+    <string name="month_may">mai</string>
     <string name="month_may_short">Mai</string>
     <string name="month_may_shortest">Mai</string>
-    <string name="month_november">Noiembrie</string>
+    <string name="month_november">noiembrie</string>
     <string name="month_november_short">Nov</string>
     <string name="month_november_shortest">Nov</string>
-    <string name="month_october">Octombrie</string>
+    <string name="month_october">octombrie</string>
     <string name="month_october_short">Oct</string>
     <string name="month_october_shortest">Oct</string>
     <string name="month_package_reminder_character">Utilizarea avertismentelor privind utilizarea datelor cu planuri de date nelimitate necesită încă setarea unei limite de date. Veți primi avertismentul când această limită este atinsă.</string>
     <string name="month_reminder_warning">Limita lunară de date</string>
     <string name="month_reminder_warning_necessary">Limită lunară de date (obligatoriu)</string>
-    <string name="month_september">Septembrie</string>
+    <string name="month_september">septembrie</string>
     <string name="month_september_short">Sep</string>
     <string name="month_september_shortest">Sep</string>
     <string name="more">Mai mult</string>
@@ -3180,6 +3216,7 @@ Citiți intrucțiunile care însoțesc routerul și restaurați routerul la set�
     <string name="pc_battery_history_total_consumption_title">Consumul total de energie</string>
     <string name="pc_battery_history_usetime_title">Activ</string>
     <string name="pc_battery_low_health_reminder">Este timpul să vă înlocuiți bateria</string>
+    <string name="pc_battery_replacement_service_title">Încercați serviciul nostru de înlocuire a bateriei. %1$s hardware original cu %2$s garanție.</string>
     <string name="pc_berserk_mode_dialog_title">Activați Mod final</string>
     <string name="pc_berserk_mode_noti_summary">Mod final poate crește consumul de energie și poate duce la probleme de supraîncălzire</string>
     <string name="pc_berserk_mode_performance_title">Mod final</string>
@@ -3253,6 +3290,7 @@ Citiți intrucțiunile care însoțesc routerul și restaurați routerul la set�
     <string name="pc_fast_charge_switch_summary_new">Amintiți-vă să creșteți viteza de încărcare atunci când încărcătorul furnizat este conectat și bateria scade sub nivelul setat</string>
     <string name="pc_fast_charge_switch_title">Accelerează viteza de încărcare</string>
     <string name="pc_fast_charge_switch_toast_message">Modificările vor fi aplicate data viitoare când încărcați acest dispozitiv</string>
+    <string name="pc_fast_charge_temp_remider">Activați pentru a regla automat viteza de încărcare. Această funcție funcționează numai cu încărcătoarele furnizate de Xiaomi. Dispozitivul dvs. se poate încălzi în timpul încărcării.</string>
     <string name="pc_fast_charge_title">Accelerează viteza de încărcare</string>
     <string name="pc_going_to_exit_extreme_mode">Se iasă din Modul de hibernare</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Dispozitivul dvs. se încarcă. Modul de hibernare este oprit.</string>
@@ -3341,6 +3379,16 @@ Economizator baterie ultra"</string>
     <string name="pc_search_keywords_capacity">Capacitate baterie</string>
     <string name="pc_search_keywords_property">Performanță</string>
     <string name="pc_settings_title">Baterie</string>
+    <string name="pc_smart_charge_button_summary">Pentru a prelungi durata de viață a bateriei, sistemul va afla cum vă încărcați dispozitivul și cum vă va opri încărcarea atunci când nivelul bateriei atinge %1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Dispozitivul s-a încălzit. Încărcarea va fi oprită când nivelul bateriei atinge %1$s</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Navigarea… Încărcarea va fi oprită când nivelul bateriei atinge %1$s</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">Încărcarea se va opri la %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">Pentru a prelungi durata de viață a bateriei, bateria acestui dispozitiv nu va depăși nivelul actual atunci când este conectat la mașină.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Nu mai afișa din nou</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Protecție baterie</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">Pentru a prelungi durata de viață a bateriei, bateria acestui dispozitiv nu va depăși nivelul actual atunci când este conectat la mașină</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Protecție baterie</string>
+    <string name="pc_smart_charge_title">Încărcare inteligentă</string>
     <string name="pc_smart_discharge_checkbox_summary">Când utilizați funcțiile de navigare, încărcarea se va opri automat la un procent specificat. Economisirea bateriei va fi dezactivată.</string>
     <string name="pc_smart_discharge_checkbox_title">Încărcare deconectare automată</string>
     <string name="pc_smart_discharge_drop_down_title">Setări de deconectare automată</string>
@@ -3353,6 +3401,8 @@ Economizator baterie ultra"</string>
     <string name="pc_statistics_battery_use_title">Utilizarea bateriei</string>
     <string name="pc_suggest_open_fast_charge">Activați %dW încărcare rapidă</string>
     <string name="pc_temperature_too_high">Dispozitiv supraîncălzit</string>
+    <string name="pc_this_time_charge_full">Încărcați complet de data aceasta</string>
+    <string name="pc_this_time_charge_full_work">Aproape complet încărcat</string>
     <string name="pc_timely_charging_summary">Bateria este sub %1$s. Dacă dispozitivul se supraîncălzește în timp ce bateria este descărcată, aceasta poate deteriora bateria.</string>
     <string name="pc_timely_charging_title">Încarcă dispozitivul</string>
     <string name="pc_to_phone_install">Blochează instalarea %s prin USB</string>
@@ -4373,6 +4423,13 @@ Vă retrageți consimțământul acum?"</string>
     <string name="sd_mount">Montare card SD</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">Aplicație</string>
+    <string name="search_keyword_applybar">Aplicație dock</string>
+    <string name="search_keyword_call">Apel</string>
+    <string name="search_keyword_sidebar">Bara laterală</string>
+    <string name="search_keyword_tool">Instrumente</string>
+    <string name="search_keyword_tools">Instrumente</string>
+    <string name="search_keyword_voice">Voce</string>
     <string name="search_menu_title">Căutați</string>
     <string name="search_result_text">Nu s-a putut găsi aplicații</string>
     <string name="section_clear_acc_item_title">%s. Dacă nu există încă suficient spațiu de stocare, încercați să utilizați Cleaner.</string>
@@ -5162,6 +5219,7 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="title_cloud_space_almost_full">Stocarea cloud aproape plină, elementele nu se sincronizează</string>
     <string name="title_cloud_space_full">Cloud este plin</string>
     <string name="title_cmcc_app_check">Verificarea este incompletă</string>
+    <string name="title_condition_meeting">Întâlnire</string>
     <string name="title_consume_power_rank">Consumul de energie a aplicației</string>
     <string name="title_dark_mode">Unele elemente nu sunt afișate corect</string>
     <string name="title_data_flow">Controlează datele mobile</string>
@@ -5222,6 +5280,8 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="toast_cleaner_cloudscan">Cleaner va utiliza definiții online</string>
     <string name="toast_dark_mode_fixed">Corectat cu succes. Părăsiți această pagină pentru a aplica modificările.</string>
     <string name="toast_flow_notification">Sunt conectate notificările de utilizare a traficului</string>
+    <string name="toast_gamembox_unenable_pad">Activați mai întâi Joc Turbo în Securitate</string>
+    <string name="toast_gamembox_unenable_phone">Activați mai întâi Joc Turbo în Securitate</string>
     <string name="toast_garbage_lib">S-au conectat actualizările automate pentru Cleaner</string>
     <string name="toast_keyword_blank">Trebuie să Introduceți un cuvânt cheie</string>
     <string name="toast_keyword_exist">Cuvânt cheie adăugat</string>

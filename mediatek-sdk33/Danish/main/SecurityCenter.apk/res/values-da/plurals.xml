@@ -576,6 +576,10 @@ Du kan få en %d-dags gratis prøveversion nu!"</item>
         <item quantity="other">" min"</item>
         <item quantity="one">" min"</item>
     </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d-dages</item>
+        <item quantity="one">%d-dags</item>
+    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d elementer</item>
         <item quantity="one">%d element</item>

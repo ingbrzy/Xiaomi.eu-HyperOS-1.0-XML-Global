@@ -50,6 +50,7 @@
     <string name="cancel">ביטול</string>
     <string name="cancel_moving_dialog_message">לעצור את הייבוא כעת?</string>
     <string name="cancel_moving_dialog_title">עצירת הייבוא</string>
+    <string name="cancel_tranfer">ביטול</string>
     <string name="cannot_use_mi_huanji_button">הבנתי</string>
     <string name="cannot_use_mi_huanji_summary">נראה ש-MIUI מגבה פריטים עכשיו. כדי לאפשר ל-Mi Mover להתחיל בביצוע ההעברה הפסק גיבויים מתמשכים או הפעל מחדש את המכשיר שלך.</string>
     <string name="cannot_use_mi_huanji_title">לא ניתן להעביר עכשיו</string>
@@ -239,6 +240,7 @@
     <string name="guest_unfinished_task_alert_message">נראה כאילו יש לך משימות העברה שלא הושלמו. האם להשלים את ההעברה?</string>
     <string name="guest_unfinished_task_alert_title">משימות שלא הושלמו</string>
     <string name="hide_password_description">הסתר סיסמה</string>
+    <string name="high_temp_summary">המכשיר עלול להתחמם בזמן של העברת כמויות נתונים גדולות. זה תקין, והמכשיר יתקרר אחרי השלמת ההעברה.</string>
     <string name="host_boot_installation_bottom_tips">לא הצלחת למצוא את Mi Mover? הקש כדי להוריד.</string>
     <string name="host_boot_installation_button">הבא</string>
     <string name="host_boot_installation_dialog_message">גרסת Mi Mover שבמכשיר הישן שלך אינה תואמת לזו שהותקנה כאן. עדכן את Mi Mover במכשיר הישן שלך.</string>

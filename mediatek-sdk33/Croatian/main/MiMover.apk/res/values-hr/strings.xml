@@ -77,6 +77,7 @@
     <string name="cancel">Odustani</string>
     <string name="cancel_moving_dialog_message">Zaustaviti uvoz sada?</string>
     <string name="cancel_moving_dialog_title">Zaustavi uvoz</string>
+    <string name="cancel_tranfer">Otkaži</string>
     <string name="cannot_use_mi_huanji_button">Razumijem</string>
     <string name="cannot_use_mi_huanji_summary">Čini se kako MIUI upravo radi sigurnosne kopije stavki. Prekinite izradi sigurnosnih kopija u toku ili ponovno pokrenite svoj uređaj kako biste dozvolili Mi Selidbi da započne prijenos.</string>
     <string name="cannot_use_mi_huanji_title">Trenutno nije moguće prenjeti</string>
@@ -269,6 +270,7 @@ Otvorite WeChat i odaberite Ja > Postavke > Općenito > Stvori Sig. kopiju i pre
     <string name="guest_unfinished_task_alert_message">Čini se da imate nedovršene zadatke za prijenos. Želite li nastaviti s prijenosom?</string>
     <string name="guest_unfinished_task_alert_title">Nedovršeni zadaci</string>
     <string name="hide_password_description">Sakrij zaporku</string>
+    <string name="high_temp_summary">Vaš bi se uređaj mogao zagrijati tijekom prijenosa velikih količina podataka. To je normalno i vaš uređaj će se ohladiti nakon završetka prijenosa.</string>
     <string name="host_boot_installation_bottom_tips">Ne možete pronaći Mi Selidbu? Dotaknite za preuzimanje.</string>
     <string name="host_boot_installation_button">Sljedeće</string>
     <string name="host_boot_installation_dialog_message">Verzija Mi Selidbe instalirana na Vašem starom uređaju nije kompatibilana s verzijom Mi Selidbe instaliranim ovdje. Ažurirajte Mi Selidbu na svojem starom uređaju.</string>

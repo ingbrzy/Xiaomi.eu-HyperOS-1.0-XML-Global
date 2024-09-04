@@ -106,6 +106,10 @@
     <string name="author_new_theme">新着</string>
     <string name="author_popularity">閲覧数</string>
     <string name="author_unfollow_succeed">正常にフォローを解除しました</string>
+    <string name="automatic_renewal_monthly">%s/月で自動更新</string>
+    <string name="automatic_renewal_weekly">%s/週で自動更新</string>
+    <string name="automatic_renewal_yearly">%s/年で自動更新</string>
+    <string name="automatically_push_content_to_lock_screen">毎日新しいコンテンツがロック画面に表示されます</string>
     <string name="automatically_update_using_theme_tips">次回は自動的にアップデート</string>
     <string name="back_to_default">デフォルトに戻る</string>
     <string name="back_to_none">着信音を設定しない</string>
@@ -122,6 +126,9 @@
     <string name="bottomsheet_action_expand_halfway">下半分を展開</string>
     <string name="browser_local_resource">ローカルリソース</string>
     <string name="can_not_apply">適用できません</string>
+    <string name="canceled_failed">解約できませんでした</string>
+    <string name="canceled_subscription_failed">サブスクリプションを解約できませんでした。もう一度お試しください。</string>
+    <string name="canceled_trial_failed">解約できませんでした。もう一度お試しください。</string>
     <string name="card_data_request_error">エラーが発生しました。数分待ってからもう一度お試しください。</string>
     <string name="card_loading">お待ちください…</string>
     <string name="card_no_network">ネットワークに接続できませんでした。ネットワーク設定を確認して、もう一度お試しください。</string>
@@ -175,6 +182,7 @@
     <string name="current_using_desktop_wallpaper_text">ホーム画面</string>
     <string name="current_using_lockscreen_wallpaper_text">ロック画面</string>
     <string name="current_version_incompatible">互換性がありません</string>
+    <string name="custom_wallpaper_for_you">あなたのためのパーソナライズされた壁紙</string>
     <string name="data_use_desc">法的文書</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +192,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">適用</string>
     <string name="de_super_wp_land_position_default_des">表示方法を選択</string>
     <string name="deleting">削除中…</string>
+    <string name="delivers_fresh_content_and_design_daily">毎日フレッシュなデザイン</string>
     <string name="description_author">制作者</string>
     <string name="description_designer">デザイナー</string>
     <string name="description_download">ダウンロード回数</string>
@@ -210,6 +219,7 @@
     <string name="editor_apply_message">"この機能は、デザイナーによるデバッグに使用されます。しばらくすると自動的にデフォルトのテーマに戻ります。現在のテーマのファイルパス: "</string>
     <string name="editor_apply_toast">ルートディレクトリにあるtemp.mtzを手動で選択してください</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">メールアドレスを入力してください</string>
     <string name="eras_ad">西暦</string>
     <string name="eras_bc">紀元前</string>
     <string name="error_icon_content_description">エラー</string>
@@ -384,6 +394,7 @@
     <string name="hide_incompatible_font">互換性のないフォントを非表示</string>
     <string name="hide_incompatible_theme">互換性のないテーマを非表示</string>
     <string name="hide_incompatible_wallpaper">互換性のない壁紙を非表示</string>
+    <string name="hint_email_address">メールアドレスを入力してください</string>
     <string name="home_apply_failured">ホーム画面の壁紙を適用できません</string>
     <string name="home_apply_success">ホーム画面の壁紙が適用されました</string>
     <string name="hot_first">人気順</string>
@@ -417,6 +428,7 @@
     <string name="loading_resource_detail_fail">リソースを読み込めません</string>
     <string name="loading_resource_detail_info">お待ちください…</string>
     <string name="local_photos">ローカルの写真</string>
+    <string name="local_record__email_info">メールアドレスを記憶する</string>
     <string name="local_resouce_creator_name">開発者: %1$s</string>
     <string name="lock_screen_edit">ロック画面を編集</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">このロック画面テンプレートはスーパー壁紙をサポートしていません。適用すると、ロック画面がデフォルトに戻り、ホーム画面とロック画面の壁紙が置き換えられます。今すぐ適用しますか？</string>
@@ -457,6 +469,7 @@
     <string name="message_sim_two">SIM %d メッセージ</string>
     <string name="mi_wallpaper">MIUI 壁紙</string>
     <string name="midnight">真夜中</string>
+    <string name="mine_subscribed_wallpaper">サブスクリプションの壁紙</string>
     <string name="miui_clock_city_name_local">ローカル</string>
     <string name="miui_clock_city_name_second">第2時計</string>
     <string name="miui_lock_screen_date">M月d日 (EEE)</string>
@@ -701,7 +714,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">デバイスをカスタマイズする</string>
     <string name="present_official_themes">ピックアップ</string>
     <string name="present_online_themes">オンラインテーマをもっと入手する</string>
+    <string name="price_for_automatic_renewal">%1$s で自動更新</string>
     <string name="privacy_desc">プライバシーポリシー（必須）</string>
+    <string name="privacy_simple_content">パーソナライズされたおすすめをオンにすると、あなたの興味に合わせたコンテンツや製品を表示します。</string>
+    <string name="privacy_simple_hint">設定はいつでも変更できます。</string>
+    <string name="privacy_simple_title">パーソナライズされたおすすめ</string>
     <string name="promotion_ad">プロモーション</string>
     <string name="provision_default_theme_title">デフォルト</string>
     <string name="provision_download_cancel">ダウンロードをキャンセルしました</string>
@@ -747,6 +764,9 @@ mm"</string>
     <string name="related_theme">テーマ</string>
     <string name="related_wallpaper">壁紙</string>
     <string name="reload">再試行</string>
+    <string name="renewal_of_a_contract_monthly">%s/月で更新</string>
+    <string name="renewal_of_a_contract_weekly">%s/週で更新</string>
+    <string name="renewal_of_a_contract_yearly">%s/年で更新</string>
     <string name="res_migrate_tip">テーマをAndroidの次期バージョンに対応させるために、ダウンロードしたアイテムを新しい場所に移動させました。アプリを再起動すると変更が適用され、ダウンロードしたコンテンツが表示されます。</string>
     <string name="resource_account_abnormal_state">アカウントエラーです。数分待ってからもう一度お試しください。</string>
     <string name="resource_account_fail_to_add">アカウントを追加できません</string>
@@ -766,6 +786,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">すべての検索履歴を消去しますか？</string>
     <string name="resource_continue">次へ</string>
     <string name="resource_current_using_title">現在のリソース</string>
+    <string name="resource_currently_applied">適用済み</string>
     <string name="resource_data_empty">ここにアイテムはありません。</string>
     <string name="resource_default">デフォルトの着信音</string>
     <string name="resource_default_name">リソース</string>
@@ -964,6 +985,7 @@ mm"</string>
     <string name="select_all">すべて選択</string>
     <string name="selected_resource_file_invalid">選択したリソースファイルを使用できません</string>
     <string name="send">送信</string>
+    <string name="service_expiration_date">%1$s まで有効</string>
     <string name="set_color_ring_back_tone">カスタム呼び出し音を設定</string>
     <string name="settings">設定</string>
     <string name="shortcut_add">追加</string>
@@ -985,6 +1007,9 @@ mm"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">適用</string>
     <string name="storage_file">ダウンロードしたアイテムを保存するため</string>
+    <string name="submission_successfully">正常に送信されました</string>
+    <string name="subscription_service_shutdown_tip">別のサービスを使用しているため、適用していたサブスクリプションの壁紙は表示されなくなりました。サブスクリプションの壁紙は再適用可能です。</string>
+    <string name="successfully_applied_wallpaper_tip">壁紙が正常に適用されました</string>
     <string name="summary_collapsed_preference_list">%1$s、%2$s</string>
     <string name="sunday">日曜日</string>
     <string name="sunday_short">日</string>
@@ -997,11 +1022,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">インストール</string>
     <string name="super_wallpaper_list_footer_text">その他のスーパー壁紙は近日公開予定です</string>
     <string name="super_wallpaper_list_label">スーパー壁紙</string>
+    <string name="super_wallpaper_low_version_tip_push">引き続き使用するには、スーパー壁紙を最新バージョンにアップデートしてください。</string>
+    <string name="super_wallpaper_restore_msg_push">現在のバージョンのスーパー壁紙で互換性の問題が発生し、デフォルトの壁紙に戻りました。スーパー壁紙を使用するには、最新バージョンにアップデートしてください。</string>
     <string name="super_wallpaper_setting_apply_success_toast">正常に適用されました</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">適用</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">オプション</string>
     <string name="super_wallpaper_setting_coordinate_title">座標</string>
     <string name="super_wallpaper_setting_view_height_title">高度</string>
+    <string name="super_wallpaper_upgrade_tip_push">スーパー壁紙をアップデート</string>
     <string name="support_google_dynamic_color_hint">Google Dynamic Colorを使用しています。一部のアプリのカラーパレットは、新しいテーマや壁紙を適用すると変更される場合があります。</string>
     <string name="swipe_find_more">上にスワイプしてもっと見る</string>
     <string name="system_aod_dialog_message">この機能を使用するには、常時オンディスプレイをオンにしてください。</string>
@@ -1009,7 +1037,26 @@ mm"</string>
     <string name="system_aod_dialog_title">常時オンディスプレイ</string>
     <string name="system_phone">通話</string>
     <string name="system_precust">プリインストール</string>
+    <string name="text_billing_info">請求情報</string>
+    <string name="text_cancel_subscription_service">今すぐこのサブスクリプションを解約しますか？</string>
+    <string name="text_content_update">毎日新しいコンテンツ</string>
+    <string name="text_free_trial">無料で試す</string>
+    <string name="text_pay_monthly" formatted="false">%sから始まり、解約されるまで%s/月で自動的に更新されます</string>
+    <string name="text_pay_weekly" formatted="false">%sから始まり、解約されるまで%s/週で自動的に更新されます</string>
+    <string name="text_pay_yearly" formatted="false">%sから始まり、解約されるまで%s/年で自動的に更新されます</string>
     <string name="text_play">プレイ</string>
+    <string name="text_start_time_format">MM/dd</string>
+    <string name="text_status_apply_now">適用</string>
+    <string name="text_status_be_subscribing">登録済み</string>
+    <string name="text_status_cancel_the_trial">トライアルを停止</string>
+    <string name="text_status_on_trial">進行中のトライアル</string>
+    <string name="text_status_subscribe_now">登録</string>
+    <string name="text_status_unsubscribe">登録を解除</string>
+    <string name="text_status_unsubscribed">登録解除済み</string>
+    <string name="text_subscribe">サブスクリプション</string>
+    <string name="text_subscribed">登録済み</string>
+    <string name="text_when_cancel_the_trial_tip">このトライアルをキャンセルすると、この壁紙はデバイスから消去されます。</string>
+    <string name="text_when_unsubscribe_tip">このサブスクリプションをキャンセルすると、この壁紙はデバイスから消去されます。</string>
     <string name="the_anniversary_of_lifting_martial_law">戒厳令解除記念日</string>
     <string name="the_anti_aggression_day">反侵略の日</string>
     <string name="the_arbor_day">植樹節</string>
@@ -1150,6 +1197,8 @@ mm"</string>
     <string name="tip_lockscreen">ロック画面の壁紙と時計を変更する</string>
     <string name="tip_lockscreen2">壁紙カルーセルを使用しています。テーマをカスタマイズすると、ロック画面の壁紙と時計が変更されます。</string>
     <string name="tip_statusbar">コントロールセンターと通知シェードを変更する</string>
+    <string name="tips_subscriptions_close">壁紙のサブスクリプションはオフです</string>
+    <string name="tips_talk_later">今はしない</string>
     <string name="tips_theme_gate_transfer_fail">このページを開くことができませんでした。数分待ってからもう一度お試しください。</string>
     <string name="title_component">カスタマイズ</string>
     <string name="title_home_miwallpaper_home_screen_effects">ホーム画面の効果</string>
@@ -1164,6 +1213,7 @@ mm"</string>
     <string name="today">今日</string>
     <string name="tomorrow">明日</string>
     <string name="top">人気</string>
+    <string name="trial_cancellation_succeeded">トライアルが正常にキャンセルされました</string>
     <string name="try_fresh_functions_and_contents">新しい機能とコンテンツをチェックしてください</string>
     <string name="try_it">チェックする</string>
     <string name="try_tap">タップしてプレビュー</string>
@@ -1175,6 +1225,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">了解</string>
     <string name="uid_change_dialog_title">デバイスを再起動してください</string>
     <string name="unknown_error">エラーが発生しました</string>
+    <string name="unsubscribe_successfully">正常に登録解除されました</string>
     <string name="unsupport_tip">このファイル形式はサポートされていません。別のファイルを選択してください。</string>
     <string name="up_to_the_end">これ以上表示するアイテムはありません</string>
     <string name="update_btn">今すぐアップデート</string>
@@ -1189,6 +1240,7 @@ mm"</string>
     <string name="update_push_content">今すぐアップデート</string>
     <string name="update_push_title">テーマに新しいバージョンがあります</string>
     <string name="update_title">新しいアップデートが利用可能です</string>
+    <string name="updating_the_app_tip">アップデート中…</string>
     <string name="used_wallpaper">以前使用した画像</string>
     <string name="user_agree">同意</string>
     <string name="user_attention_new_theme">%sの新着コンテンツ</string>
@@ -1238,6 +1290,7 @@ mm"</string>
     <string name="wallpaper_group_natural_texture_title">自然のパターン</string>
     <string name="wallpaper_group_sgn_mountain_title">四姑娘山</string>
     <string name="wallpaper_might_like">あなたが気に入りそうな壁紙</string>
+    <string name="wallpaper_restore_defalut_push">デフォルトに戻しました</string>
     <string name="wallpaper_scroll_type_tips">壁紙スクロール</string>
     <string name="wallpaper_set_as_both">両方に設定</string>
     <string name="wallpaper_set_as_desktop">ホーム画面に設定</string>

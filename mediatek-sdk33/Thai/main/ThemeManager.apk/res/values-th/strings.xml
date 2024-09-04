@@ -106,6 +106,10 @@
     <string name="author_new_theme">ใหม่</string>
     <string name="author_popularity">จำนวนการเข้าชม</string>
     <string name="author_unfollow_succeed">เลิกติดตามเรียบร้อย</string>
+    <string name="automatic_renewal_monthly">ต่ออายุอัตโนมัติในราคา %s/เดือน</string>
+    <string name="automatic_renewal_weekly">ต่ออายุอัตโนมัติในราคา %s/สัปดาห์</string>
+    <string name="automatic_renewal_yearly">ต่ออายุอัตโนมัติในราคา %s/ปี</string>
+    <string name="automatically_push_content_to_lock_screen">เนื้อหาใหม่จะปรากฏบนหน้าจอล็อคของคุณในแต่ละวัน</string>
     <string name="automatically_update_using_theme_tips">อัปเดตโดยอัตโนมัติในครั้งถัดไป</string>
     <string name="back_to_default">กลับสู่ค่าเริ่มต้น</string>
     <string name="back_to_none">ไม่ตั้งเสียงเรียกเข้า</string>
@@ -122,6 +126,9 @@
     <string name="bottomsheet_action_expand_halfway">ขยายรายการครึ่งหนึ่ง</string>
     <string name="browser_local_resource">แหล่งข้อมูลในเครื่อง</string>
     <string name="can_not_apply">ไม่สามารถใช้งานได้</string>
+    <string name="canceled_failed">ไม่สามารถยกเลิกได้</string>
+    <string name="canceled_subscription_failed">ไม่สามารถยกเลิกการสมัครได้ โปรดลองอีกครั้ง</string>
+    <string name="canceled_trial_failed">ไม่สามารถยกเลิกได้ โปรดลองอีกครั้ง</string>
     <string name="card_data_request_error">เกิดข้อผิดพลาด รอประมาณ1-2นาทีแล้วลองอีกครั้ง</string>
     <string name="card_loading">รอสักครู่…</string>
     <string name="card_no_network">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง</string>
@@ -175,6 +182,7 @@
     <string name="current_using_desktop_wallpaper_text">หน้าจอหลัก</string>
     <string name="current_using_lockscreen_wallpaper_text">หน้าจอล็อก</string>
     <string name="current_version_incompatible">ไม่เข้ากัน</string>
+    <string name="custom_wallpaper_for_you">ภาพพื้นหลังส่วนบุคคลสำหรับคุณ</string>
     <string name="data_use_desc">เอกสารทางกฎหมาย</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +192,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">ใช้งาน</string>
     <string name="de_super_wp_land_position_default_des">เลือกมุมมอง</string>
     <string name="deleting">กำลังลบ…</string>
+    <string name="delivers_fresh_content_and_design_daily">การออกแบบที่สดใหม่ทุกวัน</string>
     <string name="description_author">เจ้าของ</string>
     <string name="description_designer">ผู้ออกแบบ</string>
     <string name="description_download">ดาวน์โหลด</string>
@@ -210,6 +219,7 @@
     <string name="editor_apply_message">"คุณลักษณะนี้ใช้สำหรับการดีบักโดยนักออกแบบ ธีมเริ่มต้นจะถูกกู้คืนโดยอัตโนมัติในอีกสักครู่ เส้นทางไฟล์ของธีมปัจจุบัน: "</string>
     <string name="editor_apply_toast">เลือก temp.mtz ด้วยตนเองในไดเรกทอรีราก</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">ใส่ที่อยู่อีเมล</string>
     <string name="eras_ad">หลังคริสตกาล</string>
     <string name="eras_bc">ก่อนคริสตกาล</string>
     <string name="error_icon_content_description">ข้อผิดพลาด</string>
@@ -384,6 +394,7 @@
     <string name="hide_incompatible_font">ซ่อนฟอนต์ที่เข้ากันไม่ได้</string>
     <string name="hide_incompatible_theme">ซ่อนธีมที่เข้ากันไม่ได้</string>
     <string name="hide_incompatible_wallpaper">ซ่อนภาพพื้นหลังที่เข้ากันไม่ได้</string>
+    <string name="hint_email_address">ใส่ที่อยู่อีเมล</string>
     <string name="home_apply_failured">ไม่สามารถเรียกใช้งานภาพพื้นหลังหน้าจอหลักได้</string>
     <string name="home_apply_success">ใช้งานภาพพื้นหลังหน้าจอหลักแล้ว</string>
     <string name="hot_first">ยอดนิยมก่อน</string>
@@ -420,6 +431,7 @@
     <string name="loading_resource_detail_fail">ไม่สามารถโหลดข้อมูล</string>
     <string name="loading_resource_detail_info">รอสักครู่…</string>
     <string name="local_photos">รูปภาพในเครื่อง</string>
+    <string name="local_record__email_info">จำที่อยู่อีเมลของฉัน</string>
     <string name="local_resouce_creator_name">นักพัฒนา: %1$s</string>
     <string name="lock_screen_edit">แก้ไขหน้าจอล็อค</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">เทมเพลตหน้าจอล็อกนี้ไม่รองรับสุดยอดภาพพื้นหลังเมื่อใช้แล้ว หน้าจอล็อคของคุณจะเปลี่ยนกลับเป็นค่าเริ่มต้น และภาพพื้นหลังหน้าจอหลักและหน้าจอล็อคของคุณจะถูกแทนที่ ใช้งานเลย?</string>
@@ -460,6 +472,7 @@
     <string name="message_sim_two">ซิม %d ข้อความ</string>
     <string name="mi_wallpaper">ภาพพื้นหลัง MIUI</string>
     <string name="midnight">กลางคืน</string>
+    <string name="mine_subscribed_wallpaper">ภาพพื้นหลังที่สมัครเป็นสมาชิก</string>
     <string name="miui_clock_city_name_local">ในเครื่อง</string>
     <string name="miui_clock_city_name_second">นาฬิกาสำรอง</string>
     <string name="miui_lock_screen_date">EEE dd MMM</string>
@@ -704,7 +717,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">ปรับแต่งอุปกรณ์ของคุณ</string>
     <string name="present_official_themes">เลือกเรา</string>
     <string name="present_online_themes">รับธีมออนไลน์เพิ่มเติม</string>
+    <string name="price_for_automatic_renewal">ต่ออายุอัตโนมัติสำหรับ %1$s</string>
     <string name="privacy_desc">นโยบายความเป็นส่วนตัว (บังคับ)</string>
+    <string name="privacy_simple_content">เปิดคำแนะนำส่วนบุคคลเพื่อรับเนื้อหาและผลิตภัณฑ์ที่เหมาะกับความสนใจของคุณ</string>
+    <string name="privacy_simple_hint">คุณสามารถเปลี่ยนการตั้งค่าของคุณได้ตลอดเวลาในการตั้งค่า</string>
+    <string name="privacy_simple_title">การแนะนำส่วนบุคคล</string>
     <string name="promotion_ad">โปรโมชั่น</string>
     <string name="provision_default_theme_title">ค่าเริ่มต้น</string>
     <string name="provision_download_cancel">ยกเลิกการดาวน์โหลด</string>
@@ -750,6 +767,9 @@ mm"</string>
     <string name="related_theme">ธีม</string>
     <string name="related_wallpaper">ภาพพื้นหลัง</string>
     <string name="reload">ลองอีกครั้ง</string>
+    <string name="renewal_of_a_contract_monthly">ต่ออายุในราคา %s/เดือน</string>
+    <string name="renewal_of_a_contract_weekly">ต่ออายุในราคา %s/สัปดาห์</string>
+    <string name="renewal_of_a_contract_yearly">ต่ออายุในราคา %s/ปี</string>
     <string name="res_migrate_tip">เพื่อให้ ธีม เข้ากันได้กับ Android เวอร์ชันที่จะมาถึง เราได้ย้ายรายการที่ดาวน์โหลดของคุณไปยังตำแหน่งใหม่ รีสตาร์ทแอปเพื่อใช้การเปลี่ยนแปลงและดูเนื้อหาที่คุณดาวน์โหลด</string>
     <string name="resource_account_abnormal_state">บัญชีผิดพลาด รอประมาณ 1-2 นาทีแล้วลองอีกครั้งอีกครั้ง</string>
     <string name="resource_account_fail_to_add">ไม่สามารถเพิ่มบัญชีได้</string>
@@ -769,6 +789,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">ล้างประวัติการค้นหาทั้งหมด?</string>
     <string name="resource_continue">ถัดไป</string>
     <string name="resource_current_using_title">ทรัพยากรที่ใช้ปัจจุบัน</string>
+    <string name="resource_currently_applied">ใช้งานแล้ว</string>
     <string name="resource_data_empty">ไม่มีรายการ</string>
     <string name="resource_default">เสียงเรียกเข้าเริ่มต้น</string>
     <string name="resource_default_name">แหล่งข้อมูล</string>
@@ -967,6 +988,7 @@ mm"</string>
     <string name="select_all">เลือกทั้งหมด</string>
     <string name="selected_resource_file_invalid">ไม่สามารถใช้งานไฟล์ที่เลือกได้</string>
     <string name="send">ส่ง</string>
+    <string name="service_expiration_date">ใช้ได้จนถึง %1$s</string>
     <string name="set_color_ring_back_tone">ตั้งค่าเสียงเรียกเข้าแบบสีด้วยตัวเอง</string>
     <string name="settings">การตั้งค่า</string>
     <string name="shortcut_add">เพิ่ม</string>
@@ -988,6 +1010,9 @@ mm"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">นำไปใช้</string>
     <string name="storage_file">สำหรับบันทึกรายการที่ดาวน์โหลด</string>
+    <string name="submission_successfully">ส่งเรียบร้อยแล้ว</string>
+    <string name="subscription_service_shutdown_tip">ภาพพื้นหลังที่สมัครรับข้อมูลจะไม่แสดงอีกต่อไปเนื่องจากคุณกำลังใช้บริการอื่น คุณสามารถใช้วอลเปเปอร์ที่สมัครรับข้อมูลได้อีกครั้ง</string>
+    <string name="successfully_applied_wallpaper_tip">ใช้ภาพพื้นหลังแล้ว</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>
@@ -1000,11 +1025,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">ติดตั้ง</string>
     <string name="super_wallpaper_list_footer_text">สุดยอดภาพพื้นหลังเพิ่มเติมเร็วๆ นี้</string>
     <string name="super_wallpaper_list_label">ภาพพื้นหลังความละเอียดสูง</string>
+    <string name="super_wallpaper_low_version_tip_push">อัปเดตสุดยอดภาพพื้นหลังให้เป็นเวอร์ชั่นล่าสุดเพื่อให้สามารถใช้งานได้ต่อไป</string>
+    <string name="super_wallpaper_restore_msg_push">เวอร์ชั่นปัจจุบันของสุดยอดภาพพื้นหลังพบปัญหาความเข้ากันไม่ได้ ภาพพื้นหลังเริ่มต้นของคุณได้รับการคืนค่าแล้ว โปรดอัปเดตเป็นเวอร์ชั่นล่าสุดเพื่อให้สามารถใช้สุดยอดภาพพื้นหลังได้</string>
     <string name="super_wallpaper_setting_apply_success_toast">ใช้งานเรียบร้อยแล้ว</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">ใช้งาน</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">ตัวเลือก</string>
     <string name="super_wallpaper_setting_coordinate_title">พิกัด</string>
     <string name="super_wallpaper_setting_view_height_title">ความสูง</string>
+    <string name="super_wallpaper_upgrade_tip_push">อัปเดตสุดยอดภาพพื้นหลัง</string>
     <string name="support_google_dynamic_color_hint">คุณกำลังใช้ Google Dynamic Color ชุดสีของบางแอปอาจเปลี่ยนไปเมื่อคุณใช้ธีมและภาพพื้นหลังใหม่</string>
     <string name="swipe_find_more">เลื่อนขึ้นเพื่อดูเพิ่มเติม</string>
     <string name="system_aod_dialog_message">เปิด จอแสดงผลแบบเปิดตลอด เพื่อให้สามารถใช้คุณสมบัตินี้ได้</string>
@@ -1012,7 +1040,26 @@ mm"</string>
     <string name="system_aod_dialog_title">จอแสดงผลแบบเปิดตลอด</string>
     <string name="system_phone">การโทร</string>
     <string name="system_precust">ติตตั้งไว้ก่อนหน้าแล้ว</string>
+    <string name="text_billing_info">ข้อมูลการเรียกเก็บเงิน</string>
+    <string name="text_cancel_subscription_service">ยกเลิกการสมัครสมาชิกนี้ตอนนี้หรือไม่?</string>
+    <string name="text_content_update">เนื้อหาใหม่ทุกวัน</string>
+    <string name="text_free_trial">ลองใช้ฟรี</string>
+    <string name="text_pay_monthly" formatted="false">เริ่มต้นจาก %s จะต่ออายุโดยอัตโนมัติในราคา %s/เดือน จนกว่าจะยกเลิก</string>
+    <string name="text_pay_weekly" formatted="false">เริ่มต้นจาก %s จะต่ออายุโดยอัตโนมัติในราคา %s/สัปดาห์ จนกว่าจะยกเลิก</string>
+    <string name="text_pay_yearly" formatted="false">เริ่มต้นจาก %s จะต่ออายุโดยอัตโนมัติในราคา %s/ปี จนกว่าจะยกเลิก</string>
     <string name="text_play">เล่น</string>
+    <string name="text_start_time_format">dd/MM</string>
+    <string name="text_status_apply_now">นำไปใช้</string>
+    <string name="text_status_be_subscribing">สมัครแล้ว</string>
+    <string name="text_status_cancel_the_trial">หยุดการทดลองใช้</string>
+    <string name="text_status_on_trial">การทดลองที่ดำเนินการอยู่</string>
+    <string name="text_status_subscribe_now">สมัคร</string>
+    <string name="text_status_unsubscribe">ยกเลิกการสมัคร</string>
+    <string name="text_status_unsubscribed">ยกเลิกการสมัครแล้ว</string>
+    <string name="text_subscribe">การสมัครสมาชิก</string>
+    <string name="text_subscribed">สมัครแล้ว</string>
+    <string name="text_when_cancel_the_trial_tip">หากคุณยกเลิกการทดลองใช้นี้ ภาพพื้นหลังนี้จะถูกล้างออกจากอุปกรณ์ของคุณ</string>
+    <string name="text_when_unsubscribe_tip">หากคุณยกเลิกการสมัครรับข้อมูลนี้ ภาพพื้นหลังนี้จะถูกล้างออกจากอุปกรณ์ของคุณ</string>
     <string name="the_anniversary_of_lifting_martial_law">วันฉลองยกเลิกอัยการศึก</string>
     <string name="the_anti_aggression_day">วันต่อต้านการกระทำรุนแรง</string>
     <string name="the_arbor_day">วันอาร์เบอร์</string>
@@ -1153,6 +1200,8 @@ mm"</string>
     <string name="tip_lockscreen">เปลี่ยนภาพพื้นหลังหน้าจอล็อกและนาฬิกา</string>
     <string name="tip_lockscreen2">คุณกำลังใช้ ภาพพื้นหลังรายวัน การปรับแต่งธีมของคุณจะเปลี่ยนวอลเปเปอร์และนาฬิกาของหน้าจอล็อก</string>
     <string name="tip_statusbar">เปลี่ยนศูนย์ควบคุมและแถบการแจ้งเตือน</string>
+    <string name="tips_subscriptions_close">การสมัครสมาชิกภาพพื้นหลังปิดอยู่</string>
+    <string name="tips_talk_later">ไม่ใช่ตอนนี้</string>
     <string name="tips_theme_gate_transfer_fail">ไม่สามารถเปิดเพจนี้ได้ รอประมาณ 1-2 นาทีแล้วลองอีกครั้ง</string>
     <string name="title_component">ปรับแต่งธีม</string>
     <string name="title_home_miwallpaper_home_screen_effects">เอฟเฟคหน้าจอหลัก</string>
@@ -1167,6 +1216,7 @@ mm"</string>
     <string name="today">วันนี้</string>
     <string name="tomorrow">พรุ่งนี้</string>
     <string name="top">ยอดนิยม</string>
+    <string name="trial_cancellation_succeeded">ยกเลิกการทดลองใช้เรียบร้อยแล้ว</string>
     <string name="try_fresh_functions_and_contents">ตรวจสอบคุณสมบัติและเนื้อหาใหม่ของเรา</string>
     <string name="try_it">ลองดูสิ</string>
     <string name="try_tap">แตะเพื่อดูตัวอย่าง</string>
@@ -1178,6 +1228,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">รับทราบ</string>
     <string name="uid_change_dialog_title">รีบูตอุปกรณ์</string>
     <string name="unknown_error">เกิดข้อผิดพลาด</string>
+    <string name="unsubscribe_successfully">ยกเลิกการสมัครเรียบร้อยแล้ว</string>
     <string name="unsupport_tip">รูปแบบไฟล์นี้ไม่รองรับ ลองเลือกไฟล์อื่น</string>
     <string name="up_to_the_end">ไม่มีรายการแสดงเพิ่มเติม</string>
     <string name="update_btn">อัปเดตเดี๋ยวนี้</string>
@@ -1192,6 +1243,7 @@ mm"</string>
     <string name="update_push_content">อัปเดตตอนนี้</string>
     <string name="update_push_title">ธีมของคุณมีเวอร์ชันใหม่ให้ใช้งาน</string>
     <string name="update_title">อัปเดตใหม่พร้อมใช้งาน</string>
+    <string name="updating_the_app_tip">กำลังอัปเดต…</string>
     <string name="used_wallpaper">เคยใช้</string>
     <string name="user_agree">ยอมรับ</string>
     <string name="user_attention_new_theme">เนื้อหาใหม่จาก %s</string>
@@ -1241,6 +1293,7 @@ mm"</string>
     <string name="wallpaper_group_natural_texture_title">รูปแบบธรรมชาติ</string>
     <string name="wallpaper_group_sgn_mountain_title">ภูเขาสี่ดรุณี</string>
     <string name="wallpaper_might_like">ภาพพื้นหลังที่คุณอาจชอบ</string>
+    <string name="wallpaper_restore_defalut_push">กลับสู่ค่าเริ่มต้น</string>
     <string name="wallpaper_scroll_type_tips">การเลื่อนภาพพื้นหลัง</string>
     <string name="wallpaper_set_as_both">ทั้งสองหน้าจอ</string>
     <string name="wallpaper_set_as_desktop">ตั้งเป็นหน้าจอหลัก</string>

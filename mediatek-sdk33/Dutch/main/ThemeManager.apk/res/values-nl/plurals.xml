@@ -146,6 +146,10 @@ Munten kunnen niet worden gerestitueerd"</item>
         <item quantity="other">%d werken</item>
         <item quantity="one">%d werk</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">Uw verzoek wordt binnen ongeveer %1$d seconden verwerkt.</item>
+        <item quantity="one">Uw verzoek wordt over ongeveer %1$d seconde verwerkt.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"%d bestellingen succesvol terugbetaald. "</item>
         <item quantity="one">"%d bestelling succesvol terugbetaald. "</item>

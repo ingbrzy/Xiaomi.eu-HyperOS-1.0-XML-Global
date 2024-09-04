@@ -220,6 +220,12 @@ Mince nie je možné vrátiť."</item>
         <item quantity="few">%d práce</item>
         <item quantity="many">%d práce</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">Vaša požiadavka bude spracovaná približne za %1$d sekúnd.</item>
+        <item quantity="one">Vaša požiadavka bude spracovaná približne za %1$d sekundu.</item>
+        <item quantity="few">Vaša požiadavka bude spracovaná približne za %1$d sekundy.</item>
+        <item quantity="many">Vaša požiadavka bude spracovaná približne za %1$d sekundy.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"%d objednávok úspešne preplatených. "</item>
         <item quantity="one">"%d objednávka úspešne preplatená. "</item>

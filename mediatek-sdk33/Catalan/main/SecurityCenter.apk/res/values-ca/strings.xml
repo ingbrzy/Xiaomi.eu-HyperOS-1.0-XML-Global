@@ -590,6 +590,7 @@ No perdreu cap dada de l'aplicació."</string>
     <string name="apps_list_header_title_sms_access">"Restringeix l'accés als codis de verificació"</string>
     <string name="ask_create_shortcut">"Voleu crear una drecera a la Pantalla d'inici?"</string>
     <string name="audio_optimization_summary">"Millora l'àudio i redueix el soroll ambiental a les converses"</string>
+    <string name="audio_optimization_summary_new">Optimitzeu la qualitat del so dels auriculars mentre jugueu i reduïu el soroll durant les trucades</string>
     <string name="audio_optimization_title">Àudio millorat</string>
     <string name="auto_atsk_condition_battery_level_text_down">Quan la bateria arriba a %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Quan es carrega la bateria a %s</string>
@@ -1130,6 +1131,7 @@ No obstant això, algunes de les vostres transaccions encara no s'han completat.
     <string name="continue_set">Continua</string>
     <string name="convenient_mode">Desbloqueja totes les aplicacions alhora</string>
     <string name="convenient_summary">Introduïu la contrasenya una vegada per desbloquejar totes les aplicacions</string>
+    <string name="conversation_phone_title">"Caixa d'eines de trucades"</string>
     <string name="conversation_settings_top">"·Fes lliscar la barra d'eines de Conferència durant les trucades d'àudio i vídeo a pantalla completa per accedir a les seves funcions.
 ·El tipus i el nombre de funcions depèn del model del dispositiu."</string>
     <string name="conversation_sider_tips">Utilitzeu les noves eines de conferència per obtenir la millor experiència de trucada</string>
@@ -1144,9 +1146,13 @@ No obstant això, algunes de les vostres transaccions encara no s'han completat.
     <string name="create_gamebooster_destop">"S'ha creat una drecera a la Pantalla d'inici amb èxit"</string>
     <string name="create_shortcut">"Crea una drecera a la Pantalla d'inici per l'Accelerador de Jocs"</string>
     <string name="cs_color_sense">Temperatura del color</string>
+    <string name="cs_conversation_record_using">"S'està enregistrant"</string>
     <string name="cs_func_toast_headset">Desconnecteu els auriculars per poder utilitzar aquesta funció</string>
     <string name="cs_func_toast_light">Canvia a la càmera frontal per poder utilitzar aquesta funció</string>
     <string name="cs_func_toast_pickup">Canvia a una videotrucada per poder utilitzar aquesta funció</string>
+    <string name="cs_func_unavailable_tips">Utilitza aquesta funció durant les trucades</string>
+    <string name="cs_light_enhance_physical_options">Temperatura del color</string>
+    <string name="cs_light_enhance_physical_title">Brillantor</string>
     <string name="cs_pickup_denoise_desc">"Reduïu el soroll de l'àudio entrant mentre feu servir altaveus o auriculars"</string>
     <string name="cs_pickup_denoise_title">Reducció de soroll</string>
     <string name="cs_pickup_multi_desc">"%d grau de captació d'àudio"</string>
@@ -1160,11 +1166,19 @@ No obstant això, algunes de les vostres transaccions encara no s'han completat.
     <string name="cs_pickup_vioce_print_unsupport_tips">"Grava l'empremta de veu abans de seleccionar \"Participant únic\""</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Desconnecteu els dispositius externs i torneu-ho a provar</string>
     <string name="cs_pickup_voice_print_desc">"Capta el so només d'una persona"</string>
+    <string name="cs_privacy_camera_global_settings_title">Privacitat de les trucades</string>
     <string name="cs_screen_translation_title">Traducció de pantalla</string>
+    <string name="cs_simultaneous_interpretation_title">Interpreta</string>
     <string name="cs_title_pickup">Reducció de soroll</string>
     <string name="cs_title_smart_subtitle">Transcripció dels subtítols</string>
     <string name="cs_title_ultraclear">Mode Ultra HD</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">"Proveu la interpretació simultània i altres eines de trucada de conferència a la nova caixa d'eines de trucada"</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">"Proveu una sèrie de funcions de trucada de conferència a la nova caixa d'eines de trucada"</string>
+    <string name="cs_tool_box_phone_guide_case_1">"Proveu la interpretació simultània i altres funcions a la nova caixa d'eines de trucades"</string>
+    <string name="cs_tool_box_phone_guide_case_2">"Proveu una sèrie de funcions a la nova caixa d'eines de trucades"</string>
     <string name="cs_voice_print">Enregistreu la empremta de veu</string>
+    <string name="cs_vt_camera_toast_case1">"Obriu la càmera a l'aplicació actual"</string>
+    <string name="cs_vt_camera_toast_case2">No hi ha cap dispositiu compatible a prop</string>
     <string name="cta_agree_desc">Per a poder fer servir els nostres serveis, permet que aquesta aplicació es connecti a internet i dona-li els permisos esmentats amunt.</string>
     <string name="cta_close_dialog_cancel">Cancel·la</string>
     <string name="cta_close_dialog_content">"Si restringeixes l'accès de Seguretat a internet i a la informació de la teva ubicació, no podràs rebre avisos de terratrèmols, ni informació de llista de bloqueig ni actualitzar definicions de virus. El teu dispositiu serà menys segur. Vols restringir-ho de totes maneres?"</string>
@@ -1845,6 +1859,8 @@ S'afegirà a les excepcions, però els elements bloquejats anterioment no aparei
     <string name="gb_audition_play_instruction">Fes servir auriculars per aconseguir un efecte millor</string>
     <string name="gb_award_noti_message">"Activa les actualitzacions de fons de Game for Peace a l'Accelerador de Jocs per obtenir recompenses"</string>
     <string name="gb_award_noti_title">Les recompenses de Game for Peace ja són aquí!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>No es pot canviar al mode equilibrat a Accelerador de Jocs quan el Mode rendiment de tot el sistema està activat. Podeu canviar la configuració de la bateria a Seguretat.&lt;br>&lt;a href=\"#\">Obre Seguretat&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>No es pot canviar al mode equilibrat a Accelerador de Jocs quan el Mode rendiment de tot el sistema està activat. Podeu canviar la configuració de la bateria a Seguretat.&lt;br>&lt;a href=\"#\">Obre Seguretat&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">Alt</string>
     <string name="gb_bar_low">Baix</string>
     <string name="gb_bar_mid">Mitjana</string>
@@ -2000,6 +2016,8 @@ però també augmenta el consum d'energia i permet que el dispositiu es sobreesc
     <string name="gb_predownload_receive_tips">Activa les actualitzacions en segon pla per obtenir recompenses</string>
     <string name="gb_predownload_receiving">"S'està rebent…"</string>
     <string name="gb_predownload_title">Actualitzacions de fons</string>
+    <string name="gb_setting_dock_toast">"Les funcions de l'assistent de la càmera frontal estan disponibles ara a la caixa d'eines de trucada"</string>
+    <string name="gb_setting_dock_toast_2">"Les funcions de l'assistent de la càmera frontal estan disponibles ara a la caixa d'eines de trucada"</string>
     <string name="gb_shortcut_pref_title">"Drecera a la Pantalla d'inici"</string>
     <string name="gb_shoulder_guide_message1">"Mou [L] a qualsevol posició funcional per utilitzar-lo mitjançant l'activador emergent"</string>
     <string name="gb_shoulder_guide_message2">"L'acció [1] s'activa prement el botó. L'acció [2] s'activa deixant anar el botó."</string>
@@ -2135,9 +2153,21 @@ de les teves sessions de joc"</string>
     <string name="gd_dock_shortcut_splitescreen">Pantalla dividida</string>
     <string name="gd_setting_conversation">Eines de conferències</string>
     <string name="gd_setting_conversation_desc">"Proporciona una varietat de funcions per utilitzar-les en trucades d'àudio i vídeo a pantalla completa"</string>
+    <string name="gd_setting_dock_activity_title">"Caixa d'eines lateral"</string>
+    <string name="gd_setting_dock_call_summary">"Funcions per a trucades de veu i videotrucades (p. ex., llum d'ompliment)"</string>
+    <string name="gd_setting_dock_call_title">"Caixa d'eines de trucades"</string>
+    <string name="gd_setting_dock_game_summary">Millora la visualització i el rendiment mentre jugues</string>
+    <string name="gd_setting_dock_game_summary_new">Millora la visualització i el rendiment mentre jugues</string>
+    <string name="gd_setting_dock_summary">Obriu altres aplicacions en finestres flotants mentre feu servir una aplicació a pantalla completa</string>
+    <string name="gd_setting_dock_title">Barra lateral</string>
+    <string name="gd_setting_dock_video_summary">Utilitzeu efectes com Dolby Atmos mentre mireu vídeos</string>
+    <string name="gd_setting_dock_video_summary_new">Utilitzeu eines i efectes mentre mireu vídeos</string>
+    <string name="gd_setting_group_custom_conversation_apps">"Enregistra l'empremta de veu per a les trucades"</string>
     <string name="gd_setting_group_custom_gtb_apps">Jocs</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Gestiona les aplicacions de jocs</string>
     <string name="gd_setting_group_custom_settings">Personalització</string>
     <string name="gd_setting_group_custom_vtb_apps">Aplicacions de vídeo</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Gestiona les aplicacions de vídeo</string>
     <string name="gd_setting_group_title_switch">Escenes</string>
     <string name="gd_setting_gtb">Mostra mentre es juga</string>
     <string name="gd_setting_gtb_desc">Funcions especials per als jocs</string>
@@ -2157,11 +2187,17 @@ de les teves sessions de joc"</string>
     <string name="get_phone_num_fail">Número de telèfon desconegut</string>
     <string name="get_sys_info">Obtenint informació…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">"Premeu prolongadament l'indicador per moure la finestra"</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Toca una aplicació a la barra lateral per obrir-la en una finestra flotant.
 · Arrossega una aplicació al centre de la pantalla per obrir-la en una finestra flotant o cap al costat per utilitzar la pantalla dividida.
 · Premeu prolongadament l'indicador per moure la finestra."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"Toca una aplicació a la barra lateral per obrir-la en una finestra flotant.
+ Arrossega una aplicació al centre de la pantalla per obrir-la en una finestra flotant o cap al costat per utilitzar la pantalla dividida.
+ Premeu prolongadament l'indicador per moure la finestra."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Toca una aplicació a la barra lateral per obrir-la en una finestra flotant.
 · Premeu prolongadament l'indicador per moure la finestra."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Llisqueu el dit per obrir la barra lateral i toca una aplicació per obrir-la en una finestra flotant.
+Premeu prolongadament l'indicador per moure la finestra."</string>
     <string name="global_satisfaction_notification_button">Valora</string>
     <string name="global_satisfaction_notification_channel">Enquesta de satisfacció dels usuaris</string>
     <string name="global_satisfaction_notification_subhead">"Explica'ns la teva experiència"</string>
@@ -3182,6 +3218,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l'encaminador. Si sosp
     <string name="pc_battery_history_total_consumption_title">Consum energètic total</string>
     <string name="pc_battery_history_usetime_title">Actiu</string>
     <string name="pc_battery_low_health_reminder">És hora de substituir la bateria</string>
+    <string name="pc_battery_replacement_service_title">Proveu el nostre servei de substitució de bateries. %1$s maquinari original amb %2$s garantia.</string>
     <string name="pc_berserk_mode_dialog_title">Activa el Mode últim</string>
     <string name="pc_berserk_mode_noti_summary">"El Mode últim pot augmentar el consum d'energia i provocar problemes de sobreescalfament"</string>
     <string name="pc_berserk_mode_performance_title">Mode últim</string>
@@ -3255,6 +3292,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l'encaminador. Si sosp
     <string name="pc_fast_charge_switch_summary_new">Recordeu augmentar la velocitat de càrrega quan el carregador subministrat estigui connectat i la bateria baixi del nivell establert</string>
     <string name="pc_fast_charge_switch_title">Augmenteu la velocitat de càrrega</string>
     <string name="pc_fast_charge_switch_toast_message">"Els canvis s'aplicaran la propera vegada que carregueu aquest dispositiu"</string>
+    <string name="pc_fast_charge_temp_remider">Enceneu per regular la velocitat de càrrega automàticament. Aquesta funció només funciona amb els carregadors subministrats per Xiaomi. El vostre dispositiu pot escalfar-se durant la càrrega.</string>
     <string name="pc_fast_charge_title">Augmenteu la velocitat de càrrega</string>
     <string name="pc_going_to_exit_extreme_mode">"S'està sortint del mode d'hibernació"</string>
     <string name="pc_going_to_exit_extreme_mode_summary">"El teu dispositiu s'està carregant. El mode d'hibernació està desactivat."</string>
@@ -3343,6 +3381,16 @@ l'Estalvi de bateria ultra"</string>
     <string name="pc_search_keywords_capacity">Capacitat de la bateria</string>
     <string name="pc_search_keywords_property">Rendiment</string>
     <string name="pc_settings_title">Bateria</string>
+    <string name="pc_smart_charge_button_summary">Per allargar la vida útil de la bateria, el sistema aprendrà com carregueu el dispositiu i com deixeu de carregar-lo quan el nivell de la bateria arribi a %1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">"El vostre dispositiu s'ha escalfat. La càrrega s'aturarà quan el nivell de la bateria arribi a %1$s"</string>
+    <string name="pc_smart_charge_notify_summary_navagition">"S'està navegant… La càrrega s'aturarà quan el nivell de la bateria arribi a %1$s"</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">"La càrrega s'aturarà a %s"</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">"Per allargar la vida útil de la bateria, la bateria d'aquest dispositiu no superarà el nivell actual mentre estigui connectat al cotxe."</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">No ho tornis a mostrar</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Protecció de la bateria</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">"Per allargar la vida útil de la bateria, la bateria d'aquest dispositiu no superarà el nivell actual mentre estigui connectat al cotxe"</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Protecció de la bateria</string>
+    <string name="pc_smart_charge_title">Càrrega intel·ligent</string>
     <string name="pc_smart_discharge_checkbox_summary">"Quan utilitzeu les funcions de navegació, la càrrega s'aturarà automàticament en un percentatge especificat. L'estalvi de bateria estarà desactivat."</string>
     <string name="pc_smart_discharge_checkbox_title">Desconnexió automàtica de càrrega</string>
     <string name="pc_smart_discharge_drop_down_title">Configuració de desconnexió automàtica</string>
@@ -3355,6 +3403,8 @@ l'Estalvi de bateria ultra"</string>
     <string name="pc_statistics_battery_use_title">Ús de la bateria</string>
     <string name="pc_suggest_open_fast_charge">Activa la càrrega ràpida de %dW</string>
     <string name="pc_temperature_too_high">Dispositiu sobreescalfat</string>
+    <string name="pc_this_time_charge_full">Carregueu completament aquesta vegada</string>
+    <string name="pc_this_time_charge_full_work">Quasi carregada</string>
     <string name="pc_timely_charging_summary">La bateria està per sota de %1$s. Si el dispositiu es sobreescalfa mentre la bateria és baixa, això pot danyar-la.</string>
     <string name="pc_timely_charging_title">Carrega el teu dispositiu</string>
     <string name="pc_to_phone_install">"Instal·lació bloquejada per %s a través d'USB"</string>
@@ -4375,6 +4425,13 @@ Voleu retirar el consentiment ara?"</string>
     <string name="sd_mount">Muntar targeta SD</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">Aplicació</string>
+    <string name="search_keyword_applybar">"Base d'aplicació"</string>
+    <string name="search_keyword_call">Trucada</string>
+    <string name="search_keyword_sidebar">Barra lateral</string>
+    <string name="search_keyword_tool">Eines</string>
+    <string name="search_keyword_tools">"Caixa d'eines"</string>
+    <string name="search_keyword_voice">Veu</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_result_text">"No s'ha trobat cap aplicació"</string>
     <string name="section_clear_acc_item_title">%s. Si encara no hi ha suficient emmagatzematge, intenteu utilitzar el netejador.</string>
@@ -5164,6 +5221,7 @@ La formatació esborrarà tots els continguts de ^2. Per a evitar la pèrdua de 
     <string name="title_cloud_space_almost_full">Emmagatzematge en el núvol gairebé ple, pot ser que no es puguin sincronitzar alguns elements</string>
     <string name="title_cloud_space_full">El Núvol és ple</string>
     <string name="title_cmcc_app_check">La verificació no ha estat completada</string>
+    <string name="title_condition_meeting">Reunió</string>
     <string name="title_consume_power_rank">"Ús d'energia de l'aplicació"</string>
     <string name="title_dark_mode">Alguns elements no es mostren correctament</string>
     <string name="title_data_flow">"Establiu un avís d'ús de dades"</string>
@@ -5224,6 +5282,8 @@ La formatació esborrarà tots els continguts de ^2. Per a evitar la pèrdua de 
     <string name="toast_cleaner_cloudscan">El netejador farà servir definicions en línia</string>
     <string name="toast_dark_mode_fixed">"S'ha corregit correctament. Deixeu aquesta pàgina per aplicar els canvis."</string>
     <string name="toast_flow_notification">"Activades les notificacions d'ús de dades"</string>
+    <string name="toast_gamembox_unenable_pad">Primer activeu Accelerador de Jocs a Seguretat</string>
+    <string name="toast_gamembox_unenable_phone">Primer activeu Accelerador de Jocs a Seguretat</string>
     <string name="toast_garbage_lib">Activades les actualitzacions automàtiques de Netejador</string>
     <string name="toast_keyword_blank">És necessari introduir una paraula clau</string>
     <string name="toast_keyword_exist">"S'ha afegit la paraula clau"</string>

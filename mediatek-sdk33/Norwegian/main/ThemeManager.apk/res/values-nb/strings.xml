@@ -106,6 +106,10 @@
     <string name="author_new_theme">Nye</string>
     <string name="author_popularity">Visninger</string>
     <string name="author_unfollow_succeed">Følges ikke lenger</string>
+    <string name="automatic_renewal_monthly">Fornyes automatisk for %s/måned</string>
+    <string name="automatic_renewal_weekly">Fornyes automatisk for %s/uke</string>
+    <string name="automatic_renewal_yearly">Fornyes automatisk for %s/år</string>
+    <string name="automatically_push_content_to_lock_screen">Nytt innhold vises på låseskjermen hver dag</string>
     <string name="automatically_update_using_theme_tips">Oppdater automatisk neste gang</string>
     <string name="back_to_default">Tilbake til standard</string>
     <string name="back_to_none">Ikke angi ringetone</string>
@@ -122,6 +126,9 @@
     <string name="bottomsheet_action_expand_halfway">Vis halve feltet nederst</string>
     <string name="browser_local_resource">Lokale ressurser</string>
     <string name="can_not_apply">Kan ikke brukes</string>
+    <string name="canceled_failed">Kunne ikke avbryte</string>
+    <string name="canceled_subscription_failed">Kunne ikke avbryte abonnementet. Prøv igjen.</string>
+    <string name="canceled_trial_failed">Kunne ikke avbryte. Prøv igjen.</string>
     <string name="card_data_request_error">En feil oppstod. Vent et minutt eller to og prøv igjen.</string>
     <string name="card_loading">Et øyeblikk…</string>
     <string name="card_no_network">Kunne ikke koble til nettverket. Sjekk nettverkstilkoblingene dine og prøv igjen.</string>
@@ -175,6 +182,7 @@
     <string name="current_using_desktop_wallpaper_text">Startskjerm</string>
     <string name="current_using_lockscreen_wallpaper_text">Lås skjerm</string>
     <string name="current_version_incompatible">Ikke kompatibel</string>
+    <string name="custom_wallpaper_for_you">Tilpassede bakgrunnsbilder for deg</string>
     <string name="data_use_desc">Juridiske dokumenter</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +192,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">Bruk</string>
     <string name="de_super_wp_land_position_default_des">Velg visning</string>
     <string name="deleting">Sletter…</string>
+    <string name="delivers_fresh_content_and_design_daily">Nye design hver dag</string>
     <string name="description_author">Forfatter</string>
     <string name="description_designer">Designer:</string>
     <string name="description_download">Nedlastet</string>
@@ -210,6 +219,7 @@
     <string name="editor_apply_message">"Denne funksjonen brukes av designere til feilsøking. Standardtemaet blir om litt automatisk gjenopprettet. Filbanen til nåværende tema: "</string>
     <string name="editor_apply_toast">Velgt temp.mtz manuelt i rotkatalogen</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">Angi en e-postadresse</string>
     <string name="eras_ad">e.Kr.</string>
     <string name="eras_bc">f.Kr.</string>
     <string name="error_icon_content_description">Feil</string>
@@ -384,6 +394,7 @@
     <string name="hide_incompatible_font">Skjul ikke-kompatible skrifttyper</string>
     <string name="hide_incompatible_theme">Skjul ikke-kompatible temaer</string>
     <string name="hide_incompatible_wallpaper">Skjul ikke-kompatible bakgrunner</string>
+    <string name="hint_email_address">Angi en e-postadresse</string>
     <string name="home_apply_failured">Kan ikke bruke wallpaper til Startskjerm</string>
     <string name="home_apply_success">Wallpaper til Startskjerm i bruk</string>
     <string name="hot_first">Populære først</string>
@@ -417,6 +428,7 @@
     <string name="loading_resource_detail_fail">Kan ikke laste ressurser</string>
     <string name="loading_resource_detail_info">Et øyeblikk…</string>
     <string name="local_photos">Lokale bilder</string>
+    <string name="local_record__email_info">Husk e-postadressen min</string>
     <string name="local_resouce_creator_name">Utvikler: %1$s</string>
     <string name="lock_screen_edit">Rediger låseskjerm</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">Denne låseskjermmalen støtter ikke Superbakgrunner. Når den brukes, vil låseskjermen gå tilbake til standard og bakgrunnsbildene på start- og låseskjermene skiftes ut. Bruke nå?</string>
@@ -457,6 +469,7 @@
     <string name="message_sim_two">SIM %d melding</string>
     <string name="mi_wallpaper">MIUI-bakgrunn</string>
     <string name="midnight">Natt</string>
+    <string name="mine_subscribed_wallpaper">Abonnerte bakgrunnsbilder</string>
     <string name="miui_clock_city_name_local">Lokal</string>
     <string name="miui_clock_city_name_second">Andre klokke</string>
     <string name="miui_lock_screen_date">EEE d. MMM</string>
@@ -701,7 +714,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">Tilpass din enhet</string>
     <string name="present_official_themes">Våre valg</string>
     <string name="present_online_themes">Få flere online-temaer</string>
+    <string name="price_for_automatic_renewal">Forny automatisk for %1$s</string>
     <string name="privacy_desc">Personvernerklæring (obligatorisk)</string>
+    <string name="privacy_simple_content">Aktiver tilpassede anbefalinger for å få innhold og produkter som er tilpasset dine interesser.</string>
+    <string name="privacy_simple_hint">Du kan endre innstillingene når som helst i Innstillinger.</string>
+    <string name="privacy_simple_title">Tilpassede anbefalinger</string>
     <string name="promotion_ad">Kampanje</string>
     <string name="provision_default_theme_title">Standard</string>
     <string name="provision_download_cancel">Nedlasting avbrutt</string>
@@ -747,6 +764,9 @@ mm"</string>
     <string name="related_theme">Temaer</string>
     <string name="related_wallpaper">Bakgrunner</string>
     <string name="reload">Prøv igjen</string>
+    <string name="renewal_of_a_contract_monthly">Fornye for %s/måned</string>
+    <string name="renewal_of_a_contract_weekly">Fornye for %s/uke</string>
+    <string name="renewal_of_a_contract_yearly">Fornye for %s/år</string>
     <string name="res_migrate_tip">For å gjøre Temaer kompatible med de kommende versjonene av Android, flyttet vi de nedlastede elementene dine til et nytt sted. Start appen på nytt for å ta i bruk endringene og se det nedlastede innholdet.</string>
     <string name="resource_account_abnormal_state">Kontofeil. Vent et minutt eller to før du prøver igjen.</string>
     <string name="resource_account_fail_to_add">Kan ikke legge til konto</string>
@@ -766,6 +786,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">Tømme hele søkeloggen?</string>
     <string name="resource_continue">Neste</string>
     <string name="resource_current_using_title">Nåværende ressurser</string>
+    <string name="resource_currently_applied">Brukt</string>
     <string name="resource_data_empty">Ingen enheter her.</string>
     <string name="resource_default">Standard ringetone</string>
     <string name="resource_default_name">Ressurs</string>
@@ -964,6 +985,7 @@ mm"</string>
     <string name="select_all">Velg alle</string>
     <string name="selected_resource_file_invalid">Kan ikke bruke den valgte ressursfilen</string>
     <string name="send">Send</string>
+    <string name="service_expiration_date">Gyldig til %1$s</string>
     <string name="set_color_ring_back_tone">Angi en tilpasset tilbakeringingstone</string>
     <string name="settings">Innstillinger</string>
     <string name="shortcut_add">Legg til</string>
@@ -985,6 +1007,9 @@ mm"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Bruk</string>
     <string name="storage_file">For å lagre nedlastede elementer</string>
+    <string name="submission_successfully">Innsendt</string>
+    <string name="subscription_service_shutdown_tip">Abonnerte bakgrunnsbilder vises ikke lenger, fordi du bruker en annen tjeneste. Du kan bruke et abonnert bakgrunnsbilde på nytt.</string>
+    <string name="successfully_applied_wallpaper_tip">Bakgrunnsbilde brukt</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Søndag</string>
     <string name="sunday_short">Søn</string>
@@ -997,11 +1022,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">Installer</string>
     <string name="super_wallpaper_list_footer_text">Flere superbakgrunner kommer snart</string>
     <string name="super_wallpaper_list_label">Superbakgrunner</string>
+    <string name="super_wallpaper_low_version_tip_push">Oppdater Superbakgrunner til den nyeste versjonen for å kunne fortsette å bruke dem.</string>
+    <string name="super_wallpaper_restore_msg_push">Den aktuelle versjonen av Superbakgrunner fikk et inkompatibilitetsproblem. Standardbakgrunnen er gjenopprettet. Oppdater til den nyeste versjonen for å kunne bruke Superbakgrunner.</string>
     <string name="super_wallpaper_setting_apply_success_toast">Brukt</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Bruk</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Alternativer</string>
     <string name="super_wallpaper_setting_coordinate_title">Koordinater</string>
     <string name="super_wallpaper_setting_view_height_title">Høyde</string>
+    <string name="super_wallpaper_upgrade_tip_push">Oppdater Superbakgrunner</string>
     <string name="support_google_dynamic_color_hint">Du bruker Google Dynamic Color. Fargepalettene til enkelte apper kan endres når du bruker nye temaer og skrivebordsbakgrunner.</string>
     <string name="swipe_find_more">Sveip opp for å se mer</string>
     <string name="system_aod_dialog_message">Aktiver alltid-på-visning for å kunne bruke denne funksjonen.</string>
@@ -1009,7 +1037,26 @@ mm"</string>
     <string name="system_aod_dialog_title">Alltid-på-skjerm</string>
     <string name="system_phone">Anrop</string>
     <string name="system_precust">Forhåndsinnstallert</string>
+    <string name="text_billing_info">Faktureringsopplysninger</string>
+    <string name="text_cancel_subscription_service">Avbryte dette abonnementet nå?</string>
+    <string name="text_content_update">Nytt innhold hver dag</string>
+    <string name="text_free_trial">Prøv gratis</string>
+    <string name="text_pay_monthly" formatted="false">Starter fra %s, fornyes automatisk for %s/måned frem til abonnementet avbrytes</string>
+    <string name="text_pay_weekly" formatted="false">Starter fra %s, fornyes automatisk for %s/uke frem til abonnementet avbrytes</string>
+    <string name="text_pay_yearly" formatted="false">Starter fra %s, fornyes automatisk for %s/år frem til abonnementet avbrytes</string>
     <string name="text_play">Spill</string>
+    <string name="text_start_time_format">dd.MM</string>
+    <string name="text_status_apply_now">Bruk</string>
+    <string name="text_status_be_subscribing">Abonnert</string>
+    <string name="text_status_cancel_the_trial">Stopp prøveperioden</string>
+    <string name="text_status_on_trial">Pågående prøveperiode</string>
+    <string name="text_status_subscribe_now">Abonner</string>
+    <string name="text_status_unsubscribe">Avslutter abonnement</string>
+    <string name="text_status_unsubscribed">Avsluttet abonnement</string>
+    <string name="text_subscribe">Abonnementer</string>
+    <string name="text_subscribed">Abonnert</string>
+    <string name="text_when_cancel_the_trial_tip">Hvis du avbryter denne prøveperioden, vil denne bakgrunnen bli fjernet fra enheten.</string>
+    <string name="text_when_unsubscribe_tip">Hvis du avslutter dette abonnementet, vil dette tapetet bli fjernet fra enheten din.</string>
     <string name="the_anniversary_of_lifting_martial_law">Årsdagen for heving av unntakstilstand</string>
     <string name="the_anti_aggression_day">Antivoldsdagen</string>
     <string name="the_arbor_day">Arbor Day</string>
@@ -1150,6 +1197,8 @@ mm"</string>
     <string name="tip_lockscreen">Endre låseskjermens bakgrunn og klokke</string>
     <string name="tip_lockscreen2">Du bruker Bakgrunnsbildekarusell. Hvis du tilpasser temaet, endres bakgrunnsbildet på låseskjermen og klokken.</string>
     <string name="tip_statusbar">Endre kontrollsenter og varslingsskygge</string>
+    <string name="tips_subscriptions_close">Bakgrunnsbildeabonnementer er deaktivert</string>
+    <string name="tips_talk_later">Ikke nå</string>
     <string name="tips_theme_gate_transfer_fail">Kan ikke åpne denne siden. Vent et minutt eller to, og prøv igjen.</string>
     <string name="title_component">Tilpass tema</string>
     <string name="title_home_miwallpaper_home_screen_effects">Startskjerm-effekter</string>
@@ -1164,6 +1213,7 @@ mm"</string>
     <string name="today">I dag</string>
     <string name="tomorrow">I morgen</string>
     <string name="top">Populært</string>
+    <string name="trial_cancellation_succeeded">Prøveperioden ble avbrutt</string>
     <string name="try_fresh_functions_and_contents">Sjekk våre nye funksjoner og innhold</string>
     <string name="try_it">Sjekk det ut</string>
     <string name="try_tap">Trykk for å forhåndsvise</string>
@@ -1175,6 +1225,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">Skjønner</string>
     <string name="uid_change_dialog_title">Omstart to ganger</string>
     <string name="unknown_error">En feil oppstod</string>
+    <string name="unsubscribe_successfully">Abonnementet er avsluttet</string>
     <string name="unsupport_tip">Filformatet støttes ikke. Prøv å velge en annen fil.</string>
     <string name="up_to_the_end">Ingen flere elementer å vise</string>
     <string name="update_btn">OPPDATER NÅ</string>
@@ -1189,6 +1240,7 @@ mm"</string>
     <string name="update_push_content">Oppdater nå</string>
     <string name="update_push_title">Ditt tema har en ny versjon tilgjengelig</string>
     <string name="update_title">NY OPPDATERING TILGJENGELIG</string>
+    <string name="updating_the_app_tip">Oppdaterer…</string>
     <string name="used_wallpaper">Tidligere brukt</string>
     <string name="user_agree">Godta</string>
     <string name="user_attention_new_theme">Nytt innhold fra %s</string>
@@ -1238,6 +1290,7 @@ Du kan når som helst trekke tilbake samtykket ditt til personvernerklæringen t
     <string name="wallpaper_group_natural_texture_title">Naturmønstre</string>
     <string name="wallpaper_group_sgn_mountain_title">Mount Siguniang</string>
     <string name="wallpaper_might_like">Bakgrunnsbilder du kanskje liker</string>
+    <string name="wallpaper_restore_defalut_push">Gjenopprettet til standardinnstillingene</string>
     <string name="wallpaper_scroll_type_tips">Bakgrunnsrull</string>
     <string name="wallpaper_set_as_both">Sett begge</string>
     <string name="wallpaper_set_as_desktop">Sett som Startskjerm</string>

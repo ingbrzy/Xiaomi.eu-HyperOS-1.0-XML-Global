@@ -134,6 +134,10 @@
         <item quantity="other">%d اثر</item>
         <item quantity="one">%d اثر</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">درخواست شما در حدود %1$d ثانیه پردازش خواهد شد.</item>
+        <item quantity="one">درخواست شما در حدود %1$d ثانیه پردازش خواهد شد.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"%d سفارش با موفقیت پس داده شدند. "</item>
         <item quantity="one">"%d سفارش با موفقیت پس داده شد. "</item>

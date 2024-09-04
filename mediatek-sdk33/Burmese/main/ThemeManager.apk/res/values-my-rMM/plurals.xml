@@ -100,6 +100,9 @@
     <plurals name="portfolio">
         <item quantity="other">အလုပ် %d ခု</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">သင့်တောင်းဆိုချက်ကို %1$d စက္ကန့်ခန့်အတွင်း လုပ်ဆောင်ပါမည်။</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"အမှာ %d ခု အောင်မြင်စွာ ငွေပြန်အမ်းပြီးပါပြီ။ "</item>
     </plurals>

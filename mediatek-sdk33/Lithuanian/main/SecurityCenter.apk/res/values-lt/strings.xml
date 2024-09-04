@@ -591,6 +591,7 @@ Jokie programos duomenys nebus prarasti."</string>
     <string name="apps_list_header_title_sms_access">Riboti prieigą prie patvirtinimo kodų</string>
     <string name="ask_create_shortcut">Sukurti pagrindinio ekrano nuorodą?</string>
     <string name="audio_optimization_summary">Pagerinti garsą ir sumažinti foninį triukšmą pokalbiuose</string>
+    <string name="audio_optimization_summary_new">Optimizuokite ausinių garso kokybę žaidimų metu i ir sumažinkite triukšmą pokalbių metu</string>
     <string name="audio_optimization_title">Garso gerinimas</string>
     <string name="auto_atsk_condition_battery_level_text_down">Kai baterija pasiekia %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Kai baterija įkrauta iki %s</string>
@@ -1131,6 +1132,7 @@ Tačiau kai kurios jūsų transakcijos dar neužbaigtos. Norėdami atsisakyti su
     <string name="continue_set">Tęsti</string>
     <string name="convenient_mode">Atrakinti visas programas iš karto</string>
     <string name="convenient_summary">Įveskite slaptažodį norėdami iš karto atrakinti visas programas</string>
+    <string name="conversation_phone_title">Skambučių įrankių rinkinys</string>
     <string name="conversation_settings_top">"Slinkite konferencijos įrankių juostą per viso ekrano garso ir vaizdo skambučius, kad pasiektumėte šias funkcijas.
  Funkcijų tipas ir skaičius priklauso nuo įrenginio modelio."</string>
     <string name="conversation_sider_tips">Naudokite naujus konferencijų įrankius, kad skambinti būtų itin patogu</string>
@@ -1145,9 +1147,13 @@ Tačiau kai kurios jūsų transakcijos dar neužbaigtos. Norėdami atsisakyti su
     <string name="create_gamebooster_destop">Pagrindinio ekrano nuoroda sėkmingai sukurta</string>
     <string name="create_shortcut">Sukurti „Turbo žaidimų“ nuorodą pagrindiniame ekrane</string>
     <string name="cs_color_sense">Spalvų temperatūra</string>
+    <string name="cs_conversation_record_using">Įrašoma</string>
     <string name="cs_func_toast_headset">Atjunkite savo ausines, kad galėtumėte naudotis šia funkcija</string>
     <string name="cs_func_toast_light">Perjunkite į priekinį fotoaparatą, kad galėtumėte pasiekti šią funkciją</string>
     <string name="cs_func_toast_pickup">Perjunkite į vaizdo skambutį, kad galėtumėte naudotis šia funkcija</string>
+    <string name="cs_func_unavailable_tips">Naudoti šią funkciją skambučių metu</string>
+    <string name="cs_light_enhance_physical_options">Spalvų temperatūra</string>
+    <string name="cs_light_enhance_physical_title">Ryškumas</string>
     <string name="cs_pickup_denoise_desc">Sumažinkite įeinančių garsų triukšmą, kai naudojate garsiakalbį arba ausines</string>
     <string name="cs_pickup_denoise_title">Triukšmo sumažinimas</string>
     <string name="cs_pickup_multi_desc">%d laipsnių garso pakėlimas</string>
@@ -1161,11 +1167,19 @@ Tačiau kai kurios jūsų transakcijos dar neužbaigtos. Norėdami atsisakyti su
     <string name="cs_pickup_vioce_print_unsupport_tips">Prieš pasirinkdami „Vienas dalyvis“, įrašykite jo balso ypatybes</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Atjunkite išorinius įrenginius ir bandykite dar kartą.</string>
     <string name="cs_pickup_voice_print_desc">Fiksuoti tik vieno asmens balsą</string>
+    <string name="cs_privacy_camera_global_settings_title">Skambučio privatumas</string>
     <string name="cs_screen_translation_title">Ekrano vertimas</string>
+    <string name="cs_simultaneous_interpretation_title">Vertimas žodžiu</string>
     <string name="cs_title_pickup">Triukšmo sumažinimas</string>
     <string name="cs_title_smart_subtitle">Subtitrų rašymas</string>
     <string name="cs_title_ultraclear">„Ultra“ HD būsena</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Išbandykite sinchroninį vertimą ir kitas skambučių įrankių rinkinio konferencinių skambučių funkcijas</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Išbandykite daugybę skambučių įrankių rinkinio konferencinių skambučių funkcijų</string>
+    <string name="cs_tool_box_phone_guide_case_1">Išbandykite sinchroninį vertimą ir kitas naujojo skambučių įrankių rinkinio funkcijas</string>
+    <string name="cs_tool_box_phone_guide_case_2">Išbandykite daugybę naujojo skambučių įrankių rinkinio funkcijų</string>
     <string name="cs_voice_print">Įrašyti balso ypatybes</string>
+    <string name="cs_vt_camera_toast_case1">Atidarykite fotoaparatą dabartinėje programoje</string>
+    <string name="cs_vt_camera_toast_case2">Netoliese nėra suderinamų įrenginių</string>
     <string name="cta_agree_desc">Norėdami naudoti mūsų paslaugas, leiskite programai prisijungti prie tinklo ir suteikite toliau nurodytus leidimus.</string>
     <string name="cta_close_dialog_cancel">Atšaukti</string>
     <string name="cta_close_dialog_content">Jei apribosite „Saugumo“ prieigą prie intermeto ir vietovės informacijos, nebegalėsite gauti įspėjimų apie žemės drebėjimus, atnaujinti virusų aprašų ar juodojo sąrašo informacijos. Jūsų įrenginys taps mažiau saugus. Vis tiek apriboti?</string>
@@ -1847,6 +1861,8 @@ Numeris bus įtrauktas į išimtis, tačiau anksčiau užblokuoti elementai neat
     <string name="gb_audition_play_instruction">Geriausiam efektui naudokite ausines</string>
     <string name="gb_award_noti_message">Įjunkite „Game for Peace“ foninius naujinius Turbo žaidimuose ir gaukite apdovanojimų</string>
     <string name="gb_award_noti_title">„Game for Peace“ apdovanojimai jau čia!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Negalima perjungti į subalansuotą režimą Turbo žaidimuose, kai įjungtas stipriausias visos sistemos režimas. Akumuliatoriaus parametrus galite pakeisti saugumo skiltyje.&lt;br>&lt;a href=\"#\">Atidaryti saugumą&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Negalima perjungti į subalansuotą režimą Turbo žaidimuose, kai įjungtas stipriausias visos sistemos režimas. Akumuliatoriaus parametrus galite pakeisti saugumo skiltyje.&lt;br>&lt;a href=\"#\">Atidaryti saugumą&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">Aukšta</string>
     <string name="gb_bar_low">Žema</string>
     <string name="gb_bar_mid">Vidutinė</string>
@@ -2002,6 +2018,8 @@ bet taip pat padidina energijos sąnaudas ir leidžia įrenginiui perkaisti"</st
     <string name="gb_predownload_receive_tips">Įjunkite foninius naujinius, kad gautumėte premijų</string>
     <string name="gb_predownload_receiving">Gaunama…</string>
     <string name="gb_predownload_title">Foniniai naujinimai</string>
+    <string name="gb_setting_dock_toast">Dabar priekinio fotoaparato asistento funkcijos pasiekiamos skambučių įrankių rinkinyje</string>
+    <string name="gb_setting_dock_toast_2">Dabar priekinio fotoaparato asistento funkcijos pasiekiamos skambučių įrankių rinkinyje</string>
     <string name="gb_shortcut_pref_title">Pagrindinio ekrano nuoroda</string>
     <string name="gb_shoulder_guide_message1">Nustatykite [L] ir į bet kokią funkcinę padėtį, norėdami jį naudoti per iššokantį paleidiklį</string>
     <string name="gb_shoulder_guide_message2">Veiksmas [1] aktyvuojamas paspaudus mygtuką. Veiksmas [2] aktyvuojamas atleidus mygtuką.</string>
@@ -2137,9 +2155,21 @@ Išmėginkite skirtingus charakterius ir specialiuosius efektus."</string>
     <string name="gd_dock_shortcut_splitescreen">Padalintas ekranas</string>
     <string name="gd_setting_conversation">Konferencijos įrankiai</string>
     <string name="gd_setting_conversation_desc">Pateikia įvairiausių funkcijų naudoti viso ekrano garso ir vaizdo skambučiams</string>
+    <string name="gd_setting_dock_activity_title">Šoninis įrankių rinkinys</string>
+    <string name="gd_setting_dock_call_summary">Balso ir vaizdo skambučių funkcijos (pvz., užpildanti šviesa)</string>
+    <string name="gd_setting_dock_call_title">Skambučių įrankių rinkinys</string>
+    <string name="gd_setting_dock_game_summary">Pagerinkite vaizdo raišką ir spartą žaidžiant žaidimus</string>
+    <string name="gd_setting_dock_game_summary_new">Pagerinkite vaizdo raišką ir spartą žaidžiant žaidimus</string>
+    <string name="gd_setting_dock_summary">Atidarykite kitas programas laikinuosiuose languose, kai naudojate programą viso ekrano režimu</string>
+    <string name="gd_setting_dock_title">Šoninė juosta</string>
+    <string name="gd_setting_dock_video_summary">Žiūrėdami vaizdo įrašus naudokite tokius efektus kaip „Dolby Atmos“</string>
+    <string name="gd_setting_dock_video_summary_new">Žiūrėdami vaizdo įrašus naudokite įrankius ir efektus</string>
+    <string name="gd_setting_group_custom_conversation_apps">Įrašyti balso ypatybes skambučiams</string>
     <string name="gd_setting_group_custom_gtb_apps">Žaidimai</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Valdyti žaidimų programas</string>
     <string name="gd_setting_group_custom_settings">Suasmeninimas</string>
     <string name="gd_setting_group_custom_vtb_apps">Vaizdo programos</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Valdyti vaizdo įrašų programas</string>
     <string name="gd_setting_group_title_switch">Scenos</string>
     <string name="gd_setting_gtb">Rodyti žaidžiant žaidimus</string>
     <string name="gd_setting_gtb_desc">Specialios žaidimų funkcijos</string>
@@ -2159,11 +2189,17 @@ Išmėginkite skirtingus charakterius ir specialiuosius efektus."</string>
     <string name="get_phone_num_fail">Nežinomas telefono numeris</string>
     <string name="get_sys_info">Gaunama informacija…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">Norėdami judinti langą, paspauskite ir palaikykite indikatorių</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Bakstelėkite ant programos šoninės juostos, kad atidarytumėte ją laikinojo lango režimu.
 · Nuvilkite programą iki ekrano vidurio, kad atidarytumėte ją laikinojo lango režimu arba nuvilkite į šoną, kad pasinaudotumėte padalinto ekrano funkcija.
 · Norėdami judinti langą, paspauskite ir palaikykite indikatorių."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"Bakstelėkite ant programos šoninės juostos, kad atidarytumėte ją laikinajame lange.
+ Nuvilkite programą iki ekrano vidurio, kad atidarytumėte ją laikinajame lange arba nuvilkite į šoną, norėdami naudotis padalinto ekrano funkcija.
+ Norėdami judinti langą, paspauskite ir palaikykite indikatorių."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Bakstelėkite programą šoninėje juostoje, kad atidarytumėte ją laikinajame lange.
 · Norėdami judinti langą, paspauskite ir palaikykite indikatorių."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Braukite šoninei juostai atidaryti ir bakstelėkite programą, kad atidarytumėte ją laikinajame lange.
+Norėdami judinti langą, paspauskite ir palaikykite indikatorių."</string>
     <string name="global_satisfaction_notification_button">Įvertinti</string>
     <string name="global_satisfaction_notification_channel">Apklausa dėl vartotojų pasitenkinimo</string>
     <string name="global_satisfaction_notification_subhead">Pasidalinkite savo patirtimi</string>
@@ -3184,6 +3220,7 @@ Bandykite naudoti kitą Interneto kabelį, prijungti maršrutizatoriui. Jei įta
     <string name="pc_battery_history_total_consumption_title">VIsos energijos sąnaudos</string>
     <string name="pc_battery_history_usetime_title">Aktyvus</string>
     <string name="pc_battery_low_health_reminder">Laikas pakeisti jūsų bateriją</string>
+    <string name="pc_battery_replacement_service_title">Išbandykite mūsų baterijos pakeitimo paslaugą. %1$s originali aparatinė įranga su %2$s garantija.</string>
     <string name="pc_berserk_mode_dialog_title">Įjungti stipriausią režimą</string>
     <string name="pc_berserk_mode_noti_summary">Stipriausias režimas gali lemti didesnį energijos suvartojimą ir perkaitimo problemas</string>
     <string name="pc_berserk_mode_performance_title">Stipriausias režimas</string>
@@ -3257,6 +3294,7 @@ Bandykite naudoti kitą Interneto kabelį, prijungti maršrutizatoriui. Jei įta
     <string name="pc_fast_charge_switch_summary_new">Priminti apie įkrovimo greičio spartinimą, kai tiekiamas įkroviklis prijungtas ir baterijos įkrova žemiau nustatyto lygio</string>
     <string name="pc_fast_charge_switch_title">Spartinkite įkrovimą</string>
     <string name="pc_fast_charge_switch_toast_message">Pakeitimai bus pritaikyti kitą kartą įkraunant šį įrenginį</string>
+    <string name="pc_fast_charge_temp_remider">Įjunkite, jei norite automatiškai reguliuoti krovimo greitį. Ši funkcija veikia tik naudojant „Xiaomi“ pateikiamus kroviklius. Krovimo metu įrenginys gali įkaisti.</string>
     <string name="pc_fast_charge_title">Spartinkite įkrovimą</string>
     <string name="pc_going_to_exit_extreme_mode">Išeinama iš užmigdymo režimo</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Jūsų įrenginys kraunamas. Išeinama iš užmigdymo režimo.</string>
@@ -3345,6 +3383,16 @@ Ultra energijos taupymas išjungiamas"</string>
     <string name="pc_search_keywords_capacity">Akumuliatoriaus talpa</string>
     <string name="pc_search_keywords_property">Sparta</string>
     <string name="pc_settings_title">Akumuliatorius</string>
+    <string name="pc_smart_charge_button_summary">Siekiant pratęsti baterijos gyvavimo laiką, sistema išmoks, kaip kraunate savo įrenginį ir nustos jį krauti, kai baterijos lygis pasieks %1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Jūsų įrenginys įkaito. Krovimas sustos, kai baterijos lygis pasieks %1$s</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Navigavimas… Krovimas sustos, kai baterijos lygis pasieks %1$s</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">Krovimas sustos, kai bus %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">Siekiant pratęsti baterijos gyvavimo laiką, prie automobilio prijungta šio įrenginio baterija nesikraus daugiau nei šiuo metu esamas lygis.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Daugiau neberodyti</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Baterijos apsauga</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">Siekiant pratęsti baterijos gyvavimo laiką, prie automobilio prijungta šio įrenginio baterija nesikraus daugiau nei šiuo metu esamas lygis</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Baterijos apsauga</string>
+    <string name="pc_smart_charge_title">Išmanusis krovimas</string>
     <string name="pc_smart_discharge_checkbox_summary">Kai naudojate navigacijos funkcijas, įkrovimas automatiškai sustos esant tam tikrai procentinei įkrovai. Energijos taupymas bus išjungtas.</string>
     <string name="pc_smart_discharge_checkbox_title">Įkraunamas automatinis atjungimas</string>
     <string name="pc_smart_discharge_drop_down_title">Automatinio atjungimo parametrai</string>
@@ -3357,6 +3405,8 @@ Ultra energijos taupymas išjungiamas"</string>
     <string name="pc_statistics_battery_use_title">Energijos naudojimas</string>
     <string name="pc_suggest_open_fast_charge">Įjunkite %dW greitąjį įkrovimą</string>
     <string name="pc_temperature_too_high">Įrenginys perkaito</string>
+    <string name="pc_this_time_charge_full">Šįkart įkrauti pilnai</string>
+    <string name="pc_this_time_charge_full_work">Beveik pilnai įkrauta</string>
     <string name="pc_timely_charging_summary">Baterijos įkrovos lygis nesiekia %1$s. Jei įrenginys perkais, kai akumuliatoriaus įkrova žema, įrenginys gali būti sugadintas.</string>
     <string name="pc_timely_charging_title">Įkraukite įrenginį</string>
     <string name="pc_to_phone_install">%s diegimas per USB užblokuotas</string>
@@ -4378,6 +4428,13 @@ Atšaukti sutikimą dabar?"</string>
     <string name="sd_mount">Prijungti SD kortelę</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">Programa</string>
+    <string name="search_keyword_applybar">Programų grupė</string>
+    <string name="search_keyword_call">Skambutis</string>
+    <string name="search_keyword_sidebar">Šoninė juosta</string>
+    <string name="search_keyword_tool">Įrankiai</string>
+    <string name="search_keyword_tools">Įrankių rinkinys</string>
+    <string name="search_keyword_voice">Balsas</string>
     <string name="search_menu_title">Ieškoti</string>
     <string name="search_result_text">Nepavyko rasti jokių programų</string>
     <string name="section_clear_acc_item_title">Išvalyta %s. Jei vis tiek trūksta vietos, pabandykite atlikti Valymą.</string>
@@ -5167,6 +5224,7 @@ Formatavimas ištrins visus ^2 esančius duomenis. Siekdami išvengti duomenų p
     <string name="title_cloud_space_almost_full">Debesies talpykla beveik pilna, elementai gali likti nesinchronizuoti</string>
     <string name="title_cloud_space_full">Debesis užpildytas</string>
     <string name="title_cmcc_app_check">Patikrinimas nebaigtas</string>
+    <string name="title_condition_meeting">Susirinkimas</string>
     <string name="title_consume_power_rank">Programos energijos naudojimas</string>
     <string name="title_dark_mode">Kai kurie elementai rodomi netinkamai</string>
     <string name="title_data_flow">Valdyti mobiliuosius duomenis</string>
@@ -5227,6 +5285,8 @@ Formatavimas ištrins visus ^2 esančius duomenis. Siekdami išvengti duomenų p
     <string name="toast_cleaner_cloudscan">Valyme bus naudojami internetiniai aprašai</string>
     <string name="toast_dark_mode_fixed">Sėkmingai ištaisyta. Išeikite iš šio puslapio, kad pritaikytumėte pakeitimus.</string>
     <string name="toast_flow_notification">Duomenų naudojimo įspėjimai įjungti</string>
+    <string name="toast_gamembox_unenable_pad">Pirmiausia saugumo skiltyje įjunkite „Game Turbo“</string>
+    <string name="toast_gamembox_unenable_phone">Pirmiausia saugumo skiltyje įjunkite „Game Turbo“</string>
     <string name="toast_garbage_lib">Įjungti automatiniai Valymo atnaujinimai</string>
     <string name="toast_keyword_blank">Būtina įvesti raktažodį</string>
     <string name="toast_keyword_exist">Raktažodis pridėtas</string>

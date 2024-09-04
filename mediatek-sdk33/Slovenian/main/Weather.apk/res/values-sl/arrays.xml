@@ -155,7 +155,7 @@
         <item>Kilometri na uro (km/h)</item>
         <item>Metri na sekundo (m/s)</item>
         <item>Milje na uro (milj/h)</item>
-        <item>Vozel (vz)</item>
+        <item>Vozli (vz)</item>
     </string-array>
     <string-array name="wind_unit_replace">
         <item>Moč %1$s</item>

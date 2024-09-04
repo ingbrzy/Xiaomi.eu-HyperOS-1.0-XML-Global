@@ -146,6 +146,10 @@ Les monedes no són reemborsables"</item>
         <item quantity="other">%d feines</item>
         <item quantity="one">%d feina</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">"La vostra sol·licitud es processarà d'aquí a %1$d segons aproximadament."</item>
+        <item quantity="one">"La vostra sol·licitud es processarà d'aquí a %1$d segon aproximadament."</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"%d comandes reemborsades amb èxit. "</item>
         <item quantity="one">"%d comanda reemborsada amb èxit. "</item>

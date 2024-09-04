@@ -590,6 +590,7 @@
     <string name="apps_list_header_title_sms_access">Ограничи приступ кодовима за потврду</string>
     <string name="ask_create_shortcut">Креирати пречицу на Почетном екрану?</string>
     <string name="audio_optimization_summary">Побољшајте звук и смањите шум током разговора</string>
+    <string name="audio_optimization_summary_new">Оптимизујте квалитет звука слушалица током играња и смањите буку током позива</string>
     <string name="audio_optimization_title">Побољшан звук</string>
     <string name="auto_atsk_condition_battery_level_text_down">Када батерија достигне %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Када се батерија напуни до %s</string>
@@ -1130,6 +1131,7 @@
     <string name="continue_set">Настави</string>
     <string name="convenient_mode">Откључај све апликације одједном</string>
     <string name="convenient_summary">Унесите лозинку једном за откључавање свих апликација</string>
+    <string name="conversation_phone_title">Позивни алат</string>
     <string name="conversation_settings_top">"·Извуците Траку са алаткама за конференцију током аудио и видео позива преко целог екрана да бисте приступили њеним функцијама.
 ·Тип и број функција зависе од модела уређаја."</string>
     <string name="conversation_sider_tips">Користите нове конференцијске алате за најбоље искуство позивања</string>
@@ -1144,9 +1146,13 @@
     <string name="create_gamebooster_destop">Креирана је пречица на Почетном екрану</string>
     <string name="create_shortcut">Креирај Game Turbo пречицу на Почетном екрану</string>
     <string name="cs_color_sense">Температура боје</string>
+    <string name="cs_conversation_record_using">Снимак</string>
     <string name="cs_func_toast_headset">Искључите слушалице да бисте могли да користите ову функцију</string>
     <string name="cs_func_toast_light">Пребаците се на предњу камеру да бисте могли да користите ову функцију</string>
     <string name="cs_func_toast_pickup">Пребаците се на видео позив да бисте могли да користите ову функцију</string>
+    <string name="cs_func_unavailable_tips">Користите ову функцију током позива</string>
+    <string name="cs_light_enhance_physical_options">Температура боје</string>
+    <string name="cs_light_enhance_physical_title">Светлина</string>
     <string name="cs_pickup_denoise_desc">Смањи шум долазног звука током коришћења звучника или слушалица</string>
     <string name="cs_pickup_denoise_title">Смањење буке</string>
     <string name="cs_pickup_multi_desc">%d степен подизања звука</string>
@@ -1160,11 +1166,19 @@
     <string name="cs_pickup_vioce_print_unsupport_tips">Снимите узорак гласа пре него што изаберете „Појединачни учесник“</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Искључите спољне уређаје и покушајте опет</string>
     <string name="cs_pickup_voice_print_desc">Прихватајте звук само од једне особе</string>
+    <string name="cs_privacy_camera_global_settings_title">Приватност позива</string>
     <string name="cs_screen_translation_title">Превод екрана</string>
+    <string name="cs_simultaneous_interpretation_title">Преведи</string>
     <string name="cs_title_pickup">Смањење буке</string>
     <string name="cs_title_smart_subtitle">Транскрипција превода</string>
     <string name="cs_title_ultraclear">Ultra HD mode</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Испробајте симултано превођење и друге алате за конференцијске позиве у новом Позивном алату</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Испробајте низ функција конференцијског позива у новом Позивном алату</string>
+    <string name="cs_tool_box_phone_guide_case_1">Испробајте симултано превођење и друге функције у новом Позивном алату</string>
+    <string name="cs_tool_box_phone_guide_case_2">Испробајте низ функција у новом Позивном алату</string>
     <string name="cs_voice_print">Сними узорак гласа</string>
+    <string name="cs_vt_camera_toast_case1">Отворите камеру у тренутној апликацији</string>
+    <string name="cs_vt_camera_toast_case2">Нема компатибилних уређаја у близини</string>
     <string name="cta_agree_desc">Да бисте могли користити наше услуге, дозволите овој апликацији повезивање на интернет и дајте дозволе приказане изнад.</string>
     <string name="cta_close_dialog_cancel">Откажи</string>
     <string name="cta_close_dialog_content">Ако ограничите Безбедност да приступа интенету и подацима о локацији, нећете моћи да примате упозорења о земљотресима, ажурирате дефиниције вируса и податке листе блокираних. Уређај ће бити мање заштићен. Ипак ограничити?</string>
@@ -1845,6 +1859,8 @@
     <string name="gb_audition_play_instruction">Користите слушалице за најбољи ефекат</string>
     <string name="gb_award_noti_message">Укључите позадинска ажурирања за Game for Peace у Game Turbo да бисте добили награде</string>
     <string name="gb_award_noti_title">Награде за Game for Peace су овде!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Не може се пребацити на Балансирани режим у Game Turbo када је укључен Крајњи режим за цео систем. Можете да промените подешавања батерије у Безбедност.&lt;br>&lt;a href=\"#\">Отвори Безбедност&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Не може се пребацити на Балансирани режим у Game Turbo када је укључен Крајњи режим за цео систем. Можете да промените подешавања батерије у Безбедност. &lt;br>&lt;a href=\"#\">Отвори Безбедност&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">Високо</string>
     <string name="gb_bar_low">Ниско</string>
     <string name="gb_bar_mid">Средње</string>
@@ -2000,6 +2016,8 @@ Xiaomi Gaming Cooler"</string>
     <string name="gb_predownload_receive_tips">Укључите ажурирања у позадини да бисте добили награде</string>
     <string name="gb_predownload_receiving">Примање…</string>
     <string name="gb_predownload_title">Ажурирања у позадини</string>
+    <string name="gb_setting_dock_toast">Функције Помоћника за предњу камеру су сада доступне у Позивном алату</string>
+    <string name="gb_setting_dock_toast_2">Функције Помоћника за предњу камеру су сада доступне у Позивном алату</string>
     <string name="gb_shortcut_pref_title">Пречица на Почетном екрану</string>
     <string name="gb_shoulder_guide_message1">Померите [L] у било коју функционалну позицију да бисте је користили преко pop-up покретача</string>
     <string name="gb_shoulder_guide_message2">Радња [1] се активира притиском на тастер. Радња [2] се активира отпуштањем тастера.</string>
@@ -2135,9 +2153,21 @@ Xiaomi Gaming Cooler"</string>
     <string name="gd_dock_shortcut_splitescreen">Раздељени екран</string>
     <string name="gd_setting_conversation">Конференцијски алати</string>
     <string name="gd_setting_conversation_desc">Пружа низ функција за коришћење у аудио и видео позивима преко целог екрана</string>
+    <string name="gd_setting_dock_activity_title">Бочна кутија за алат</string>
+    <string name="gd_setting_dock_call_summary">Функције за гласовне и видео позиве (нпр. осветљење)</string>
+    <string name="gd_setting_dock_call_title">Позивни алат</string>
+    <string name="gd_setting_dock_game_summary">Побољшајте приказ и перформансе док играте игрице</string>
+    <string name="gd_setting_dock_game_summary_new">Побољшајте приказ и перформансе док играте игрице</string>
+    <string name="gd_setting_dock_summary">Отворите друге апликације у плутајућим прозорима док користите апликацију преко целог екрана</string>
+    <string name="gd_setting_dock_title">Бочна трака</string>
+    <string name="gd_setting_dock_video_summary">Користите ефекте као што је Dolby Atmos док гледате видео снимке</string>
+    <string name="gd_setting_dock_video_summary_new">Користите алате и ефекте док гледате видео снимке</string>
+    <string name="gd_setting_group_custom_conversation_apps">Забележите отисак гласа за позиве</string>
     <string name="gd_setting_group_custom_gtb_apps">Игре</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Управљајте апликацијама за игре</string>
     <string name="gd_setting_group_custom_settings">Персонализација</string>
     <string name="gd_setting_group_custom_vtb_apps">Видео апликације</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Управљај видео апликацијама</string>
     <string name="gd_setting_group_title_switch">Сцене</string>
     <string name="gd_setting_gtb">Прикажи током играња игрица</string>
     <string name="gd_setting_gtb_desc">Специјалне функције за игре</string>
@@ -2157,11 +2187,17 @@ Xiaomi Gaming Cooler"</string>
     <string name="get_phone_num_fail">Непознати број телефона</string>
     <string name="get_sys_info">Добивање информација…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">Притисните и задржите индикатор да бисте померили прозор</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Додирните апликацију на бочној траци да бисте је отворили у плутајућем прозору.
 · Превуците апликацију у центар екрана да бисте је отворили у плутајућем прозору или у страну да бисте користили Раздељени екран.
 · Притисните и задржите индикатор ради померања прозора."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"Додирните апликацију на бочној траци да бисте је отворили у плутајућем прозору.
+ Превуците апликацију у центар екрана да бисте је отворили у плутајућем прозору или у страну да бисте користили Раздељени екран.
+ Притисните и задржите индикатор ради померања прозора."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Додирните апликацију на бочној траци да бисте је отворили у плутајућем прозору.
 · Притисните и задржите индикатор да бисте померали прозор."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Превуците да бисте отворили бочну траку и додирните апликацију да бисте је отворили у плутајућем прозору.
+Притисните и задржите индикатор да бисте померали прозор."</string>
     <string name="global_satisfaction_notification_button">Оцени</string>
     <string name="global_satisfaction_notification_channel">Анкета о задовољству корисника</string>
     <string name="global_satisfaction_notification_subhead">Реците нам нешто о свом искуству</string>
@@ -3182,6 +3218,7 @@ to join our egg hunt!"</string>
     <string name="pc_battery_history_total_consumption_title">Укупна потрошња батерије</string>
     <string name="pc_battery_history_usetime_title">Активно</string>
     <string name="pc_battery_low_health_reminder">Време је да замените батерију</string>
+    <string name="pc_battery_replacement_service_title">Испробајте нашу услугу замене батерија. %1$s оригинални хардвер са %2$s гаранцијом.</string>
     <string name="pc_berserk_mode_dialog_title">Укључи Крајњи режим</string>
     <string name="pc_berserk_mode_noti_summary">Крајњи режим може повећати потрошњу енергије и довести до проблема са прегревањем</string>
     <string name="pc_berserk_mode_performance_title">Крајњи режим</string>
@@ -3255,6 +3292,7 @@ to join our egg hunt!"</string>
     <string name="pc_fast_charge_switch_summary_new">Подсетите се да повећате брзину пуњења када је испоручени пуњач повезан и када батерија падне испод подешеног нивоа</string>
     <string name="pc_fast_charge_switch_title">Повећај брзину пуњења</string>
     <string name="pc_fast_charge_switch_toast_message">Измене ће бити примењене када следећи пут напуните овај уређај</string>
+    <string name="pc_fast_charge_temp_remider">Укључите да бисте аутоматски регулисали брзину пуњења. Ова функција ради само са Xiaomi-јевим пуњачима. Уређај се може загрејати током пуњења.</string>
     <string name="pc_fast_charge_title">Повећај брзину пуњења</string>
     <string name="pc_going_to_exit_extreme_mode">Напуштање Режима хибернације</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Уређај се пуни. Режим хибернације је искључен.</string>
@@ -3343,6 +3381,16 @@ to join our egg hunt!"</string>
     <string name="pc_search_keywords_capacity">Капацитет батерије</string>
     <string name="pc_search_keywords_property">Перформансе</string>
     <string name="pc_settings_title">Батерија</string>
+    <string name="pc_smart_charge_button_summary">Да би продужио век трајања батерије, систем ће научити како пуните свој уређај и прекидате пуњење када ниво батерије достигне %1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Уређај се загрејао. Пуњење ће бити заустављено када ниво батерије достигне %1$s</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Навигација… Пуњење ће бити заустављено када ниво батерије достигне %1$s</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">Пуњење ће се зауставити на %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">Да би се продужио век трајања батерије, батерија овог уређаја неће прећи тренутни ниво док је повезан са аутомобилом.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Више не приказуј</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Заштита батерије</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">Да би се продужио век трајања батерије, батерија овог уређаја неће прећи тренутни ниво док је повезан са аутомобилом</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Заштита батерије</string>
+    <string name="pc_smart_charge_title">Паметно пуњење</string>
     <string name="pc_smart_discharge_checkbox_summary">Када користите функције навигације, пуњење ће се аутоматски зауставити у одређеном проценту. Уштеда батерије ће бити искључена.</string>
     <string name="pc_smart_discharge_checkbox_title">Аутоматско искључивање пуњења</string>
     <string name="pc_smart_discharge_drop_down_title">Подешавања аутоматског прекида</string>
@@ -3355,6 +3403,8 @@ to join our egg hunt!"</string>
     <string name="pc_statistics_battery_use_title">Коришћење батерије</string>
     <string name="pc_suggest_open_fast_charge">Укључи брзо пуњење од %dW</string>
     <string name="pc_temperature_too_high">Уређај се прегрејао</string>
+    <string name="pc_this_time_charge_full">Овај пут напуните у потпуности</string>
+    <string name="pc_this_time_charge_full_work">Скоро пуна</string>
     <string name="pc_timely_charging_summary">Батерија је испод %1$s. Ако се уређај прегреје док је батерија празна, то може оштетити батерију.</string>
     <string name="pc_timely_charging_title">Напуните уређај</string>
     <string name="pc_to_phone_install">Блокирана инсталација (%s) путем USB-а</string>
@@ -4375,6 +4425,13 @@ to join our egg hunt!"</string>
     <string name="sd_mount">Монтирај SD картицу</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">Апликација</string>
+    <string name="search_keyword_applybar">Апликацијски депо</string>
+    <string name="search_keyword_call">Позив</string>
+    <string name="search_keyword_sidebar">Бочна трака</string>
+    <string name="search_keyword_tool">Алати</string>
+    <string name="search_keyword_tools">Кутија за алат</string>
+    <string name="search_keyword_voice">Глас</string>
     <string name="search_menu_title">Претражите</string>
     <string name="search_result_text">Не могу пронаћи ниједну апликацију</string>
     <string name="section_clear_acc_item_title">%s. Ако и даље нема довољно складишног простора, покушајте да користите Чистач.</string>
@@ -5164,6 +5221,7 @@ to join our egg hunt!"</string>
     <string name="title_cloud_space_almost_full">Облак је скоро пун, неке ставке неће бити синхронизоване</string>
     <string name="title_cloud_space_full">Простор на cloud-у је пун</string>
     <string name="title_cmcc_app_check">Провера није потпуна</string>
+    <string name="title_condition_meeting">Састанак</string>
     <string name="title_consume_power_rank">Коришћење апликацијског напајања</string>
     <string name="title_dark_mode">Неке ставке се не приказују коректно</string>
     <string name="title_data_flow">Проверите мобилне податке</string>
@@ -5224,6 +5282,8 @@ to join our egg hunt!"</string>
     <string name="toast_cleaner_cloudscan">Чистач ће користити онлајн дефиниције</string>
     <string name="toast_dark_mode_fixed">Успешно поправљено. Напустите страницу да бисте применили промене.</string>
     <string name="toast_flow_notification">Обавештења употребе података су укључене</string>
+    <string name="toast_gamembox_unenable_pad">Прво укључите Game Turbo у апликацији Безбедност</string>
+    <string name="toast_gamembox_unenable_phone">Прво укључите Game Turbo у апликацији Безбедност</string>
     <string name="toast_garbage_lib">Укључено је аутоматско ажурирање Чистача</string>
     <string name="toast_keyword_blank">Морате да унесите кључну реч</string>
     <string name="toast_keyword_exist">Кључна реч додана</string>

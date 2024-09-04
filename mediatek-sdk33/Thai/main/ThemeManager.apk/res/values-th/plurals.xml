@@ -112,6 +112,9 @@
     <plurals name="portfolio">
         <item quantity="other">%d งาน</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">คำขอของคุณจะได้รับการดำเนินการภายในเวลาประมาณ %1$d วินาที</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"คืนเงิน %d คำสั่งซื้อเรียบร้อยแล้ว "</item>
     </plurals>

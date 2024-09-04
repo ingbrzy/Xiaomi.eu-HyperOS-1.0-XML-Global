@@ -576,6 +576,10 @@ Most beszerezhet egy %d-napos próbaidőszakot!"</item>
         <item quantity="other">" p"</item>
         <item quantity="one">" p"</item>
     </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d-napos</item>
+        <item quantity="one">%d-napos</item>
+    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d elem</item>
         <item quantity="one">%d elem</item>

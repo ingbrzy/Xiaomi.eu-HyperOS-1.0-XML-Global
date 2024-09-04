@@ -33,6 +33,8 @@
     <string name="abrupt_weather_settings_summary_type">Ontvang waarschuwingen over verwachte regenval, veranderingen in luchtkwaliteit en andere significante veranderingen</string>
     <string name="act_find_city_hint">Locatie invoeren</string>
     <string name="act_find_city_hot_city_title">Populaire steden</string>
+    <string name="act_find_city_location_button_text">Locatie verkrijgen</string>
+    <string name="act_find_city_location_title">Huidige locatie</string>
     <string name="act_location_error_to_find_city">Kon locatie info niet verkrijgen. U kunt handmatig een locatie toevoegen.</string>
     <string name="act_set_city_find_side">Plaatsbepaling</string>
     <string name="act_set_city_find_side_error">Kan apparaat niet lokaliseren</string>
@@ -57,6 +59,7 @@
     <string name="activity_main_update_time">Laatst bijgewerkt: %1$s</string>
     <string name="activity_main_update_time_expire">Gegevens zijn verlopen</string>
     <string name="activity_main_update_time_right_now">zojuist</string>
+    <string name="add_city">Toevoegen</string>
     <string name="afternoon">Middag</string>
     <string name="alert_detail_title">Details over de waarschuwing</string>
     <string name="alert_warning">Weeralarmen</string>
