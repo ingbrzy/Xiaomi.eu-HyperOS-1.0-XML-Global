@@ -220,6 +220,12 @@
         <item quantity="few">%d работы</item>
         <item quantity="many">%d работ</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">Ваш запыт будзе апрацаваны прыкладна праз %1$d секунд.</item>
+        <item quantity="one">Ваш запыт будзе апрацаваны прыкладна праз %1$d секунду.</item>
+        <item quantity="few">Ваш запыт будзе апрацаваны прыкладна праз %1$d секунды.</item>
+        <item quantity="many">Ваш запыт будзе апрацаваны прыкладна праз %1$d секунд.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"Па %d замовах паспяхова вярнуты сродкі. "</item>
         <item quantity="one">"Па %d замове паспяхова вярнуты сродкі. "</item>

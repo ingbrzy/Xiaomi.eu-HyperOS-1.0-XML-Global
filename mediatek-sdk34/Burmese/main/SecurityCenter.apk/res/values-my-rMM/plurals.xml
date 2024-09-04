@@ -419,6 +419,9 @@
     <plurals name="pc_battery_history_minute">
         <item quantity="other">" မိနစ်"</item>
     </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d ရက်</item>
+    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">အကြောင်းအရာ %d ခု</item>
     </plurals>

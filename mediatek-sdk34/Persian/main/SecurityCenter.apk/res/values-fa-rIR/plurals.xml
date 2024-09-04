@@ -564,6 +564,10 @@
         <item quantity="other">" دقیقه"</item>
         <item quantity="one">" دقیقه"</item>
     </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d روز</item>
+        <item quantity="one">%d روز</item>
+    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d مورد</item>
         <item quantity="one">%d مورد</item>

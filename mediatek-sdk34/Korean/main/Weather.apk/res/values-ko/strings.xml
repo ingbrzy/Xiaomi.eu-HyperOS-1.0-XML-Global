@@ -33,6 +33,8 @@
     <string name="abrupt_weather_settings_summary_type">예상 강우량, 대기질 변화 및 기타 중요한 날씨 변화에 대한 알림 수신</string>
     <string name="act_find_city_hint">위치 입력</string>
     <string name="act_find_city_hot_city_title">인기 도시</string>
+    <string name="act_find_city_location_button_text">위치 가져오기</string>
+    <string name="act_find_city_location_title">현재 위치</string>
     <string name="act_location_error_to_find_city">위치 정보를 얻을 수 없습니다. 위치를 수동으로 추가하실 수 있습니다.</string>
     <string name="act_set_city_find_side">위치 설정 중</string>
     <string name="act_set_city_find_side_error">기기 위치를 찾을 수 없습니다.</string>
@@ -57,6 +59,7 @@
     <string name="activity_main_update_time">%1$s 업데이트됨</string>
     <string name="activity_main_update_time_expire">데이터 만료됨</string>
     <string name="activity_main_update_time_right_now">방금</string>
+    <string name="add_city">추가</string>
     <string name="afternoon">오후</string>
     <string name="alert_detail_title">경고 세부사항</string>
     <string name="alert_warning">날씨 경고</string>

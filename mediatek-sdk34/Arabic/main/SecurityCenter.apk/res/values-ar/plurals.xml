@@ -1168,6 +1168,14 @@
         <item quantity="few">" دق"</item>
         <item quantity="many">" دق"</item>
     </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d يوم</item>
+        <item quantity="zero">%d يوم</item>
+        <item quantity="one">%d يوم</item>
+        <item quantity="two">%d أيام</item>
+        <item quantity="few">%d أيام</item>
+        <item quantity="many">%d يوم</item>
+    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d عناصر</item>
         <item quantity="zero">%d عناصر</item>

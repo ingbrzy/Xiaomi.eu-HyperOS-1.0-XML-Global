@@ -590,6 +590,7 @@ beállításait. Alkalmazásadatait nem fogja elveszteni."</string>
     <string name="apps_list_header_title_sms_access">Ellenőrző kódhozzáférések korlátozása</string>
     <string name="ask_create_shortcut">Létrehoz egy parancsikont a Kezdőképernyőn?</string>
     <string name="audio_optimization_summary">A beszélgetések során növeli a hangot és csökkenti a környezeti zajt</string>
+    <string name="audio_optimization_summary_new">A fülhallgatók hangminőségének optimalizálása játék közben és a zaj csökkentése hívások közben</string>
     <string name="audio_optimization_title">Javított hang</string>
     <string name="auto_atsk_condition_battery_level_text_down">Amikor az akkumulátor eléri a %s-ot</string>
     <string name="auto_atsk_condition_battery_level_text_up">Amikor az akkumulátor %s-ra van töltve</string>
@@ -1130,6 +1131,7 @@ Néhány tranzakciója azonban még nem fejeződött be. A hozzájárulás vissz
     <string name="continue_set">Folytatás</string>
     <string name="convenient_mode">Összes alkalmazás feloldása egyszerre</string>
     <string name="convenient_summary">Adja meg a jelszót egyszer az összes alkalmazás feloldásához</string>
+    <string name="conversation_phone_title">Hívás-eszköztár</string>
     <string name="conversation_settings_top">"· Teljes képernyős hang- és videohívások közben csúsztassa ki a Konferenci-eszköztárat az eszköztár funkcióinak eléréséhez.
 ·A funkciók típusa és száma a készülék típusától függ."</string>
     <string name="conversation_sider_tips">A legjobb hívásélmény érdekében használja a Konferencia-eszköztárat</string>
@@ -1144,9 +1146,13 @@ Néhány tranzakciója azonban még nem fejeződött be. A hozzájárulás vissz
     <string name="create_gamebooster_destop">Kezdőképernyő-parancsikon sikeresen létrehozva</string>
     <string name="create_shortcut">Játékgyorsító parancsikon létrehozása a Kezdőképernyőn</string>
     <string name="cs_color_sense">Színhőmérséklet</string>
+    <string name="cs_conversation_record_using">Rögzítés</string>
     <string name="cs_func_toast_headset">A funkció használatához csatlakoztassa le fejhallgatóját</string>
     <string name="cs_func_toast_light">A funkció használatához váltson elülső kamerára</string>
     <string name="cs_func_toast_pickup">A funkció használatához váltson videohívásra</string>
+    <string name="cs_func_unavailable_tips">Hívás közben használja ezt a funkciót</string>
+    <string name="cs_light_enhance_physical_options">Színhőmérséklet</string>
+    <string name="cs_light_enhance_physical_title">Fényerő</string>
     <string name="cs_pickup_denoise_desc">Csökkentse a bejövő hang zaját hangszórók vagy fülhallgatók használata közben</string>
     <string name="cs_pickup_denoise_title">Zajcsökkentés</string>
     <string name="cs_pickup_multi_desc">%d fokos hangfelvétel</string>
@@ -1160,11 +1166,19 @@ Néhány tranzakciója azonban még nem fejeződött be. A hozzájárulás vissz
     <string name="cs_pickup_vioce_print_unsupport_tips">Hanglenyomat rögzítése az „Egy résztvevős” lehetőség kiválasztása előtt</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Válassza le a külső fülhallgatót, és próbálja újra</string>
     <string name="cs_pickup_voice_print_desc">Csak egy személytől vegye fel a hangot</string>
+    <string name="cs_privacy_camera_global_settings_title">Hívásvédelem</string>
     <string name="cs_screen_translation_title">Képernyőfordítás</string>
+    <string name="cs_simultaneous_interpretation_title">Tolmácsolás</string>
     <string name="cs_title_pickup">Zajcsökkentés</string>
     <string name="cs_title_smart_subtitle">Feliratos átírás</string>
     <string name="cs_title_ultraclear">Ultra HD-mód</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Próbálja ki a szinkrontolmácsolást és más konferenciahívás eszközöket az új Hívás eszköztárban</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Próbáljon ki egy sor konferenciahívás funkciót az új Hívás eszköztárban</string>
+    <string name="cs_tool_box_phone_guide_case_1">Próbálja ki a szinkrontolmácsolást és más funkciókat az új Hívás eszköztárban</string>
+    <string name="cs_tool_box_phone_guide_case_2">Próbáljon ki egy sor funkciót az új Hívás eszköztárban</string>
     <string name="cs_voice_print">Hangminta rögzítése</string>
+    <string name="cs_vt_camera_toast_case1">Nyissa meg a kamerát az aktuális alkalmazásban</string>
+    <string name="cs_vt_camera_toast_case2">Nincs kompatibilis eszköz a közelben</string>
     <string name="cta_agree_desc">A szolgáltatásaink használatához engedélyezze az alkalmazás számára, hogy csatlakozzon az internethet és megadja a fenti engedélyeket.</string>
     <string name="cta_close_dialog_cancel">Mégse</string>
     <string name="cta_close_dialog_content">Ha letiltja a Biztonság internethez és helyadatokhoz való hozzáférését, nem fog értesítést kapni a földrengésekről, nem tudja majd frissíteni a vírusdefiníciós adatbázisokat és nem értesül a tiltólistás adatokról. Eszköze kevésbé lesz biztonságos. Így is letiltja?</string>
@@ -1845,6 +1859,8 @@ A szám a kivételek közé kerül, de a korábban letiltott számok nem látsza
     <string name="gb_audition_play_instruction">A legjobb eredmény érdekében használjon fülhallgatót</string>
     <string name="gb_award_noti_message">Kapcsolja be a Game for Peace háttérfrissítéseket a Játékgyorsítóban, ha jutalmakat szeretne kapni.</string>
     <string name="gb_award_noti_title">Itt vannak a Game for Peace jutalmak!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Nem lehet Kiegyenlített módra váltani a Játékgyorsítóban, ha a rendszerszintű Végleges mód be van kapcsolva. Az akkumulátor beállításait a Biztonságban módosíthatja.&lt;br>&lt;a href=\"#\">Biztonság megnyitása&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Nem lehet Kiegyenlített módra váltani a Játékgyorsítóban, ha a rendszerszintű Végleges mód be van kapcsolva. Az akkumulátor beállításait a Biztonságban módosíthatja. &lt;br>&lt;a href=\"#\">Biztonság megnyitása&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">Magas</string>
     <string name="gb_bar_low">Alacsony</string>
     <string name="gb_bar_mid">Közepes</string>
@@ -2000,6 +2016,8 @@ de növeli az energiafogyasztást és lehetővé teszi a készülék túlmeleged
     <string name="gb_predownload_receive_tips">A jutalmak megszerzéséhez kapcsolja be a háttérfrissítéseket</string>
     <string name="gb_predownload_receiving">Fogadás…</string>
     <string name="gb_predownload_title">Háttérfrissítések</string>
+    <string name="gb_setting_dock_toast">Az elülső kamera asszisztens funkciói már elérhetők a Hívás eszköztárban</string>
+    <string name="gb_setting_dock_toast_2">Az elülső kamera asszisztens funkciói már elérhetők a Hívás eszköztárban</string>
     <string name="gb_shortcut_pref_title">Kezdőképernyő-parancsikon</string>
     <string name="gb_shoulder_guide_message1">[L] mozgatása bármely funkcionális pozícióba, és használata a felugró kiváltón keresztül</string>
     <string name="gb_shoulder_guide_message2">Az [1] művelet a gomb megnyomásával aktiválódik. A [2] művelet a gomb felengedésével aktiválódik.</string>
@@ -2135,9 +2153,21 @@ fontos pillanatait"</string>
     <string name="gd_dock_shortcut_splitescreen">Osztott képernyő</string>
     <string name="gd_setting_conversation">Konferencia-eszköztár</string>
     <string name="gd_setting_conversation_desc">Számos funkciót biztosít a teljes képernyős audio- és videohívásokhoz</string>
+    <string name="gd_setting_dock_activity_title">Oldalsó eszköztár</string>
+    <string name="gd_setting_dock_call_summary">Funkciók hang- és videohívásokhoz (pl. kitöltőfény)</string>
+    <string name="gd_setting_dock_call_title">Hívás-eszköztár</string>
+    <string name="gd_setting_dock_game_summary">Növelje a kijelzőt és a teljesítményt játék közben</string>
+    <string name="gd_setting_dock_game_summary_new">Növelje a kijelzőt és a teljesítményt játék közben</string>
+    <string name="gd_setting_dock_summary">Nyisson meg más alkalmazásokat lebegő ablakokban, miközben egy alkalmazást teljes képernyőn használ</string>
+    <string name="gd_setting_dock_title">Oldalsáv</string>
+    <string name="gd_setting_dock_video_summary">Használjon például Dolby Atmos effekteket videók megtekintése közben</string>
+    <string name="gd_setting_dock_video_summary_new">Használjon eszközöket és effekteket videók megtekintése közben</string>
+    <string name="gd_setting_group_custom_conversation_apps">Hangminta rögzítése hívásokhoz</string>
     <string name="gd_setting_group_custom_gtb_apps">Játékok</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Játékalkalmazások kezelése</string>
     <string name="gd_setting_group_custom_settings">Testreszabás</string>
     <string name="gd_setting_group_custom_vtb_apps">Videoalkalmazások</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Videoalkalmazások kezelése</string>
     <string name="gd_setting_group_title_switch">Képkörnyezetek</string>
     <string name="gd_setting_gtb">Megjelenítés játék közben</string>
     <string name="gd_setting_gtb_desc">Különleges játékfunkciók</string>
@@ -2157,11 +2187,17 @@ fontos pillanatait"</string>
     <string name="get_phone_num_fail">Ismeretlen telefonszám</string>
     <string name="get_sys_info">Adatok lekérése…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">Az ablak mozgatásához tartsa lenyomva hosszan a jelzőt</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Lebegő ablakban való megnyitáshoz koppintson egy alkalmazásra az oldalsávon.
 · Húzza az alkalmazást a képernyő közepére a lebegő ablakban való megnyitásához, vagy oldalra az osztott képernyő használatához.
 · Az ablak mozgatásához koppintson rá és tartsa lenyomva az indikátort."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"A lebegő ablakban történő megnyitáshoz érintsen meg egy alkalmazást az oldalsávon.
+Húzza az alkalmazást a képernyő közepére a lebegő ablakos megnyitáshoz, vagy oldalra az Osztott képernyő használatához.
+Az ablak mozgatásához nyomja hosszan a mutatót."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Lebegő ablakban való megnyitáshoz koppintson egy alkalmazásra az oldalsávon.
 · Az ablak mozgatásához koppintson rá és tartsa lenyomva az indikátort."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Az oldalsáv megnyitásához csúsztasson, az alkalmazás lebegő ablakban történő megnyitásához pedig koppintson az alkalmazásra.
+Az ablak mozgatásához nyomja hosszan a jelzőt."</string>
     <string name="global_satisfaction_notification_button">Minősítés</string>
     <string name="global_satisfaction_notification_channel">Felhasználói elégedettségi felmérés</string>
     <string name="global_satisfaction_notification_subhead">Mondja el tapasztalatait</string>
@@ -3182,6 +3218,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="pc_battery_history_total_consumption_title">Teljes energiafogyasztás</string>
     <string name="pc_battery_history_usetime_title">Aktív</string>
     <string name="pc_battery_low_health_reminder">Ideje kicserélni az akkumulátort</string>
+    <string name="pc_battery_replacement_service_title">Próbálja ki akkumulátorcsere-szolgáltatásunkat. %1$s eredeti hardver, %2$s garanciával.</string>
     <string name="pc_berserk_mode_dialog_title">Végleges mód bekapcsolása</string>
     <string name="pc_berserk_mode_noti_summary">A végleges mód növelheti az energiafogyasztást és túlmelegedési problémákhoz vezethet.</string>
     <string name="pc_berserk_mode_performance_title">Végleges mód</string>
@@ -3255,6 +3292,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="pc_fast_charge_switch_summary_new">Emlékeztet a töltési sebesség növelésére, ha a mellékelt töltő csatlakoztatva van, és az akkumulátor töltöttségi szintje a beállított szint alá csökken.</string>
     <string name="pc_fast_charge_switch_title">A töltési sebesség növelése</string>
     <string name="pc_fast_charge_switch_toast_message">A módosítások a készülék következő feltöltésekor lépnek érvénybe</string>
+    <string name="pc_fast_charge_temp_remider">Kapcsolja be a töltési sebesség automatikus szabályozásához. Ez a funkció csak a Xiaomi által szállított töltőkkel működik. A készülék töltés közben felmelegedhet.</string>
     <string name="pc_fast_charge_title">A töltési sebesség növelése</string>
     <string name="pc_going_to_exit_extreme_mode">Kilépés Hibernálás módból</string>
     <string name="pc_going_to_exit_extreme_mode_summary">A készülék töltődik. A Hibernálás mód ki van kapcsolva.</string>
@@ -3343,6 +3381,16 @@ Ultraerős akkumulátorkímélő"</string>
     <string name="pc_search_keywords_capacity">Akkumulátorkapacitás</string>
     <string name="pc_search_keywords_property">Teljesítmény</string>
     <string name="pc_settings_title">Akkumulátor</string>
+    <string name="pc_smart_charge_button_summary">Az akkumulátor élettartamának meghosszabbítása érdekében a rendszer megtanulja, hogyan töltheti fel az eszközt, és hogyan állíthatja le a töltést, ha az akkumulátor töltöttségi szintje eléri a %1$s értéket.</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">A készülék felmelegedett. A töltés leáll, ha az akkumulátor töltöttségi szintje eléri a %1$s értéket</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Navigálás… A töltés leáll, ha az akkumulátor töltöttségi szintje eléri a %1$s értéket</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">A töltés leáll, ha eléri a(z) %s értéket</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">Az akkumulátor élettartamának meghosszabbítása érdekében az eszköz akkumulátora nem haladja meg az aktuális szintet, amíg az autóhoz csatlakozik.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Ne jelenjen meg újra</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Akkumulátorvédelem</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">Az akkumulátor élettartamának meghosszabbítása érdekében az eszköz akkumulátora nem haladja meg az aktuális szintet, amíg az autóhoz csatlakozik</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Akkumulátorvédelem</string>
+    <string name="pc_smart_charge_title">Okos töltés</string>
     <string name="pc_smart_discharge_checkbox_summary">A navigációs funkciók használatakor a töltés automatikusan leáll egy megadott százalékon. Az akkumulátorkímélő kikapcsol.</string>
     <string name="pc_smart_discharge_checkbox_title">Töltés automatikus lecsatlakozása</string>
     <string name="pc_smart_discharge_drop_down_title">Automatikus lecsatlakozási beállítások</string>
@@ -3355,6 +3403,8 @@ Ultraerős akkumulátorkímélő"</string>
     <string name="pc_statistics_battery_use_title">Akkumulátorhasználat</string>
     <string name="pc_suggest_open_fast_charge">%dW gyorstöltés bekapcsolása</string>
     <string name="pc_temperature_too_high">Az eszköz túlmelegedett</string>
+    <string name="pc_this_time_charge_full">Ezúttal teljesen töltse fel</string>
+    <string name="pc_this_time_charge_full_work">Majdnem teljesen feltöltve</string>
     <string name="pc_timely_charging_summary">Az akkumulátor töltöttsége %1$s alatt van. Károsodhat az akkumulátor, ha a készülék túlmelegszik, miközben a töltöttségi szint alacsony.</string>
     <string name="pc_timely_charging_title">Töltse fel készülékét</string>
     <string name="pc_to_phone_install">%s telepítése letiltva az USB-ről</string>
@@ -4375,6 +4425,13 @@ Visszavonja most a hozzájárulását?"</string>
     <string name="sd_mount">SD-kártya csatlakoztatása</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">Alkalmazás</string>
+    <string name="search_keyword_applybar">App dokkoló</string>
+    <string name="search_keyword_call">Hívás</string>
+    <string name="search_keyword_sidebar">Oldalsáv</string>
+    <string name="search_keyword_tool">Eszközök</string>
+    <string name="search_keyword_tools">Eszköztár</string>
+    <string name="search_keyword_voice">Hang</string>
     <string name="search_menu_title">Keresés</string>
     <string name="search_result_text">Nem található alkalmazás</string>
     <string name="section_clear_acc_item_title">%s. Ha még mindig nincs elég tárhely, használja a Tisztítót.</string>
@@ -5164,6 +5221,7 @@ A formázás eltávolítja a tartalmakat a(z) ^2 SD-kártyáról. A tartalmak el
     <string name="title_cloud_space_almost_full">A felhőtárhely hamarosan megtelik, néhány tétel lehet, hogy nem lesz szinkronizálva</string>
     <string name="title_cloud_space_full">A felhő megtelt</string>
     <string name="title_cmcc_app_check">Az ellenőrzés még nem fejeződött be</string>
+    <string name="title_condition_meeting">Találkozó</string>
     <string name="title_consume_power_rank">Alkalmazások energiafogyasztása</string>
     <string name="title_dark_mode">Néhány elem megjelenítése nem megfelelő</string>
     <string name="title_data_flow">Mobiladatok ellenőrzése</string>
@@ -5224,6 +5282,8 @@ A formázás eltávolítja a tartalmakat a(z) ^2 SD-kártyáról. A tartalmak el
     <string name="toast_cleaner_cloudscan">A tisztító az online adatbázist fogja használni</string>
     <string name="toast_dark_mode_fixed">Sikeresen javítva. A változások érvénybelépéséhez hagyja el ezt az oldalt.</string>
     <string name="toast_flow_notification">Adatforgalmi figyelmeztetés bekapcsolva</string>
+    <string name="toast_gamembox_unenable_pad">Először kapcsolja be a Játékgyorsító funkciót a Biztonság menüpontban</string>
+    <string name="toast_gamembox_unenable_phone">Először kapcsolja be a Játékgyorsító funkciót a Biztonság menüpontban</string>
     <string name="toast_garbage_lib">A tisztító automatikus frissítése bekapcsolva</string>
     <string name="toast_keyword_blank">Adjon meg egy kulcsszót</string>
     <string name="toast_keyword_exist">Kulcsszó hozzáadva</string>

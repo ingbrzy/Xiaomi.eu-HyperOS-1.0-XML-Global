@@ -278,7 +278,7 @@
     <string name="app_behavior_link_start">Reťazové spustenie</string>
     <string name="app_behavior_list_load_more">Načítava sa…</string>
     <string name="app_behavior_menu_about">O nahrávkach</string>
-    <string name="app_behavior_no_recorder">Zatiaľ tu nič nie je</string>
+    <string name="app_behavior_no_recorder">Zatiaľ žiadne položky</string>
     <string name="app_behavior_now_running">Spustené</string>
     <string name="app_behavior_perm_allow_always_danger_tip">Po udelení povolenia môžu aplikácie vykonávať senzitívne akcie</string>
     <string name="app_behavior_perm_change_dialog_desc_title">O tomto povolení:</string>
@@ -558,11 +558,11 @@ Neprídete o žiadne údaje aplikácií."</string>
     <string name="applock_operate_faceunlock_title">Použiť údaje o tvári</string>
     <string name="applock_operate_fingerprint_summary">Zámok aplikácií podporuje pridanie viacerých odtlačkov prsta</string>
     <string name="applock_operate_fingerprint_title">Použite váš odtlačok prsta</string>
-    <string name="applock_operate_hidenoti_summary">Zámok aplikácie toto dokáže pre chránené aplikácie</string>
+    <string name="applock_operate_hidenoti_summary">Zámok aplikácií toto dokáže pre chránené aplikácie</string>
     <string name="applock_operate_hidenoti_title">Chcete skryť citlivé upozornenia?</string>
     <string name="applock_recommend_tips">%s používateľov chráni tieto aplikácie</string>
     <string name="applock_recommend_title">Vyberte aplikácie</string>
-    <string name="applock_set_complete">Použiť Zámok aplikácií</string>
+    <string name="applock_set_complete">Použite Zámok aplikácií</string>
     <string name="applock_set_password_title">Zmeniť typ hesla</string>
     <string name="applock_settings_unlock_all_toast">Odomknúť všetky aplikácie</string>
     <string name="applock_toast_tip">Zámok aplikácií úspešne overený</string>
@@ -590,6 +590,7 @@ Neprídete o žiadne údaje aplikácií."</string>
     <string name="apps_list_header_title_sms_access">Zakázať prístup k overovacím kódom</string>
     <string name="ask_create_shortcut">Vytvoriť odkaz na Domovskú obrazovku?</string>
     <string name="audio_optimization_summary">Zlepšite zvuk a obmedzte okolitý hluk v konverzáciách</string>
+    <string name="audio_optimization_summary_new">Optimalizujte kvalitu zvuku slúchadiel pri hraní hier a znížte šum počas hovorov</string>
     <string name="audio_optimization_title">Vylepšený zvuk</string>
     <string name="auto_atsk_condition_battery_level_text_down">Keď batéria dosiahne %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Keď bude batéria nabitá na %s</string>
@@ -968,7 +969,7 @@ Niektoré z vašich transakcií však ešte nie sú dokončené. Ak chcete odvol
     <string name="card_main_deepclean_title">Hĺbkové čistenie</string>
     <string name="card_main_deepclean_wechat_action">Vymazať</string>
     <string name="card_main_deepclean_wechat_summary">Vymažte vyrovnávaciu pamäť WeChatu pre uvoľnenie úložiska</string>
-    <string name="card_main_deepclean_wechat_title">Čistenie WeChat</string>
+    <string name="card_main_deepclean_wechat_title">Čistenie WeChatu</string>
     <string name="card_main_facebookclean_title">Čistenie Facebooku</string>
     <string name="card_main_galleryclean_title">Vymazať fotografie</string>
     <string name="card_main_gamebooster_summary">Zlepšiť stabilitu pripojenia pre hranie hier</string>
@@ -1130,6 +1131,7 @@ Niektoré z vašich transakcií však ešte nie sú dokončené. Ak chcete odvol
     <string name="continue_set">Pokračovať</string>
     <string name="convenient_mode">Odblokovať všetky apl. súčasne</string>
     <string name="convenient_summary">Jediným zadaním hesla odomknete všetky aplikácie</string>
+    <string name="conversation_phone_title">Sada nástrojov pre volanie</string>
     <string name="conversation_settings_top">"·Vysunutím panela konferenčných nástrojov počas hovorov a videohovorov na celú obrazovku získate prístup k jeho funkciám.
 ·Typ a počet funkcií závisí od modelu zariadenia."</string>
     <string name="conversation_sider_tips">Použite nové Konferenčné nástroje pre najlepší zážitok z hovoru</string>
@@ -1144,9 +1146,13 @@ Niektoré z vašich transakcií však ešte nie sú dokončené. Ak chcete odvol
     <string name="create_gamebooster_destop">Odkaz na Domovskú obrazovku úspešne vytvorený</string>
     <string name="create_shortcut">Vytvoriť odkaz na Game Turbo na Domovskú obrazovku</string>
     <string name="cs_color_sense">Teplota farby</string>
+    <string name="cs_conversation_record_using">Nahrávanie</string>
     <string name="cs_func_toast_headset">Odpojte slúchadlá s mikrofónom pre použitie tejto funkcie</string>
     <string name="cs_func_toast_light">Prepnite na predný fotoaparát pre použitie tejto funkcie</string>
     <string name="cs_func_toast_pickup">Prepnite na videohovor pre použitie tejto funkcie</string>
+    <string name="cs_func_unavailable_tips">Použiť túto funkciu počas hovorov</string>
+    <string name="cs_light_enhance_physical_options">Teplota farby</string>
+    <string name="cs_light_enhance_physical_title">Jas</string>
     <string name="cs_pickup_denoise_desc">Znížiť šum prichádzajúceho zvuku pri používaní reproduktorov alebo slúchadiel</string>
     <string name="cs_pickup_denoise_title">Redukcia šumu</string>
     <string name="cs_pickup_multi_desc">%d prehrávanie zvuku</string>
@@ -1160,11 +1166,19 @@ Niektoré z vašich transakcií však ešte nie sú dokončené. Ak chcete odvol
     <string name="cs_pickup_vioce_print_unsupport_tips">Skôr ako vyberiete možnosť „Jeden účastník“, nahrajte hlas.</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Odpojte externé zariadenia a skúste to znova.</string>
     <string name="cs_pickup_voice_print_desc">Zachytávajte hlas iba jednej osoby</string>
+    <string name="cs_privacy_camera_global_settings_title">Súkromie hovorov</string>
     <string name="cs_screen_translation_title">Preklad obrazovky</string>
+    <string name="cs_simultaneous_interpretation_title">Prekladanie</string>
     <string name="cs_title_pickup">Redukcia hluku</string>
     <string name="cs_title_smart_subtitle">Prepis konverzácie</string>
     <string name="cs_title_ultraclear">Režim Ultra HD</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Vyskúšajte simultánne tlmočenie a ďalšie nástroje pre konferenčné hovory v novom paneli nástrojov hovorov</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Vyskúšajte celý rad funkcií konferenčných hovorov v novom paneli nástrojov hovorov</string>
+    <string name="cs_tool_box_phone_guide_case_1">Vyskúšajte simultánne tlmočenie a ďalšie funkcie v novom paneli nástrojov hovorov</string>
+    <string name="cs_tool_box_phone_guide_case_2">Vyskúšajte celý rad funkcií v novom paneli nástrojov hovorov</string>
     <string name="cs_voice_print">Nahrajte hlas</string>
+    <string name="cs_vt_camera_toast_case1">Otvorte fotoaparát v aktuálnej aplikácii</string>
+    <string name="cs_vt_camera_toast_case2">V okolí nie sú žiadne kompatibilné zariadenia</string>
     <string name="cta_agree_desc">Aby ste mohli používať naše služby, povoľte tejto aplikácii pripojenie na internet a udeľovanie povolení uvedených vyššie.</string>
     <string name="cta_close_dialog_cancel">Zrušiť</string>
     <string name="cta_close_dialog_content">Ak zakážete prístup Zabezpečenia k internetu a prístupu k polohe, nebudete môcť dostávať upozornenia na zemetrasenia, aktualizácie vírusovej databázy a informácie o zozname blokovaných. Vaše zariadenie bude menej bezpečené. Zakázať napriek tomu?</string>
@@ -1769,7 +1783,7 @@ Bude pridané do výnimiek, no predošlé blokované položky sa nezobrazia v hi
     <string name="gamebox_manual_record">Nahrať</string>
     <string name="gamebox_mem_clean">Vyčistiť pamäť</string>
     <string name="gamebox_mem_filter">Herné filtre</string>
-    <string name="gamebox_milink">Preniesť</string>
+    <string name="gamebox_milink">Prenos obrazu</string>
     <string name="gamebox_net_optimize_description">Obmedzte latenciu a výkyvy siete WLAN. Použite router Xiaomi alebo Redmi a využite špeciálne režimy určené na zvýšenie rýchlosti.</string>
     <string name="gamebox_positive_button_text">OK (%1$ds)</string>
     <string name="gamebox_qq_not_find">Nainštalujte QQ a skúste to znovu.</string>
@@ -1844,6 +1858,8 @@ Bude pridané do výnimiek, no predošlé blokované položky sa nezobrazia v hi
     <string name="gb_audition_play_instruction">Použiť slúchadlá pre najlepší efekt</string>
     <string name="gb_award_noti_message">Zapnite aktualizácie na pozadí pre Game for Peace v Game Turbo a získajte odmeny</string>
     <string name="gb_award_noti_title">Sú tu odmeny pre Game for Peace!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Nie je možné prepnúť do Vyváženého režimu v Game Turbo, keď je zapnutý Ultimátny režim pre celý systém. Nastavenia batérie môžete zmeniť v časti Zabezpečenie.&lt;br>&lt;a href=\"#\">Otvoriť Zabezpečenie&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Nie je možné prepnúť do Vyváženého režimu v Game Turbo, keď je zapnutý Ultimátny režim pre celý systém. Nastavenia batérie môžete zmeniť v časti Zabezpečenie. &lt;br>&lt;a href=\"#\">Otvoriť Zabezpečenie&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">Vysoká</string>
     <string name="gb_bar_low">Nízka</string>
     <string name="gb_bar_mid">Stredná</string>
@@ -1999,6 +2015,8 @@ ale tiež zvyšuje spotrebu energie a môže spôsobiť prehrievanie vášho zar
     <string name="gb_predownload_receive_tips">Pre získanie odmien, zapnite aktualizácie na pozadí</string>
     <string name="gb_predownload_receiving">Prijíma sa…</string>
     <string name="gb_predownload_title">Aktualizácie na pozadí</string>
+    <string name="gb_setting_dock_toast">V sade nástrojov hovorov sú teraz k dispozícii funkcie asistenta predného fotoaparátu</string>
+    <string name="gb_setting_dock_toast_2">V sade nástrojov hovorov sú teraz k dispozícii funkcie asistenta predného fotoaparátu</string>
     <string name="gb_shortcut_pref_title">Odkaz na Domovskú obrazovku</string>
     <string name="gb_shoulder_guide_message1">Pohnite [L] do akejkoľvek funkčnej polohy a používajte ho cez čelné tlačidlá</string>
     <string name="gb_shoulder_guide_message2">Akcia [1] sa aktivuje stlačením tlačidla. Akcia [2] sa aktivuje uvoľnením tlačidla.</string>
@@ -2134,9 +2152,21 @@ hrania vašich hier"</string>
     <string name="gd_dock_shortcut_splitescreen">Rozdelená obrazovka</string>
     <string name="gd_setting_conversation">Konferenčné nástroje</string>
     <string name="gd_setting_conversation_desc">Poskytuje množstvo funkcií pre audio a video hovory na celú obrazovku</string>
+    <string name="gd_setting_dock_activity_title">Bočný panel nástrojov</string>
+    <string name="gd_setting_dock_call_summary">Funkcie pre hlasové hovory a videohovory (napr. doplnkové svetlo)</string>
+    <string name="gd_setting_dock_call_title">Sada nástrojov pre volanie</string>
+    <string name="gd_setting_dock_game_summary">Vylepšite zobrazenie a výkon pri hraní hier</string>
+    <string name="gd_setting_dock_game_summary_new">Vylepšite zobrazenie a výkon pri hraní hier</string>
+    <string name="gd_setting_dock_summary">Otvorte počas používania aplikácie na celej obrazovke iné aplikácie v plávajúcich oknách</string>
+    <string name="gd_setting_dock_title">Bočný panel</string>
+    <string name="gd_setting_dock_video_summary">Využite pri sledovaní videí efekty ako napr. Dolby Atmos</string>
+    <string name="gd_setting_dock_video_summary_new">Využite pri sledovaní videí nástroje a efekty</string>
+    <string name="gd_setting_group_custom_conversation_apps">Nahrať hlas pre hovory</string>
     <string name="gd_setting_group_custom_gtb_apps">Hry</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Spravovať herné aplikácie</string>
     <string name="gd_setting_group_custom_settings">Prispôsobenie</string>
     <string name="gd_setting_group_custom_vtb_apps">Video aplikácie</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Spravovať aplikácie videa</string>
     <string name="gd_setting_group_title_switch">Scény</string>
     <string name="gd_setting_gtb">Zobraziť počas hrania hier</string>
     <string name="gd_setting_gtb_desc">Špeciálne funkcie pre hranie hier</string>
@@ -2156,11 +2186,17 @@ hrania vašich hier"</string>
     <string name="get_phone_num_fail">Neznáme telefónne číslo</string>
     <string name="get_sys_info">Získavanie informácií…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">Pridržaním indikátora presuniete okno</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Ťuknite na aplikáciu na bočnom paneli pre otvorenie plávajúceho okna..
 · Presuňte aplikáciu do stredu obrazovky pre jej otvorenie v plávajúcom okne alebo na kraj obrazovky pre jej otvorenie pomocou funkcie Rozdelená obrazovka.
 · Stlačte a podržte prst na indikátore pre presunutie okna."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"Ťuknite na aplikáciu na bočnom paneli pre otvorenie plávajúceho okna..
+·Presuňte aplikáciu do stredu obrazovky pre jej otvorenie v plávajúcom okne alebo na kraj obrazovky pre jej otvorenie pomocou funkcie Rozdelená obrazovka.
+·Stlačte a podržte prst na indikátore pre presunutie okna."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Ťuknite na aplikáciu na bočnom paneli pre otvorenie plávajúceho okna.
 · Stlačte a pridržte prst na indikátore na presunutie okna."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Potiahnutím otvoríte bočný panel a ťuknutím na aplikáciu ju otvoríte v plávajúcom okne.
+Pridržaním indikátora okno posuniete."</string>
     <string name="global_satisfaction_notification_button">Ohodnotiť</string>
     <string name="global_satisfaction_notification_channel">Prieskum užívateľskej spokojnosti</string>
     <string name="global_satisfaction_notification_subhead">Podeľte sa s nami o svoju skúsenosť</string>
@@ -3109,7 +3145,7 @@ Skúste použiť iný ethernetový kábel pre pripojenie routera. Ak si myslíte
     <string name="optmizingbar_title_clear">Vymazať vyrovnávaciu pamäť</string>
     <string name="optmizingbar_title_security">Bezpečnosť</string>
     <string name="optmizingbar_title_system">Zabezpečenie systému</string>
-    <string name="order_bh_net_empty">Zatiaľ tu nič nie je</string>
+    <string name="order_bh_net_empty">Zatiaľ žiadne položky</string>
     <string name="order_bh_net_error">Žiadna sieť</string>
     <string name="organization">Organizácia</string>
     <string name="other">Ostatné nastavenia</string>
@@ -3176,6 +3212,7 @@ Skúste použiť iný ethernetový kábel pre pripojenie routera. Ak si myslíte
     <string name="pc_battery_history_total_consumption_title">Celková spotreba energie</string>
     <string name="pc_battery_history_usetime_title">Aktívny</string>
     <string name="pc_battery_low_health_reminder">Je čas na výmenu batérie</string>
+    <string name="pc_battery_replacement_service_title">Vyskúšajte našu službu výmeny batérie. %1$s originálny hardvér s %2$s zárukou.</string>
     <string name="pc_berserk_mode_dialog_title">Zapnúť Ultimátny režim</string>
     <string name="pc_berserk_mode_noti_summary">Ultimátny režim môže zvýšiť spotrebu energie a viesť k prehriatiu zariadenia</string>
     <string name="pc_berserk_mode_performance_title">Ultimátny režim</string>
@@ -3249,6 +3286,7 @@ Skúste použiť iný ethernetový kábel pre pripojenie routera. Ak si myslíte
     <string name="pc_fast_charge_switch_summary_new">Pripomenúť zvýšenie rýchlosti nabíjania, keď je pripojená nabíjačka dodávaná so zariadením a nabitie batérie zariadenia klesne pod nastavenú hodnotu</string>
     <string name="pc_fast_charge_switch_title">Zrýchliť rýchlosť nabíjania</string>
     <string name="pc_fast_charge_switch_toast_message">Zmeny sa použijú pri najbližšom nabití tohto zariadenia</string>
+    <string name="pc_fast_charge_temp_remider">Zapnite pre automatickú rýchlosť regulovania nabíjania. Táto funkcia funguje iba s nabíjačkami dodávanými spoločnosťou Xiaomi. Vaše zariadenie sa môže počas nabíjania zahrievať.</string>
     <string name="pc_fast_charge_title">Zrýchliť rýchlosť nabíjania</string>
     <string name="pc_going_to_exit_extreme_mode">Ukončuje sa \"Režim hibernácie\"</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Vaše zariadenie sa nabíja. Režim hibernácie je vypnutý.</string>
@@ -3337,6 +3375,16 @@ ultra šetrenia batérie"</string>
     <string name="pc_search_keywords_capacity">Kapacita batérie</string>
     <string name="pc_search_keywords_property">Výkon</string>
     <string name="pc_settings_title">Batéria</string>
+    <string name="pc_smart_charge_button_summary">Aby sa predĺžila životnosť batérie, systém sa naučí, ako svoje zariadenie nabíjate, a ukončí nabíjanie po dosiahnutí %1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Zariadenie sa zahrieva. Nabíjanie sa zastaví, keď úroveň batérie dosiahne %1$s</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Navigácia… Nabíjanie sa zastaví, keď úroveň batérie dosiahne %1$s</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">Nabíjanie sa zastaví po dosiahnutí %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">Z dôvodu predĺženia životnosti batérie, batéria tohto zariadenia počas pripojenia k autu neprekročí aktuálnu úroveň.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Viac nezobrazovať</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Ochrana batérie</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">Z dôvodu predĺženia životnosti batérie, batéria tohto zariadenia počas pripojenia k autu neprekročí aktuálnu úroveň</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Ochrana batérie</string>
+    <string name="pc_smart_charge_title">Inteligentné nabíjanie</string>
     <string name="pc_smart_discharge_checkbox_summary">Pri používaní navigačných funkcií sa nabíjanie automaticky zastaví pri určitom percente. Šetrenie batérie sa vypne.</string>
     <string name="pc_smart_discharge_checkbox_title">Automatické odpojenie nabíjania</string>
     <string name="pc_smart_discharge_drop_down_title">Nastavenia automatického odpojenia</string>
@@ -3349,6 +3397,8 @@ ultra šetrenia batérie"</string>
     <string name="pc_statistics_battery_use_title">Využitie batérie</string>
     <string name="pc_suggest_open_fast_charge">Zapnite %dW rýchlonabíjanie</string>
     <string name="pc_temperature_too_high">Zariadenie sa prehrieva</string>
+    <string name="pc_this_time_charge_full">Tentokrát nabiť na 100%</string>
+    <string name="pc_this_time_charge_full_work">Takmer nabité</string>
     <string name="pc_timely_charging_summary">Batéria má menej ako %1$s. Keď sa zariadenie prehrieva pri vybitej batérii, môže dôjsť k poškodeniu batérie.</string>
     <string name="pc_timely_charging_title">Nabite vaše zariadenie</string>
     <string name="pc_to_phone_install">Blokovaná inštalácia apl. %s z USB</string>
@@ -4369,6 +4419,13 @@ Odvolať váš súhlas teraz?"</string>
     <string name="sd_mount">Pripojiť SD kartu</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">Aplikácia</string>
+    <string name="search_keyword_applybar">Dok aplikácií</string>
+    <string name="search_keyword_call">Hovor</string>
+    <string name="search_keyword_sidebar">Bočný panel</string>
+    <string name="search_keyword_tool">Nástroje</string>
+    <string name="search_keyword_tools">Panel nástrojov</string>
+    <string name="search_keyword_voice">Hlas</string>
     <string name="search_menu_title">Hľadať</string>
     <string name="search_result_text">Nenašla sa žiadna aplikácia</string>
     <string name="section_clear_acc_item_title">%s. Ak stále chýba miesto, skúste použiť Čistenie.</string>
@@ -4794,7 +4851,7 @@ Odvolať váš súhlas teraz?"</string>
     <string name="storage_app_detail_uninstall_dialog_message">Ak odinštalujete aplikáciu, odstránia sa aj všetky údaje aplikácie.</string>
     <string name="storage_app_detail_uninstall_dialog_title">Odinštalovať teraz?</string>
     <string name="storage_app_detail_uninstall_done">Úspešne odinštalované</string>
-    <string name="storage_app_detail_wechat_cleaner">Čistenie WeChat</string>
+    <string name="storage_app_detail_wechat_cleaner">Čistenie WeChatu</string>
     <string name="storage_app_detail_wechat_session">Vymazať históriu četov WeChatu</string>
     <string name="storage_app_list_activity_title">Podrobnosti aplikácie</string>
     <string name="storage_app_list_desc">Obsadené miesto: %s</string>
@@ -5158,6 +5215,7 @@ Formátovanie vymaže existujúci obsah na ^2 karte. Aby ste sa vyhli strate úd
     <string name="title_cloud_space_almost_full">Cloudové úložisko je takmer plné. Položky sa nemusia synchr.</string>
     <string name="title_cloud_space_full">Cloudové úložisko je plné</string>
     <string name="title_cmcc_app_check">Overenie nie je dokončené</string>
+    <string name="title_condition_meeting">Schôdza</string>
     <string name="title_consume_power_rank">Spotreba batérie</string>
     <string name="title_dark_mode">Niektoré položky sa nezobrazujú správne</string>
     <string name="title_data_flow">Kontrolovať spotrebu dát</string>
@@ -5218,6 +5276,8 @@ Formátovanie vymaže existujúci obsah na ^2 karte. Aby ste sa vyhli strate úd
     <string name="toast_cleaner_cloudscan">Čistenie použije online databázu</string>
     <string name="toast_dark_mode_fixed">Úspešne opravené. Opustite túto stránku pre vykonanie zmien.</string>
     <string name="toast_flow_notification">Upozornenie na spotrebu dát je povolené</string>
+    <string name="toast_gamembox_unenable_pad">Najprv zapnite v Zabezpečení funkciu Game Turbo</string>
+    <string name="toast_gamembox_unenable_phone">Najprv zapnite v Zabezpečení funkciu Game Turbo</string>
     <string name="toast_garbage_lib">Automatické aktualizácie pre Čistenie povolené</string>
     <string name="toast_keyword_blank">Zadajte text alebo čísla.</string>
     <string name="toast_keyword_exist">Kľúčové slovo uložené</string>
@@ -5394,7 +5454,7 @@ Vaše zariadenie sa môže zahrievať a spotrebovať viac energie."</string>
     <string name="vb_quick_func_hangup_listening">Prehrať zvuk videa s vypnutou obrazovkou</string>
     <string name="vb_quick_func_screen_capture">Snímka obrazovky</string>
     <string name="vb_quick_func_screen_record">Nahrať</string>
-    <string name="vb_quick_func_screening">Prenášať</string>
+    <string name="vb_quick_func_screening">Prenos obrazu</string>
     <string name="vb_settings">Nastavenia</string>
     <string name="vb_super_power_save_mode_conflict_toast">Túto funkciu nie je možné použiť, keď je zapnuté Ultra šetrenie batérie</string>
     <string name="vb_theatre_switch_guide">Ťuknite pre prepnutie do Režimu divadlo</string>

@@ -564,6 +564,10 @@
         <item quantity="other">" dəq"</item>
         <item quantity="one">" dəq"</item>
     </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%dgün</item>
+        <item quantity="one">%d gün</item>
+    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d element</item>
         <item quantity="one">%d element</item>

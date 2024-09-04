@@ -77,6 +77,7 @@
     <string name="cancel">Отказ</string>
     <string name="cancel_moving_dialog_message">Спиране на импортирането сега?</string>
     <string name="cancel_moving_dialog_title">Спри импортирането</string>
+    <string name="cancel_tranfer">Отказ</string>
     <string name="cannot_use_mi_huanji_button">Разбрах</string>
     <string name="cannot_use_mi_huanji_summary">Изглежда в момента MIUI архивира елементи. Спрете текущите архивирания или рестартирайте устройството си, за да позволите на Mi Mover да започне прехвърлянето.</string>
     <string name="cannot_use_mi_huanji_title">В момента не може да се прехвърля</string>
@@ -269,6 +270,7 @@
     <string name="guest_unfinished_task_alert_message">Изглежда имате незавършени задачи за прехвърляне. Продължаване с прехвърлянето?</string>
     <string name="guest_unfinished_task_alert_title">Незавършени задачи</string>
     <string name="hide_password_description">Скриване на паролата</string>
+    <string name="high_temp_summary">Вашето устройство може да се нагрее, докато прехвърля големи количества данни. Това е нормално и Вашето устройство ще се охлади след приключване на прехвърлянето.</string>
     <string name="host_boot_installation_bottom_tips">Не откривате Mi Mover? Натиснете, за да го изтеглите.</string>
     <string name="host_boot_installation_button">Напред</string>
     <string name="host_boot_installation_dialog_message">Версията на Mi Mover на старото ви устройство не е съвместима с инсталираната тук. Обновете Mi Mover на старото си устройство.</string>

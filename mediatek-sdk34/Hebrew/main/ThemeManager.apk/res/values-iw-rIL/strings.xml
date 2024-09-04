@@ -79,6 +79,10 @@
     <string name="author_new_theme">חדש</string>
     <string name="author_popularity">צפיות</string>
     <string name="author_unfollow_succeed">מעקב בוטל בהצלחה</string>
+    <string name="automatic_renewal_monthly">מתחדש אוטומטית תמורת %s/חודש</string>
+    <string name="automatic_renewal_weekly">מתחדש אוטומטית תמורת %s/שבוע</string>
+    <string name="automatic_renewal_yearly">מתחדש אוטומטית תמורת %s/שנה</string>
+    <string name="automatically_push_content_to_lock_screen">בכל יום יוצג במסך הנעילה שלכם תוכן חדש</string>
     <string name="automatically_update_using_theme_tips">עדכן אוטומטית בפעם הבאה</string>
     <string name="back_to_default">חזרה לברירת המחדל</string>
     <string name="back_to_none">לא ניתן היה להגדיר צלצול</string>
@@ -94,6 +98,9 @@
     <string name="bottom_of_page">זה הכל לעת עתה.</string>
     <string name="browser_local_resource">משאבים מקומיים</string>
     <string name="can_not_apply">לא ניתן להחיל</string>
+    <string name="canceled_failed">לא ניתן לבטל</string>
+    <string name="canceled_subscription_failed">לא ניתן לבטל את המינוי. נא לנסות שוב.</string>
+    <string name="canceled_trial_failed">לא ניתן לבטל. נא לנסות שוב.</string>
     <string name="card_data_request_error">אירעה שגיאה. המתן דקה או שתיים ונסה שוב.</string>
     <string name="card_loading">רק רגע…</string>
     <string name="card_no_network">לא ניתן היה להתחבר לרשת. בדוק את הגדרות הרשת שלך ונסה שוב.</string>
@@ -124,6 +131,7 @@
     <string name="current_using_desktop_wallpaper_text">מסך הבית</string>
     <string name="current_using_lockscreen_wallpaper_text">מסך הנעילה</string>
     <string name="current_version_incompatible">לא מתאים</string>
+    <string name="custom_wallpaper_for_you">טפטים אישיים רק בשבילכם</string>
     <string name="data_use_desc">מסמכים משפטיים</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -133,6 +141,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">להחיל</string>
     <string name="de_super_wp_land_position_default_des">בחירת תצוגה</string>
     <string name="deleting">מוחק…</string>
+    <string name="delivers_fresh_content_and_design_daily">עיצובים חדשים בכל יום</string>
     <string name="description_author">יוצר</string>
     <string name="description_designer">מעצב</string>
     <string name="description_download">ירד</string>
@@ -159,6 +168,7 @@
     <string name="editor_apply_message">"מאפיין זה נועד לניפוי שגיאות על-ידי המעצבים. נושא ברירת המחדל ישוחזר אוטומטית כעבור זמן מה. מסלול הקובץ של הנושא הנוכחי: "</string>
     <string name="editor_apply_toast">בחירה ידנית ב-temp.mtz בתיקיית השורש</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">נא להזין כתובת דוא\"ל</string>
     <string name="eras_ad">לספירה</string>
     <string name="eras_bc">לפנה\"ס</string>
     <string name="evening">לפנות ערב</string>
@@ -276,6 +286,7 @@
     <string name="hide_incompatible_font">הסתר גופנים לא תואמים</string>
     <string name="hide_incompatible_theme">הסתר ערכות נושא לא תואמות</string>
     <string name="hide_incompatible_wallpaper">הסתר טפטים לא תואמים</string>
+    <string name="hint_email_address">נא להזין כתובת דוא\"ל</string>
     <string name="home_apply_failured">"לא ניתן להחיל את טפט 'מסך הבית'"</string>
     <string name="home_apply_success">"טפט 'מסך הבית' הוחל"</string>
     <string name="hot_first">פופולרי ראשון</string>
@@ -307,6 +318,7 @@
     <string name="loading_resource_detail_fail">לא ניתן לטעון את המשאב</string>
     <string name="loading_resource_detail_info">רק רגע…</string>
     <string name="local_photos">תמונות מקומיות</string>
+    <string name="local_record__email_info">לזכור את כתובת הדוא\"ל שלי</string>
     <string name="local_resouce_creator_name">מפתח: %1$s</string>
     <string name="lock_screen_edit">עריכת מסך הנעילה</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">תבנית מסך הנעילה הזו לא תומכת בטפטי-על. לאחר החלת התבנית הזו מסך הבית יחזור לברירת המחדל, והטפטים של מסך הבית ומסך הנעילה יוחלפו. להחיל עכשיו?</string>
@@ -335,6 +347,7 @@
     <string name="message_sim_two">הודעת SIM %d</string>
     <string name="mi_wallpaper">טפט MIUI</string>
     <string name="midnight">לילה</string>
+    <string name="mine_subscribed_wallpaper">טפטים שיש לכם מינוי עליהם</string>
     <string name="miui_clock_city_name_local">מקומי</string>
     <string name="miui_clock_city_name_second">שעון משני</string>
     <string name="miui_lock_screen_date">EEE, MMM dd</string>
@@ -528,7 +541,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">התאם אישית את המכשיר שלך</string>
     <string name="present_official_themes">הבחירות שלנו</string>
     <string name="present_online_themes">קבל ערכות נושא מקוונות נוספות</string>
+    <string name="price_for_automatic_renewal">חידוש אוטומטי תמורת %1$s</string>
     <string name="privacy_desc">מדיניות פרטיות (חובה)</string>
+    <string name="privacy_simple_content">להפעיל המלצות אישיות כדי לקבל תוכן ומוצרים בהתאם לתחומי העניין שלך.</string>
+    <string name="privacy_simple_hint">ניתן לשנות את ההעדפות בכל עת תחת ההגדרות.</string>
+    <string name="privacy_simple_title">המלצות מותאמות אישית</string>
     <string name="promotion_ad">קידום מכירות</string>
     <string name="provision_default_theme_title">ברירת מחדל</string>
     <string name="provision_download_cancel">בטל הורדה</string>
@@ -574,6 +591,9 @@ mm"</string>
     <string name="related_theme">ערכות נושא</string>
     <string name="related_wallpaper">טפטים</string>
     <string name="reload">נסה שוב</string>
+    <string name="renewal_of_a_contract_monthly">לחדש תמורת %s/חודש</string>
+    <string name="renewal_of_a_contract_weekly">לחדש תמורת %s/שבוע</string>
+    <string name="renewal_of_a_contract_yearly">לחדש תמורת %s/שנה</string>
     <string name="res_migrate_tip">כדי להפוך את ערכות הנושא לתואמות לגרסאות הקרובות של Android, אנו מעבירים את הפריטים שהורדת למיקום חדש. הפעל מחדש את האפליקציה כדי להחיל את השינויים ולצפות בתוכן שהורדת.</string>
     <string name="resource_account_abnormal_state">שגיאת חשבון. המתן דקה או שתיים ונסה שוב.</string>
     <string name="resource_account_fail_to_add">לא ניתן להוסיף את החשבון</string>
@@ -593,6 +613,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">לנקות את כל היסטורית החיפוש?</string>
     <string name="resource_continue">הבא</string>
     <string name="resource_current_using_title">משאבים נוכחיים</string>
+    <string name="resource_currently_applied">הוחל</string>
     <string name="resource_data_empty">אין פריטים להצגה.</string>
     <string name="resource_default">צלצול ברירת המחדל</string>
     <string name="resource_default_name">משאב</string>
@@ -783,6 +804,7 @@ mm"</string>
     <string name="select_all">בחר הכל</string>
     <string name="selected_resource_file_invalid">לא ניתן להשתמש בקובץ המשאב הנבחר</string>
     <string name="send">שליחה</string>
+    <string name="service_expiration_date">בתוקף עד %1$s</string>
     <string name="set_color_ring_back_tone">הגדרת צליל חיוג מותאם אישית</string>
     <string name="settings">הגדרות</string>
     <string name="shortcut_add">הוסף</string>
@@ -803,6 +825,9 @@ mm"</string>
     <string name="start_all">לחדש את הכול</string>
     <string name="still_apply">החל</string>
     <string name="storage_file">כדי לשמור פריטים שהורדו</string>
+    <string name="submission_successfully">נשלח בהצלחה</string>
+    <string name="subscription_service_shutdown_tip">הטפטים שיש לכם מינוי עליהם אינם מוצגים יותר, כי אתם משתמשים בשירות אחר. ניתן להחיל מחדש טפט שעליו יש לכם מינוי.</string>
+    <string name="successfully_applied_wallpaper_tip">הטפט הוחל בהצלחה</string>
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>
@@ -814,11 +839,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">התקנה</string>
     <string name="super_wallpaper_list_footer_text">בקרוב יגיעו סוּפּר-טפטים נוספים</string>
     <string name="super_wallpaper_list_label">סוּפּר-טפטים</string>
+    <string name="super_wallpaper_low_version_tip_push">יש לעדכן את טפטי-על לגרסה האחרונה כדי להמשיך ולהשתמש בהם.</string>
+    <string name="super_wallpaper_restore_msg_push">הגרסה הנוכחית של טפטי-על נתקלה בבעיית חוסר תאימות. שוחזר טפט ברירת המחדל. יש לעדכן את טפטי-על לגרסה האחרונה כדי להשתמש בהם.</string>
     <string name="super_wallpaper_setting_apply_success_toast">הוחל בהצלחה</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">להחיל</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">אפשרויות</string>
     <string name="super_wallpaper_setting_coordinate_title">קואורדינטות</string>
     <string name="super_wallpaper_setting_view_height_title">גובה</string>
+    <string name="super_wallpaper_upgrade_tip_push">לעדכן את טפטי-על</string>
     <string name="support_google_dynamic_color_hint">אתה משתמש ב-Google Dynamic Color. לוחות הצבעים של יישומים מסוימים עשווים להשתנות בעת החלת ערכות נושא וטפטים חדשים.</string>
     <string name="swipe_find_more">החלק מעלה כדי לראות עוד</string>
     <string name="system_aod_dialog_message">יש להפעיל תצוגה תמידית כדי שניתן יהיה להשתמש במאפיין זה.</string>
@@ -826,7 +854,26 @@ mm"</string>
     <string name="system_aod_dialog_title">תצוגה תמידית</string>
     <string name="system_phone">שיחות</string>
     <string name="system_precust">מותקן מראש</string>
+    <string name="text_billing_info">פרטים לחיוב</string>
+    <string name="text_cancel_subscription_service">לבטל את המינוי הזה עכשיו?</string>
+    <string name="text_content_update">תוכן חדש מדי יום</string>
+    <string name="text_free_trial">נסה בחינם</string>
+    <string name="text_pay_monthly" formatted="false">החל מ-%s, מתחדש אוטומטית תמורת %s/חודש עד לביטול המינוי</string>
+    <string name="text_pay_weekly" formatted="false">החל מ-%s, מתחדש אוטומטית תמורת %s/שבוע עד לביטול המינוי</string>
+    <string name="text_pay_yearly" formatted="false">החל מ-%s, מתחדש אוטומטית תמורת %s/שנה עד לביטול המינוי</string>
     <string name="text_play">שחק</string>
+    <string name="text_start_time_format">dd/MM</string>
+    <string name="text_status_apply_now">להחיל</string>
+    <string name="text_status_be_subscribing">רשום כמנוי</string>
+    <string name="text_status_cancel_the_trial">להפסיק את הניסיון</string>
+    <string name="text_status_on_trial">בתקופת ניסיון</string>
+    <string name="text_status_subscribe_now">הירשם</string>
+    <string name="text_status_unsubscribe">בטל הרשמה</string>
+    <string name="text_status_unsubscribed">ביטול מינוי</string>
+    <string name="text_subscribe">מינויים</string>
+    <string name="text_subscribed">רשום כמנוי</string>
+    <string name="text_when_cancel_the_trial_tip">לאחר ביטול תקופת הניסיון, הטפט הזה יימחק מהמכשיר שלכם.</string>
+    <string name="text_when_unsubscribe_tip">לאחר ביטול המינוי, הטפט הזה יימחק מהמכשיר שלכם.</string>
     <string name="the_anniversary_of_lifting_martial_law">יום השנה לביטול החוק הצבאי</string>
     <string name="the_anti_aggression_day">יום המאבק באלימות</string>
     <string name="the_arbor_day">יום העץ</string>
@@ -967,6 +1014,8 @@ mm"</string>
     <string name="tip_lockscreen">שנה את הטפט והשעון של מסך הנעילה</string>
     <string name="tip_lockscreen2">אתם משתמשים בטפט מתחלף. התאמה אישית של ערכת הנושא תשנה את טפט מסך הנעילה ואת השעון.</string>
     <string name="tip_statusbar">שנה את מרכז הבקרה ואת לוח ההתראות</string>
+    <string name="tips_subscriptions_close">מינויים לטפטים מושבתים</string>
+    <string name="tips_talk_later">לא עכשיו</string>
     <string name="tips_theme_gate_transfer_fail">לא ניתן לפתוח דף זה. נא להמתין כמה דקות ולנסות שוב.</string>
     <string name="title_component">התאמה אישית של ערכת הנושא</string>
     <string name="title_home_miwallpaper_home_screen_effects">אפקטים של דף הבית</string>
@@ -981,6 +1030,7 @@ mm"</string>
     <string name="today">היום</string>
     <string name="tomorrow">מחר</string>
     <string name="top">פופולרי</string>
+    <string name="trial_cancellation_succeeded">תקופת הניסיון בוטלה בהצלחה</string>
     <string name="try_fresh_functions_and_contents">בדוק את התכונות והתוכן החדשים שלנו</string>
     <string name="try_it">התרשם/י מזה</string>
     <string name="try_tap">לחץ לצפייה מקדימה</string>
@@ -992,6 +1042,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">הבנתי</string>
     <string name="uid_change_dialog_title">אתחל את המכשיר</string>
     <string name="unknown_error">אירעה שגיאה</string>
+    <string name="unsubscribe_successfully">ההרשמה בוטלה בהצלחה</string>
     <string name="unsupport_tip">תבנית קובץ זו אינה נתמכת. נסה לבחור קובץ אחר.</string>
     <string name="up_to_the_end">אין עוד פריטים להצגה</string>
     <string name="update_btn">עדכן עכשיו</string>
@@ -1006,6 +1057,7 @@ mm"</string>
     <string name="update_push_content">עדכן עכשיו</string>
     <string name="update_push_title">יש גירסה חדשה של ערכת הנושא שלך</string>
     <string name="update_title">עדכון חדש זמין</string>
+    <string name="updating_the_app_tip">מעדכן…</string>
     <string name="used_wallpaper">היו בשימוש בעבר</string>
     <string name="user_agree">מסכימ/ה</string>
     <string name="user_attention_new_theme">תוכן חדש מ-%s</string>
@@ -1053,6 +1105,7 @@ mm"</string>
     <string name="wallpaper_group_natural_texture_title">תבניות מהטבע</string>
     <string name="wallpaper_group_sgn_mountain_title">הר סיגוניאנג</string>
     <string name="wallpaper_might_like">תמונות רקע שאולי תאהב</string>
+    <string name="wallpaper_restore_defalut_push">שוחזר לברירת המחדל</string>
     <string name="wallpaper_scroll_type_tips">גלילת הטפט</string>
     <string name="wallpaper_set_as_both">הגדר כשניהם</string>
     <string name="wallpaper_set_as_desktop">הגדר כמסך הבית</string>

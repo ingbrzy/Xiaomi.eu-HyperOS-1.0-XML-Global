@@ -56,7 +56,7 @@
     <string name="alarm_sound">المنبه</string>
     <string name="all_resources">الكل</string>
     <string name="all_wallpapers">كل خلفيات الشاشة</string>
-    <string name="allow">الإعدادت</string>
+    <string name="allow">الإعدادات</string>
     <string name="am">ص</string>
     <string name="aod_screen">الشاشة الدائمة</string>
     <string name="app_description_content">\"الثيمات\" هو أحد تطبيقات النظام. يوفر هذا التطبيق عددًا كبيرًا من الخلفيات وخيارات التخصيص الأخرى. ستظل قادرًا على استخدام التطبيق من الإعدادات بعد إزالة الاختصار من الشاشة الرئيسية.</string>
@@ -106,6 +106,10 @@
     <string name="author_new_theme">جديد</string>
     <string name="author_popularity">المشاهدات</string>
     <string name="author_unfollow_succeed">تم إلغاء المتابعة بنجاح</string>
+    <string name="automatic_renewal_monthly">تجديد تلقائي %s شهريًا</string>
+    <string name="automatic_renewal_weekly">تجديد تلقائي %s أسبوعيًا</string>
+    <string name="automatic_renewal_yearly">تجديد تلقائي %s سنويًا</string>
+    <string name="automatically_push_content_to_lock_screen">سيتم عرض محتوى جديد على شاشة القفل لديك كل يوم</string>
     <string name="automatically_update_using_theme_tips">التحديث تلقائيا في المرة القادمة</string>
     <string name="back_to_default">الرجوع للافتراضي</string>
     <string name="back_to_none">بدون نغمة</string>
@@ -122,6 +126,9 @@
     <string name="bottomsheet_action_expand_halfway">توسيع البطاقة السفلية</string>
     <string name="browser_local_resource">الموارد المحلية</string>
     <string name="can_not_apply">لا يمكن التعيين</string>
+    <string name="canceled_failed">تعذر الإلغاء</string>
+    <string name="canceled_subscription_failed">تعذر إلغاء الاشتراك. أعد المحاولة.</string>
+    <string name="canceled_trial_failed">تعذر الإلغاء. حاول مجددا.</string>
     <string name="card_data_request_error">حدث خطأ ما، انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
     <string name="card_loading">لحظة من فضلك…</string>
     <string name="card_no_network">تعذر الاتصال بالشبكة. تحقق من إعدادات الشبكة ثم حاول مرة أخرى.</string>
@@ -175,6 +182,7 @@
     <string name="current_using_desktop_wallpaper_text">الشاشة الرئيسية</string>
     <string name="current_using_lockscreen_wallpaper_text">شاشة القفل</string>
     <string name="current_version_incompatible">غير متوافق</string>
+    <string name="custom_wallpaper_for_you">خلفيات مخصصة على ذوقك</string>
     <string name="data_use_desc">الوثائق القانونية</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +192,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">تعيين</string>
     <string name="de_super_wp_land_position_default_des">اختر عرض</string>
     <string name="deleting">جارٍ الحذف…</string>
+    <string name="delivers_fresh_content_and_design_daily">تصاميم جديدة كل يوم</string>
     <string name="description_author">مؤلف</string>
     <string name="description_designer">مصمم</string>
     <string name="description_download">تم تنزيلها</string>
@@ -210,6 +219,7 @@
     <string name="editor_apply_message">"تستخدم هذه الميزة لتصحيح الأخطاء من قبل المصممين. سيتم استعادة المظهر الافتراضي تلقائيًا بعد قليل. مسار ملف الثيم الحالي: "</string>
     <string name="editor_apply_toast">حدد temp.mtz يدويًا في دليل الجذر</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">أدخل عنوان البريد الإلكتروني</string>
     <string name="eras_ad">بعد الميلاد</string>
     <string name="eras_bc">قبل الميلاد</string>
     <string name="error_icon_content_description">خطأ</string>
@@ -384,6 +394,7 @@
     <string name="hide_incompatible_font">إخفاء الخطوط غير متوافقة</string>
     <string name="hide_incompatible_theme">إخفاء الثيمات غير متوافقة</string>
     <string name="hide_incompatible_wallpaper">إخفاء الخلفيات غير متوافقة</string>
+    <string name="hint_email_address">أدخل عنوان البريد الإلكتروني</string>
     <string name="home_apply_failured">لا يمكن تعيين خلفية الشاشة الرئيسية</string>
     <string name="home_apply_success">تم تعيين خلفية الشاشة الرئيسية</string>
     <string name="hot_first">الأكثر شهرة أولاً</string>
@@ -417,6 +428,7 @@
     <string name="loading_resource_detail_fail">لا يمكن تحميل الموارد</string>
     <string name="loading_resource_detail_info">لحظة من فضلك…</string>
     <string name="local_photos">الصور المحلية</string>
+    <string name="local_record__email_info">تذكر عنوان بريدي الإلكتروني</string>
     <string name="local_resouce_creator_name">المطور: %1$s</string>
     <string name="lock_screen_edit">تعديل شاشة القفل</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">لا يدعم قالب شاشة القفل هذا خلفيات سوبر. بمجرد تعيينه، ستعود شاشة القفل إلى الوضع الافتراضي وسيتم استبدال خلفيات الشاشة الرئيسية والقفل. تعيين الآن؟</string>
@@ -457,6 +469,7 @@
     <string name="message_sim_two">رسائل SIM %d</string>
     <string name="mi_wallpaper">خلفية شاشة MIUI</string>
     <string name="midnight">الليل</string>
+    <string name="mine_subscribed_wallpaper">الخلفيات التي تم الاشتراك فيها</string>
     <string name="miui_clock_city_name_local">الوقت المحلي</string>
     <string name="miui_clock_city_name_second">الساعة الثانية</string>
     <string name="miui_lock_screen_date">EEE، dd MMM</string>
@@ -701,7 +714,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">تخصيص جهازك</string>
     <string name="present_official_themes">نصائحنا</string>
     <string name="present_online_themes">احصل على المزيد من الثيمات على الانترنت</string>
+    <string name="price_for_automatic_renewal">سيتم التجديد تلقائيًا بسعر %1$s</string>
     <string name="privacy_desc">سياسة الخصوصية (إلزامي)</string>
+    <string name="privacy_simple_content">قم بتشغيل التوصيات المخصصة للحصول على محتوى ومنتجات مصممة خصيصًا لتناسب اهتماماتك.</string>
+    <string name="privacy_simple_hint">يمكنك تغيير تفضيلاتك في أي وقت في الإعدادات.</string>
+    <string name="privacy_simple_title">التوصيات المخصصة</string>
     <string name="promotion_ad">عرض ترويجي</string>
     <string name="provision_default_theme_title">الافتراضية</string>
     <string name="provision_download_cancel">تم إلغاء التنزيل</string>
@@ -747,6 +764,9 @@ mm"</string>
     <string name="related_theme">الثيمات</string>
     <string name="related_wallpaper">خلفيات الشاشة</string>
     <string name="reload">حاول مجدداً</string>
+    <string name="renewal_of_a_contract_monthly">تجديد %s شهريًا</string>
+    <string name="renewal_of_a_contract_weekly">تجديد %s أسبوعيًا</string>
+    <string name="renewal_of_a_contract_yearly">تجديد %s سنويًا</string>
     <string name="res_migrate_tip">لجعل الثيمات متوافقة مع الإصدارات القادمة من Android. قمنا بنقل العناصر المنزلة إلى موقع جديد. يرجى إعادة تشغيل التطبيق لتعيين التغييرات وعرض المحتوى الذي تم تنزيله.</string>
     <string name="resource_account_abnormal_state">حدث خطأ في الحساب. انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
     <string name="resource_account_fail_to_add">لا يمكن إضافة حساب</string>
@@ -766,6 +786,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">مسح سجل البحث بالكامل؟</string>
     <string name="resource_continue">التالي</string>
     <string name="resource_current_using_title">المصادر الحالية</string>
+    <string name="resource_currently_applied">تم تقديم الطلب</string>
     <string name="resource_data_empty">لا توجد عناصر هنا.</string>
     <string name="resource_default">نغمة الرنين الافتراضية</string>
     <string name="resource_default_name">الموارد</string>
@@ -964,6 +985,7 @@ mm"</string>
     <string name="select_all">تحديد الكل</string>
     <string name="selected_resource_file_invalid">الملف المحدد غير صالح</string>
     <string name="send">مشاركة</string>
+    <string name="service_expiration_date">صالح حتى %1$s</string>
     <string name="set_color_ring_back_tone">تعيين نغمة رنين مخصصة</string>
     <string name="settings">الإعدادات</string>
     <string name="shortcut_add">أضف</string>
@@ -985,6 +1007,9 @@ mm"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">تعيين</string>
     <string name="storage_file">لحفظ العناصر التي تم تنزيلها</string>
+    <string name="submission_successfully">تم الارسال بنجاح</string>
+    <string name="subscription_service_shutdown_tip">لن يتم عرض الخلفيات التي تم الاشتراك فيها لأنك تستخدم خدمة أخرى. يمكنك تعيين خلفية تم الاشتراك فيها مرة أخرى.</string>
+    <string name="successfully_applied_wallpaper_tip">تم تعيين الخلفية بنجاح</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>
@@ -997,11 +1022,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">تثبيت</string>
     <string name="super_wallpaper_list_footer_text">مزيد من خلفيات سوبر قريبا!</string>
     <string name="super_wallpaper_list_label">خلفيات سوبر</string>
+    <string name="super_wallpaper_low_version_tip_push">قم بتحديث خلفيات السوبر إلى أحدث إصدار لتتمكن من الاستمرار في استخدامها.</string>
+    <string name="super_wallpaper_restore_msg_push">يحتوي إصدار خلفيات سوبر الحالي على مشكلات عدم توافق وقد تمت استعادته الخلفية الافتراضية تلقائيًا. قم بالتحديث إلى أحدث إصدار لتتمكن من استخدام خلفيات سوبر.</string>
     <string name="super_wallpaper_setting_apply_success_toast">تم التعيين بنجاح</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">تعيين</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">خيارات</string>
     <string name="super_wallpaper_setting_coordinate_title">الإحداثيات</string>
     <string name="super_wallpaper_setting_view_height_title">الارتفاع</string>
+    <string name="super_wallpaper_upgrade_tip_push">تحديث خلفيات السوبر</string>
     <string name="support_google_dynamic_color_hint">أنت تستخدم Google Dynamic Color. قد يؤدي تطبيق ثيمات وخلفيات جديدة إلى تغيير لوحة الألوان لبعض التطبيقات.</string>
     <string name="swipe_find_more">مرر لأعلى لعرض المزيد</string>
     <string name="system_aod_dialog_message">قم بتشغيل الشاشة الدائمة لاستخدام هذه الميزة.</string>
@@ -1009,7 +1037,26 @@ mm"</string>
     <string name="system_aod_dialog_title">الشاشة الدائمة</string>
     <string name="system_phone">المكالمات</string>
     <string name="system_precust">المثبتة</string>
+    <string name="text_billing_info">معلومات الفواتير</string>
+    <string name="text_cancel_subscription_service">هل ترغب في إلغاء هذا الاشتراك الآن؟</string>
+    <string name="text_content_update">محتوى جديد يوميًا</string>
+    <string name="text_free_trial">جرب مجانا</string>
+    <string name="text_pay_monthly" formatted="false">بدءًا من %s، سيتم تجديد الخطة بمبلغ %s شهريًا حتى يتم إلغاء الاشتراك</string>
+    <string name="text_pay_weekly" formatted="false">بدءًا من %s، سيتم تجديد الخطة بمبلغ %s أسبوعيًا حتى يتم إلغاء الاشتراك</string>
+    <string name="text_pay_yearly" formatted="false">بدءًا من %s، سيتم تجديد الخطة بمبلغ %s سنويًا حتى يتم إلغاء الاشتراك</string>
     <string name="text_play">لعب</string>
+    <string name="text_start_time_format">M/d</string>
+    <string name="text_status_apply_now">تعيين</string>
+    <string name="text_status_be_subscribing">تم الاشتراك</string>
+    <string name="text_status_cancel_the_trial">إيقاف الاشتراك التجريبي</string>
+    <string name="text_status_on_trial">قيد الاشتراك التجربة</string>
+    <string name="text_status_subscribe_now">اشتراك</string>
+    <string name="text_status_unsubscribe">إلغاء الإشتراك</string>
+    <string name="text_status_unsubscribed">تم إلغاء الاشتراك</string>
+    <string name="text_subscribe">الاشتراكات</string>
+    <string name="text_subscribed">تم الاشتراك</string>
+    <string name="text_when_cancel_the_trial_tip">إذا قمت بإلغاء الاشتراك التجريبي هذا، فسيتم مسح خلفية الشاشة هذه من جهازك.</string>
+    <string name="text_when_unsubscribe_tip">إذا قمت بإلغاء هذا الاشتراك، فسيتم مسح خلفية الشاشة هذه من جهازك.</string>
     <string name="the_anniversary_of_lifting_martial_law">ذكرى إلغاء الأحكام العرفية</string>
     <string name="the_anti_aggression_day">يوم مكافحة العدوان</string>
     <string name="the_arbor_day">يوم الشجرة</string>
@@ -1150,6 +1197,8 @@ mm"</string>
     <string name="tip_lockscreen">تغيير خلفية شاشة القفل والساعة</string>
     <string name="tip_lockscreen2">أنت تستخدم خلفية كاروسيل. سيؤدي تخصيص الثيم الخاص بك إلى تغيير خلفية شاشة القفل والساعة.</string>
     <string name="tip_statusbar">تغيير مركز التحكم ومركز الإشعارات</string>
+    <string name="tips_subscriptions_close">تم إيقاف اشتراكات الخلفية</string>
+    <string name="tips_talk_later">ليس الآن</string>
     <string name="tips_theme_gate_transfer_fail">تعذر فتح هذه الصفحة. انتظر دقيقة أو اثنتين ثم حاول مرة أخرى.</string>
     <string name="title_component">ثيمات مخصصة</string>
     <string name="title_home_miwallpaper_home_screen_effects">تأثيرات الشاشة الرئيسية</string>
@@ -1164,6 +1213,7 @@ mm"</string>
     <string name="today">اليوم</string>
     <string name="tomorrow">غدا</string>
     <string name="top">الرائجة</string>
+    <string name="trial_cancellation_succeeded">تم إلغاء الاشتراك التجريبي بنجاح</string>
     <string name="try_fresh_functions_and_contents">جرب الميزات والمحتويات الجديدة</string>
     <string name="try_it">جرب الآن</string>
     <string name="try_tap">اضغط للمعاينة</string>
@@ -1175,6 +1225,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">فهمت</string>
     <string name="uid_change_dialog_title">إعادة تشغيل الجهاز</string>
     <string name="unknown_error">حدث خطأ ما</string>
+    <string name="unsubscribe_successfully">تم إلغاء الاشتراك بنجاح</string>
     <string name="unsupport_tip">تنسيق الملف هذا غير مدعوم. حاول اختيار ملف مختلف.</string>
     <string name="up_to_the_end">لا يوجد المزيد من العناصر لعرضها</string>
     <string name="update_btn">التحديث الآن</string>
@@ -1189,6 +1240,7 @@ mm"</string>
     <string name="update_push_content">التحديث الآن</string>
     <string name="update_push_title">متوفر تحديث جديد للثيم</string>
     <string name="update_title">تحديث جديد متاح</string>
+    <string name="updating_the_app_tip">جارٍ التحديث…</string>
     <string name="used_wallpaper">المستخدم مسبقا</string>
     <string name="user_agree">أوافق</string>
     <string name="user_attention_new_theme">محتوى جديد من %s</string>
@@ -1238,6 +1290,7 @@ mm"</string>
     <string name="wallpaper_group_natural_texture_title">طبيعة</string>
     <string name="wallpaper_group_sgn_mountain_title">مونت سيجونيانج</string>
     <string name="wallpaper_might_like">خلفيات قد تعجبك</string>
+    <string name="wallpaper_restore_defalut_push">استعادة الخلفية الافتراضية</string>
     <string name="wallpaper_scroll_type_tips">لفيفة خلفية الشاشة</string>
     <string name="wallpaper_set_as_both">تعيين الكل</string>
     <string name="wallpaper_set_as_desktop">تعيين كالشاشة الرئيسية</string>

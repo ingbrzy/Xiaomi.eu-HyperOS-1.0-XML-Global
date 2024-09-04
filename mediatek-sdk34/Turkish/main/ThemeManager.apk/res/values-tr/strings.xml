@@ -106,6 +106,10 @@
     <string name="author_new_theme">Yeni</string>
     <string name="author_popularity">Görüntülenme</string>
     <string name="author_unfollow_succeed">Başarıyla takipten çıkıldı</string>
+    <string name="automatic_renewal_monthly">%s/aylık karşılığında otomatik yenileyin</string>
+    <string name="automatic_renewal_weekly">%s/haftalık karşılığında otomatik yenileyin</string>
+    <string name="automatic_renewal_yearly">%s/yıllık karşılığında otomatik yenileyin</string>
+    <string name="automatically_push_content_to_lock_screen">Yeni içerik her gün Kilit ekranınızda gösterilecek</string>
     <string name="automatically_update_using_theme_tips">Bir sonraki defa otomatik olarak güncelle</string>
     <string name="back_to_default">Varsayılana geri dön</string>
     <string name="back_to_none">Zil sesi ayarlamayın</string>
@@ -122,6 +126,9 @@
     <string name="bottomsheet_action_expand_halfway">Yarım genişlet</string>
     <string name="browser_local_resource">Yerel kaynaklar</string>
     <string name="can_not_apply">Uygulanamıyor</string>
+    <string name="canceled_failed">İptal edilemedi</string>
+    <string name="canceled_subscription_failed">Abonelik iptal edilemedi. Tekrar deneyin.</string>
+    <string name="canceled_trial_failed">İptal edilemedi. Tekrar deneyin.</string>
     <string name="card_data_request_error">Bir hata oluştu. Bir veya iki dakika bekleyin ve ardından tekrar deneyin.</string>
     <string name="card_loading">Yalnızca bir sn.…</string>
     <string name="card_no_network">Ağa bağlanılamadı. Ağ ayarlarını kontrol edin ve tekrar deneyin.</string>
@@ -175,6 +182,7 @@
     <string name="current_using_desktop_wallpaper_text">Ana ekran</string>
     <string name="current_using_lockscreen_wallpaper_text">Kilit ekranı</string>
     <string name="current_version_incompatible">Uyumlu değil</string>
+    <string name="custom_wallpaper_for_you">Sizin için kişiselleştirilmiş duvar kağıtları</string>
     <string name="data_use_desc">Yasal belgeler</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +192,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">Uygula</string>
     <string name="de_super_wp_land_position_default_des">Görünümü seçin</string>
     <string name="deleting">Siliniyor…</string>
+    <string name="delivers_fresh_content_and_design_daily">Her gün yeni tasarımlar</string>
     <string name="description_author">Yazar</string>
     <string name="description_designer">Tasarımcı</string>
     <string name="description_download">İndirildi</string>
@@ -210,6 +219,7 @@
     <string name="editor_apply_message">"Bu özellik tasarımcılar tarafından hata ayıklamak için kullanılır. Varsayılan tema bir süre sonra otomatik olarak geri yüklenecektir. Geçerli temanın dosya yolu: "</string>
     <string name="editor_apply_toast">"Kök dizinde temp.mtz'yi manuel olarak seçin"</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">Bir e-posta adresi girin</string>
     <string name="eras_ad">M.S.</string>
     <string name="eras_bc">M.Ö.</string>
     <string name="error_icon_content_description">Hata</string>
@@ -384,6 +394,7 @@
     <string name="hide_incompatible_font">Uyumsuz yazı tiplerini gizle</string>
     <string name="hide_incompatible_theme">Uyumsuz temaları gizle</string>
     <string name="hide_incompatible_wallpaper">Uyumsuz duvar kağıtlarını gizle</string>
+    <string name="hint_email_address">Bir e-posta adresi girin</string>
     <string name="home_apply_failured">Ana ekran duvar kağıdı uygulanamıyor</string>
     <string name="home_apply_success">Ana ekran duvar kağıdı uygulandı</string>
     <string name="hot_first">Öncelikle popülerler</string>
@@ -420,6 +431,7 @@
     <string name="loading_resource_detail_fail">Kaynak yüklenemiyor</string>
     <string name="loading_resource_detail_info">Yalnızca bir sn.…</string>
     <string name="local_photos">Yerel fotoğraflar</string>
+    <string name="local_record__email_info">E-posta adresimi hatırla</string>
     <string name="local_resouce_creator_name">Geliştirici: %1$s</string>
     <string name="lock_screen_edit">Kilit ekranını düzenle</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">Bu Kilit ekranı şablonu, Süper duvar kağıtlarını desteklememektedir. Uygulandığında Kilit ekranınız varsayılana geri dönecek ve Ana ekran ve Kilit ekranı duvar kağıtları değiştirilecektir. Şimdi uygulansın mı?</string>
@@ -460,6 +472,7 @@
     <string name="message_sim_two">SIM %d mesaj</string>
     <string name="mi_wallpaper">MIUI duvar kağıtları</string>
     <string name="midnight">Gece</string>
+    <string name="mine_subscribed_wallpaper">Abone olunan duvar kağıdı</string>
     <string name="miui_clock_city_name_local">Yerel</string>
     <string name="miui_clock_city_name_second">İkinci saat</string>
     <string name="miui_lock_screen_date">dd MMM, EEE</string>
@@ -704,7 +717,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">Cihazınızı özelleştirin</string>
     <string name="present_official_themes">Seçtiklerimiz</string>
     <string name="present_online_themes">Daha fazla çevrimiçi tema alın</string>
+    <string name="price_for_automatic_renewal">%1$s karşılığında otomatik yenile</string>
     <string name="privacy_desc">Gizlilik Politikası (zorunlu)</string>
+    <string name="privacy_simple_content">İlgi alanlarınıza uygun içerik ve ürün almak için kişiselleştirilmiş önerileri açın.</string>
+    <string name="privacy_simple_hint">İlgi alanlarınızı istediğiniz zaman Ayarlar menüsünden değiştirebilirsiniz.</string>
+    <string name="privacy_simple_title">Kişiselleştirilmiş öneriler</string>
     <string name="promotion_ad">Promosyon</string>
     <string name="provision_default_theme_title">Varsayılan</string>
     <string name="provision_download_cancel">İndirme işlemi iptal edildi</string>
@@ -750,6 +767,9 @@ mm"</string>
     <string name="related_theme">Temalar</string>
     <string name="related_wallpaper">Duvar kağıtları</string>
     <string name="reload">Yeniden deneyin</string>
+    <string name="renewal_of_a_contract_monthly">%s/aylık karşılığında yenileyin</string>
+    <string name="renewal_of_a_contract_weekly">%s/haftalık karşılığında yenileyin</string>
+    <string name="renewal_of_a_contract_yearly">%s/yıllık karşılığında yenileyin</string>
     <string name="res_migrate_tip">"Temaları, Android'in gelecek sürümleri ile uyumlu hale getirmek için, indirdiğiniz ögeleri yeni bir konuma taşıdık. Değişiklikleri uygulamak için uygulamayı yeniden başlatın ve indirdiğiniz içeriği görüntüleyin."</string>
     <string name="resource_account_abnormal_state">Hesap hatası. Bir veya iki dakika bekleyin ve ardından tekrar deneyin.</string>
     <string name="resource_account_fail_to_add">Hesap eklenemiyor</string>
@@ -769,6 +789,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">Arama geçmişinin tamamı temizlensin mi?</string>
     <string name="resource_continue">İleri</string>
     <string name="resource_current_using_title">Kullanılan kaynaklar</string>
+    <string name="resource_currently_applied">Uygulandı</string>
     <string name="resource_data_empty">Burada öge yok.</string>
     <string name="resource_default">Varsayılan zil sesi</string>
     <string name="resource_default_name">Kaynak</string>
@@ -967,6 +988,7 @@ mm"</string>
     <string name="select_all">Tümünü seç</string>
     <string name="selected_resource_file_invalid">Seçilen kaynak dosyası kullanılamıyor</string>
     <string name="send">Gönder</string>
+    <string name="service_expiration_date">%1$s tarihine kadar geçerli</string>
     <string name="set_color_ring_back_tone">Özel zil sesi ayarla</string>
     <string name="settings">Ayarlar</string>
     <string name="shortcut_add">Ekle</string>
@@ -988,6 +1010,9 @@ mm"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Uygula</string>
     <string name="storage_file">İndirilen ögeleri kaydetmek için</string>
+    <string name="submission_successfully">Başarıyla gönderildi</string>
+    <string name="subscription_service_shutdown_tip">Abone olunan duvar kağıtları artık başka bir hizmeti kullandığınız için gösterilmeyecek. Tekrar abone olunan bir duvar kağıdını uygulayabilirsiniz.</string>
+    <string name="successfully_applied_wallpaper_tip">Duvar kağıdı başarıyla uygulandı</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Paz</string>
@@ -1000,11 +1025,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">Yükle</string>
     <string name="super_wallpaper_list_footer_text">Daha fazla Süper duvar kağıtları çok yakında</string>
     <string name="super_wallpaper_list_label">Süper duvar kağıtları</string>
+    <string name="super_wallpaper_low_version_tip_push">Kullanmaya devam edebilmek için Süper duvar kağıtlarını son sürümüne güncelleyin</string>
+    <string name="super_wallpaper_restore_msg_push">Süper duvar kağıtlarının mevcut sürümü bir uyumsuzluk sorunuyla karşılaştı. Varsayılan duvar kağıdınız geri yüklendi. Süper duvar kağıtlarını kullanabilmek için son sürüme güncelleyin.</string>
     <string name="super_wallpaper_setting_apply_success_toast">Başarıyla uygulandı</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Uygula</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Seçenekler</string>
     <string name="super_wallpaper_setting_coordinate_title">Koordinatlar</string>
     <string name="super_wallpaper_setting_view_height_title">Rakım</string>
+    <string name="super_wallpaper_upgrade_tip_push">Süper duvar kağıtlarını güncelle</string>
     <string name="support_google_dynamic_color_hint">"Google Dynamic Color'u kullanıyorsunuz. Yeni temaları ve duvar kağıtlarını uyguladığınızda bazı uygulamaların renk paletleri değişebilir."</string>
     <string name="swipe_find_more">Daha fazlasını görüntülemek için yukarı doğru kaydırın</string>
     <string name="system_aod_dialog_message">"Bu özelliği kullanabilmek için Her zaman açık ekran'ı açın."</string>
@@ -1012,7 +1040,26 @@ mm"</string>
     <string name="system_aod_dialog_title">Her zaman açık ekran</string>
     <string name="system_phone">Aramalar</string>
     <string name="system_precust">Ön-yüklüler</string>
+    <string name="text_billing_info">Fatura bilgileri</string>
+    <string name="text_cancel_subscription_service">Bu abonelik şimdi iptal edilsin mi?</string>
+    <string name="text_content_update">Günlük yeni içerik</string>
+    <string name="text_free_trial">Ücretsiz deneyin</string>
+    <string name="text_pay_monthly" formatted="false">%s tarihinden itibaren, iptal edilene kadar %s/aylık karşılığında yenilenir</string>
+    <string name="text_pay_weekly" formatted="false">%s tarihinden itibaren, iptal edilene kadar %s/haftalık karşılığında yenilenir</string>
+    <string name="text_pay_yearly" formatted="false">%s tarihinden itibaren, iptal edilene kadar %s/yıllık karşılığında yenilenir</string>
     <string name="text_play">Oynat</string>
+    <string name="text_start_time_format">dd/MM</string>
+    <string name="text_status_apply_now">Uygula</string>
+    <string name="text_status_be_subscribing">Abone olundu</string>
+    <string name="text_status_cancel_the_trial">Denemeyi durdur</string>
+    <string name="text_status_on_trial">Deneme devam ediyor</string>
+    <string name="text_status_subscribe_now">Abone ol</string>
+    <string name="text_status_unsubscribe">Abonelikten çık</string>
+    <string name="text_status_unsubscribed">Abonelik sonlandırıldı</string>
+    <string name="text_subscribe">Abonelikler</string>
+    <string name="text_subscribed">Abone olundu</string>
+    <string name="text_when_cancel_the_trial_tip">Bu denemeyi iptal ederseniz bu duvar kağıdı cihazınızdan silinecek.</string>
+    <string name="text_when_unsubscribe_tip">Bu aboneliği iptal ederseniz bu duvar kağıdı cihazınızdan silinecek.</string>
     <string name="the_anniversary_of_lifting_martial_law">Sıkıyönetim Kanunun Yıldönümü</string>
     <string name="the_anti_aggression_day">Saldırganlık Karşıtı Günü</string>
     <string name="the_arbor_day">Ağaç Dikme Günü</string>
@@ -1153,6 +1200,8 @@ mm"</string>
     <string name="tip_lockscreen">Kilit ekranı duvar kağıdını ve saati değiştir</string>
     <string name="tip_lockscreen2">"Duvar kağıdı Döngüsü'nü kullanıyorsunuz. Temanızı özelleştirmek Kilit ekranı duvar kağıdınızı ve saati değiştirecek."</string>
     <string name="tip_statusbar">Kontrol merkezini ve Bildirim çubuğunu değiştir</string>
+    <string name="tips_subscriptions_close">Duvar kağıdı abonelikleri kapalı</string>
+    <string name="tips_talk_later">Şimdi değil</string>
     <string name="tips_theme_gate_transfer_fail">Bu sayfa açılamadı. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
     <string name="title_component">Temayı kişiselleştir</string>
     <string name="title_home_miwallpaper_home_screen_effects">Ana sayfa efektleri</string>
@@ -1167,6 +1216,7 @@ mm"</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>
     <string name="top">Popüler</string>
+    <string name="trial_cancellation_succeeded">Deneme başarıyla iptal edildi</string>
     <string name="try_fresh_functions_and_contents">Yeni özelliklerimize ve içeriğimize göz atın</string>
     <string name="try_it">Göz at</string>
     <string name="try_tap">Önizleme için dokunun</string>
@@ -1178,6 +1228,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">Anladım</string>
     <string name="uid_change_dialog_title">Cihazı yeniden başlat</string>
     <string name="unknown_error">Bir hata oluştu</string>
+    <string name="unsubscribe_successfully">Başarıyla abonelikten çıkıldı</string>
     <string name="unsupport_tip">Bu dosya biçimi desteklenmiyor. Farklı bir dosya seçmeyi deneyin.</string>
     <string name="up_to_the_end">Görüntülenecek öge yok</string>
     <string name="update_btn">ŞİMDİ GÜNCELLE</string>
@@ -1192,6 +1243,7 @@ mm"</string>
     <string name="update_push_content">Şimdi güncelle</string>
     <string name="update_push_title">Temanızın yeni bir sürümü mevcut</string>
     <string name="update_title">YENİ GÜNCELLEME MEVCUT</string>
+    <string name="updating_the_app_tip">Güncelleniyor…</string>
     <string name="used_wallpaper">Daha önce kullanılan</string>
     <string name="user_agree">Kabul et</string>
     <string name="user_attention_new_theme">%s kişisinden yeni içerik</string>
@@ -1241,6 +1293,7 @@ mm"</string>
     <string name="wallpaper_group_natural_texture_title">Doğa desenleri</string>
     <string name="wallpaper_group_sgn_mountain_title">Siguniang Dağı</string>
     <string name="wallpaper_might_like">Beğenebileceğiniz duvar kağıtları</string>
+    <string name="wallpaper_restore_defalut_push">Varsayılana geri yüklendi</string>
     <string name="wallpaper_scroll_type_tips">Duvar kağıdı kaydırma</string>
     <string name="wallpaper_set_as_both">İkisine de uygula</string>
     <string name="wallpaper_set_as_desktop">Ana ekran olarak belirle</string>

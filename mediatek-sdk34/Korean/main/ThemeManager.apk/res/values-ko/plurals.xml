@@ -112,6 +112,9 @@
     <plurals name="portfolio">
         <item quantity="other">%d개 작품</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">귀하의 요청은 약 %1$d초 안에 처리됩니다.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"%d개의 주문 환불 성공. "</item>
     </plurals>

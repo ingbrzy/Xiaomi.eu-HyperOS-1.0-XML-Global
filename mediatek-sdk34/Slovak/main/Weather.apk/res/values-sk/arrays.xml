@@ -88,7 +88,7 @@
         <item>Horúco</item>
     </string-array>
     <string-array name="realtime_uv_level">
-        <item>Nizky</item>
+        <item>Nízke</item>
         <item>Mierny</item>
         <item>Silný</item>
         <item>Veľmi silný</item>
@@ -134,7 +134,7 @@
         <item>Sever</item>
         <item>Severovýchod</item>
         <item>Východ</item>
-        <item>Juhovýchod</item>
+        <item>Juhovýchodný</item>
         <item>Juh</item>
         <item>Juhozápad</item>
         <item>Západ</item>

@@ -33,6 +33,8 @@
     <string name="abrupt_weather_settings_summary_type">Warnmeldungen über erwartete Niederschläge, Änderungen der Luftqualität und andere wichtige Änderungen erhalten</string>
     <string name="act_find_city_hint">Ort eingeben</string>
     <string name="act_find_city_hot_city_title">Beliebte Städte</string>
+    <string name="act_find_city_location_button_text">Standort ermitteln</string>
+    <string name="act_find_city_location_title">Aktueller Standort</string>
     <string name="act_location_error_to_find_city">Abrufen der Standortinformationen fehlgeschlagen. Standorte können manuell hinzugefügt werden.</string>
     <string name="act_set_city_find_side">Standort wird gesucht</string>
     <string name="act_set_city_find_side_error">Lokalisierung fehlgeschlagen</string>
@@ -57,6 +59,7 @@
     <string name="activity_main_update_time">Aktualisiert %1$s</string>
     <string name="activity_main_update_time_expire">Daten abgelaufen</string>
     <string name="activity_main_update_time_right_now">jetzt gerade</string>
+    <string name="add_city">Hinzufügen</string>
     <string name="afternoon">Nachmittag</string>
     <string name="alert_detail_title">Warnungsdetails</string>
     <string name="alert_warning">Wetterwarnungen</string>
@@ -118,7 +121,7 @@
     <string name="common_google_play_services_update_title">Google Play-Dienste aktualisieren</string>
     <string name="common_google_play_services_updating_text">Zur Nutzung von %1$s sind Google Play-Dienste erforderlich, die gerade aktualisiert werden.</string>
     <string name="common_google_play_services_wear_update_text">Eine neue Version der Google Play-Dienste wird benötigt. Diese wird in Kürze automatisch aktualisiert.</string>
-    <string name="common_loading_text">Augenblick…</string>
+    <string name="common_loading_text">Einen Moment…</string>
     <string name="common_open_on_phone">Auf Smartphone öffnen</string>
     <string name="common_signin_button_text">Anmelden</string>
     <string name="common_signin_button_text_long">Über Google anmelden</string>
@@ -539,7 +542,7 @@
     <string name="top_pollution_no2">NO2</string>
     <string name="top_pollution_o3">O3</string>
     <string name="top_pollution_pm10">PM10</string>
-    <string name="top_pollution_pm25">PM2,5</string>
+    <string name="top_pollution_pm25">PM2.5</string>
     <string name="top_pollution_so2">SO2</string>
     <string name="traffic_control_daty_after_tomorrow_numbers">Übermorgen: %1$s</string>
     <string name="traffic_control_today_numbers">Heute: %1$s</string>

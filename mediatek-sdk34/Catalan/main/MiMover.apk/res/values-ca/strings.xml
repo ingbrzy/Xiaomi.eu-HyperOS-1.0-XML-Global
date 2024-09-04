@@ -77,6 +77,7 @@
     <string name="cancel">Cancel·leu</string>
     <string name="cancel_moving_dialog_message">Esteu segur que voleu aturar la importació?</string>
     <string name="cancel_moving_dialog_title">Atura la importació</string>
+    <string name="cancel_tranfer">Cancel·la</string>
     <string name="cannot_use_mi_huanji_button">Entesos</string>
     <string name="cannot_use_mi_huanji_summary">"Sembla que MIUI ara està fent còpies de seguretats d'alguns elements. Atura les còpies en marxa o reinicia el teu dispositiu per a deixar que Mi Mover faci la transferència."</string>
     <string name="cannot_use_mi_huanji_title">Ara no es pot transferir</string>
@@ -269,6 +270,7 @@ Obre WeChat i ves a Jo > Ajustaments > General > Còpia de seguretat i migració
     <string name="guest_unfinished_task_alert_message">Sembla que teniu tasques de transferència inacabades. Voleu continuar amb la transferència?</string>
     <string name="guest_unfinished_task_alert_title">Tasques inacabades</string>
     <string name="hide_password_description">Oculta la contrasenya</string>
+    <string name="high_temp_summary">El vostre dispositiu pot escalfar-se mentre transfereix grans quantitats de dades. Això és normal i el dispositiu es refredarà un cop finalitzada la transferència.</string>
     <string name="host_boot_installation_bottom_tips">No trobes Mi Mover? Prem per a baixar-lo.</string>
     <string name="host_boot_installation_button">Següent</string>
     <string name="host_boot_installation_dialog_message">La versió de Mi Mover del teu antic dispositiu no és compatible amb la que tens instal·lada aquí. Actualitza Mi Mover al teu antic dispositiu.</string>

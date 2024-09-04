@@ -590,6 +590,7 @@
     <string name="apps_list_header_title_sms_access">Doğrulama kodlarına erişimi kısıtla</string>
     <string name="ask_create_shortcut">Ana ekran kısayolu oluşturulsun mu?</string>
     <string name="audio_optimization_summary">Sesi yükseltir ve konuşmalardaki çevre gürültüsünü azaltır</string>
+    <string name="audio_optimization_summary_new">Oyun oynarken kulaklık ses kalitesini optimize edin ve aramalar sırasında gürültüyü azaltın</string>
     <string name="audio_optimization_title">Geliştirilmiş ses</string>
     <string name="auto_atsk_condition_battery_level_text_down">Pil seviyesi %s seviyesine ulaştığında</string>
     <string name="auto_atsk_condition_battery_level_text_up">Pil %s seviyesine kadar doldurulduğunda</string>
@@ -1130,6 +1131,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. İzni geri çekebilmek için sip
     <string name="continue_set">Devam et</string>
     <string name="convenient_mode">Tüm uygulamaların kilitlerini tek seferde aç</string>
     <string name="convenient_summary">Uygulamaların tamamının kilidini açmak için şifreyi bir kez girin</string>
+    <string name="conversation_phone_title">Arama araç kutusu</string>
     <string name="conversation_settings_top">"·Özelliklerine erişmek için tam ekran sesli ve görüntülü aramalar sırasında Konferans araçları çubuğunu kaydırın.
 ·Özelliklerin türü ve sayısı cihaz modeline bağlıdır."</string>
     <string name="conversation_sider_tips">En iyi arama deneyimi için yeni Konferans özelliklerini kullanın</string>
@@ -1144,9 +1146,13 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. İzni geri çekebilmek için sip
     <string name="create_gamebooster_destop">Ana ekran kısayolu başarıyla oluşturuldu</string>
     <string name="create_shortcut">Game Turbo için Ana ekran kısayolu oluştur</string>
     <string name="cs_color_sense">Renk sıcaklığı</string>
+    <string name="cs_conversation_record_using">Kaydediliyor</string>
     <string name="cs_func_toast_headset">Bu özelliği kullanabilmek için kulaklığızın bağlantısını kesin</string>
     <string name="cs_func_toast_light">Bu özelliği kullanabilmek için ön kameraya geçin</string>
     <string name="cs_func_toast_pickup">Bu özelliği kullanabilmek için görüntülü aramaya geçin</string>
+    <string name="cs_func_unavailable_tips">Arama sırasında bu özelliği kullan</string>
+    <string name="cs_light_enhance_physical_options">Renk sıcaklığı</string>
+    <string name="cs_light_enhance_physical_title">Parlaklık</string>
     <string name="cs_pickup_denoise_desc">Hoparlör veya kulaklık kullanıyorken gelen sesin gürültüsünü azaltın</string>
     <string name="cs_pickup_denoise_title">Gürültü azaltma</string>
     <string name="cs_pickup_multi_desc">%d derece ses alma</string>
@@ -1160,11 +1166,19 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. İzni geri çekebilmek için sip
     <string name="cs_pickup_vioce_print_unsupport_tips">"''Tek katılımcı''yı seçmeden önce ses izini kaydedin"</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Harici cihazların bağlantısını kesin ve tekrar deneyin</string>
     <string name="cs_pickup_voice_print_desc">Yalnızca bir kişiden ses alın</string>
+    <string name="cs_privacy_camera_global_settings_title">Arama gizliliği</string>
     <string name="cs_screen_translation_title">Ekran çevirisi</string>
+    <string name="cs_simultaneous_interpretation_title">Çevir</string>
     <string name="cs_title_pickup">Gürültü azaltma</string>
     <string name="cs_title_smart_subtitle">Altyazı transkripsiyonu</string>
     <string name="cs_title_ultraclear">Ultra HD modu</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Yeni arama araç kutusundaki simültane tercümeyi ve diğer konferans arama araçlarını deneyin</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Yeni arama araç kutusundaki çeşitli konferans arama özelliklerini deneyin</string>
+    <string name="cs_tool_box_phone_guide_case_1">Yeni arama araç kutusundaki simültane tercümeyi ve diğer özellikleri deneyin</string>
+    <string name="cs_tool_box_phone_guide_case_2">Yeni arama araç kutusundaki çeşitli özellikleri deneyin</string>
     <string name="cs_voice_print">Ses izini kaydet</string>
+    <string name="cs_vt_camera_toast_case1">Mevcut uygulamada kamerayı açın</string>
+    <string name="cs_vt_camera_toast_case2">Yakında uyumlu cihaz yok</string>
     <string name="cta_agree_desc">Hizmetlerimizi kullanabilmek için bu uygulamanın internete bağlanmasına ve yukarıda listelenen izinleri vermesine izin verin</string>
     <string name="cta_close_dialog_cancel">İptal</string>
     <string name="cta_close_dialog_content">Güvenlik uygulamasının internete ve konum bilgilerinize erişimini kısıtlarsanız, deprem uyarılarını alamaz, virüs veritabanlarını ve engellenler listesi bilgilerini güncelleyemezsiniz. Cihazınız daha az güvenli bir hale gelir. Yine de kısıtlansın mı?</string>
@@ -1845,6 +1859,8 @@ Numara istisnalara eklenecek, ancak daha önce engellenen ögeler arama geçmiş
     <string name="gb_audition_play_instruction">En iyi etki için kulaklıkları kullanın</string>
     <string name="gb_award_noti_message">"Ödülleri almak için Game Turbo'da Game for Peace arka planı güncellemelerini açın"</string>
     <string name="gb_award_noti_title">Game for Peace ödülleri burada!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">"&lt;Data>Sistem genelinde Nihai mod açık olduğunda Game Turbo'da Dengeli mod'a değiştirilemiyor. Güvenlik'te pil ayarlarını değiştirebilirsiniz. &lt;br>&lt;a href=\"#\">Güvenlik'i aç&lt;/a>&lt;/Data>"</string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">"&lt;Data>Sistem genelinde Nihai mod açık olduğunda Game Turbo'da Dengeli mod'a değiştirilemiyor. Güvenlik'te pil ayarlarını değiştirebilirsiniz. &lt;br>&lt;a href=\"#\">Güvenlik'i aç&lt;/a>&lt;/Data>"</string>
     <string name="gb_bar_high">Yüksek</string>
     <string name="gb_bar_low">Düşük</string>
     <string name="gb_bar_mid">Orta</string>
@@ -2000,6 +2016,8 @@ ama güç tüketimini de arttırır ve cihazın aşırı ısınmasına neden olu
     <string name="gb_predownload_receive_tips">Ödülü almak için arka plan güncellemelerini açın</string>
     <string name="gb_predownload_receiving">Alınıyor…</string>
     <string name="gb_predownload_title">Arka plan güncellemeleri</string>
+    <string name="gb_setting_dock_toast">Ön kamera asistanı özellikleri artık Arama araç kutusunda mevcut</string>
+    <string name="gb_setting_dock_toast_2">Ön kamera asistanı özellikleri artık Arama araç kutusunda mevcut</string>
     <string name="gb_shortcut_pref_title">Ana ekran kısayolu</string>
     <string name="gb_shoulder_guide_message1">[L] tuşunu herhangi bir işlevsel konuma taşıyın ve açılır tetikleyici aracılığıyla kullanın</string>
     <string name="gb_shoulder_guide_message2">Eylem [1], tuşa basarak aktive edilir. Eylem [2], tuş serbest bırakılarak aktive edilir.</string>
@@ -2134,9 +2152,21 @@ ve Ses değiştirici'yi keşfedin!"</string>
     <string name="gd_dock_shortcut_splitescreen">Ekran bölme</string>
     <string name="gd_setting_conversation">Konferans araçları</string>
     <string name="gd_setting_conversation_desc">Tam ekran sesli ve görüntülü aramalarda kullanım için çeşitli özellikler sağlar</string>
+    <string name="gd_setting_dock_activity_title">Yan araç kutusu</string>
+    <string name="gd_setting_dock_call_summary">Sesli ve görüntülü aramalar için özellikler (ör. ışık doldurma)</string>
+    <string name="gd_setting_dock_call_title">Arama araç kutusu</string>
+    <string name="gd_setting_dock_game_summary">Oyun oynarken görüntü ve performansı iyileştirin</string>
+    <string name="gd_setting_dock_game_summary_new">Oyun oynarken görüntü ve performansı iyileştirin</string>
+    <string name="gd_setting_dock_summary">Bir uygulamayı tam ekran kullanırken diğer uygulamaları kayan pencerelerde açın</string>
+    <string name="gd_setting_dock_title">Kenar çubuğu</string>
+    <string name="gd_setting_dock_video_summary">Video izlerken Dolby Atmos gibi efektleri kullanın</string>
+    <string name="gd_setting_dock_video_summary_new">Video izlerken araçları ve efektleri kullanın</string>
+    <string name="gd_setting_group_custom_conversation_apps">Aramalar için ses izini kaydedin</string>
     <string name="gd_setting_group_custom_gtb_apps">Oyunlar</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Oyun uygulamalarını yönet</string>
     <string name="gd_setting_group_custom_settings">Kişiselleştirme</string>
     <string name="gd_setting_group_custom_vtb_apps">Video uygulamaları</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Video uygulamaları yönetin</string>
     <string name="gd_setting_group_title_switch">Sahneler</string>
     <string name="gd_setting_gtb">Oyun oynuyorken göster</string>
     <string name="gd_setting_gtb_desc">Oyun için özel özellikler</string>
@@ -2156,11 +2186,17 @@ ve Ses değiştirici'yi keşfedin!"</string>
     <string name="get_phone_num_fail">Bilinmeyen telefon numarası</string>
     <string name="get_sys_info">Bilgi alınıyor…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">Pencereyi hareket ettirmek için göstergeye basılı tutun</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Bir uygulamayı kayan bir pencerede açmak için kenar çubuğunda uygulamaya dokunun.
 · Bir uygulamayı kayan bir pencerede açmak için ekranın ortasına veya Ekran bölme kullanmak için kenara sürükleyin.
 · Pencereyi hareket ettirmek için göstergeye basılı tutun."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"Bir uygulamayı kayan bir pencerede açmak için kenar çubuğunda uygulamaya dokunun.
+ Bir uygulamayı kayan bir pencerede açmak için ekranın ortasına veya Ekran bölme kullanmak için kenara sürükleyin.
+ Pencereyi hareket ettirmek için göstergeye basılı tutun."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Bir uygulamayı kayan bir pencerede açmak için kenar çubuğunda uygulamaya dokunun.
 · Pencereyi hareket ettirmek için göstergeye basılı tutun."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Kenar çubuğunu açmak için kaydırın ve bir uygulamayı kayan bir pencerede açmak için dokunun.
+Pencereyi hareket ettirmek için göstergeye basılı tutun."</string>
     <string name="global_satisfaction_notification_button">Puanla</string>
     <string name="global_satisfaction_notification_channel">Kullanıcı memnuniyeti anketi</string>
     <string name="global_satisfaction_notification_subhead">Deneyiminizden bahsedin</string>
@@ -3181,6 +3217,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız Ethernet kablosunu deği
     <string name="pc_battery_history_total_consumption_title">Toplam güç tüketimi</string>
     <string name="pc_battery_history_usetime_title">Etkinleştir</string>
     <string name="pc_battery_low_health_reminder">Pilinizi değiştirme zamanı</string>
+    <string name="pc_battery_replacement_service_title">Pil değiştirme servisimizi deneyin. %2$s garanti ile %1$s orijinal donanım.</string>
     <string name="pc_berserk_mode_dialog_title">Nihai modu aç</string>
     <string name="pc_berserk_mode_noti_summary">Nihai mod güç tüketimini arttırabilir ve aşırı ısınma sorunlarına yol açabilir</string>
     <string name="pc_berserk_mode_performance_title">Nihai mod</string>
@@ -3254,6 +3291,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız Ethernet kablosunu deği
     <string name="pc_fast_charge_switch_summary_new">Birlikte verilen şarj cihazı bağlandığında ve pil belirlenen seviyenin altında olduğunda şarj hızını artırmayı hatırlatır</string>
     <string name="pc_fast_charge_switch_title">Şarj hızını artır</string>
     <string name="pc_fast_charge_switch_toast_message">Değişiklikler gelecek sefer bu cihazı şarj ettiğinizde uygulanacaktır</string>
+    <string name="pc_fast_charge_temp_remider">"Şarj olma hızını otomatik olarak düzenlemek için açın. Bu özellik yalnızca Xiaomi'nin sağladığı şarj cihazlarıyla çalışır. Şarj sırasında cihazınız ısınabilir."</string>
     <string name="pc_fast_charge_title">Şarj hızını artır</string>
     <string name="pc_going_to_exit_extreme_mode">Hazırda bekletme modundan çıkılıyor</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Cihazınız şarj oluyor. Hazırda bekletme modu kapalı.</string>
@@ -3342,6 +3380,16 @@ kapatılıyor"</string>
     <string name="pc_search_keywords_capacity">Pil kapasitesi</string>
     <string name="pc_search_keywords_property">Performans</string>
     <string name="pc_settings_title">Pil</string>
+    <string name="pc_smart_charge_button_summary">Pil ömrünü uzatmak için sistem nasıl şarj ettiğinizi öğrenecek ve pil %1$s seviyesine ulaştığında şarj etmeyi durduracak</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Cihazınız ısındı. Pil %1$s seviyesine ulaştığında şarj durdurulacak</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Konum bulunuyor… Pil %1$s seviyesine ulaştığında şarj durdurulacak</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">Şarj duracak: %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">Pil ömrünü uzatmak için bu cihazın pili araca bağlıyken mevcut seviyenin üzerine çıkmayacak.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Tekrar gösterme</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Pil koruması</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">Pil ömrünü uzatmak için bu cihazın pili araca bağlıyken mevcut seviyenin üzerine çıkmayacak</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Pil koruması</string>
+    <string name="pc_smart_charge_title">Akıllı şarj</string>
     <string name="pc_smart_discharge_checkbox_summary">Navigasyon özelliklerini kullanırken şarj belirli bir yüzde de otomatik olarak duracak. Pil tasarrufu kapatılacak.</string>
     <string name="pc_smart_discharge_checkbox_title">Otomatik şarj bağlantısını kesme</string>
     <string name="pc_smart_discharge_drop_down_title">Otomatik bağlantı kesme ayarları</string>
@@ -3354,6 +3402,8 @@ kapatılıyor"</string>
     <string name="pc_statistics_battery_use_title">Pil kullanımı</string>
     <string name="pc_suggest_open_fast_charge">%dW hızlı şarjı açın</string>
     <string name="pc_temperature_too_high">Cihaz aşırı ısınmış</string>
+    <string name="pc_this_time_charge_full">Bu kez tamamen şarj et</string>
+    <string name="pc_this_time_charge_full_work">Neredeyse tamamen şarj edildi</string>
     <string name="pc_timely_charging_summary">"Pil %1$s'in altında. Pil düşük iken cihaz aşırı ısınırsa bu, pile zarar verebilir."</string>
     <string name="pc_timely_charging_title">Cihazınızı şarj edin</string>
     <string name="pc_to_phone_install">USB üzerinden %s yüklemesi engellendi</string>
@@ -4374,6 +4424,13 @@ kapatılıyor"</string>
     <string name="sd_mount">SD kartı tak</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">Uygulama</string>
+    <string name="search_keyword_applybar">Uygulama yuvası</string>
+    <string name="search_keyword_call">Arama</string>
+    <string name="search_keyword_sidebar">Kenar çubuğu</string>
+    <string name="search_keyword_tool">Araçlar</string>
+    <string name="search_keyword_tools">Araç kutusu</string>
+    <string name="search_keyword_voice">Sesli</string>
     <string name="search_menu_title">Ara</string>
     <string name="search_result_text">Uygulama bulunamadı</string>
     <string name="section_clear_acc_item_title">%s. Halen yeteri kadar depolama alanı yoksa, Temizleyici uygulamasını kullanmayı deneyin.</string>
@@ -5163,6 +5220,7 @@ Biçimlendirme ^2daki var olan içeriği silecektir. İçerik kaybını önlemek
     <string name="title_cloud_space_almost_full">Bulut depolama alanı neredeyse dolu, bazı ögeler senkronize edilmeyebilir</string>
     <string name="title_cloud_space_full">Bulut alanı dolu</string>
     <string name="title_cmcc_app_check">Doğrulama tamamlanmadı</string>
+    <string name="title_condition_meeting">Toplantı</string>
     <string name="title_consume_power_rank">Uygulama pil kullanımı</string>
     <string name="title_dark_mode">Bazı ögeler doğru görüntülenmedi</string>
     <string name="title_data_flow">Mobil veri kontrolü</string>
@@ -5223,6 +5281,8 @@ Biçimlendirme ^2daki var olan içeriği silecektir. İçerik kaybını önlemek
     <string name="toast_cleaner_cloudscan">Temizleyici çevrimiçi virüs veritabanını kullanacak</string>
     <string name="toast_dark_mode_fixed">Başarıyla onarıldı. Değişiklikleri uygulamak için bu sayfadan çıkın.</string>
     <string name="toast_flow_notification">Veri kullanımı bildirimleri etkinleştirildi</string>
+    <string name="toast_gamembox_unenable_pad">"Önce Güvenlik menüsünde Game Turbo'yu açın"</string>
+    <string name="toast_gamembox_unenable_phone">"Önce Güvenlik menüsünde Game Turbo'yu açın"</string>
     <string name="toast_garbage_lib">Temizleyici için otomatik güncellemeler etkinleştirildi</string>
     <string name="toast_keyword_blank">Bir anahtar kelime girmeniz gerekmektedir</string>
     <string name="toast_keyword_exist">Anahtar kelime eklendi</string>

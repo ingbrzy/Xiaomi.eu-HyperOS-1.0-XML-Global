@@ -77,6 +77,7 @@
     <string name="cancel">Zrušit</string>
     <string name="cancel_moving_dialog_message">Zastavit import?</string>
     <string name="cancel_moving_dialog_title">Zastavit import</string>
+    <string name="cancel_tranfer">Zrušit</string>
     <string name="cannot_use_mi_huanji_button">Rozumím</string>
     <string name="cannot_use_mi_huanji_summary">Zdá se, že MIUI právě zálohuje některé položky. Pro spuštění Přenosu do nového zařízení (Mi Mover) ukončete zálohování nebo restartujte zařízení.</string>
     <string name="cannot_use_mi_huanji_title">Nelze přenést</string>
@@ -269,6 +270,7 @@ Otevřete WeChat a přejděte do Me > Settings > General > Back up &amp; migrate
     <string name="guest_unfinished_task_alert_message">Zdá se, že některé přenosy nebyly dokončeny. Chcete pokračovat v přenosu?</string>
     <string name="guest_unfinished_task_alert_title">Nedokončené přenosy</string>
     <string name="hide_password_description">Skrýt heslo</string>
+    <string name="high_temp_summary">Vaše zařízení se během přenosu velkých objemů dat může zahřívat. Toto je normální jev a po dokončení přenosu se zařízení opět ochladí.</string>
     <string name="host_boot_installation_bottom_tips">Nemůžete Přesun do nového zařízení (Mi Mover) najít? Klepněte pro stažení.</string>
     <string name="host_boot_installation_button">Další</string>
     <string name="host_boot_installation_dialog_message">Verze Přesunu do nového zařízení na vašem starém zařízení není kompatibilní s verzí na tomto zařízení. Aktualizujte aplikaci na vašem starém zařízení.</string>

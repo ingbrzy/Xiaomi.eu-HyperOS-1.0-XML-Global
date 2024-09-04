@@ -872,6 +872,12 @@
         <item quantity="few">" хв"</item>
         <item quantity="many">" хв"</item>
     </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d днів</item>
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дні</item>
+        <item quantity="many">%d днів</item>
+    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">"%d об'єктів"</item>
         <item quantity="one">"%d об'єкт"</item>

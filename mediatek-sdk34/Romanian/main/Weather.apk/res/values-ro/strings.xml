@@ -33,6 +33,8 @@
     <string name="abrupt_weather_settings_summary_type">Primiți alerte despre precipitațiile preconizate, modificările calității aerului și alte modificări semnificative</string>
     <string name="act_find_city_hint">Introduceți locație</string>
     <string name="act_find_city_hot_city_title">Oraşe populare</string>
+    <string name="act_find_city_location_button_text">Obține locația</string>
+    <string name="act_find_city_location_title">Locație curentă</string>
     <string name="act_location_error_to_find_city">Nu s-a putut obține informații despre locație. Puteți adăuga o locație manual.</string>
     <string name="act_set_city_find_side">Se localizează</string>
     <string name="act_set_city_find_side_error">Dispozitivul nu poate fi localizat</string>
@@ -57,6 +59,7 @@
     <string name="activity_main_update_time">Actualizat %1$s</string>
     <string name="activity_main_update_time_expire">Datele au expirat</string>
     <string name="activity_main_update_time_right_now">chiar acum</string>
+    <string name="add_city">Adaugă</string>
     <string name="afternoon">După-amiază</string>
     <string name="alert_detail_title">Alertează detalii</string>
     <string name="alert_warning">Alerte meteo</string>

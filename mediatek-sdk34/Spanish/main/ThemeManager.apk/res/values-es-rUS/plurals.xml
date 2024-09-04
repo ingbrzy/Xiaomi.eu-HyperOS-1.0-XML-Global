@@ -146,6 +146,10 @@ Las monedas no son reembolsables"</item>
         <item quantity="other">%d Trabajos</item>
         <item quantity="one">%d Trabajo</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">Su solicitud será procesada en aproximadamente %1$d segundos.</item>
+        <item quantity="one">Su solicitud será procesada en aproximadamente %1$d segundo.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"%d pedidos reembolsados correctamente. "</item>
         <item quantity="one">"%d pedido reembolsado correctamente. "</item>

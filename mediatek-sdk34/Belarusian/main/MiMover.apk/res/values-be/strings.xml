@@ -77,6 +77,7 @@
     <string name="cancel">Скасаваць</string>
     <string name="cancel_moving_dialog_message">Спыніць імпарт?</string>
     <string name="cancel_moving_dialog_title">Спыніць імпарт</string>
+    <string name="cancel_tranfer">Адмена</string>
     <string name="cannot_use_mi_huanji_button">Зразумела</string>
     <string name="cannot_use_mi_huanji_summary">"Падобна на тое, што зараз MIUI выконвае рэзервовае капіраванне аб'ектаў. Спыніце бягучыя працэсы рэзервовага капіявання або перазагрузіце прыладу, каб Mi Mover змагло пачаць перадачу."</string>
     <string name="cannot_use_mi_huanji_title">Зараз немагчыма выканаць перадачу</string>
@@ -149,9 +150,9 @@
     <string name="dialog_request_permission_message">Сардэчна запрашаем у Mi Mover! Вы можаце выкарыстоўваць гэтую праграму для перадачы дадзеных са старой прылады на новую. Дадзеныя, якія пераносяцца, не будуць загружаныя на нашы серверы. Для нармальнай працы праграме трэба падлучыцца да Інтэрнэту, а таксама атрымаць наступныя дазволы:</string>
     <string name="dialog_request_permission_message_buttom_content">Дазволіць гэтай праграме падлучацца да інтэрнэту і падаць абавязковыя дазвалення, пералічаныя вышэй.</string>
     <string name="dialog_request_permission_message_extra_summary">Гэтыя дазвалення неабходныя для доступу да асноўных функцый і службаў гэтай праграмы.</string>
-    <string name="dialog_request_permission_message_extra_title">Абавязковыя дазвалення</string>
+    <string name="dialog_request_permission_message_extra_title">Абавязковыя дазволы</string>
     <string name="dialog_request_permission_message_global">Для нармальнай працы гэтай праграме неабходныя наступныя дазвалення:</string>
-    <string name="dialog_request_permission_message_link" formatted="false"><Data>"У той жа час, каб вывучыць свае правы карыстальніка, а таксама спосабы выкарыстання вашых дадзеных, азнаёмцеся і пагадзіцеся з нашымі &lt;a href='%1s'>Карыстальніцкім пагадненнем&lt;/a> і &lt;a href='%2s'>Палітыкай прыватнасці&lt;/a>."</Data></string>
+    <string name="dialog_request_permission_message_link" formatted="false">"&lt;Data>У той жа час, каб вывучыць свае правы карыстальніка, а таксама спосабы выкарыстання вашых дадзеных, азнаёмцеся і пагадзіцеся з нашымі &lt;a href='%1s'>Карыстальніцкім пагадненнем&lt;/a> і &lt;a href='%2s'>Палітыкай прыватнасці&lt;/a>.&lt;/Data>"</string>
     <string name="dialog_request_permission_message_provision_link">У той жа час, каб вывучыць свае правы карыстальніка, а таксама спосабы выкарыстання вашых дадзеных, азнаёмцеся і пагадзіцеся з нашымі %1$s і %2$s.</string>
     <string name="dialog_request_permission_title">Увага</string>
     <string name="dialog_request_permission_title_global">Патрабуюцца дазволы</string>
@@ -269,6 +270,7 @@
     <string name="guest_unfinished_task_alert_message">Здаецца, у вас ёсць няскончаныя задачы перадачы. Працягнуць перадачу?</string>
     <string name="guest_unfinished_task_alert_title">Незавершаныя задачы</string>
     <string name="hide_password_description">Схаваць пароль</string>
+    <string name="high_temp_summary">"Ваша прылада можа награвацца пры перадачы вялікіх аб'ёмаў дадзеных. Гэта нармальна, і пасля завяршэння перадачы прылада астыне."</string>
     <string name="host_boot_installation_bottom_tips">Не можаце знайсці Mi Mover? Націсніце для запампоўкі.</string>
     <string name="host_boot_installation_button">Далей</string>
     <string name="host_boot_installation_dialog_message">Версія Мі Mover на старой прыладзе несумяшчальная з версіяй, усталяванай тут. Абнавіце Мі Mover на старой прыладзе.</string>
@@ -467,7 +469,7 @@
 %3$d. Калі пункт доступу па-ранейшаму не адлюстроўваецца ў Mi Mover, адкрыйце налады Wi-Fi і праверце, ці бачыце вы яго там. Калі гэта так, вярніцеся ў Mi Mover і націсніце на назву пункта доступу."</string>
     <string name="new_trans_intro_desc_new_click">Спампаваць</string>
     <string name="new_trans_intro_desc_old">"%d. Калі пункт доступу усё яшчэ не з'яўляецца ў Mi Mover, адкрыйце налады Wi-Fi і праверце, ці бачны там пункт доступу. Калі так, то вярніцеся ў Mi Mover і націсніце на імя пункта доступу."</string>
-    <string name="new_trans_intro_question_1">%d. Чаму я не бачу пункт доступу, створаны новай прыладай, на старай прыладзе?</string>
+    <string name="new_trans_intro_question_1">%d. Чаму я не бачу пункт доступу, створаны новай прыладай, на старой прыладзе?</string>
     <string name="new_trans_intro_question_2">%d. Які пароль усталяваны для пункта доступу?</string>
     <string name="new_trans_intro_question_3">%d. Чаму праграма паведамляе, што на старой прыладзе недастаткова памяці?</string>
     <string name="new_trans_intro_question_4">%d. Чаму не ўдаецца перанесці ўсе праграмы?</string>
@@ -489,7 +491,7 @@
     <string name="not_support_data_link">"Аб'екты, якія не могуць быць перанесеныя"</string>
     <string name="not_support_data_summary1">Тэмы, шпалеры, транспартныя карты і ключ-карты нельга перанесці з дапамогай Mi Mover.</string>
     <string name="not_support_data_summary2">Некаторыя праграмы выкарыстоўваюць меры бяспекі, якія забараняюць перанос дадзеных праграм. Такімі праграмамі могуць быць банкаўскія праграмы або фінансавыя сэрвісы.</string>
-    <string name="not_support_data_summary3">З-за сістэмных абмежаванняў дадзеныя Другой прасторы нельга перанесці з дапамогайMi Mover.</string>
+    <string name="not_support_data_summary3">З-за сістэмных абмежаванняў дадзеныя Другой прасторы нельга перанесці з дапамогай Mi Mover.</string>
     <string name="not_support_data_summary4">Клоны праграм і іх дадзеныя таксама не могуць быць перанесеныя. Аднак вы можаце перанесці адпаведныя асноўныя праграмы.</string>
     <string name="not_support_data_summary_2">Пэўныя праграмы нельга перанесці з-за абмежаванняў прыватнасці Play Store.</string>
     <string name="not_support_data_title">"Аб'екты, якія не могуць быць перанесеныя"</string>
@@ -552,7 +554,7 @@
     <string name="permission_calender_summary">Для пераносу падзей са старой прылады на новую</string>
     <string name="permission_calender_summary_global">Для пераносу падзей календара на новую прыладу</string>
     <string name="permission_calender_title">Доступ да падзей календара</string>
-    <string name="permission_call_log_summary">Для перадачы Гісторыі вызаваў на новую прыладу</string>
+    <string name="permission_call_log_summary">Для перадачы Гісторыі выклікаў на новую прыладу</string>
     <string name="permission_call_log_title">Доступ да гісторыі выклікаў</string>
     <string name="permission_contacts_summary">Для перадачы кантактаў на новую прыладу</string>
     <string name="permission_contacts_title">Доступ да кантактаў</string>
@@ -574,7 +576,7 @@
     <string name="privacy_desc">Сардэчна запрашаем у Mi Mover! Гэтая праграма прадастаўляе наступныя паслугі:</string>
     <string name="privacy_experience_statement">Далучайцеся да нашай Праграмы паляпшэння якасці, каб перадаваць нам дадзеныя аб выкарыстанні і дапамагаць нам паляпшаць нашы прадукты і паслугі.</string>
     <string name="privacy_item1">· Перадача файлаў, паведамленняў, настроек сістэмных праграм і праграм</string>
-    <string name="privacy_message"><Data>Перад пачаткам выкарыстання праграмы Mi Mover азнаёмцеся і пагадзіцеся з нашымі &lt;a href=\"%2$s\">Карыстальніцкім пагадненнем&lt;/a> і &lt;a href=\"%1$s\">Палітыкай прыватнасці&lt;/a>. Вы можаце адклікаць сваю згоду з Палітыкай прыватнасці Mi Mover ў «Аб Mi Mover» у любы час. Калі вы не згодныя з вышэйазначанымі дакументамі, вы не зможаце выкарыстоўваць некаторыя функцыі гэтай праграмы, аднак яе асноўныя функцыі застануцца даступнымі вам.</Data></string>
+    <string name="privacy_message">&lt;Data>Перад пачаткам выкарыстання праграмы Mi Mover азнаёмцеся і пагадзіцеся з нашымі &lt;a href=\"%2$s\">Карыстальніцкім пагадненнем&lt;/a> і &lt;a href=\"%1$s\">Палітыкай прыватнасці&lt;/a>. Вы можаце адклікаць сваю згоду з Палітыкай прыватнасці Mi Mover ў «Аб Mi Mover» у любы час. Калі вы не згодныя з вышэйазначанымі дакументамі, вы не зможаце выкарыстоўваць некаторыя функцыі гэтай праграмы, аднак яе асноўныя функцыі застануцца даступнымі вам.&lt;/Data></string>
     <string name="privacy_policy">Палітыкай прыватнасці</string>
     <string name="privacy_title">Умовы і палажэнні</string>
     <string name="prompt_before_transmission_message1_summary">Калі вы выберыце перанос са старой прылады, дадзеныя праграм (у тым ліку гісторыя чата) будуць перазапісаны.</string>
@@ -617,10 +619,10 @@
     <string name="revoke">Адклікаць згоду</string>
     <string name="revoke_agree">Адкліканне згоды</string>
     <string name="revoke_confirm_dialog_cancel">Адмена</string>
-    <string name="revoke_confirm_dialog_content">Пераводзячы перамыкач у становішча \"Выкл.\", вы адклікаецца сваю згоду з Палітыкай прыватнасці праграмы Mi Mover. Мы спынім ажыццяўляць збор вашай асабістай інфармацыі. Ужо сабраная і захаваная асабістая інфармацыя будзе выдаленая на працягу пэўнага перыяду часу ў адпаведнасцi з дзеючым заканадаўствам. Праграме Mi Mover патрабуецца ажыццяўляць збор неабходнай асабістай інфармацыі для аптымізацыі працэсу перадачы дадзеных. Водгук згоды з Палітыкай прыватнасці будзе разглядацца як адмова ад удасканаленых службаў, якія функцыянуюць на аснове сабранай асабістай інфармацыі.</string>
+    <string name="revoke_confirm_dialog_content">Пераводзячы перамыкач у становішча \"Выкл.\", вы адклікаеце сваю згоду з Палітыкай прыватнасці праграмы Mi Mover. Мы спынім ажыццяўляць збор вашай асабістай інфармацыі. Ужо сабраная і захаваная асабістая інфармацыя будзе выдаленая на працягу пэўнага перыяду часу ў адпаведнасцi з дзеючым заканадаўствам. Праграме Mi Mover патрабуецца ажыццяўляць збор неабходнай асабістай інфармацыі для аптымізацыі працэсу перадачы дадзеных. Водгук згоды з Палітыкай прыватнасці будзе разглядацца як адмова ад удасканаленых службаў, якія функцыянуюць на аснове сабранай асабістай інфармацыі.</string>
     <string name="revoke_confirm_dialog_statement">Калі вы працягнеце, вы адклікаеце сваю згоду з Палітыкай прыватнасці Mi Mover. Ужо сабраная і захаваная асабістая інфармацыя будзе выдаленая на працягу пэўнага перыяду часу ў адпаведнасцi з дзеючым заканадаўствам і правіламі, калі няма патрабаванняў аб іншым. Паколькі Mi Mover аказвае паслугі на аснове сабранай неабходнай асабістай інфармацыі, адкліканне згоды вамі будзе лічыцца адмовай прыняць паслугі Mi Mover.</string>
     <string name="revoke_confirm_dialog_yes">OК</string>
-    <string name="revoke_desc">Пераводзячы перамкач у становішча \"Адкл.\", вы адклікаецца сваю згоду з Палітыкай прыватнасці праграмы Mi Mover.</string>
+    <string name="revoke_desc">Пераводзячы перамкач у становішча \"Адкл.\", вы адклікаеце сваю згоду з Палітыкай прыватнасці праграмы Mi Mover.</string>
     <string name="revoke_net_dialog_content">Ваша прылада павінна падключыцца да сеткі, каб вы змаглі адклікаць згоду. Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
     <string name="revoke_net_dialog_ok">Зразумела</string>
     <string name="revoke_net_dialog_title">Немагчыма злучыцца з сеткай</string>
@@ -777,8 +779,8 @@
     <string name="trans_one_key_migrate">Mi Mover</string>
     <string name="trans_receive_time_remained">Атрымана: %1$s | Засталося: %2$s</string>
     <string name="trans_send_time_remained">Адпраўлена: %1$s | Засталося: %2$s</string>
-    <string name="trans_show_qr_code_label">Адкрыйце Mi Mover на старай прыладзе</string>
-    <string name="trans_show_qr_code_label_for_pad">Адкрыйце Mi Mover на старай прыладзе</string>
+    <string name="trans_show_qr_code_label">Адкрыйце Mi Mover на старой прыладзе</string>
+    <string name="trans_show_qr_code_label_for_pad">Адкрыйце Mi Mover на старой прыладзе</string>
     <string name="trans_sync_transfer_data_list">"Абярыце аб'екты для перадачы на ​​старой прыладзе"</string>
     <string name="trans_sync_transfer_data_list_hint">Хвілінку…</string>
     <string name="trans_sync_transfer_data_list_summary_for_pad">"Абярыце аб'екты на старой прыладзе і націсніце «Даслаць»."</string>

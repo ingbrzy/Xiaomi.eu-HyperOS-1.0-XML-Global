@@ -38,7 +38,7 @@
     <string name="app_name">Mi Mover</string>
     <string name="appname_app_data_suffix">%1$s-appdata</string>
     <string name="audio">Lyd</string>
-    <string name="audio_video_document">Lyd, video, og dokumenter</string>
+    <string name="audio_video_document">Lyd, video og dokumenter</string>
     <string name="back">Tilbake</string>
     <string name="backup_died_summary">Trykk på «Koble til på nytt». Overføringsprogresjonen vil fortsette fra der du avsluttet.</string>
     <string name="backup_died_title">En feil oppstod</string>
@@ -77,6 +77,7 @@
     <string name="cancel">Avbryt</string>
     <string name="cancel_moving_dialog_message">Stoppe importering nå?</string>
     <string name="cancel_moving_dialog_title">Stopp importering</string>
+    <string name="cancel_tranfer">Avbryt</string>
     <string name="cannot_use_mi_huanji_button">Skjønner</string>
     <string name="cannot_use_mi_huanji_summary">Det ser ut til at MIUI sikkerhetskopierer elementer nå. Stopp pågående sikkerhetskopier eller start enheten på nytt for å gi Mi Mover tillatelse til å starte overføringen.</string>
     <string name="cannot_use_mi_huanji_title">Kan ikke overføre nå</string>
@@ -269,6 +270,7 @@ Gå til https://appleid.apple.com/#!&amp;page=signin for å deaktivere"</string>
     <string name="guest_unfinished_task_alert_message">Det ser ut til at du har overføringsoppgaver som ikke er fullførte. Fortsette overføringen?</string>
     <string name="guest_unfinished_task_alert_title">Oppgaver som ikke er fullførte</string>
     <string name="hide_password_description">Skul passord</string>
+    <string name="high_temp_summary">Enheten kan varmes opp under overføring av store mengder data. Dette er normalt, og enheten kjøles ned igjen når overføringen er fullført.</string>
     <string name="host_boot_installation_bottom_tips">Finner du ikke Mi Mover? Trykk for å laste ned.</string>
     <string name="host_boot_installation_button">Neste</string>
     <string name="host_boot_installation_dialog_message">Versjonen av Mi Mover på den gamle enheten din er ikke kompatibel med den som er installert her. Oppdater Mi Mover på den gamle enheten.</string>
@@ -618,7 +620,7 @@ Logg på Mi-kontoen for å gjenopprette dem."</string>
     <string name="revoke_agree">Tilbakekalling av samtykke</string>
     <string name="revoke_confirm_dialog_cancel">Avbryt</string>
     <string name="revoke_confirm_dialog_content">Ved å skru bryteren av trekker du tilbake samtykket ditt til personvernerklæringen for Mi Mover. Vi slutter å samle inn personopplysninger. Personopplysningene som allerede er samlet inn og bevart, slettes innen den bestemte perioden som er nødvendig etter gjeldende lover. Mi Mover må samle inn nødvendige personopplysninger for å optimalisere overføringsprosessen. Hvis du trekker tilbake samtykket til personvernerklæringen, anses det som at du ikke aksepterer forbedrede tjenester som er basert på innsamling av personopplysninger.</string>
-    <string name="revoke_confirm_dialog_statement">Hvis du fortsetter, trekker du tilbake samtykket til personvernerklæringen for Mi Mover. Personopplysninger som allerede er innhentet og lagret, vil bli slettet innen den spesifikke tidsperioden i samsvar med gjeldende lover og forskrifter, med mindre annet kreves. Siden Mi Mover leverer tjenestene sine basert på innhenting av nødvendige personopplysninger, vil slik tilbaketrekking tolkes som at du nekter å godta Mi Mover-tjenestene.</string>
+    <string name="revoke_confirm_dialog_statement">Hvis du fortsetter, trekker du tilbake samtykket til personvernerklæringen for Mi Mover. Personopplysninger som allerede er innhentet og lagret, vil bli slettet innen den spesifikke tidsperioden i samsvar med gjeldende lover og forskrifter, med mindre annet kreves. Siden Mi Mover leverer tjenestene basert på innhenting av nødvendige personopplysninger, vil slik tilbaketrekking tolkes som at du nekter å godta Mi Mover-tjenestene.</string>
     <string name="revoke_confirm_dialog_yes">OK</string>
     <string name="revoke_desc">Ved å skru bryteren av trekker du tilbake samtykket ditt til personvernerklæringen for Mi Mover.</string>
     <string name="revoke_net_dialog_content">Enheten din må koble til nettverket for at du skal kunne trekke tilbake samtykket. Kontroller nettverksinnstillingene og prøv igjen.</string>

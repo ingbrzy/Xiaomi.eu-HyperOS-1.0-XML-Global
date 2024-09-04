@@ -134,6 +134,10 @@ Sikkələr geri qaytarılmır"</item>
         <item quantity="other">%d iş</item>
         <item quantity="one">%d iş</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">Sizin sorğunuz %1$d saniyəyə işlənəcək.</item>
+        <item quantity="one">Sizin sorğunuz %1$d saniyəyə işlənəcək</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"%d sifariş uğurla geri qaytarıldı. "</item>
         <item quantity="one">"%d sifariş uğurla geri qaytarıldı. "</item>

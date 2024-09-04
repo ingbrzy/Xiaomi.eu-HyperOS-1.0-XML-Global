@@ -77,6 +77,7 @@
     <string name="cancel">Annuleren</string>
     <string name="cancel_moving_dialog_message">Nu stoppen met importeren?</string>
     <string name="cancel_moving_dialog_title">Stop met importeren</string>
+    <string name="cancel_tranfer">Annuleren</string>
     <string name="cannot_use_mi_huanji_button">Begrepen</string>
     <string name="cannot_use_mi_huanji_summary">Het lijkt erop dat MIUI nu een back-up maakt van items. Stop lopende back-ups of herstart uw apparaat zodat Mi Mover de overdracht kan starten.</string>
     <string name="cannot_use_mi_huanji_title">Kan nu niet overzetten</string>
@@ -269,6 +270,7 @@ Open WeChat en ga naar Mijn > Instellingen > Algemeen > Back-up en chats migrere
     <string name="guest_unfinished_task_alert_message">Het lijkt erop dat u onvoltooide overdrachtstaken heeft. De overdracht voortzetten?</string>
     <string name="guest_unfinished_task_alert_title">Onvoltooide taken</string>
     <string name="hide_password_description">Wachtwoord verbergen</string>
+    <string name="high_temp_summary">Uw apparaat kan warm worden tijdens de overdracht van grote hoeveelheden gegevens. Dit is normaal en uw apparaat zal afkoelen nadat de overdracht is voltooid.</string>
     <string name="host_boot_installation_bottom_tips">Kan Mi Mover niet vinden? Tik om te downloaden.</string>
     <string name="host_boot_installation_button">Volgende</string>
     <string name="host_boot_installation_dialog_message">De versie van Mi Mover op uw oude apparaat is niet compatibel met de versie die hier is geïnstalleerd. Werk Mi Mover bij op uw oude apparaat.</string>

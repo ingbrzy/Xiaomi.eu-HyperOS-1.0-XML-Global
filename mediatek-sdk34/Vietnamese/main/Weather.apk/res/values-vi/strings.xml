@@ -33,6 +33,8 @@
     <string name="abrupt_weather_settings_summary_type">Nhận cảnh báo về lượng mưa dự kiến, thay đổi chất lượng không khí và các thay đổi quan trọng khác</string>
     <string name="act_find_city_hint">Nhập vị trí</string>
     <string name="act_find_city_hot_city_title">Thành phố phổ biến</string>
+    <string name="act_find_city_location_button_text">Nhận vị trí</string>
+    <string name="act_find_city_location_title">Vị trí hiện tại</string>
     <string name="act_location_error_to_find_city">Không thể nhận thông tin vị trí. Bạn có thể thêm vị trí theo cách thủ công.</string>
     <string name="act_set_city_find_side">Đang định vị</string>
     <string name="act_set_city_find_side_error">Định vị thất bại.</string>
@@ -57,6 +59,7 @@
     <string name="activity_main_update_time">Đã cập nhật %1$s</string>
     <string name="activity_main_update_time_expire">Dữ liệu đã hết hạn</string>
     <string name="activity_main_update_time_right_now">Vừa xong</string>
+    <string name="add_city">Thêm</string>
     <string name="afternoon">Buổi chiều</string>
     <string name="alert_detail_title">Chi tiết cảnh báo</string>
     <string name="alert_warning">Cảnh báo thời tiết</string>

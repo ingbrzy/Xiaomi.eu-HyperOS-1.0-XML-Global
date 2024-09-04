@@ -590,6 +590,7 @@
     <string name="apps_list_header_title_sms_access">Доступ к кодам подтверждения</string>
     <string name="ask_create_shortcut">Создать ярлык на рабочем столе?</string>
     <string name="audio_optimization_summary">Улучшать звук в играх и уменьшать шум при разговорах.</string>
+    <string name="audio_optimization_summary_new">Оптимизировать качество звука в наушниках во время игр и уменьшать шум во время вызовов</string>
     <string name="audio_optimization_title">Улучшение звука</string>
     <string name="auto_atsk_condition_battery_level_text_down">Когда батарея разрядится до %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Когда батарея зарядится до %s</string>
@@ -1130,6 +1131,7 @@
     <string name="continue_set">Продолжить</string>
     <string name="convenient_mode">Групповая разблокировка</string>
     <string name="convenient_summary">Введите пароль один раз для разблокировки всех приложений</string>
+    <string name="conversation_phone_title">Вызов панели инструментов</string>
     <string name="conversation_settings_top">"· Чтобы получить доступ к функциям, выдвиньте панель инструментов для конференций во время полноэкранного аудио- и видеовызова.
 · Тип и количество функций зависят от модели устройства."</string>
     <string name="conversation_sider_tips">Для наилучшего взаимодействия воспользуйтесь новыми инструментами для конференций</string>
@@ -1144,9 +1146,13 @@
     <string name="create_gamebooster_destop">Ярлык добавлен на рабочий стол</string>
     <string name="create_shortcut">На рабочем столе будет создан ярлык для Ускорения игр</string>
     <string name="cs_color_sense">Цветовой тон</string>
+    <string name="cs_conversation_record_using">Запись</string>
     <string name="cs_func_toast_headset">Чтобы воспользоваться этой функцией, отключите свои наушники</string>
     <string name="cs_func_toast_light">Чтобы воспользоваться этой функцией, переключитесь на фронтальную камеру</string>
     <string name="cs_func_toast_pickup">Чтобы воспользоваться этой функцией, переключитесь на видеовызов</string>
+    <string name="cs_func_unavailable_tips">Использовать эту функцию во время вызовов</string>
+    <string name="cs_light_enhance_physical_options">Цветовой тон</string>
+    <string name="cs_light_enhance_physical_title">Яркость</string>
     <string name="cs_pickup_denoise_desc">Снижать уровень шума во время разговоров через динамик или наушники.</string>
     <string name="cs_pickup_denoise_title">Уменьшение шума</string>
     <string name="cs_pickup_multi_desc">Улавливать звук на %d градусов.</string>
@@ -1160,11 +1166,19 @@
     <string name="cs_pickup_vioce_print_unsupport_tips">Запишите отпечаток голоса, прежде чем выбрать \"Один участник\"</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Отключите внешние устройства и повторите попытку</string>
     <string name="cs_pickup_voice_print_desc">Регистрировать звук только от одного человека</string>
+    <string name="cs_privacy_camera_global_settings_title">Конфиденциальность вызовов</string>
     <string name="cs_screen_translation_title">Экранный перевод</string>
+    <string name="cs_simultaneous_interpretation_title">Расшифровка</string>
     <string name="cs_title_pickup">Уменьшение шума</string>
     <string name="cs_title_smart_subtitle">Транскрипция в виде субтитров</string>
     <string name="cs_title_ultraclear">Режим Ultra HD</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Попробуйте синхронный перевод и другие инструменты конференц-связи в новых Инструментах вызовов</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Попробуйте ряд функций конференц-связи в новых Инструментах вызовов</string>
+    <string name="cs_tool_box_phone_guide_case_1">Попробуйте синхронный перевод и другие функции в новых Инструментах вызовов</string>
+    <string name="cs_tool_box_phone_guide_case_2">Попробуйте ряд функций в новых Инструментах вызовов</string>
     <string name="cs_voice_print">Запись голосового отпечатка</string>
+    <string name="cs_vt_camera_toast_case1">Открыть камеру в текущем приложении</string>
+    <string name="cs_vt_camera_toast_case2">Поблизости нет совместимых устройств</string>
     <string name="cta_agree_desc">Чтобы иметь возможность воспользоваться нашими службами, разрешите этому приложению доступ к интернету, а также предоставьте другие разрешения из списка ниже.</string>
     <string name="cta_close_dialog_cancel">Отмена</string>
     <string name="cta_close_dialog_content">Если вы ограничите приложению Безопасность доступ к интернету и данным о местоположении, вы не сможете получать предупреждения о землетрясениях, обновлять сигнатуры антивирусов и базы Антиспама. Ваше устройство станет менее защищенным. Ограничить доступ?</string>
@@ -1845,6 +1859,8 @@
     <string name="gb_audition_play_instruction">Для наилучшего эффекта подключите наушники</string>
     <string name="gb_award_noti_message">Чтобы получить награды, включите фоновое обновление Game of Peace в Ускорении игр.</string>
     <string name="gb_award_noti_title">Награды для Game for Peace!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Невозможно переключиться на Сбалансированный режим в Ускоренип игр, когда включен общесистемный режим «Ultimate». Вы можете изменить настройки батареи в разделе «Безопасность».&lt;br>&lt;a href=\"#\">Открыть «Безопасность».&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Невозможно переключиться на Сбалансированный режим в Ускорении игр, когда включен общесистемный Режим «Ultimate». Вы можете изменить настройки батареи в разделе «Безопасность». &lt;br>&lt;a href=\"#\">Открыть «Безопасность»&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">Выс.</string>
     <string name="gb_bar_low">Низк.</string>
     <string name="gb_bar_mid">Сред.</string>
@@ -2000,6 +2016,8 @@ Record sequences and use them anytime!"</string>
     <string name="gb_predownload_receive_tips">Включите фоновые обновления, чтобы получить награды.</string>
     <string name="gb_predownload_receiving">Получение…</string>
     <string name="gb_predownload_title">Фоновые обновления</string>
+    <string name="gb_setting_dock_toast">Функции Помощника фронтальной камеры теперь доступны в инструментах вызова</string>
+    <string name="gb_setting_dock_toast_2">Функции Помощника фронтальной камеры теперь доступны в инструментах вызова</string>
     <string name="gb_shortcut_pref_title">Создать ярлык на рабочем столе</string>
     <string name="gb_shoulder_guide_message1">Переместите кнопку [L] на функциональную область, чтобы использовать ее при помощи триггера.</string>
     <string name="gb_shoulder_guide_message2">Действие \"[1]\" активируется при нажатии на кнопку. Действие \"[2]\" активируется, когда вы отпускаете кнопку.</string>
@@ -2135,9 +2153,21 @@ Record sequences and use them anytime!"</string>
     <string name="gd_dock_shortcut_splitescreen">Разделение экрана</string>
     <string name="gd_setting_conversation">Инструменты для конференций</string>
     <string name="gd_setting_conversation_desc">Широкий набор функций для использования во время полноэкранных аудио- и видеовызовов.</string>
+    <string name="gd_setting_dock_activity_title">Боковые инструменты</string>
+    <string name="gd_setting_dock_call_summary">Функции для голосовых и видеозвонков (например, осветление)</string>
+    <string name="gd_setting_dock_call_title">Вызов инструментов</string>
+    <string name="gd_setting_dock_game_summary">Улучшите отображение и производительность во время игр</string>
+    <string name="gd_setting_dock_game_summary_new">Улучшите отображение и производительность во время игр</string>
+    <string name="gd_setting_dock_summary">Открывайте другие приложения в плавающих окнах, используя полноэкранный режим приложений</string>
+    <string name="gd_setting_dock_title">Боковая панель</string>
+    <string name="gd_setting_dock_video_summary">Используйте эффекты, такие как Dolby Atmos, во время просмотра видео</string>
+    <string name="gd_setting_dock_video_summary_new">Используйте инструменты и эффекты во время просмотра видео</string>
+    <string name="gd_setting_group_custom_conversation_apps">Записать голосовой отпечаток для вызовов</string>
     <string name="gd_setting_group_custom_gtb_apps">Игры</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Управление игровыми приложениями</string>
     <string name="gd_setting_group_custom_settings">Персонализация</string>
     <string name="gd_setting_group_custom_vtb_apps">Приложения для видео</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Управление видеоприложениями</string>
     <string name="gd_setting_group_title_switch">Сценарии</string>
     <string name="gd_setting_gtb">Показывать в играх</string>
     <string name="gd_setting_gtb_desc">Специальные игровые функции</string>
@@ -2157,11 +2187,17 @@ Record sequences and use them anytime!"</string>
     <string name="get_phone_num_fail">Неизвестный номер телефона</string>
     <string name="get_sys_info">Получение данных…</string>
     <string name="gigabyteShort">ГБ</string>
+    <string name="global_dock_guide_desc_pad">Нажмите и удерживайте индикатор, чтобы переместить окно</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Нажмите на приложение на боковой панели, чтобы открыть его в плавающем окне.
 · Перетащите приложение в центр экрана, чтобы открыть его в плавающем окне, или к краю экрана, чтобы включить режим «Разделение экрана».
 · Нажмите и удерживайте индикатор, чтобы переместить окно."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"Нажмите на приложение на боковой панели, чтобы открыть его в плавающем окне.
+ Перетащите приложение в центр экрана, чтобы открыть его в плавающем окне, или к краю экрана, чтобы включить режим «Разделение экрана».
+ Нажмите и удерживайте индикатор, чтобы переместить окно."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Нажмите на приложение на боковой панели, чтобы открыть его в плавающем окне.
 · Нажмите и удерживайте индикатор, чтобы переместить окно."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Проведите пальцем по экрану для открытия боковой панели и нажмите на приложение, чтобы открыть его в плавающем окне.
+Нажмите и удерживайте индикатор для перемещения окна."</string>
     <string name="global_satisfaction_notification_button">Оценить</string>
     <string name="global_satisfaction_notification_channel">Опрос об удовлетворенности пользователей</string>
     <string name="global_satisfaction_notification_subhead">Расскажите о своих ощущениях от использования</string>
@@ -3182,6 +3218,7 @@ to join our egg hunt!"</string>
     <string name="pc_battery_history_total_consumption_title">Общее энергопотребление</string>
     <string name="pc_battery_history_usetime_title">Активность</string>
     <string name="pc_battery_low_health_reminder">Пора заменить батарею</string>
+    <string name="pc_battery_replacement_service_title">Попробуйте нашу услугу по замене аккумулятора. %1$s оригинальное оборудование с гарантией %2$s.</string>
     <string name="pc_berserk_mode_dialog_title">Включить режим Ultimate</string>
     <string name="pc_berserk_mode_noti_summary">Активация режима Ultimate может привести к увеличению энергопотребления, а также к перегреву устройства.</string>
     <string name="pc_berserk_mode_performance_title">Режим \"Ultimate\"</string>
@@ -3255,6 +3292,7 @@ to join our egg hunt!"</string>
     <string name="pc_fast_charge_switch_summary_new">Напоминать увеличить скорость зарядки, когда подключено комплектное зарядное устройство, а уровень заряда ниже выбранного.</string>
     <string name="pc_fast_charge_switch_title">Ускорение зарядки</string>
     <string name="pc_fast_charge_switch_toast_message">Изменения вступят в силу во время следующей зарядки этого устройства.</string>
+    <string name="pc_fast_charge_temp_remider">Включите, чтобы автоматически регулировать скорость зарядки. Эта функция работает только с зарядными устройствами, входящим в комплект поставки Xiaomi. Ваше устройство может нагреваться во время зарядки.</string>
     <string name="pc_fast_charge_title">Ускорение зарядки</string>
     <string name="pc_going_to_exit_extreme_mode">Выход из режима гибернации</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Устройство заряжается. Режим гибернации откл.</string>
@@ -3343,6 +3381,16 @@ to join our egg hunt!"</string>
     <string name="pc_search_keywords_capacity">Емкость батареи</string>
     <string name="pc_search_keywords_property">Производительность</string>
     <string name="pc_settings_title">Батарея</string>
+    <string name="pc_smart_charge_button_summary">Чтобы продлить срок службы аккумулятора, система распознает, как вы заряжаете свое устройство, и прекратит зарядку, когда уровень заряда достигает %1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Ваше устройство перегрелось. Зарядка прекратится, когда уровень заряда аккумулятора достигнет %1$s</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Переход… Зарядка прекратится, когда уровень заряда аккумулятора достигнет %1$s</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">Зарядка прекратится при %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">Чтобы продлить срок службы аккумулятора, уровень заряда аккумулятора этого устройства не будет превышать текущий уровень при подключении к автомобилю.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Больше не показывать</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Защита батареи</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">Чтобы продлить срок службы аккумулятора, уровень заряда аккумулятора этого устройства не будет превышать текущий уровень при подключении к автомобилю</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Защита батареи</string>
+    <string name="pc_smart_charge_title">Смарт-зарядка</string>
     <string name="pc_smart_discharge_checkbox_summary">При использовании функций навигации зарядка автоматически прекращается при достижении определенного уровня. Экономия энергии будет отключена.</string>
     <string name="pc_smart_discharge_checkbox_title">Автоотключение зарядки</string>
     <string name="pc_smart_discharge_drop_down_title">Параметры автоматического отключения</string>
@@ -3355,6 +3403,8 @@ to join our egg hunt!"</string>
     <string name="pc_statistics_battery_use_title">Потребление энергии</string>
     <string name="pc_suggest_open_fast_charge">Включите %d-Вт быструю зарядку</string>
     <string name="pc_temperature_too_high">Перегрев устройства</string>
+    <string name="pc_this_time_charge_full">На этот раз зарядить полностью</string>
+    <string name="pc_this_time_charge_full_work">Почти заряжено</string>
     <string name="pc_timely_charging_summary">Заряд менее %1$s. Перегрев с разряженной батарей может привести к ее сильному износу.</string>
     <string name="pc_timely_charging_title">Зарядите устройство</string>
     <string name="pc_to_phone_install">Заблокирована установка %s через USB</string>
@@ -4375,6 +4425,13 @@ to join our egg hunt!"</string>
     <string name="sd_mount">Подключить SD-карту</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">Приложение</string>
+    <string name="search_keyword_applybar">Панель приложений</string>
+    <string name="search_keyword_call">Вызов</string>
+    <string name="search_keyword_sidebar">Боковая панель</string>
+    <string name="search_keyword_tool">Инструменты</string>
+    <string name="search_keyword_tools">Инструменты</string>
+    <string name="search_keyword_voice">Голос</string>
     <string name="search_menu_title">Поиск</string>
     <string name="search_result_text">Приложения не найдены</string>
     <string name="section_clear_acc_item_title">%s. Если памяти все же не хватает, попробуйте использовать Очистку.</string>
@@ -5137,7 +5194,7 @@ to join our egg hunt!"</string>
     <string name="thursday">Четверг</string>
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>
-    <string name="time_picker_dialog_title">Настройка времени</string>
+    <string name="time_picker_dialog_title">Выберите время</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
     <string name="timeshow_h">%.1fч</string>
@@ -5164,6 +5221,7 @@ to join our egg hunt!"</string>
     <string name="title_cloud_space_almost_full">Облачное хранилище заполнено, синхронизация приостановлена</string>
     <string name="title_cloud_space_full">Память Xiaomi Cloud заполнена</string>
     <string name="title_cmcc_app_check">Проверка не завершена</string>
+    <string name="title_condition_meeting">Собрание</string>
     <string name="title_consume_power_rank">Потребление энергии</string>
     <string name="title_dark_mode">Некорректное отображение</string>
     <string name="title_data_flow">Управление трафиком</string>
@@ -5224,6 +5282,8 @@ to join our egg hunt!"</string>
     <string name="toast_cleaner_cloudscan">Сервис очистки онлайн включен</string>
     <string name="toast_dark_mode_fixed">Проблема решена. Покиньте эту страницу для применения изменений.</string>
     <string name="toast_flow_notification">Уведомления о трафике включены</string>
+    <string name="toast_gamembox_unenable_pad">Сначала включите «Ускорение игр» в разделе «Безопасность»</string>
+    <string name="toast_gamembox_unenable_phone">Сначала включите «Ускорение игр» в разделе «Безопасность»</string>
     <string name="toast_garbage_lib">Автообновление базы очистки включено</string>
     <string name="toast_keyword_blank">Вы не ввели ключевые слова</string>
     <string name="toast_keyword_exist">Ключевое слово уже есть в списке</string>

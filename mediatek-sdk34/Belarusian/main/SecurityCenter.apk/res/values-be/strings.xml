@@ -590,6 +590,7 @@
     <string name="apps_list_header_title_sms_access">Абмежаваць доступ да кодаў верыфікацыі</string>
     <string name="ask_create_shortcut">Стварыць ярлык на працоўным стале?</string>
     <string name="audio_optimization_summary">Паляпшаць гук і памяншаць знешні шум пры гутарках</string>
+    <string name="audio_optimization_summary_new">Аптымізаваць якасць гуку ў навушніках падчас гульняў і паменшыць шум падчас выклікаў</string>
     <string name="audio_optimization_title">Паляпшэнне гуку</string>
     <string name="auto_atsk_condition_battery_level_text_down">Калі разрад батарэі дасягне %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Калі зарад батарэі дасягне %s</string>
@@ -1130,6 +1131,7 @@
     <string name="continue_set">Працягнуць</string>
     <string name="convenient_mode">Разблакаваць усе праграмы адразу</string>
     <string name="convenient_summary">Увядзіце пароль адзін раз, каб разблакаваць усе праграмы</string>
+    <string name="conversation_phone_title">Панэль інструментаў выклікаў</string>
     <string name="conversation_settings_top">"·Вылучыце панэль інструментаў канферэнцыі падчас поўнаэкранных аўдыё- і відэавыклікаў, каб атрымаць доступ да яе функцый.
 ·Тып і колькасць функцый залежаць ад мадэлі прылады."</string>
     <string name="conversation_sider_tips">Выкарыстоўвайце новыя інструменты канферэнцый для лепшага выканання выклікаў</string>
@@ -1144,9 +1146,13 @@
     <string name="create_gamebooster_destop">Ярлык паспяхова дададзены на Галоўны экран</string>
     <string name="create_shortcut">Стварыць ярлык на Галоўным экране для Паскарэння гульняў</string>
     <string name="cs_color_sense">Каляровая тэмпература</string>
+    <string name="cs_conversation_record_using">Запіс</string>
     <string name="cs_func_toast_headset">Адключыце гарнітуру, каб выкарыстаць гэтую функцыю</string>
     <string name="cs_func_toast_light">Пераключыцеся на пярэднюю камеру, каб выкарыстаць гэтую функцыю</string>
     <string name="cs_func_toast_pickup">Пераключыцеся на відэавыклік, каб выкарыстаць гэтую функцыю</string>
+    <string name="cs_func_unavailable_tips">Выкарыстоўваць гэту функцыю падчас выклікаў</string>
+    <string name="cs_light_enhance_physical_options">Каляровая тэмпература</string>
+    <string name="cs_light_enhance_physical_title">Яркасць</string>
     <string name="cs_pickup_denoise_desc">Зніжаць узровень шуму падчас размоў праз дынамік або навушнікі</string>
     <string name="cs_pickup_denoise_title">Шумападаўленне</string>
     <string name="cs_pickup_multi_desc">Захоп гуку на %d градусаў</string>
@@ -1160,11 +1166,19 @@
     <string name="cs_pickup_vioce_print_unsupport_tips">Запішыце ўзор голасу, перш чым абраць «Адзін удзельнік»</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Адключыце знешнія прылады і паспрабуйце яшчэ раз</string>
     <string name="cs_pickup_voice_print_desc">Улоўліваць гук толькі ад аднаго чалавека</string>
+    <string name="cs_privacy_camera_global_settings_title">Прыватнасць выклікаў</string>
     <string name="cs_screen_translation_title">Пераклад экрана</string>
+    <string name="cs_simultaneous_interpretation_title">Расшыфроўка</string>
     <string name="cs_title_pickup">Шумападаўленне</string>
     <string name="cs_title_smart_subtitle">Транскрыпцыя субтытраў</string>
     <string name="cs_title_ultraclear">Рэжым Ultra HD</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Паспрабуйце сінхронны пераклад і іншыя інструменты канферэнц-выклікаў на новай Панэлі інструментаў выклікаў</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Паспрабуйце шэраг функцый канферэнц-выклікаў на новай Панэлі інструментаў выклікаў</string>
+    <string name="cs_tool_box_phone_guide_case_1">Паспрабуйце сінхронны пераклад і іншыя функцыі на новай Панэлі інструментаў выклікаў</string>
+    <string name="cs_tool_box_phone_guide_case_2">Паспрабуйце шэраг функцый на новай Панэлі інструментаў выклікаў</string>
     <string name="cs_voice_print">Запісаць узор голасу</string>
+    <string name="cs_vt_camera_toast_case1">Адкрыць камеру ў бягучай праграме</string>
+    <string name="cs_vt_camera_toast_case2">Паблізу няма сумяшчальных прылад</string>
     <string name="cta_agree_desc">Каб мець магчымасць скарыстацца нашымі службамі, дазволіце гэтай праграме доступ да інтэрнэту, а таксама прадастаўце іншыя дазвалення з спісу ніжэй.</string>
     <string name="cta_close_dialog_cancel">Адмена</string>
     <string name="cta_close_dialog_content">Калі вы абмежуеце доступ Бяспекі ў інтэрнэт і да вашай інфармацыі пра месцазнаходжанне, вы не зможаце атрымліваць папярэджання аб землятрусах, абнаўляць вызначэння вірусаў і інфармацыю ў Чорнам спісе. Прылада стане менш бяспечнай. Усё роўна абмежаваць?</string>
@@ -1845,6 +1859,8 @@
     <string name="gb_audition_play_instruction">Для найлепшага эфекту выкарыстоўвайце навушнікі</string>
     <string name="gb_award_noti_message">Уключыце фонавыя абнаўлення \"Гуляйце дзеля міру\" ў Паскарэнні гульняў, каб атрымліваць узнагароды</string>
     <string name="gb_award_noti_title">"З'явіліся ўзнагароды \"Гуляйце дзеля міру\"!"</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Нможна пераключыцца на Збалансаваны рэжым у Паскарэнне гульняў, калі ўключаны агульнасістэмны Рэжым максімальнай прадукцыйнасці. Вы можаце змяніць налады батарэі ў раздзеле «Бяспека».&lt;br>&lt;a href=\"#\">Адкрыць «Бяспеку»&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Немагчыма пераключыцца на Збалансаваны рэжым у Паскарэнні гульняў, калі ўключаны агульнасістэмны Рэжым максімальнай прадукцыйнасці. Вы можаце змяніць налады батарэі ў раздзеле «Бяспека». &lt;br>&lt;a href=\"#\">Адкрыць «Бяспеку»&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">Высокая</string>
     <string name="gb_bar_low">Нізкая</string>
     <string name="gb_bar_mid">Сярэдняя</string>
@@ -2000,6 +2016,8 @@ Record sequences and use them anytime!"</string>
     <string name="gb_predownload_receive_tips">Уключыце фонавыя абнаўлення, каб атрымліваць узнагароды</string>
     <string name="gb_predownload_receiving">Атрыманне…</string>
     <string name="gb_predownload_title">Фонавыя абнаўлення</string>
+    <string name="gb_setting_dock_toast">Функцыі Памочніка па пярэдняй камеры зараз даступныя на Панэль інструментаў выкліку</string>
+    <string name="gb_setting_dock_toast_2">Функцыі Памочніка па пярэдняй камеры зараз даступныя на Панэль інструментаў выкліку</string>
     <string name="gb_shortcut_pref_title">Ярлык на працоўным стале</string>
     <string name="gb_shoulder_guide_message1">Перамесціце [L] у любое функцыянальнае становішча і выкарыстоўвайце яго з дапамогай усплывальнага трыгера.</string>
     <string name="gb_shoulder_guide_message2">Дзеянне [1] актывуецца націскам кнопкі. Дзеянне [2] актывуецца адпушчэннем кнопкі.</string>
@@ -2135,9 +2153,21 @@ Record sequences and use them anytime!"</string>
     <string name="gd_dock_shortcut_splitescreen">Падзяленне экрана</string>
     <string name="gd_setting_conversation">Інструменты канферэнцыі</string>
     <string name="gd_setting_conversation_desc">Дае мноства функцый для выкарыстання ў поўнаэкранных аўдыё- і відэавыкліках.</string>
+    <string name="gd_setting_dock_activity_title">Бакавая панэль інструментаў</string>
+    <string name="gd_setting_dock_call_summary">Функцыі для галасавых і відэазвыклікаў (напрыклад, Высвятленне»)</string>
+    <string name="gd_setting_dock_call_title">Панэль інструментаў выклікаў</string>
+    <string name="gd_setting_dock_game_summary">Палепшыце адлюстраванне і прадукцыйнасць падчас гульняў</string>
+    <string name="gd_setting_dock_game_summary_new">Палепшыце адлюстраванне і прадукцыйнасць падчас гульняў</string>
+    <string name="gd_setting_dock_summary">Адкрывайце іншыя праграмы ў плывучых вокнах, выкарыстоўваючы поўнаэкранны рэжым праграм</string>
+    <string name="gd_setting_dock_title">Бакавая панэль</string>
+    <string name="gd_setting_dock_video_summary">Выкарыстоўвайце эфекты, такія як Dolby Atmos, падчас прагляду відэа</string>
+    <string name="gd_setting_dock_video_summary_new">Выкарыстоўвайце інструменты і эфекты падчас прагляду відэа</string>
+    <string name="gd_setting_group_custom_conversation_apps">Запіс узора голасу для выклікаў</string>
     <string name="gd_setting_group_custom_gtb_apps">Гульні</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Упраўленне гульнявымі праграмамі</string>
     <string name="gd_setting_group_custom_settings">Персаналізацыя</string>
     <string name="gd_setting_group_custom_vtb_apps">Відэапраграмы</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Кіраванне відэапраграмамі</string>
     <string name="gd_setting_group_title_switch">Сцэнары</string>
     <string name="gd_setting_gtb">Паказваць падчас гульняў</string>
     <string name="gd_setting_gtb_desc">Спецыяльныя функцыі для гульняў</string>
@@ -2157,11 +2187,17 @@ Record sequences and use them anytime!"</string>
     <string name="get_phone_num_fail">Невядомы нумар тэлефона</string>
     <string name="get_sys_info">Атрыманне інфармацыі…</string>
     <string name="gigabyteShort">ГБ</string>
+    <string name="global_dock_guide_desc_pad">Націсніце і ўтрымлівайце індыкатар, каб перамяшчаць акно</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Націсніце на праграму ў бакавой панэлі, каб адкрыць яе ў плывучым акне.
 · Перацягніце праграму ў цэнтр экрана, каб адкрыць яе ў плывучым акне, або ўбок, каб выкарыстоўваць Падзяленне экрана.
  Націсніце і ўтрымлівайце індыкатар, каб перамяшчаць акно."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"Націсніце на праграму ў бакавой панэлі, каб адкрыць яе ў плывучым акне.
+ Перацягніце праграму ў цэнтр экрана, каб адкрыць яе ў плывучым акне, або ўбок, каб выкарыстаць «Падзяленне экрана».
+ Націсніце і ўтрымлівайце індыкатар, каб перамяшчаць акно."</string>
     <string name="global_dock_guide_desc_without_split_screen">"* Націсніце на праграму на бакавой панэлі, каб адкрыць яе ў плывучым акне.
 · Націсніце і ўтрымлівайце індыкатар, каб перамяшчаць акно."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Правядзіце па экране, каб адкрыць бакавую панэль, і націсніце на праграму, каб адкрыць яе ў плывучым акне.
+Націсніце і ўтрымлівайце індыкатар, каб перамясціць акно."</string>
     <string name="global_satisfaction_notification_button">Ацаніць</string>
     <string name="global_satisfaction_notification_channel">Апытанне аб задаволенасці карыстальнікаў</string>
     <string name="global_satisfaction_notification_subhead">Раскажыце нам аб сваім досведзе</string>
@@ -3182,6 +3218,7 @@ Record sequences and use them anytime!"</string>
     <string name="pc_battery_history_total_consumption_title">Агульнае энергаспажыванне</string>
     <string name="pc_battery_history_usetime_title">Актыўна</string>
     <string name="pc_battery_low_health_reminder">Варта замяніць батарэю</string>
+    <string name="pc_battery_replacement_service_title">Паспрабуйце нашу паслугу па замене акумулятара. %1$s арыгінальнае абсталяванне з гарантыяй %2$s.</string>
     <string name="pc_berserk_mode_dialog_title">Уключыце Рэжым максімальнай прадукцыйнасці</string>
     <string name="pc_berserk_mode_noti_summary">Уключэнне Рэжыму максімальнай прадукцыйнасці можа прывесці да павелічэння энергаспажывання, а таксама да перагрэву прылады</string>
     <string name="pc_berserk_mode_performance_title">Рэжым максімальнай прадукцыйнасці</string>
@@ -3255,6 +3292,7 @@ Record sequences and use them anytime!"</string>
     <string name="pc_fast_charge_switch_summary_new">Нагадваць аб неабходнасці павялічыць хуткасць зарадкі, калі падлучана зарадная прылада з камплекту пастаўкі і зарад батарэі падае ніжэй устаноўленага ўзроўню</string>
     <string name="pc_fast_charge_switch_title">Паскорыць зарадку</string>
     <string name="pc_fast_charge_switch_toast_message">Змены ўступяць у сілу падчас наступнай зарадкі гэтай прылады</string>
+    <string name="pc_fast_charge_temp_remider">Уключыце, каб аўтаматычна рэгуляваць хуткасць зарадкі. Гэтая функцыя працуе толькі з зараднымі прыладамі, якія ўваходзяць у камплект пастаўкі Xiaomi. Ваша прылада можа награвацца падчас зарадкі.</string>
     <string name="pc_fast_charge_title">Паскорыць зарадку</string>
     <string name="pc_going_to_exit_extreme_mode">Выхад з рэжыму гібернацыі...</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Ваша прылада зараджаецца. Рэжым гібернацыі выключаны.</string>
@@ -3343,6 +3381,16 @@ Record sequences and use them anytime!"</string>
     <string name="pc_search_keywords_capacity">Ёмістасць батарэі</string>
     <string name="pc_search_keywords_property">Прадукцыйнасць</string>
     <string name="pc_settings_title">Батарэя</string>
+    <string name="pc_smart_charge_button_summary">Каб падоўжыць тэрмін службы акумулятара, сістэма распазнае, як вы зараджаеце сваю прыладу, і спыняе зарадку, калі ўзровень зарада дасягае %1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Ваша прылада перагрэлася. Зарадка спыніцца, калі ўзровень зарада акумулятара дасягне %1$s</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Пераход… Зарадка спыніцца, калі ўзровень зарада акумулятара дасягне %1$s</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">Зарадка спыніцца пры %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">Каб падоўжыць тэрмін службы акумулятара, узровень зарада акумулятара гэтай прылады не будзе перавышаць бягучы ўзровень пры падключэнні да аўтамабіля.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Больш не паказваць</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Абарона акумулятара</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">Каб падоўжыць тэрмін службы акумулятара, узровень зарада акумулятара гэтай прылады не будзе перавышаць бягучы ўзровень пры падключэнні да аўтамабіля</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Абарона акумулятара</string>
+    <string name="pc_smart_charge_title">Смарт-зарадка</string>
     <string name="pc_smart_discharge_checkbox_summary">Пры выкарыстанні функцый навігацыі зарадка аўтаматычна спыняецца пры дасягненні зададзенага працэнта. Эканомія энергіі будзе адключана.</string>
     <string name="pc_smart_discharge_checkbox_title">Аўтаматычнае адключэнне зарадкі</string>
     <string name="pc_smart_discharge_drop_down_title">Налады аўтаматычнага адключэння</string>
@@ -3355,6 +3403,8 @@ Record sequences and use them anytime!"</string>
     <string name="pc_statistics_battery_use_title">Выкарыстанне батарэі</string>
     <string name="pc_suggest_open_fast_charge">Уключыце %d-ватную хуткую зарадку</string>
     <string name="pc_temperature_too_high">Прылада перагрэлася</string>
+    <string name="pc_this_time_charge_full">На гэты раз зарадзіць поўнасцю</string>
+    <string name="pc_this_time_charge_full_work">Амаль зараджана</string>
     <string name="pc_timely_charging_summary">Зарад акумулятара менш за %1$s. Акумулятар можа быць пашкоджаны, калі прылада пераграваецца пры нізкім узроўні зарада.</string>
     <string name="pc_timely_charging_title">Зарадзіце прыладу</string>
     <string name="pc_to_phone_install">Усталёўка %s праз USB - заблакавана</string>
@@ -4375,6 +4425,13 @@ Record sequences and use them anytime!"</string>
     <string name="sd_mount">Падключыць SD-картку</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">Праграма</string>
+    <string name="search_keyword_applybar">Панэль праграм</string>
+    <string name="search_keyword_call">Выклік</string>
+    <string name="search_keyword_sidebar">Бакавая панэль</string>
+    <string name="search_keyword_tool">Інструменты</string>
+    <string name="search_keyword_tools">Панэль інструментаў</string>
+    <string name="search_keyword_voice">Голас</string>
     <string name="search_menu_title">Пошук</string>
     <string name="search_result_text">Праграмы не знойдзены</string>
     <string name="section_clear_acc_item_title">%s. Калі памяці ўсё бракуе, спрабуйце выкарыстоўваць Ачыстку.</string>
@@ -5164,6 +5221,7 @@ Record sequences and use them anytime!"</string>
     <string name="title_cloud_space_almost_full">"Воблачная памяць амаль запоўненая, некаторыя аб'екты могуць быць не сінхранізаваныя"</string>
     <string name="title_cloud_space_full">Памяць Xiaomi Cloud запоўненая</string>
     <string name="title_cmcc_app_check">Праверка не скончана</string>
+    <string name="title_condition_meeting">Сустрэча</string>
     <string name="title_consume_power_rank">Спажыванне энергіі</string>
     <string name="title_dark_mode">"Некаторыя аб'екты адлюстроўваюцца некарэктна"</string>
     <string name="title_data_flow">Кіраванне мабільным трафікам</string>
@@ -5224,6 +5282,8 @@ Record sequences and use them anytime!"</string>
     <string name="toast_cleaner_cloudscan">Ачыстка будзе выкарыстоўваць анлайн-базу азначэнняў</string>
     <string name="toast_dark_mode_fixed">Праблема вырашаная. Пакіньце гэтую старонку для прымянення змяненняў.</string>
     <string name="toast_flow_notification">Апавяшчэнні аб трафіку ўключаныя</string>
+    <string name="toast_gamembox_unenable_pad">Спачатку ўключыце «Паскарэнне гульняў» у раздзеле «Бяспека»</string>
+    <string name="toast_gamembox_unenable_phone">Спачатку ўключыце «Паскарэнне гульняў» у раздзеле «Бяспека»</string>
     <string name="toast_garbage_lib">Аўтаабнаўленні для Ачысткі ўключаныя</string>
     <string name="toast_keyword_blank">Трэба ўвесці ключавое слова</string>
     <string name="toast_keyword_exist">Ключавое слова дададзена</string>

@@ -146,6 +146,10 @@ Le monete non sono rimborsabili"</item>
         <item quantity="other">%d opere</item>
         <item quantity="one">%d opera</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">La tua richiesta verrà elaborata in circa %1$d secondi.</item>
+        <item quantity="one">La tua richiesta verrà elaborata in circa %1$d secondo.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"Rimborso completato per %d ordini. "</item>
         <item quantity="one">"Rimborso completato per %d ordine. "</item>

@@ -146,6 +146,10 @@ A érmék nem visszatéríthetők."</item>
         <item quantity="other">%d munka</item>
         <item quantity="one">%d munka</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">Kérését körülbelül %1$d másodperc múlva dolgozzuk fel.</item>
+        <item quantity="one">Kérését körülbelül %1$d másodperc múlva dolgozzuk fel.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"%d megrendelést sikeresen visszatérítettünk. "</item>
         <item quantity="one">"%d megrendelést sikeresen visszatérítettünk. "</item>

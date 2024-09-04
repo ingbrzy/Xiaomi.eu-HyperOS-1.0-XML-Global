@@ -77,6 +77,7 @@
     <string name="cancel">Peruuta</string>
     <string name="cancel_moving_dialog_message">Lopetetaanko tuonti nyt?</string>
     <string name="cancel_moving_dialog_title">Lopeta tuonti</string>
+    <string name="cancel_tranfer">Peruuta</string>
     <string name="cannot_use_mi_huanji_button">Selvä</string>
     <string name="cannot_use_mi_huanji_summary">Näyttää siltä, että MIUI varmuuskopioi kohteita nyt. Pysäytä käynnissä olevat varmuuskopiot tai käynnistä laite uudelleen, jotta Mi Mover voi aloittaa siirron.</string>
     <string name="cannot_use_mi_huanji_title">Ei voi siirtää nyt</string>
@@ -269,6 +270,7 @@ Avaa WeChat ja siirry kohtaan Me > Settings > General > Back up &amp; migrate ch
     <string name="guest_unfinished_task_alert_message">Näyttää siltä, että sinulla on keskeneräisiä siirtotehtäviä. Jatketaanko siirtoa?</string>
     <string name="guest_unfinished_task_alert_title">Keskeneräiset tehtävät</string>
     <string name="hide_password_description">Piilota salasana</string>
+    <string name="high_temp_summary">Laitteesi saattaa kuumentua siirrettäessä suuria tietomääriä. Tämä on normaalia, ja laitteesi jäähtyy siirron valmistumisen jälkeen.</string>
     <string name="host_boot_installation_bottom_tips">Etkö löydä Mi Moveria? Napauta ladataksesi.</string>
     <string name="host_boot_installation_button">Seuraava</string>
     <string name="host_boot_installation_dialog_message">Vanhan laitteen Mi Mover -versio ei ole yhteensopiva täällä asennetun version kanssa. Päivitä Mi Mover vanhalla laitteellasi.</string>

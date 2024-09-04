@@ -590,6 +590,7 @@ Non perderai alcun dato applicazione."</string>
     <string name="apps_list_header_title_sms_access">"Limita l'accesso ai codici di verifica"</string>
     <string name="ask_create_shortcut">Creare un collegamento sulla schermata Home?</string>
     <string name="audio_optimization_summary">"Migliora l'audio e riduce il rumore ambientale nelle conversazioni"</string>
+    <string name="audio_optimization_summary_new">Ottimizza la qualità del suono degli auricolari durante il gioco e riduce il rumore durante le chiamate</string>
     <string name="audio_optimization_title">Audio migliorato</string>
     <string name="auto_atsk_condition_battery_level_text_down">Quando il livello batteria raggiunge %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Quando la batteria raggiunge %s</string>
@@ -1130,6 +1131,7 @@ Tuttavia, alcune delle tue transazioni non sono ancora state completate. Per rev
     <string name="continue_set">Continua</string>
     <string name="convenient_mode">Sblocca tutte le app contemporaneamente</string>
     <string name="convenient_summary">Inserisci la password una volta per sbloccare tutte le app</string>
+    <string name="conversation_phone_title">Strumenti di chiamata</string>
     <string name="conversation_settings_top">"·Fai scorrere verso l'esterno la barra degli strumenti conferenza durante le chiamate audio e video a schermo intero per accedere alle sue funzionalità.
 ·Il tipo e il numero di funzionalità dipende dal modello del dispositivo."</string>
     <string name="conversation_sider_tips">"Usa i nuovi strumenti conferenza per un'esperienza di chiamata ottimale"</string>
@@ -1144,9 +1146,13 @@ Tuttavia, alcune delle tue transazioni non sono ancora state completate. Per rev
     <string name="create_gamebooster_destop">Collegamento sulla Home creato correttamente</string>
     <string name="create_shortcut">Crea un collegamento sulla schermata Home per Game Turbo</string>
     <string name="cs_color_sense">Temperatura del colore</string>
+    <string name="cs_conversation_record_using">Registrazione</string>
     <string name="cs_func_toast_headset">Scollega le cuffie per utilizzare questa funzionalità</string>
     <string name="cs_func_toast_light">Passa alla fotocamera frontale per utilizzare questa funzionalità</string>
     <string name="cs_func_toast_pickup">Passa a una videochiamata per utilizzare questa funzionalità</string>
+    <string name="cs_func_unavailable_tips">Utilizza questa funzionalità durante le chiamate</string>
+    <string name="cs_light_enhance_physical_options">Temperatura del colore</string>
+    <string name="cs_light_enhance_physical_title">Luminosità</string>
     <string name="cs_pickup_denoise_desc">"Riduci il rumore dell'audio in ingresso mentre utilizzi casse o auricolari"</string>
     <string name="cs_pickup_denoise_title">Riduzione del rumore</string>
     <string name="cs_pickup_multi_desc">Rilevamento audio a %d gradi</string>
@@ -1160,11 +1166,19 @@ Tuttavia, alcune delle tue transazioni non sono ancora state completate. Per rev
     <string name="cs_pickup_vioce_print_unsupport_tips">Registra impronta vocale prima di selezionare \"Partecipante singolo\"</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Disconnetti i dispositivi esterni e riprova</string>
     <string name="cs_pickup_voice_print_desc">Rileva suono solo da una persona</string>
+    <string name="cs_privacy_camera_global_settings_title">Privacy chiamata</string>
     <string name="cs_screen_translation_title">Traduzione dello schermo</string>
+    <string name="cs_simultaneous_interpretation_title">Interprete</string>
     <string name="cs_title_pickup">Riduzione del rumore</string>
     <string name="cs_title_smart_subtitle">Trascrizione dei sottotitoli</string>
     <string name="cs_title_ultraclear">Modalità Ultra HD</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">"Prova l'interpretazione simultanea e altri strumenti per le teleconferenze nel nuovo strumento Chiamata"</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Prova una serie di funzioni per le teleconferenze nel nuovo strumento Chiamata</string>
+    <string name="cs_tool_box_phone_guide_case_1">"Prova l'interpretazione simultanea e le altre funzioni del nuovo strumento Chiamata"</string>
+    <string name="cs_tool_box_phone_guide_case_2">Prova una serie di funzioni del nuovo strumento Chiamata</string>
     <string name="cs_voice_print">Registra impronta vocale</string>
+    <string name="cs_vt_camera_toast_case1">"Apri fotocamera nell'app corrente"</string>
+    <string name="cs_vt_camera_toast_case2">Non ci sono dispositivi compatibili nelle vicinanze</string>
     <string name="cta_agree_desc">Per poter utilizzare i nostri servizi, consenti a questa app di connettersi a Internet e concedi i permessi sopra elencati.</string>
     <string name="cta_close_dialog_cancel">Annulla</string>
     <string name="cta_close_dialog_content">"Se limiti l'accesso di Sicurezza a Internet e alle informazioni sulla posizione, non sarà possibile ricevere avvisi di terremoti, aggiornare le definizioni dei virus e le informazioni sulla Lista blocchi. Il tuo dispositivo diventerà meno sicuro. Limitare comunque?"</string>
@@ -1845,6 +1859,8 @@ Verrà aggiunto alle eccezioni, ma gli elementi bloccati in precedenza non appar
     <string name="gb_audition_play_instruction">Usa gli auricolari per un effetto ottimale</string>
     <string name="gb_award_noti_message">Attiva gli aggiornamenti in background di Game for Peace in Game Turbo per ottenere premi</string>
     <string name="gb_award_noti_title">Sono arrivati i premi di Game for Peace!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Non è possibile passare alla modalità Bilanciata in Game Turbo quando è attiva la modalità estrema a livello di sistema. Puoi cambiare le impostazioni della batteria in Sicurezza.&lt;br>&lt;a href=\"#\">Apri Sicurezza&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Non è possibile passare alla modalità Bilanciata in Game Turbo quando è attiva la modalità estrema a livello di sistema. Puoi modificare le impostazioni della batteria in Sicurezza. &lt;br>&lt;a href=\"#\">Apri Sicurezza&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">Alto</string>
     <string name="gb_bar_low">Basso</string>
     <string name="gb_bar_mid">Medio</string>
@@ -2000,6 +2016,8 @@ ma aumenta anche il consumo energetico e può surriscaldare il dispositivo"</str
     <string name="gb_predownload_receive_tips">Attiva gli aggiornamenti in background per ottenere premi</string>
     <string name="gb_predownload_receiving">Ricezione…</string>
     <string name="gb_predownload_title">Aggiornamenti in background</string>
+    <string name="gb_setting_dock_toast">Funzioni di assistente fotocamera frontale sono disponibili adesso in Strumenti di chiamata</string>
+    <string name="gb_setting_dock_toast_2">Funzioni di assistente fotocamera frontale sono disponibili adesso in Strumenti di chiamata</string>
     <string name="gb_shortcut_pref_title">Collegamento schermata Home</string>
     <string name="gb_shoulder_guide_message1">Sposta [L] in qualsiasi posizione funzionale per usarlo tramite il tasto pop-up.</string>
     <string name="gb_shoulder_guide_message2">"L'azione [1] si attiva premendo il pulsante. L'azione [2] si attiva rilasciando il pulsante."</string>
@@ -2135,9 +2153,21 @@ delle tue sessioni di gioco"</string>
     <string name="gd_dock_shortcut_splitescreen">Multischermo</string>
     <string name="gd_setting_conversation">Strumenti conferenza</string>
     <string name="gd_setting_conversation_desc">Fornisce diverse funzionalità da utilizzare nelle chiamate audio e video a schermo intero</string>
+    <string name="gd_setting_dock_activity_title">Strumenti secondari</string>
+    <string name="gd_setting_dock_call_summary">Funzioni vocali e per videochiamate (es. luce di riempimento)</string>
+    <string name="gd_setting_dock_call_title">Strumenti di chiamata</string>
+    <string name="gd_setting_dock_game_summary">Migliora la visualizzazione e le prestazioni mentre giochi</string>
+    <string name="gd_setting_dock_game_summary_new">Migliora la visualizzazione e le prestazioni mentre giochi</string>
+    <string name="gd_setting_dock_summary">"Apri altre app in finestre a comparsa mentre utilizzi un'app a schermo intero"</string>
+    <string name="gd_setting_dock_title">Barra laterale</string>
+    <string name="gd_setting_dock_video_summary">Usa effetti come Dolby Atmos mentre guardi i video</string>
+    <string name="gd_setting_dock_video_summary_new">Usa strumenti ed effetti mentre guardi i video</string>
+    <string name="gd_setting_group_custom_conversation_apps">Registra impronta vocale per le chiamate</string>
     <string name="gd_setting_group_custom_gtb_apps">Giochi</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Gestici app per il gaming</string>
     <string name="gd_setting_group_custom_settings">Personalizzazione</string>
     <string name="gd_setting_group_custom_vtb_apps">App video</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Gestisci le app video</string>
     <string name="gd_setting_group_title_switch">Scenari</string>
     <string name="gd_setting_gtb">Mostra durante il gioco</string>
     <string name="gd_setting_gtb_desc">Funzionalità speciali per il gioco</string>
@@ -2157,10 +2187,16 @@ delle tue sessioni di gioco"</string>
     <string name="get_phone_num_fail">Numero sconosciuto</string>
     <string name="get_sys_info">Recupero informazioni in corso…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">"Premi e mantieni premuto l'indicatore per spostare la finestra"</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Tocca un'app sulla barra laterale per aprirla in una finestra a comparsa.
 · Trascina un'app al centro dello schermo per aprirla in una finestra a comparsa, o a lato per la modalità multi schermo.
 · Tieni premuto l'indicatore per spostare la finestra."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"Tocca un'app sulla barra laterale per aprirla in una finestra a comparsa.
+ Trascina un'app al centro dello schermo per aprirla in una finestra a comparsa, o a lato per la modalità multi-schermo.
+ Tieni premuto l'indicatore per spostare la finestra."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Tocca un'app sulla barra laterale per aprirla in una finestra a comparsa.
+· Tieni premuto l'indicatore per spostare la finestra."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Tocca un'app sulla barra laterale per aprirla in una finestra a comparsa.
 · Tieni premuto l'indicatore per spostare la finestra."</string>
     <string name="global_satisfaction_notification_button">Valuta</string>
     <string name="global_satisfaction_notification_channel">Sondaggio sulla soddisfazione degli utenti</string>
@@ -3182,6 +3218,7 @@ Prova ad utilizzare un altro cavo Ethernet per collegare il router. Se sospetti 
     <string name="pc_battery_history_total_consumption_title">Consumo energetico totale</string>
     <string name="pc_battery_history_usetime_title">Attivo</string>
     <string name="pc_battery_low_health_reminder">È ora di sostituire la batteria</string>
+    <string name="pc_battery_replacement_service_title">Prova il nostro servizio di sostituzione della batteria. %1$s hardware originale con garanzia %2$s.</string>
     <string name="pc_berserk_mode_dialog_title">Attiva la Modalità Estrema</string>
     <string name="pc_berserk_mode_noti_summary">Modalità Estrema potrebbe aumentare il consumo di energia e causare problemi di surriscaldamento</string>
     <string name="pc_berserk_mode_performance_title">Modalità Estrema</string>
@@ -3255,6 +3292,7 @@ Prova ad utilizzare un altro cavo Ethernet per collegare il router. Se sospetti 
     <string name="pc_fast_charge_switch_summary_new">Ricorda di aumentare la velocità di ricarica quando il caricabatterie in dotazione è collegato e la batteria scende al di sotto del livello impostato</string>
     <string name="pc_fast_charge_switch_title">Aumenta la velocità di ricarica</string>
     <string name="pc_fast_charge_switch_toast_message">Le modifiche verranno applicate la prossima volta che ricarichi questo dispositivo</string>
+    <string name="pc_fast_charge_temp_remider">Attiva per regolare automaticamente la velocità di ricarica. Questa funzione funziona solo con i caricabatterie forniti da Xiaomi. Il dispositivo potrebbe riscaldarsi durante la ricarica.</string>
     <string name="pc_fast_charge_title">Aumenta la velocità di ricarica</string>
     <string name="pc_going_to_exit_extreme_mode">Uscita dalla modalità Ibernazione</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Il tuo dispositivo è in carica. Modalità Ibernazione disattivata.</string>
@@ -3343,6 +3381,16 @@ Super risparmio energetico"</string>
     <string name="pc_search_keywords_capacity">Capacità della batteria</string>
     <string name="pc_search_keywords_property">Prestazioni</string>
     <string name="pc_settings_title">Batteria</string>
+    <string name="pc_smart_charge_button_summary">Per prolungare la durata della batteria, il sistema apprenderà come si carica il dispositivo e interromperà la ricarica quando il livello della batteria raggiungerà il %1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Il dispositivo si è riscaldato. La ricarica si interromperà quando il livello della batteria raggiungerà il %1$s</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Navigazione… La ricarica verrà interrotta quando il livello della batteria raggiungerà il %1$s</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">La ricarica si interromperà al %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">"Per prolungare la durata della batteria, la batteria di questo dispositivo non supererà il livello attuale mentre è collegato all'auto."</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Non mostrare più</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Protezione della batteria</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">"Per prolungare la durata della batteria, la batteria di questo dispositivo non supererà il livello attuale mentre è collegato all'auto."</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Protezione della batteria</string>
+    <string name="pc_smart_charge_title">Ricarica smart</string>
     <string name="pc_smart_discharge_checkbox_summary">Quando si utilizzano le funzionalità di navigazione, la ricarica si interromperà automaticamente a una percentuale specificata. Risparmio energetico verrà disattivato.</string>
     <string name="pc_smart_discharge_checkbox_title">Disconnessione automatica della ricarica</string>
     <string name="pc_smart_discharge_drop_down_title">Impostazioni di disconnessione automatica</string>
@@ -3355,6 +3403,8 @@ Super risparmio energetico"</string>
     <string name="pc_statistics_battery_use_title">Utilizzo batteria</string>
     <string name="pc_suggest_open_fast_charge">Attiva la ricarica rapida da %dW</string>
     <string name="pc_temperature_too_high">Dispositivo surriscaldato</string>
+    <string name="pc_this_time_charge_full">Carica completamente questa volta</string>
+    <string name="pc_this_time_charge_full_work">Quasi completamente carico</string>
     <string name="pc_timely_charging_summary">La carica della batteria è inferiore a %1$s. Il surriscaldamento del dispositivo quando la batteria è scarica può danneggiare la batteria.</string>
     <string name="pc_timely_charging_title">Carica il dispositivo</string>
     <string name="pc_to_phone_install">"L'installazione di %s tramite USB è stata bloccata"</string>
@@ -4375,6 +4425,13 @@ Revocare il consenso?"</string>
     <string name="sd_mount">Monta la scheda SD</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">App</string>
+    <string name="search_keyword_applybar">Dock app</string>
+    <string name="search_keyword_call">Chiama</string>
+    <string name="search_keyword_sidebar">Barra laterale</string>
+    <string name="search_keyword_tool">Strumenti</string>
+    <string name="search_keyword_tools">Strumenti</string>
+    <string name="search_keyword_voice">Voce</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_result_text">Impossibile trovare applicazioni</string>
     <string name="section_clear_acc_item_title">"%s. Se non c'è ancora abbastanza spazio libero, prova ad usare Pulitore."</string>
@@ -5164,6 +5221,7 @@ La formattazione eliminerà i contenuti sulla ^2. Per evitare di perdere contenu
     <string name="title_cloud_space_almost_full">Lo spazio sul cloud è quasi esaurito, alcuni elementi potrebbero non venire sincronizzati</string>
     <string name="title_cloud_space_full">Spazio sul cloud esaurito</string>
     <string name="title_cmcc_app_check">La verifica non è completa</string>
+    <string name="title_condition_meeting">Riunione</string>
     <string name="title_consume_power_rank">Consumi app</string>
     <string name="title_dark_mode">Alcuni elementi non sono visualizzati correttamente</string>
     <string name="title_data_flow">Controlla i dati mobili</string>
@@ -5224,6 +5282,8 @@ La formattazione eliminerà i contenuti sulla ^2. Per evitare di perdere contenu
     <string name="toast_cleaner_cloudscan">Pulitore utilizzerà le definizioni online</string>
     <string name="toast_dark_mode_fixed">Risolto con successo. Lascia questa pagina per applicare le modifiche.</string>
     <string name="toast_flow_notification">"Notifiche sull'utilizzo dei dati attivate"</string>
+    <string name="toast_gamembox_unenable_pad">Attiva Game Turbo nella sezione Security first</string>
+    <string name="toast_gamembox_unenable_phone">Attiva Game Turbo nella sezione Security first</string>
     <string name="toast_garbage_lib">Aggiornamenti automatici Pulitore attivati</string>
     <string name="toast_keyword_blank">Devi inserire una parola chiave</string>
     <string name="toast_keyword_exist">Parola chiave aggiunta</string>

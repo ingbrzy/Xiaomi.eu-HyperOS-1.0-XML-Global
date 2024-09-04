@@ -77,6 +77,7 @@
     <string name="cancel">Откажи</string>
     <string name="cancel_moving_dialog_message">Зауставити увоз сада?</string>
     <string name="cancel_moving_dialog_title">Заустави увоз</string>
+    <string name="cancel_tranfer">Откажи</string>
     <string name="cannot_use_mi_huanji_button">Схватам</string>
     <string name="cannot_use_mi_huanji_summary">Изгледа да MIUI сада бекапује ставке. Зауставите бекап или рестартујте уређај да би Mi Mover започео пренос.</string>
     <string name="cannot_use_mi_huanji_title">Не може се пренети сада</string>
@@ -269,6 +270,7 @@
     <string name="guest_unfinished_task_alert_message">Изгледа да имате недовршених задатака преноса. Наставити пренос?</string>
     <string name="guest_unfinished_task_alert_title">Незавршени задаци</string>
     <string name="hide_password_description">Сакриј лозинкy</string>
+    <string name="high_temp_summary">Уређај се може загрејати током преноса велике количине података. Ово је нормално и уређај ће се охладити након што се пренос заврши.</string>
     <string name="host_boot_installation_bottom_tips">Не можете пронаћи Mi Mover? Додирните за преузимање.</string>
     <string name="host_boot_installation_button">Даље</string>
     <string name="host_boot_installation_dialog_message">Верзија Mi Mover-а на старом уређају није компатибилна са верзијом инсталираном на овом уређају. Ажурирајте Mi Mover на старом уређају.</string>

@@ -590,6 +590,7 @@ Et menetä mitään sovellustietoja."</string>
     <string name="apps_list_header_title_sms_access">Rajoita pääsyä vahvistuskoodeihin</string>
     <string name="ask_create_shortcut">Luodaanko aloitusnäytön pikavalinta?</string>
     <string name="audio_optimization_summary">Paranna äänenlaatua ja vähennä keskustelujen taustamelua</string>
+    <string name="audio_optimization_summary_new">Optimoi kuulokkeiden äänenlaatu pelaamisen aikana ja vähennä melua puheluiden aikana</string>
     <string name="audio_optimization_title">Parannettu ääni</string>
     <string name="auto_atsk_condition_battery_level_text_down">Kun akku saavuttaa %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Kun akku on ladattu %s</string>
@@ -1130,6 +1131,7 @@ Jotkin tapahtumistasi eivät kuitenkaan ole vielä suoritettuja. Jos haluat peru
     <string name="continue_set">Jatka</string>
     <string name="convenient_mode">Avaa kaikkien sovelluksien lukitus kerralla</string>
     <string name="convenient_summary">Avaa kaikkien sovelluksien lukitus syöttämällä salasana kerran</string>
+    <string name="conversation_phone_title">Puhelutyökalupakki</string>
     <string name="conversation_settings_top">"·Liu'uta konferenssityökalupalkki ulos koko näytön ääni- ja videopuheluiden aikana, jotta voit käyttää sen ominaisuuksia.
 ·Ominaisuuksien tyyppi ja määrä riippuvat laitemallista."</string>
     <string name="conversation_sider_tips">Käytä uusia konferenssityökaluja parhaan puhelukokemuksen saavuttamiseksi</string>
@@ -1144,9 +1146,13 @@ Jotkin tapahtumistasi eivät kuitenkaan ole vielä suoritettuja. Jos haluat peru
     <string name="create_gamebooster_destop">Aloitusnäytön pikavalinta luotiin onnistuneesti</string>
     <string name="create_shortcut">Luo aloitusnäytön pikavalinta Game Turbolle</string>
     <string name="cs_color_sense">Värilämpötila</string>
+    <string name="cs_conversation_record_using">Nauhoitetaan</string>
     <string name="cs_func_toast_headset">Irrota kuulokemikrofoni, jotta voit käyttää tätä ominaisuutta</string>
     <string name="cs_func_toast_light">Vaihda etukameraan, jotta voit käyttää tätä ominaisuutta</string>
     <string name="cs_func_toast_pickup">Vaihda videopuheluun, jotta voit käyttää tätä ominaisuutta</string>
+    <string name="cs_func_unavailable_tips">Käytä tätä toimintoa puheluiden aikana</string>
+    <string name="cs_light_enhance_physical_options">Värilämpötila</string>
+    <string name="cs_light_enhance_physical_title">Kirkkaus</string>
     <string name="cs_pickup_denoise_desc">Vähennä tulevan äänen kohinaa, kun käytät kaiuttimia tai kuulokkeita</string>
     <string name="cs_pickup_denoise_title">Melunvaimennus</string>
     <string name="cs_pickup_multi_desc">%d asteen äänenotto</string>
@@ -1160,11 +1166,19 @@ Jotkin tapahtumistasi eivät kuitenkaan ole vielä suoritettuja. Jos haluat peru
     <string name="cs_pickup_vioce_print_unsupport_tips">Nauhoita äänijälki ennen kuin valitset \"Yksi osallistuja\"</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Irrota ulkoiset laitteet ja yritä uudelleen</string>
     <string name="cs_pickup_voice_print_desc">Poimi äänen vain yhdeltä henkilöltä</string>
+    <string name="cs_privacy_camera_global_settings_title">Puheluyksityisyys</string>
     <string name="cs_screen_translation_title">Näytön käännös</string>
+    <string name="cs_simultaneous_interpretation_title">Käännä</string>
     <string name="cs_title_pickup">Melunvaimennus</string>
     <string name="cs_title_smart_subtitle">Tekstityksen transkriptio</string>
     <string name="cs_title_ultraclear">Ultra HD -tila</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Kokeile simultaanitulkkausta ja muita neuvottelupuhelutyökaluja uudessa puhelutyökalupakissa</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Kokeile erilaisia ​​neuvottelupuheluominaisuuksia uudessa puhelutyökalupakissa</string>
+    <string name="cs_tool_box_phone_guide_case_1">Kokeile simultaanitulkkausta ja muita ominaisuuksia uudessa puhelutyökalupakissa</string>
+    <string name="cs_tool_box_phone_guide_case_2">Kokeile erilaisia ​​ominaisuuksia uudessa puhelutyökalupakissa</string>
     <string name="cs_voice_print">Nauhoita äänitulostus</string>
+    <string name="cs_vt_camera_toast_case1">Avaa kamera nykyisessä sovelluksessa</string>
+    <string name="cs_vt_camera_toast_case2">Ei yhteensopivia laitteita lähellä</string>
     <string name="cta_agree_desc">Käyttääkseen palveluitamme, anna tämän sovelluksen muodostaa yhteys Internettiin ja myöntää yllä lueteltut käyttöoikeudet.</string>
     <string name="cta_close_dialog_cancel">Peruuta</string>
     <string name="cta_close_dialog_content">Jos rajoitat tietoturvan pääsyä Internettiin ja sijaintitietoihisi, et voi vastaanottaa maanjäristysvaroituksia, päivittää virusmäärityksiä ja estolistan tietoja. Laitteestasi tulee vähemmän suojattu. Rajoitetaanko siitä huolimatta?</string>
@@ -1845,6 +1859,8 @@ Se lisätään poikkeuksiin, mutta aiemmin estetyt kohteet eivät näy puheluhis
     <string name="gb_audition_play_instruction">Käytä kuulokkeita parhaan vaikutuksen saamiseksi</string>
     <string name="gb_award_noti_message">Ota Game for Peace -taustapäivitykset käyttöön Game Turbossa saadaksesi palkintoja</string>
     <string name="gb_award_noti_title">Game for Peace -palkinnot ovat täällä!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Ei voi vaihtaa Tasapainotettuun tilaan Game Turbossa, kun järjestelmälaajuinen Ääritila on päällä. Voit muuttaa akun asetuksia Tietoturvassa.&lt;br>&lt;a href=\"#\">Avaa Tietoturva&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Ei voi vaihtaa Tasapainotettuun tilaan Game Turbossa, kun järjestelmälaajuinen Ääritila on päällä. Voit muuttaa akun asetuksia Tietoturvassa.&lt;br>&lt;a href=\"#\">Avaa Tietoturva&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">Korkea</string>
     <string name="gb_bar_low">Matala</string>
     <string name="gb_bar_mid">Keskitaso</string>
@@ -2000,6 +2016,8 @@ mutta lisää myös virrankulutusta ja mahdollistaa laitteen ylikuumenemisen"</s
     <string name="gb_predownload_receive_tips">Ota taustapäivitykset käyttöön saadaksesi palkintoja</string>
     <string name="gb_predownload_receiving">Vastaanotetaan…</string>
     <string name="gb_predownload_title">Taustapäivitykset</string>
+    <string name="gb_setting_dock_toast">Etukameran avustajan ominaisuudet ovat nyt saatavilla puhelutyökalupakissa</string>
+    <string name="gb_setting_dock_toast_2">Etukameran avustajan ominaisuudet ovat nyt saatavilla puhelutyökalupakissa</string>
     <string name="gb_shortcut_pref_title">Aloitusnäytön pikavalinta</string>
     <string name="gb_shoulder_guide_message1">Siirrä [L] mihin tahansa toiminnalliseen asentoon käyttääksesi sitä ponnahduslaukaisijan kautta</string>
     <string name="gb_shoulder_guide_message2">Toiminto [1] aktivoidaan painamalla painiketta. Toiminto [2] aktivoidaan vapauttamalla painike.</string>
@@ -2135,9 +2153,21 @@ tärkeimmät hetket"</string>
     <string name="gd_dock_shortcut_splitescreen">Jaettu näyttö</string>
     <string name="gd_setting_conversation">Konferenssityökalut</string>
     <string name="gd_setting_conversation_desc">Tarjoaa erilaisia ominaisuuksia käytettäväksi koko näytön ääni- ja videopuheluissa</string>
+    <string name="gd_setting_dock_activity_title">Sivutyökalulaatikko</string>
+    <string name="gd_setting_dock_call_summary">Ominaisuudet ääni- ja videopuheluille (esim. täyttövalo)</string>
+    <string name="gd_setting_dock_call_title">Puhelutyökalupakki</string>
+    <string name="gd_setting_dock_game_summary">Paranna näyttöä ja suorituskykyä pelatessasi pelejä</string>
+    <string name="gd_setting_dock_game_summary_new">Paranna näyttöä ja suorituskykyä pelatessasi pelejä</string>
+    <string name="gd_setting_dock_summary">Avaa muut sovellukset kelluvissa ikkunoissa, kun käytät sovellusta koko näytön tilassa</string>
+    <string name="gd_setting_dock_title">Sivupalkki</string>
+    <string name="gd_setting_dock_video_summary">Käytä tehosteita, kuten Dolby Atmosta, katsoessasi videoita</string>
+    <string name="gd_setting_dock_video_summary_new">Käytä työkaluja ja tehosteita katsoessasi videoita</string>
+    <string name="gd_setting_group_custom_conversation_apps">Nauhoita äänitulostus puheluille</string>
     <string name="gd_setting_group_custom_gtb_apps">Pelit</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Hallitse pelisovelluksia</string>
     <string name="gd_setting_group_custom_settings">Personointi</string>
     <string name="gd_setting_group_custom_vtb_apps">Videosovellukset</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Hallitse videosovelluksia</string>
     <string name="gd_setting_group_title_switch">Näkymät</string>
     <string name="gd_setting_gtb">Näytä pelatessasi pelejä</string>
     <string name="gd_setting_gtb_desc">Erityisominaisuuksia pelaamiseen</string>
@@ -2157,11 +2187,17 @@ tärkeimmät hetket"</string>
     <string name="get_phone_num_fail">Tuntematon puhelinnumero</string>
     <string name="get_sys_info">Noudetaan tietoja…</string>
     <string name="gigabyteShort">Gt</string>
+    <string name="global_dock_guide_desc_pad">Siirrä ikkunaa pitämällä ilmaisinta painettuna</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Napauta sovellusta sivupalkissa avataksesi sen kelluvassa ikkunassa.
 · Vedä sovellus näytön keskelle avataksesi sen kelluvassa ikkunassa tai sivulle, jos haluat käyttää jaettua näyttöä
 · Pidä ilmaisinta painettuna siirtääksesi ikkunaa ympäriinsä."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"Napauta sovellusta sivupalkissa avataksesi sen kelluvassa ikkunassa.
+Vedä sovellus näytön keskelle avataksesi sen kelluvassa ikkunassa tai sivulle, jos haluat käyttää jaettua näyttöä.
+Paina pitkään ilmaisinta siirtääksesi ikkunaa."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Napauta sovellusta sivupalkissa avataksesi sen kelluvassa ikkunassa.
 · Pidä ilmaisinta painettuna siirtääksesi ikkunaa ympäriinsä."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Avaa sivupalkki pyyhkäisemällä ja napauta sovellusta avataksesi sen kelluvassa ikkunassa.
+Pidä ilmaisinta painettuna siirtääksesi ikkunaa ympäriinsä."</string>
     <string name="global_satisfaction_notification_button">Arvioi</string>
     <string name="global_satisfaction_notification_channel">Käyttäjätyytyväisyyskysely</string>
     <string name="global_satisfaction_notification_subhead">Kerro meille kokemuksistasi</string>
@@ -3182,6 +3218,7 @@ Kokeile käyttää toista Ethernet-kaapelia reitittimen liittämiseen. Jos epäi
     <string name="pc_battery_history_total_consumption_title">Kokonaisvirrankulutus</string>
     <string name="pc_battery_history_usetime_title">Aktiivinen</string>
     <string name="pc_battery_low_health_reminder">On aika vaihtaa akku</string>
+    <string name="pc_battery_replacement_service_title">Kokeile akunvaihtopalveluamme. %1$s alkuperäinen laitteisto %2$s takuulla.</string>
     <string name="pc_berserk_mode_dialog_title">Ota Ultimate-tila käyttöön</string>
     <string name="pc_berserk_mode_noti_summary">Ultimate-tila saattaa lisätä virrankulutusta ja johtaa ylikuumenemisongelmiin</string>
     <string name="pc_berserk_mode_performance_title">Ääritila</string>
@@ -3255,6 +3292,7 @@ Kokeile käyttää toista Ethernet-kaapelia reitittimen liittämiseen. Jos epäi
     <string name="pc_fast_charge_switch_summary_new">Muistuta lisäämään latausnopeutta, kun mukana toimitettu laturi on kytketty ja akku laskee asetetun tason alapuolelle</string>
     <string name="pc_fast_charge_switch_title">Nopeuta latausta</string>
     <string name="pc_fast_charge_switch_toast_message">Muutokset otetaan käyttöön seuraavan kerran, kun lataat tätä laitetta</string>
+    <string name="pc_fast_charge_temp_remider">Kytke virta säätämään latausnopeutta automaattisesti. Tämä ominaisuus toimii vain Xiaomin toimittamilla latureilla. Laitteesi saattaa kuumentua latauksen aikana.</string>
     <string name="pc_fast_charge_title">Nopeuta latausta</string>
     <string name="pc_going_to_exit_extreme_mode">Poistuminen horrostilasta</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Laitteesi latautuu. Horrostila on pois käytöstä.</string>
@@ -3343,6 +3381,16 @@ ultravirransäästö"</string>
     <string name="pc_search_keywords_capacity">Akun kapasiteetti</string>
     <string name="pc_search_keywords_property">Suorituskyky</string>
     <string name="pc_settings_title">Akku</string>
+    <string name="pc_smart_charge_button_summary">Pidentääkseen akun kestoa järjestelmä oppii, kuinka lataat laitettasi ja lopetat lataamisen, kun akun varaustaso saavuttaa %1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Laitteesi kuumeni. Lataus lopetetaan, kun akun varaustaso saavuttaa %1$s</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Navigoidaan… Lataus lopetetaan, kun akun varaustaso saavuttaa %1$s</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">Lataus pysähtyy %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">Akun keston pidentämiseksi tämän laitteen akku ei ylitä nykyistä tasoa, kun se on liitettynä autoon.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Älä näytä uudelleen</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Akun suojaus</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">Akun keston pidentämiseksi tämän laitteen akku ei ylitä nykyistä tasoa, kun se on liitettynä autoon</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Akun suojaus</string>
+    <string name="pc_smart_charge_title">Älykäs lataus</string>
     <string name="pc_smart_discharge_checkbox_summary">Navigointitoimintoja käytettäessä lataus pysähtyy automaattisesti tiettyyn prosenttiosuuteen. Virransäästö kytketään pois päältä.</string>
     <string name="pc_smart_discharge_checkbox_title">Latauksen automaattinen katkaisu</string>
     <string name="pc_smart_discharge_drop_down_title">Automaattisen katkaisun asetukset</string>
@@ -3355,6 +3403,8 @@ ultravirransäästö"</string>
     <string name="pc_statistics_battery_use_title">Akunkäyttö</string>
     <string name="pc_suggest_open_fast_charge">Ota %dW pikalataus käyttöön</string>
     <string name="pc_temperature_too_high">Laite ylikuumentunut</string>
+    <string name="pc_this_time_charge_full">Lataa täyteen tällä kertaa</string>
+    <string name="pc_this_time_charge_full_work">Melkein ladattu täyteen</string>
     <string name="pc_timely_charging_summary">Akun varaustaso on alle %1$s. Jos laite ylikuumenee akun ollessa vähissä, se voi vahingoittaa akkua.</string>
     <string name="pc_timely_charging_title">Lataa laitteesi</string>
     <string name="pc_to_phone_install">Estettiin USB:n kautta asennettava %s</string>
@@ -4375,6 +4425,13 @@ Peruutetaanko suostumus nyt?"</string>
     <string name="sd_mount">Aseta SD-kortti</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">Sovellus</string>
+    <string name="search_keyword_applybar">Sovellustelakka</string>
+    <string name="search_keyword_call">Puhelu</string>
+    <string name="search_keyword_sidebar">Sivupalkki</string>
+    <string name="search_keyword_tool">Työkalut</string>
+    <string name="search_keyword_tools">Työkalupakki</string>
+    <string name="search_keyword_voice">Ääni</string>
     <string name="search_menu_title">Haku</string>
     <string name="search_result_text">Sovelluksia ei löytynyt</string>
     <string name="section_clear_acc_item_title">%s. Jos ei vieläkään ole tarpeeksi tallennustilaa, kokeile käyttää puhdistajaa.</string>
@@ -5164,6 +5221,7 @@ Alustaminen poistaa nykyisen sisällön kohteesta ^2. Sisällön menettämisen v
     <string name="title_cloud_space_almost_full">Pilven tallennustila on lähes täynnä, kohteita ei välttämättä synkronoida</string>
     <string name="title_cloud_space_full">Pilvi on täysi</string>
     <string name="title_cmcc_app_check">Vahvistus ei ole valmis</string>
+    <string name="title_condition_meeting">Kokous</string>
     <string name="title_consume_power_rank">Sovelluksen virrankäyttö</string>
     <string name="title_dark_mode">Jotkut kohteet eivät ole esillä oikein</string>
     <string name="title_data_flow">Hallitse mobiilidataa</string>
@@ -5224,6 +5282,8 @@ Alustaminen poistaa nykyisen sisällön kohteesta ^2. Sisällön menettämisen v
     <string name="toast_cleaner_cloudscan">Puhdistaja käyttää verkkotunnisteita</string>
     <string name="toast_dark_mode_fixed">Korjattu onnistuneesti. Poistu tältä sivulta ottaaksesi muutokset voimaan.</string>
     <string name="toast_flow_notification">Datan käytön ilmoitukset laitettiin päälle</string>
+    <string name="toast_gamembox_unenable_pad">Ota ensin Game Turbo käyttöön Tietoturvassa</string>
+    <string name="toast_gamembox_unenable_phone">Ota ensin Game Turbo käyttöön Tietoturvassa</string>
     <string name="toast_garbage_lib">Puhdistajan automaattiset päivitykset laitettiin päälle</string>
     <string name="toast_keyword_blank">Sinun täytyy antaa avainsana</string>
     <string name="toast_keyword_exist">Avainsana lisättiin</string>

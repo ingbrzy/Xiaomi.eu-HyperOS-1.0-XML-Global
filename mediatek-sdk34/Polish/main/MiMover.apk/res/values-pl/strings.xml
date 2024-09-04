@@ -77,6 +77,7 @@
     <string name="cancel">Anuluj</string>
     <string name="cancel_moving_dialog_message">Zatrzymać importowanie teraz?</string>
     <string name="cancel_moving_dialog_title">Zatrzymaj importowanie</string>
+    <string name="cancel_tranfer">Anuluj</string>
     <string name="cannot_use_mi_huanji_button">Rozumiem</string>
     <string name="cannot_use_mi_huanji_summary">Wygląda na to, że MIUI tworzy teraz kopie zapasowe elementów. Zatrzymaj bieżące kopie zapasowe lub uruchom ponownie urządzenie, aby umożliwić Przenoszeniu danych rozpoczęcie transferu.</string>
     <string name="cannot_use_mi_huanji_title">Nie można teraz przenieść</string>
@@ -269,6 +270,7 @@ Otwórz WeChat i przejdź do Ja > Ustawienia > Ogólne > Utwórz kopię zapasow�
     <string name="guest_unfinished_task_alert_message">Wygląda na to, że masz niezakończone zadania przenoszenia. Czy kontynuować przesyłanie?</string>
     <string name="guest_unfinished_task_alert_title">Niezakończone zadania</string>
     <string name="hide_password_description">Ukryj hasło</string>
+    <string name="high_temp_summary">Podczas przesyłania dużych ilości danych urządzenie może się nagrzewać. Jest to całkowicie normalne zjawisko. Po zakończeniu transferu temperatura urządzenia się obniży.</string>
     <string name="host_boot_installation_bottom_tips">Nie możesz znaleźć Przenoszenia danych? Dotknij aby pobrać.</string>
     <string name="host_boot_installation_button">Dalej</string>
     <string name="host_boot_installation_dialog_message">Wersja Przenoszenia danych na starym urządzeniu nie jest kompatybilna z zainstalowaną tutaj. Zaktualizuj Przenoszenie danych na swoim starym urządzeniu.</string>

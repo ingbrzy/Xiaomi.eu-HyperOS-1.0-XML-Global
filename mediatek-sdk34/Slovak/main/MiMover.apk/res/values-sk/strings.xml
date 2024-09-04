@@ -77,6 +77,7 @@
     <string name="cancel">Zrušiť</string>
     <string name="cancel_moving_dialog_message">Zastaviť importovanie teraz?</string>
     <string name="cancel_moving_dialog_title">Zastaviť importovanie</string>
+    <string name="cancel_tranfer">Zrušiť</string>
     <string name="cannot_use_mi_huanji_button">Rozumiem</string>
     <string name="cannot_use_mi_huanji_summary">Zdá sa, že systém MIUI momentálne zálohuje súbory. Pre spustenie prenosu cez Mi Mover zastavte prebiehajúce zálohy alebo reštartujte vaše zariadenie.</string>
     <string name="cannot_use_mi_huanji_title">Prenos nie je možný</string>
@@ -269,6 +270,7 @@ Otvorte WeChat a prejdite na Moje > Nastavenia > Záloha a migrácia chatov."</s
     <string name="guest_unfinished_task_alert_message">Zdá sa, že máte nedokončené prenosy. Pokračovať v prenose?</string>
     <string name="guest_unfinished_task_alert_title">Nedokončené úlohy</string>
     <string name="hide_password_description">Skryť heslo</string>
+    <string name="high_temp_summary">Vaše zariadenie sa počas prenosu veľkých objemov dát môže zahrievať. Toto je normálny jav a po dokončení prenosu sa zariadenie opäť ochladí.</string>
     <string name="host_boot_installation_bottom_tips">Nenašli ste aplikáciu Mi Mover? Stiahnite si ju ťuknutím.</string>
     <string name="host_boot_installation_button">Ďalej</string>
     <string name="host_boot_installation_dialog_message">Nová verzia aplikácie Mi Mover nie je kompatibilná s verziou nainštalovanou na tomto zariadení. Aktualizujte aplikáciu Mi Mover na vašom starom zariadení.</string>

@@ -590,6 +590,7 @@ Du mister ikke noe appdata."</string>
     <string name="apps_list_header_title_sms_access">Begrens tilgang til bekreftelseskoder</string>
     <string name="ask_create_shortcut">Lage en snarvei til Hjem-skjerm?</string>
     <string name="audio_optimization_summary">Forbedre lyden og reduser bakgrunnsstøy under samtaler</string>
+    <string name="audio_optimization_summary_new">Optimaliser hodetelefonenes lydkvalitet mens du spiller, og reduser støy under samtaler</string>
     <string name="audio_optimization_title">Forbedret lyd</string>
     <string name="auto_atsk_condition_battery_level_text_down">Når batteriet når %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Nåe batteriet er ladet med %s</string>
@@ -1130,6 +1131,7 @@ Men noen av transaksjonene dine er enda ikke fullført. For å kunne tilbakekall
     <string name="continue_set">Fortsett</string>
     <string name="convenient_mode">Lås opp alle apper samtidig</string>
     <string name="convenient_summary">Sriv inn passord for å låse opp alle apper</string>
+    <string name="conversation_phone_title">Anropsverktøykasse</string>
     <string name="conversation_settings_top">"·Skyv ut konferanseverktøyslinjen under lyd- og videoanrop i fullskjerm for å bruke funksjonene.
 ·Type og antall funksjoner avhenger av enhetsmodellen."</string>
     <string name="conversation_sider_tips">Bruk nye konferanseverktøy for den beste samtaleopplevelsen</string>
@@ -1144,9 +1146,13 @@ Men noen av transaksjonene dine er enda ikke fullført. For å kunne tilbakekall
     <string name="create_gamebooster_destop">Snarvei på startskjermen er opprettet</string>
     <string name="create_shortcut">Lag en Startskjerm med snarvei til Spillturbo</string>
     <string name="cs_color_sense">Fargetemperatur</string>
+    <string name="cs_conversation_record_using">Tar opp</string>
     <string name="cs_func_toast_headset">Koble fra hodetelefonene for å kunne bruke denne funksjonen</string>
     <string name="cs_func_toast_light">Bytt til frontkameraet for å kunne bruke denne funksjonen</string>
     <string name="cs_func_toast_pickup">Bytt til en videosamtale for å kunne bruke denne funksjonen</string>
+    <string name="cs_func_unavailable_tips">Bruk denne funksjonen under samtaler</string>
+    <string name="cs_light_enhance_physical_options">Fargetemperatur</string>
+    <string name="cs_light_enhance_physical_title">Lysstyrke</string>
     <string name="cs_pickup_denoise_desc">Reduser støy fra innkommende lyd når du bruker høyttalere eller hodetelefoner</string>
     <string name="cs_pickup_denoise_title">Støyreduksjon</string>
     <string name="cs_pickup_multi_desc">%d graders lydregistrering</string>
@@ -1160,11 +1166,19 @@ Men noen av transaksjonene dine er enda ikke fullført. For å kunne tilbakekall
     <string name="cs_pickup_vioce_print_unsupport_tips">Gjør opptak av stemmeavtrykk før du velger \"Enkelt deltaker\"</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Koble fra eksterne enheter og prøv igjen</string>
     <string name="cs_pickup_voice_print_desc">Fang opp lyd fra bare én person</string>
+    <string name="cs_privacy_camera_global_settings_title">Samtaleintegritet</string>
     <string name="cs_screen_translation_title">Skjermoversettelse</string>
+    <string name="cs_simultaneous_interpretation_title">Tolk</string>
     <string name="cs_title_pickup">Støyreduksjon</string>
     <string name="cs_title_smart_subtitle">Transkribering av undertekster</string>
     <string name="cs_title_ultraclear">Ultra HD-modus</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Prøv simultantolkning og andre verktøy for konferansesamtaleri den nye verktøykassen for anrop.</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Prøv en rekke nye funksjoner for konferansesamtaler i den nye verktøykassen for anrop</string>
+    <string name="cs_tool_box_phone_guide_case_1">Prøv simultantolkning og andre funksjoner i den nye verktøykassen for anrop.</string>
+    <string name="cs_tool_box_phone_guide_case_2">Prøv en rekke nye funksjoner i den nye verktøykassen for anrop</string>
     <string name="cs_voice_print">Ta opp stemmeavtrykk</string>
+    <string name="cs_vt_camera_toast_case1">Åpne kameraet i gjeldende app</string>
+    <string name="cs_vt_camera_toast_case2">Ingen kompatible enheter i nærheten</string>
     <string name="cta_agree_desc">Tillat at denne appen kan koble til internett og gi tillatelsene over for at du skal kunne bruke tjenestene våre.</string>
     <string name="cta_close_dialog_cancel">Avbryt</string>
     <string name="cta_close_dialog_content">Hvis du begrenser Sikkerhets tilgang til internett og plasseringsinformasjon, vil du ikke kunne motta advarsler om jordskjelv, oppdatering av virusdefinisjoner og informasjon om blokkeringsliste. Begrense likevel?</string>
@@ -1706,7 +1720,7 @@ Det blir lagt til unntak, men elementer som allerede er blitt blokkert vises ikk
     <string name="game_else_function">Annet</string>
     <string name="game_manual_record_setting_setting">Innstillinger</string>
     <string name="game_manual_record_setting_title">Viktige øyeblikk</string>
-    <string name="game_more_improve">Begrens bakgrunnsaktiviteter og nedlastingshastighet for å spare batteri og båndbredde til gaming</string>
+    <string name="game_more_improve">Begrens bakgrunnsaktiviteter og nedlastingshastighet for å spare batteri og båndbredde for spilling</string>
     <string name="game_performance_wild_mode">Wild Boost</string>
     <string name="game_performance_wild_mode_tips">"Aktiver for å få bedre ytelse fra enheten
 (Enheten din varmes opp og forbruker mer strøm)"</string>
@@ -1845,6 +1859,8 @@ Det blir lagt til unntak, men elementer som allerede er blitt blokkert vises ikk
     <string name="gb_audition_play_instruction">Bruk hodetelefoner for best effekt</string>
     <string name="gb_award_noti_message">Aktiver bakgrunnsoppdateringer for Game For Peace i Game Turbo for å få belønninger</string>
     <string name="gb_award_noti_title">Game for Peace-belønningene er her!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Kan ikke bytte til Balansert-modus i Game Turbo når Ultimat-modus er aktivert for hele systemet. Du kan endre batteriinnstillinger i Sikkerhet.&lt;br>&lt;a href=\"#\">Åpne Sikkerhet&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Kan ikke bytte til Balansert-modus i Game Turbo når Ultimat-modus er aktivert for hele systemet. Du kan endre batteriinnstillinger i Sikkerhet. &lt;br>&lt;a href=\"#\">Åpne Sikkerhet&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">Høyt</string>
     <string name="gb_bar_low">Lavt</string>
     <string name="gb_bar_mid">Middels</string>
@@ -2000,6 +2016,8 @@ men øker også strømforbruket og kan føre til at enheten overopphetes"</strin
     <string name="gb_predownload_receive_tips">Aktiver bakgrunnsoppdateringer for å få belønninger</string>
     <string name="gb_predownload_receiving">Mottar…</string>
     <string name="gb_predownload_title">Bakgrunnsoppdateringer</string>
+    <string name="gb_setting_dock_toast">Funksjoner for asistent for frontkamera er tilgjengelig i anropsverktøykassen nå</string>
+    <string name="gb_setting_dock_toast_2">Funksjoner for asistent for frontkamera er tilgjengelig i anropsverktøykassen nå</string>
     <string name="gb_shortcut_pref_title">Snarvei på startskjermen</string>
     <string name="gb_shoulder_guide_message1">Beveg [L] til hvilken som helst funksjonell posisjon ffor å bruke den gjennom popup-utløseren.</string>
     <string name="gb_shoulder_guide_message2">Handlingen [1] aktiveres ved å trykke på knappen. Handlingen [2] aktiveres ved å slippe knappen.</string>
@@ -2114,7 +2132,7 @@ og utforsk Stemmeskifter!"</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">Abonnementene dine har utløpt. Forny abonnementet nå for å få fordeler!</string>
     <string name="gb_voice_changer_user_vip_expired">Utløpt</string>
     <string name="gb_voice_changer_user_vip_remain_time">Utløpsdato: %s</string>
-    <string name="gb_wild_mode_game_performance_enhance">Forbedre ytelse for gaming</string>
+    <string name="gb_wild_mode_game_performance_enhance">Forbedre ytelse for spilling</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">"Ta opp viktige øyeblikk
 i spilløktene dine"</string>
     <string name="gb_wonderful_video_cancel">Avbryt</string>
@@ -2135,12 +2153,24 @@ i spilløktene dine"</string>
     <string name="gd_dock_shortcut_splitescreen">Del skjerm</string>
     <string name="gd_setting_conversation">Konferanseverktøy</string>
     <string name="gd_setting_conversation_desc">Har flere funksjoner til bruk med lyd- og videoanrop i fullskjerm</string>
+    <string name="gd_setting_dock_activity_title">Sideverktøykasse</string>
+    <string name="gd_setting_dock_call_summary">Funksjoner for tale- og videosamtaler (f.eks. fyllys)</string>
+    <string name="gd_setting_dock_call_title">Anropsverktøykasse</string>
+    <string name="gd_setting_dock_game_summary">Forbedre skjerm og ytelse når du spiller spill</string>
+    <string name="gd_setting_dock_game_summary_new">Forbedre skjerm og ytelse når du spiller spill</string>
+    <string name="gd_setting_dock_summary">Åpne andre apper i flytende vinduer mens du bruker en app i fullskjermmodus</string>
+    <string name="gd_setting_dock_title">Sidepanel</string>
+    <string name="gd_setting_dock_video_summary">Bruk effekter som f.eks. Dolby Atmos mens du ser på videoer</string>
+    <string name="gd_setting_dock_video_summary_new">Bruk verktøy og effekter når du ser på videoer</string>
+    <string name="gd_setting_group_custom_conversation_apps">Ta opp stemmeavtrykk for anrop</string>
     <string name="gd_setting_group_custom_gtb_apps">Spill</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Administrer spillapper</string>
     <string name="gd_setting_group_custom_settings">Tilpassing</string>
     <string name="gd_setting_group_custom_vtb_apps">Videoapper</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Administrer videoapper</string>
     <string name="gd_setting_group_title_switch">Scener</string>
     <string name="gd_setting_gtb">Vis mens du spiller spill</string>
-    <string name="gd_setting_gtb_desc">Spesielle funksjoner for gaming</string>
+    <string name="gd_setting_gtb_desc">Spesielle funksjoner for spilling</string>
     <string name="gd_setting_guide_one">Trykk for å åpne flytende vindu</string>
     <string name="gd_setting_miui_dock">Alltid vis</string>
     <string name="gd_setting_title">Sidelinje</string>
@@ -2157,11 +2187,17 @@ i spilløktene dine"</string>
     <string name="get_phone_num_fail">Ukjent telefonnummer</string>
     <string name="get_sys_info">Henter informasjon…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">Trykk på og hold inne indikatoren for å flytte vinduet rundt</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Trykk på en app på sidelinjen for å åpne den i et flytende vindu.
 · Dra en app til midten av skjermen for å åpne den i et flytende vindu eller til siden for å bruke delt skjerm.
 · Trykk og hold inne indikatoren for å flytte vinduet rundt."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"Trykk på en app på sidepanelet for å åpne den i et flytende vindu.
+ Dra en app til midten av skjermen for å åpne den i et flytende vindu eller til siden for å bruke delt skjerm.
+ Trykk på og hold inne indikatoren for å flytte vinduet rundt."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Trykk på en app på sidelinjen for å åpne den i et flytende vindu.
 · Trykk og hold inne indikatoren for å flytte vinduet rundt."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Sveip for å åpne sidepanelet og trykk på en app for å åpne den i et flytende vindu.
+Trykk på og hold inne indikatoren for å flytte vinduet rundt."</string>
     <string name="global_satisfaction_notification_button">Vurder</string>
     <string name="global_satisfaction_notification_channel">Undersøkelse om brukertilfredshet</string>
     <string name="global_satisfaction_notification_subhead">Fortell oss om opplevelsen din</string>
@@ -2222,14 +2258,14 @@ i spilløktene dine"</string>
     <string name="gs_game_manual_record_subtitle_child_carton">Å ta opp spill-øktene dine krever høyere strømforbruk som kan føre til treghet.</string>
     <string name="gs_game_manual_record_subtitle_child_conflict">Andre funksjoner for skjermopptak fungerer kanskje ikke optimalt.</string>
     <string name="gs_game_net_priority">Oppkoblingsprioritet</string>
-    <string name="gs_game_net_priority_detail">Begrens nedlastingstid for å få nok båndbredde til gaming</string>
+    <string name="gs_game_net_priority_detail">Begrens nedlastingstid for å få nok båndbredde for spilling</string>
     <string name="gs_game_performance">Ytelse</string>
     <string name="gs_game_record_intro_tips">*Opptak av spill-økt er bare tilgjengelig for utvalgte kompatible spill</string>
     <string name="gs_game_shortcut">Forbedre spillopplevelsen din</string>
     <string name="gs_gamebox">Snarveier i spillet</string>
     <string name="gs_gamebox_detail">Sveip fra toppen av skjermen for å vise</string>
     <string name="gs_gamebox_slip">Trykk skjermen nedover for å åpne</string>
-    <string name="gs_only_self_start_for_list">Begrens bakgrunnsprosesser for å spare batteri til gaming</string>
+    <string name="gs_only_self_start_for_list">Begrens bakgrunnsprosesser for å spare batteri for spilling</string>
     <string name="gs_open_game_booster_summary">Boost nettverkshastighet for barn</string>
     <string name="gs_performance_mode">Ytelsesmodus</string>
     <string name="gs_performance_mode_detail">Optimaliser systemytelse for spilling</string>
@@ -3109,9 +3145,9 @@ Prøv å bruke en annen ethernet-kabel for å koble til ruteren din. Hvis du mis
     <string name="optional_permissions">Valgfrie tillatelser</string>
     <string name="optional_permissions_desc">Disse tillatelsene er nødvendige når du bruker tilleggsfunksjoner.</string>
     <string name="optmizingbar_optimize_done">Optimalisert</string>
-    <string name="optmizingbar_ready">Optimalisering…</string>
+    <string name="optmizingbar_ready">Optimaliserer…</string>
     <string name="optmizingbar_stop_optmize">Stopp</string>
-    <string name="optmizingbar_title_acceleration">Optimaliserer ...</string>
+    <string name="optmizingbar_title_acceleration">Optimaliserer…</string>
     <string name="optmizingbar_title_clear">Tøm hurtigbuffer</string>
     <string name="optmizingbar_title_security">Sikkerhet</string>
     <string name="optmizingbar_title_system">Systemsikkerhet</string>
@@ -3182,6 +3218,7 @@ Prøv å bruke en annen ethernet-kabel for å koble til ruteren din. Hvis du mis
     <string name="pc_battery_history_total_consumption_title">Totalt strømforbruk</string>
     <string name="pc_battery_history_usetime_title">Aktiv</string>
     <string name="pc_battery_low_health_reminder">Det er på tide å skifte ut batteriet</string>
+    <string name="pc_battery_replacement_service_title">Prøv tjenesten vår for bytting av batteri. %1$s original maskinvare med en %2$s garanti.</string>
     <string name="pc_berserk_mode_dialog_title">Slå på Ultimat-modus</string>
     <string name="pc_berserk_mode_noti_summary">Ultimat-modus kan føre til økt strømforbruk og problemer med overoppheting</string>
     <string name="pc_berserk_mode_performance_title">Ultimat modus</string>
@@ -3255,6 +3292,7 @@ Prøv å bruke en annen ethernet-kabel for å koble til ruteren din. Hvis du mis
     <string name="pc_fast_charge_switch_summary_new">Vis påminnelse om å øke ladehastigheten når den medfølgende laderen er tilkoblet og batterinivået går under et angitt punkt.</string>
     <string name="pc_fast_charge_switch_title">Øk ladehastigheten</string>
     <string name="pc_fast_charge_switch_toast_message">Endringene blir tatt i bruk neste gang du lader enheten</string>
+    <string name="pc_fast_charge_temp_remider">Aktiver for å regulere ladehastigheten automatisk. Denne funksjonen fungerer bare med Xiaomis medfølgende ladere. Enheten kan bli varm under lading.</string>
     <string name="pc_fast_charge_title">Øk ladehastigheten</string>
     <string name="pc_going_to_exit_extreme_mode">Avslutter dvalemodus</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Enheten lades. Dvalemodus er av.</string>
@@ -3343,6 +3381,16 @@ Ultrabatterisparer"</string>
     <string name="pc_search_keywords_capacity">Batterikapasitet</string>
     <string name="pc_search_keywords_property">Ytelse</string>
     <string name="pc_settings_title">Batteri</string>
+    <string name="pc_smart_charge_button_summary">For å forlenge batteriets levetid vil systemet lære hvordan du lader enheten og stoppe ladingen når batterinivået når %1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Enheten er opphetet. Ladingen stoppes når batterinivået når %1$s</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Navigerer… Ladingen stoppes når batterinivået når %1$s</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">Ladingen stoppes på %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">For å forlenge batteriets levetid vil batteriet til denne enheten ikke gå over gjeldende nivå når den er koblet til bilen.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Ikke vis igjen</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Batteribeskyttelse</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">For å forlenge batteriets levetid vil batteriet til denne enheten ikke gå over gjeldende nivå når den er koblet til bilen</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Batteribeskyttelse</string>
+    <string name="pc_smart_charge_title">Smartlading</string>
     <string name="pc_smart_discharge_checkbox_summary">Under bruk av navigasjonsfunksjoner stanses lading automatisk når batteriet når et bestemt prosentnivå. Batterisparer deaktiveres.</string>
     <string name="pc_smart_discharge_checkbox_title">Automatisk frakobling av lader</string>
     <string name="pc_smart_discharge_drop_down_title">Autofrakoblingsinnstillinger</string>
@@ -3355,6 +3403,8 @@ Ultrabatterisparer"</string>
     <string name="pc_statistics_battery_use_title">Batteribruk</string>
     <string name="pc_suggest_open_fast_charge">Aktiver %dW hurtiglading</string>
     <string name="pc_temperature_too_high">Enhet er overopphetet</string>
+    <string name="pc_this_time_charge_full">Lade helt opp denne gangen</string>
+    <string name="pc_this_time_charge_full_work">Nesten fulladet</string>
     <string name="pc_timely_charging_summary">Batterinivået er under %1$s. Hvis enheten overopphetes mens batterinivået er lavt, kan det skade batteriet.</string>
     <string name="pc_timely_charging_title">Lad enheten din</string>
     <string name="pc_to_phone_install">Blokkert installasjon av %s via USB</string>
@@ -4375,6 +4425,13 @@ Trekke tilbake samtykket nå?"</string>
     <string name="sd_mount">Sett inn SD-kort</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">App</string>
+    <string name="search_keyword_applybar">App-dokkingstasjon</string>
+    <string name="search_keyword_call">Anrop</string>
+    <string name="search_keyword_sidebar">Sidepanel</string>
+    <string name="search_keyword_tool">Verktøy</string>
+    <string name="search_keyword_tools">Verktøykasse</string>
+    <string name="search_keyword_voice">Stemme</string>
     <string name="search_menu_title">Søk</string>
     <string name="search_result_text">Kunne ikke finne noen apper</string>
     <string name="section_clear_acc_item_title">%s. Dersom det ikke er nok lagringsplass, prøv å bruke Cleaner.</string>
@@ -4388,7 +4445,7 @@ Trekke tilbake samtykket nå?"</string>
     <string name="security_guide_bubble_text">Åpne</string>
     <string name="security_protection_bottom_slogon">Sikkerhet på sitt beste</string>
     <string name="security_protection_title">Sikkerhet</string>
-    <string name="security_scan_optimizing">Optimalisering…</string>
+    <string name="security_scan_optimizing">Optimaliserer…</string>
     <string name="securityadd_install_fail">Kunne ikke oppdatere plug-in. Prøv igjen.</string>
     <string name="securityadd_update_tips_cancle">Ikke nå</string>
     <string name="securityadd_update_tips_message">Oppdater plug-in for sikkerhetstjeneste for å få tilgang til de nyeste spillfunksjonene. %1$d MB blir lastet ned.</string>
@@ -5164,6 +5221,7 @@ Formatering vil slette alt eksisterende innhold på ^2. For å unngå å miste i
     <string name="title_cloud_space_almost_full">Cloud-lagring nesten full, elementer kan ikke synkroniseres</string>
     <string name="title_cloud_space_full">Cloud er full</string>
     <string name="title_cmcc_app_check">Verifisering er ikke fullført</string>
+    <string name="title_condition_meeting">Møte</string>
     <string name="title_consume_power_rank">Strømforbruk av apper</string>
     <string name="title_dark_mode">Noen elementer vises ikke riktig</string>
     <string name="title_data_flow">Kontroller mobildata</string>
@@ -5224,6 +5282,8 @@ Formatering vil slette alt eksisterende innhold på ^2. For å unngå å miste i
     <string name="toast_cleaner_cloudscan">Cleaner vil bruke definisjoner fra nett</string>
     <string name="toast_dark_mode_fixed">Fikset. Forlat denne siden for å ta i bruk endringer.</string>
     <string name="toast_flow_notification">Skru på varslinger om databruk</string>
+    <string name="toast_gamembox_unenable_pad">Aktiver Game Turbo i Sikkerhet først</string>
+    <string name="toast_gamembox_unenable_phone">Aktiver Game Turbo i Sikkerhet først</string>
     <string name="toast_garbage_lib">Skrudde på automatiske oppdateringer for Cleaner</string>
     <string name="toast_keyword_blank">Du må angi et søkeord</string>
     <string name="toast_keyword_exist">Søkeord lagt til</string>
@@ -5582,7 +5642,7 @@ Denne funksjonen fungerer ikke når Batterisparer eller Ultrabatterisparer er ak
     <string name="write_clipboard_tip_title">Lagrer elementer på utklippstavlen</string>
     <string name="wrong_password">Feil passord</string>
     <string name="xunyou_net_booster">Nettverk speed boost</string>
-    <string name="xunyou_net_booster_detail">Bruk Xunyou speed boost-tjeneste til gaming</string>
+    <string name="xunyou_net_booster_detail">Bruk Xunyou speed boost-tjeneste for spilling</string>
     <string name="xunyou_pay_webview">Xunyou-tjenester</string>
     <string name="xunyou_server_expired">Økten er utløpt</string>
     <string name="yesterday">I går</string>
