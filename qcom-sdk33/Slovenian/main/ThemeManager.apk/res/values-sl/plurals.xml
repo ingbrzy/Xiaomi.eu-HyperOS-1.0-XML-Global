@@ -220,6 +220,12 @@ Kovanci so nepovratni."</item>
         <item quantity="two">%d kreaciji</item>
         <item quantity="few">%d kreacije</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">Vaša zahteva bo obdelana v približno %1$d sekundah.</item>
+        <item quantity="one">Vaša zahteva bo obdelana v približno %1$d sekundi.</item>
+        <item quantity="two">Vaša zahteva bo obdelana v približno %1$d sekundah.</item>
+        <item quantity="few">Vaša zahteva bo obdelana v približno %1$d sekundah.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"%d naročil uspešno povrnjenih. "</item>
         <item quantity="one">"%d naročilo uspešno povrnjeno. "</item>

@@ -106,6 +106,10 @@
     <string name="author_new_theme">Novo</string>
     <string name="author_popularity">Pregledi</string>
     <string name="author_unfollow_succeed">Uspješno ste otpratili</string>
+    <string name="automatic_renewal_monthly">Automatski se obnavlja %s/mjesečno</string>
+    <string name="automatic_renewal_weekly">Automatski se obnavlja %s/tjedno</string>
+    <string name="automatic_renewal_yearly">Automatski se obnavlja %s/godišnje</string>
+    <string name="automatically_push_content_to_lock_screen">Svaki će se dan novi sadržaj prikazivati ​​na vašem zaključanom zaslonu</string>
     <string name="automatically_update_using_theme_tips">Ažurirati automatski sljedeći put</string>
     <string name="back_to_default">Natrag na zadano</string>
     <string name="back_to_none">Ne postavljaj zvuk zvona</string>
@@ -122,6 +126,9 @@
     <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
     <string name="browser_local_resource">Lokalni izvori</string>
     <string name="can_not_apply">Ne mogu postaviti</string>
+    <string name="canceled_failed">Otkazivanje nije moguće</string>
+    <string name="canceled_subscription_failed">Nije moguće otkazati pretplatu. Pokušajte ponovno.</string>
+    <string name="canceled_trial_failed">Otkazivanje nije moguće. Pokušajte ponovno.</string>
     <string name="card_data_request_error">Došlo je do greške. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="card_loading">Pričekajte trenutak…</string>
     <string name="card_no_network">Ne mogu se povezati s mrežom. Provjerite mrežne postavke i pokušajte ponovno.</string>
@@ -175,6 +182,7 @@
     <string name="current_using_desktop_wallpaper_text">Početni zaslon</string>
     <string name="current_using_lockscreen_wallpaper_text">Zaključani zaslon</string>
     <string name="current_version_incompatible">Nije kompatibilno</string>
+    <string name="custom_wallpaper_for_you">Prilagođene pozadine za vas</string>
     <string name="data_use_desc">Pravni dokumenti</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +192,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">Primijeni</string>
     <string name="de_super_wp_land_position_default_des">Odaberite pregled</string>
     <string name="deleting">Brišem…</string>
+    <string name="delivers_fresh_content_and_design_daily">Svježi dizajni svaki dan</string>
     <string name="description_author">Autor</string>
     <string name="description_designer">Dizajner</string>
     <string name="description_download">Preuzeto</string>
@@ -210,6 +219,7 @@
     <string name="editor_apply_message">"Ovu značajku dizajneri koriste za otklanjanje pogrešaka. Zadana tema će se nakon nekog vremena automatski vratiti. Putanja datoteke trenutne teme: "</string>
     <string name="editor_apply_toast">Ručno odaberite temp.mtz u korijenskom direktoriju</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">Unesite adresu e-pošte</string>
     <string name="eras_ad">Po Kr.</string>
     <string name="eras_bc">Pr. Kr.</string>
     <string name="error_icon_content_description">Pogreška</string>
@@ -384,6 +394,7 @@
     <string name="hide_incompatible_font">Sakrij nekompatibilne fontove</string>
     <string name="hide_incompatible_theme">Sakrij nekompatibilne teme</string>
     <string name="hide_incompatible_wallpaper">Sakrij nekompatibilne pozadine</string>
+    <string name="hint_email_address">Unesite adresu e-pošte</string>
     <string name="home_apply_failured">Ne mogu postaviti pozadinu Poč. zaslona</string>
     <string name="home_apply_success">Slika pozadine Poč. zaslona postavljena</string>
     <string name="hot_first">Prvo popularno</string>
@@ -417,6 +428,7 @@
     <string name="loading_resource_detail_fail">Ne mogu učitati resurse!</string>
     <string name="loading_resource_detail_info">Pričekajte trenutak…</string>
     <string name="local_photos">Lokalne fotografije</string>
+    <string name="local_record__email_info">Zapamti moju adresu e-pošte</string>
     <string name="local_resouce_creator_name">Developer: %1$s</string>
     <string name="lock_screen_edit">Uredi Zaključani zaslon</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">Ovaj predložak za zaključani zasloni ne podržava Super pozadine. Kada bude primijenjen vaš Zaključani zaslon će se vratiti na zadane postavke, a vaše pozadine za Početnu stranicu i Zaključani zaslon bit će zamijenjene. Primijeni sada?</string>
@@ -457,6 +469,7 @@
     <string name="message_sim_two">SIM %d poruka</string>
     <string name="mi_wallpaper">MIUI pozadina</string>
     <string name="midnight">Noć</string>
+    <string name="mine_subscribed_wallpaper">Pretplaćene pozadine</string>
     <string name="miui_clock_city_name_local">Lokalno</string>
     <string name="miui_clock_city_name_second">Drugi sat</string>
     <string name="miui_lock_screen_date">EEE, d. MMM</string>
@@ -701,7 +714,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">Prilagodite svoj uređaj</string>
     <string name="present_official_themes">Naš izbor</string>
     <string name="present_online_themes">Preuzmite više online tema</string>
+    <string name="price_for_automatic_renewal">Automatski obnovi za %1$s</string>
     <string name="privacy_desc">Pravila o privatnosti (obavezno)</string>
+    <string name="privacy_simple_content">Uključite prilagođene preporuke kako biste dobili sadržaj i proizvode prilagođene svojim interesima.</string>
+    <string name="privacy_simple_hint">Svoje postavke možete promijeniti bilo kada u Postavkama.</string>
+    <string name="privacy_simple_title">Prilagođene preporuke</string>
     <string name="promotion_ad">Posebne ponude</string>
     <string name="provision_default_theme_title">Zadano</string>
     <string name="provision_download_cancel">Preuzimanje je otkazano</string>
@@ -747,6 +764,9 @@ mm"</string>
     <string name="related_theme">Teme</string>
     <string name="related_wallpaper">Slike pozadine</string>
     <string name="reload">Pokušaj ponovno</string>
+    <string name="renewal_of_a_contract_monthly">Obnovi %s/mjesečno</string>
+    <string name="renewal_of_a_contract_weekly">Obnovi %s/tjedno</string>
+    <string name="renewal_of_a_contract_yearly">Obnovi %s/godišnje</string>
     <string name="res_migrate_tip">Kako bi Teme bile kompatibilne s nadolazećim verzijama Androida, preuzete stavke smo premjestili na novu lokaciju. Ponovno pokrenite aplikaciju kako bi se promjene primijenile i kako biste pregledali svoj preuzeti sadržaj.</string>
     <string name="resource_account_abnormal_state">Pogreška računa. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="resource_account_fail_to_add">Ne mogu dodati račun</string>
@@ -766,6 +786,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">Izbrisati svu povijest pretraživanja?</string>
     <string name="resource_continue">Dalje</string>
     <string name="resource_current_using_title">Trenutni resursi</string>
+    <string name="resource_currently_applied">Primijenjeno</string>
     <string name="resource_data_empty">Nema stavki ovdje.</string>
     <string name="resource_default">Zadana melodija zvona</string>
     <string name="resource_default_name">Resursi</string>
@@ -964,6 +985,7 @@ mm"</string>
     <string name="select_all">Odaberi sve</string>
     <string name="selected_resource_file_invalid">Ne mogu koristiti odabrane resurse datoteke</string>
     <string name="send">Pošalji</string>
+    <string name="service_expiration_date">Traje do %1$s</string>
     <string name="set_color_ring_back_tone">Postavite prilagođeni ton za povratni signal</string>
     <string name="settings">Postavke</string>
     <string name="shortcut_add">Dodaj</string>
@@ -985,6 +1007,9 @@ mm"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Primijeni</string>
     <string name="storage_file">Za spremanje preuzetih stavki</string>
+    <string name="submission_successfully">Uspješno podneseno</string>
+    <string name="subscription_service_shutdown_tip">Pretplaćene pozadine više nisu prikazane jer koristite drugu uslugu. Možete primijeniti ponovo pretplaćenu pozadinu.</string>
+    <string name="successfully_applied_wallpaper_tip">Uspješno primijenjena pozadina</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>
@@ -997,11 +1022,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">Instaliraj</string>
     <string name="super_wallpaper_list_footer_text">Više Rotirajućih pozadina uskoro</string>
     <string name="super_wallpaper_list_label">Super pozadine</string>
+    <string name="super_wallpaper_low_version_tip_push">Ažurirajte Super pozadine na najnoviju verziju kako biste ih mogli nastaviti koristiti.</string>
+    <string name="super_wallpaper_restore_msg_push">Trenutna verzija Super pozadina naišla je na problem nekompatibilnosti. Vaša zadana pozadina je vraćena. Ažurirajte na najnoviju verziju kako biste mogli koristiti Super pozadine.</string>
     <string name="super_wallpaper_setting_apply_success_toast">Uspješno primijenjeno</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Primijeni</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Opcije</string>
     <string name="super_wallpaper_setting_coordinate_title">Koordinate</string>
     <string name="super_wallpaper_setting_view_height_title">Nadmorska visina</string>
+    <string name="super_wallpaper_upgrade_tip_push">Ažuriraj Super pozadine</string>
     <string name="support_google_dynamic_color_hint">Koristite Google Dynamic Color. Paleta boja nekih aplikacija se može promijeniti kada primijenite nove teme i pozadine.</string>
     <string name="swipe_find_more">Prijeđite gore da biste pregledali više</string>
     <string name="system_aod_dialog_message">Uključite Uvijek uključen zaslon kako biste mogli koristiti tu značajku.</string>
@@ -1009,7 +1037,26 @@ mm"</string>
     <string name="system_aod_dialog_title">Uvijek uključen zaslon</string>
     <string name="system_phone">Pozivi</string>
     <string name="system_precust">Predinstalirane</string>
+    <string name="text_billing_info">Podaci o plaćanju</string>
+    <string name="text_cancel_subscription_service">Otkazati ovu pretplatu sada?</string>
+    <string name="text_content_update">Novi sadržaj svaki dan</string>
+    <string name="text_free_trial">Isprobajte besplatno</string>
+    <string name="text_pay_monthly" formatted="false">Počevši od %s, automatski se obnavlja %s/mjesečno do otkazivanja</string>
+    <string name="text_pay_weekly" formatted="false">Počevši od %s, automatski se obnavlja %s/tjedno do otkazivanja</string>
+    <string name="text_pay_yearly" formatted="false">Počevši od %s, automatski se obnavlja %s/godišnje do otkazivanja</string>
     <string name="text_play">Igrajte</string>
+    <string name="text_start_time_format">d. M.</string>
+    <string name="text_status_apply_now">Primjeni</string>
+    <string name="text_status_be_subscribing">Pretplaćeno</string>
+    <string name="text_status_cancel_the_trial">Zaustavi probni plan</string>
+    <string name="text_status_on_trial">Tekući probni plan</string>
+    <string name="text_status_subscribe_now">Pretplati se</string>
+    <string name="text_status_unsubscribe">Otkažite pretplatu</string>
+    <string name="text_status_unsubscribed">Pretplata je otkazana</string>
+    <string name="text_subscribe">Pretplate</string>
+    <string name="text_subscribed">Pretplaćeno</string>
+    <string name="text_when_cancel_the_trial_tip">Ako otkažete ovaj probni period, ova pozadina će biti obrisana sa vašeg uređaja.</string>
+    <string name="text_when_unsubscribe_tip">Ako otkažete ovu pretplatu, ova pozadina će biti obrisana sa vašeg uređaja.</string>
     <string name="the_anniversary_of_lifting_martial_law">Godišnjica Ukidanja Vojne Vlasti</string>
     <string name="the_anti_aggression_day">Dan Protiv Nasilja</string>
     <string name="the_arbor_day">Dan Sjenice</string>
@@ -1150,6 +1197,8 @@ mm"</string>
     <string name="tip_lockscreen">Promijenite pozadinu zaključanog zaslona i sat</string>
     <string name="tip_lockscreen2">Koristite Rotirajuću pozadinu. Prilagođavanjem teme promijenit ćete pozadinu Zaključanog zaslona i sat.</string>
     <string name="tip_statusbar">Promijenite kontrolni centar i Panel obavijesti</string>
+    <string name="tips_subscriptions_close">Pretplate na pozadinu su isključene</string>
+    <string name="tips_talk_later">Ne sada</string>
     <string name="tips_theme_gate_transfer_fail">Nije moguće otvoriti ovu stranicu. Pričekajte trenutak ili dva i pokušajte ponovo.</string>
     <string name="title_component">Prilagodite temu</string>
     <string name="title_home_miwallpaper_home_screen_effects">Efekti početnog zaslona</string>
@@ -1164,6 +1213,7 @@ mm"</string>
     <string name="today">Danas</string>
     <string name="tomorrow">Sutra</string>
     <string name="top">Popularno</string>
+    <string name="trial_cancellation_succeeded">Uspješno otkazan probni plan</string>
     <string name="try_fresh_functions_and_contents">Provjerite naše nove značajke i sadržaj</string>
     <string name="try_it">Pogledajte</string>
     <string name="try_tap">Dodirni za prikaz</string>
@@ -1175,6 +1225,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">Razumijem</string>
     <string name="uid_change_dialog_title">Ponovo pokreni uređaj</string>
     <string name="unknown_error">Došlo je do pogreške</string>
+    <string name="unsubscribe_successfully">Pretplata uspješno otkazana</string>
     <string name="unsupport_tip">Ovaj format nije podržan. Pokušajte odabrati drugu datoteku.</string>
     <string name="up_to_the_end">Nema stavki za prikaz</string>
     <string name="update_btn">AŽURIRAJ SADA</string>
@@ -1189,6 +1240,7 @@ mm"</string>
     <string name="update_push_content">Ažuriraj sada</string>
     <string name="update_push_title">Vaša tema ima dostupnu novu verziju</string>
     <string name="update_title">DOSTUPNA NOVA AŽURIRANJA</string>
+    <string name="updating_the_app_tip">Ažuriranje…</string>
     <string name="used_wallpaper">Prethodno korišteno</string>
     <string name="user_agree">Slažem se</string>
     <string name="user_attention_new_theme">%sov novi sadržaj</string>
@@ -1238,6 +1290,7 @@ Bilo kada možete povući svoju privolu na Pravila o privatnosti u Postavkama."<
     <string name="wallpaper_group_natural_texture_title">Prirodni uzorci</string>
     <string name="wallpaper_group_sgn_mountain_title">Planina Siguniang</string>
     <string name="wallpaper_might_like">Pozadine koje bi vam se mogle svidjeti</string>
+    <string name="wallpaper_restore_defalut_push">Vraćeno na zadano</string>
     <string name="wallpaper_scroll_type_tips">Pomicanje slika pozadine</string>
     <string name="wallpaper_set_as_both">Postavi oboje</string>
     <string name="wallpaper_set_as_desktop">Postavi kao Početni zaslon</string>

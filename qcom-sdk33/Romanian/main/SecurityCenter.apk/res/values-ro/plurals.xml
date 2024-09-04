@@ -724,6 +724,11 @@ Puteți obține o încercare gratuită de %d-zile acum!"</item>
         <item quantity="one">" min"</item>
         <item quantity="few">" min"</item>
     </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d zile</item>
+        <item quantity="one">%d zi</item>
+        <item quantity="few">%d zile</item>
+    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d elemente</item>
         <item quantity="one">%d element</item>

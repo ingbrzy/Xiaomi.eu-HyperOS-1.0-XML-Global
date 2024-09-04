@@ -50,6 +50,7 @@
     <string name="cancel">ပယ်ဖျက်မည်</string>
     <string name="cancel_moving_dialog_message">တင်သွင်းမှုကို ယခုပင် ရပ်ပစ်မလား။</string>
     <string name="cancel_moving_dialog_title">တင်သွင်းမှုကို ရပ်ပါ</string>
+    <string name="cancel_tranfer">မလုပ်တော့ရန်</string>
     <string name="cannot_use_mi_huanji_button">နားလည်ပါပြီ</string>
     <string name="cannot_use_mi_huanji_summary">MIUI သည် အိုင်တမ်များကို အရန်သိမ်းဆည်းနေပုံ ရပါသည်။ Mi Mover က ကူးပြောင်းမှု စတင်ခြင်းကို ခွင့်ပြုရန်အတွက် လုပ်ဆောင်နေဆဲ အရန်သိမ်းဆည်းမှုများကို ရပ်တန့်ပါ သို့မဟုတ် သင့်စက်ကို ပြန်လည်စတင်ပါ။</string>
     <string name="cannot_use_mi_huanji_title">ယခုအချိန်တွင် လွှဲပြောင်း၍ မရသေးပါ</string>
@@ -230,16 +231,17 @@ WeChat ကို ဖွင့်ပြီး Me > ဆက်တင် > အထွ
     <string name="guest_connect_dialog_ensure_text">ချိတ်ရန်</string>
     <string name="guest_connect_dialog_fail_message">ချိတ်မရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="guest_hint_connect_new_device">စက်အသစ်ရွေးပါ</string>
-    <string name="guest_install_app_hint_ensure">ဒေါင်းလုတ်လုပ်မည်</string>
-    <string name="guest_install_app_hint_summary">Mi Mover ဗားရှင်းအသစ်သည် ဤစက်တွင်တပ်ဆင်ထားသည့် တစ်ခုနှင့် ကိုက်ညီခြင်း မရှိပါ။ ဗားရှင်းအသစ်ကို ဒေါင်းလုတ်ရယူ၍ တပ်ဆင်ပေးပါ။</string>
-    <string name="guest_install_app_hint_title">Mi Mover ဗားရှင်း အသစ်ကို ဒေါင်းလုတ်ရယူပါ</string>
+    <string name="guest_install_app_hint_ensure">ဒေါင်းလုဒ်လုပ်ရန်</string>
+    <string name="guest_install_app_hint_summary">Mi Mover ဗားရှင်းအသစ်သည် ဤစက်တွင်ထည့်ထားသည်နှင့် မကိုက်ပါ။ ဗားရှင်းအသစ်ကို ဒေါင်းလုဒ်လုပ်ပြီး ထည့်သွင်းပါ။</string>
+    <string name="guest_install_app_hint_title">Mi Mover ဗားရှင်းအသစ် ဒေါင်းလုဒ်လုပ်ရန်</string>
     <string name="guest_manual_connect_link_text">စက်အသစ်ကို ကိုယ်တိုင်ကိုယ်ကျချိတ်ရန်</string>
     <string name="guest_unfinished_task_alert_btn_negative">ပြန်စမည်</string>
     <string name="guest_unfinished_task_alert_btn_positive">ဆက်လုပ်မည်</string>
     <string name="guest_unfinished_task_alert_message">ကူးပြောင်းမှုလုပ်ငန်းစဉ်များ ပြီးဆုံးခဲ့ပုံ မရပါ။ ဆက်ကူးမလား။</string>
     <string name="guest_unfinished_task_alert_title">မပြီးဆုံးသေးသော လုပ်ငန်းစဥ်များ</string>
     <string name="hide_password_description">စကားဝှက်ကို ဖျောက်ထားမည်</string>
-    <string name="host_boot_installation_bottom_tips">Mi Mover ကို ရှာမတွေ့ဘူးလား။ ဒေါင်းလုတ်ရယူရန် ထိနှိပ်ပါ။</string>
+    <string name="high_temp_summary">ဒေတာပမာဏများစွာ လွှဲပြောင်းစဉ် သင့်စက်ပူနိုင်သည်။ ၎င်းက ပုံမှန်ဖြစ်ပြီး လွှဲပြောင်းခြင်းပြီးလျှင် စက်ပြန်အေးပါမည်။</string>
+    <string name="host_boot_installation_bottom_tips">Mi Mover မတွေ့ဘူးလား။ ဒေါင်းလုဒ်လုပ်ရန် တို့ပါ။</string>
     <string name="host_boot_installation_button">နောက်တစ်ဆင့်</string>
     <string name="host_boot_installation_dialog_message">သင့်စက်အဟောင်းပေါ်ရှိ Mi Mover ဗားရှင်းသည် ဤတွင် တပ်ဆင်ထားသည့်တစ်ခုနှင့် ကိုက်ညီခြင်း မရှိပါ။ သင့်စက်အဟောင်းပေါ်မှ Mi Mover ကို အပ်ဒိတ်လုပ်ပါ။</string>
     <string name="host_boot_installation_first_title">သင့်စက်အဟောင်းပေါ်တွင် Mi Mover ကို ဖွင့်လိုက်ပါ</string>
@@ -248,7 +250,7 @@ WeChat ကို ဖွင့်ပြီး Me > ဆက်တင် > အထွ
     <string name="host_boot_installation_step_one_messege">ဆက်တင်များအတွင်းသို့သွား၍ ရှာဖွေဘားတွင် \"Mi Mover\" ကို ထည့်သွင်းပြီး ရှာဖွေမှုရလဒ်များအတွင်းမှ \"Mi Mover\" ကို ထိနှိပ်ပါ။</string>
     <string name="host_boot_installation_step_one_title">%d။ Mi Mover ကို စက်အဟောင်းတွင် ဖွင့်ရန်</string>
     <string name="host_boot_installation_step_two_title">%d။ စက်အဟောင်းတွင်ပေါ်သော စာမျက်နှာကို ရွေးပါ</string>
-    <string name="host_boot_installation_tips">Mi Mover ကို ရှာမတွေ့ပါ။ ဒေါင်းလုတ်ရယူရန် တို့နှိပ်ပါ။</string>
+    <string name="host_boot_installation_tips">Mi Mover မတွေ့ဘူးလား။ ဒေါင်းလုဒ်လုပ်ရန် တို့ပါ။</string>
     <string name="host_connect_timeout_tip">အချိန်ကြာကြာချိတ်မရပါ</string>
     <string name="host_dialog_install_button">အခြားစက်တွင် ထည့်ရန်</string>
     <string name="host_dialog_known_button">နာလည်ပါပြီ</string>
@@ -374,7 +376,7 @@ WeChat ကို ဖွင့်ပြီး Me > ဆက်တင် > အထွ
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">ခေတ္တစောင့်ပါ…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">အကြောင်းအရာများ တင်မရပါ</string>
     <string name="mms">MMS</string>
-    <string name="mms_contacts_calllog">မက်ဆေ့ချ်များ၊ အဆက်အသွယ်များနှင့် ခေါ်ဆိုမှုမှတ်တမ်း</string>
+    <string name="mms_contacts_calllog">မက်ဆေ့(ချ်)များ၊ အဆက်အသွယ်များနှင့် ဖုန်းခေါ်မှတ်တမ်း</string>
     <string name="monday">တနင်္လာ</string>
     <string name="monday_short">တနင်္လာ</string>
     <string name="monday_shortest">တနင်္လာ</string>
@@ -511,7 +513,7 @@ WeChat ကို ဖွင့်ပြီး Me > ဆက်တင် > အထွ
     <string name="perm_read_call_log">ခေါ်ဆိုမှု မှတ်တမ်းကို ရယူကြည့်ရှုမည်</string>
     <string name="perm_read_contacts">အဆက်အသွယ်များကို ရယူအသုံးပြုမည်</string>
     <string name="perm_read_phone_state">ဖုန်းအခြေအနေကို ရယူကြည့်ရှုမည်</string>
-    <string name="perm_read_sms">မက်ဆေ့ချ်များကို ရယူအသုံးပြုမည်</string>
+    <string name="perm_read_sms">မက်ဆေ့(ချ်)များကို ရယူအသုံးပြုမည်</string>
     <string name="perm_storage">အိုင်တမ်များကို ရယူ၍ သိုလှောင်ခန်းတွင် သိမ်းမည်</string>
     <string name="perm_write_settings">စနစ်ဆက်တင်များ ပြောင်းလဲမည်</string>
     <string name="permission_alert_message_usage_access">Mi Mover သည် အက်ပ်အသုံးပြုမှုဆိုင်ရာ ကိန်းဂဏန်းများကို လိုအပ်ပါသည်။</string>
@@ -574,7 +576,7 @@ WeChat ကို ဖွင့်ပြီး Me > ဆက်တင် > အထွ
     <string name="request_all_permission_content">"Mi ရွှေ့ပြောင်းစနစ်သည် အကြောင်းအရာများကို စက်အသစ်သို့ ရွှေ့နိုင်ရန် အောက်ပါတို့ကို ဝင်ခွင့်လိုသည် - 
 - တည်နေရာ
 - အဆက်အသွယ်များ
-- ခေါ်ဆိုမှုမှတ်တမ်း
+- ဖုန်းခေါ်မှတ်တမ်း
 - စာသားမက်ဆေ့(ချ်)များ
 - သိုလှောင်ခန်း"</string>
     <string name="request_all_permission_title">ခွင့်ပြုချက်များ လိုအပ်သည်</string>
@@ -644,7 +646,7 @@ WeChat ကို ဖွင့်ပြီး Me > ဆက်တင် > အထွ
     <string name="settings_phone">ဖုန်း ဆက်တင်များ</string>
     <string name="settings_photo">ပြခန်းဆက်တင်များ</string>
     <string name="settings_powerkeeper">ခြေလှမ်းရေတွက်စနစ်ဒေတာများ</string>
-    <string name="settings_sms">မက်ဆေ့ချ်ဆက်တင်များ</string>
+    <string name="settings_sms">မက်ဆေ့(ချ်)ဆက်တင်များ</string>
     <string name="settings_system">စနစ်ဆက်တင်များ</string>
     <string name="settings_wifi">Wi-Fi ဆက်တင်များ</string>
     <string name="size_byte">B</string>

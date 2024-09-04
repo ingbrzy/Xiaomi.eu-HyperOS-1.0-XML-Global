@@ -77,6 +77,7 @@
     <string name="cancel">ยกเลิก </string>
     <string name="cancel_moving_dialog_message">หยุดการนำเข้าตอนนี้?</string>
     <string name="cancel_moving_dialog_title">หยุดการนำเข้า</string>
+    <string name="cancel_tranfer">ยกเลิก </string>
     <string name="cannot_use_mi_huanji_button">รับทราบ</string>
     <string name="cannot_use_mi_huanji_summary">ดูเหมือนว่า MIUI กำลังสำรองรายการอยู่ในขณะนี้ หยุดการสำรองข้อมูลอย่างต่อเนื่องหรือรีบูตอุปกรณ์ของคุณเพื่ออนุญาตให้ Mi Mover เริ่มการถ่ายโอน</string>
     <string name="cannot_use_mi_huanji_title">ไม่สามารถโอนได้ในขณะนี้</string>
@@ -269,6 +270,7 @@
     <string name="guest_unfinished_task_alert_message">ดูเหมือนว่าคุณมีงานถ่ายโอนที่ยังไม่เสร็จ ดำเนินการโอนต่อไหม?</string>
     <string name="guest_unfinished_task_alert_title">งานที่ยังไม่เสร็จ</string>
     <string name="hide_password_description">ซ่อนรหัสผ่าน</string>
+    <string name="high_temp_summary">อุปกรณ์ของคุณอาจร้อนขึ้นขณะถ่ายโอนข้อมูลจำนวนมาก นี่เป็นเรื่องปกติ และอุปกรณ์ของคุณจะเย็นลงหลังจากการถ่ายโอนเสร็จสิ้น</string>
     <string name="host_boot_installation_bottom_tips">ไม่พบ Mi Mover? แตะเพื่อดาวน์โหลด</string>
     <string name="host_boot_installation_button">ถัดไป</string>
     <string name="host_boot_installation_dialog_message">Mi Mover เวอร์ชั่นบนอุปกรณ์เก่าของคุณไม่สามารถใช้งานร่วมกับอุปกรณ์ที่ติดตั้งที่นี่ได้ โปรดอัปเดต Mi Mover บนอุปกรณ์เก่าของคุณ</string>

@@ -77,6 +77,7 @@
     <string name="cancel">Abbrechen</string>
     <string name="cancel_moving_dialog_message">Import jetzt anhalten?</string>
     <string name="cancel_moving_dialog_title">Import anhalten</string>
+    <string name="cancel_tranfer">Abbrechen</string>
     <string name="cannot_use_mi_huanji_button">Verstanden</string>
     <string name="cannot_use_mi_huanji_summary">MIUI scheint jetzt Elemente zu sichern. Stoppe die laufenden Sicherungen oder starte dein Gerät neu, um Mi Mover zu ermöglichen, die Übertragung zu beginnen.</string>
     <string name="cannot_use_mi_huanji_title">Jetzt übertragen nicht möglich</string>
@@ -269,6 +270,7 @@ Zum Ausschalten Visit https://appleid.apple.com/#!&amp;page=signin besuchen"</st
     <string name="guest_unfinished_task_alert_message">Sieht so aus, als hättest du noch unerledigte Aufgaben zu übertragen. Mit der Übertragung fortfahren?</string>
     <string name="guest_unfinished_task_alert_title">Unerledigte Aufgaben</string>
     <string name="hide_password_description">Passwort ausblenden</string>
+    <string name="high_temp_summary">Dein Gerät kann sich während der Übertragung großer Datenmengen erhitzen. Das ist normal und dein Gerät wird sich nach Abschluss der Übertragung abkühlen.</string>
     <string name="host_boot_installation_bottom_tips">Du kannst Mi Mover nicht finden? Hier antippen zum Herunterladen.</string>
     <string name="host_boot_installation_button">Weiter</string>
     <string name="host_boot_installation_dialog_message">Die Version von Mi Mover auf deinem alten Gerät ist nicht kompatibel mit der hier installierten. Aktualisiere Mi Mover auf deinem alten Gerät.</string>

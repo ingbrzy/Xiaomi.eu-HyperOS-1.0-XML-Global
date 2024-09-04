@@ -220,6 +220,12 @@ Monety nie podlegają zwrotowi"</item>
         <item quantity="few">%d prace</item>
         <item quantity="many">%d prac</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">Żądanie zostanie przetworzone za ok. %1$d sekundy.</item>
+        <item quantity="one">Żądanie zostanie przetworzone za ok. %1$d sekundę.</item>
+        <item quantity="few">Żądanie zostanie przetworzone za ok. %1$d sekundy.</item>
+        <item quantity="many">Żądanie zostanie przetworzone za ok. %1$d sekund.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"Pomyślnie zwrócono %d zamówień. "</item>
         <item quantity="one">"Pomyślnie zwrócono %d zamówienie. "</item>

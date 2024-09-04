@@ -590,6 +590,7 @@
     <string name="apps_list_header_title_sms_access">จำกัดการเข้าถึงรหัสยืนยัน</string>
     <string name="ask_create_shortcut">สร้างปุ่มลัดหน้าจอหลักหรือไม่?</string>
     <string name="audio_optimization_summary">ปรับปรุงเสียงและลดเสียงรบกวนรอบในการสนทนา</string>
+    <string name="audio_optimization_summary_new">ปรับคุณภาพเสียงของหูฟังให้เหมาะสมขณะเล่นเกมและลดเสียงรบกวนระหว่างการโทร</string>
     <string name="audio_optimization_title">ปรับปรุงระบบเสียง</string>
     <string name="auto_atsk_condition_battery_level_text_down">เมื่อแบตเตอรี่อยู่ในระดับ %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">เมื่อชาร์จแบตเตอรี่ถึงระดับ %s</string>
@@ -1130,6 +1131,7 @@
     <string name="continue_set">ดำเนินการต่อ</string>
     <string name="convenient_mode">ปลดล็อกแอปทั้งหมดในครั้งเดียว</string>
     <string name="convenient_summary">ป้อนรหัสผ่านเพื่อปลดล็อกแอปทั้งหมด</string>
+    <string name="conversation_phone_title">กล่องเครื่องมือโทร</string>
     <string name="conversation_settings_top">"·เลื่อนแถบเครื่องมือการประชุมออกระหว่างการโทรด้วยเสียงและวิดีโอแบบเต็มหน้าจอเพื่อเข้าถึงคุณลักษณะ
 ·ประเภทและจำนวนของคุณลักษณะขึ้นอยู่กับรุ่นของอุปกรณ์"</string>
     <string name="conversation_sider_tips">ใช้เครื่องมือการประชุมใหม่เพื่อประสบการณ์การโทรที่ดีที่สุด</string>
@@ -1144,9 +1146,13 @@
     <string name="create_gamebooster_destop">สร้างปุ่มลัดหน้าจอหลักสำเร็จ</string>
     <string name="create_shortcut">สร้างปุ่มลัดหน้าจอหลักสำหรับ Game Turbo</string>
     <string name="cs_color_sense">อุณหภูมิสี</string>
+    <string name="cs_conversation_record_using">การบันทึกเสียง</string>
     <string name="cs_func_toast_headset">ตัดการเชื่อมต่อชุดหูฟังของคุณเพื่อให้สามารถใช้คุณสมบัตินี้ได้</string>
     <string name="cs_func_toast_light">สลับไปที่กล้องด้านหน้าเพื่อให้สามารถใช้คุณสมบัตินี้ได้</string>
     <string name="cs_func_toast_pickup">สลับเป็นวิดีโอคอลเพื่อให้สามารถใช้คุณสมบัตินี้ได้</string>
+    <string name="cs_func_unavailable_tips">ใช้คุณลักษณะนี้ในระหว่างการโทรได้</string>
+    <string name="cs_light_enhance_physical_options">อุณหภูมิสี</string>
+    <string name="cs_light_enhance_physical_title">ความสว่าง</string>
     <string name="cs_pickup_denoise_desc">ลดเสียงรบกวนของเสียงที่เข้ามาในขณะที่ใช้ลำโพงหรือหูฟัง</string>
     <string name="cs_pickup_denoise_title">ลดเสียงรบกวน</string>
     <string name="cs_pickup_multi_desc">การรับเสียง %d องศา</string>
@@ -1160,11 +1166,19 @@
     <string name="cs_pickup_vioce_print_unsupport_tips">บันทึกเสียงพิมพ์ก่อนเลือก \"ผู้เข้าร่วมคนเดียว\"</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">ตัดการเชื่อมต่ออุปกรณ์ภายนอกแล้วลองอีกครั้ง</string>
     <string name="cs_pickup_voice_print_desc">รับเสียงจากบุคคลเดียวเท่านั้น</string>
+    <string name="cs_privacy_camera_global_settings_title">ความเป็นส่วนตัวในการโทร</string>
     <string name="cs_screen_translation_title">การแปลภาษาจากหน้าจอ</string>
+    <string name="cs_simultaneous_interpretation_title">ตีความ</string>
     <string name="cs_title_pickup">ลดเสียงรบกวน</string>
     <string name="cs_title_smart_subtitle">การถอดคำบรรยาย</string>
     <string name="cs_title_ultraclear">โหมด Ultra HD</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">ลองใช้การตีความพร้อมกันและเครื่องมือการประชุมทางโทรศัพท์อื่นๆ ในกล่องเครื่องมือการโทรใหม่</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">ลองใช้คุณสมบัติการประชุมทางโทรศัพท์ที่หลากหลายในกล่องเครื่องมือการโทรใหม่</string>
+    <string name="cs_tool_box_phone_guide_case_1">ลองใช้การตีความพร้อมกันและคุณสมบัติอื่นๆ ในกล่องเครื่องมือการโทรใหม่</string>
+    <string name="cs_tool_box_phone_guide_case_2">ลองใช้คุณสมบัติต่างๆ ในกล่องเครื่องมือการโทรใหม่</string>
     <string name="cs_voice_print">บันทึกพิมพ์เสียง</string>
+    <string name="cs_vt_camera_toast_case1">เปิดกล้องในแอปปัจจุบัน</string>
+    <string name="cs_vt_camera_toast_case2">ไม่มีอุปกรณ์ที่รองรับในบริเวณใกล้เคียง</string>
     <string name="cta_agree_desc">เพื่อให้สามารถใช้บริการของเราอนุญาตให้แอปนี้เชื่อมต่อกับอินเทอร์เน็ตและให้อนุญาตตามที่ระบุข้างต้น</string>
     <string name="cta_close_dialog_cancel">ยกเลิก </string>
     <string name="cta_close_dialog_content">หากคุณจำกัดการเข้าถึงอินเทอร์เน็ตและข้อมูลตำแหน่งพิกัดของ ความปลอดภัย คุณจะไม่สามารถรับคำเตือนแผ่นดินไหว อัปเดตฐานข้อมูลไวรัสและข้อมูลรายการบล็อก อุปกรณ์ของคุณจะปลอดภัยน้อยลง ยืนยันจำกัด?</string>
@@ -1845,6 +1859,8 @@
     <string name="gb_audition_play_instruction">ใช้หูฟังเพื่อให้ได้เอฟเฟกต์ที่ดีที่สุด</string>
     <string name="gb_award_noti_message">เปิดการอัปเดตพื้นหลัง Game for Peace ใน Game Turbo เพื่อรับรางวัล</string>
     <string name="gb_award_noti_title">รางวัล Game for Peace อยู่ที่นี่แล้ว!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>ไม่สามารถเปลี่ยนเป็นโหมดสมดุลใน Game Turbo ได้เมื่อเปิดโหมดสุดยอดทั่วทั้งระบบ คุณสามารถเปลี่ยนการตั้งค่าแบตเตอรี่ได้ในความปลอดภัย&lt;br>&lt;a href=\"#\">ความปลอดภัยแบบเปิด&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>ไม่สามารถเปลี่ยนเป็นโหมดสมดุลใน Game Turbo ได้เมื่อเปิดโหมดสุดยอดทั่วทั้งระบบ คุณสามารถเปลี่ยนการตั้งค่าแบตเตอรี่ได้ในความปลอดภัย &lt;br>&lt;a href=\"#\">การรักษาความปลอดภัยแบบเปิด&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">สูง</string>
     <string name="gb_bar_low">ต่ำ</string>
     <string name="gb_bar_mid">กลาง</string>
@@ -2000,6 +2016,8 @@ Xiaomi Gaming Cooler"</string>
     <string name="gb_predownload_receive_tips">เปิดการอัปเดตพื้นหลังเพื่อรับรางวัล</string>
     <string name="gb_predownload_receiving">กำลังรับ…</string>
     <string name="gb_predownload_title">อัปเดตในพื้นหลัง</string>
+    <string name="gb_setting_dock_toast">คุณสมบัติผู้ช่วยกล้องหน้าพร้อมใช้งานแล้วในกล่องเครื่องมือการโทร</string>
+    <string name="gb_setting_dock_toast_2">คุณสมบัติผู้ช่วยกล้องหน้าพร้อมใช้งานแล้วในกล่องเครื่องมือการโทร</string>
     <string name="gb_shortcut_pref_title">ปุ่มลัดหน้าจอหลัก</string>
     <string name="gb_shoulder_guide_message1">เลื่อน [L] ไปยังตำแหน่งที่ใช้งานได้เพื่อใช้ผ่านปุ่ม Pop-Up</string>
     <string name="gb_shoulder_guide_message2">การกระทำ [1] เปิดใช้งานโดยการกดปุ่ม การกระทำ [2] เปิดใช้งานโดยการปล่อยปุ่ม</string>
@@ -2135,9 +2153,21 @@ Xiaomi Gaming Cooler"</string>
     <string name="gd_dock_shortcut_splitescreen">แบ่งหน้าจอ</string>
     <string name="gd_setting_conversation">เครื่องมือการประชุม</string>
     <string name="gd_setting_conversation_desc">มีคุณสมบัติที่หลากหลายสำหรับใช้ในการสนทนาทางเสียงและวิดีโอแบบเต็มหน้าจอ</string>
+    <string name="gd_setting_dock_activity_title">กล่องเครื่องมือด้านข้าง</string>
+    <string name="gd_setting_dock_call_summary">คุณสมบัติสำหรับการโทรด้วยเสียงและวิดีโอ (เช่น ไฟเสริม)</string>
+    <string name="gd_setting_dock_call_title">กล่องเครื่องมือโทร</string>
+    <string name="gd_setting_dock_game_summary">ปรับปรุงการแสดงผลและประสิทธิภาพในขณะที่เล่นเกม</string>
+    <string name="gd_setting_dock_game_summary_new">ปรับปรุงการแสดงผลและประสิทธิภาพในขณะที่เล่นเกม</string>
+    <string name="gd_setting_dock_summary">เปิดแอปอื่นๆ ในหน้าต่างลอยขณะใช้งานแอปแบบเต็มหน้าจอ</string>
+    <string name="gd_setting_dock_title">แถบด้านข้าง</string>
+    <string name="gd_setting_dock_video_summary">ใช้เอฟเฟกต์เช่น Dolby Atmos ในขณะที่ดูวิดีโอ</string>
+    <string name="gd_setting_dock_video_summary_new">ใช้เครื่องมือและเอฟเฟกต์ขณะดูวิดีโอ</string>
+    <string name="gd_setting_group_custom_conversation_apps">บันทึกการพิมพ์เสียงสำหรับการโทร</string>
     <string name="gd_setting_group_custom_gtb_apps">เกม</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">จัดการแอปเกม</string>
     <string name="gd_setting_group_custom_settings">ส่วนบุคคล</string>
     <string name="gd_setting_group_custom_vtb_apps">แอปวีดีโอ</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">จัดการแอปวิดีโอ</string>
     <string name="gd_setting_group_title_switch">ฉาก</string>
     <string name="gd_setting_gtb">แสดงขณะเล่นเกม</string>
     <string name="gd_setting_gtb_desc">คุณสมบัติพิเศษสำหรับการเล่นเกม</string>
@@ -2157,11 +2187,17 @@ Xiaomi Gaming Cooler"</string>
     <string name="get_phone_num_fail">หมายเลขโทรศัพท์ที่ไม่รู้จัก</string>
     <string name="get_sys_info">กำลังรับข้อมูล…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">กดตัวบ่งชี้ค้างไว้เพื่อย้ายหน้าต่างไปรอบๆ</string>
     <string name="global_dock_guide_desc_with_split_screen">"· แตะแอปบนแถบด้านข้างเพื่อเปิดในหน้าต่างลอย
 · ลากแอปไปที่กึ่งกลางของหน้าจอเพื่อเปิดในหน้าต่างลอยหรือไปทางด้านข้างเพื่อใช้หน้าจอแยก
 · กดตัวบ่งชี้ค้างไว้เพื่อเลื่อนหน้าต่างไปรอบๆ"</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"· แตะแอปบนแถบด้านข้างเพื่อเปิดในหน้าต่างลอย
+ ลากแอปไปที่กึ่งกลางของหน้าจอเพื่อเปิดในหน้าต่างลอยหรือไปทางด้านข้างเพื่อใช้หน้าจอแยก
+ กดตัวบ่งชี้ค้างไว้เพื่อเลื่อนหน้าต่างไปรอบๆ"</string>
     <string name="global_dock_guide_desc_without_split_screen">"· แตะแอปบนแถบด้านข้างเพื่อเปิดในหน้าต่างแบบลอย
 · กดตัวบ่งชี้ค้างไว้เพื่อเลื่อนหน้าต่างไปรอบๆ"</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"ปัดเพื่อเปิดแถบด้านข้างแล้วแตะแอปเพื่อเปิดในหน้าต่างลอย
+กดตัวบ่งชี้ค้างไว้เพื่อย้ายหน้าต่างไปรอบๆ"</string>
     <string name="global_satisfaction_notification_button">ให้คะแนน</string>
     <string name="global_satisfaction_notification_channel">แบบสำรวจความพึงพอใจของผู้ใช้</string>
     <string name="global_satisfaction_notification_subhead">เล่าประสบการณ์ของคุณให้ฟังหน่อย</string>
@@ -3182,6 +3218,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="pc_battery_history_total_consumption_title">การใช้พลังงานทั้งหมด</string>
     <string name="pc_battery_history_usetime_title">เปิดใช้งาน</string>
     <string name="pc_battery_low_health_reminder">ถึงเวลาเปลี่ยนแบตเตอรี่ของคุณแล้ว</string>
+    <string name="pc_battery_replacement_service_title">ลองใช้บริการเปลี่ยนแบตเตอรี่ของเราดู สินค้าอะไหล่แท้ %1$s พร้อมการรับประกัน %2$s วัน</string>
     <string name="pc_berserk_mode_dialog_title">เปิดโหมดสุดยอด</string>
     <string name="pc_berserk_mode_noti_summary">โหมดสุดยอดอาจเพิ่มการใช้พลังงานและนำไปสู่ปัญหาความร้อนสูงเกินไป</string>
     <string name="pc_berserk_mode_performance_title">โหมดสุดยอด</string>
@@ -3255,6 +3292,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="pc_fast_charge_switch_summary_new">เตือนให้เพิ่มความเร็วในการชาร์จเมื่อเชื่อมต่อเครื่องชาร์จที่ให้มาและแบตเตอรี่เหลือต่ำกว่าระดับที่ตั้งไว้</string>
     <string name="pc_fast_charge_switch_title">เพิ่มความเร็วในการชาร์จ</string>
     <string name="pc_fast_charge_switch_toast_message">การเปลี่ยนแปลงจะมีผลในครั้งต่อไปที่คุณชาร์จอุปกรณ์นี้</string>
+    <string name="pc_fast_charge_temp_remider">เปิดเพื่อควบคุมความเร็วในการชาร์จโดยอัตโนมัติ คุณสมบัตินี้ใช้งานได้กับเครื่องชาร์จที่ให้มาของ Xiaomi เท่านั้น อุปกรณ์ของคุณอาจร้อนขึ้นระหว่างการชาร์จ</string>
     <string name="pc_fast_charge_title">เพิ่มความเร็วในการชาร์จ</string>
     <string name="pc_going_to_exit_extreme_mode">ออกจากโหมดไฮเบอร์เนต</string>
     <string name="pc_going_to_exit_extreme_mode_summary">อุปกรณ์ของคุณกำลังชาร์จ โหมดไฮเบอร์เนตปิดอยู่</string>
@@ -3343,6 +3381,16 @@ Xiaomi Gaming Cooler"</string>
     <string name="pc_search_keywords_capacity">ความจุแบตเตอรี่</string>
     <string name="pc_search_keywords_property">ประสิทธิภาพ</string>
     <string name="pc_settings_title">แบตเตอรี่</string>
+    <string name="pc_smart_charge_button_summary">เพื่อยืดอายุการใช้งานแบตเตอรี่ ระบบจะเรียนรู้วิธีชาร์จอุปกรณ์ของคุณและหยุดชาร์จเมื่อระดับแบตเตอรี่ถึง %1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">อุปกรณ์ของคุณร้อนขึ้น การชาร์จจะหยุดลงเมื่อระดับแบตเตอรี่ถึง %1$s</string>
+    <string name="pc_smart_charge_notify_summary_navagition">กำลังนำทาง… การชาร์จจะหยุดลงเมื่อระดับแบตเตอรี่ถึง %1$s</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">การชาร์จจะหยุดที่ %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">เพื่อยืดอายุการใช้งานแบตเตอรี่ แบตเตอรี่ของอุปกรณ์นี้จะไม่เกินระดับปัจจุบันขณะเชื่อมต่อกับรถยนต์</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">ไม่ต้องแสดงอีก</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">การป้องกันแบตเตอรี่</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">เพื่อยืดอายุการใช้งานแบตเตอรี่ แบตเตอรี่ของอุปกรณ์นี้จะไม่เกินระดับปัจจุบันขณะเชื่อมต่อกับรถยนต์</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">การป้องกันแบตเตอรี่</string>
+    <string name="pc_smart_charge_title">การชาร์จอัจฉริยะ</string>
     <string name="pc_smart_discharge_checkbox_summary">เมื่อใช้คุณสมบัติการนำทาง การชาร์จจะหยุดโดยอัตโนมัติตามเปอร์เซ็นต์ที่กำหนด โหมดประหยัดแบตเตอรี่จะถูกปิด</string>
     <string name="pc_smart_discharge_checkbox_title">ตัดการเชื่อมต่ออัตโนมัติการชาร์จ</string>
     <string name="pc_smart_discharge_drop_down_title">การตั้งค่าตัดการเชื่อมต่ออัตโนมัติ</string>
@@ -3355,6 +3403,8 @@ Xiaomi Gaming Cooler"</string>
     <string name="pc_statistics_battery_use_title">การใช้แบตเตอรี่</string>
     <string name="pc_suggest_open_fast_charge">เปิดใช้งานชาร์จด่วน %dW</string>
     <string name="pc_temperature_too_high">อุปกรณ์ร้อนเกินไป</string>
+    <string name="pc_this_time_charge_full">ชาร์จให้เต็มในครั้งนี้</string>
+    <string name="pc_this_time_charge_full_work">แบตชาร์จใกล้เต็มแล้ว</string>
     <string name="pc_timely_charging_summary">แบตเตอรี่ต่ำกว่า %1$s หากอุปกรณ์ร้อนเกินไปในขณะที่แบตเตอรี่เหลือน้อย อาจทำให้แบตเตอรี่เสียหายได้</string>
     <string name="pc_timely_charging_title">กรุณาชาร์ทแบตอุปกรณ์ของคุณ</string>
     <string name="pc_to_phone_install">บล็อกการติตตั้ง %s ผ่าน USB แล้ว</string>
@@ -4375,6 +4425,13 @@ Xiaomi Gaming Cooler"</string>
     <string name="sd_mount">ใส่ SD การ์ด</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">แอป</string>
+    <string name="search_keyword_applybar">ชุดไอคอนแอป</string>
+    <string name="search_keyword_call">โทร</string>
+    <string name="search_keyword_sidebar">แถบด้านข้าง</string>
+    <string name="search_keyword_tool">เครื่องมือ</string>
+    <string name="search_keyword_tools">กล่องเครื่องมือ</string>
+    <string name="search_keyword_voice">เสียงพูด</string>
     <string name="search_menu_title">ค้นหา</string>
     <string name="search_result_text">ไม่พบแอปไดๆ</string>
     <string name="section_clear_acc_item_title">กำจัดไป %s หากพื้นที่จัดเก็บยังไม่เพียงพอ ให้ลองใช้ตัวทำความสะอาด</string>
@@ -5164,6 +5221,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="title_cloud_space_almost_full">พื้นที่ในคลาวด์ใกล้เต็ม อาจซิงค์ข้อมูลได้ไม่ครบ</string>
     <string name="title_cloud_space_full">Xiaomi คลาวด์พื้นที่เต็ม</string>
     <string name="title_cmcc_app_check">การตรวจสอบยังไม่เสร็จสิ้น</string>
+    <string name="title_condition_meeting">การประชุม</string>
     <string name="title_consume_power_rank">การใช้พลังงานของแอป</string>
     <string name="title_dark_mode">บางรายการแสดงไม่ถูกต้อง</string>
     <string name="title_data_flow">ควบคุมข้อมูลมือถือ</string>
@@ -5224,6 +5282,8 @@ Xiaomi Gaming Cooler"</string>
     <string name="toast_cleaner_cloudscan">ตัวทำความสะอาดจะใช้ฐานข้อมูลออนไลน์</string>
     <string name="toast_dark_mode_fixed">แก้ไขสำเร็จแล้ว ออกจากหน้านี้เพื่อใช้การเปลี่ยนแปลง</string>
     <string name="toast_flow_notification">เปิดการแจ้งเตือนการใช้ข้อมูล</string>
+    <string name="toast_gamembox_unenable_pad">เปิด Game Turbo ใน ความปลอดภัย ก่อน</string>
+    <string name="toast_gamembox_unenable_phone">เปิด Game Turbo ใน ความปลอดภัย ก่อน</string>
     <string name="toast_garbage_lib">ตัวทำความสะอาดได้เปิดใช้การอัปเดตอัตโนมัติแล้ว</string>
     <string name="toast_keyword_blank">จำเป็นต้องใส่คีย์เวิร์ด</string>
     <string name="toast_keyword_exist">เพิ่มคีย์เวิร์ดแล้ว</string>

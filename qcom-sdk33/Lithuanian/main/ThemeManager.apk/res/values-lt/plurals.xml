@@ -220,6 +220,12 @@ Monetos negrąžinamos"</item>
         <item quantity="few">%d darbai</item>
         <item quantity="many">%d darbai</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">Jūsų užklausa bus apdorota po %1$d sekundžių.</item>
+        <item quantity="one">Jūsų užklausa bus apdorota po %1$d sekundės.</item>
+        <item quantity="few">Jūsų užklausa bus apdorota po %1$d sekundžių.</item>
+        <item quantity="many">Jūsų užklausa bus apdorota po %1$d sekundžių.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"%d užsakymų sėkmingai grąžinti. "</item>
         <item quantity="one">"%d užsakymas sėkmingai grąžintas. "</item>

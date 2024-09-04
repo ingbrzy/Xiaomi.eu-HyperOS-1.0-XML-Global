@@ -563,6 +563,7 @@
     <string name="apps_list_header_title_sms_access">הגבל גישה לקודי אימות</string>
     <string name="ask_create_shortcut">"האם ליצור קיצור דרך ב'מסך הבית'?"</string>
     <string name="audio_optimization_summary">שפר את השמע וצמצם את רעשי הרקע בזמן שיחה</string>
+    <string name="audio_optimization_summary_new">למטב את איכות השמע של האוזניות במשחקים ולהפחית את הרעשים בשיחות</string>
     <string name="audio_optimization_title">שיפור השמע</string>
     <string name="auto_atsk_condition_battery_level_text_down">כאשר רמת טעינת הסוללה יורדת ל- %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">כאשר רמת טעינת הסוללה מגיעה ל- %s</string>
@@ -1081,6 +1082,7 @@
     <string name="continue_set">המשך</string>
     <string name="convenient_mode">בטל את נעילת כל היישומים בפעם אחת</string>
     <string name="convenient_summary">הזן סיסמה פעם אחת לפתיחת כל היישומים</string>
+    <string name="conversation_phone_title">ארגז כלים לשיחות</string>
     <string name="conversation_settings_top">"·החלק החוצה את סרגל כלי הועידה במהלך שיחות שמע ווידאו במסך מלא כדי לגשת לתכונות שלו.
 ·סוג ומספר התכונות תלוי בדגם המכשיר."</string>
     <string name="conversation_sider_tips">השתמש בכלי הוועידה החדשים כדי ליהנות מחוויית השיחה הטובה ביותר</string>
@@ -1094,9 +1096,13 @@
     <string name="create_gamebooster_destop">קיצור הדרך במסך הבית נוצר בהצלחה</string>
     <string name="create_shortcut">צור קיצור דרך למאיץ המשחקים במסך הבית</string>
     <string name="cs_color_sense">טמפרטורת צבע</string>
+    <string name="cs_conversation_record_using">מקליט</string>
     <string name="cs_func_toast_headset">נתק את האוזניות כדי שתוכל להשתמש בתכונה זו</string>
     <string name="cs_func_toast_light">עבור למצלמה הקדמית כדי שתוכל להשתמש בתכונה זו</string>
     <string name="cs_func_toast_pickup">עבור לשיחת וידאו כדי שתוכל להשתמש בתכונה זו</string>
+    <string name="cs_func_unavailable_tips">להשתמש במאפיין זה בזמן שיחות</string>
+    <string name="cs_light_enhance_physical_options">טמפרטורת צבע</string>
+    <string name="cs_light_enhance_physical_title">בהירות</string>
     <string name="cs_pickup_denoise_desc">להפחית רעשים בשמע נכנס בזמן שימוש ברמקולים או באוזניות</string>
     <string name="cs_pickup_denoise_title">הפחתת רעשים</string>
     <string name="cs_pickup_multi_desc">איסוף שמע ב-%d מעלות</string>
@@ -1110,11 +1116,19 @@
     <string name="cs_pickup_vioce_print_unsupport_tips">יש להקליט טביעת קול לפני בחירת \"משתתף יחיד\"</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">יש לנתק מכשירים חיצוניים ולנסות שוב</string>
     <string name="cs_pickup_voice_print_desc">להקליט קול מאדם אחד בלבד</string>
+    <string name="cs_privacy_camera_global_settings_title">פרטיות בשיחות</string>
     <string name="cs_screen_translation_title">תרגום מסך</string>
+    <string name="cs_simultaneous_interpretation_title">לתרגם</string>
     <string name="cs_title_pickup">הפחתת רעשים</string>
     <string name="cs_title_smart_subtitle">תמלול כתוביות</string>
     <string name="cs_title_ultraclear">מצב Ultra HD</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">נסו תרגום סימולטני וכלים אחרים לשיחות ועידה בארגז הכלים החדש לשיחות</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">נסו מגוון מאפיינים לשיחות ועידה בארגז הכלים החדש לשיחות</string>
+    <string name="cs_tool_box_phone_guide_case_1">נסו תרגום סימולטני ומאפיינים נוספים בארגז הכלים החדש לשיחות</string>
+    <string name="cs_tool_box_phone_guide_case_2">נסו מגוון מאפיינים חדשים בארגז הכלים החדש לשיחות</string>
     <string name="cs_voice_print">הקלטת טביעת קול</string>
+    <string name="cs_vt_camera_toast_case1">לפתוח את המצלמה ביישום הנוכחי</string>
+    <string name="cs_vt_camera_toast_case2">אין מכשירים תואמים בסביבה</string>
     <string name="cta_agree_desc">כדי שתוכל להשתמש בשירותים שלנו, אפשר לאפליקציה זו להתחבר לאינטרנט והענק את ההרשאות המפורטות לעיל.</string>
     <string name="cta_close_dialog_cancel">ביטול</string>
     <string name="cta_close_dialog_content">אם תגביל את הגישה של אבטחה לאינטרנט ולמידע המיקום שלך, לא תוכל לקבל אזהרות על רעידות אדמה, עדכון הגדרות וירוסים ומידע על רשימת החסומים. מכשירך יהיה פחות מאובטח. להגביל בכל זאת?</string>
@@ -1740,6 +1754,8 @@
     <string name="gb_audition_play_instruction">לאפקט מרבי, השתמש באוזניות</string>
     <string name="gb_award_noti_message">הפעל את עדכוני הרקע של Game for Peace במאיץ המשחקים כדי לקבל פרסים</string>
     <string name="gb_award_noti_title">פרסי Game for Peace כבר כאן!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">"&lt;Data>לא ניתן לעבור למצב מאוזן במאיץ המשחקים כשהמצב האולטימטיבי מופעל עבור כל המערכת. ניתן לשנות את הגדרות הסוללה תחת 'אבטחה'.&lt;br>&lt;a href=\"#\">פתיחת 'אבטחה'&lt;/a>&lt;/Data>"</string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">"&lt;Data>לא ניתן לעבור למצב מאוזן במאיץ המשחקים כשהמצב האולטימטיבי מופעל עבור כל המערכת. ניתן לשנות את הגדרות הסוללה תחת 'אבטחה'.&lt;br>&lt;a href=\"#\">פתיחת 'אבטחה'&lt;/a>&lt;/Data>"</string>
     <string name="gb_bar_high">גבוהה</string>
     <string name="gb_bar_low">נמוכה</string>
     <string name="gb_bar_mid">בינונית</string>
@@ -1895,6 +1911,8 @@ Record sequences and use them anytime!"</string>
     <string name="gb_predownload_receive_tips">הפעלת עדכוני רקע כדי לקבל פרסים</string>
     <string name="gb_predownload_receiving">מקבל…</string>
     <string name="gb_predownload_title">עדכונים ברקע</string>
+    <string name="gb_setting_dock_toast">כעת מאפייני עוזר מצלמה קדמית זמינים בארגז הכלים לשיחות</string>
+    <string name="gb_setting_dock_toast_2">כעת מאפייני עוזר מצלמה קדמית זמינים בארגז הכלים לשיחות</string>
     <string name="gb_shortcut_pref_title">"קיצור דרך ב'מסך הבית'"</string>
     <string name="gb_shoulder_guide_message1">הזז את [L] לכל מיקום פונקציונלי והשתמש בו באמצעות מפעיל הפופ-אפ</string>
     <string name="gb_shoulder_guide_message2">פעולה [1] מופעלת ע\"י לחיצה על הכפתור. פעולה [2] מופעלת ע\"י שחרור הכפתור.</string>
@@ -2030,9 +2048,21 @@ Record sequences and use them anytime!"</string>
     <string name="gd_dock_shortcut_splitescreen">מסך מפוצל</string>
     <string name="gd_setting_conversation">כלי ועידה</string>
     <string name="gd_setting_conversation_desc">מספקים מגוון תכונות שימושיות לשיחות שמע ווידאו במסך מלא</string>
+    <string name="gd_setting_dock_activity_title">ארגז כלים צדדי</string>
+    <string name="gd_setting_dock_call_summary">מאפיינים עבור שיחות קוליות ושיחות וידאו (למשל, מילוי אור)</string>
+    <string name="gd_setting_dock_call_title">ארגז כלים לשיחות</string>
+    <string name="gd_setting_dock_game_summary">לשפר את התצוגה והביצועים במשחקים</string>
+    <string name="gd_setting_dock_game_summary_new">לשפר את התצוגה והביצועים במשחקים</string>
+    <string name="gd_setting_dock_summary">לפתוח יישומים אחרים בחלונות צפים בזמן שימוש ביישום במסך מלא</string>
+    <string name="gd_setting_dock_title">סרגל צד</string>
+    <string name="gd_setting_dock_video_summary">להשתמש באפקטים כמו Dolby Atmos בזמן צפייה בסרטונים</string>
+    <string name="gd_setting_dock_video_summary_new">להשתמש בכלים ובאפקטים בזמן צפייה בסרטונים</string>
+    <string name="gd_setting_group_custom_conversation_apps">הקלטת טביעת קול לשיחות</string>
     <string name="gd_setting_group_custom_gtb_apps">משחקים</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">ניהול יישומי משחק</string>
     <string name="gd_setting_group_custom_settings">התאמה אישית</string>
     <string name="gd_setting_group_custom_vtb_apps">יישומי וידאו</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">ניהול יישומי וידאו</string>
     <string name="gd_setting_group_title_switch">סצנות</string>
     <string name="gd_setting_gtb">הצג בזמן משחק במשחקים שונים</string>
     <string name="gd_setting_gtb_desc">מאפייני גיימינג מיוחדים</string>
@@ -2052,11 +2082,17 @@ Record sequences and use them anytime!"</string>
     <string name="get_phone_num_fail">מספר טלפון לא ידוע</string>
     <string name="get_sys_info">מקבל פרטים…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">יש ללחוץ לחיצה ממושכת על הסמן כדי להזיז את החלון</string>
     <string name="global_dock_guide_desc_with_split_screen">"· יש להקיש על יישום בסרגל הצד כדי לפתוח אותו בחלון צף.
 · יש לגרור יישום למרכז המסך כדי לפתוח אותן בחלון צף, או לגרור אותו לצד כדי להשתמש במסך מפוצל.
 · יש ללחוץ לחיצה ממושכת על המחוון כדי להזיז את החלון."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"יש להקיש על יישום בסרגל הצד כדי לפתוח אותו בחלון צף.
+ יש לגרור יישום למרכז המסך כדי לפתוח אותן בחלון צף, או לגרור אותו לצד כדי להשתמש במסך מפוצל.
+ יש ללחוץ לחיצה ממושכת על הסמן כדי להזיז את החלון."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· יש להקיש על יישום בסרגל הצד כדי לפתוח אותו בחלון צף.
 · יש ללחוץ לחיצה ממושכת על המחוון כדי להזיז את החלון."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"יש להחליק לפתיחת סרגל הצד ולהקיש על יישום כדי לפתוח אותו בחלון צף.
+יש ללחוץ לחיצה ממושכת על הסמן כדי להזיז את החלון."</string>
     <string name="global_satisfaction_notification_button">דרג</string>
     <string name="global_satisfaction_notification_channel">סקר שביעות רצון המשתמשים</string>
     <string name="global_satisfaction_notification_subhead">ספר לנו על החוויה שלך</string>
@@ -3029,6 +3065,7 @@ Record sequences and use them anytime!"</string>
     <string name="pc_battery_history_total_consumption_title">צריכת החשמל הכוללת</string>
     <string name="pc_battery_history_usetime_title">פעיל</string>
     <string name="pc_battery_low_health_reminder">הגיע הזמן להחליף את הסוללה</string>
+    <string name="pc_battery_replacement_service_title">נסו את שירות החלפת הסוללה שלנו. %1$s החומרה המקורית עם אחריות ל-%2$s.</string>
     <string name="pc_berserk_mode_dialog_title">הפעל את מצב אולטימטיבי</string>
     <string name="pc_berserk_mode_noti_summary">מצב אולטימטיבי עשוי להגביר את צריכת החשמל ולגרום להתחממות יתר</string>
     <string name="pc_berserk_mode_performance_title">המצב האולטימטיבי</string>
@@ -3102,6 +3139,7 @@ Record sequences and use them anytime!"</string>
     <string name="pc_fast_charge_switch_summary_new">הזכר לי להגביר את מהירות הטעינה כאשר המטען שסופק מחובר ורמת הטעינה של הסוללה יורדת מתחת לרמה שנקבעה</string>
     <string name="pc_fast_charge_switch_title">האצת מהירות טעינה</string>
     <string name="pc_fast_charge_switch_toast_message">השינויים יחולו בפעם הבאה שתטען את המכשיר</string>
+    <string name="pc_fast_charge_temp_remider">הפעילו לוויסות אוטומטי של מהירות הטעינה. מאפיין זה עובד רק עם מטענים שסופקו על-ידי Xiaomi. המכשיר יכול להתחמם בזמן הטעינה.</string>
     <string name="pc_fast_charge_title">האצת מהירות טעינה</string>
     <string name="pc_going_to_exit_extreme_mode">יוצא ממצב שינה עמוקה</string>
     <string name="pc_going_to_exit_extreme_mode_summary">המכשיר בטעינה. מצב שינה עמוקה כבוי.</string>
@@ -3190,6 +3228,16 @@ Record sequences and use them anytime!"</string>
     <string name="pc_search_keywords_capacity">קיבולת הסוללה</string>
     <string name="pc_search_keywords_property">ביצועים</string>
     <string name="pc_settings_title">סוללה</string>
+    <string name="pc_smart_charge_button_summary">כדי להאריך את משך חיי הסוללה, המערכת תלמד איך אתם טוענים את המכשיר ותפסיק את הטעינה כאשר רמת הסוללה מגיעה ל-%1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">המכשיר שלך התחמם. הטעינה תופסק ברגע שרמת הסוללה תגיע ל-%1$s</string>
+    <string name="pc_smart_charge_notify_summary_navagition">מנווט… הטעינה תופסק ברגע שרמת הסוללה תגיע ל-%1$s</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">הטעינה תופסק ב-%s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">כדי להאריך את משך חיי הסוללה, רמת הסוללה של המכשיר לא תעלה על רמתה הנוכחית בזמן שהמכשיר מחובר למכונית.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">לא להציג שוב</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">הגנת הסוללה</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">כדי להאריך את משך חיי הסוללה, רמת הסוללה של המכשיר לא תעלה על רמתה הנוכחית בזמן שהמכשיר מחובר למכונית</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">הגנת הסוללה</string>
+    <string name="pc_smart_charge_title">טעינה חכמה</string>
     <string name="pc_smart_discharge_checkbox_summary">כשמשתמשים במאפייני הניווט, טעינה תופסק באופן אוטומטי לאחר הגעה לאחוז שהוגדר. מצב חסכון בסוללה יושבת.</string>
     <string name="pc_smart_discharge_checkbox_title">ניתוק טעינה אוטומטי</string>
     <string name="pc_smart_discharge_drop_down_title">הגדרות ניתוק אוטומטי</string>
@@ -3202,6 +3250,8 @@ Record sequences and use them anytime!"</string>
     <string name="pc_statistics_battery_use_title">שימוש בסוללה</string>
     <string name="pc_suggest_open_fast_charge">הפעל טעינה מהירה ב-%dW</string>
     <string name="pc_temperature_too_high">המכשיר התחמם יתר על המידה</string>
+    <string name="pc_this_time_charge_full">לבצע טעינה מלאה הפעם</string>
+    <string name="pc_this_time_charge_full_work">הסוללה נטענה כמעט במלואה</string>
     <string name="pc_timely_charging_summary">אחוז הסוללה הוא מתחת ל-%1$s. התחממות יתר של המכשיר כשהסוללה חלשה עלולה לפגוע בסוללה.</string>
     <string name="pc_timely_charging_title">טען את מכשירך</string>
     <string name="pc_to_phone_install">התקנת %s באמצעות USB נחסמה</string>
@@ -4221,6 +4271,13 @@ Record sequences and use them anytime!"</string>
     <string name="sd_mount">טען כרטיס SD</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">יישום</string>
+    <string name="search_keyword_applybar">מעגן יישומים</string>
+    <string name="search_keyword_call">שיחה</string>
+    <string name="search_keyword_sidebar">סרגל צד</string>
+    <string name="search_keyword_tool">כלים</string>
+    <string name="search_keyword_tools">ארגז כלים</string>
+    <string name="search_keyword_voice">קול</string>
     <string name="search_result_text">לא נמצאו יישומים</string>
     <string name="section_clear_acc_item_title">"%s. במידה ועדיין אין מספיק מקום אחסון, נסה להשתמש ב'מנקה'."</string>
     <string name="section_security_defend_item_title">"הגן על הנתונים שלך באמצעות 'נועל היישומים'"</string>
@@ -5007,6 +5064,7 @@ Record sequences and use them anytime!"</string>
     <string name="title_cloud_space_almost_full">אחסון הענן כמעט מלא, יתכן כי לא יתבצע סנכרון לפריטים מסויימים</string>
     <string name="title_cloud_space_full">הענן מלא</string>
     <string name="title_cmcc_app_check">האימות לא הושלם</string>
+    <string name="title_condition_meeting">פגישה</string>
     <string name="title_consume_power_rank">צריכת אנרגיה של יישומים</string>
     <string name="title_dark_mode">מספר פריטים לא מוצגים כראוי</string>
     <string name="title_data_flow">שלוט על השימוש בנתונים סלולריים</string>
@@ -5067,6 +5125,8 @@ Record sequences and use them anytime!"</string>
     <string name="toast_cleaner_cloudscan">"ה'מנקה' יעשה שימוש בהגדרות מקוונות"</string>
     <string name="toast_dark_mode_fixed">תוקן בהצלחה. צא מדף זה על מנת להחיל את השינויים.</string>
     <string name="toast_flow_notification">התראות אודות שימוש בנתונים יתקבלו</string>
+    <string name="toast_gamembox_unenable_pad">"קודם יש להפעיל את מאיץ המשחקים ב'האבטחה'"</string>
+    <string name="toast_gamembox_unenable_phone">"קודם יש להפעיל את מאיץ המשחקים ב'האבטחה'"</string>
     <string name="toast_garbage_lib">"'מנקה' יקבל עדכונים באופן אוטומטי"</string>
     <string name="toast_keyword_blank">עליך להזין מילת מפתח</string>
     <string name="toast_keyword_exist">מילת מפתח נוספה</string>

@@ -106,6 +106,10 @@
     <string name="author_new_theme">Нове</string>
     <string name="author_popularity">Перегляди</string>
     <string name="author_unfollow_succeed">Підписка скасована</string>
+    <string name="automatic_renewal_monthly">Автоматично продовжується за %s/місяць</string>
+    <string name="automatic_renewal_weekly">Автоматично продовжується за %s/тиждень</string>
+    <string name="automatic_renewal_yearly">Автоматично продовжується за %s/рік</string>
+    <string name="automatically_push_content_to_lock_screen">Новий контент буде відображатися на Екрані блокування кожного дня</string>
     <string name="automatically_update_using_theme_tips">Оновлювати автоматично наступного разу</string>
     <string name="back_to_default">Назад до налаштувань за замовчуванням</string>
     <string name="back_to_none">Не встановлювати мелодію</string>
@@ -122,6 +126,9 @@
     <string name="bottomsheet_action_expand_halfway">Розгорнути нижню половину</string>
     <string name="browser_local_resource">Локальні ресурси</string>
     <string name="can_not_apply">Помилка застосування</string>
+    <string name="canceled_failed">Не вдалося скасувати</string>
+    <string name="canceled_subscription_failed">Не вдалося скасувати підписку. Повторіть спробу.</string>
+    <string name="canceled_trial_failed">Не вдалося скасувати. Повторіть спробу.</string>
     <string name="card_data_request_error">Сталася помилка. Трохи зачекайте та повторіть спробу.</string>
     <string name="card_loading">Хвилинку…</string>
     <string name="card_no_network">Не вдалося підключитися до мережі. Перевірте налаштування та повторіть спробу.</string>
@@ -175,6 +182,7 @@
     <string name="current_using_desktop_wallpaper_text">Робочий стіл</string>
     <string name="current_using_lockscreen_wallpaper_text">Екран блокування</string>
     <string name="current_version_incompatible">Несумісно</string>
+    <string name="custom_wallpaper_for_you">Персоналізовані шпалери для вас</string>
     <string name="data_use_desc">Юридичні документи</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +192,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">Застосувати</string>
     <string name="de_super_wp_land_position_default_des">Виберіть перегляд</string>
     <string name="deleting">Видалення…</string>
+    <string name="delivers_fresh_content_and_design_daily">Свіжий дизайн кожного дня</string>
     <string name="description_author">Автор</string>
     <string name="description_designer">Дизайнер</string>
     <string name="description_download">Завантажені</string>
@@ -210,6 +219,7 @@
     <string name="editor_apply_message">"Ця функція використовується розробниками для налагодження. Тема за замовчуванням буде автоматично перезапущена через деякий час. Шлях до файлу поточної теми: "</string>
     <string name="editor_apply_toast">Вручну виберіть temp.mtz у кореневому каталозі</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">Введіть адресу ел. пошти</string>
     <string name="eras_ad">н. е.</string>
     <string name="eras_bc">до н. е.</string>
     <string name="error_icon_content_description">Помилка</string>
@@ -384,6 +394,7 @@
     <string name="hide_incompatible_font">Приховати несумісні шрифти</string>
     <string name="hide_incompatible_theme">Приховати несумісні теми</string>
     <string name="hide_incompatible_wallpaper">Приховати несумісні шпалери</string>
+    <string name="hint_email_address">Введіть адресу ел. пошти</string>
     <string name="home_apply_failured">Не вдалося застосувати шпалери робочого столу</string>
     <string name="home_apply_success">Шпалери робочого столу встановлено</string>
     <string name="hot_first">Спочатку популярні</string>
@@ -417,6 +428,7 @@
     <string name="loading_resource_detail_fail">Не вдалося завантажити ресурс</string>
     <string name="loading_resource_detail_info">Зачекайте…</string>
     <string name="local_photos">Фото на пристрої</string>
+    <string name="local_record__email_info">"Запам'ятати мою адресу ел. пошти"</string>
     <string name="local_resouce_creator_name">Розробник: %1$s</string>
     <string name="lock_screen_edit">Змінити екран блокування</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">Цей шаблон екрана блокування не підтримує Супершпалери. Після застосування екран блокування повернеться до налаштувань за замовчуванням, а шпалери робочого столу та екрана блокування будуть замінені. Застосувати?</string>
@@ -457,6 +469,7 @@
     <string name="message_sim_two">SIM %d повідомлення</string>
     <string name="mi_wallpaper">Шпалери MIUI</string>
     <string name="midnight">Ніч</string>
+    <string name="mine_subscribed_wallpaper">Шпалери за підпискою</string>
     <string name="miui_clock_city_name_local">На пристрої</string>
     <string name="miui_clock_city_name_second">Другий годинник</string>
     <string name="miui_lock_screen_date">EEE, d MMM</string>
@@ -701,7 +714,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">Налаштовуйте ваш пристрій під себе</string>
     <string name="present_official_themes">Наш вибір</string>
     <string name="present_online_themes">Отримати більше онлайн-тем</string>
+    <string name="price_for_automatic_renewal">Автоматичне продовження за %1$s</string>
     <string name="privacy_desc">"Політика конфіденційності (обов'язково)"</string>
+    <string name="privacy_simple_content">Увімкніть персоналізовані рекомендації, щоб отримувати контент і продукти, які відповідають вашим інтересам.</string>
+    <string name="privacy_simple_hint">Ви можете будь-коли змінити свої параметри в «Налаштуваннях».</string>
+    <string name="privacy_simple_title">Персональні рекомендації</string>
     <string name="promotion_ad">Акції</string>
     <string name="provision_default_theme_title">За замовчуванням</string>
     <string name="provision_download_cancel">Завантаження скасовано</string>
@@ -747,6 +764,9 @@ mm"</string>
     <string name="related_theme">Теми</string>
     <string name="related_wallpaper">Шпалери</string>
     <string name="reload">Спробувати знову</string>
+    <string name="renewal_of_a_contract_monthly">Продовжити за %s/місяць</string>
+    <string name="renewal_of_a_contract_weekly">Продовжити за %s/тиждень</string>
+    <string name="renewal_of_a_contract_yearly">Продовжити за %s/рік</string>
     <string name="res_migrate_tip">"Щоб зробити програму \"Теми\" сумісною з майбутніми версіями Android, ми перемістили завантажені вами об'єкти в нове місце. Перезапустіть програму, щоб застосувати зміни та переглянути завантажений контент."</string>
     <string name="resource_account_abnormal_state">Помилка акаунту. Повторіть спробу пізніше.</string>
     <string name="resource_account_fail_to_add">Не вдалося додати акаунт</string>
@@ -766,6 +786,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">Очистити всю історію пошуку?</string>
     <string name="resource_continue">Далі</string>
     <string name="resource_current_using_title">Поточні джерела</string>
+    <string name="resource_currently_applied">Застосовано</string>
     <string name="resource_data_empty">"Об'єкти відсутні."</string>
     <string name="resource_default">Мелодія за замовчуванням</string>
     <string name="resource_default_name">Компонент</string>
@@ -964,6 +985,7 @@ mm"</string>
     <string name="select_all">Вибрати все</string>
     <string name="selected_resource_file_invalid">Вибраний файл не підтримується</string>
     <string name="send">Надіслати</string>
+    <string name="service_expiration_date">Дійсно до %1$s</string>
     <string name="set_color_ring_back_tone">Встановити власну мелодію</string>
     <string name="settings">Налаштування</string>
     <string name="shortcut_add">Додати</string>
@@ -985,6 +1007,9 @@ mm"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Застосувати</string>
     <string name="storage_file">"Для збереження завантажених об'єктів"</string>
+    <string name="submission_successfully">Відправлено успішно</string>
+    <string name="subscription_service_shutdown_tip">Шпалери, на які ви підписані, більше не відображаються, оскільки ви використовуєте іншу послугу. Ви можете знову застосувати шпалери за підпискою.</string>
+    <string name="successfully_applied_wallpaper_tip">Шпалери застосовано успішно</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Неділя</string>
     <string name="sunday_short">Нед</string>
@@ -997,11 +1022,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">Встановити</string>
     <string name="super_wallpaper_list_footer_text">Ще більше Супершпалер зовсім скоро</string>
     <string name="super_wallpaper_list_label">Супершпалери</string>
+    <string name="super_wallpaper_low_version_tip_push">Оновіть Супершпалери до останньої версії, щоб продовжити їх використання.</string>
+    <string name="super_wallpaper_restore_msg_push">У поточній версії Супершпалер виникла проблема сумісності. Були відновленя шпалери за замовчуванням. Оновіть до останньої версії, щоб використовувати Супершпалери.</string>
     <string name="super_wallpaper_setting_apply_success_toast">Готово</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Застосувати</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Параметри</string>
     <string name="super_wallpaper_setting_coordinate_title">Координати</string>
     <string name="super_wallpaper_setting_view_height_title">Висота</string>
+    <string name="super_wallpaper_upgrade_tip_push">Оновити Супершпалери</string>
     <string name="support_google_dynamic_color_hint">Ви використовуєте Google Dynamic Color. Кольорові палітри деяких програм можуть змінитися при застосуванні нових тем і шпалер.</string>
     <string name="swipe_find_more">Проведіть вгору для перегляду</string>
     <string name="system_aod_dialog_message">Увімкніть функцію \"Завжди активний екран\", щоб скористатися цією функцією.</string>
@@ -1009,7 +1037,26 @@ mm"</string>
     <string name="system_aod_dialog_title">Завжди активний екран</string>
     <string name="system_phone">Виклики</string>
     <string name="system_precust">Предвстановлені</string>
+    <string name="text_billing_info">Платіжна інформація</string>
+    <string name="text_cancel_subscription_service">Скасувати цю підписку зараз?</string>
+    <string name="text_content_update">Новий контент кожного дня</string>
+    <string name="text_free_trial">Спробувати безкоштовно</string>
+    <string name="text_pay_monthly" formatted="false">Починаючи з %s, автоматично продовжується за %s/місяць до скасування</string>
+    <string name="text_pay_weekly" formatted="false">Починаючи з %s, автоматично продовжується за %s/тиждень до скасування</string>
+    <string name="text_pay_yearly" formatted="false">Починаючи з %s, автоматично продовжується за %s/рік до скасування</string>
     <string name="text_play">Грати</string>
+    <string name="text_start_time_format">dd.MM</string>
+    <string name="text_status_apply_now">Застосувати</string>
+    <string name="text_status_be_subscribing">Підписані</string>
+    <string name="text_status_cancel_the_trial">Зупинити пробне використання</string>
+    <string name="text_status_on_trial">Поточне пробне використання</string>
+    <string name="text_status_subscribe_now">Підписатися</string>
+    <string name="text_status_unsubscribe">Відписатися</string>
+    <string name="text_status_unsubscribed">Не підписані</string>
+    <string name="text_subscribe">Підписки</string>
+    <string name="text_subscribed">Підписані</string>
+    <string name="text_when_cancel_the_trial_tip">Якщо ви скасуєте пробне використання, ці шпалери будуть видалені з вашого пристрою.</string>
+    <string name="text_when_unsubscribe_tip">Якщо ви скасуєте підписку, ці шпалери будуть видалені з вашого пристрою.</string>
     <string name="the_anniversary_of_lifting_martial_law">Річниця скасування воєнного стану</string>
     <string name="the_anti_aggression_day">День боротьби з агресією</string>
     <string name="the_arbor_day">День деревонасадження</string>
@@ -1150,6 +1197,8 @@ mm"</string>
     <string name="tip_lockscreen">Змініти шпалери та годинник екрану блокуванн</string>
     <string name="tip_lockscreen2">Ви використовуєте Карусель шпалер. Налаштування теми призведе до зміни годинника та шпалер екрана блокування.</string>
     <string name="tip_statusbar">Змінити Центр керування та Панель сповіщень</string>
+    <string name="tips_subscriptions_close">Підписка на шпалери вимкнена</string>
+    <string name="tips_talk_later">Не зараз</string>
     <string name="tips_theme_gate_transfer_fail">Не вдалося відкрити сторінку. Зачекайте хвилинку та повторіть спробу.</string>
     <string name="title_component">Компоненти</string>
     <string name="title_home_miwallpaper_home_screen_effects">Ефекти на головному екрані</string>
@@ -1164,6 +1213,7 @@ mm"</string>
     <string name="today">Сьогодні</string>
     <string name="tomorrow">Завтра</string>
     <string name="top">Популярні</string>
+    <string name="trial_cancellation_succeeded">Пробне використання скасовано</string>
     <string name="try_fresh_functions_and_contents">Перегляньте наші нові функції та контент</string>
     <string name="try_it">Спробуйте!</string>
     <string name="try_tap">Натисніть для попереднього перегляду</string>
@@ -1175,6 +1225,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">Зрозуміло</string>
     <string name="uid_change_dialog_title">Перезавантажити пристрій</string>
     <string name="unknown_error">Сталася помилка</string>
+    <string name="unsubscribe_successfully">Ви успішно відписалися</string>
     <string name="unsupport_tip">Такий формат файлу не підтримується. Спробуйте вибрати інший файл.</string>
     <string name="up_to_the_end">Більше немає елементів для відображення</string>
     <string name="update_btn">ОНОВИТИ ЗАРАЗ</string>
@@ -1189,6 +1240,7 @@ mm"</string>
     <string name="update_push_content">Оновити зараз</string>
     <string name="update_push_title">Для вашої теми доступне оновлення</string>
     <string name="update_title">ДОСТУПНЕ НОВЕ ОНОВЛЕННЯ</string>
+    <string name="updating_the_app_tip">Оновлення…</string>
     <string name="used_wallpaper">Використовувалися раніше</string>
     <string name="user_agree">Погодитися</string>
     <string name="user_attention_new_theme">Нові матеріали від %s</string>
@@ -1238,6 +1290,7 @@ mm"</string>
     <string name="wallpaper_group_natural_texture_title">Природні візерунки</string>
     <string name="wallpaper_group_sgn_mountain_title">"Гора Сигун'ян"</string>
     <string name="wallpaper_might_like">Шпалери, які можуть вам сподобатися</string>
+    <string name="wallpaper_restore_defalut_push">Відновлені значення за замовчуванням</string>
     <string name="wallpaper_scroll_type_tips">Прокрутка шпалер</string>
     <string name="wallpaper_set_as_both">Застосувати на все</string>
     <string name="wallpaper_set_as_desktop">Встановити як робочий стіл</string>

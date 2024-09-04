@@ -77,6 +77,7 @@
     <string name="cancel">Ακύρωση</string>
     <string name="cancel_moving_dialog_message">Διακοπή εισαγωγής τώρα;</string>
     <string name="cancel_moving_dialog_title">Διακοπή εισαγωγής</string>
+    <string name="cancel_tranfer">Ακύρωση</string>
     <string name="cannot_use_mi_huanji_button">Κατανοητό</string>
     <string name="cannot_use_mi_huanji_summary">Φαίνεται πως το MIUI αυτή τη στιγμή δημιουργεί αντίγραφα ασφαλείας. Διακόψτε τα τρέχοντα αντίγραφα ασφαλείας ή επανεκκινήστε τη συσκευή σας για να επιτρέψετε στη Μεταφορά Mi να ξεκινήσει τη μεταφορά.</string>
     <string name="cannot_use_mi_huanji_title">Αδυναμία μεταφοράς τώρα</string>
@@ -269,6 +270,7 @@
     <string name="guest_unfinished_task_alert_message">Φαίνεται πως υπάρχουν εργασίες μεταφοράς που δεν ολοκληρώθηκαν. Συνέχεια μεταφοράς;</string>
     <string name="guest_unfinished_task_alert_title">Εργασίες που δεν ολοκληρώθηκαν</string>
     <string name="hide_password_description">Απόκρυψη κωδικού</string>
+    <string name="high_temp_summary">Η συσκευή σας ενδέχεται να θερμανθεί κατά τη μεταφορά μεγάλων ποσοτήτων δεδομένων. Αυτό είναι φυσιολογικό και η συσκευή σας θα κρυώσει μετά την ολοκλήρωση της μεταφοράς.</string>
     <string name="host_boot_installation_bottom_tips">Αδυναμία εύρεσης της Μεταφοράς Mi; Πατήστε για λήψη.</string>
     <string name="host_boot_installation_button">Επόμενο</string>
     <string name="host_boot_installation_dialog_message">Η έκδοση της Μεταφοράς Mi στην παλαιά σας συσκευή δεν είναι συμβατή με αυτή που έχει εγκατασταθεί εδώ. Ενημερώστε τη Μεταφορά Mi στην παλιά συσκευή.</string>

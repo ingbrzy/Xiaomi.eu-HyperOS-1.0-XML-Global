@@ -79,6 +79,10 @@
     <string name="author_new_theme">အသစ်</string>
     <string name="author_popularity">ကြည့်သူဦးရေ</string>
     <string name="author_unfollow_succeed">အောင်မြင်စွာ ဖော်လိုဖြုတ်ပြီးပါပြီ</string>
+    <string name="automatic_renewal_monthly">%s/တစ်လနှင့် အလိုအလျောက်သက်တမ်းတိုးသည်</string>
+    <string name="automatic_renewal_weekly">%s/တစ်ပတ်နှင့် အလိုအလျောက်သက်တမ်းတိုးသည်</string>
+    <string name="automatic_renewal_yearly">%s/တစ်နှစ်နှင့် အလိုအလျောက်သက်တမ်းတိုးသည်</string>
+    <string name="automatically_push_content_to_lock_screen">သော့ခတ်မျက်နှာပြင်တွင် နေ့စဉ် အကြောင်းအရာအသစ် ပြသပါမည်</string>
     <string name="automatically_update_using_theme_tips">နောင်အခါတွင် အပ်ဒိတ်အလိုအလျောက်လုပ်ပါ</string>
     <string name="back_to_default">မူလအခြေအနေသို့ ပြန်သွားရန်</string>
     <string name="back_to_none">ဖုန်းမြည်သံ မသတ်မှတ်ပါနှင့်</string>
@@ -94,6 +98,9 @@
     <string name="bottom_of_page">မရှိတော့ပါ။</string>
     <string name="browser_local_resource">ဖုန်းတွင်း အရင်းအမြစ်များ</string>
     <string name="can_not_apply">သုံး၍မရပါ</string>
+    <string name="canceled_failed">ဖျက်သိမ်းမရပါ</string>
+    <string name="canceled_subscription_failed">စာရင်းသွင်းရယူမှု ဖျက်သိမ်းရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="canceled_trial_failed">ဖျက်သိမ်းမရပါ။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="card_data_request_error">အကောင့် မှားယွင်းမှု ဖြစ်ပေါ်ခဲ့သည်။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="card_loading">ခဏစောင့်ပါ…</string>
     <string name="card_no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍မရနိုင်ခဲ့ပါ။ ကွန်ရက်ဆက်တင်များအား စစ်ဆေးပြီး ထပ်ကြိုးစားပါ။</string>
@@ -124,6 +131,7 @@
     <string name="current_using_desktop_wallpaper_text">အိမ်မျက်နှာပြင်</string>
     <string name="current_using_lockscreen_wallpaper_text">သော့ခတ် မျက်နှာပြင်</string>
     <string name="current_version_incompatible">ကိုက်ညီမှု မရှိပါ</string>
+    <string name="custom_wallpaper_for_you">သင့်အတွက် စိတ်ကြိုက်နောက်ခံပုံများ</string>
     <string name="data_use_desc">တရားဝင် စာရွက်စာတမ်းများ</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -133,6 +141,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">သုံးရန်</string>
     <string name="de_super_wp_land_position_default_des">မြင်ကွင်းရွေးရန်</string>
     <string name="deleting">ဖျက်နေသည်…</string>
+    <string name="delivers_fresh_content_and_design_daily">နေ့စဉ် ဒီဇိုင်းအသစ်များ</string>
     <string name="description_author">စာရေးဆရာ</string>
     <string name="description_designer">ဒီဇိုင်နာ</string>
     <string name="description_download">ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
@@ -159,6 +168,7 @@
     <string name="editor_apply_message">"ဤအင်္ဂါရပ်ကို ဒီဇိုင်နာများ ဒီဘာဂင်လုပ်ရန် သုံးပါသည်။ မူလသင်း(မ်)ကို မကြာမီ အလိုအလျောက် ပြန်ထားပါမည်။ လက်ရှိသင်း(မ်)၏ ဖိုင်လမ်းကြောင်း - "</string>
     <string name="editor_apply_toast">ပင်မလမ်းကြောင်းတွင် temp.mtz ကို လက်ဖြင့်ရွေးရန်</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">အီးမေး(လ်)လိပ်စာထည့်ပါ</string>
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
     <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
     <string name="evening">နေ့လယ်</string>
@@ -276,6 +286,7 @@
     <string name="hide_incompatible_font">တွဲသုံးမရသောဖောင့်များကို ဖုံးထားရန်</string>
     <string name="hide_incompatible_theme">တွဲသုံးမရသောအပြင်အဆင်များကို ဖုံးထားရန်</string>
     <string name="hide_incompatible_wallpaper">တွဲသုံးမရသောနောက်ခံပုံများကို ဖုံးထားရန်</string>
+    <string name="hint_email_address">အီးမေး(လ်)လိပ်စာထည့်ပါ</string>
     <string name="home_apply_failured">အိမ်မျက်နှာပြင် နောက်ခံပုံအဖြစ် အသုံးချ၍မရပါ</string>
     <string name="home_apply_success">အိမ်မျက်နှာပြင် နောက်ခံပုံ အသုံးချခဲ့သည်</string>
     <string name="hot_first">ပေါ်ပြူလာ ဦးစားပေး</string>
@@ -307,6 +318,7 @@
     <string name="loading_resource_detail_fail">အရင်းအမြစ် ဆွဲချလို့ မရပါ</string>
     <string name="loading_resource_detail_info">ခဏစောင့်ပါ…</string>
     <string name="local_photos">စက်တွင်း ဓာတ်ပုံများ</string>
+    <string name="local_record__email_info">ကျွန်ုပ်၏ အီးမေး(လ်)လိပ်စာကို မှတ်ထားပါ</string>
     <string name="local_resouce_creator_name">ဖွံ့ဖြိုးသူ−%1$s</string>
     <string name="lock_screen_edit">သော့ခတ်မျက်နှာပြင်ကို ပြင်ရန်</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">ဤသော့ခတ်မျက်နှာပြင်တန်းပလိတ်သည် စူပါနောက်ခံပုံများကို မပံ့ပိုးပါ။ သုံးပြီးသည်နှင့် သော့ခတ်မျက်နှာပြင်ကို နဂိုအတိုင်းပြန်ပြောင်းပြီး ပင်မမျက်နှာပြင်နှင့် သော့ခတ်မျက်နှာပြင်နောက်ခံပုံများကို အစားထိုးလိုက်ပါမည်။ မဖြစ်မနေ သုံးလိုသလား။</string>
@@ -335,6 +347,7 @@
     <string name="message_sim_two">SIM %d မက်ဆေ့(ချ်)</string>
     <string name="mi_wallpaper">MIUI ဖန်သားပြင်နောက်ခံပုံ</string>
     <string name="midnight">ည</string>
+    <string name="mine_subscribed_wallpaper">စာရင်းသွင်းရယူထားသော နောက်ခံပုံများ</string>
     <string name="miui_clock_city_name_local">ဒေသတွင်း</string>
     <string name="miui_clock_city_name_second">ဒုတိယ နာရီ</string>
     <string name="miui_lock_screen_date">MMM dd EEE</string>
@@ -528,7 +541,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">သင်၏ဖုန်းအား စိတ်ကြိုက်စီစဉ်ပါ</string>
     <string name="present_official_themes">ကျွန်ုပ်တို့၏ရွေးချယ်မှုများ</string>
     <string name="present_online_themes">နောက်ထပ်အွန်လိုင်းသင်းမ်များ ရယူမည်</string>
+    <string name="price_for_automatic_renewal">%1$s နှင့် အလိုအလျောက်သက်တမ်းတိုးပါ</string>
     <string name="privacy_desc">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ (မဖြစ်မနေ)</string>
+    <string name="privacy_simple_content">သင့်စိတ်ဝင်စားမှု၊ နှစ်သက်မှုနှင့် ကိုက်ညီသော အကြောင်းအရာနှင့် ထုတ်ကုန်များ ရယူရန် စိတ်ကြိုက်အကြံပြုချက်များကို ဖွင့်ပါ။</string>
+    <string name="privacy_simple_hint">စိတ်ကြိုက်များကို ဆက်တင်တွင် အချိန်မရွေးပြောင်းနိုင်သည်။</string>
+    <string name="privacy_simple_title">စိတ်ကြိုက်အကြံပြုချက်များ</string>
     <string name="promotion_ad">ပရိုမိုးရှင်း</string>
     <string name="provision_default_theme_title">မူလသတ်မှတ်ချက်</string>
     <string name="provision_download_cancel">ဒေါင်းလုဒ်လုပ်ခြင်းကို ဖျက်လိုက်ပါပြီ</string>
@@ -574,6 +591,9 @@ mm"</string>
     <string name="related_theme">သင်းမ်</string>
     <string name="related_wallpaper">နောက်ခံပုံ</string>
     <string name="reload">ထပ်ကြိုးစား</string>
+    <string name="renewal_of_a_contract_monthly">%s/တစ်လနှင့် သက်တမ်းတိုးရန်</string>
+    <string name="renewal_of_a_contract_weekly">%s/တစ်ပတ်နှင့် သက်တမ်းတိုးရန်</string>
+    <string name="renewal_of_a_contract_yearly">%s/တစ်နှစ်နှင့် သက်တမ်းတိုးရန်</string>
     <string name="res_migrate_tip">အပြင်အဆင်များကို လာမည့် Android ဗားရှင်းများနှင့် တွဲသုံးနိုင်ရန် သင်ဒေါင်းလုဒ်ထားသောအရာများကို နေရာအသစ်သို့ ပို့ထားသည်။ အပြောင်းအလဲများအကျုံးဝင်ရန် အက်(ပ်)ကို ပြန်စပြီး ဒေါင်းလုဒ်ထားသောအရာများကို ကြည့်ပါ။</string>
     <string name="resource_account_abnormal_state">အကောင့် မှားယွင်းမှု ဖြစ်ပေါ်နေသည်။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="resource_account_fail_to_add">အကောင့် ပေါင်းထည့်လို့ မရပါ</string>
@@ -593,6 +613,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">ရှာဖွေမှုမှတ်တမ်းကို ရှင်းပစ်မလား။။</string>
     <string name="resource_continue">နောက်တစ်ဆင့်</string>
     <string name="resource_current_using_title">လက်ရှိ အရင်းအမြစ်</string>
+    <string name="resource_currently_applied">သုံးထားသည်</string>
     <string name="resource_data_empty">ဤနေရာတွင် အိုင်တမ်များမရှိပါ။</string>
     <string name="resource_default">မူလသတ်မှတ် ဖုန်းမြည်သံ</string>
     <string name="resource_default_name">အရင်းအမြစ်</string>
@@ -783,6 +804,7 @@ mm"</string>
     <string name="select_all">အားလုံးရွေးပါ</string>
     <string name="selected_resource_file_invalid">ရွေးချယ်ထားသောရင်းမြစ်ဖိုင်ကိုအသုံးပြုမရပါ</string>
     <string name="send">ပို့ပါ</string>
+    <string name="service_expiration_date">%1$s ထိ သက်တမ်းရှိသည်</string>
     <string name="set_color_ring_back_tone">စိတ်ကြိုက် Ringback အသံ သတ်မှတ်မည်</string>
     <string name="settings">ဆက်တင်များ</string>
     <string name="shortcut_add">ပေါင်းထည့်မည်</string>
@@ -803,6 +825,9 @@ mm"</string>
     <string name="start_all">အားလုံးပြန်စရန်</string>
     <string name="still_apply">သုံးရန်</string>
     <string name="storage_file">ဒေါင်းလုဒ်လုပ်ထားသော အိုင်တမ်များကို သိမ်းဆည်းရန်အတွက်</string>
+    <string name="submission_successfully">အောင်မြင်စွာတင်ပြီးပါပြီ</string>
+    <string name="subscription_service_shutdown_tip">အခြားဝန်ဆောင်မှုသုံးနေသောကြောင့် စာရင်းသွင်းရယူထားသော နောက်ခံပုံများကို မပြတော့ပါ။ စာရင်းသွင်းရယူထားသော နောက်ခံပုံကို ပြန်သုံးနိုင်သည်။</string>
+    <string name="successfully_applied_wallpaper_tip">နောက်ခံပုံကို အောင်မြင်စွာသုံးပြီးပါပြီ</string>
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="sunday_short">တနင်္ဂနွေ</string>
     <string name="sunday_shortest">တနင်္ဂနွေ</string>
@@ -814,11 +839,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">ထည့်သွင်းရန်</string>
     <string name="super_wallpaper_list_footer_text">နောက်ထပ်စူပါနောက်ခံပုံများ မကြာမီလာပါမည်</string>
     <string name="super_wallpaper_list_label">စူပါနောက်ခံပုံများ</string>
+    <string name="super_wallpaper_low_version_tip_push">စူပါ နောက်ခံပုံများကို ဆက်သုံးနိုင်ရန် နောက်ဆုံးဗားရှင်းသို့ အပ်ပဒိတ်လုပ်ပါ။</string>
+    <string name="super_wallpaper_restore_msg_push">စူပါ နောက်ခံပုံများ လက်ရှိဗားရှင်းတွင် တွဲသုံးမရခြင်းပြဿနာ ရှိသည်။ မူလ နောက်ခံပုံအတိုင်း ပြန်ထားလိုက်ပါသည်။ စူပါ နောက်ခံပုံများသုံးနိုင်ရန် နောက်ဆုံးဗားရှင်းသို့ အပ်ပဒိတ်လုပ်ပါ။</string>
     <string name="super_wallpaper_setting_apply_success_toast">အောင်မြင်စွာ သုံးထားပါပြီ</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">သုံးရန်</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">ရွေးစရာများ</string>
     <string name="super_wallpaper_setting_coordinate_title">ကိုသြဒိနိတ်များ</string>
     <string name="super_wallpaper_setting_view_height_title">ပင်လယ်ရေမျက်နှာပြင်အထက်</string>
+    <string name="super_wallpaper_upgrade_tip_push">စူပါ နောက်ခံပုံများ အပ်ပဒိတ်လုပ်ရန်</string>
     <string name="support_google_dynamic_color_hint">သင်သည် Google Dynamic Color သုံးနေသည်။ အပြင်အဆင်နှင့် နောက်ခံပုံအသစ်များ သုံးချိန်တွင် အချို့အက်(ပ်)များ၏ အရောင်အတွဲအစပ်များ ပြောင်းသွားနိုင်သည်။</string>
     <string name="swipe_find_more">နောက်ထပ် ကြည့်ရန် အပေါ်သို့ ဆွဲတင်ပါ</string>
     <string name="system_aod_dialog_message">ဤအင်္ဂါရပ်ကို သုံးနိုင်ရန် အမြဲပြသမျက်နှာပြင်ကို ဖွင့်ပါ</string>
@@ -826,7 +854,26 @@ mm"</string>
     <string name="system_aod_dialog_title">အမြဲပြသမျက်နှာပြင်</string>
     <string name="system_phone">ခေါ်ဆိုမှုများ</string>
     <string name="system_precust">ကြိုတင်ထည့်သွင်းမည်</string>
+    <string name="text_billing_info">ငွေတောင်းခံခြင်းအချက်အလက်များ</string>
+    <string name="text_cancel_subscription_service">ဤစာရင်းသွင်းရယူမှုကို ယခုဖျက်သိမ်းလိုသလား။</string>
+    <string name="text_content_update">နေ့စဉ် အကြောင်းအရာအသစ်</string>
+    <string name="text_free_trial">အခမဲ့ စမ်းသုံးကြည့်ပါ</string>
+    <string name="text_pay_monthly" formatted="false">%s မှစ၍ ဖျက်သိမ်းသည်အထိ %s/တစ်လနှင့် အလိုအလျောက်သက်တမ်းတိုးသည်</string>
+    <string name="text_pay_weekly" formatted="false">%s မှစ၍ ဖျက်သိမ်းသည်အထိ %s/တစ်ပတ်နှင့် အလိုအလျောက်သက်တမ်းတိုးသည်</string>
+    <string name="text_pay_yearly" formatted="false">%s မှစ၍ ဖျက်သိမ်းသည်အထိ %s/တစ်နှစ်နှင့် အလိုအလျောက်သက်တမ်းတိုးသည်</string>
     <string name="text_play">ကစားရန်</string>
+    <string name="text_start_time_format">dd/MM</string>
+    <string name="text_status_apply_now">သုံးရန်</string>
+    <string name="text_status_be_subscribing">စာရင်းသွင်းပြီးပါပြီ</string>
+    <string name="text_status_cancel_the_trial">အစမ်းသုံးရပ်ရန်</string>
+    <string name="text_status_on_trial">လက်ရှိအစမ်းသုံး</string>
+    <string name="text_status_subscribe_now">စာရင်းသွင်းရယူရန်</string>
+    <string name="text_status_unsubscribe">စာရင်းသွင်းရယူမှု ဖြုတ်ရန်</string>
+    <string name="text_status_unsubscribed">မမှာယူတော့ပါ</string>
+    <string name="text_subscribe">စာရင်းသွင်းရယူမှုများ</string>
+    <string name="text_subscribed">စာရင်းသွင်းပြီးပါပြီ</string>
+    <string name="text_when_cancel_the_trial_tip">ဤအစမ်းသုံးကို ဖျက်သိမ်းပါက ဤနောက်ခံပုံကို သင့်စက်မှဖျက်လိုက်ပါမည်။</string>
+    <string name="text_when_unsubscribe_tip">ဤစာရင်းသွင်းရယူမှုကို ဖျက်သိမ်းပါက ဤနောက်ခံပုံကို သင့်စက်မှဖျက်လိုက်ပါမည်။</string>
     <string name="the_anniversary_of_lifting_martial_law">မာရှယ်လောကင်လွတ်ခြင်းနှစ်ပတ်လည်</string>
     <string name="the_anti_aggression_day">အမုန်းတရားတိုက်ဖျက်ရေးနေ့</string>
     <string name="the_arbor_day">Arbor နေ့</string>
@@ -967,6 +1014,8 @@ mm"</string>
     <string name="tip_lockscreen">သော့ခတ်မျက်နှာပြင်နောက်ခံပုံနှင့် နာရီ ပြောင်းရန်</string>
     <string name="tip_lockscreen2">သင်သည် နောက်ခံပုံရဟတ်သုံးနေသည်။ သင်း(မ်)ကို စိတ်ကြိုက်လုပ်ပါက သော့ချမျက်နှာပြင်နောက်ခံပုံနှင့် နာရီကို ပြောင်းလိုက်ပါမည်။</string>
     <string name="tip_statusbar">ထိန်းချုပ်စင်တာနှင့် အသိပေးချက်ရှိတ် ပြောင်းရန်</string>
+    <string name="tips_subscriptions_close">နောက်ခံပုံစာရင်းသွင်းရယူခြင်းများ ပိတ်ထားသည်</string>
+    <string name="tips_talk_later">မလုပ်သေးပါ</string>
     <string name="tips_theme_gate_transfer_fail">ဤစာမျက်နှာအား ဖွင့်၍ မရပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="title_component">သင်းမ်ကိုစိတ်ကြိုက်စီစဉ်ပါ</string>
     <string name="title_home_miwallpaper_home_screen_effects">ပင်မမျက်နှာပြင်အထူးပြုလုပ်ချက်များ</string>
@@ -981,6 +1030,7 @@ mm"</string>
     <string name="today">ယနေ့</string>
     <string name="tomorrow">မနက်ဖြန်</string>
     <string name="top">လူကြိုက်များသော</string>
+    <string name="trial_cancellation_succeeded">အစမ်းသုံးကို အောင်မြင်စွာဖျက်သိမ်းပြီးပါပြီ</string>
     <string name="try_fresh_functions_and_contents">အင်္ဂါရပ်နှင့် အကြောင်းအရာအသစ်များ ကြည့်ပါ</string>
     <string name="try_it">စစ်ကြည့်လိုက်ပါ</string>
     <string name="try_tap">ကြည့်ရန် တို့ပါ</string>
@@ -992,6 +1042,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">နားလည်ပါပြီ</string>
     <string name="uid_change_dialog_title">စက်အား ပြန်လည်စတင်ပါ</string>
     <string name="unknown_error">အမှားအယွင်းရှိသည်</string>
+    <string name="unsubscribe_successfully">အောင်မြင်စွာစာရင်းဖြုတ်ပြီးပါပြီ</string>
     <string name="unsupport_tip">ဤဖိုင်ဖောမတ်ကို ပံ့ပိုးမထားပါ။ အခြားဖိုင်ဖောမက်တစ်ခုကို ရွေးချယ်ရန် ကြိုးစားပေးပါ။</string>
     <string name="up_to_the_end">ထပ်ပြရန် အိုင်တမ်များ မရှိပါ</string>
     <string name="update_btn">ယခု အပ်ဒိတ်လုပ်မည်</string>
@@ -1006,6 +1057,7 @@ mm"</string>
     <string name="update_push_content">ယခုအပ်ပဒိတ်လုပ်ရန်</string>
     <string name="update_push_title">သင့်အပြင်အဆင်အတွက် ဗားရှင်းအသစ် ရရှိနိုင်ပါပြီ</string>
     <string name="update_title">အပ်ဒိတ် အသစ် ရှိပါပြီ</string>
+    <string name="updating_the_app_tip">အပ်ပဒိတ်လုပ်နေသည်…</string>
     <string name="used_wallpaper">ယခင်သုံးထားသည်</string>
     <string name="user_agree">သဘောတူသည်</string>
     <string name="user_attention_new_theme">%s ထံမှ အကြောင်းအရာအသစ်</string>
@@ -1053,6 +1105,7 @@ mm"</string>
     <string name="wallpaper_group_natural_texture_title">သဘာဝပုံစံများ</string>
     <string name="wallpaper_group_sgn_mountain_title">Siguniang တောင်</string>
     <string name="wallpaper_might_like">သင်ကြိုက်နိုင်သော အခြားနောက်ခံပုံများ</string>
+    <string name="wallpaper_restore_defalut_push">မူလအတိုင်းပြန်ထားလိုက်သည်</string>
     <string name="wallpaper_scroll_type_tips">နောက်ခံပုံ လိုက်ကာ</string>
     <string name="wallpaper_set_as_both">နှစ်ခုလုံးအတွက် သတ်မှတ်ပါ</string>
     <string name="wallpaper_set_as_desktop">ပင်မမျက်နှာပြင်အဖြစ် သတ်မှတ်ပါ</string>

@@ -202,6 +202,12 @@
         <item quantity="two">%d עבודות</item>
         <item quantity="many">%d עבודות</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">בקשתך תטופל תוך כ-%1$d שניות.</item>
+        <item quantity="one">בקשתך תטופל תוך כשנייה %1$d.</item>
+        <item quantity="two">בקשתך תטופל תוך כ-%1$d שניות.</item>
+        <item quantity="many">בקשתך תטופל תוך כ-%1$d שניות.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"ל-%d הזמנות ניתן החזר בהצלחה. "</item>
         <item quantity="one">"להזמנה אחת (%d) ניתן החזר בהצלחה. "</item>

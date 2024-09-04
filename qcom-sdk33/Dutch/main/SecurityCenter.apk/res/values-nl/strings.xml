@@ -590,6 +590,7 @@ U zult geen app-gegevens verliezen."</string>
     <string name="apps_list_header_title_sms_access">Beperk toegang tot verificatiecodes</string>
     <string name="ask_create_shortcut">Een Startscherm snelkoppeling creëren?</string>
     <string name="audio_optimization_summary">Verbeter audio en verminder omgevingsgeluid tijdens gesprekken</string>
+    <string name="audio_optimization_summary_new">Optimaliseer de geluidskwaliteit van oortelefoons tijdens het gamen en verminder ruis tijdens oproepen</string>
     <string name="audio_optimization_title">Verbeterde audio</string>
     <string name="auto_atsk_condition_battery_level_text_down">Wanneer de batterij %s bereikt</string>
     <string name="auto_atsk_condition_battery_level_text_up">Wanneer de batterij is opgeladen tot %s</string>
@@ -1130,6 +1131,7 @@ Sommige van uw transacties zijn echter nog niet voltooid. Om uw toestemming in t
     <string name="continue_set">Doorgaan</string>
     <string name="convenient_mode">Alle apps tegelijk ontgrendelen</string>
     <string name="convenient_summary">Voer één keer een wachtwoord in om alle apps te ontgrendelen</string>
+    <string name="conversation_phone_title">Oproepgereedschapskist</string>
     <string name="conversation_settings_top">"·Schuif de balk met Conferentie hulpmiddelen uit tijdens audio- en videogesprekken op volledig scherm om toegang te krijgen tot de functies.
 ·Het type en aantal functies is afhankelijk van het apparaatmodel."</string>
     <string name="conversation_sider_tips">Gebruik nieuwe Conferentie hulpmiddelen voor de beste belervaring</string>
@@ -1144,9 +1146,13 @@ Sommige van uw transacties zijn echter nog niet voltooid. Om uw toestemming in t
     <string name="create_gamebooster_destop">Startscherm snelkoppeling succesvol gecreëerd</string>
     <string name="create_shortcut">Maak een snelkoppeling aan naar het Startscherm voor Game Turbo</string>
     <string name="cs_color_sense">Kleurtemperatuur</string>
+    <string name="cs_conversation_record_using">Aan het opnemen</string>
     <string name="cs_func_toast_headset">Koppel uw headset los om deze functie te kunnen gebruiken</string>
     <string name="cs_func_toast_light">Schakel over naar de voorkant camera om deze functie te kunnen gebruiken</string>
     <string name="cs_func_toast_pickup">Schakel over naar een videogesprek om deze functie te kunnen gebruiken</string>
+    <string name="cs_func_unavailable_tips">Gebruik deze functie tijdens oproepen</string>
+    <string name="cs_light_enhance_physical_options">Kleurtemperatuur</string>
+    <string name="cs_light_enhance_physical_title">Helderheid</string>
     <string name="cs_pickup_denoise_desc">Verminder ruis van inkomende audio tijdens het gebruik van luidsprekers of oortelefoons</string>
     <string name="cs_pickup_denoise_title">Ruisonderdrukking</string>
     <string name="cs_pickup_multi_desc">%d graden audio-opname</string>
@@ -1160,11 +1166,19 @@ Sommige van uw transacties zijn echter nog niet voltooid. Om uw toestemming in t
     <string name="cs_pickup_vioce_print_unsupport_tips">Neem stemafdruk op voordat u \"Eén deelnemer\" selecteert</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Koppel externe apparaten los en probeer het opnieuw</string>
     <string name="cs_pickup_voice_print_desc">Neem het geluid van slechts één persoon op</string>
+    <string name="cs_privacy_camera_global_settings_title">Bel privacy</string>
     <string name="cs_screen_translation_title">Schermvertaling</string>
+    <string name="cs_simultaneous_interpretation_title">Interpreteren</string>
     <string name="cs_title_pickup">Ruisonderdrukking</string>
     <string name="cs_title_smart_subtitle">Ondertiteltranscriptie</string>
     <string name="cs_title_ultraclear">Ultra HD modus</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Probeer simultaanvertolking en andere tools voor telefonische vergaderingen in de nieuwe Oproepgereedschapskist</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Probeer een reeks functies voor telefonische vergaderingen in de nieuwe Oproepgereedschapskist</string>
+    <string name="cs_tool_box_phone_guide_case_1">Probeer simultaanvertolking en andere functies in de nieuwe Oproepgereedschapskist</string>
+    <string name="cs_tool_box_phone_guide_case_2">Probeer een reeks functies uit in de nieuwe Oproepgereedschapskist</string>
     <string name="cs_voice_print">Neem stemafdruk op</string>
+    <string name="cs_vt_camera_toast_case1">Open de camera in de huidige app</string>
+    <string name="cs_vt_camera_toast_case2">Geen compatibele apparaten in de buurt</string>
     <string name="cta_agree_desc">Om onze services te kunnen gebruiken, moet u deze app toestaan verbinding te maken met het internet en de hierboven vermelde toestemmingen verlenen.</string>
     <string name="cta_close_dialog_cancel">Annuleren</string>
     <string name="cta_close_dialog_content">Als u de toegang van Beveiliging tot het internet en uw locatiegegevens beperkt, kunt u geen aardbevingswaarschuwingen ontvangen en virusdefinities of informatie over de blokkeerlijst bijwerken. Uw apparaat wordt minder veilig. Wilt u de toegang toch beperken?</string>
@@ -1845,6 +1859,8 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="gb_audition_play_instruction">Gebruik oortelefoons voor het beste effect</string>
     <string name="gb_award_noti_message">Schakel achtergrondupdates van Game for Peace in Game Turbo in om beloningen te krijgen</string>
     <string name="gb_award_noti_title">Game for Peace-beloningen zijn hier!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Kan niet overschakelen naar Gebalanceerde modus in Game Turbo wanneer de systeembrede Ultieme modus is ingeschakeld. U kunt de batterij-instellingen wijzigen in Beveiliging.&lt;br>&lt;a href=\"#\">Open Beveiliging&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Kan niet overschakelen naar Gebalanceerde modus in Game Turbo wanneer de systeembrede Ultieme modus is ingeschakeld. U kunt de batterij-instellingen wijzigen in Beveiliging. &lt;br>&lt;a href=\"#\">Open Beveiliging&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">Hoog</string>
     <string name="gb_bar_low">Laag</string>
     <string name="gb_bar_mid">Gemiddeld</string>
@@ -2000,6 +2016,8 @@ maar verhoogt ook het stroomverbruik en zorgt ervoor dat uw apparaat oververhit 
     <string name="gb_predownload_receive_tips">Schakel achtergrondupdates in om beloningen te ontvangen</string>
     <string name="gb_predownload_receiving">Ontvangen…</string>
     <string name="gb_predownload_title">Achtergrondupdates</string>
+    <string name="gb_setting_dock_toast">Functies voor de voorkant camera assistent zijn nu beschikbaar in Oproepgereedschapskist</string>
+    <string name="gb_setting_dock_toast_2">Functies voor de voorkant camera assistent zijn nu beschikbaar in Oproepgereedschapskist</string>
     <string name="gb_shortcut_pref_title">Startscherm snelkoppeling</string>
     <string name="gb_shoulder_guide_message1">Verplaats [L] naar een functionele positie om het te gebruiken via de pop-uptrigger</string>
     <string name="gb_shoulder_guide_message2">Actie [1] wordt geactiveerd door op de knop te drukken. Actie [2] wordt geactiveerd door de knop los te laten.</string>
@@ -2135,9 +2153,21 @@ van uw gamesessie"</string>
     <string name="gd_dock_shortcut_splitescreen">Gesplitst scherm</string>
     <string name="gd_setting_conversation">Conferentie hulpmiddelen</string>
     <string name="gd_setting_conversation_desc">Biedt een verscheidenheid aan functies voor gebruik bij audio- en videogesprekken op volledig scherm</string>
+    <string name="gd_setting_dock_activity_title">Gereedschapskist aan de zijkant</string>
+    <string name="gd_setting_dock_call_summary">Functies voor spraak- en video-oproepen (bijvoorbeeld lichter maken)</string>
+    <string name="gd_setting_dock_call_title">Oproepgereedschapskist</string>
+    <string name="gd_setting_dock_game_summary">Verbeter de weergave en prestaties tijdens het spelen van games</string>
+    <string name="gd_setting_dock_game_summary_new">Verbeter de weergave en prestaties tijdens het spelen van games</string>
+    <string name="gd_setting_dock_summary">Open andere apps in zwevende vensters terwijl u een app op volledig scherm gebruikt</string>
+    <string name="gd_setting_dock_title">Zijbalk</string>
+    <string name="gd_setting_dock_video_summary">"Gebruik effecten zoals Dolby Atmos tijdens het kijken van video's"</string>
+    <string name="gd_setting_dock_video_summary_new">"Gebruik hulpmiddelen en effecten terwijl u video's bekijkt"</string>
+    <string name="gd_setting_group_custom_conversation_apps">Neem stemafdruk op voor oproepen</string>
     <string name="gd_setting_group_custom_gtb_apps">Games</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Beheer gaming-apps</string>
     <string name="gd_setting_group_custom_settings">Personalisatie</string>
     <string name="gd_setting_group_custom_vtb_apps">Video-apps</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Beheer video-apps</string>
     <string name="gd_setting_group_title_switch">Scènes</string>
     <string name="gd_setting_gtb">Weergeven tijdens het spelen van games</string>
     <string name="gd_setting_gtb_desc">Speciale functies voor gamen</string>
@@ -2157,11 +2187,17 @@ van uw gamesessie"</string>
     <string name="get_phone_num_fail">Onbekend telefoonnummer</string>
     <string name="get_sys_info">Informatie ophalen…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">Houd de indicator ingedrukt om het venster te verplaatsen</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Tik op een app in de zijbalk om deze in een zwevend venster te openen.
 · Sleep een app naar het midden van het scherm om deze in een zwevend venster te openen of naar de zijkant om Gesplitst scherm te gebruiken.
 · Houd de indicator ingedrukt om het venster te verplaatsen."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"Tik op een app in de zijbalk om deze in een zwevend venster te openen.
+ Sleep een app naar het midden van het scherm om deze in een zwevend venster te openen of naar de zijkant om Gesplitst scherm te gebruiken.
+ Houd de indicator ingedrukt om het venster te verplaatsen."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Tik op een app in de zijbalk om deze in een zwevend venster te openen.
 · Houd de indicator ingedrukt om het venster te verplaatsen."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Veeg om de zijbalk te openen en tik op een app om deze in een zwevend venster te openen.
+Houd de indicator ingedrukt om het venster te verplaatsen."</string>
     <string name="global_satisfaction_notification_button">Beoordelen</string>
     <string name="global_satisfaction_notification_channel">Gebruikerstevredenheidsonderzoek</string>
     <string name="global_satisfaction_notification_subhead">Vertel ons over uw ervaring</string>
@@ -3182,6 +3218,7 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="pc_battery_history_total_consumption_title">Totaal stroomverbruik</string>
     <string name="pc_battery_history_usetime_title">Actief</string>
     <string name="pc_battery_low_health_reminder">Het is tijd om uw batterij te vervangen</string>
+    <string name="pc_battery_replacement_service_title">Probeer onze batterijvervangingsservice. %1$s originele hardware met een %2$s garantie.</string>
     <string name="pc_berserk_mode_dialog_title">Ultieme modus inschakelen</string>
     <string name="pc_berserk_mode_noti_summary">Ultieme modus kan het stroomverbruik verhogen en leiden tot problemen met oververhitting</string>
     <string name="pc_berserk_mode_performance_title">Ultieme modus</string>
@@ -3255,6 +3292,7 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="pc_fast_charge_switch_summary_new">Herinner eraan om de oplaadsnelheid te verhogen wanneer de meegeleverde oplader is aangesloten en de batterij onder het ingestelde niveau komt</string>
     <string name="pc_fast_charge_switch_title">Verhoog de oplaadsnelheid</string>
     <string name="pc_fast_charge_switch_toast_message">De volgende keer dat u dit apparaat oplaadt, worden wijzigingen toegepast</string>
+    <string name="pc_fast_charge_temp_remider">Schakel dit in om de oplaadsnelheid automatisch te regelen. Deze functie werkt alleen met de door Xiaomi meegeleverde opladers. Uw apparaat kan tijdens het opladen warm worden.</string>
     <string name="pc_fast_charge_title">Verhoog de oplaadsnelheid</string>
     <string name="pc_going_to_exit_extreme_mode">Slaapstand afsluiten</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Uw apparaat wordt opgeladen. Slaapstand is uitgeschakeld.</string>
@@ -3343,6 +3381,16 @@ Ultra batterijbesparing"</string>
     <string name="pc_search_keywords_capacity">Batterijcapaciteit</string>
     <string name="pc_search_keywords_property">Prestatie</string>
     <string name="pc_settings_title">Batterij</string>
+    <string name="pc_smart_charge_button_summary">Om de levensduur van de batterij te verlengen, leert het systeem hoe u uw apparaat oplaadt en stopt het met opladen wanneer het batterijniveau %1$s bereikt</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Uw apparaat is opgewarmd. Het opladen wordt gestopt wanneer het batterijniveau %1$s bereikt</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Navigeren… Het opladen wordt gestopt wanneer het batterijniveau %1$s bereikt</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">Het opladen stopt bij %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">Om de levensduur van de batterij te verlengen, komt de batterij van dit apparaat niet boven het huidige niveau wanneer het is aangesloten op de auto.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Niet meer tonen</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Batterijbescherming</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">Om de levensduur van de batterij te verlengen, komt de batterij van dit apparaat niet boven het huidige niveau wanneer het is aangesloten op de auto</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Batterijbescherming</string>
+    <string name="pc_smart_charge_title">Slim opladen</string>
     <string name="pc_smart_discharge_checkbox_summary">Bij gebruik van navigatiefuncties stopt het opladen automatisch bij een bepaald percentage. Batterijbesparing wordt uitgeschakeld.</string>
     <string name="pc_smart_discharge_checkbox_title">Automatische ontkoppeling opladen</string>
     <string name="pc_smart_discharge_drop_down_title">Instellingen voor automatische ontkoppeling</string>
@@ -3355,6 +3403,8 @@ Ultra batterijbesparing"</string>
     <string name="pc_statistics_battery_use_title">Batterijgebruik</string>
     <string name="pc_suggest_open_fast_charge">Schakel %dW snel opladen in</string>
     <string name="pc_temperature_too_high">Apparaat oververhit</string>
+    <string name="pc_this_time_charge_full">Deze keer volledig opladen</string>
+    <string name="pc_this_time_charge_full_work">Bijna volledig opgeladen</string>
     <string name="pc_timely_charging_summary">Batterij is minder dan %1$s. Als het apparaat oververhit raakt terwijl de batterij bijna leeg is, kan dit de batterij beschadigen.</string>
     <string name="pc_timely_charging_title">Laad uw apparaat op</string>
     <string name="pc_to_phone_install">Installatie van %s via USB geblokkeerd</string>
@@ -4375,6 +4425,13 @@ Toestemming nu intrekken?"</string>
     <string name="sd_mount">SD-kaart plaatsen</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">App</string>
+    <string name="search_keyword_applybar">App-dock</string>
+    <string name="search_keyword_call">Oproep</string>
+    <string name="search_keyword_sidebar">Zijbalk</string>
+    <string name="search_keyword_tool">Gereedschappen</string>
+    <string name="search_keyword_tools">Gereedschapskist</string>
+    <string name="search_keyword_voice">Stem</string>
     <string name="search_menu_title">Zoeken</string>
     <string name="search_result_text">Kon geen apps vinden</string>
     <string name="section_clear_acc_item_title">%s. Probeer Opruimer te gebruiken als er nog steeds niet genoeg opslagruimte is.</string>
@@ -5164,6 +5221,7 @@ Formatteren wist bestaande inhoud op de ^2. Om te voorkomen dat u inhoud verlies
     <string name="title_cloud_space_almost_full">Cloud-opslag is bijna vol, items kunnen mogelijk niet gesynchroniseerd worden</string>
     <string name="title_cloud_space_full">Cloud is vol</string>
     <string name="title_cmcc_app_check">Verificatie is niet compleet</string>
+    <string name="title_condition_meeting">Vergadering</string>
     <string name="title_consume_power_rank">App-energieverbruik</string>
     <string name="title_dark_mode">Sommige items worden niet juist weergegeven</string>
     <string name="title_data_flow">Bewaak mobiele data</string>
@@ -5224,6 +5282,8 @@ Formatteren wist bestaande inhoud op de ^2. Om te voorkomen dat u inhoud verlies
     <string name="toast_cleaner_cloudscan">Opruimer zal online definities gebruiken</string>
     <string name="toast_dark_mode_fixed">Succesvol gefixt. Verlaat deze pagina om wijzigingen toe te passen.</string>
     <string name="toast_flow_notification">Meldingen over datagebruik ingeschakeld</string>
+    <string name="toast_gamembox_unenable_pad">Schakel eerst Game Turbo in Beveiliging in</string>
+    <string name="toast_gamembox_unenable_phone">Schakel eerst Game Turbo in Beveiliging in</string>
     <string name="toast_garbage_lib">Automatische updates voor Opruimer ingeschakeld</string>
     <string name="toast_keyword_blank">Je moet een trefwoord invoeren</string>
     <string name="toast_keyword_exist">Trefwoord toegevoegd</string>

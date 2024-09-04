@@ -146,6 +146,10 @@ Paralar iade edilemez."</item>
         <item quantity="other">%d işler</item>
         <item quantity="one">%d iş</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">Talebiniz yaklaşık %1$d saniye içinde işlenecek.</item>
+        <item quantity="one">Talebiniz yaklaşık %1$d saniye içinde işlenecek.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"%d sipariş başarıyla iade edildi. "</item>
         <item quantity="one">"%d sipariş başarıyla iade edildi. "</item>

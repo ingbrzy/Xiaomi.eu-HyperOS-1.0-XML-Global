@@ -106,6 +106,10 @@
     <string name="author_new_theme">Mới</string>
     <string name="author_popularity">Lượt xem</string>
     <string name="author_unfollow_succeed">Bỏ theo dõi thành công</string>
+    <string name="automatic_renewal_monthly">Tự động gia hạn với %s/tháng</string>
+    <string name="automatic_renewal_weekly">Tự động gia hạn với %s/tuần</string>
+    <string name="automatic_renewal_yearly">Tự động gia hạn với %s/năm</string>
+    <string name="automatically_push_content_to_lock_screen">Nội dung mới sẽ được hiển thị trên Màn hình khóa của bạn mỗi ngày</string>
     <string name="automatically_update_using_theme_tips">Cập nhật tự động lần tới</string>
     <string name="back_to_default">Quay về mặc định</string>
     <string name="back_to_none">Không đặt làm nhạc chuông</string>
@@ -122,6 +126,9 @@
     <string name="bottomsheet_action_expand_halfway">Mở rộng một nửa</string>
     <string name="browser_local_resource">Tài nguyên trên máy</string>
     <string name="can_not_apply">Không thể áp dụng</string>
+    <string name="canceled_failed">Không thể hủy</string>
+    <string name="canceled_subscription_failed">Không thể hủy đăng ký. Thử lại.</string>
+    <string name="canceled_trial_failed">Không thể hủy. Thử lại.</string>
     <string name="card_data_request_error">Xảy ra lỗi. Chờ một hoặc hai phút và thử lại.</string>
     <string name="card_loading">Vui lòng chờ…</string>
     <string name="card_no_network">Không thể kết nối mạng. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
@@ -175,6 +182,7 @@
     <string name="current_using_desktop_wallpaper_text">Màn hình chính</string>
     <string name="current_using_lockscreen_wallpaper_text">Màn hình khóa</string>
     <string name="current_version_incompatible">Không tương thích</string>
+    <string name="custom_wallpaper_for_you">Hình nền cá nhân dành cho bạn</string>
     <string name="data_use_desc">Tài liệu pháp lý</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +192,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">Áp dụng</string>
     <string name="de_super_wp_land_position_default_des">Chọn chế độ xem</string>
     <string name="deleting">Đang xóa…</string>
+    <string name="delivers_fresh_content_and_design_daily">Thiết kế mới mỗi ngày</string>
     <string name="description_author">Tác giả</string>
     <string name="description_designer">Nhà thiết kế</string>
     <string name="description_download">Đã tải xuống</string>
@@ -210,6 +219,7 @@
     <string name="editor_apply_message">"Tính năng này được sử dụng để gỡ lỗi bởi các nhà thiết kế. Chủ đề mặc định sẽ tự động được khôi phục sau một thời gian. Đường dẫn tập tin của chủ đề hiện tại: "</string>
     <string name="editor_apply_toast">Chọn thủ công temp.mtz trong thư mục gốc</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">Nhập địa chỉ email</string>
     <string name="eras_ad">Sau Công Nguyên</string>
     <string name="eras_bc">Trước Công Nguyên</string>
     <string name="error_icon_content_description">Lỗi</string>
@@ -384,6 +394,7 @@
     <string name="hide_incompatible_font">Ẩn phông chữ không tương thích</string>
     <string name="hide_incompatible_theme">Ẩn chủ đề không tương thích</string>
     <string name="hide_incompatible_wallpaper">Ẩn hình nền không tương thích</string>
+    <string name="hint_email_address">Nhập địa chỉ email</string>
     <string name="home_apply_failured">Không thể áp dụng hình nền Màn hình chính</string>
     <string name="home_apply_success">Đã áp dụng hình nền Màn hình chính</string>
     <string name="hot_first">Phổ biến nhất</string>
@@ -417,6 +428,7 @@
     <string name="loading_resource_detail_fail">Không thể tải tài nguyên</string>
     <string name="loading_resource_detail_info">Vui lòng chờ…</string>
     <string name="local_photos">Ảnh trên máy</string>
+    <string name="local_record__email_info">Nhớ địa chỉ email của tôi</string>
     <string name="local_resouce_creator_name">Nhà phát triển: %1$s</string>
     <string name="lock_screen_edit">Sửa Màn hình khóa</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">Mẫu Màn hình khóa này không hỗ trợ Siêu hình nền. Sau khi áp dụng, Màn hình khóa của bạn sẽ trở về mặc định và hình nền Màn hình khóa và Màn hình chính của bạn sẽ được thay thế. Áp dụng ngay?</string>
@@ -457,6 +469,7 @@
     <string name="message_sim_two">Tin nhắn SIM %d</string>
     <string name="mi_wallpaper">Hình nền MIUI</string>
     <string name="midnight">Ban đêm</string>
+    <string name="mine_subscribed_wallpaper">Hình nền đã đăng ký</string>
     <string name="miui_clock_city_name_local">Địa phương</string>
     <string name="miui_clock_city_name_second">Đồng hồ thứ hai</string>
     <string name="miui_lock_screen_date">EEE, dd MMM</string>
@@ -701,7 +714,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">Tùy chỉnh thiết bị của bạn</string>
     <string name="present_official_themes">Kiến nghị</string>
     <string name="present_online_themes">Nhận thêm chủ đề trực tuyến</string>
+    <string name="price_for_automatic_renewal">Tự động gia hạn với giá %1$s</string>
     <string name="privacy_desc">Chính sách Riêng tư (bắt buộc)</string>
+    <string name="privacy_simple_content">Bật kiến nghị cá nhân để nhận nội dung và sản phẩm phù hợp với sở thích của bạn.</string>
+    <string name="privacy_simple_hint">Bạn có thể thay đổi tùy chọn bất kỳ lúc nào trong Cài đặt.</string>
+    <string name="privacy_simple_title">Kiến nghị cá nhân</string>
     <string name="promotion_ad">Quảng bá</string>
     <string name="provision_default_theme_title">Mặc định</string>
     <string name="provision_download_cancel">Đã hủy tải xuống</string>
@@ -747,6 +764,9 @@ mm"</string>
     <string name="related_theme">Chủ đề</string>
     <string name="related_wallpaper">Hình nền</string>
     <string name="reload">Hãy thử lại</string>
+    <string name="renewal_of_a_contract_monthly">Gia hạn với %s/tháng</string>
+    <string name="renewal_of_a_contract_weekly">Gia hạn với %s/tuần</string>
+    <string name="renewal_of_a_contract_yearly">Gia hạn với %s/năm</string>
     <string name="res_migrate_tip">Để Chủ đề tương thích với các phiên bản Android sắp tới, chúng tôi chuyển các mục đã tải xuống của bạn đến một vị trí mới. Khởi động lại ứng dụng để áp dụng thay đổi và xem nội dung đã tải xuống của bạn.</string>
     <string name="resource_account_abnormal_state">Tài khoản bị lỗi. Chờ một hoặc hai phút và thử lại.</string>
     <string name="resource_account_fail_to_add">Không thể thêm tài khoản</string>
@@ -766,6 +786,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">Xóa tất cả lịch sử tìm kiếm?</string>
     <string name="resource_continue">Tiếp theo</string>
     <string name="resource_current_using_title">Tài nguyên hiện tại</string>
+    <string name="resource_currently_applied">Đã áp dụng</string>
     <string name="resource_data_empty">Không tìm thấy.</string>
     <string name="resource_default">Nhạc chuông mặc định</string>
     <string name="resource_default_name">Tài nguyên</string>
@@ -964,6 +985,7 @@ mm"</string>
     <string name="select_all">Chọn tất cả</string>
     <string name="selected_resource_file_invalid">Không thể sử dụng tập tin tài nguyên được chọn</string>
     <string name="send">Gửi</string>
+    <string name="service_expiration_date">Có giá trị đến %1$s</string>
     <string name="set_color_ring_back_tone">Tùy chỉnh nhạc chuông video</string>
     <string name="settings">Cài đặt</string>
     <string name="shortcut_add">Thêm</string>
@@ -985,6 +1007,9 @@ mm"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Áp dụng</string>
     <string name="storage_file">Để lưu các mục đã tải xuống</string>
+    <string name="submission_successfully">Gửi thành công</string>
+    <string name="subscription_service_shutdown_tip">Hình nền đã đăng ký không còn hiển thị do bạn đang sử dụng dịch vụ khác. Bạn có thể áp dụng lại hình nền đã đăng ký.</string>
+    <string name="successfully_applied_wallpaper_tip">Áp dụng hình nền thành công</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Chủ nhật</string>
     <string name="sunday_short">Cn</string>
@@ -997,11 +1022,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">Cài đặt</string>
     <string name="super_wallpaper_list_footer_text">Nhiều Siêu hình nền sắp ra mắt</string>
     <string name="super_wallpaper_list_label">Siêu hình nền</string>
+    <string name="super_wallpaper_low_version_tip_push">Cập nhật Siêu hình nền lên phiên bản mới nhất để có thể tiếp tục sử dụng.</string>
+    <string name="super_wallpaper_restore_msg_push">Phiên bản hiện tại của Siêu hình nền gặp sự cố không tương thích. Hình nền mặc định của bạn đã được khôi phục. Cập nhật lên phiên bản mới nhất để có thể sử dụng Siêu hình nền.</string>
     <string name="super_wallpaper_setting_apply_success_toast">Áp dụng thành công</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Áp dụng</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Tùy chọn</string>
     <string name="super_wallpaper_setting_coordinate_title">Tọa độ</string>
     <string name="super_wallpaper_setting_view_height_title">Độ cao</string>
+    <string name="super_wallpaper_upgrade_tip_push">Cập nhật Siêu hình nền</string>
     <string name="support_google_dynamic_color_hint">Bạn đang sử dụng Google Dynamic Color. Bảng màu của một số ứng dụng có thể thay đổi khi bạn áp dụng chủ đề và hình nền mới.</string>
     <string name="swipe_find_more">Trượt lên để xem thêm</string>
     <string name="system_aod_dialog_message">Bật Always-on display để có thể sử dụng tính năng này.</string>
@@ -1009,7 +1037,26 @@ mm"</string>
     <string name="system_aod_dialog_title">Always-on display</string>
     <string name="system_phone">Cuộc gọi</string>
     <string name="system_precust">Cài đặt sẵn</string>
+    <string name="text_billing_info">Thông tin thanh toán</string>
+    <string name="text_cancel_subscription_service">Hủy đăng ký này ngay?</string>
+    <string name="text_content_update">Nội dung mới hàng ngày</string>
+    <string name="text_free_trial">Thử miễn phí</string>
+    <string name="text_pay_monthly" formatted="false">Bắt đầu từ %s, tự động gia hạn với %s/tháng cho đến khi bị hủy</string>
+    <string name="text_pay_weekly" formatted="false">Bắt đầu từ %s, tự động gia hạn với %s/tuần cho đến khi bị hủy</string>
+    <string name="text_pay_yearly" formatted="false">Bắt đầu từ %s, tự động gia hạn với %s/năm cho đến khi bị hủy</string>
     <string name="text_play">Chơi</string>
+    <string name="text_start_time_format">dd/MM</string>
+    <string name="text_status_apply_now">Áp dụng</string>
+    <string name="text_status_be_subscribing">Đã đăng ký</string>
+    <string name="text_status_cancel_the_trial">Dừng dùng thử</string>
+    <string name="text_status_on_trial">Đang dùng thử</string>
+    <string name="text_status_subscribe_now">Đăng ký</string>
+    <string name="text_status_unsubscribe">Hủy đăng ký</string>
+    <string name="text_status_unsubscribed">Đã hủy đăng ký</string>
+    <string name="text_subscribe">Đăng ký</string>
+    <string name="text_subscribed">Đã đăng ký</string>
+    <string name="text_when_cancel_the_trial_tip">Nếu bạn hủy dùng thử này, hình nền này sẽ bị xóa khỏi thiết bị của bạn.</string>
+    <string name="text_when_unsubscribe_tip">Nếu bạn hủy đăng ký này, hình nền này sẽ bị xóa khỏi thiết bị của bạn.</string>
     <string name="the_anniversary_of_lifting_martial_law">Kỷ niệm Ngày Thiết quân Luật</string>
     <string name="the_anti_aggression_day">Ngày phản chiến</string>
     <string name="the_arbor_day">Tết Trồng Cây</string>
@@ -1150,6 +1197,8 @@ mm"</string>
     <string name="tip_lockscreen">Thay đổi hình nền và đồng hồ Màn hình khóa</string>
     <string name="tip_lockscreen2">Bạn đang sử dụng Khóa tạp chí. Tùy chỉnh chủ đề sẽ thay đổi hình nền Màn hình khóa và đồng hồ.</string>
     <string name="tip_statusbar">Thay đổi Trung tâm điều khiển và Thanh thông báo</string>
+    <string name="tips_subscriptions_close">Đăng ký hình nền đã bị tắt</string>
+    <string name="tips_talk_later">Lần tới</string>
     <string name="tips_theme_gate_transfer_fail">Không thể mở trang này. Chờ một hoặc hai phút và thử lại.</string>
     <string name="title_component">Tùy chỉnh chủ đề</string>
     <string name="title_home_miwallpaper_home_screen_effects">Hiệu ứng Màn hình chính</string>
@@ -1164,6 +1213,7 @@ mm"</string>
     <string name="today">Hôm nay</string>
     <string name="tomorrow">Ngày mai</string>
     <string name="top">Phổ biến</string>
+    <string name="trial_cancellation_succeeded">Hủy dùng thử thành công</string>
     <string name="try_fresh_functions_and_contents">Kiểm tra tính năng và nội dung mới</string>
     <string name="try_it">Kiểm tra</string>
     <string name="try_tap">Chạm để xem trước</string>
@@ -1175,6 +1225,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">Tôi biết</string>
     <string name="uid_change_dialog_title">Khởi động lại thiết bị</string>
     <string name="unknown_error">Xảy ra lỗi</string>
+    <string name="unsubscribe_successfully">Hủy đăng ký thành công</string>
     <string name="unsupport_tip">Định dạng tập tin này không được hỗ trợ. Thử chọn tập tin khác.</string>
     <string name="up_to_the_end">Không còn mục nào nữa</string>
     <string name="update_btn">CẬP NHẬT NGAY</string>
@@ -1189,6 +1240,7 @@ mm"</string>
     <string name="update_push_content">Cập nhật ngay</string>
     <string name="update_push_title">Chủ đề của bạn có phiên bản mới</string>
     <string name="update_title">TÌM THẤY BẢN CẬP NHẬT MỚI</string>
+    <string name="updating_the_app_tip">Đang cập nhật…</string>
     <string name="used_wallpaper">Đã sử dụng trước đây</string>
     <string name="user_agree">Đồng ý</string>
     <string name="user_attention_new_theme">Nội dung mới từ %s</string>
@@ -1238,6 +1290,7 @@ Bạn có thể rút lại chấp thuận của mình đối với Chính sách 
     <string name="wallpaper_group_natural_texture_title">Hình mở khóa tự nhiên</string>
     <string name="wallpaper_group_sgn_mountain_title">Núi Tứ cô nương</string>
     <string name="wallpaper_might_like">Hình nền bạn có thể thích</string>
+    <string name="wallpaper_restore_defalut_push">Đã khôi phục về mặc định</string>
     <string name="wallpaper_scroll_type_tips">Cuộn hình nền</string>
     <string name="wallpaper_set_as_both">Đặt cả hai</string>
     <string name="wallpaper_set_as_desktop">Đặt làm Màn hình chính</string>

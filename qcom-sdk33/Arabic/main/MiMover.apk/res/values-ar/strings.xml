@@ -77,6 +77,7 @@
     <string name="cancel">إلغاء</string>
     <string name="cancel_moving_dialog_message">إيقاف الاستيراد الآن؟</string>
     <string name="cancel_moving_dialog_title">إيقاف الاستيراد</string>
+    <string name="cancel_tranfer">إلغاء</string>
     <string name="cannot_use_mi_huanji_button">فهمت</string>
     <string name="cannot_use_mi_huanji_summary">يبدو أن MIUI يقوم بعمل نسخة احتياطية للعناصر الآن. أوقف النسخ الاحتياطي الجاري حاليا أو أعد تشغيل الجهاز للسماح لناقل Mi ببدء عملية النقل.</string>
     <string name="cannot_use_mi_huanji_title">لا يمكن النقل الآن</string>
@@ -151,7 +152,7 @@ Visit https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة
     <string name="dialog_request_permission_message_extra_summary">تحتاج هذه الأذونات لتوفير الميزات والخدمات الأساسية لهذا التطبيق.</string>
     <string name="dialog_request_permission_message_extra_title">الأذونات الإلزامية</string>
     <string name="dialog_request_permission_message_global">يحتاج هذا التطبيق الأذونات التالية ليعمل بشكل طبيعي:</string>
-    <string name="dialog_request_permission_message_link" formatted="false"><Data>"ولمعرفة أيضا حقوقك كمستخدم وطرق استخدامنا لبياناتك، يجب عليك قراءة والموافقة على &lt;a href='%1s'>اتفاقية المستخدم&lt;/a> و &lt;a href='%2s'>سياسة الخصوصية&lt;/a>لدينا."</Data></string>
+    <string name="dialog_request_permission_message_link" formatted="false">"&lt;Data>ولمعرفة أيضا حقوقك كمستخدم وطرق استخدامنا لبياناتك، يجب عليك قراءة والموافقة على &lt;a href='%1s'>اتفاقية المستخدم&lt;/a> و &lt;a href='%2s'>سياسة الخصوصية&lt;/a>لدينا.&lt;/Data>"</string>
     <string name="dialog_request_permission_message_provision_link">ولمعرفة أيضا حقوقك كمستخدم وطرق استخدامنا لبياناتك، يجب عليك قراءة والموافقة على %1$s و%2$s.</string>
     <string name="dialog_request_permission_title">تنبيه</string>
     <string name="dialog_request_permission_title_global">الأذونات مطلوبة</string>
@@ -269,6 +270,7 @@ Visit https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة
     <string name="guest_unfinished_task_alert_message">يبدو أن لديك مهام نقل غير مكتملة. هل تريد متابعة النقل؟</string>
     <string name="guest_unfinished_task_alert_title">مهام غير مكتملة</string>
     <string name="hide_password_description">إخفاء كلمة المرور</string>
+    <string name="high_temp_summary">قد يسخن الجهاز أثناء نقل مجموعة كبيرة من البيانات. وهذا أمر طبيعي، وسوف يبرد جهازك بعد اكتمال عملية النقل.</string>
     <string name="host_boot_installation_bottom_tips">لا يمكن العثور على ناقل Mi؟ انقر للتنزيل.</string>
     <string name="host_boot_installation_button">التالي</string>
     <string name="host_boot_installation_dialog_message">لا يتوافق إصدار ناقل Mi على جهازك القديم مع الإصدار المثبت هنا. قم بتثبيت آخر إصدار من ناقل Mi على جهازك القديم.</string>
@@ -574,7 +576,7 @@ Visit https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة
     <string name="privacy_desc">مرحبا بك في ناقل Mi! يقدم لك هذا التطبيق الخدمات التالية:</string>
     <string name="privacy_experience_statement">انضم لبرنامج تجربة المستخدم الخاص بنا لمشاركة البيانات ومساعدتنا على تحسين منتجاتنا وخدماتنا.</string>
     <string name="privacy_item1">· نقل الملفات والرسائل وإعدادات تطبيقات النظام والتطبيقات</string>
-    <string name="privacy_message"><Data>يجب أن تقرأ وتوافق على &lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> قبل استخدام ناقل Mi. يمكنك سحب الموافقة على سياسة خصوصية ناقل Mi من \"حول ناقل Mi\" في أي وقت. أذا كنت لا توافق على الخدمات المذكورة أعلاه. فلن تعمل بعض الميزات بشكل صحيح ولكنها لن تؤثر على استخدامك للوظائف الأساسية لهذا التطبيق.</Data></string>
+    <string name="privacy_message">&lt;Data>يجب أن تقرأ وتوافق على &lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> قبل استخدام ناقل Mi. يمكنك سحب الموافقة على سياسة خصوصية ناقل Mi من \"حول ناقل Mi\" في أي وقت. أذا كنت لا توافق على الخدمات المذكورة أعلاه. فلن تعمل بعض الميزات بشكل صحيح ولكنها لن تؤثر على استخدامك للوظائف الأساسية لهذا التطبيق.&lt;/Data></string>
     <string name="privacy_policy">سياسة الخصوصية</string>
     <string name="privacy_title">الأحكام والشروط</string>
     <string name="prompt_before_transmission_message1_summary">إذا اخترت نقل هذه البيانات من جهازك القديم الآن، فسيتم استبدال بيانات التطبيق (بما في ذلك سجلات الدردشة) الموجودة على جهازك الجديد.</string>

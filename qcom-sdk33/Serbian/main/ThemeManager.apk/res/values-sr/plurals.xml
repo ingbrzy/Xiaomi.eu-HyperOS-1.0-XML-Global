@@ -183,6 +183,11 @@
         <item quantity="one">%d рад</item>
         <item quantity="few">%d рада</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">Ваш захтев ће бити обрађен за око %1$d секунди.</item>
+        <item quantity="one">Ваш захтев ће бити обрађен за око %1$d секунду.</item>
+        <item quantity="few">Ваш захтев ће бити обрађен за око %1$d секунде.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"%d поруџбина је успешно рефундирано. "</item>
         <item quantity="one">"%d поруџбина је успешно рефундирана. "</item>

@@ -77,6 +77,7 @@
     <string name="cancel">Cancelar</string>
     <string name="cancel_moving_dialog_message">¿Detener la importación?</string>
     <string name="cancel_moving_dialog_title">Detener la importación</string>
+    <string name="cancel_tranfer">Cancelar</string>
     <string name="cannot_use_mi_huanji_button">Entendido</string>
     <string name="cannot_use_mi_huanji_summary">Parece que MIUI ahora está copiando elementos. Detén las copias de seguridad en curso o reinicia tu dispositivo para permitir que Mi Mover inicie la transferencia.</string>
     <string name="cannot_use_mi_huanji_title">Ahora no se puede transferir</string>
@@ -269,6 +270,7 @@ Abre WeChat y ve a Yo > Ajustes > General > Copia de seguridad &amp; migrar chat
     <string name="guest_unfinished_task_alert_message">Parece que tienes transferencias en curso. ¿Continuar con la transferencia?</string>
     <string name="guest_unfinished_task_alert_title">Tareas no terminadas</string>
     <string name="hide_password_description">Ocultar contraseña</string>
+    <string name="high_temp_summary">Tu dispositivo podría calentarse al transferir grandes cantidades de datos. Esto es normal y el dispositivo se enfriará una vez finalizada la transferencia.</string>
     <string name="host_boot_installation_bottom_tips">¿No puedes encontrar Mi Mover? Pulsa para descargar.</string>
     <string name="host_boot_installation_button">Siguiente</string>
     <string name="host_boot_installation_dialog_message">La versión de Mi Mover de tu dispositivo antiguo no es compatible con la instalada aquí. Actualiza Mi Mover en tu dispositivo antiguo.</string>

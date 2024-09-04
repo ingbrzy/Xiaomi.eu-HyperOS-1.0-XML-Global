@@ -146,6 +146,10 @@
         <item quantity="other">%d творби</item>
         <item quantity="one">%d творба</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">Вашата заявка ще бъде обработена след около %1$d секунди.</item>
+        <item quantity="one">Вашата заявка ще бъде обработена след около %1$d секунда.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"Парите от %d поръчки бяха възстановени успешно. "</item>
         <item quantity="one">"Парите от %d поръчка бяха възстановени успешно. "</item>

@@ -112,6 +112,9 @@ Coin không được hoàn lại"</item>
     <plurals name="portfolio">
         <item quantity="other">%d tác phẩm</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">Yêu cầu của bạn sẽ được xử lý sau khoảng %1$d giây.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"Đơn hàng %d được hoàn tiền thành công. "</item>
     </plurals>

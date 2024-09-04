@@ -724,6 +724,11 @@
         <item quantity="one">" мин."</item>
         <item quantity="few">" мин."</item>
     </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d-дневни</item>
+        <item quantity="one">%d-дневни</item>
+        <item quantity="few">%d-дневни</item>
+    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d ставки</item>
         <item quantity="one">%d ставка</item>

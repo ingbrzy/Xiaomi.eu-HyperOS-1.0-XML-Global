@@ -297,7 +297,7 @@
     <string name="open_web_url">Адкрыць у Браўзеры</string>
     <string name="pay_save_this_choose">Запомніць выбар</string>
     <string name="payment_text">Адкрыніць з дапамогай %s</string>
-    <string name="permissions_need">Абавязковыя дазвалення</string>
+    <string name="permissions_need">Абавязковыя дазволы</string>
     <string name="permissions_use">Дазволы</string>
     <string name="phone">Тэлефон:</string>
     <string name="place_barcode_into_rectangle">Змясціце код у межах рамкі</string>

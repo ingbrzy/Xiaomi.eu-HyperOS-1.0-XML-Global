@@ -106,6 +106,10 @@
     <string name="author_new_theme">Novo</string>
     <string name="author_popularity">Ogledi</string>
     <string name="author_unfollow_succeed">Prenehali ste slediti</string>
+    <string name="automatic_renewal_monthly">Samodejno se podaljša za %s/mesec</string>
+    <string name="automatic_renewal_weekly">Samodejno se podaljša za %s/teden</string>
+    <string name="automatic_renewal_yearly">Samodejno se podaljša za %s/leto</string>
+    <string name="automatically_push_content_to_lock_screen">Vsak dan bo na Zaklenjenem zaslonu prikazana nova vsebina</string>
     <string name="automatically_update_using_theme_tips">Naslednjič samodejno posodobi</string>
     <string name="back_to_default">Obnovitev na privzeto</string>
     <string name="back_to_none">Brez melodije zvonjenja</string>
@@ -122,6 +126,9 @@
     <string name="bottomsheet_action_expand_halfway">Razširjanje na pol višine</string>
     <string name="browser_local_resource">Lokalni viri</string>
     <string name="can_not_apply">Ne morem uporabiti</string>
+    <string name="canceled_failed">Ni bilo mogoče preklicati</string>
+    <string name="canceled_subscription_failed">Naročnine ni bilo mogoče preklicati. Poskusite znova.</string>
+    <string name="canceled_trial_failed">Ni bilo mogoče preklicati. Poskusite ponovno.</string>
     <string name="card_data_request_error">Prišlo je do napake. Počakajte minuto ali dve in poskusite ponovno.</string>
     <string name="card_loading">Trenutek…</string>
     <string name="card_no_network">Povezava z omrežjem ni uspela. Preverite nastavitve in poskusite ponovno.</string>
@@ -175,6 +182,7 @@
     <string name="current_using_desktop_wallpaper_text">Začetni zaslon</string>
     <string name="current_using_lockscreen_wallpaper_text">Zaklenjen zaslon</string>
     <string name="current_version_incompatible">Ni kompatibilno</string>
+    <string name="custom_wallpaper_for_you">Personalizirana ozadja za vas</string>
     <string name="data_use_desc">Pravni dokumenti</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +192,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">Nastavi</string>
     <string name="de_super_wp_land_position_default_des">Izberite ogled</string>
     <string name="deleting">Brišem…</string>
+    <string name="delivers_fresh_content_and_design_daily">Vsak dan novi dizajni</string>
     <string name="description_author">Avtor</string>
     <string name="description_designer">Oblikovalec</string>
     <string name="description_download">Prenešeno</string>
@@ -210,6 +219,7 @@
     <string name="editor_apply_message">"Oblikovalci uporabljajo to funkcijo za odpravljanje napak. Privzeta tema bo čez nekaj časa samodejno obnovljena. Pot datoteke trenutne teme: "</string>
     <string name="editor_apply_toast">Ročno izberite temp.mtz v korenskem imeniku</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">Vnesite e-poštni naslov</string>
     <string name="eras_ad">n. št.</string>
     <string name="eras_bc">pr. n. št.</string>
     <string name="error_icon_content_description">Napaka</string>
@@ -384,6 +394,7 @@
     <string name="hide_incompatible_font">Skrij nezdružljive pisave</string>
     <string name="hide_incompatible_theme">Skrij nezdružljive teme</string>
     <string name="hide_incompatible_wallpaper">Skrij nezdružljiva ozadja</string>
+    <string name="hint_email_address">Vnesite e-poštni naslov</string>
     <string name="home_apply_failured">Ne morem nastaviti ozadja Začetnega zaslona</string>
     <string name="home_apply_success">Nastavljeno ozadje Začetnega zaslona</string>
     <string name="hot_first">Najprej priljubljeno</string>
@@ -417,6 +428,7 @@
     <string name="loading_resource_detail_fail">Ne morem naložiti vira</string>
     <string name="loading_resource_detail_info">Trenutek…</string>
     <string name="local_photos">Lokalne fotografije</string>
+    <string name="local_record__email_info">Zapomnite si moj e-poštni naslov</string>
     <string name="local_resouce_creator_name">Razvijalec: %1$s</string>
     <string name="lock_screen_edit">Uredi Zaklenjen zaslon</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">Ta predloga zaklenjenega zaslona ne podpira Super ozadij. Po uporabi se bo vaš zaklenjeni zaslon povrnil na privzeto, ozadja domačega in zaklenjenega zaslona pa bodo zamenjana. Prijavi se zdaj?</string>
@@ -457,6 +469,7 @@
     <string name="message_sim_two">SIM %d sporočilo</string>
     <string name="mi_wallpaper">MIUI ozadje</string>
     <string name="midnight">Noč</string>
+    <string name="mine_subscribed_wallpaper">Naročena ozadja</string>
     <string name="miui_clock_city_name_local">Lokalno</string>
     <string name="miui_clock_city_name_second">Druga ura</string>
     <string name="miui_lock_screen_date">EEE, d. MMM</string>
@@ -701,7 +714,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">Prilagodite svojo napravo</string>
     <string name="present_official_themes">Naše izbire</string>
     <string name="present_online_themes">Pridobi več tem na spletu</string>
+    <string name="price_for_automatic_renewal">Samodejno podaljšaj za %1$s</string>
     <string name="privacy_desc">Pravilnik o zasebnosti (obvezno)</string>
+    <string name="privacy_simple_content">Vklopite prilagojena priporočila ter uživajte v vsebini in izdelkih, ki so prilagojeni vašim interesom.</string>
+    <string name="privacy_simple_hint">Preference lahko kadar koli spremenite v Nastavitvah.</string>
+    <string name="privacy_simple_title">Prilagojena priporočila</string>
     <string name="promotion_ad">Promocija</string>
     <string name="provision_default_theme_title">Privzeto</string>
     <string name="provision_download_cancel">Preklic prenosa</string>
@@ -747,6 +764,9 @@ mm"</string>
     <string name="related_theme">Teme</string>
     <string name="related_wallpaper">Ozadja</string>
     <string name="reload">Poskusite ponovno</string>
+    <string name="renewal_of_a_contract_monthly">Podaljšaj za %s/mesec</string>
+    <string name="renewal_of_a_contract_weekly">Podaljšaj za %s/teden</string>
+    <string name="renewal_of_a_contract_yearly">Podaljšaj za %s/leto</string>
     <string name="res_migrate_tip">Da bi bile teme združljive s prihajajočimi različicami Androida, smo prenesene predmete premaknili na novo lokacijo. Ponovno zaženite aplikacijo, da uveljavite spremembe in si ogledate preneseno vsebino.</string>
     <string name="resource_account_abnormal_state">Napaka računa. Počakajte minuto ali dve in poskusite ponovno.</string>
     <string name="resource_account_fail_to_add">Ne morem dodati računa</string>
@@ -766,6 +786,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">Izbrišem vso zgodovino iskanja?</string>
     <string name="resource_continue">Naprej</string>
     <string name="resource_current_using_title">Trenutni viri</string>
+    <string name="resource_currently_applied">Nastavljeno</string>
     <string name="resource_data_empty">Ni predmetov</string>
     <string name="resource_default">Privzeta melodija zvonjenja</string>
     <string name="resource_default_name">Viri</string>
@@ -964,6 +985,7 @@ mm"</string>
     <string name="select_all">Izberi vse</string>
     <string name="selected_resource_file_invalid">Ni mogoče uporabljati izbrano datoteko virov</string>
     <string name="send">Pošlji</string>
+    <string name="service_expiration_date">Velja do %1$s</string>
     <string name="set_color_ring_back_tone">Nastavite privzeto melodijo zvonenja</string>
     <string name="settings">Nastavitve</string>
     <string name="shortcut_add">Dodaj</string>
@@ -985,6 +1007,9 @@ mm"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Uporabi</string>
     <string name="storage_file">Za shranjevanje prenesenih predmetov</string>
+    <string name="submission_successfully">Uspešno poslano</string>
+    <string name="subscription_service_shutdown_tip">Predplačniška ozadja niso več prikazana, ker uporabljate drugo storitev. Predplačniško ozadje lahko znova nastavite.</string>
+    <string name="successfully_applied_wallpaper_tip">Ozadje nastavljeno</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Nedelja</string>
     <string name="sunday_short">Ned</string>
@@ -997,11 +1022,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">Namesti</string>
     <string name="super_wallpaper_list_footer_text">Več super ozadji kmalu</string>
     <string name="super_wallpaper_list_label">Super ozadja</string>
+    <string name="super_wallpaper_low_version_tip_push">Posodobite Super ozadja na najnovejšo različico, da jih boste lahko še naprej uporabljali.</string>
+    <string name="super_wallpaper_restore_msg_push">Trenutna različica Super ozadij je naletela na težavo z nezdružljivostjo. Vaše privzeto ozadje je bilo obnovljeno. Posodobite na najnovejšo različico, da boste lahko uporabljali Super ozadja.</string>
     <string name="super_wallpaper_setting_apply_success_toast">Uspešno nastavljeno</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Nastavi</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Možnosti</string>
     <string name="super_wallpaper_setting_coordinate_title">Koordinate</string>
     <string name="super_wallpaper_setting_view_height_title">Nadmorska višina</string>
+    <string name="super_wallpaper_upgrade_tip_push">Posodobite Super ozadja</string>
     <string name="support_google_dynamic_color_hint">Uporabljate Google Dynamic Color. Barvne palete nekaterih aplikacij se lahko spremenijo, ko nastavite nove teme in ozadja.</string>
     <string name="swipe_find_more">Podrsajte navzgor, da preberete več</string>
     <string name="system_aod_dialog_message">Vklopite Always On Display, da bi lahko uporabili to funkcijo.</string>
@@ -1009,7 +1037,26 @@ mm"</string>
     <string name="system_aod_dialog_title">Always On Display</string>
     <string name="system_phone">Klici</string>
     <string name="system_precust">Prednameščeno</string>
+    <string name="text_billing_info">Informacije o računu</string>
+    <string name="text_cancel_subscription_service">Želite preklicati to naročnino zdaj?</string>
+    <string name="text_content_update">Nova vsebina dnevno</string>
+    <string name="text_free_trial">Poskusite brezplačno</string>
+    <string name="text_pay_monthly" formatted="false">Z dnem %s se samodejno podaljša za %s/mesec do preklica</string>
+    <string name="text_pay_weekly" formatted="false">Z dnem %s se samodejno podaljša za %s/teden do preklica</string>
+    <string name="text_pay_yearly" formatted="false">Z dnem %s se samodejno podaljša za %s/leto do preklica</string>
     <string name="text_play">Igraj</string>
+    <string name="text_start_time_format">d. M.</string>
+    <string name="text_status_apply_now">Nastavi</string>
+    <string name="text_status_be_subscribing">Naročeni ste</string>
+    <string name="text_status_cancel_the_trial">Konec preskusne dobe</string>
+    <string name="text_status_on_trial">Preskusna doba</string>
+    <string name="text_status_subscribe_now">Naroči se</string>
+    <string name="text_status_unsubscribe">Odjava naročnine</string>
+    <string name="text_status_unsubscribed">Naročnina odjavljena</string>
+    <string name="text_subscribe">Naročnine</string>
+    <string name="text_subscribed">Naročeni ste</string>
+    <string name="text_when_cancel_the_trial_tip">Če prekličete preskusno dobo, bo to ozadje izbrisano iz vaše naprave.</string>
+    <string name="text_when_unsubscribe_tip">Če naročnino prekličete, bo to ozadje izbrisano iz vaše naprave.</string>
     <string name="the_anniversary_of_lifting_martial_law">Obletnica odprave vojaškega prava</string>
     <string name="the_anti_aggression_day">Dan proti agresiji</string>
     <string name="the_arbor_day">Arbor dan</string>
@@ -1150,6 +1197,8 @@ mm"</string>
     <string name="tip_lockscreen">Spremeni ozadje in uro Zaklenjenega zaslona</string>
     <string name="tip_lockscreen2">Uporabljate Wallpaper Carousel. Prilagajanje teme bo spremenilo ozadje zaklenjenega zaslona in uro.</string>
     <string name="tip_statusbar">Spremeni Nadzorni center in Ploščo obvestil</string>
+    <string name="tips_subscriptions_close">Naročnine na ozadja so izklopljene</string>
+    <string name="tips_talk_later">Ne zdaj</string>
     <string name="tips_theme_gate_transfer_fail">Te strani ni bilo mogoče odpreti. Počakajte minuto ali dve in poskusite ponovno.</string>
     <string name="title_component">Prilagodite temo</string>
     <string name="title_home_miwallpaper_home_screen_effects">Učinki Začetnega zaslona</string>
@@ -1164,6 +1213,7 @@ mm"</string>
     <string name="today">Danes</string>
     <string name="tomorrow">Jutri</string>
     <string name="top">Priljubljeno</string>
+    <string name="trial_cancellation_succeeded">Preskusna doba preklicana</string>
     <string name="try_fresh_functions_and_contents">Preverite novo dodane funkcije in vsebino</string>
     <string name="try_it">Poskusite</string>
     <string name="try_tap">Tapnite za prikaz</string>
@@ -1175,6 +1225,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">Razumem</string>
     <string name="uid_change_dialog_title">Ponovni zagon</string>
     <string name="unknown_error">Prišlo je do napake</string>
+    <string name="unsubscribe_successfully">Naročnina uspešno preklicana</string>
     <string name="unsupport_tip">Format datoteke ni podprt. Poskusite izbrati drugačno datoteko.</string>
     <string name="up_to_the_end">Ni več predmetov za prikaz</string>
     <string name="update_btn">POSODOBI ZDAJ</string>
@@ -1189,6 +1240,7 @@ mm"</string>
     <string name="update_push_content">Posodobi zdaj</string>
     <string name="update_push_title">Vaša tema ima na voljo novo različico</string>
     <string name="update_title">NOVA POSODOBITEV JE NA VOLJO</string>
+    <string name="updating_the_app_tip">Posodabljanje …</string>
     <string name="used_wallpaper">Prej uporabljeno</string>
     <string name="user_agree">Strinjam se</string>
     <string name="user_attention_new_theme">Nova vsebina od %s</string>
@@ -1238,6 +1290,7 @@ V Nastavitvah aplikacije Teme lahko kadarkoli prekličete vaše soglasje s Pravi
     <string name="wallpaper_group_natural_texture_title">Naravni vzorci</string>
     <string name="wallpaper_group_sgn_mountain_title">Gora Siguniang</string>
     <string name="wallpaper_might_like">Ozadja, ki vam bodo mogoče všeč</string>
+    <string name="wallpaper_restore_defalut_push">Obnovljeno na privzeto</string>
     <string name="wallpaper_scroll_type_tips">Pomakni sliko za ozadje</string>
     <string name="wallpaper_set_as_both">Nastavi oboje</string>
     <string name="wallpaper_set_as_desktop">Nastavi kot Začetni zaslon</string>

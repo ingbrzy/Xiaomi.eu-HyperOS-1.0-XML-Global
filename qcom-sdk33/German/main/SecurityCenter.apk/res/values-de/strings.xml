@@ -590,6 +590,7 @@ Du verlierst keine App-Daten."</string>
     <string name="apps_list_header_title_sms_access">Zugriff auf Bestätigungscodes einschränken</string>
     <string name="ask_create_shortcut">Startbildschirmverknüpfung erstellen?</string>
     <string name="audio_optimization_summary">Verbessere den Klang und reduziere Umgebungsgeräusche in Gesprächen</string>
+    <string name="audio_optimization_summary_new">Optimiert die Klangqualität der Kopfhörer beim Spielen und reduziert Geräusche beim Telefonieren</string>
     <string name="audio_optimization_title">Optimiertes Audio</string>
     <string name="auto_atsk_condition_battery_level_text_down">Wenn Akku %s erreicht</string>
     <string name="auto_atsk_condition_battery_level_text_up">Wenn Akku zu %s aufgeladen ist</string>
@@ -1130,6 +1131,7 @@ Jedoch sind einige deiner Transaktionen noch nicht abgeschlossen. Um deine Zusti
     <string name="continue_set">Fortfahren</string>
     <string name="convenient_mode">Alle Apps gleichzeitig freischalten</string>
     <string name="convenient_summary">Passwort einmal eingeben um alle Apps zu entsperren</string>
+    <string name="conversation_phone_title">Anruf-Toolbox</string>
     <string name="conversation_settings_top">"- Ziehe die Konferenz-Toolleiste bei Vollbild-Audio- und Videoanrufen heraus, um auf seine Funktionen zuzugreifen.
 - Art und Anzahl dieser Funktionen hängt vom Gerätemodell ab."</string>
     <string name="conversation_sider_tips">Verwende die neuen Konferenz-Tools für die beste Anruferfahrung</string>
@@ -1144,9 +1146,13 @@ Jedoch sind einige deiner Transaktionen noch nicht abgeschlossen. Um deine Zusti
     <string name="create_gamebooster_destop">Startbildschirm-Verknüpfung erfolgreich erstellt</string>
     <string name="create_shortcut">Verknüpfung für Spiel-Turbo auf dem Startbildschirm erstellen</string>
     <string name="cs_color_sense">Farbtemperatur</string>
+    <string name="cs_conversation_record_using">Aufnahme</string>
     <string name="cs_func_toast_headset">Trenne die Verbindung zu deinem Headset, um diese Funktion nutzen zu können</string>
     <string name="cs_func_toast_light">Wechsle auf die Frontkamera, um diese Funktion nutzen zu können</string>
     <string name="cs_func_toast_pickup">Wechsle auf einen Videoanruf, um diese Funktion nutzen zu können</string>
+    <string name="cs_func_unavailable_tips">Diese Funktion während Anrufen verwenden</string>
+    <string name="cs_light_enhance_physical_options">Farbtemperatur</string>
+    <string name="cs_light_enhance_physical_title">Helligkeit</string>
     <string name="cs_pickup_denoise_desc">Geräuschminderung von eingehendem Audio beim Nutzen von Lautsprecher oder Kopfhörern</string>
     <string name="cs_pickup_denoise_title">Geräuschminderung</string>
     <string name="cs_pickup_multi_desc">%d Grad Tonabnahme</string>
@@ -1160,11 +1166,19 @@ Jedoch sind einige deiner Transaktionen noch nicht abgeschlossen. Um deine Zusti
     <string name="cs_pickup_vioce_print_unsupport_tips">Nimm den Voiceprint auf, bevor du „Einzelner Teilnehmer“ auswählst.</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Trenne die Verbindung zu externen Geräten und versuche es erneut.</string>
     <string name="cs_pickup_voice_print_desc">Nur Ton von einer Person aufnehmen</string>
+    <string name="cs_privacy_camera_global_settings_title">Datenschutz bei Anrufen</string>
     <string name="cs_screen_translation_title">Bildschirmübersetzung</string>
+    <string name="cs_simultaneous_interpretation_title">Dolmetschen</string>
     <string name="cs_title_pickup">Geräuschminderung</string>
     <string name="cs_title_smart_subtitle">Untertitel-Transkription</string>
     <string name="cs_title_ultraclear">Ultra-HD-Modus</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Probiere das Simultandolmetschen und andere Telefonkonferenz-Tools in der neuen Anruf-Toolbox</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Probiere eine Reihe von Funktionen für Telefonkonferenzen in der neuen Anruf-Toolbox aus</string>
+    <string name="cs_tool_box_phone_guide_case_1">Probiere das Simultandolmetschen und andere Funktionen in der neuen Anruf-Toolbox</string>
+    <string name="cs_tool_box_phone_guide_case_2">Probiere eine Reihe von Funktionen in der neuen Anruf-Toolbox aus</string>
     <string name="cs_voice_print">Voiceprint aufnehmen</string>
+    <string name="cs_vt_camera_toast_case1">Kamera in der aktuellen App öffnen</string>
+    <string name="cs_vt_camera_toast_case2">Keine kompatiblen Geräte in der Nähe</string>
     <string name="cta_agree_desc">Um unsere Services nutzen zu können, erlaube dieser App, sich mit dem Internet zu verbinden und erteile die oben aufgeführten Berechtigungen.</string>
     <string name="cta_close_dialog_cancel">Abbrechen</string>
     <string name="cta_close_dialog_content">Wenn du den Zugriff von Security auf das Internet und die Standortinformation einschränkst, kannst du keine Erdbebenwarnungen erhalten, keine Virusdefinitionen und Sperrlisteninformationen aktualisieren. Dein Gerät wird weniger sicher werden. Trotzdem einschränken?</string>
@@ -1845,6 +1859,8 @@ Alle Daten auf deinem Gerät werden möglicherweise gelöscht und dein Passwort 
     <string name="gb_audition_play_instruction">Nutze Ohrhörer für den besten Effekt</string>
     <string name="gb_award_noti_message">Schalte „Game for Peace“-Hintergrund-Updates in Spiel-Turbo an, um Belohnungen zu erhalten</string>
     <string name="gb_award_noti_title">Die „Game for Peace“-Belohnungen sind da!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Kann im Spiel-Turbo nicht in den ausgewogenen Modus wechseln, wenn der systemweite ultimative Modus eingeschaltet ist. Du kannst die Akkueinstellungen unter Sicherheit ändern.&lt;br>&lt;a href=\"#\">Sicherheit öffnen&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Kann im Spiel-Turbo nicht in den ausgewogenen Modus wechseln, wenn der systemweite ultimative Modus eingeschaltet ist. Du kannst die Akkueinstellungen unter Sicherheit ändern.&lt;br>&lt;a href=\"#\">Sicherheit öffnen&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">Hoch</string>
     <string name="gb_bar_low">Niedrig</string>
     <string name="gb_bar_mid">Mittel</string>
@@ -2000,6 +2016,8 @@ erhöht aber auch den Stromverbrauch und lässt Ihr Gerät überhitzen."</string
     <string name="gb_predownload_receive_tips">Hintergrundaktualisierung aktivieren, um Prämien zu erhalten</string>
     <string name="gb_predownload_receiving">Empfangen…</string>
     <string name="gb_predownload_title">Aktualisierungen im Hintergrund</string>
+    <string name="gb_setting_dock_toast">Frontkamera-Assistent-Funktionen sind jetzt in der Anruf-Toolbox verfügbar.</string>
+    <string name="gb_setting_dock_toast_2">Frontkamera-Assistent-Funktionen sind jetzt in der Anruf-Toolbox verfügbar.</string>
     <string name="gb_shortcut_pref_title">Startbildschirmverknüpfung</string>
     <string name="gb_shoulder_guide_message1">Bewege [L] auf eine beliebige Funktionsposition, um sie über die Schultertaste zu verwenden</string>
     <string name="gb_shoulder_guide_message2">Aktion [1] wird durch Drücken des Knopfes aktiviert. Aktion [2] wird durch Loslassen des Knopfes aktiviert.</string>
@@ -2135,9 +2153,21 @@ deiner Spiele-Sitzung auf"</string>
     <string name="gd_dock_shortcut_splitescreen">Mehrfenster-Modus</string>
     <string name="gd_setting_conversation">Konferenz-Tools</string>
     <string name="gd_setting_conversation_desc">Bietet eine Vielzahl von Funktionen zur Verwendung in Vollbild-Audio- und Videoanrufen</string>
+    <string name="gd_setting_dock_activity_title">Seitliche Toolbox</string>
+    <string name="gd_setting_dock_call_summary">Funktionen für Sprach- und Videoanrufe (z. B. Fülllicht)</string>
+    <string name="gd_setting_dock_call_title">Anruf-Toolbox</string>
+    <string name="gd_setting_dock_game_summary">Verbessere die Anzeige und Leistung beim Spielen.</string>
+    <string name="gd_setting_dock_game_summary_new">Verbessere die Anzeige und Leistung beim Spielen von Spielen.</string>
+    <string name="gd_setting_dock_summary">Öffne andere Apps in schwebenden Fenstern, während du eine App im Vollbildmodus verwendest.</string>
+    <string name="gd_setting_dock_title">Seitenleiste</string>
+    <string name="gd_setting_dock_video_summary">Nutze Effekte wie Dolby Atmos beim Ansehen von Videos.</string>
+    <string name="gd_setting_dock_video_summary_new">Verwende beim Betrachten von Videos Tools und Effekte.</string>
+    <string name="gd_setting_group_custom_conversation_apps">Voiceprint für Anrufe aufnehmen</string>
     <string name="gd_setting_group_custom_gtb_apps">Spiele</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Gaming-Apps verwalten</string>
     <string name="gd_setting_group_custom_settings">Personalisierung</string>
     <string name="gd_setting_group_custom_vtb_apps">Video-Apps</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Video-Apps verwalten</string>
     <string name="gd_setting_group_title_switch">Szenen</string>
     <string name="gd_setting_gtb">Beim Spielen anzeigen</string>
     <string name="gd_setting_gtb_desc">Spezielle Gaming-Funktionen</string>
@@ -2157,11 +2187,17 @@ deiner Spiele-Sitzung auf"</string>
     <string name="get_phone_num_fail">Unbekannte Telefonnummer</string>
     <string name="get_sys_info">Info abrufen…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">Drücke und halte den Indikator, um das Fenster zu verschieben.</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Tippe auf eine App in der Seitenleiste, um sie in einem schwebenden Fenster zu öffnen.
 · Ziehe eine App in die Mitte des Bildschirms, um sie in einem schwebenden Fenster zu öffnen, oder an die Seite, um den Mehrfenster-Modus zu verwenden.
 · Drücke und halte den Indikator, um das Fenster zu verschieben."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"Tippe auf eine App in der Seitenleiste, um sie in einem schwebenden Fenster zu öffnen.
+ Ziehe eine App in die Mitte des Bildschirms, um sie in einem schwebenden Fenster zu öffnen, oder an die Seite, um den Mehrfenster-Modus zu verwenden.
+ Drücke und halte den Indikator, um das Fenster zu verschieben."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Tippe auf eine App in der Seitenleiste, um sie in einem schwebenden Fenster zu öffnen.
 · Drücke und halte den Indikator, um das Fenster zu verschieben."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Wische, um die Seitenleiste zu öffnen, und tippe auf eine App, um sie in einem schwebenden Fenster zu öffnen.
+Drücke und halte den Indikator, um das Fenster zu verschieben."</string>
     <string name="global_satisfaction_notification_button">Bewerten</string>
     <string name="global_satisfaction_notification_channel">Umfrage zur Benutzerzufriedenheit</string>
     <string name="global_satisfaction_notification_subhead">Erzähle uns von deiner Erfahrung</string>
@@ -3182,6 +3218,7 @@ Stelle eine Verbindung mit einem anderen Ethernet-Kabel her. Wenn du vermutest, 
     <string name="pc_battery_history_total_consumption_title">Gesamter Stromverbrauch</string>
     <string name="pc_battery_history_usetime_title">Aktiv</string>
     <string name="pc_battery_low_health_reminder">Es ist an der Zeit, deine Batterie zu ersetzen.</string>
+    <string name="pc_battery_replacement_service_title">Teste unsere Akku-Ersatzdienst. %1$s Original-Hardware mit einer %2$s Garantie.</string>
     <string name="pc_berserk_mode_dialog_title">Ultimativen Modus einschalten</string>
     <string name="pc_berserk_mode_noti_summary">Der ultimative Modus erhöht möglicherweise den Energieverbrauch und kann zu Überhitzungsproblemen führen</string>
     <string name="pc_berserk_mode_performance_title">Ultimativer Modus</string>
@@ -3255,6 +3292,7 @@ Stelle eine Verbindung mit einem anderen Ethernet-Kabel her. Wenn du vermutest, 
     <string name="pc_fast_charge_switch_summary_new">Erinnern, die Aufladegeschwindigkeit zu erhöhen, wenn das mitgelieferte Ladegerät angeschlossen ist und der Akku den eingestellten Wert unterschreitet.</string>
     <string name="pc_fast_charge_switch_title">Ladegeschwindigkeit steigern</string>
     <string name="pc_fast_charge_switch_toast_message">Änderungen werden beim nächsten Laden des Gerätes angewandt</string>
+    <string name="pc_fast_charge_temp_remider">Einschalten, um die Ladegeschwindigkeit automatisch zu regulieren. Diese Funktion ist nur mit den von Xiaomi gelieferten Ladegeräten möglich. Dein Gerät kann sich während des Ladevorgangs erhitzen.</string>
     <string name="pc_fast_charge_title">Ladegeschwindigkeit steigern</string>
     <string name="pc_going_to_exit_extreme_mode">Ruhezustand verlassen</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Dein Gerät wird aufgeladen. Der Ruhezustand ist deaktiviert.</string>
@@ -3343,6 +3381,16 @@ wird ausgeschaltet"</string>
     <string name="pc_search_keywords_capacity">Akkukapazität</string>
     <string name="pc_search_keywords_property">Leistung</string>
     <string name="pc_settings_title">Akku</string>
+    <string name="pc_smart_charge_button_summary">Um die Lebensdauer des Akkus zu verlängern, lernt das System, wie du dein Gerät auflädst und beendet den Ladevorgang, wenn der Akkustand %1$s erreicht</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Dein Gerät hat sich erhitzt. Der Ladevorgang wird gestoppt, wenn der Akkustand %1$s erreicht</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Navigieren… Der Ladevorgang wird gestoppt, wenn der Akkustand %1$s erreicht</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">Aufladen wird bei %s gestoppt</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">Um die Lebensdauer des Akkus zu verlängern, wird der Akku des Geräts nicht über den aktuellen Ladestand hinausgehen, während er mit dem Auto verbunden ist.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Nicht mehr anzeigen</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Akkuschutz</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">Um die Lebensdauer des Akkus zu verlängern, wird der Akku des Geräts nicht über den aktuellen Ladestand hinausgehen, während er mit dem Auto verbunden ist</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Akkuschutz</string>
+    <string name="pc_smart_charge_title">Intelligentes Aufladen</string>
     <string name="pc_smart_discharge_checkbox_summary">Bei Verwendung der Navigationsfunktionen wird der Ladevorgang automatisch bei einem bestimmten Prozentsatz beendet. Der Energiesparmodus wird ausgeschaltet.</string>
     <string name="pc_smart_discharge_checkbox_title">Ladevorgang automatisch trennen</string>
     <string name="pc_smart_discharge_drop_down_title">Einstellungen zum automatischen Trennen</string>
@@ -3355,6 +3403,8 @@ wird ausgeschaltet"</string>
     <string name="pc_statistics_battery_use_title">Akkuverbrauch</string>
     <string name="pc_suggest_open_fast_charge">Schalte %dW Schnellladung an.</string>
     <string name="pc_temperature_too_high">Gerät überhitzt</string>
+    <string name="pc_this_time_charge_full">Dieses Mal vollständig aufladen</string>
+    <string name="pc_this_time_charge_full_work">Fast voll aufgeladen</string>
     <string name="pc_timely_charging_summary">Akkustand ist unter %1$s. Sollte das Gerät bei niedrigem Akkustand überhitzen, könnte dies den Akku beschädigen.</string>
     <string name="pc_timely_charging_title">Lade dein Gerät auf</string>
     <string name="pc_to_phone_install">Installation von %s über USB blockiert</string>
@@ -4375,6 +4425,13 @@ Zustimmung jetzt widerrufen?"</string>
     <string name="sd_mount">SD-Karte anschließen</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">App</string>
+    <string name="search_keyword_applybar">App-Dock</string>
+    <string name="search_keyword_call">Anruf</string>
+    <string name="search_keyword_sidebar">Seitenleiste</string>
+    <string name="search_keyword_tool">Tools</string>
+    <string name="search_keyword_tools">Toolbox</string>
+    <string name="search_keyword_voice">Sprache</string>
     <string name="search_menu_title">Suche</string>
     <string name="search_result_text">Keine Apps gefunden</string>
     <string name="section_clear_acc_item_title">%s. Wenn immer noch nicht genug Speicherplatz vorhanden ist, bitte Bereinigung versuchen.</string>
@@ -5164,6 +5221,7 @@ Das Formatieren wird existierende Inhalte auf ^2 löschen. Um den Verlust von In
     <string name="title_cloud_space_almost_full">Cloud Speicher ist fast voll, Elemente können nicht synchronisiert werden</string>
     <string name="title_cloud_space_full">Xiaomi Cloud ist voll</string>
     <string name="title_cmcc_app_check">Die Überprüfung ist nicht vollständig</string>
+    <string name="title_condition_meeting">Meeting</string>
     <string name="title_consume_power_rank">App-Energieverbrauch</string>
     <string name="title_dark_mode">Einige Elemente werden nicht korrekt angezeigt</string>
     <string name="title_data_flow">Mobile Daten überwachen</string>
@@ -5224,6 +5282,8 @@ Das Formatieren wird existierende Inhalte auf ^2 löschen. Um den Verlust von In
     <string name="toast_cleaner_cloudscan">Bereinigung wird Onlinedefinitionen verwenden</string>
     <string name="toast_dark_mode_fixed">Erfolgreich behoben. Verlasse diese Seite, um Änderungen zu übernehmen.</string>
     <string name="toast_flow_notification">Datennutzungsbenachrichtigungen aktiviert</string>
+    <string name="toast_gamembox_unenable_pad">Schalte zuerst den Spiel-Turbo unter Sicherheit ein.</string>
+    <string name="toast_gamembox_unenable_phone">Schalte zuerst den Spiel-Turbo unter Sicherheit ein.</string>
     <string name="toast_garbage_lib">Automatische Updates für Cleaner eingeschaltet</string>
     <string name="toast_keyword_blank">Du musst ein Schlüsselwort eingeben</string>
     <string name="toast_keyword_exist">Schlüsselwort hinzugefügt</string>

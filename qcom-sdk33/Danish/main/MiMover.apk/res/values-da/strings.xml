@@ -77,6 +77,7 @@
     <string name="cancel">Annuller</string>
     <string name="cancel_moving_dialog_message">Stop med at importere nu?</string>
     <string name="cancel_moving_dialog_title">Stop med at importere</string>
+    <string name="cancel_tranfer">Annuller</string>
     <string name="cannot_use_mi_huanji_button">Forstået</string>
     <string name="cannot_use_mi_huanji_summary">Det ser ud til, at MIUI sikkerhedskopierer elementer i øjeblikket. Stop igangværende sikkerhedskopiering eller genstart din enhed, for at Mi Mover kan begynde overførslen.</string>
     <string name="cannot_use_mi_huanji_title">Kan ikke overføre nu</string>
@@ -269,6 +270,7 @@ Besøg https://appleid.apple.com/#!&amp;page=signin at deaktivere"</string>
     <string name="guest_unfinished_task_alert_message">Det ser ud, som om der er uafsluttede overførselsopgaver. Fortsæt med overførslen?</string>
     <string name="guest_unfinished_task_alert_title">Uafsluttede opgaver</string>
     <string name="hide_password_description">Skjul adgangskode</string>
+    <string name="high_temp_summary">Din enhed kan blive varm, mens du overfører store datamængder. Det er helt normalt, og din enhed køler ned igen, når overførslen er fuldført.</string>
     <string name="host_boot_installation_bottom_tips">Kan du ikke finde Mi Mover? Tryk på download.</string>
     <string name="host_boot_installation_button">Næste</string>
     <string name="host_boot_installation_dialog_message">Versionen af Mi Mover på din gamle enhed er ikke kompatibel med den, du har installeret her. Opdater Mi Mover på din gamle enhed.</string>
@@ -700,7 +702,7 @@ Frigør mindst %s."</string>
     <string name="sunday">Søndag</string>
     <string name="sunday_short">Søn</string>
     <string name="sunday_shortest">Søn</string>
-    <string name="switching_to_5g">Skift til kanal til overførsel i høj hastighed…</string>
+    <string name="switching_to_5g">Skift til kanal med højhastighedsoverførsel…</string>
     <string name="sync_data_to_mi_cloud_content1">%d. Tryk på \"Synkroniser nu\" på fanen \"Kontakter\".</string>
     <string name="sync_data_to_mi_cloud_content2">%d. Tryk på \"Tag backup nu\" på fanen \"Fotos\".</string>
     <string name="sync_data_to_mi_cloud_summary">Åbn Xiaomi Cloud på din iPhone og følg disse trin for at synkronisere data. Tryk på knappen forneden, når synkroniseringen er gennemført.</string>

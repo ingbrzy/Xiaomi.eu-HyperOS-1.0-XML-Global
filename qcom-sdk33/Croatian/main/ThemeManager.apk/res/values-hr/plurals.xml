@@ -183,6 +183,11 @@ Novčići su nepovratni."</item>
         <item quantity="one">%d posla</item>
         <item quantity="few">%d posla</item>
     </plurals>
+    <plurals name="processing_is_expected_text">
+        <item quantity="other">Vaš će zahtjev biti obrađen za otprilike %1$d sekundi.</item>
+        <item quantity="one">Vaš će zahtjev biti obrađen za otprilike %1$d sekundu.</item>
+        <item quantity="few">Vaš će zahtjev biti obrađen za otprilike %1$d sekunde.</item>
+    </plurals>
     <plurals name="purchase_refund_success_diag_notice_one">
         <item quantity="other">"Novac od %d narudžbi uspješno vraćen. "</item>
         <item quantity="one">"Novac od %d narudžbe uspješno vraćen. "</item>

@@ -106,6 +106,10 @@
     <string name="author_new_theme">Nou</string>
     <string name="author_popularity">Vizualizări</string>
     <string name="author_unfollow_succeed">Urmărire anulată cu succes</string>
+    <string name="automatic_renewal_monthly">Se reînnoiește automat pentru %s/lună</string>
+    <string name="automatic_renewal_weekly">Se reînnoiește automat pentru %s/săptămână</string>
+    <string name="automatic_renewal_yearly">Se reînnoiește automat pentru %s/an</string>
+    <string name="automatically_push_content_to_lock_screen">Conținut nou va fi afișat pe Ecranul de blocare în fiecare zi</string>
     <string name="automatically_update_using_theme_tips">Actualizați automat data viitoare</string>
     <string name="back_to_default">Înapoi la implicit</string>
     <string name="back_to_none">Nu setați ton de apel</string>
@@ -122,6 +126,9 @@
     <string name="bottomsheet_action_expand_halfway">Extinde pe ecran complet</string>
     <string name="browser_local_resource">Resurse locale</string>
     <string name="can_not_apply">Nu se poate aplica</string>
+    <string name="canceled_failed">Nu s-a putut anula</string>
+    <string name="canceled_subscription_failed">Nu s-a putut anula abonamentul. Încercați din nou.</string>
+    <string name="canceled_trial_failed">Nu s-a putut anula. Încercați din nou.</string>
     <string name="card_data_request_error">A apărut o eroare. Așteptați un minut sau două și încercați din nou.</string>
     <string name="card_loading">Doar o secundă…</string>
     <string name="card_no_network">Nu s-a putut conecta la rețea. Verificați setările la conexiune și încercați din nou.</string>
@@ -175,6 +182,7 @@
     <string name="current_using_desktop_wallpaper_text">Ecran principal</string>
     <string name="current_using_lockscreen_wallpaper_text">Ecran blocat</string>
     <string name="current_version_incompatible">Incompatibil</string>
+    <string name="custom_wallpaper_for_you">Imagini de fundal personalizate pentru tine</string>
     <string name="data_use_desc">Documente legale</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +192,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">Aplică</string>
     <string name="de_super_wp_land_position_default_des">Selectați vizualizarea</string>
     <string name="deleting">Se șterge…</string>
+    <string name="delivers_fresh_content_and_design_daily">Modele proaspete în fiecare zi</string>
     <string name="description_author">Autor</string>
     <string name="description_designer">Proiectant</string>
     <string name="description_download">Descărcat</string>
@@ -210,6 +219,7 @@
     <string name="editor_apply_message">"Această funcție este utilizată pentru depanare de către designeri. Tema implicită va fi restabilită automat peste un timp. Calea fișierului temei curente: "</string>
     <string name="editor_apply_toast">Selectați manual temp.mtz în directorul rădăcină</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">Introduceți o adresă de e-mail</string>
     <string name="eras_ad">d.Hr.</string>
     <string name="eras_bc">î.Hr.</string>
     <string name="error_icon_content_description">Eroare</string>
@@ -384,6 +394,7 @@
     <string name="hide_incompatible_font">Ascunde fonturile incompatibile</string>
     <string name="hide_incompatible_theme">Ascunde temele incompatibile</string>
     <string name="hide_incompatible_wallpaper">Ascunde imaginile de fundal incompatibile</string>
+    <string name="hint_email_address">Introduceți o adresă de e-mail</string>
     <string name="home_apply_failured">Nu se poate aplica imaginea de fundal pentru ecranul principal</string>
     <string name="home_apply_success">Imagine de fundal a Ecranului principal aplicată</string>
     <string name="hot_first">Cele mai populare</string>
@@ -417,6 +428,7 @@
     <string name="loading_resource_detail_fail">Nu se pot încărca resursele</string>
     <string name="loading_resource_detail_info">Doar o secundă…</string>
     <string name="local_photos">Fotografii locale</string>
+    <string name="local_record__email_info">Ține minte adresa mea de e-mail</string>
     <string name="local_resouce_creator_name">Dezvoltator: %1$s</string>
     <string name="lock_screen_edit">Editați Ecranul de blocare</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">Acest șablon de Ecran de blocare nu acceptă Imagini de fundal super. O dată aplicat, Ecranul de blocare va reveni la valoarea implicită, iar imaginile de fundal ale Ecranului principal și de blocare vor fi înlocuite. Aplicați acum?</string>
@@ -457,6 +469,7 @@
     <string name="message_sim_two">SIM %d mesaj</string>
     <string name="mi_wallpaper">Imagine de fundal MIUI</string>
     <string name="midnight">Noapte</string>
+    <string name="mine_subscribed_wallpaper">Imagini de fundal pentru abonament</string>
     <string name="miui_clock_city_name_local">Local</string>
     <string name="miui_clock_city_name_second">Al doilea ceas</string>
     <string name="miui_lock_screen_date">EEE, dd MMM</string>
@@ -701,7 +714,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">Personalizați-vă dispozitivul</string>
     <string name="present_official_themes">Sugestiile noastre</string>
     <string name="present_online_themes">Obțineți mai multe teme online</string>
+    <string name="price_for_automatic_renewal">Reînnoiește automat pentru %1$s</string>
     <string name="privacy_desc">Politica de confidențialitate (obligatoriu)</string>
+    <string name="privacy_simple_content">Activați recomandările personalizate pentru a obține conținut și produse adaptate intereselor dvs.</string>
+    <string name="privacy_simple_hint">Vă puteți schimba preferințele oricând în Setări.</string>
+    <string name="privacy_simple_title">Recomandări personalizate</string>
     <string name="promotion_ad">Promoție</string>
     <string name="provision_default_theme_title">Implicit</string>
     <string name="provision_download_cancel">A fost anulată descărcarea</string>
@@ -747,6 +764,9 @@ mm"</string>
     <string name="related_theme">Teme</string>
     <string name="related_wallpaper">Imagini de fundal</string>
     <string name="reload">Încercați din nou</string>
+    <string name="renewal_of_a_contract_monthly">Reînnoiește pentru %s/lună</string>
+    <string name="renewal_of_a_contract_weekly">Reînnoiește pentru %s/săptămână</string>
+    <string name="renewal_of_a_contract_yearly">Reînnoiește pentru %s/an</string>
     <string name="res_migrate_tip">Pentru a face Teme compatibile cu versiunile viitoare de Android, am mutat elementele descărcate într-o locație nouă. Reporniți aplicația pentru a aplica modificări și pentru a vizualiza conținutul descărcat.</string>
     <string name="resource_account_abnormal_state">Eroare cont. Așteptați un minut sau două și încercați din nou.</string>
     <string name="resource_account_fail_to_add">Nu se poate adăuga un cont</string>
@@ -766,6 +786,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">Ștergeți tot istoricul de căutare?</string>
     <string name="resource_continue">Următorul</string>
     <string name="resource_current_using_title">Resurse curente</string>
+    <string name="resource_currently_applied">Aplicat</string>
     <string name="resource_data_empty">Nu există elemente aici.</string>
     <string name="resource_default">Ton de apel implicit</string>
     <string name="resource_default_name">Resurse</string>
@@ -964,6 +985,7 @@ mm"</string>
     <string name="select_all">Selectează tot</string>
     <string name="selected_resource_file_invalid">Nu se poate utiliza fișierul selectat</string>
     <string name="send">Trimite</string>
+    <string name="service_expiration_date">Valid până la %1$s</string>
     <string name="set_color_ring_back_tone">Setați ton de apel personalizat</string>
     <string name="settings">Setări</string>
     <string name="shortcut_add">Adaugă</string>
@@ -985,6 +1007,9 @@ mm"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Aplică</string>
     <string name="storage_file">Pentru salvarea elementelor descărcate</string>
+    <string name="submission_successfully">Trimis cu succes</string>
+    <string name="subscription_service_shutdown_tip">Imaginile de fundal pentru abonament nu mai apar deoarece utilizați un alt serviciu. Puteți aplica din nou pentru imagine de fundal pentru abonament.</string>
+    <string name="successfully_applied_wallpaper_tip">Imaginea de fundal a fost aplicată cu succes</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
@@ -997,11 +1022,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">Instalează</string>
     <string name="super_wallpaper_list_footer_text">Mai multe Imagini de fundal super în curând</string>
     <string name="super_wallpaper_list_label">Imagini de fundal super</string>
+    <string name="super_wallpaper_low_version_tip_push">Actualizați Imagini de fundal super la cea mai recentă versiune pentru a le putea folosi în continuare.</string>
+    <string name="super_wallpaper_restore_msg_push">Versiunea actuală a Imaginilor de fundal super a întâmpinat o problemă de incompatibilitate. Imaginea de fundal implicită a fost restabilită. Actualizați la cea mai recentă versiune pentru a putea folosi Imagini de fundal super.</string>
     <string name="super_wallpaper_setting_apply_success_toast">Aplicat cu succes</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Aplică</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Opțiuni</string>
     <string name="super_wallpaper_setting_coordinate_title">Coordonate</string>
     <string name="super_wallpaper_setting_view_height_title">Altitudine</string>
+    <string name="super_wallpaper_upgrade_tip_push">Actualizați Imagini de fundal super</string>
     <string name="support_google_dynamic_color_hint">Utilizați Google Dynamic Color. Paletele de culori ale unor aplicații se pot schimba atunci când aplicați teme și imagini de fundal noi.</string>
     <string name="swipe_find_more">Glisați pentru a vizualiza mai mult</string>
     <string name="system_aod_dialog_message">Activați Întotdeauna pe ecran pentru a putea utiliza această funcție.</string>
@@ -1009,7 +1037,26 @@ mm"</string>
     <string name="system_aod_dialog_title">Întotdeauna pe ecran</string>
     <string name="system_phone">Apeluri</string>
     <string name="system_precust">Preinstalat</string>
+    <string name="text_billing_info">Informații de facturare</string>
+    <string name="text_cancel_subscription_service">Anulați acest abonament acum?</string>
+    <string name="text_content_update">Conținut nou zilnic</string>
+    <string name="text_free_trial">Încercați gratuit</string>
+    <string name="text_pay_monthly" formatted="false">Începând de la %s, se reînnoiește automat pentru %s/lună până la anulare</string>
+    <string name="text_pay_weekly" formatted="false">Începând de la %s, se reînnoiește automat pentru %s/săptămână până la anulare</string>
+    <string name="text_pay_yearly" formatted="false">Începând de la %s, se reînnoiește automat pentru %s/an până la anulare</string>
     <string name="text_play">Joacă</string>
+    <string name="text_start_time_format">dd.MM</string>
+    <string name="text_status_apply_now">Aplică</string>
+    <string name="text_status_be_subscribing">Abonat</string>
+    <string name="text_status_cancel_the_trial">Oprește testarea</string>
+    <string name="text_status_on_trial">Testare în curs</string>
+    <string name="text_status_subscribe_now">Abonează-te</string>
+    <string name="text_status_unsubscribe">Dezabonare</string>
+    <string name="text_status_unsubscribed">Dezabonat</string>
+    <string name="text_subscribe">Abonamente</string>
+    <string name="text_subscribed">Abonat</string>
+    <string name="text_when_cancel_the_trial_tip">Dacă anulați această testare, această imagine de fundal va fi ștearsă de pe dispozitiv.</string>
+    <string name="text_when_unsubscribe_tip">Dacă anulați acest abonament, această imagine de fundal va fi ștearsă de pe dispozitiv.</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversarea Ridicării Legii Marțiale</string>
     <string name="the_anti_aggression_day">Ziua anti-agresiune</string>
     <string name="the_arbor_day">Ziua Copacului</string>
@@ -1150,6 +1197,8 @@ mm"</string>
     <string name="tip_lockscreen">Schimbați imaginea de fundal de la Ecran de blocare și ceas</string>
     <string name="tip_lockscreen2">Utilizați Imagine de fundal Carusel. Personalizarea temei vă va schimba imaginea de fundal și ceasul ecranului de blocare.</string>
     <string name="tip_statusbar">Schimbați Centrul de control și Panoul de notificări</string>
+    <string name="tips_subscriptions_close">Imaginile de fundal pentru abonament sunt dezactivate</string>
+    <string name="tips_talk_later">Nu acum</string>
     <string name="tips_theme_gate_transfer_fail">Nu s-a putut deschide această pagină. Așteptați un minut sau două și încercați din nou.</string>
     <string name="title_component">Personalizează temă</string>
     <string name="title_home_miwallpaper_home_screen_effects">Efecte Ecran principal</string>
@@ -1164,6 +1213,7 @@ mm"</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
     <string name="top">Populare</string>
+    <string name="trial_cancellation_succeeded">Testarea a fost anulată cu succes</string>
     <string name="try_fresh_functions_and_contents">Consultați noile noastre funcții și conținut</string>
     <string name="try_it">Încercați</string>
     <string name="try_tap">Atingeți pentru a vizualiza</string>
@@ -1175,6 +1225,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">Am înțeles</string>
     <string name="uid_change_dialog_title">Reporneşte dispozitivul</string>
     <string name="unknown_error">A apărut o eroare</string>
+    <string name="unsubscribe_successfully">Dezabonat cu succes</string>
     <string name="unsupport_tip">Acest format de fișier nu este acceptat. Încercați să selectați un alt fișier.</string>
     <string name="up_to_the_end">Nu mai există elemente de afișat</string>
     <string name="update_btn">ACTUALIZAŢI ACUM</string>
@@ -1189,6 +1240,7 @@ mm"</string>
     <string name="update_push_content">Actualizează acum</string>
     <string name="update_push_title">Tema dvs. are o versiune nouă disponibilă</string>
     <string name="update_title">ACTUALIZARE NOUĂ DISPONIBILĂ</string>
+    <string name="updating_the_app_tip">Se actualizează…</string>
     <string name="used_wallpaper">Utilizate anterior</string>
     <string name="user_agree">De acord</string>
     <string name="user_attention_new_theme">Conținut nou de la %s</string>
@@ -1238,6 +1290,7 @@ Puteți să vă retrageți consimțământul pentru politica de confidențialita
     <string name="wallpaper_group_natural_texture_title">Modele natură</string>
     <string name="wallpaper_group_sgn_mountain_title">Muntele Siguniang</string>
     <string name="wallpaper_might_like">Imagini de fundal care s-ar putea să vă placă</string>
+    <string name="wallpaper_restore_defalut_push">Restabilit la implicit</string>
     <string name="wallpaper_scroll_type_tips">Derulare imagine de fundal</string>
     <string name="wallpaper_set_as_both">Setați ambele</string>
     <string name="wallpaper_set_as_desktop">Setați ca și Ecran principal</string>

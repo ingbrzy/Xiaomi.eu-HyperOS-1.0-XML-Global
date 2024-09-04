@@ -77,6 +77,7 @@
     <string name="cancel">Отмена</string>
     <string name="cancel_moving_dialog_message">Остановить импорт?</string>
     <string name="cancel_moving_dialog_title">Остановить импорт</string>
+    <string name="cancel_tranfer">Отмена</string>
     <string name="cannot_use_mi_huanji_button">Понятно</string>
     <string name="cannot_use_mi_huanji_summary">MIUI выполняет резервное копирование. Остановите текущее резервное копирование или перезагрузите устройство, чтобы приложение Mi Mover смогло начать передачу файлов.</string>
     <string name="cannot_use_mi_huanji_title">Нельзя передать файл</string>
@@ -269,6 +270,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="guest_unfinished_task_alert_message">Обнаружены незавершенные задачи переноса данных. Продолжить передачу?</string>
     <string name="guest_unfinished_task_alert_title">Незавершенные задачи</string>
     <string name="hide_password_description">Скрыть пароль</string>
+    <string name="high_temp_summary">Ваше устройство может нагреваться при передаче больших объемов данных. Это нормально, и после завершения передачи устройство остынет.</string>
     <string name="host_boot_installation_bottom_tips">Не нашли Mi Mover? Нажмите для загрузки.</string>
     <string name="host_boot_installation_button">Далее</string>
     <string name="host_boot_installation_dialog_message">Версия Mi Mover, установленная на старом устройстве, не совместима с установленной версией. Обновите Mi Mover на старом устройстве.</string>

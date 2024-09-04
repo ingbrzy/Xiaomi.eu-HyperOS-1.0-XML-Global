@@ -70,7 +70,7 @@
     <string name="app_permission_use_group_phone">Тэлефон</string>
     <string name="app_permission_use_group_phone_desc">Праверка і аўтарызацыя акаўнта</string>
     <string name="app_permission_use_group_storage">Сховішча</string>
-    <string name="app_permission_use_group_storage_desc">Выкарыстанне і захаванне тым, шпалер, мелодый і шрыфтоў</string>
+    <string name="app_permission_use_group_storage_desc">Выкарыстанне і захаванне тэм, шпалер, мелодый і шрыфтоў</string>
     <string name="application_notify_title">Увага</string>
     <string name="applied_success_contine">Працягнуць прагляд</string>
     <string name="applied_success_subtitle_a">Рыхтуйцеся да %dМіжнароднага конкурсу па тэмах Xiaomi!</string>
@@ -106,6 +106,10 @@
     <string name="author_new_theme">Новае</string>
     <string name="author_popularity">Прагляды</string>
     <string name="author_unfollow_succeed">Падпіска адменена</string>
+    <string name="automatic_renewal_monthly">Падаўжаецца аўтаматычна за %s/месяц</string>
+    <string name="automatic_renewal_weekly">Падаўжаецца аўтаматычна за %s/тыдзень</string>
+    <string name="automatic_renewal_yearly">Падаўжаецца аўтаматычна за %s/год</string>
+    <string name="automatically_push_content_to_lock_screen">Новы кантэнт будзе адлюстроўвацца на Экране блакіроўкі кожны дзень</string>
     <string name="automatically_update_using_theme_tips">Абнаўляць тэму аўтаматычна</string>
     <string name="back_to_default">Назад да налад па змаўчанні</string>
     <string name="back_to_none">Не ўсталёўваць мелодыю</string>
@@ -122,6 +126,9 @@
     <string name="bottomsheet_action_expand_halfway">Разгарнуць напалову</string>
     <string name="browser_local_resource">Лакальныя рэсурсы</string>
     <string name="can_not_apply">Немагчыма прымяніць</string>
+    <string name="canceled_failed">Не атрымалася адмяніць</string>
+    <string name="canceled_subscription_failed">Не атрымался адмяніць падпіску. Паўтарыце спробу.</string>
+    <string name="canceled_trial_failed">Не атрымался адмяніць. Паўтарыце спробу.</string>
     <string name="card_data_request_error">Адбылася памылка, пачакайце хвіліну ці дзве, і паспрабуйце ізноў.</string>
     <string name="card_loading">Хвілінку…</string>
     <string name="card_no_network">Не атрымалася злучыцца з сеткай. Праверце налады сеткі і паспрабуйце зноў.</string>
@@ -175,6 +182,7 @@
     <string name="current_using_desktop_wallpaper_text">Галоўны экран</string>
     <string name="current_using_lockscreen_wallpaper_text">Экран блакавання</string>
     <string name="current_version_incompatible">Несумяшчальная</string>
+    <string name="custom_wallpaper_for_you">Персаналізаваныя шпалеры для вас</string>
     <string name="data_use_desc">Юрыдычныя дакументы</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +192,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">Ужыць</string>
     <string name="de_super_wp_land_position_default_des">Выбраць прадстаўленне</string>
     <string name="deleting">Выдаленне…</string>
+    <string name="delivers_fresh_content_and_design_daily">Свежыя дызайны кожны дзень</string>
     <string name="description_author">Аўтар</string>
     <string name="description_designer">Дызайнер</string>
     <string name="description_download">Спампавана</string>
@@ -210,6 +219,7 @@
     <string name="editor_apply_message">"Гэтая функцыя выкарыстоўваецца распрацоўшчыкамі для адладкі. Тэма па змаўчанні будзе аўтаматычна адноўленая праз некаторы час. Шлях да файла бягучай тэмы: "</string>
     <string name="editor_apply_toast">Уручную абярыце temp.mtz ў каранёвым каталогу</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">Увядзіце адрас Email</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="error_icon_content_description">Памылка</string>
@@ -384,6 +394,7 @@
     <string name="hide_incompatible_font">Схаваць несумяшчальныя шрыфты</string>
     <string name="hide_incompatible_theme">Схаваць несумяшчальныя тэмы</string>
     <string name="hide_incompatible_wallpaper">Схаваць несумяшчальныя шпалеры</string>
+    <string name="hint_email_address">Увядзіце адрас Email</string>
     <string name="home_apply_failured">Немагчыма ўсталяваць шпалеры на Галоўны экран</string>
     <string name="home_apply_success">Шпалеры Галоўнага экрана ўсталяваны</string>
     <string name="hot_first">Спачатку папулярныя</string>
@@ -417,6 +428,7 @@
     <string name="loading_resource_detail_fail">Не атрымалася загрузіць рэсурс</string>
     <string name="loading_resource_detail_info">Хвілінку…</string>
     <string name="local_photos">Фота на прыладзе</string>
+    <string name="local_record__email_info">Запомніць мой адрас Email</string>
     <string name="local_resouce_creator_name">Распрацоўшчык: %1$s</string>
     <string name="lock_screen_edit">Змяніць Экран блакавання</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">Гэты шаблон Экрана блакавання не падтрымлівае Супершпалеры. Пасля ўжывання Экран блакавання вернецца да налад па змаўчанні, а шпалеры экрана «Дадому» і Экрана блакавання будуць заменены. Ужыць зараз?</string>
@@ -457,6 +469,7 @@
     <string name="message_sim_two">Паведамленне SIM %d</string>
     <string name="mi_wallpaper">MIUI шпалеры</string>
     <string name="midnight">Ноч</string>
+    <string name="mine_subscribed_wallpaper">Шпалеры, на якія аформлена падпіска</string>
     <string name="miui_clock_city_name_local">Мясцовы</string>
     <string name="miui_clock_city_name_second">Другі гадзіннік</string>
     <string name="miui_lock_screen_date">EEEE, d MMM</string>
@@ -676,7 +689,7 @@ mm"</string>
     <string name="payment_data_move_tips">Дадзеныя вашага акаўнта будуць перанесеныя на серверы ў вашым рэгіёне, каб адпавядаць правілам канфідэнцыяльнасці. Існуе рызыка страты даных падчас міграцыі.</string>
     <string name="payment_instructions"><Data>Выконваючы плацёж, вы згаджаецеся з &lt;a href=\"%1$s\">Апавяшчэннем аб пакупках у праграме&lt;/a>.</Data></string>
     <string name="payment_method">Спосаб аплаты</string>
-    <string name="permission_desc">"Для захоўвання захаваных тым і іншых аб'ектаў"</string>
+    <string name="permission_desc">"Для захоўвання тэм і іншых аб'ектаў"</string>
     <string name="permission_pop_desc">"Каб змяніць перавагі персаналізацыі і захаваць запампаваныя аб'екты, спачатку падайце Тэмам доступ да сховішча."</string>
     <string name="permission_pop_title">Патрабуюцца дазволы</string>
     <string name="permission_summary">Абавязковыя дазволы (для базавых паслуг і функцый праграмы)</string>
@@ -701,7 +714,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">Наладзьце вашу прыладу</string>
     <string name="present_official_themes">Наш выбар</string>
     <string name="present_online_themes">Атрымаць больш анлайн тэм</string>
+    <string name="price_for_automatic_renewal">Аўтаматычнае падаўжэнне за %1$s</string>
     <string name="privacy_desc">Палітыка прыватнасці (абавязкова)</string>
+    <string name="privacy_simple_content">Уключыце персаналізаваныя рэкамендацыі, каб атрымліваць кантэнт і прадукты, якія адпавядаюць вашым інтарэсам.</string>
+    <string name="privacy_simple_hint">Вы можаце змяніць свае перавагі ў любы час у Наладах.</string>
+    <string name="privacy_simple_title">Асабістыя рэкамендацыі</string>
     <string name="promotion_ad">Прасоўванне</string>
     <string name="provision_default_theme_title">Па змаўчанні</string>
     <string name="provision_download_cancel">Спампоўка адменена</string>
@@ -747,6 +764,9 @@ mm"</string>
     <string name="related_theme">Тэмы</string>
     <string name="related_wallpaper">Шпалеры</string>
     <string name="reload">Паўтарыць</string>
+    <string name="renewal_of_a_contract_monthly">Падоўжыць за %s/месяц</string>
+    <string name="renewal_of_a_contract_weekly">Падоўжыць за %s/тыдзень</string>
+    <string name="renewal_of_a_contract_yearly">Падоўжыць за %s/год</string>
     <string name="res_migrate_tip">"Каб зрабіць праграму «Тэмы» сумяшчальнай з будучымі версіямі Android, мы перамясцілі загружаныя аб'екты ў новае месца. Перазапусціце праграму, каб прымяніць змены і праглядзець загружаны кантэнт."</string>
     <string name="resource_account_abnormal_state">Адбылася памылка. Пачакайце крыху, і паспрабуйце ізноў.</string>
     <string name="resource_account_fail_to_add">Не атрымалася дадаць акаўнт</string>
@@ -766,6 +786,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">Ачысціць усю гісторыю пошуку?</string>
     <string name="resource_continue">Далей</string>
     <string name="resource_current_using_title">Бягучыя рэсурсы</string>
+    <string name="resource_currently_applied">Ужыты</string>
     <string name="resource_data_empty">"Няма аб'ектаў."</string>
     <string name="resource_default">Мелодыя па змаўчанні</string>
     <string name="resource_default_name">Рэсурс</string>
@@ -964,6 +985,7 @@ mm"</string>
     <string name="select_all">Выбраць усе</string>
     <string name="selected_resource_file_invalid">Выбраны файл не падтрымліваецца</string>
     <string name="send">Даслаць</string>
+    <string name="service_expiration_date">Сапраўдна да %1$s</string>
     <string name="set_color_ring_back_tone">Сігнал выкліку</string>
     <string name="settings">Налады</string>
     <string name="shortcut_add">Дадаць</string>
@@ -985,6 +1007,9 @@ mm"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Ужыць</string>
     <string name="storage_file">"Для захавання загружаных аб'ектаў"</string>
+    <string name="submission_successfully">Адпраўлена паспяхова</string>
+    <string name="subscription_service_shutdown_tip">Шпалеры, на якія вы падпісаны, больш не адлюстроўваюцца, паколькі вы карыстаецеся іншым сэрвісам. Вы можаце зноў прымяніць шпалеры па падпісцы.</string>
+    <string name="successfully_applied_wallpaper_tip">Шпалеры паспяхова прыменены</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Нядзеля</string>
     <string name="sunday_short">Ндз</string>
@@ -997,11 +1022,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">Усталяваць</string>
     <string name="super_wallpaper_list_footer_text">"Хутка з'явяцца новыя супершпалеры"</string>
     <string name="super_wallpaper_list_label">Супершпалеры</string>
+    <string name="super_wallpaper_low_version_tip_push">Абнавіце Супершпалеры да апошняй версіі, каб працягнуць іх выкарыстанне.</string>
+    <string name="super_wallpaper_restore_msg_push">У бягучай версіі Супершпалераў узнікла праблема несумяшчальнасці. Шпалеры па змаўчанні адноўлены. Абнавіце да апошняй версіі, каб выкарыстоўваць Супершпалеры.</string>
     <string name="super_wallpaper_setting_apply_success_toast">Паспяхова ўжыта</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Ужыць</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Параметры</string>
     <string name="super_wallpaper_setting_coordinate_title">Каардынаты</string>
     <string name="super_wallpaper_setting_view_height_title">Вышыня</string>
+    <string name="super_wallpaper_upgrade_tip_push">Абнавіць Супершпалеры</string>
     <string name="support_google_dynamic_color_hint">Вы карыстаецеся Google Dynamic Color. Каляровыя палітры некаторых праграм могуць змяніцца пры ўжыванні новых тэм і шпалер.</string>
     <string name="swipe_find_more">Свайп уверх для прагляду падрабязнасьцяў</string>
     <string name="system_aod_dialog_message">Уключыце опцыю «Пастаянна ўключаны экран», каб выкарыстоўваць гэтую функцыю.</string>
@@ -1009,7 +1037,26 @@ mm"</string>
     <string name="system_aod_dialog_title">Пастаянна ўключаны экран</string>
     <string name="system_phone">Выклікі</string>
     <string name="system_precust">Перадусталяваныя</string>
+    <string name="text_billing_info">Плацежная інфармацыя</string>
+    <string name="text_cancel_subscription_service">Адмяніць гэтую падпіску зараз?</string>
+    <string name="text_content_update">Новы кантэнт кожны дзень</string>
+    <string name="text_free_trial">Паспрабуйце бясплатна</string>
+    <string name="text_pay_monthly" formatted="false">Пачынаючы з %s, аўтаматычна працягваецца за %s/месяц да адмены</string>
+    <string name="text_pay_weekly" formatted="false">Пачынаючы з %s, аўтаматычна працягваецца за %s/тыдзень да адмены</string>
+    <string name="text_pay_yearly" formatted="false">Пачынаючы з %s, аўтаматычна працягваецца за %s/год да адмены</string>
     <string name="text_play">Гуляць</string>
+    <string name="text_start_time_format">dd.MM</string>
+    <string name="text_status_apply_now">Ужыць</string>
+    <string name="text_status_be_subscribing">Вы падпісаны</string>
+    <string name="text_status_cancel_the_trial">Спыніць пробнае выкарыстанне</string>
+    <string name="text_status_on_trial">Бягучае пробнае выкарыстанне</string>
+    <string name="text_status_subscribe_now">Падпісацца</string>
+    <string name="text_status_unsubscribe">Адпісацца</string>
+    <string name="text_status_unsubscribed">Выканана адмова ад падпіскі</string>
+    <string name="text_subscribe">Падпіскі</string>
+    <string name="text_subscribed">Вы падпісаны</string>
+    <string name="text_when_cancel_the_trial_tip">Калі вы адмяніце пробнае выкарыстанне, гэтыя шпалеры будуць выдалены з вашай прылады.</string>
+    <string name="text_when_unsubscribe_tip">Калі вы адмяніце падпіску, гэтыя шпалеры будуць выдалены з вашай прылады.</string>
     <string name="the_anniversary_of_lifting_martial_law">Гадавіна адмены ваеннага становішча</string>
     <string name="the_anti_aggression_day">Дзень барацьбы з агрэсіяй</string>
     <string name="the_arbor_day">Дзень пасадкі дрэў</string>
@@ -1150,6 +1197,8 @@ mm"</string>
     <string name="tip_lockscreen">Змяніць шпалеры экрана блакавання і гадзінніка</string>
     <string name="tip_lockscreen2">Вы карыстаецеся Каруселлю шпалер. Настройка тэмы зменіць шпалеры экрана блакавання і гадзіннік.</string>
     <string name="tip_statusbar">Змяніць Цэнтр кіравання і Панэль апавяшчэнняў</string>
+    <string name="tips_subscriptions_close">Падпіскі на шпалеры адключаныя</string>
+    <string name="tips_talk_later">Не зараз</string>
     <string name="tips_theme_gate_transfer_fail">Не атрымалася адкрыць старонку. Пачакайце хвілінку і паўтарыце спробу.</string>
     <string name="title_component">Персаналізуй тэмы</string>
     <string name="title_home_miwallpaper_home_screen_effects">Эфекты працоўнага стала</string>
@@ -1164,6 +1213,7 @@ mm"</string>
     <string name="today">Сёння</string>
     <string name="tomorrow">Заўтра</string>
     <string name="top">Папулярныя</string>
+    <string name="trial_cancellation_succeeded">Пробнае выкарыстанне адменена</string>
     <string name="try_fresh_functions_and_contents">Азнаёмцеся з нашымі новымі функцыямі і кантэнтам</string>
     <string name="try_it">Паглядзіце гэта</string>
     <string name="try_tap">Націснце для прагляду</string>
@@ -1175,6 +1225,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">Зразумела</string>
     <string name="uid_change_dialog_title">Перазагрузіце прыладу</string>
     <string name="unknown_error">Адбылася памылка</string>
+    <string name="unsubscribe_successfully">Вы паспяхова адпісаліся</string>
     <string name="unsupport_tip">Гэты фармат файла не падтрымліваецца. Паспрабуйце выбраць іншы файл.</string>
     <string name="up_to_the_end">"Больш няма аб'ектаў"</string>
     <string name="update_btn">Абнавіць</string>
@@ -1189,6 +1240,7 @@ mm"</string>
     <string name="update_push_content">Абнавіць зараз</string>
     <string name="update_push_title">Для вашай тэмы даступна абнаўленне</string>
     <string name="update_title">Даступна абнаўленне</string>
+    <string name="updating_the_app_tip">Абнаўленне…</string>
     <string name="used_wallpaper">Выкарыстоўваліся раней</string>
     <string name="user_agree">Згадзіцца</string>
     <string name="user_attention_new_theme">Новы конетнт ад %s</string>
@@ -1198,7 +1250,7 @@ mm"</string>
     <string name="user_authorization_dialog_message"><Data>"Нам неабходна ажыццяўляць збор неабходнай асабістай інфармацыі, каб прадастаўляць вам базавыя паслугі. Вы можаце падрабязней даведацца пра тое, як мы апрацоўваем інфармацыю, якую збіраем, у нашай &lt;a href=\"%1$s\">Палітыцы прыватнасці&lt;/a>. Перад выкарыстаннем Тэм азнаёмцеся і пагадзіцеся з нашымі &lt;a href=\"%2$s\">Карыстальніцкім пагадненнем&lt;/a> і &lt;a href=\"%3$s\">Палітыкай прыватнасці&lt;/a>.
 Вы можаце ў любы час адклікаць сваю згоду з Палітыкай прыватнасці Тэм у Наладах."</Data></string>
     <string name="user_authorization_dialog_message_a"><Data>Перад тым як працягнуць, пагадзіцеся з нашымі &lt;a href=\"%1$s\">Карыстальніцкім пагадненнем&lt;/a> і &lt;a href=\"%2$s\">Палітыкай прыватнасці&lt;/a>. Вы можаце змяніць свае перавагі ў любы час у Наладах.</Data></string>
-    <string name="user_authorization_dialog_title">Палажэння і ўмовы</string>
+    <string name="user_authorization_dialog_title">Правілы і ўмовы</string>
     <string name="user_know">Зразумела</string>
     <string name="using_theme_has_update_tips">Даступна абнаўленне для гэтай тэмы.</string>
     <string name="using_theme_next_automatic_update">Абнаўляць аўтаматычна</string>
@@ -1221,7 +1273,7 @@ mm"</string>
     <string name="wallpaper_apply_outer_and_inner">Ужыць на ўнутраным і вонкавым экране</string>
     <string name="wallpaper_crop">Абрэзаць</string>
     <string name="wallpaper_decoded_error">Не атрымалася загрузіць шпалеры</string>
-    <string name="wallpaper_desc">Шпалеры надаюць вашаму Працоўнаму стала свежае аблічча.</string>
+    <string name="wallpaper_desc">Шпалеры надаюць вашаму Працоўнаму сталу свежае аблічча.</string>
     <string name="wallpaper_detail_load_page_no_network">Злучыцеся з сеткай і паўтарыце спробу.</string>
     <string name="wallpaper_group_black_gobi_title">Пяскі Гобі</string>
     <string name="wallpaper_group_color_move_title">Цякучыя колеры</string>
@@ -1238,6 +1290,7 @@ mm"</string>
     <string name="wallpaper_group_natural_texture_title">Узоры прыроды</string>
     <string name="wallpaper_group_sgn_mountain_title">Гара Сігунян</string>
     <string name="wallpaper_might_like">Шпалеры, якія могуць вам спадабацца</string>
+    <string name="wallpaper_restore_defalut_push">Адноўлены значэнні па змаўчанні</string>
     <string name="wallpaper_scroll_type_tips">Пракрутка шпалераў</string>
     <string name="wallpaper_set_as_both">Усталяваць абодва</string>
     <string name="wallpaper_set_as_desktop">Усталяваць на галоўны экран</string>

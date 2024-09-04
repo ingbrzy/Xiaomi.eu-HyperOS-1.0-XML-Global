@@ -590,6 +590,7 @@ Nećete izgubiti podatke aplikacija."</string>
     <string name="apps_list_header_title_sms_access">Ograniči pristup kodovima potvrde</string>
     <string name="ask_create_shortcut">Izraditi prečicu Početnog zaslona?</string>
     <string name="audio_optimization_summary">Poboljšajte zvuk i smanjite okolnu buku u razgovorima</string>
+    <string name="audio_optimization_summary_new">Optimizirajte kvalitetu zvuka slušalica tijekom igranja i smanjite buku tijekom poziva</string>
     <string name="audio_optimization_title">Poboljšani zvuk</string>
     <string name="auto_atsk_condition_battery_level_text_down">Kada baterija dosegne %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Kada je baterija napunjena do %s</string>
@@ -1130,6 +1131,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Kako biste mogli povu�
     <string name="continue_set">Nastavi</string>
     <string name="convenient_mode">Otključaj sve aplikacije odjednom</string>
     <string name="convenient_summary">Unesite zaporku jednom za otključavanje svih aplikacija</string>
+    <string name="conversation_phone_title">Pozivni alati</string>
     <string name="conversation_settings_top">"·Izvucite traku s alatima konferencije tijekom audio i video poziva preko cijelog zaslona kako biste pristupili njezinim značajkama.
 ·Vrsta i broj značajki ovisi o modelu uređaja."</string>
     <string name="conversation_sider_tips">Koristite nove konferencijske alate za najbolje iskustvo poziva</string>
@@ -1144,9 +1146,13 @@ Međutim, neke od vaših transakcija još nisu dovršene. Kako biste mogli povu�
     <string name="create_gamebooster_destop">Uspješno stvorena prečica Početnog zaslona</string>
     <string name="create_shortcut">Izradi prečicu na Početnom zaslonu za Game Turbo</string>
     <string name="cs_color_sense">Toplina boje</string>
+    <string name="cs_conversation_record_using">Snimanje</string>
     <string name="cs_func_toast_headset">Odspojite svoje slušalice da biste mogli koristiti ovu značajku</string>
     <string name="cs_func_toast_light">Prebacite se na prednji fotoaparat da biste mogli koristiti ovu značajku</string>
     <string name="cs_func_toast_pickup">Prebacite se na video poziv da biste mogli koristiti ovu značajku</string>
+    <string name="cs_func_unavailable_tips">Koristite ovu značajku tijekom poziva</string>
+    <string name="cs_light_enhance_physical_options">Toplina boje</string>
+    <string name="cs_light_enhance_physical_title">Osvjetljenje</string>
     <string name="cs_pickup_denoise_desc">Smanjite buku dolaznog zvuka dok koristite zvučnike ili slušalice</string>
     <string name="cs_pickup_denoise_title">Smanjenje buke</string>
     <string name="cs_pickup_multi_desc">Prikupljanje zvuka sa %d stupnjeva</string>
@@ -1160,11 +1166,19 @@ Međutim, neke od vaših transakcija još nisu dovršene. Kako biste mogli povu�
     <string name="cs_pickup_vioce_print_unsupport_tips">Snimi uzorak glasa prije biranja \"Jedan sudionik\"</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Odspoji vanjske uređaje i pokušaj ponovo</string>
     <string name="cs_pickup_voice_print_desc">Primite zvuk samo od jedne osobe</string>
+    <string name="cs_privacy_camera_global_settings_title">Privatnost poziva</string>
     <string name="cs_screen_translation_title">Prijevod zaslona</string>
+    <string name="cs_simultaneous_interpretation_title">Prevedi</string>
     <string name="cs_title_pickup">Smanjenje buke</string>
     <string name="cs_title_smart_subtitle">Transkripcija podnaslova</string>
     <string name="cs_title_ultraclear">Ultra HD način</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Isprobajte simultano prevođenje i druge alate za konferencijske pozive u novom alatnom okviru za pozive</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Isprobajte niz značajki konferencijskog poziva u novom alatnom okviru za pozive</string>
+    <string name="cs_tool_box_phone_guide_case_1">Isprobajte simultano prevođenje i druge značajke u novom alatnom okviru za pozive</string>
+    <string name="cs_tool_box_phone_guide_case_2">Isprobajte niz značajki u novom alatnom okviru za pozive</string>
     <string name="cs_voice_print">Snimi uzorak glasa</string>
+    <string name="cs_vt_camera_toast_case1">Otvorite fotoaparat u trenutnoj aplikaciji</string>
+    <string name="cs_vt_camera_toast_case2">Nema kompatibilnih uređaja u blizini</string>
     <string name="cta_agree_desc">Kako biste mogli koristiti naše usluge, dopustite ovoj aplikaciji da se poveže s internetom i dodijelite gore navedene dozvole.</string>
     <string name="cta_close_dialog_cancel">Odustani</string>
     <string name="cta_close_dialog_content">Ograničite li Sigurnost pristup internetu i podacima o Vašoj lokaciji, nećete moći primati upozorenja o potresu, ažurirati definicije virusa i informacije o Listi blokiranih. Vaš će uređaj postati manje siguran. Ionako ograničiti?</string>
@@ -1846,6 +1860,8 @@ Biti će dodani u iznimke, ali prethodno blokirane stavke neće se prikazivati u
     <string name="gb_audition_play_instruction">Spojite slušalice za najbolji učinak</string>
     <string name="gb_award_noti_message">Uključite pozadinska ažuriranja Game for Peace u Game Turbo da biste dobili nagrade</string>
     <string name="gb_award_noti_title">Stigle su nagrade za Game for Peace!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Prebacivanje na uravnoteženi način rada u Game Turbo nije moguće kada je na cijelom sustavu uključen Ultimativni način rada. Postavke baterije možete promijeniti u Sigurnosti.&lt;br>&lt;a href=\"#\">Otvorite Sigurnos&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Ne može se prebaciti na Uravnoteženi način rada u Game Turbo kada je na cijelom sustavu uključen Ultimativni način rada. Postavke baterije možete promijeniti u Sigurnosti. &lt;br>&lt;a href=\"#\">Otvori sigurnost&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">Visoka</string>
     <string name="gb_bar_low">Niska</string>
     <string name="gb_bar_mid">Srednja</string>
@@ -2001,6 +2017,8 @@ ali isto tako povećava i potrošnju baterije, te može doći do pregrijavanja u
     <string name="gb_predownload_receive_tips">Uključite ažuriranja u pozadini da biste dobili nagrade</string>
     <string name="gb_predownload_receiving">Primanje…</string>
     <string name="gb_predownload_title">Ažuriranja u pozadini</string>
+    <string name="gb_setting_dock_toast">Značajke pomoćnika prednje kamere sada su dostupne u alatnom okviru za pozive</string>
+    <string name="gb_setting_dock_toast_2">Značajke pomoćnika prednjeg fotoaparata sada su dostupne u alatnom okviru za pozive</string>
     <string name="gb_shortcut_pref_title">Prečice Početnog zaslona</string>
     <string name="gb_shoulder_guide_message1">Pomaknite [L] u bilo koju funkcionalnu poziciju za korištenje putem iskočnih pokretača</string>
     <string name="gb_shoulder_guide_message2">Radnja [1] se pokreće pritiskom na tipku. Radnja [2] se pokreće otpuštanjem tipke.</string>
@@ -2136,9 +2154,21 @@ svojih gejmerskih sesija"</string>
     <string name="gd_dock_shortcut_splitescreen">Podijeljeni zaslon</string>
     <string name="gd_setting_conversation">Konferencijski alati</string>
     <string name="gd_setting_conversation_desc">Pruža niz značajki za korištenje u audio i video pozivima preko cijelog zaslona</string>
+    <string name="gd_setting_dock_activity_title">Bočna kutija za alat</string>
+    <string name="gd_setting_dock_call_summary">Značajke za glasovne i video pozive (npr. dopunsko svjetlo)</string>
+    <string name="gd_setting_dock_call_title">Pozivni alati</string>
+    <string name="gd_setting_dock_game_summary">Poboljšajte prikaz i performanse tijekom igranja igara</string>
+    <string name="gd_setting_dock_game_summary_new">Poboljšajte prikaz i performanse tijekom igranja igara</string>
+    <string name="gd_setting_dock_summary">Otvorite druge aplikacije u plutajućim prozorima dok koristite aplikaciju preko cijelog zaslona</string>
+    <string name="gd_setting_dock_title">Bočni izbornik</string>
+    <string name="gd_setting_dock_video_summary">Koristite efekte kao što je Dolby Atmos dok gledate videozapise</string>
+    <string name="gd_setting_dock_video_summary_new">Koristite alate i efekte tijekom gledanja videozapisa</string>
+    <string name="gd_setting_group_custom_conversation_apps">Snimite uzorak glasa za pozive</string>
     <string name="gd_setting_group_custom_gtb_apps">Igre</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Upravljanje aplikacijama za igre</string>
     <string name="gd_setting_group_custom_settings">Prilagođavanje</string>
     <string name="gd_setting_group_custom_vtb_apps">Aplikacije videozapisa</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Upravljaj video aplikacijama</string>
     <string name="gd_setting_group_title_switch">Scene</string>
     <string name="gd_setting_gtb">Prikaži za vrijeme igranja igara</string>
     <string name="gd_setting_gtb_desc">Posebne značajke za gejmere</string>
@@ -2158,11 +2188,17 @@ svojih gejmerskih sesija"</string>
     <string name="get_phone_num_fail">Nepoznat broj telefona</string>
     <string name="get_sys_info">Dobivanje informacija…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">Pritisnite i držite indikator za pomicanje prozora</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Dodirnite aplikaciju na bočnoj traci da biste je otvorili u plutajućem prozoru.
 · Povucite aplikaciju u središte zaslona da biste je otvorili u plutajućem prozoru ili u stranu da biste koristili Podijeljeni zaslon.
 · Pritisnite i držite pokazivač za pomicanje prozora."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"Dodirnite aplikaciju na bočnoj traci da biste je otvorili u plutajućem prozoru.
+ Povucite aplikaciju u središte zaslona da biste je otvorili u plutajućem prozoru ili u stranu da biste koristili Podijeljeni zaslon.
+ Pritisnite i držite pokazivač za pomicanje prozora."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Dodirnite aplikaciju na bočnoj traci kako biste je otvorili u plutajućem prozoru.
 · Pritisnite i držite indikator za pomicanje prozora."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Prijeđite prstom da biste otvorili bočnu traku i dodirnite aplikaciju da biste je otvorili u plutajućem prozoru.
+Pritisnite i držite indikator za pomicanje prozora."</string>
     <string name="global_satisfaction_notification_button">Ocijeni</string>
     <string name="global_satisfaction_notification_channel">Anketa o zadovoljstvu korisnika</string>
     <string name="global_satisfaction_notification_subhead">Recite nam nešto o svom iskustvu</string>
@@ -3183,6 +3219,7 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
     <string name="pc_battery_history_total_consumption_title">Ukupna potrošnja energije</string>
     <string name="pc_battery_history_usetime_title">Aktivno</string>
     <string name="pc_battery_low_health_reminder">Vrijeme je da zamijenite bateriju</string>
+    <string name="pc_battery_replacement_service_title">Probajte našu uslugu zamjene baterije. %1$s originalni hardware sa %2$s-dnevnom garancijom.</string>
     <string name="pc_berserk_mode_dialog_title">Uključite Ultimativni način</string>
     <string name="pc_berserk_mode_noti_summary">Ultimativni način može povećati potrošnju energije i dovesti do problema s pregrijavanjem</string>
     <string name="pc_berserk_mode_performance_title">Ultimativni način</string>
@@ -3256,6 +3293,7 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
     <string name="pc_fast_charge_switch_summary_new">Podsjetite na povećanje brzine punjenja kada je priključen isporučeni punjač, a baterija padne ispod zadane razine</string>
     <string name="pc_fast_charge_switch_title">Povećajte brzinu punjenja</string>
     <string name="pc_fast_charge_switch_toast_message">Promjene će biti primijenjene kada sljedeći puta napunite ovaj uređaj.</string>
+    <string name="pc_fast_charge_temp_remider">Uključite za automatsku regulaciju brzine punjenja. Ova značajka radi samo s Xiaomijevim punjačima. Vaš bi se uređaj mogao zagrijati tijekom punjenja.</string>
     <string name="pc_fast_charge_title">Povećajte brzinu punjenja</string>
     <string name="pc_going_to_exit_extreme_mode">Izlazak iz stanja hibernacije</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Vaš uređaj se puni. Način hibernacije je isključen.</string>
@@ -3344,6 +3382,16 @@ Ultra štednje baterije"</string>
     <string name="pc_search_keywords_capacity">Kapacitet baterije</string>
     <string name="pc_search_keywords_property">Izvedba</string>
     <string name="pc_settings_title">Baterija</string>
+    <string name="pc_smart_charge_button_summary">Za produljenje trajanja baterije, sustav će naučiti kako punite svoj uređaj i prestati puniti kada razina baterije dosegne %1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Uređaj pregrijan. Punjenje će se zaustaviti kada razina baterije dosegne %1$s</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Navigacija… Punjenje će se zaustaviti kada razina baterije dosegne %1$s</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">Punjenje će prestati na %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">Kako bi se produžio životni vijek baterije, baterija ovog uređaja neće prijeći trenutnu razinu dok je povezan s automobilom.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Ne prikazuj ponovno</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Zaštita baterije</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">Kako bi se produžio životni vijek baterije, baterija ovog uređaja neće prijeći trenutnu razinu dok je povezan s automobilom</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Zaštita baterije</string>
+    <string name="pc_smart_charge_title">Pametno punjenje</string>
     <string name="pc_smart_discharge_checkbox_summary">Kada koristite značajke navigacije, punjenje će se automatski zaustaviti na određenom postotku. Štednja baterije bit će isključena.</string>
     <string name="pc_smart_discharge_checkbox_title">Automatsko isključivanje punjenja</string>
     <string name="pc_smart_discharge_drop_down_title">Postavke automatskog prekida veze</string>
@@ -3356,6 +3404,8 @@ Ultra štednje baterije"</string>
     <string name="pc_statistics_battery_use_title">Potrošnja baterije</string>
     <string name="pc_suggest_open_fast_charge">Uključi %dW brzo punjenje</string>
     <string name="pc_temperature_too_high">Uređaj je pregrijan</string>
+    <string name="pc_this_time_charge_full">Ovaj puta napuni do kraja</string>
+    <string name="pc_this_time_charge_full_work">Skoro napunjeno</string>
     <string name="pc_timely_charging_summary">Baterija je ispod %1$s. Ako se uređaj pregrije dok je baterija slaba, to može oštetiti bateriju.</string>
     <string name="pc_timely_charging_title">Napunite svoj uređaj</string>
     <string name="pc_to_phone_install">Blokirano (%s) instalacija putem USB-a</string>
@@ -4376,6 +4426,13 @@ Povući suglasnost odmah?"</string>
     <string name="sd_mount">Učitaj SD karticu</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">Aplikacija</string>
+    <string name="search_keyword_applybar">Fiksne aplikacije</string>
+    <string name="search_keyword_call">Pozovi</string>
+    <string name="search_keyword_sidebar">Bočni izbornik</string>
+    <string name="search_keyword_tool">Alati</string>
+    <string name="search_keyword_tools">Kutija za alat</string>
+    <string name="search_keyword_voice">Glasovno</string>
     <string name="search_menu_title">Pretraži</string>
     <string name="search_result_text">Ne mogu pronaći nijednu aplikaciju</string>
     <string name="section_clear_acc_item_title">%s. Ako još uvijek nema dovoljno prostora za pohranu, pokušajte koristiti Čistač.</string>
@@ -5165,6 +5222,7 @@ Za korištenje ^1 na ovom uređaju, prvo ju morate postaviti."</string>
     <string name="title_cloud_space_almost_full">Cloud pohrana je gotovo puna, neke stavke neće biti sink.</string>
     <string name="title_cloud_space_full">Cloud pohrana je puna</string>
     <string name="title_cmcc_app_check">Provjera nije potpuna</string>
+    <string name="title_condition_meeting">Sastanak</string>
     <string name="title_consume_power_rank">Korištenje napajanja apl.</string>
     <string name="title_dark_mode">Neke se stavke ne prikazuju ispravno</string>
     <string name="title_data_flow">Kontroliraj mobilne podatke</string>
@@ -5225,6 +5283,8 @@ Za korištenje ^1 na ovom uređaju, prvo ju morate postaviti."</string>
     <string name="toast_cleaner_cloudscan">Čistač će koristiti online definicije</string>
     <string name="toast_dark_mode_fixed">Ispravljeno. Napustite ovu stranicu da biste primijenili promjene.</string>
     <string name="toast_flow_notification">Obavijesti uporabe podataka su uključene</string>
+    <string name="toast_gamembox_unenable_pad">Prvo uključite Game Turbo u Sigurnosti</string>
+    <string name="toast_gamembox_unenable_phone">Prvo uključite Game Turbo u Sigurnosti</string>
     <string name="toast_garbage_lib">Automatska ažuriranja Čistača su uključena</string>
     <string name="toast_keyword_blank">Morate unijeti ključnu riječ</string>
     <string name="toast_keyword_exist">Dodana je ključna riječ</string>

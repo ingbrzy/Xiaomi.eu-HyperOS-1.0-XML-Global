@@ -33,6 +33,8 @@
     <string name="abrupt_weather_settings_summary_type">Примај упозорења о очекиваним падавинама, променама квалитета ваздуха и другим значајним променама</string>
     <string name="act_find_city_hint">Унесите локацију</string>
     <string name="act_find_city_hot_city_title">Популарни градови</string>
+    <string name="act_find_city_location_button_text">Добијање локације</string>
+    <string name="act_find_city_location_title">Тренутна локација</string>
     <string name="act_location_error_to_find_city">Није могуће добити информације о локацији. Локацију можете додати ручно.</string>
     <string name="act_set_city_find_side">Лоцирање</string>
     <string name="act_set_city_find_side_error">Не може се лоцирати уређај</string>
@@ -57,6 +59,7 @@
     <string name="activity_main_update_time">Ажуриранo %1$s</string>
     <string name="activity_main_update_time_expire">Подаци су истекли</string>
     <string name="activity_main_update_time_right_now">управо сада</string>
+    <string name="add_city">Додај</string>
     <string name="afternoon">Поподне</string>
     <string name="alert_detail_title">Детаљи о упозорењу</string>
     <string name="alert_warning">Временска упозорења</string>

@@ -152,9 +152,9 @@
     </string-array>
     <string-array name="wind_unit_detail">
         <item>Шкала Бафорта</item>
-        <item>Кіламетры ў гадзіну (км/гадз)</item>
-        <item>Метраў за секунду (м/с)</item>
-        <item>Мілі за гадзіну (міль/гадз)</item>
+        <item>Кіламетраў у гадзіну (км/гадз)</item>
+        <item>Метраў у секунду (м/с)</item>
+        <item>Міль у гадзіну (міль/гадз)</item>
         <item>Вузлы (вз)</item>
     </string-array>
     <string-array name="wind_unit_replace">

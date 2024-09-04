@@ -590,6 +590,7 @@ Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="apps_list_header_title_sms_access">Giới hạn truy cập vào mã xác minh</string>
     <string name="ask_create_shortcut">Tạo lối tắt Màn hình chính?</string>
     <string name="audio_optimization_summary">Tăng cường âm thanh và giảm tiếng ồn xung quanh trong các cuộc hội thoại</string>
+    <string name="audio_optimization_summary_new">Tối ưu chất lượng âm thanh của tai nghe khi chơi game và giảm tiếng ồn khi gọi</string>
     <string name="audio_optimization_title">Tăng cường âm thanh</string>
     <string name="auto_atsk_condition_battery_level_text_down">Khi pin đạt đến %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Khi pin đã sạc đến %s</string>
@@ -1130,6 +1131,7 @@ Tuy nhiên, một số giao dịch của bạn vẫn chưa hoàn thành. Để 
     <string name="continue_set">Tiếp tục</string>
     <string name="convenient_mode">Mở khóa tất cả ứng dụng cùng lúc</string>
     <string name="convenient_summary">Nhập mật khẩu một lần để mở khóa tất cả ứng dụng</string>
+    <string name="conversation_phone_title">Hộp công cụ gọi</string>
     <string name="conversation_settings_top">"·Trượt thanh Công cụ hội nghị trong cuộc gọi âm thanh và video toàn màn hình để truy cập các tính năng.
 ·Loại và số lượng tính năng tùy thuộc vào mẫu thiết bị."</string>
     <string name="conversation_sider_tips">Sử dụng Công cụ hội nghị mới để có trải nghiệm cuộc gọi tốt nhất</string>
@@ -1144,9 +1146,13 @@ Tuy nhiên, một số giao dịch của bạn vẫn chưa hoàn thành. Để 
     <string name="create_gamebooster_destop">Tạo lối tắt Màn hình chính thành công</string>
     <string name="create_shortcut">Tạo lối tắt Game Turbo trên Màn hình chính</string>
     <string name="cs_color_sense">Nhiệt độ màu</string>
+    <string name="cs_conversation_record_using">Đang ghi âm</string>
     <string name="cs_func_toast_headset">Ngắt kết nối tai nghe để có thể sử dụng tính năng này</string>
     <string name="cs_func_toast_light">Chuyển sang camera trước để có thể sử dụng tính năng này</string>
     <string name="cs_func_toast_pickup">Chuyển sang cuộc gọi video để có thể sử dụng tính năng này</string>
+    <string name="cs_func_unavailable_tips">Sử dụng tính năng này trong khi gọi</string>
+    <string name="cs_light_enhance_physical_options">Nhiệt độ màu</string>
+    <string name="cs_light_enhance_physical_title">Độ sáng</string>
     <string name="cs_pickup_denoise_desc">Giảm tiếng ồn của âm thanh đến khi sử dụng loa hoặc tai nghe</string>
     <string name="cs_pickup_denoise_title">Giảm tiếng ồn</string>
     <string name="cs_pickup_multi_desc">Nhận âm thanh %d độ</string>
@@ -1160,11 +1166,19 @@ Tuy nhiên, một số giao dịch của bạn vẫn chưa hoàn thành. Để 
     <string name="cs_pickup_vioce_print_unsupport_tips">Ghi vết giọng nói trước khi chọn \"Một người tham gia\"</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Ngắt kết nối các thiết bị bên ngoài và thử lại</string>
     <string name="cs_pickup_voice_print_desc">Chỉ lấy âm thanh từ một người</string>
+    <string name="cs_privacy_camera_global_settings_title">Chụp ảnh riêng tư cuộc gọi</string>
     <string name="cs_screen_translation_title">Dịch màn hình</string>
+    <string name="cs_simultaneous_interpretation_title">Diễn dịch</string>
     <string name="cs_title_pickup">Giảm tiếng ồn</string>
     <string name="cs_title_smart_subtitle">Phiên âm phụ đề</string>
     <string name="cs_title_ultraclear">Chế độ Ultra HD</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Hãy thử phiên dịch đồng thời và các công cụ cuộc gọi hội nghị khác trong Hộp công cụ cuộc gọi mới</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Dùng thử nhiều tính năng của cuộc gọi hội nghị trong Hộp công cụ cuộc gọi mới</string>
+    <string name="cs_tool_box_phone_guide_case_1">Hãy thử phiên dịch đồng thời và các tính năng khác trong Hộp công cụ cuộc gọi mới</string>
+    <string name="cs_tool_box_phone_guide_case_2">Dùng thử nhiều tính năng trong Hộp công cụ cuộc gọi mới</string>
     <string name="cs_voice_print">Ghi vết giọng nói</string>
+    <string name="cs_vt_camera_toast_case1">Mở camera trong ứng dụng hiện tại</string>
+    <string name="cs_vt_camera_toast_case2">Không có thiết bị tương thích lân cận</string>
     <string name="cta_agree_desc">Để có thể sử dụng các dịch vụ của chúng tôi, cho phép ứng dụng này kết nối internet và cấp các quyền được liệt kê ở trên.</string>
     <string name="cta_close_dialog_cancel">Hủy</string>
     <string name="cta_close_dialog_content">Nếu bạn giới hạn ứng dụng Bảo mật truy cập internet và thông tin vị trí của bạn, bạn không thể nhận được cảnh báo động đất, cập nhật nhận dạng virus và thông tin danh sách chặn. Thiết bị của bạn sẽ trở nên kém an toàn hơn. Vẫn giới hạn?</string>
@@ -1845,6 +1859,8 @@ Nó sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị ch�
     <string name="gb_audition_play_instruction">Sử dụng tai nghe để có hiệu quả tốt nhất</string>
     <string name="gb_award_noti_message">Bật cập nhật nền Game for Peace trong Game Turbo để nhận phần thưởng</string>
     <string name="gb_award_noti_title">Phần thưởng Game for Peace tại đây!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Không thể chuyển sang chế độ Cân bằng trong Game Turbo khi chế độ Tối ưu trên toàn hệ thống đang bật. Bạn có thể thay đổi cài đặt pin trong Bảo mật.&lt;br>&lt;a href=\"#\">Mở Bảo mật&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Không thể chuyển sang chế độ Cân bằng trong Game Turbo khi bật chế độ Tối ưu trên toàn hệ thống. Bạn có thể thay đổi cài đặt pin trong Bảo mật.&lt;br>&lt;a href=\"#\">Mở Bảo mật&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">Cao</string>
     <string name="gb_bar_low">Thấp</string>
     <string name="gb_bar_mid">Trung bình</string>
@@ -2000,6 +2016,8 @@ nhưng cũng làm tăng mức tiêu thụ điện năng và làm cho thiết b�
     <string name="gb_predownload_receive_tips">Bật cập nhật nền để nhận phần thưởng</string>
     <string name="gb_predownload_receiving">Đang nhận…</string>
     <string name="gb_predownload_title">Cập nhật nền</string>
+    <string name="gb_setting_dock_toast">Các tính năng trợ lý camera trước hiện khả dụng trong Hộp công cụ gọi</string>
+    <string name="gb_setting_dock_toast_2">Các tính năng trợ lý camera trước hiện khả dụng trong Hộp công cụ gọi</string>
     <string name="gb_shortcut_pref_title">Lối tắt Màn hình chính</string>
     <string name="gb_shoulder_guide_message1">Di chuyển [L] đến vị trí tính năng bất kỳ để sử dụng chúng thông qua kích hoạt pop-up</string>
     <string name="gb_shoulder_guide_message2">Hành động [1] được kích hoạt bằng cách bấm nút. Hành động [2] được kích hoạt bằng cách nhả nút.</string>
@@ -2135,9 +2153,21 @@ quan trọng khi chơi game"</string>
     <string name="gd_dock_shortcut_splitescreen">Chia màn hình</string>
     <string name="gd_setting_conversation">Công cụ hội nghị</string>
     <string name="gd_setting_conversation_desc">Cung cấp nhiều tính năng khác nhau để sử dụng cuộc gọi âm thanh và video toàn màn hình</string>
+    <string name="gd_setting_dock_activity_title">Hộp công cụ bên</string>
+    <string name="gd_setting_dock_call_summary">Các tính năng dành cho cuộc gọi thoại và video (ví dụ: tăng sáng)</string>
+    <string name="gd_setting_dock_call_title">Hộp công cụ gọi</string>
+    <string name="gd_setting_dock_game_summary">Tăng cường hiển thị và hiệu suất khi chơi game</string>
+    <string name="gd_setting_dock_game_summary_new">Tăng cường hiển thị và hiệu suất khi chơi game</string>
+    <string name="gd_setting_dock_summary">Mở các ứng dụng khác trong cửa sổ nổi khi sử dụng ứng dụng toàn màn hình</string>
+    <string name="gd_setting_dock_title">Thanh bên</string>
+    <string name="gd_setting_dock_video_summary">Sử dụng các hiệu ứng như Dolby Atmos khi xem video</string>
+    <string name="gd_setting_dock_video_summary_new">Sử dụng các công cụ và hiệu ứng khi xem video</string>
+    <string name="gd_setting_group_custom_conversation_apps">Ghi lại vết giọng nói cho cuộc gọi</string>
     <string name="gd_setting_group_custom_gtb_apps">Game</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Quản lý ứng dụng trò chơi</string>
     <string name="gd_setting_group_custom_settings">Cá nhân</string>
     <string name="gd_setting_group_custom_vtb_apps">Ứng dụng video</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Quản lý ứng dụng video</string>
     <string name="gd_setting_group_title_switch">Bối cảnh</string>
     <string name="gd_setting_gtb">Hiển thị khi chơi game</string>
     <string name="gd_setting_gtb_desc">Tính năng đặc biệt cho game thủ</string>
@@ -2157,11 +2187,17 @@ quan trọng khi chơi game"</string>
     <string name="get_phone_num_fail">Số điện thoại không xác định</string>
     <string name="get_sys_info">Đang nhận thông tin…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">Bấm và giữ biểu tượng để di chuyển cửa sổ xung quanh</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Chạm một ứng dụng trên thanh bên để mở trên cửa sổ nổi.
 · Kéo một ứng dụng đến giữa màn hình để mở trên cửa sổ nổi hoặc đến cạnh màn hình để sử dụng Chia màn hình.
 · Bấm và giữ biểu tượng để di chuyển cửa sổ xung quanh."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"Chạm một ứng dụng trên thanh bên để mở trên cửa sổ nổi.
+Kéo một ứng dụng đến giữa màn hình để mở trên cửa sổ nổi hoặc đến cạnh màn hình để sử dụng Chia màn hình.
+Bấm và giữ biểu tượng để di chuyển cửa sổ xung quanh."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Chạm một ứng dụng trên cạnh bên để mở trên cửa sổ nổi.
 · Bấm và giữ biểu tượng để di chuyển cửa sổ xung quanh."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Trượt để mở thanh bên và chạm vào một ứng dụng để mở trong cửa sổ nổi.
+Bấm và giữ biểu tượng để di chuyển cửa sổ xung quanh."</string>
     <string name="global_satisfaction_notification_button">Đánh giá</string>
     <string name="global_satisfaction_notification_channel">Khảo sát sự hài lòng của người dùng</string>
     <string name="global_satisfaction_notification_subhead">Cho chúng tôi biết trải nghiệm của bạn</string>
@@ -3183,6 +3219,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="pc_battery_history_total_consumption_title">Tổng tiêu thụ điện năng</string>
     <string name="pc_battery_history_usetime_title">Hoạt động</string>
     <string name="pc_battery_low_health_reminder">Đã đến lúc thay pin của bạn</string>
+    <string name="pc_battery_replacement_service_title">Hãy thử dịch vụ thay pin của chúng tôi. %1$s phần cứng bản gốc với %2$s bảo hành.</string>
     <string name="pc_berserk_mode_dialog_title">Bật Chế độ tối ưu</string>
     <string name="pc_berserk_mode_noti_summary">Chế độ tối ưu có thể làm tăng mức tiêu thụ điện năng và dẫn đến các vấn đề quá nhiệt</string>
     <string name="pc_berserk_mode_performance_title">Chế độ tối ưu</string>
@@ -3256,6 +3293,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="pc_fast_charge_switch_summary_new">Nhắc nhở tăng tốc độ sạc khi bộ sạc đi kèm được kết nối và pin ở dưới mức cài đặt</string>
     <string name="pc_fast_charge_switch_title">Tăng tốc độ sạc</string>
     <string name="pc_fast_charge_switch_toast_message">Thay đổi sẽ được áp dụng lần tới khi bạn sạc thiết bị này</string>
+    <string name="pc_fast_charge_temp_remider">Bật để tự động điều chỉnh tốc độ sạc. Tính năng này chỉ hoạt động với bộ sạc đi kèm của Xiaomi. Thiết bị của bạn có thể nóng lên trong khi sạc.</string>
     <string name="pc_fast_charge_title">Tăng tốc độ sạc</string>
     <string name="pc_going_to_exit_extreme_mode">Đang thoát Chế độ ngủ đông</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Thiết bị của bạn đang sạc. Chế độ ngủ đông tắt.</string>
@@ -3344,6 +3382,16 @@ Tiết kiệm pin tối ưu"</string>
     <string name="pc_search_keywords_capacity">Dung lượng Pin</string>
     <string name="pc_search_keywords_property">Hiệu suất</string>
     <string name="pc_settings_title">Pin</string>
+    <string name="pc_smart_charge_button_summary">Để kéo dài thời gian sử dụng pin, hệ thống sẽ tìm hiểu cách bạn sạc thiết bị và dừng sạc khi mức pin đạt đến %1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Thiết bị của bạn quá nhiệt. Sạc sẽ dừng khi mức pin đạt đến %1$s</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Đang điều hướng… Sạc sẽ dừng khi mức pin đạt đến %1$s</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">Sạc sẽ dừng lúc %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">Để kéo dài thời gian sử dụng pin, pin của thiết bị này sẽ không vượt quá mức hiện tại khi kết nối với ô tô.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Không hiển thị lại</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Bảo vệ pin</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">Để kéo dài thời gian sử dụng pin, pin của thiết bị này sẽ không vượt quá mức hiện tại khi kết nối với ô tô</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Bảo vệ pin</string>
+    <string name="pc_smart_charge_title">Sạc thông minh</string>
     <string name="pc_smart_discharge_checkbox_summary">Khi sử dụng tính năng điều hướng, quá trình sạc sẽ tự động dừng ở một phần trăm nhất định. Tiết kiệm pin sẽ bị tắt.</string>
     <string name="pc_smart_discharge_checkbox_title">Ngắt kết nối tự động khi sạc</string>
     <string name="pc_smart_discharge_drop_down_title">Cài đặt tự động ngắt kết nối</string>
@@ -3356,6 +3404,8 @@ Tiết kiệm pin tối ưu"</string>
     <string name="pc_statistics_battery_use_title">Sử dụng pin</string>
     <string name="pc_suggest_open_fast_charge">Bật sạc nhanh %dW</string>
     <string name="pc_temperature_too_high">Thiết bị quá nhiệt</string>
+    <string name="pc_this_time_charge_full">Sạc đầy lần này</string>
+    <string name="pc_this_time_charge_full_work">Sắp đầy pin</string>
     <string name="pc_timely_charging_summary">Pin dưới %1$s. Nếu thiết bị quá nhiệt trong khi pin yếu, điều này có thể làm hỏng pin.</string>
     <string name="pc_timely_charging_title">Sạc thiết bị của bạn</string>
     <string name="pc_to_phone_install">Đã chặn cài đặt %s qua USB</string>
@@ -4376,6 +4426,13 @@ Rút lại chấp thuận ngay?"</string>
     <string name="sd_mount">Lắp thẻ SD</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">Ứng dụng</string>
+    <string name="search_keyword_applybar">Dock ứng dụng</string>
+    <string name="search_keyword_call">Cuộc gọi</string>
+    <string name="search_keyword_sidebar">Thanh bên</string>
+    <string name="search_keyword_tool">Công cụ</string>
+    <string name="search_keyword_tools">Hộp công cụ</string>
+    <string name="search_keyword_voice">Âm thoại</string>
     <string name="search_menu_title">Tìm kiếm</string>
     <string name="search_result_text">Không tìm thấy bất kỳ ứng dụng nào</string>
     <string name="section_clear_acc_item_title">%s. Nếu vẫn không đủ dung lượng, hãy sử dụng Dọn dẹp.</string>
@@ -5165,6 +5222,7 @@ Rút lại chấp thuận ngay?"</string>
     <string name="title_cloud_space_almost_full">Dung lượng lưu trữ đám mây gần đầy, nhiều mục có thể không được đồng bộ</string>
     <string name="title_cloud_space_full">Đám mây đã đầy</string>
     <string name="title_cmcc_app_check">Xác minh không hoàn chỉnh</string>
+    <string name="title_condition_meeting">Họp</string>
     <string name="title_consume_power_rank">Sử dụng pin ứng dụng</string>
     <string name="title_dark_mode">Một số mục không được hiển thị chính xác</string>
     <string name="title_data_flow">Giám sát dữ liệu di động</string>
@@ -5225,6 +5283,8 @@ Rút lại chấp thuận ngay?"</string>
     <string name="toast_cleaner_cloudscan">Dọn dẹp sẽ sử dụng nhận dạng trực tuyến</string>
     <string name="toast_dark_mode_fixed">Sửa thành công. Rời khỏi trang này để áp dụng thay đổi.</string>
     <string name="toast_flow_notification">Đã bật thông báo sử dụng dữ liệu</string>
+    <string name="toast_gamembox_unenable_pad">Bật Game Turbo trong Bảo mật trước</string>
+    <string name="toast_gamembox_unenable_phone">Bật Game Turbo trong Bảo mật trước</string>
     <string name="toast_garbage_lib">Đã bật tự động cập nhật cho Dọn dẹp</string>
     <string name="toast_keyword_blank">Bạn cần phải nhập một từ khóa</string>
     <string name="toast_keyword_exist">Từ khóa đã được thêm</string>

@@ -590,6 +590,7 @@
     <string name="apps_list_header_title_sms_access">Περιορισμός πρόσβασης σε κωδικούς επαλήθευσης</string>
     <string name="ask_create_shortcut">Δημιουργία συντόμευσης Αρχικής οθόνης;</string>
     <string name="audio_optimization_summary">Ενίσχυση ήχου και μείωση θορύβου περιβάλλοντος στις συζητήσεις</string>
+    <string name="audio_optimization_summary_new">Βελτιστοποίηση ποιότητας ήχου ακουστικών κατά το παιχνίδι και μείωση θορύβου κατά τη διάρκεια κλήσεων</string>
     <string name="audio_optimization_title">Ενίσχυση ήχου</string>
     <string name="auto_atsk_condition_battery_level_text_down">Όταν η μπαταρία φτάσει %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Όταν η μπαταρία φορτίσει μέχρι %s</string>
@@ -1130,6 +1131,7 @@
     <string name="continue_set">Συνέχεια</string>
     <string name="convenient_mode">Ξεκλείδωμα όλων των εφαρμογών ταυτόχρονα</string>
     <string name="convenient_summary">Εισαγωγή κωδικού μία φορά για ξεκλείδωμα όλων των εφαρμογών</string>
+    <string name="conversation_phone_title">Εργαλειοθήκη κλήσεων</string>
     <string name="conversation_settings_top">"·Σύρετε προς τα έξω τη γραμμή εργαλείων συνδιάσκεψης κατά τη διάρκεια κλήσεων ήχου και βίντεο σε πλήρη οθόνη για πρόσβαση στις δυνατότητές της.
 ·Ο τύπος και ο αριθμός των λειτουργιών εξαρτάται από το μοντέλο της συσκευής."</string>
     <string name="conversation_sider_tips">Χρησιμοποιήστε νέα εργαλεία συνδιάσκεψης για την καλύτερη εμπειρία κλήσεων</string>
@@ -1144,9 +1146,13 @@
     <string name="create_gamebooster_destop">Επιτυχής δημιουργία συντόμευσης Αρχικής οθόνης</string>
     <string name="create_shortcut">Δημιουργία συντόμευσης Αρχικής οθόνης για το Τούρμπο παιχνιδιού</string>
     <string name="cs_color_sense">Θερμοκρασία χρώματος</string>
+    <string name="cs_conversation_record_using">Ηχογράφηση</string>
     <string name="cs_func_toast_headset">Αποσυνδέστε τα ακουστικά σας για να μπορείτε να χρησιμοποιήσετε αυτήν τη δυνατότητα</string>
     <string name="cs_func_toast_light">Μεταβείτε στην μπροστινή κάμερα για να μπορείτε να χρησιμοποιήσετε αυτήν τη δυνατότητα</string>
     <string name="cs_func_toast_pickup">Μεταβείτε σε βιντεοκλήση για να μπορέσετε να χρησιμοποιήσετε αυτήν τη δυνατότητα</string>
+    <string name="cs_func_unavailable_tips">Χρησιμοποιήστε αυτήν τη δυνατότητα κατά τη διάρκεια κλήσεων</string>
+    <string name="cs_light_enhance_physical_options">Θερμοκρασία χρώματος</string>
+    <string name="cs_light_enhance_physical_title">Φωτεινότητα</string>
     <string name="cs_pickup_denoise_desc">Μείωση θορύβου εισερχόμενου ήχου ενώ χρησιμοποιείτε ηχεία ή ακουστικά earphones</string>
     <string name="cs_pickup_denoise_title">Μείωση θορύβου</string>
     <string name="cs_pickup_multi_desc">%d βαθμοί λήψης ήχου</string>
@@ -1160,11 +1166,19 @@
     <string name="cs_pickup_vioce_print_unsupport_tips">Ηχογραφήστε το φωνητικό αποτύπωμα πριν επιλέξετε \"Μεμονωμένος συμμετέχων\"</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Αποσυνδέστε τις εξωτερικές συσκευές και δοκιμάστε ξανά</string>
     <string name="cs_pickup_voice_print_desc">Εστίαση στον ήχο μόνο ενός ατόμου</string>
+    <string name="cs_privacy_camera_global_settings_title">Απόρρητο κλήσεων</string>
     <string name="cs_screen_translation_title">Μετάφραση οθόνης</string>
+    <string name="cs_simultaneous_interpretation_title">Διερμηνεία</string>
     <string name="cs_title_pickup">Μείωση θορύβου</string>
     <string name="cs_title_smart_subtitle">Μεταγραφή υποτίτλων</string>
     <string name="cs_title_ultraclear">Λειτουργία Ultra HD</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Δοκιμάστε την ταυτόχρονη διερμηνεία και άλλα εργαλεία κλήσης συνδιάσκεψης στη νέα εργαλειοθήκη κλήσεων</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Δοκιμάστε μια σειρά λειτουργιών κλήσης συνδιάσκεψης στη νέα εργαλειοθήκη κλήσης</string>
+    <string name="cs_tool_box_phone_guide_case_1">Δοκιμάστε την ταυτόχρονη διερμηνεία και άλλες δυνατότητες στη νέα εργαλειοθήκη κλήσης</string>
+    <string name="cs_tool_box_phone_guide_case_2">Δοκιμάστε μια σειρά λειτουργιών στη νέα εργαλειοθήκη κλήσης</string>
     <string name="cs_voice_print">Ηχογράφηση φωνητικού αποτυπώματος</string>
+    <string name="cs_vt_camera_toast_case1">Ανοίξτε την κάμερα στην τρέχουσα εφαρμογή</string>
+    <string name="cs_vt_camera_toast_case2">Δεν υπάρχουν συμβατές συσκευές κοντά</string>
     <string name="cta_agree_desc">Για να μπορείτε να χρησιμοποιείτε τις υπηρεσίες μας, επιτρέψτε σε αυτή την εφαρμογή να συνδεθεί στο ίντερνετ και παραχωρήστε τις άδειες που αναφέρονται πιο πάνω.</string>
     <string name="cta_close_dialog_cancel">Ακύρωση</string>
     <string name="cta_close_dialog_content">Εάν περιορίσετε την πρόσβαση της Ασφάλειας στο ίντερνετ και στις πληροφορίες της τοποθεσίας σας, δεν θα είστε σε θέση να λαμβάνετε προειδοποιήσεις για σεισμούς, να ενημέρωση ορισμών ιών και πληροφορίες λίστας αποκλεισμού. Η συσκευή σας θα γίνει λιγότερο ασφαλής. Περιορισμός παρόλα αυτά;</string>
@@ -1847,6 +1861,8 @@
     <string name="gb_audition_play_instruction">Χρησιμοποιήστε ακουστικά earphones για καλύτερο αποτέλεσμα</string>
     <string name="gb_award_noti_message">Ενεργοποιήστε τις ενημερώσεις παρασκηνίου του Game for Peace στο Τούρμπο παιχνιδιού για να λάβετε βραβεία</string>
     <string name="gb_award_noti_title">Τα βραβεία Game for Peace είναι εδώ!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Δεν είναι δυνατή η μετάβαση στην Ισορροπημένη λειτουργία στο Τούρμπο παιχνιδιού όταν είναι ενεργοποιημένη η Απόλυτη λειτουργία σε όλο το σύστημα. Μπορείτε να αλλάξετε τις ρυθμίσεις της μπαταρίας στην Ασφάλεια.&lt;br>&lt;a href=\"#\">Άνοιγμα Ασφάλειας&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Δεν είναι δυνατή η μετάβαση στην Ισορροπημένη λειτουργία στο Τούρμπο παιχνιδιού όταν είναι ενεργοποιημένη η Απόλυτη λειτουργία σε όλο το σύστημα. Μπορείτε να αλλάξετε τις ρυθμίσεις της μπαταρίας στην Ασφάλεια. &lt;br>&lt;a href=\"#\">Άνοιγμα Ασφάλειας&lt;/a>&lt;/Data></string>
     <string name="gb_bar_high">Υψηλή</string>
     <string name="gb_bar_low">Χαμηλή</string>
     <string name="gb_bar_mid">Μέτρια</string>
@@ -2002,6 +2018,8 @@ Xiaomi Gaming Cooler"</string>
     <string name="gb_predownload_receive_tips">Ενεργοποιήστε τις ενημερώσεις στο παρασκήνιο για να λάβετε βραβεία</string>
     <string name="gb_predownload_receiving">Γίνεται λήψη…</string>
     <string name="gb_predownload_title">Ενημερώσεις παρασκηνίου</string>
+    <string name="gb_setting_dock_toast">Οι λειτουργίες του Βοηθού μπροστινής κάμερας είναι τώρα διαθέσιμες στην Εργαλειοθήκη κλήσεων τώρα</string>
+    <string name="gb_setting_dock_toast_2">Οι λειτουργίες του Βοηθού μπροστινής κάμερας είναι τώρα διαθέσιμες στην Εργαλειοθήκη κλήσεων τώρα</string>
     <string name="gb_shortcut_pref_title">Συντόμευση Αρχικής οθόνης</string>
     <string name="gb_shoulder_guide_message1">Μετακινήστε το [L] σε οποιαδήποτε λειτουργική θέση για να το χρησιμοποιήσετε μέσω αναδυόμενου χειριστηρίου</string>
     <string name="gb_shoulder_guide_message2">Η Δράση [1] ενεργοποιείται πατώντας το κουμπί. Η Δράση [2] ενεργοποιείται αφήνοντας το κουμπί.</string>
@@ -2137,9 +2155,21 @@ Xiaomi Gaming Cooler"</string>
     <string name="gd_dock_shortcut_splitescreen">Διαίρεση οθόνης</string>
     <string name="gd_setting_conversation">Εργαλεία συνδιάσκεψης</string>
     <string name="gd_setting_conversation_desc">Παρέχει μια ποικιλία λειτουργιών για χρήση σε κλήσεις ήχου και βίντεο πλήρους οθόνης</string>
+    <string name="gd_setting_dock_activity_title">Πλαϊνή εργαλειοθήκη</string>
+    <string name="gd_setting_dock_call_summary">Λειτουργίες για φωνητικές κλήσεις και βιντεοκλήσεις (π.χ. συμπλήρωση φωτός)</string>
+    <string name="gd_setting_dock_call_title">Εργαλειοθήκη κλήσεων</string>
+    <string name="gd_setting_dock_game_summary">Βελτιώστε την οθόνη και την απόδοση κατά την αναπαραγωγή παιχνιδιών</string>
+    <string name="gd_setting_dock_game_summary_new">Βελτιώστε την οθόνη και την απόδοση κατά την αναπαραγωγή παιχνιδιών</string>
+    <string name="gd_setting_dock_summary">Ανοίξτε άλλες εφαρμογές σε αναδυόμενα παράθυρα ενώ χρησιμοποιείτε μια εφαρμογή σε πλήρη οθόνη</string>
+    <string name="gd_setting_dock_title">Πλαϊνή γραμμή</string>
+    <string name="gd_setting_dock_video_summary">Χρησιμοποιήστε εφέ όπως το Dolby Atmos κατά την παρακολούθηση βίντεο</string>
+    <string name="gd_setting_dock_video_summary_new">Χρησιμοποιήστε εργαλεία και εφέ κατά την παρακολούθηση βίντεο</string>
+    <string name="gd_setting_group_custom_conversation_apps">Εγγραφή φωνητικού αποτυπώματος για κλήσεις</string>
     <string name="gd_setting_group_custom_gtb_apps">Παιχνίδια</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Διαχείριση εφαρμογών παιχνιδιών</string>
     <string name="gd_setting_group_custom_settings">Εξατομίκευση</string>
     <string name="gd_setting_group_custom_vtb_apps">Εφαρμογές βίντεο</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Διαχείριση εφαρμογών για βίντεο</string>
     <string name="gd_setting_group_title_switch">Σενάρια</string>
     <string name="gd_setting_gtb">Εμφάνιση ενώ παίζετε παιχνίδια</string>
     <string name="gd_setting_gtb_desc">Ειδικές δυνατότητες για παιχνίδια</string>
@@ -2159,11 +2189,17 @@ Xiaomi Gaming Cooler"</string>
     <string name="get_phone_num_fail">Άγνωστος αριθμός τηλεφώνου</string>
     <string name="get_sys_info">Γίνεται λήψη πληροφοριών…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">Πατήστε παρατεταμένα την ένδειξη για να μετακινήσετε το παράθυρο</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Πατήστε μια εφαρμογή στην πλαϊνή γραμμή για να την ανοίξετε σε ένα αιωρούμενο παράθυρο.
 · Σύρετε μια εφαρμογή στο κέντρο της οθόνης για να την ανοίξετε σε ένα αναδυόμενο παράθυρο ή στο πλάι για να χρησιμοποιήσετε τη Διαίρεση οθόνης.
 · Πατήστε παρατεταμένα την ένδειξη για να μετακινήσετε το παράθυρο."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"Πατήστε μια εφαρμογή στην πλαϊνή γραμμή για να την ανοίξετε σε ένα αιωρούμενο παράθυρο.
+ Σύρετε μια εφαρμογή στο κέντρο της οθόνης για να την ανοίξετε σε ένα αναδυόμενο παράθυρο ή στο πλάι για να χρησιμοποιήσετε τη Διαίρεση οθόνης.
+ Πατήστε παρατεταμένα την ένδειξη για να μετακινήσετε το παράθυρο."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Πατήστε μια εφαρμογή στην πλαϊνή γραμμή για να την ανοίξετε σε ένα αναδυόμενο παράθυρο.
 · Πατήστε παρατεταμένα την ένδειξη για να μετακινήσετε το παράθυρο."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Σύρετε για να ανοίξετε την πλαϊνή γραμμή και πατήστε μια εφαρμογή για να την ανοίξετε σε ένα αναδυόμενο παράθυρο.
+Πατήστε παρατεταμένα την ένδειξη για να μετακινήσετε το παράθυρο."</string>
     <string name="global_satisfaction_notification_button">Αξιολόγηση</string>
     <string name="global_satisfaction_notification_channel">Έρευνα ικανοποίησης χρήστη</string>
     <string name="global_satisfaction_notification_subhead">Πείτε μας για την εμπειρία σας</string>
@@ -3184,6 +3220,7 @@ to join our egg hunt!"</string>
     <string name="pc_battery_history_total_consumption_title">Συνολική κατανάλωση ενέργειας</string>
     <string name="pc_battery_history_usetime_title">Ενεργό</string>
     <string name="pc_battery_low_health_reminder">Ώρα να αντικαταστήσετε την μπαταρία σας</string>
+    <string name="pc_battery_replacement_service_title">Δοκιμάστε την υπηρεσία αντικατάστασης μπαταρίας. Αρχικό υλικό %1$s με εγγύηση %2$s.</string>
     <string name="pc_berserk_mode_dialog_title">Ενεργοποίηση Απόλυτης λειτουργίας</string>
     <string name="pc_berserk_mode_noti_summary">Η Απόλυτη λειτουργία μπορεί να αυξήσει την κατανάλωση ενέργειας και να οδηγήσει σε προβλήματα υπερθέρμανσης</string>
     <string name="pc_berserk_mode_performance_title">Απόλυτη λειτουργία</string>
@@ -3257,6 +3294,7 @@ to join our egg hunt!"</string>
     <string name="pc_fast_charge_switch_summary_new">Υπενθύμιση για αύξηση της ταχύτητας φόρτισης όταν είναι συνδεδεμένος ο παρεχόμενος φορτιστής και η μπαταρία πέσει κάτω από το καθορισμένο επίπεδο</string>
     <string name="pc_fast_charge_switch_title">Ενίσχυση ταχύτητας φόρτισης</string>
     <string name="pc_fast_charge_switch_toast_message">Οι αλλαγές θα εφαρμοστούν την επόμενη φορά που θα φορτίσετε αυτή τη συσκευή</string>
+    <string name="pc_fast_charge_temp_remider">Ενεργοποιήστε για να ρυθμίσετε αυτόματα την ταχύτητα φόρτισης. Αυτή η δυνατότητα λειτουργεί μόνο με τους παρεχόμενους φορτιστές της Xiaomi. Η συσκευή σας ενδέχεται να θερμανθεί κατά τη φόρτιση.</string>
     <string name="pc_fast_charge_title">Ενίσχυση ταχύτητας φόρτισης</string>
     <string name="pc_going_to_exit_extreme_mode">Έξοδος από την Κατάσταση αδρανοποίησης</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Η συσκευή σας φορτίζεται. Η Κατάσταση αδρανοποίησης είναι απενεργοποιημένη.</string>
@@ -3345,6 +3383,16 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="pc_search_keywords_capacity">Χωρητικότητα μπαταρίας</string>
     <string name="pc_search_keywords_property">Απόδοση</string>
     <string name="pc_settings_title">Μπαταρία</string>
+    <string name="pc_smart_charge_button_summary">Για να παρατείνει τη διάρκεια ζωής της μπαταρίας, το σύστημα θα μάθει πώς φορτίζετε τη συσκευή σας και θα σταματήσει τη φόρτιση όταν το επίπεδο της μπαταρίας φτάσει στο %1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Η συσκευή σας έχει θερμανθεί. Η φόρτιση θα σταματήσει όταν το επίπεδο της μπαταρίας φτάσει στο %1$s</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Πλοήγηση… Η φόρτιση θα σταματήσει όταν το επίπεδο της μπαταρίας φτάσει στο %1$s</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">Η φόρτιση θα σταματήσει στο %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">Για να παρατείνετε τη διάρκεια ζωής της μπαταρίας, η μπαταρία αυτής της συσκευής δεν θα υπερβαίνει το τρέχον επίπεδο όταν είναι συνδεδεμένη στο αυτοκίνητο.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Να μην εμφανιστεί ξανά</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Προστασία μπαταρίας</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">Για να παρατείνετε τη διάρκεια ζωής της μπαταρίας, η μπαταρία αυτής της συσκευής δεν θα υπερβαίνει το τρέχον επίπεδο όταν είναι συνδεδεμένη στο αυτοκίνητο</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Προστασία μπαταρίας</string>
+    <string name="pc_smart_charge_title">Έξυπνη φόρτιση</string>
     <string name="pc_smart_discharge_checkbox_summary">Όταν χρησιμοποιείτε λειτουργίες πλοήγησης, η φόρτιση θα σταματήσει αυτόματα σε ένα καθορισμένο ποσοστό. Η εξοικονόμηση μπαταρίας θα απενεργοποιηθεί.</string>
     <string name="pc_smart_discharge_checkbox_title">Αυτόματη αποσύνδεση φόρτισης</string>
     <string name="pc_smart_discharge_drop_down_title">Ρυθμίσεις αυτόματης αποσύνδεσης</string>
@@ -3357,6 +3405,8 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="pc_statistics_battery_use_title">Χρήση μπαταρίας</string>
     <string name="pc_suggest_open_fast_charge">Ενεργοποίηση γρήγορης φόρτισης %dW</string>
     <string name="pc_temperature_too_high">Η συσκευή έχει ζεσταθεί υπερβολικά</string>
+    <string name="pc_this_time_charge_full">Πλήρης φόρτιση αυτήν τη φορά</string>
+    <string name="pc_this_time_charge_full_work">Σχεδόν πλήρης φόρτιση</string>
     <string name="pc_timely_charging_summary">Η μπαταρία είναι κάτω από το %1$s. Εάν η συσκευή υπερθερμανθεί ενώ η μπαταρία είναι χαμηλή, αυτό μπορεί να προκαλέσει βλάβη στην μπαταρία.</string>
     <string name="pc_timely_charging_title">Φορτίστε τη συσκευή σας</string>
     <string name="pc_to_phone_install">Έγινε αποκλεισμός εγκατάστασης του %s μέσω USB</string>
@@ -4376,6 +4426,13 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="sd_mount">Προσάρτηση κάρτας SD</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">Εφαρμογή</string>
+    <string name="search_keyword_applybar">Βάση εφαρμογών</string>
+    <string name="search_keyword_call">Κλήση</string>
+    <string name="search_keyword_sidebar">Πλαϊνή γραμμή</string>
+    <string name="search_keyword_tool">Εργαλεία</string>
+    <string name="search_keyword_tools">Εργαλειοθήκη</string>
+    <string name="search_keyword_voice">Φωνή</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="search_result_text">Αδυναμία εύρεσης εφαρμογών</string>
     <string name="section_clear_acc_item_title">%s. Εάν δεν υπάρχει ακόμα επαρκής αποθηκευτικός χώρος, δοκιμάστε την Εκκαθάριση.</string>
@@ -5165,6 +5222,7 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="title_cloud_space_almost_full">Ο χώρος αποθήκευσης Cloud είναι σχεδόν πλήρης, τα αντικείμενα μπορεί να μην συγχρονιστούν</string>
     <string name="title_cloud_space_full">Το Cloud είναι γεμάτο</string>
     <string name="title_cmcc_app_check">Η επαλήθευση δεν είναι ολοκληρωμένη</string>
+    <string name="title_condition_meeting">Σύσκεψη</string>
     <string name="title_consume_power_rank">Χρήση ενέργειας εφαρμογών</string>
     <string name="title_dark_mode">Μερικά αντικείμενα δεν εμφανίζονται σωστά</string>
     <string name="title_data_flow">Έλεγχος κινητών δεδομένων</string>
@@ -5225,6 +5283,8 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="toast_cleaner_cloudscan">Η εκκαθάριση θα χρησιμοποιήσει online ορισμούς</string>
     <string name="toast_dark_mode_fixed">Επιτυχία επιδιόρθωσης. Εγκαταλείψτε τη σελίδα για εφαρμογή αλλαγών.</string>
     <string name="toast_flow_notification">Ενεργοποιήθηκαν οι ειδοποιήσεις χρήσης δεδομένων</string>
+    <string name="toast_gamembox_unenable_pad">Ενεργοποιήστε πρώτα το Τούρμπο παιχνιδιού στην Ασφάλεια</string>
+    <string name="toast_gamembox_unenable_phone">Ενεργοποιήστε πρώτα το Τούρμπο παιχνιδιού στην Ασφάλεια</string>
     <string name="toast_garbage_lib">Ενεργοποιήθηκαν αυτόματες ενημερώσεις για την Εκκαθάριση</string>
     <string name="toast_keyword_blank">Πρέπει να εισαγάγετε μία λέξη-κλειδί</string>
     <string name="toast_keyword_exist">Προστέθηκε λέξη-κλειδί</string>

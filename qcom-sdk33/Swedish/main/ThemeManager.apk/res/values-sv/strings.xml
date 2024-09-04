@@ -106,6 +106,10 @@
     <string name="author_new_theme">Nytt</string>
     <string name="author_popularity">Visningar</string>
     <string name="author_unfollow_succeed">Slutat att följa</string>
+    <string name="automatic_renewal_monthly">Förnyas automatiskt för %s/ månad veckor</string>
+    <string name="automatic_renewal_weekly">Förnyas automatiskt för %s/vecka</string>
+    <string name="automatic_renewal_yearly">Förnyas automatiskt för %s/ år</string>
+    <string name="automatically_push_content_to_lock_screen">Nytt innehåll kommer att visas på din låsskärm varje dag</string>
     <string name="automatically_update_using_theme_tips">Uppdatera automatiskt nästa gång</string>
     <string name="back_to_default">Tillbaka till standard</string>
     <string name="back_to_none">Ställ inte in ringsignal</string>
@@ -122,6 +126,9 @@
     <string name="bottomsheet_action_expand_halfway">Utöka till hälften</string>
     <string name="browser_local_resource">Lokala resurser</string>
     <string name="can_not_apply">Det går inte att tillämpa</string>
+    <string name="canceled_failed">Kunde inte avbryta</string>
+    <string name="canceled_subscription_failed">Kunde avbryta prenumerationen. Försök igen.</string>
+    <string name="canceled_trial_failed">Kunde inte avbryta. Försök igen.</string>
     <string name="card_data_request_error">Ett fel inträffade, vänta en minut eller två och försök igen.</string>
     <string name="card_loading">Vänta lite…</string>
     <string name="card_no_network">Kunde inte ansluta till nätverk. Kontrollera inställningar och försök igen.</string>
@@ -175,6 +182,7 @@
     <string name="current_using_desktop_wallpaper_text">Hemskärm</string>
     <string name="current_using_lockscreen_wallpaper_text">Låsskärm</string>
     <string name="current_version_incompatible">Inte kompatibel</string>
+    <string name="custom_wallpaper_for_you">Anpassade bakgrunder för dig</string>
     <string name="data_use_desc">Juridiska dokument</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +192,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">Tillämpa</string>
     <string name="de_super_wp_land_position_default_des">Välj vy</string>
     <string name="deleting">Tar bort…</string>
+    <string name="delivers_fresh_content_and_design_daily">Nya designer varje dag</string>
     <string name="description_author">Upphovsman</string>
     <string name="description_designer">Designer</string>
     <string name="description_download">Nedladdat</string>
@@ -210,6 +219,7 @@
     <string name="editor_apply_message">"Den här funktionen används för felsökningar av designers. Standardtemat kommer automatiskt att återställas inom kort. Filens sökväg till det aktuella temat: "</string>
     <string name="editor_apply_toast">Välj temp.mtz manuellt i rotkatalogen</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">Ange en e-postadress</string>
     <string name="eras_ad">V.T.</string>
     <string name="eras_bc">F.V.T.</string>
     <string name="error_icon_content_description">Fel</string>
@@ -384,6 +394,7 @@
     <string name="hide_incompatible_font">Dölj inkompatibla teckensnitt</string>
     <string name="hide_incompatible_theme">Dölj inkompatibla teman</string>
     <string name="hide_incompatible_wallpaper">Dölj inkompatibla bakgrunder</string>
+    <string name="hint_email_address">Ange en e-postadress</string>
     <string name="home_apply_failured">Det går inte att tillämpa bakgrund Hemskärmen</string>
     <string name="home_apply_success">Bakgrund för Hemskärmen tillämpad</string>
     <string name="hot_first">Populära först</string>
@@ -417,6 +428,7 @@
     <string name="loading_resource_detail_fail">Det går inte att ladda resursen</string>
     <string name="loading_resource_detail_info">Vänta lite…</string>
     <string name="local_photos">Bilder från din telefon</string>
+    <string name="local_record__email_info">Kom ihåg min e-postadress</string>
     <string name="local_resouce_creator_name">Utvecklare: %1$s</string>
     <string name="lock_screen_edit">Redigera Låsskärm</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">Den här Låsskärm-mallen stöder inte Super-bakgrunder. När de appliceras kommer din Låsskärm återgå till standard och bakgrunderna för Hem- och Låsskärm kommer att bytas ut. Applicera nu?</string>
@@ -457,6 +469,7 @@
     <string name="message_sim_two">SIM %d meddelande</string>
     <string name="mi_wallpaper">MIUI bakgrund</string>
     <string name="midnight">Natt</string>
+    <string name="mine_subscribed_wallpaper">Bakgrunder som prenumereras på</string>
     <string name="miui_clock_city_name_local">Lokalt</string>
     <string name="miui_clock_city_name_second">Andra klockan</string>
     <string name="miui_lock_screen_date">EEE d MMM</string>
@@ -701,7 +714,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">Anpassa enheten</string>
     <string name="present_official_themes">Våra val</string>
     <string name="present_online_themes">Hämtar fler teman online</string>
+    <string name="price_for_automatic_renewal">Förnya automatiskt för %1$s</string>
     <string name="privacy_desc">Integritetspolicy (obligatorisk)</string>
+    <string name="privacy_simple_content">Aktivera anpassade rekommendationer för att få innehåll och produkter skräddarsydda efter dina intressen.</string>
+    <string name="privacy_simple_hint">Du kan ändra dina preferenser när som helst i Inställningar.</string>
+    <string name="privacy_simple_title">Personliga rekommendationer</string>
     <string name="promotion_ad">Kampanj</string>
     <string name="provision_default_theme_title">Standard</string>
     <string name="provision_download_cancel">Avbröt nedladdning</string>
@@ -747,6 +764,9 @@ mm"</string>
     <string name="related_theme">Teman</string>
     <string name="related_wallpaper">Bakgrundsbilder</string>
     <string name="reload">Försök igen</string>
+    <string name="renewal_of_a_contract_monthly">Förnya för %s/ månad</string>
+    <string name="renewal_of_a_contract_weekly">Förnya för %s/ vecka</string>
+    <string name="renewal_of_a_contract_yearly">Förnya för %s/ år</string>
     <string name="res_migrate_tip">För att göra Teman kompatibla med kommande versioner av Android har vi flyttat dina nedladdade objekt till en ny plats. Starta om appen för att tillämpa förändringar och visa ditt nedladdade innehåll.</string>
     <string name="resource_account_abnormal_state">Konto fel. Vänta en minut eller två och försök igen.</string>
     <string name="resource_account_fail_to_add">Kan inte lägga till konto</string>
@@ -766,6 +786,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">Rensa all sökhistorik?</string>
     <string name="resource_continue">Nästa</string>
     <string name="resource_current_using_title">Resurser som används nu</string>
+    <string name="resource_currently_applied">Applicerade</string>
     <string name="resource_data_empty">Inga objekt här.</string>
     <string name="resource_default">Standardringsignal</string>
     <string name="resource_default_name">Resurs</string>
@@ -964,6 +985,7 @@ mm"</string>
     <string name="select_all">Välj alla</string>
     <string name="selected_resource_file_invalid">Kan inte använda valda resursfilen</string>
     <string name="send">Skicka</string>
+    <string name="service_expiration_date">Giltig till %1$s</string>
     <string name="set_color_ring_back_tone">Välj en anpassad kopplingston</string>
     <string name="settings">Inställningar</string>
     <string name="shortcut_add">Lägg till</string>
@@ -985,6 +1007,9 @@ mm"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Lägg till</string>
     <string name="storage_file">För att spara nedladdade objekt</string>
+    <string name="submission_successfully">Inskickat</string>
+    <string name="subscription_service_shutdown_tip">Bakgrunder som prenumererats på visas inte längre, eftersom använder en annan tjänst. Du kan endast använda en en bakgrund som prenumererats på, igen.</string>
+    <string name="successfully_applied_wallpaper_tip">Bakgrund tillagd</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Söndag</string>
     <string name="sunday_short">Sön</string>
@@ -997,11 +1022,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">Installera</string>
     <string name="super_wallpaper_list_footer_text">Fler Super-bakgrunder kommer snart</string>
     <string name="super_wallpaper_list_label">Super-bakgrunder</string>
+    <string name="super_wallpaper_low_version_tip_push">Uppdatera Super-bakgrunder till senaste version för att kunna fortsätta att använda dem.</string>
+    <string name="super_wallpaper_restore_msg_push">Den aktuella versionen av Super-bakgrunder har stött på ett problem med att inte vara kompatibelt. Din standardbakgrund har återställts. Uppdatera till senaste version för att kunna använda Super-bakgrunder.</string>
     <string name="super_wallpaper_setting_apply_success_toast">Tillämpad</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Tillämpa</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Alternativ</string>
     <string name="super_wallpaper_setting_coordinate_title">Koordinater</string>
     <string name="super_wallpaper_setting_view_height_title">Altitud</string>
+    <string name="super_wallpaper_upgrade_tip_push">Uppdatera Super-bakgrunder</string>
     <string name="support_google_dynamic_color_hint">Du använder Google Dynamic Color. Färgpaletten i vissa appar kan förändras när du använder nya teman och bakgrunder.</string>
     <string name="swipe_find_more">Svep uppåt för att visa mer</string>
     <string name="system_aod_dialog_message">Slå på \"Skärm alltid på\" för att kunna använda denna funktion.</string>
@@ -1009,7 +1037,26 @@ mm"</string>
     <string name="system_aod_dialog_title">Skärm alltid på</string>
     <string name="system_phone">Samtal</string>
     <string name="system_precust">Förinstallerade</string>
+    <string name="text_billing_info">Fakturainformation</string>
+    <string name="text_cancel_subscription_service">Avbryt den här prenumerationen nu?</string>
+    <string name="text_content_update">Nytt innehåll dagligen</string>
+    <string name="text_free_trial">Prova gratis</string>
+    <string name="text_pay_monthly" formatted="false">Börjar från %s, förnyas automatiskt för %s/ månad tills den avbryts</string>
+    <string name="text_pay_weekly" formatted="false">Börjar från %s, förnyas automatiskt för %s/ vecka tills den avbryts</string>
+    <string name="text_pay_yearly" formatted="false">Börjar från %s, förnyas automatiskt för %s/ år tills den avbryts</string>
     <string name="text_play">Spela</string>
+    <string name="text_start_time_format">dd/MM</string>
+    <string name="text_status_apply_now">Applicera</string>
+    <string name="text_status_be_subscribing">Prenumererar</string>
+    <string name="text_status_cancel_the_trial">Avsluta provperiod</string>
+    <string name="text_status_on_trial">Pågående provperiod</string>
+    <string name="text_status_subscribe_now">Prenumerera</string>
+    <string name="text_status_unsubscribe">Avprenumerera</string>
+    <string name="text_status_unsubscribed">Prenumerationen avslutad</string>
+    <string name="text_subscribe">Prenumerationer</string>
+    <string name="text_subscribed">Prenumererar</string>
+    <string name="text_when_cancel_the_trial_tip">Om du avbryter den här provperioden kommer bakgrunden att rensas från din enhet.</string>
+    <string name="text_when_unsubscribe_tip">Om du avbryter den här prenumerationen kommer den här bakgrunden att rensas från din enhet.</string>
     <string name="the_anniversary_of_lifting_martial_law">Årsdagen för lyftande av undantagstillstånd</string>
     <string name="the_anti_aggression_day">Anti-våldsdagen</string>
     <string name="the_arbor_day">Arbor Day</string>
@@ -1150,6 +1197,8 @@ mm"</string>
     <string name="tip_lockscreen">Ändra bakgrund för låsskärmen och klockan</string>
     <string name="tip_lockscreen2">Du använder Bakgrundsbildskarusell. Att anpassa ditt tema kommer att ändra utseende på bakgrunden för din låsskärm och klocka.</string>
     <string name="tip_statusbar">Ändra Kontrollcenter och Notifikationspanel</string>
+    <string name="tips_subscriptions_close">Prenumerationer på bakgrunder är avstängt</string>
+    <string name="tips_talk_later">Inte nu</string>
     <string name="tips_theme_gate_transfer_fail">Kunde inte öppna den här sidan. Vänta en minut eller två och försök igen.</string>
     <string name="title_component">Anpassa tema</string>
     <string name="title_home_miwallpaper_home_screen_effects">Effekter på Hemskärmen</string>
@@ -1164,6 +1213,7 @@ mm"</string>
     <string name="today">Idag</string>
     <string name="tomorrow">Imorgon</string>
     <string name="top">Populära</string>
+    <string name="trial_cancellation_succeeded">Provperioden avbröts</string>
     <string name="try_fresh_functions_and_contents">Kolla in våra senaste funktioner och det senaste innehållet</string>
     <string name="try_it">Kolla in det här</string>
     <string name="try_tap">Tryck för att förhandsvisa</string>
@@ -1175,6 +1225,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">Jag förstår</string>
     <string name="uid_change_dialog_title">Starta om enheten</string>
     <string name="unknown_error">Ett fel uppstod</string>
+    <string name="unsubscribe_successfully">Abonnemanget uppsagt</string>
     <string name="unsupport_tip">Detta filformat stöds inte. Prova att välja en annan fil.</string>
     <string name="up_to_the_end">Inga fler objekt att visa</string>
     <string name="update_btn">Uppdatera nu</string>
@@ -1189,6 +1240,7 @@ mm"</string>
     <string name="update_push_content">Uppdatera nu</string>
     <string name="update_push_title">Ditt tema har en ny version tillgänglig</string>
     <string name="update_title">NY UPPDATERING TILLGÄNGLIG</string>
+    <string name="updating_the_app_tip">Uppdaterar…</string>
     <string name="used_wallpaper">Tidigare använda</string>
     <string name="user_agree">Godkänn</string>
     <string name="user_attention_new_theme">Nytt innehåll från %s</string>
@@ -1238,6 +1290,7 @@ Du kan när som helst dra tillbaka ditt samtycke till Integritetspolicyn för Te
     <string name="wallpaper_group_natural_texture_title">Naturmönster</string>
     <string name="wallpaper_group_sgn_mountain_title">Siguniangberget</string>
     <string name="wallpaper_might_like">Bakgrunder du kanske gillar</string>
+    <string name="wallpaper_restore_defalut_push">Återställde till standard</string>
     <string name="wallpaper_scroll_type_tips">Scrolla bland bakgrunderna</string>
     <string name="wallpaper_set_as_both">Bakgrund på Låsskärm och Hemskärm</string>
     <string name="wallpaper_set_as_desktop">Bakgrund på Hemskärm</string>

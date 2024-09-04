@@ -106,6 +106,10 @@
     <string name="author_new_theme">신규</string>
     <string name="author_popularity">뷰</string>
     <string name="author_unfollow_succeed">언팔로우 성공</string>
+    <string name="automatic_renewal_monthly">%s/월으로 자동 갱신</string>
+    <string name="automatic_renewal_weekly">%s/주로 자동 갱신</string>
+    <string name="automatic_renewal_yearly">%s/년으로 자동 갱신</string>
+    <string name="automatically_push_content_to_lock_screen">매일 새로운 콘텐츠를 잠금화면에 표시</string>
     <string name="automatically_update_using_theme_tips">다음 번에 자동으로 업데이트</string>
     <string name="back_to_default">기본값으로 돌아가기</string>
     <string name="back_to_none">벨소리 설정하지 않음</string>
@@ -122,6 +126,9 @@
     <string name="bottomsheet_action_expand_halfway">반만 펼치기</string>
     <string name="browser_local_resource">로컬 리소스</string>
     <string name="can_not_apply">적용 실패</string>
+    <string name="canceled_failed">취소 실패</string>
+    <string name="canceled_subscription_failed">구독을 취소할 수 없습니다. 다시 시도하십시오.</string>
+    <string name="canceled_trial_failed">취소 실패, 다시 시도하십시오.</string>
     <string name="card_data_request_error">오류가 발생했습니다. 1-2분 정도 기다리신 후 다시 시도하십시오.</string>
     <string name="card_loading">잠시만 기다려주십시오…</string>
     <string name="card_no_network">네트워크에 연결할 수 없습니다. 네트워크 설정을 확인하시고 다시 시도하십시오.</string>
@@ -175,6 +182,7 @@
     <string name="current_using_desktop_wallpaper_text">홈 화면</string>
     <string name="current_using_lockscreen_wallpaper_text">잠금화면</string>
     <string name="current_version_incompatible">호환되지 않음</string>
+    <string name="custom_wallpaper_for_you">당신을 위한 맞춤형 배경화면</string>
     <string name="data_use_desc">법률 문서</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +192,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">적용</string>
     <string name="de_super_wp_land_position_default_des">보기 선택</string>
     <string name="deleting">삭제 중…</string>
+    <string name="delivers_fresh_content_and_design_daily">매일 새롭고 신선한 디자인</string>
     <string name="description_author">제작자</string>
     <string name="description_designer">디자이너</string>
     <string name="description_download">다운로드됨</string>
@@ -210,6 +219,7 @@
     <string name="editor_apply_message">"이 기능은 디자이너의 디버깅에 사용됩니다. 잠시 후 기본 테마가 자동으로 복원됩니다. 현재 테마의 파일 경로: "</string>
     <string name="editor_apply_toast">루트 디렉토리에서 temp.mtz을 수동으로 선택하십시오</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">이메일 주소 입력</string>
     <string name="eras_ad">서기</string>
     <string name="eras_bc">기원전</string>
     <string name="error_icon_content_description">오류</string>
@@ -384,6 +394,7 @@
     <string name="hide_incompatible_font">호환되지 않는 글꼴 숨기기</string>
     <string name="hide_incompatible_theme">호환되지 않는 테마 숨기기</string>
     <string name="hide_incompatible_wallpaper">호환되지 않는 배경화면 숨기기</string>
+    <string name="hint_email_address">이메일 주소 입력</string>
     <string name="home_apply_failured">홈 화면 배경화면을 적용할 수 없습니다</string>
     <string name="home_apply_success">홈 화면 배경화면 적용됨</string>
     <string name="hot_first">인기 항목 우선</string>
@@ -417,6 +428,7 @@
     <string name="loading_resource_detail_fail">리소스를 로드할수 없음</string>
     <string name="loading_resource_detail_info">잠시만 기다려주십시오…</string>
     <string name="local_photos">로컬 사진</string>
+    <string name="local_record__email_info">내 이메일 주소 기억하기</string>
     <string name="local_resouce_creator_name">개발자: %1$s</string>
     <string name="lock_screen_edit">잠금화면 편집</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">이 잠금화면 탬플릿은 슈퍼 배경화면이 지원되지 않습니다. 적용하시면 잠금화면이 기본 화면으로 돌아가고 홈 화면 및 잠금화면 배경화면이 교체됩니다. 지금 적용하시겠습니까?</string>
@@ -457,6 +469,7 @@
     <string name="message_sim_two">SIM %d 메시지</string>
     <string name="mi_wallpaper">MIUI 배경화면</string>
     <string name="midnight">야간</string>
+    <string name="mine_subscribed_wallpaper">구독된 배경화면</string>
     <string name="miui_clock_city_name_local">로컬</string>
     <string name="miui_clock_city_name_second">보조 시계</string>
     <string name="miui_lock_screen_date">M월d일 EEE</string>
@@ -701,7 +714,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">장치 사용자지정</string>
     <string name="present_official_themes">공식 추천</string>
     <string name="present_online_themes">더 많은 온라인 테마</string>
+    <string name="price_for_automatic_renewal">%1$s 자동 갱신</string>
     <string name="privacy_desc">개인 정보 보호 정책 (필수)</string>
+    <string name="privacy_simple_content">개인 맞춤 추천을 켜고 관심사에 부합하는 콘텐츠 및 제품을 획득하십시오.</string>
+    <string name="privacy_simple_hint">언제든지 설정에서 기본 설정을 변경하실 수 있습니다.</string>
+    <string name="privacy_simple_title">개인 맞춤 추천</string>
     <string name="promotion_ad">프로모션</string>
     <string name="provision_default_theme_title">기본</string>
     <string name="provision_download_cancel">다운로드 취소됨</string>
@@ -747,6 +764,9 @@ mm"</string>
     <string name="related_theme">테마</string>
     <string name="related_wallpaper">배경화면</string>
     <string name="reload">다시 시도</string>
+    <string name="renewal_of_a_contract_monthly">%s/월로 갱신</string>
+    <string name="renewal_of_a_contract_weekly">%s/주로 갱신</string>
+    <string name="renewal_of_a_contract_yearly">%s/년으로 갱신</string>
     <string name="res_migrate_tip">테마 앱을 차기 버전의 Android에 대응하기 위해 다운로드한 항목이 새 위치로 이동되었습니다. 앱을 다시 시작하면 변경 사항이 적용되고 다운로드한 콘텐츠가 표시됩니다.</string>
     <string name="resource_account_abnormal_state">계정 오류. 1~2분 후 다시 시도하십시오.</string>
     <string name="resource_account_fail_to_add">계정을 추가할 수 없습니다.</string>
@@ -766,6 +786,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">검색 기록을 모두 삭제하시겠습니까?</string>
     <string name="resource_continue">다음</string>
     <string name="resource_current_using_title">현재 리소스</string>
+    <string name="resource_currently_applied">적용됨</string>
     <string name="resource_data_empty">항목 없음</string>
     <string name="resource_default">기본 벨소리</string>
     <string name="resource_default_name">리소스</string>
@@ -964,6 +985,7 @@ mm"</string>
     <string name="select_all">전체 선택</string>
     <string name="selected_resource_file_invalid">선택한 리소스 파일을 사용할 수 없습니다.</string>
     <string name="send">전송</string>
+    <string name="service_expiration_date">%1$s까지 유효</string>
     <string name="set_color_ring_back_tone">사용자지정 컬러링 설정</string>
     <string name="settings">설정</string>
     <string name="shortcut_add">추가</string>
@@ -985,6 +1007,9 @@ mm"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">적용</string>
     <string name="storage_file">다운로드된 항목 저장을 위해</string>
+    <string name="submission_successfully">제출 성공</string>
+    <string name="subscription_service_shutdown_tip">다른 서비스의 사용으로 인해 구독된 배경화면을 표시하지 않습니다. 나중에 다시 구독된 배경화면을 적용하실 수 있습니다.</string>
+    <string name="successfully_applied_wallpaper_tip">배경화면 적용 성공</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">일요일</string>
     <string name="sunday_short">일</string>
@@ -997,11 +1022,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">설치</string>
     <string name="super_wallpaper_list_footer_text">더 많은 슈퍼 배경화면이 곧 추가됩니다</string>
     <string name="super_wallpaper_list_label">슈퍼 배경화면</string>
+    <string name="super_wallpaper_low_version_tip_push">계속 사용하시려면 슈퍼 배경화면을 최신 버전으로 업데이트하십시오.</string>
+    <string name="super_wallpaper_restore_msg_push">현재 버전의 슈퍼 배경화면에서 비호환성 문제가 발생했습니다. 기본 배경화면으로 복원되었습니다. 슈퍼 배경화면를 사용하려면 최신 버전으로 업데이트하십시오.</string>
     <string name="super_wallpaper_setting_apply_success_toast">적용 성공</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">적용</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">옵션</string>
     <string name="super_wallpaper_setting_coordinate_title">좌표</string>
     <string name="super_wallpaper_setting_view_height_title">고도</string>
+    <string name="super_wallpaper_upgrade_tip_push">슈퍼 배경화면 업데이트</string>
     <string name="support_google_dynamic_color_hint">Google Dynamic Color를 사용하고 계십니다. 일부 앱의 색상 팔레트가 새 테마 및 배경화면 적용 시에 변경될 수 있습니다.</string>
     <string name="swipe_find_more">위로 스와이프하여 더 보기</string>
     <string name="system_aod_dialog_message">이 기능을 사용하시려면 Always On Display를 켜십시오.</string>
@@ -1009,7 +1037,26 @@ mm"</string>
     <string name="system_aod_dialog_title">Always On Display</string>
     <string name="system_phone">통화</string>
     <string name="system_precust">사전설치</string>
+    <string name="text_billing_info">청구서 정보</string>
+    <string name="text_cancel_subscription_service">이 구독을 취소하시겠습니까?</string>
+    <string name="text_content_update">매일 새로운 콘텐츠</string>
+    <string name="text_free_trial">무료 체험</string>
+    <string name="text_pay_monthly" formatted="false">%s부터, 취소 전까지 %s/월로 자동 갱신</string>
+    <string name="text_pay_weekly" formatted="false">%s부터, 취소 전까지 %s/주로 자동 갱신</string>
+    <string name="text_pay_yearly" formatted="false">%s부터, 취소 전까지 %s/년으로 자동 갱신</string>
     <string name="text_play">플레이</string>
+    <string name="text_start_time_format">MM/dd</string>
+    <string name="text_status_apply_now">적용</string>
+    <string name="text_status_be_subscribing">구독됨</string>
+    <string name="text_status_cancel_the_trial">체험판 중지</string>
+    <string name="text_status_on_trial">진행 중인 체험판</string>
+    <string name="text_status_subscribe_now">구독</string>
+    <string name="text_status_unsubscribe">구독 해제</string>
+    <string name="text_status_unsubscribed">구독 해제됨</string>
+    <string name="text_subscribe">구독</string>
+    <string name="text_subscribed">구독됨</string>
+    <string name="text_when_cancel_the_trial_tip">이 체험판을 취소하면 배경화면이 기기에서 삭제됩니다.</string>
+    <string name="text_when_unsubscribe_tip">이 구독을 취소하면 배경화면이 기기에서 삭제됩니다.</string>
     <string name="the_anniversary_of_lifting_martial_law">계엄 해방일</string>
     <string name="the_anti_aggression_day">반침략일</string>
     <string name="the_arbor_day">식목일</string>
@@ -1150,6 +1197,8 @@ mm"</string>
     <string name="tip_lockscreen">잠금화면 배경화면 및 시계 변경</string>
     <string name="tip_lockscreen2">슬라이드형 배경화면을 사용하고 계십니다. 테마에 대한 맞춤형 설정을 통해 잠금화면 배경화면 및 시계가 변경됩니다.</string>
     <string name="tip_statusbar">제어 센터 및 알림 바 변경</string>
+    <string name="tips_subscriptions_close">배경화면 구독 꺼짐</string>
+    <string name="tips_talk_later">지금 안함</string>
     <string name="tips_theme_gate_transfer_fail">이 페이지를 열 수 없습니다. 1-2분 정도 기다리신 후 다시 시도하십시오.</string>
     <string name="title_component">테마 사용자 설정</string>
     <string name="title_home_miwallpaper_home_screen_effects">홈 화면 효과</string>
@@ -1164,6 +1213,7 @@ mm"</string>
     <string name="today">오늘</string>
     <string name="tomorrow">내일</string>
     <string name="top">인기</string>
+    <string name="trial_cancellation_succeeded">체험판 취소 성공</string>
     <string name="try_fresh_functions_and_contents">새로운 기능 및 콘텐츠를 확인해보십시오</string>
     <string name="try_it">확인하십시오</string>
     <string name="try_tap">탭하여 미리보기</string>
@@ -1175,6 +1225,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">알겠습니다</string>
     <string name="uid_change_dialog_title">기기 재부팅</string>
     <string name="unknown_error">오류 발생</string>
+    <string name="unsubscribe_successfully">구독 해제 성공</string>
     <string name="unsupport_tip">해당 파일 형식은 지원되지 않습니다. 다른 파일을 선택해보십시오.</string>
     <string name="up_to_the_end">더 이상 표시할 항목 없음</string>
     <string name="update_btn">지금 업데이트</string>
@@ -1189,6 +1240,7 @@ mm"</string>
     <string name="update_push_content">지금 업데이트</string>
     <string name="update_push_title">테마에 사용 가능한 새 버전이 있음</string>
     <string name="update_title">새 업데이트 사용 가능</string>
+    <string name="updating_the_app_tip">업데이트 중…</string>
     <string name="used_wallpaper">이전에 사용됨</string>
     <string name="user_agree">동의</string>
     <string name="user_attention_new_theme">%s의 새로운 콘텐츠</string>
@@ -1238,6 +1290,7 @@ mm"</string>
     <string name="wallpaper_group_natural_texture_title">자연 패턴</string>
     <string name="wallpaper_group_sgn_mountain_title">쓰구냥산</string>
     <string name="wallpaper_might_like">좋아하실 것 같은 배경화면</string>
+    <string name="wallpaper_restore_defalut_push">기본값 복구</string>
     <string name="wallpaper_scroll_type_tips">배경화면 스크롤</string>
     <string name="wallpaper_set_as_both">둘 다 설정</string>
     <string name="wallpaper_set_as_desktop">홈 화면으로 설정</string>

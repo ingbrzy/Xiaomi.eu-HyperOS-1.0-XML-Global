@@ -77,6 +77,7 @@
     <string name="cancel">Mégse</string>
     <string name="cancel_moving_dialog_message">Megszakítja az importálást?</string>
     <string name="cancel_moving_dialog_title">Importálás leállítása</string>
+    <string name="cancel_tranfer">Mégse</string>
     <string name="cannot_use_mi_huanji_button">Értem</string>
     <string name="cannot_use_mi_huanji_summary">Úgy tűnik, hogy a MIUI jelenleg biztonségi mentést készít. Állítsa le a folyamatban lévő biztonsági mentéseket vagy indítsa újra készülékét, hogy a Mi Fájlátvitel elindíthassa az átvitelt.</string>
     <string name="cannot_use_mi_huanji_title">Most nem lehet áthelyezni</string>
@@ -269,6 +270,7 @@ Nyissa meg a WeChat-et és lépjen be a Me> Beállítások > Általános > Ment�
     <string name="guest_unfinished_task_alert_message">Úgy tűnik, hogy befejezetlen átviteli feladatok állnak rendelkezésre. Folytatja az átvitelt?</string>
     <string name="guest_unfinished_task_alert_title">Befejezetlen feladatok</string>
     <string name="hide_password_description">Jelszó elrejtése</string>
+    <string name="high_temp_summary">Nagy mennyiségű adat átvitele során felmelegedhet a készülék. Ez normális, a készülék az átvitel befejezése után le fog hűlni.</string>
     <string name="host_boot_installation_bottom_tips">Nem találja a Mi Fájlátvitel alkalmazást? Koppintson a letöltéshez.</string>
     <string name="host_boot_installation_button">Következő</string>
     <string name="host_boot_installation_dialog_message">A régi készülékén megtalálható Mi Fájlátvitel nem kompatibilis az itt telepített verzióval. Frissítse a Mi Fájlátvitel alkalmazást régi készülékén.</string>

@@ -576,6 +576,10 @@ Du kan få en %d-dagars gratis provperiod nu!"</item>
         <item quantity="other">" minuter"</item>
         <item quantity="one">" minut"</item>
     </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d dag</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d objekt</item>
         <item quantity="one">%d objekt</item>

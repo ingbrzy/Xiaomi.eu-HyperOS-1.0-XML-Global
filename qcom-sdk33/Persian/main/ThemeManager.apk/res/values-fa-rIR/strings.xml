@@ -79,6 +79,10 @@
     <string name="author_new_theme">جدید</string>
     <string name="author_popularity">بازدیدها:</string>
     <string name="author_unfollow_succeed">دنبال کردن با موفقیت لغو شد</string>
+    <string name="automatic_renewal_monthly">تمدید خودکار برای %s ماه</string>
+    <string name="automatic_renewal_weekly">تمدید خودکار برای %s هفته</string>
+    <string name="automatic_renewal_yearly">تمدید خودکار برای %s سال</string>
+    <string name="automatically_push_content_to_lock_screen">هر روز محتوای جدیدی روی صفحه قفل شما نمایش داده خواهد شد</string>
     <string name="automatically_update_using_theme_tips">به‌روزرسانی به صورت خودکار در زمان بعدی</string>
     <string name="back_to_default">بازگشت به پیش‌فرض</string>
     <string name="back_to_none">صدای زنگ تنظیم نشود</string>
@@ -94,6 +98,9 @@
     <string name="bottom_of_page">به آخر صفحه رسیدید</string>
     <string name="browser_local_resource">منابع محلی</string>
     <string name="can_not_apply">نمی‌توان به‌کار گرفت</string>
+    <string name="canceled_failed">لغو نشد</string>
+    <string name="canceled_subscription_failed">اشتراک لغو نشد. دوباره امتحان کنید.</string>
+    <string name="canceled_trial_failed">لغو نشد. دوباره امتحان کنید.</string>
     <string name="card_data_request_error">خطایی رخ داده است. یک یا دو دقیقه صبر کرده و دوباره تلاش کنید.</string>
     <string name="card_loading">چند لحظه صبر کنید…</string>
     <string name="card_no_network">به شبکه وصل نشد. تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید.</string>
@@ -124,6 +131,7 @@
     <string name="current_using_desktop_wallpaper_text">صفحه اصلی</string>
     <string name="current_using_lockscreen_wallpaper_text">صفحه قفل</string>
     <string name="current_version_incompatible">سازگار نیست</string>
+    <string name="custom_wallpaper_for_you">تصاویر زمینه شخصی‌سازی شده برای شما</string>
     <string name="data_use_desc">اسناد حقوقی</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -133,6 +141,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">به‌کارگیری</string>
     <string name="de_super_wp_land_position_default_des">انتخاب نما</string>
     <string name="deleting">در حال حذف…</string>
+    <string name="delivers_fresh_content_and_design_daily">طراحی‌های تازه روزانه</string>
     <string name="description_author">نویسنده</string>
     <string name="description_designer">طراح</string>
     <string name="description_download">دانلود شد</string>
@@ -159,6 +168,7 @@
     <string name="editor_apply_message">"این ویژگی برای عیب‌یابی توسط طراحان استفاده می‌شود. تم پیش‌فرض اندکی بعد به صورت خودکار بازیابی خواهد شد. مسیر فایل تم کنونی: "</string>
     <string name="editor_apply_toast">انتخاب دستی temp.mtz در پوشه روت</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">یک نشانی ایمیل وارد کنید</string>
     <string name="eras_ad">میلادی</string>
     <string name="eras_bc">پیش از میلاد</string>
     <string name="evening">بعد از ظهر</string>
@@ -276,6 +286,7 @@
     <string name="hide_incompatible_font">مخفی کردن فونت‌های ناسازگار</string>
     <string name="hide_incompatible_theme">پنهان کردن تم‌های ناسازگار</string>
     <string name="hide_incompatible_wallpaper">پنهان کردن تصاویر زمینه‌‌ی ناسازگار</string>
+    <string name="hint_email_address">یک نشانی ایمیل وارد کنید</string>
     <string name="home_apply_failured">نمی‌توان تصویر زمینه را روی صفحه اصلی بکار برد</string>
     <string name="home_apply_success">تصویر زمینه صفحه اصلی بکار برده شد</string>
     <string name="hot_first">ابتدا پرطرفدارها</string>
@@ -307,6 +318,7 @@
     <string name="loading_resource_detail_fail">نمی‌توان منبع را بارگذاری کرد</string>
     <string name="loading_resource_detail_info">چند لحظه صبر کنید…</string>
     <string name="local_photos">عکس‌های محلی</string>
+    <string name="local_record__email_info">نشانی ایمیلم را به خاطر بسپار</string>
     <string name="local_resouce_creator_name">توسعه دهنده: %1$s</string>
     <string name="lock_screen_edit">ویرایش صفحه قفل</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">این قالب صفحه قفل از تصاویر زمینه فوق‌العاده پشتیبانی نمی‌کند. پس از به‌کارگیری، صفحه قفل شما به حالت پیش‌فرض برمی‌گردد و تصاویر زمینه صفحه اصلی و صفحه قفل شما جایگزین خواهند شد. به‌کار گرفته شوند؟</string>
@@ -335,6 +347,7 @@
     <string name="message_sim_two">پیام سیم‌کارت %d</string>
     <string name="mi_wallpaper">تصویر زمینه MIUI</string>
     <string name="midnight">شب</string>
+    <string name="mine_subscribed_wallpaper">تصویر زمینه‌های مشترک شده</string>
     <string name="miui_clock_city_name_local">محلی</string>
     <string name="miui_clock_city_name_second">ساعت دوم</string>
     <string name="miui_lock_screen_date">EEE، dd MMM</string>
@@ -528,7 +541,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">دستگاه خود را سفارشی کنید</string>
     <string name="present_official_themes">انتخاب‌های ما</string>
     <string name="present_online_themes">گرفتن تم‌های آنلاین بیشتر</string>
+    <string name="price_for_automatic_renewal">تازه‌سازی خودکار با %1$s</string>
     <string name="privacy_desc">سیاست حفظ حریم خصوصی (اجباری)</string>
+    <string name="privacy_simple_content">توصیه‌های شخصی‌شده را برای دریافت محتوا و محصولات متناسب با علایق خود روشن کنید.</string>
+    <string name="privacy_simple_hint">هر زمان که بخواهید می‌توانید اولویت‌های برگزیده خود را در تنظیمات تغییر دهید.</string>
+    <string name="privacy_simple_title">پیشنهادات شخصی‌سازی شده</string>
     <string name="promotion_ad">تبلیغات</string>
     <string name="provision_default_theme_title">پیش‌فرض</string>
     <string name="provision_download_cancel">دانلود کردن لغو شد</string>
@@ -574,6 +591,9 @@ mm"</string>
     <string name="related_theme">تم‌ها</string>
     <string name="related_wallpaper">تصاویر زمینه</string>
     <string name="reload">تلاش دوباره</string>
+    <string name="renewal_of_a_contract_monthly">تمدید برای %s/ ماه</string>
+    <string name="renewal_of_a_contract_weekly">تمدید برای %s/ هفته</string>
+    <string name="renewal_of_a_contract_yearly">تمدید برای %s/ سال</string>
     <string name="res_migrate_tip">به منظور سازگار کردن تم‌ها با نسخه پیش روی Android، ما موارد دانلود شده شما را به یک مکان جدید منتقل کردیم. برنامه را دوباره راه‌اندازی کرده تا تغییرات به‌کار رفته و بتوانید محتوای دانلود شده خود را ببینید.</string>
     <string name="resource_account_abnormal_state">خطای حساب. یک یا دو دقیقه صبر کرده و دوباره تلاش کنید.</string>
     <string name="resource_account_fail_to_add">نمی‌توان حساب افزود</string>
@@ -593,6 +613,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">تمام تاریخچه جستجو پاک شود؟</string>
     <string name="resource_continue">بعدی</string>
     <string name="resource_current_using_title">منابع کنونی</string>
+    <string name="resource_currently_applied">به‌کار برده شده</string>
     <string name="resource_data_empty">هیچ موردی اینجا نیست.</string>
     <string name="resource_default">صدای زنگ پیش‌فرض</string>
     <string name="resource_default_name">منبع</string>
@@ -783,6 +804,7 @@ mm"</string>
     <string name="select_all">انتخاب همه</string>
     <string name="selected_resource_file_invalid">نمی‌توان از فایل منبع انتخابی استفاده کرد</string>
     <string name="send">ارسال</string>
+    <string name="service_expiration_date">اعتبار تا %1$s</string>
     <string name="set_color_ring_back_tone">یک آهنگ پیشواز سفارشی تنظیم کنید</string>
     <string name="settings">تنظیمات</string>
     <string name="shortcut_add">افزودن</string>
@@ -803,6 +825,9 @@ mm"</string>
     <string name="start_all">ازسرگیری همه</string>
     <string name="still_apply">به‌کارگیری</string>
     <string name="storage_file">برای ذخیره موارد دانلود شده</string>
+    <string name="submission_successfully">با موفقیت ارسال شد</string>
+    <string name="subscription_service_shutdown_tip">به دلیل استفاده شما از سایر خدمات، تصاویر زمینه مشترک شده دیگر نمایش داده نمی‌شوند. می‌توانید تصاویر زمینه مشترک شده را دوباره به‌کار ببرید.</string>
+    <string name="successfully_applied_wallpaper_tip">تصویر زمینه با موفقیت به‌کار برده شد</string>
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>
     <string name="sunday_shortest">یک‌شنبه</string>
@@ -814,11 +839,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">نصب</string>
     <string name="super_wallpaper_list_footer_text">تصاویر زمینه فوق‌العاده بیشتری به زودی خواهند آمد</string>
     <string name="super_wallpaper_list_label">تصاویر زمینه فوق‌العاده</string>
+    <string name="super_wallpaper_low_version_tip_push">برای امکان ادامه استفاده از تصاویر زمینه فوق‌العاده، آن‌ها را به آخرین نسخه به‌روز کنید.</string>
+    <string name="super_wallpaper_restore_msg_push">نسخه کنونی تصاویر زمینه فوق‌العاده با مشکل ناسازگاری مواجه شد. تصویر زمینه پیش فرض شما بازیابی شده است. به آخرین نسخه به‌روزرسانی کنید تا بتوانید از تصاویر تصاویر زمینه فوق‌العاده استفاده کنید.</string>
     <string name="super_wallpaper_setting_apply_success_toast">با موفقیت به‌کار برده شد</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">به‌کارگیری</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">گزینه‌ها</string>
     <string name="super_wallpaper_setting_coordinate_title">مختصات</string>
     <string name="super_wallpaper_setting_view_height_title">ارتفاع</string>
+    <string name="super_wallpaper_upgrade_tip_push">به‌روز رسانی تصاویر زمینه فوق‌العاده</string>
     <string name="support_google_dynamic_color_hint">شما درحال استفاده از Google Dynamic Color هستید. هنگام به‌کارگیری تم‌ها و تصاویر زمینه جدید ترکیب رنگ بعضی برنامه‌ها ممکن است تغییر کند.</string>
     <string name="swipe_find_more">برای دیدن موارد بیشتر به طرف بالا بکشید</string>
     <string name="system_aod_dialog_message">برای امکان استفاده از این ویژگی نمایشگر همیشه روشن را روشن کنید.</string>
@@ -826,7 +854,26 @@ mm"</string>
     <string name="system_aod_dialog_title">نمایشگر همیشه روشن</string>
     <string name="system_phone">تماس‌ها</string>
     <string name="system_precust">پیش نصب</string>
+    <string name="text_billing_info">اطلاعات صدور صورت‌حساب</string>
+    <string name="text_cancel_subscription_service">اکنون این اشتراک لغو شود؟</string>
+    <string name="text_content_update">محتوای روزانه جدید</string>
+    <string name="text_free_trial">رایگان امتحان کنید</string>
+    <string name="text_pay_monthly" formatted="false">از %s، با %s/ماه به صورت خودکار تمدید می‌شود</string>
+    <string name="text_pay_weekly" formatted="false">از %s، با %s/هفته به صورت خودکار تمدید می‌شود</string>
+    <string name="text_pay_yearly" formatted="false">از %s، با %s/سال به صورت خودکار تمدید می‌شود</string>
     <string name="text_play">بازی</string>
+    <string name="text_start_time_format">dd/MM</string>
+    <string name="text_status_apply_now">به‌کارگیری</string>
+    <string name="text_status_be_subscribing">مشترک شده</string>
+    <string name="text_status_cancel_the_trial">توقف دوره آزمایشی</string>
+    <string name="text_status_on_trial">دوره آزمایشی درحال انجام</string>
+    <string name="text_status_subscribe_now">اشتراک</string>
+    <string name="text_status_unsubscribe">لغو اشتراک</string>
+    <string name="text_status_unsubscribed">اشتراک لغو شده</string>
+    <string name="text_subscribe">اشتراک‌ها</string>
+    <string name="text_subscribed">مشترک شده</string>
+    <string name="text_when_cancel_the_trial_tip">با لغو این اشتراک، این دوره آزمایشی از دستگاه شما پاک خواهد شد.</string>
+    <string name="text_when_unsubscribe_tip">با لغو این اشتراک، این تصویر زمینه از دستگاه شما پاک خواهد شد.</string>
     <string name="the_anniversary_of_lifting_martial_law">سالگرد لغو حکومت نظامی</string>
     <string name="the_anti_aggression_day">روز ضد پرخاشگری</string>
     <string name="the_arbor_day">روز درخت‌کاری</string>
@@ -967,6 +1014,8 @@ mm"</string>
     <string name="tip_lockscreen">تصویر زمینه صفحه قفل و ساعت را تغییر دهید</string>
     <string name="tip_lockscreen2">شما در حال استفاده از تصاویر زمینه چرخشی هستید. شخصی‌سازی تم‌ها تصویر زمینه و ساعت صفحه قفل شما را تغییر خواهد داد.</string>
     <string name="tip_statusbar">مرکز کنترل و کرکره اعلان را تغییر دهید</string>
+    <string name="tips_subscriptions_close">اشتراک کاغذ دیواری خاموش است</string>
+    <string name="tips_talk_later">اکنون نه</string>
     <string name="tips_theme_gate_transfer_fail">این صفحه باز نشد. کمی صبر کرده و دوباره تلاش کنید.</string>
     <string name="title_component">سفارشی کردن تم</string>
     <string name="title_home_miwallpaper_home_screen_effects">جلوه‌های صفحه اصلی</string>
@@ -981,6 +1030,7 @@ mm"</string>
     <string name="today">امروز</string>
     <string name="tomorrow">فردا</string>
     <string name="top">پرطرفدار</string>
+    <string name="trial_cancellation_succeeded">دوره آزمایشی با موفقیت لغو شد</string>
     <string name="try_fresh_functions_and_contents">ویژگی‌ها و محتواهای جدید ما را ببینید</string>
     <string name="try_it">نگاهی بیاندازید</string>
     <string name="try_tap">برای پیش‌نمایش ضربه بزنید</string>
@@ -992,6 +1042,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">متوجه‌ام</string>
     <string name="uid_change_dialog_title">راه‌اندازی دوباره دستگاه</string>
     <string name="unknown_error">خطایی رخ داد</string>
+    <string name="unsubscribe_successfully">با موفقیت لغو اشتراک شد</string>
     <string name="unsupport_tip">از این قالب فایل پشتیبانی نمی‌شود. یکی دیگر را انتخاب کنید.</string>
     <string name="up_to_the_end">مورد دیگری برای نمایش نیست</string>
     <string name="update_btn">اکنون به‌روزرسانی شود</string>
@@ -1006,6 +1057,7 @@ mm"</string>
     <string name="update_push_content">به‌روزرسانی</string>
     <string name="update_push_title">تم شما یک نسخه جدید دارد</string>
     <string name="update_title">به‌روزرسانی جدید در دسترس است</string>
+    <string name="updating_the_app_tip">در حال به‌روزرسانی…</string>
     <string name="used_wallpaper">استفاده شده پیشین</string>
     <string name="user_agree">پذیرفتن</string>
     <string name="user_attention_new_theme">محتوای جدید از %s</string>
@@ -1053,6 +1105,7 @@ mm"</string>
     <string name="wallpaper_group_natural_texture_title">الگوهای طبیعی</string>
     <string name="wallpaper_group_sgn_mountain_title">کوه سیگونیانگ</string>
     <string name="wallpaper_might_like">تصاویر زمینه‌ای که ممکن است بپسندید</string>
+    <string name="wallpaper_restore_defalut_push">به پیش‌فرض بازیابی شد</string>
     <string name="wallpaper_scroll_type_tips">چرخاندن تصویر زمینه</string>
     <string name="wallpaper_set_as_both">تعیین برای هر دو</string>
     <string name="wallpaper_set_as_desktop">تنظیم برای صفحه اصلی</string>

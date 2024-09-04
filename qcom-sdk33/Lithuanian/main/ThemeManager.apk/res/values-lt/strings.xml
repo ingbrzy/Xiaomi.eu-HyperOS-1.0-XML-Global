@@ -106,6 +106,10 @@
     <string name="author_new_theme">Nauja</string>
     <string name="author_popularity">Peržiūros</string>
     <string name="author_unfollow_succeed">Sėkmingai nebesekama</string>
+    <string name="automatic_renewal_monthly">Automatiškai atnaujinama už %s per mėnesį</string>
+    <string name="automatic_renewal_weekly">Automatiškai atnaujinama už %s per savaitę</string>
+    <string name="automatic_renewal_yearly">Automatiškai atnaujinama už %s per metus</string>
+    <string name="automatically_push_content_to_lock_screen">Užrakto ekrane kiekvieną dieną bus rodomas naujas turinys</string>
     <string name="automatically_update_using_theme_tips">Naujinti automatiškai kitą kartą</string>
     <string name="back_to_default">Grįžti į numatytąjį</string>
     <string name="back_to_none">Nenustatyti skambėjimo garso</string>
@@ -122,6 +126,9 @@
     <string name="bottomsheet_action_expand_halfway">Išskleisti iki pusės</string>
     <string name="browser_local_resource">Vietiniai resursai</string>
     <string name="can_not_apply">Negalima pritaikyti</string>
+    <string name="canceled_failed">Nepavyko atšaukti</string>
+    <string name="canceled_subscription_failed">Nepavyko atšaukti prenumeratos. Bandykite dar kartą.</string>
+    <string name="canceled_trial_failed">Nepavyko atšaukti. Bandykite dar kartą.</string>
     <string name="card_data_request_error">Įvyko klaida. Luktelkite minutėlę ir pakartokite.</string>
     <string name="card_loading">Sekundėlę…</string>
     <string name="card_no_network">Nepavyko prisijungti prie tinklo. Patikrinkite tinklo parametrus ir bandykite dar kartą.</string>
@@ -175,6 +182,7 @@
     <string name="current_using_desktop_wallpaper_text">Pagrindinis ekranas</string>
     <string name="current_using_lockscreen_wallpaper_text">Užrakto ekranas</string>
     <string name="current_version_incompatible">Nepalaikoma</string>
+    <string name="custom_wallpaper_for_you">Suasmeninti fono paveikslėliai</string>
     <string name="data_use_desc">Teisiniai dokumentai</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +192,7 @@
     <string name="de_super_wp_apply_wallpaper_button_text">Taikyti</string>
     <string name="de_super_wp_land_position_default_des">Pasirinkite rodymą</string>
     <string name="deleting">Trinama…</string>
+    <string name="delivers_fresh_content_and_design_daily">Nauji dizainai kiekvieną dieną</string>
     <string name="description_author">Autorius</string>
     <string name="description_designer">Dizaineris</string>
     <string name="description_download">Atsisiųsta</string>
@@ -210,6 +219,7 @@
     <string name="editor_apply_message">"Ši funkcija naudojama taisyti klaidas dizaineriams. Numatytoji tema už kurio laiko bus automatiškai atkurta. Esamos temos failo kelias: "</string>
     <string name="editor_apply_toast">Šakniniame kataloge manualiai pasirinkite temp.mtz</string>
     <string name="empty" />
+    <string name="enter_email_address_tips">Įveskite el. pašto adresą</string>
     <string name="eras_ad">m.e.</string>
     <string name="eras_bc">Pr. Kr.</string>
     <string name="error_icon_content_description">Klaida</string>
@@ -384,6 +394,7 @@
     <string name="hide_incompatible_font">Slėpti nesuderinamus šriftus</string>
     <string name="hide_incompatible_theme">Slėpti nesuderinamas temas</string>
     <string name="hide_incompatible_wallpaper">Slėpti nesuderinamus fono paveikslėlius</string>
+    <string name="hint_email_address">Įveskite el. pašto adresą</string>
     <string name="home_apply_failured">Namų ekrano fono paveikslėlio pritaikyti nepavyko</string>
     <string name="home_apply_success">Namų ekrano fono paveikslėlis pritaikytas</string>
     <string name="hot_first">Pirmiausia – populiarios</string>
@@ -417,6 +428,7 @@
     <string name="loading_resource_detail_fail">Nepavyko įkelti šaltinio</string>
     <string name="loading_resource_detail_info">Sekundėlę…</string>
     <string name="local_photos">Vietinės nuotraukos</string>
+    <string name="local_record__email_info">Prisiminti mano el. pašto adresą</string>
     <string name="local_resouce_creator_name">Kūrėjas: %1$s</string>
     <string name="lock_screen_edit">Redaguoti užrakto ekraną</string>
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">Šis užrakto ekrano šablonas nepalaiko superfonų. Juos pritaikius, užrakto ekrano fonas bus grąžintas į numatytąjį, o pagrindinio ir užrakto ekrano fono paveikslėliai bus pakeisti. Pritaikyti dabar?</string>
@@ -457,6 +469,7 @@
     <string name="message_sim_two">SIM %d žinutė</string>
     <string name="mi_wallpaper">MIUI fono paveikslėlis</string>
     <string name="midnight">Naktis</string>
+    <string name="mine_subscribed_wallpaper">Prenumeruojami fono paveikslėliai</string>
     <string name="miui_clock_city_name_local">Vietinis</string>
     <string name="miui_clock_city_name_second">Antrinis laikrodis</string>
     <string name="miui_lock_screen_date">"MMM d 'd.', EEE"</string>
@@ -701,7 +714,11 @@ mm"</string>
     <string name="present_local_themes_subtitle">Tinkinkite savo įrenginį</string>
     <string name="present_official_themes">Mūsų pasirinkimai</string>
     <string name="present_online_themes">Gauti daugiau temų internete</string>
+    <string name="price_for_automatic_renewal">Atnaujinti automatiškai už %1$s</string>
     <string name="privacy_desc">Privatumo politika (privaloma)</string>
+    <string name="privacy_simple_content">Įjunkite asmenines rekomendacijas jūsų pomėgiams pritaikytam turiniui ir produktams matyti.</string>
+    <string name="privacy_simple_hint">Savo nuostatas galite bet kada pakeisti parametruose.</string>
+    <string name="privacy_simple_title">Asmeninės rekomendacijos</string>
     <string name="promotion_ad">Akcijos</string>
     <string name="provision_default_theme_title">Numatytoji</string>
     <string name="provision_download_cancel">Atsiuntimas atšauktas</string>
@@ -747,6 +764,9 @@ mm"</string>
     <string name="related_theme">Temos</string>
     <string name="related_wallpaper">Fonai</string>
     <string name="reload">Bandykite dar kartą</string>
+    <string name="renewal_of_a_contract_monthly">Atnaujinti už %s per mėnesį</string>
+    <string name="renewal_of_a_contract_weekly">Atnaujinti už %s per savaitę</string>
+    <string name="renewal_of_a_contract_yearly">Atnaujinti už %s per metus</string>
     <string name="res_migrate_tip">Siekiant, kad temos būtų suderinamos su naujomis „Android“ versijomis, perkėlėme jūsų atsisiųstus elementus į naują vietą. Iš naujo įjunkite programą, kad pritaikytumėte pakeitimus ir peržiūrėtumėte atsisiųstą turinį.</string>
     <string name="resource_account_abnormal_state">Paskyros klaida. Po minutės ar dviejų pabandykite iš naujo.</string>
     <string name="resource_account_fail_to_add">Nepavyko pridėti paskyros</string>
@@ -766,6 +786,7 @@ mm"</string>
     <string name="resource_clear_search_history_dialog">Išvalyti visą paieškos istoriją?</string>
     <string name="resource_continue">Toliau</string>
     <string name="resource_current_using_title">Dabartiniai ištekliai</string>
+    <string name="resource_currently_applied">Pritaikyta</string>
     <string name="resource_data_empty">Nėra jokių elementų.</string>
     <string name="resource_default">Numatytasis skambėjimo garsas</string>
     <string name="resource_default_name">Resursas</string>
@@ -964,6 +985,7 @@ mm"</string>
     <string name="select_all">Pasirinkti visus</string>
     <string name="selected_resource_file_invalid">Pasirinkto išteklio failo naudojimas negalimas</string>
     <string name="send">Siųsti</string>
+    <string name="service_expiration_date">Galioja iki %1$s</string>
     <string name="set_color_ring_back_tone">Nustatyti individualų atgalinio skambučio toną</string>
     <string name="settings">Parametrai</string>
     <string name="shortcut_add">Sukurti</string>
@@ -985,6 +1007,9 @@ mm"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Taikyti</string>
     <string name="storage_file">Atsiųstų elementų išsaugojimas</string>
+    <string name="submission_successfully">Sėkmingai pateikta</string>
+    <string name="subscription_service_shutdown_tip">Prenumeruojami fono paveikslėliai neberodomi, nes naudojatės kita paslauga. Galite vėl pritaikyti prenumeruojamą fono paveikslėlį.</string>
+    <string name="successfully_applied_wallpaper_tip">Fono paveikslėlis pritaikytas sėkmingai</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Sekmadienis</string>
     <string name="sunday_short">Sk.</string>
@@ -997,11 +1022,14 @@ mm"</string>
     <string name="super_wallpaper_apk_install">Įdiegti</string>
     <string name="super_wallpaper_list_footer_text">Netrukus sulauksime dar daugiau superfonų</string>
     <string name="super_wallpaper_list_label">Superfonai</string>
+    <string name="super_wallpaper_low_version_tip_push">Atnaujinkite superfonus į naujausią versiją, kad galėtumėte toliau juos naudoti.</string>
+    <string name="super_wallpaper_restore_msg_push">Dabartinės versijos superfonai susidūrė su nesuderinamumo problema. Buvo atkurtas numatytasis fono paveikslėlis. Atnaujinkite į naujausią versiją, kad galėtumėte naudoti superfonus.</string>
     <string name="super_wallpaper_setting_apply_success_toast">Sėkmingai pritaikyta</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Taikyti</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Parinktys</string>
     <string name="super_wallpaper_setting_coordinate_title">Koordinatės</string>
     <string name="super_wallpaper_setting_view_height_title">Aukštis</string>
+    <string name="super_wallpaper_upgrade_tip_push">Atnaujinti superfonus</string>
     <string name="support_google_dynamic_color_hint">Jūsų naudojate „Google Dynamic Color“. Kai kurių programų spalvų paletės gali pasikeisti jums pritaikius naujas temas ir fono paveikslėlius.</string>
     <string name="swipe_find_more">Braukite į viršų, norėdami peržiūrėti daugiau</string>
     <string name="system_aod_dialog_message">Norėdami naudoti šią funkciją, įjunkite „Visada ekrane“</string>
@@ -1009,7 +1037,26 @@ mm"</string>
     <string name="system_aod_dialog_title">Visada ekrane</string>
     <string name="system_phone">Skambučiai</string>
     <string name="system_precust">Iš anksto įdiegta</string>
+    <string name="text_billing_info">Sąskaitų išrašymo informacija</string>
+    <string name="text_cancel_subscription_service">Atšaukti prenumeratą dabar?</string>
+    <string name="text_content_update">Naujas turinys kasdien</string>
+    <string name="text_free_trial">Išbandykite nemokamai</string>
+    <string name="text_pay_monthly" formatted="false">Nuo %s, automatiškai atnaujinama už %s per mėnesį iki atšaukimo</string>
+    <string name="text_pay_weekly" formatted="false">Nuo %s, automatiškai atnaujinama už %s per savaitę iki atšaukimo</string>
+    <string name="text_pay_yearly" formatted="false">Nuo %s, automatiškai atnaujinama už %s per metus iki atšaukimo</string>
     <string name="text_play">Žaisti</string>
+    <string name="text_start_time_format">MM-dd</string>
+    <string name="text_status_apply_now">Taikyti</string>
+    <string name="text_status_be_subscribing">Užprenumeruota</string>
+    <string name="text_status_cancel_the_trial">Sustabdyti bandomąjį laikotarpį</string>
+    <string name="text_status_on_trial">Vyksta bandomasis laikotarpis</string>
+    <string name="text_status_subscribe_now">Prenumeruoti</string>
+    <string name="text_status_unsubscribe">Atsisakyti prenumeratos</string>
+    <string name="text_status_unsubscribed">Neprenumeruota</string>
+    <string name="text_subscribe">Prenumeratos</string>
+    <string name="text_subscribed">Užprenumeruota</string>
+    <string name="text_when_cancel_the_trial_tip">Atšaukus bandomąjį laikotarpį, fono paveikslėlis bus ištrintas iš jūsų įrenginio.</string>
+    <string name="text_when_unsubscribe_tip">Atšaukus šią prenumeratą, fono paveikslėlis bus ištrintas iš jūsų įrenginio.</string>
     <string name="the_anniversary_of_lifting_martial_law">Karo padėties atšaukimo metinės</string>
     <string name="the_anti_aggression_day">Kovos su agresija diena</string>
     <string name="the_arbor_day">Medžių diena</string>
@@ -1150,6 +1197,8 @@ mm"</string>
     <string name="tip_lockscreen">Keisti užrakto ekrano fono paveikslėlį ir laikrodį</string>
     <string name="tip_lockscreen2">Naudojate „Fonų karuselę. Jei tinkinsite savo temą, pasikeis užrakto ekrano fono vaizdas ir laikrodis.</string>
     <string name="tip_statusbar">Keisti valdymo centrą ir pranešimų juostą</string>
+    <string name="tips_subscriptions_close">Fono paveikslėlių prenumeratos išjungtos</string>
+    <string name="tips_talk_later">Ne dabar</string>
     <string name="tips_theme_gate_transfer_fail">Nepavyko atidaryti šio puslapio. Palaukite porą minučių ir pabandykite dar kartą.</string>
     <string name="title_component">Derinti temą</string>
     <string name="title_home_miwallpaper_home_screen_effects">Pagrindinio ekrano efektai</string>
@@ -1164,6 +1213,7 @@ mm"</string>
     <string name="today">Šiandien</string>
     <string name="tomorrow">Rytoj</string>
     <string name="top">Populiaru</string>
+    <string name="trial_cancellation_succeeded">Bandomasis laikotarpis atšauktas sėkmingai</string>
     <string name="try_fresh_functions_and_contents">Peržiūrėkite mūsų naujas funkcijas ir turinį</string>
     <string name="try_it">Išbandykite</string>
     <string name="try_tap">Peržiūrai – bakstelėkite</string>
@@ -1175,6 +1225,7 @@ mm"</string>
     <string name="uid_change_dialog_ok">Supratau</string>
     <string name="uid_change_dialog_title">Įrenginio perkrovimas</string>
     <string name="unknown_error">Įvyko klaida</string>
+    <string name="unsubscribe_successfully">Sėkmingai atsisakyta prenumeratos</string>
     <string name="unsupport_tip">Šis failo formatas nėra palaikomas. Pabandykite pasirinkite kitą failą.</string>
     <string name="up_to_the_end">Nėra elementų, kuriuos būtų galima rodyti</string>
     <string name="update_btn">NAUJINTI DABAR</string>
@@ -1189,6 +1240,7 @@ mm"</string>
     <string name="update_push_content">Naujinti dabar</string>
     <string name="update_push_title">Pasiekiama nauja jūsų temos versija</string>
     <string name="update_title">YRA NAUJINIMŲ</string>
+    <string name="updating_the_app_tip">Atnaujinama…</string>
     <string name="used_wallpaper">Anksčiau naudoti</string>
     <string name="user_agree">Sutinku</string>
     <string name="user_attention_new_theme">Naujas %s turinys</string>
@@ -1238,6 +1290,7 @@ mm"</string>
     <string name="wallpaper_group_natural_texture_title">Gamtos raštai</string>
     <string name="wallpaper_group_sgn_mountain_title">Siguniangšanas</string>
     <string name="wallpaper_might_like">Fonai, kurie Jums galėtų patikti</string>
+    <string name="wallpaper_restore_defalut_push">Atstatyti numatytuosius</string>
     <string name="wallpaper_scroll_type_tips">Fono paveikslėlio pasukimas</string>
     <string name="wallpaper_set_as_both">Nustatyti abu</string>
     <string name="wallpaper_set_as_desktop">Nustatyti kaip „pradžios ekraną“</string>
