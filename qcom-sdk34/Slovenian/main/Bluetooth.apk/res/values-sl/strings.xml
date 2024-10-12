@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">Zahteva za preverjanje pristnosti Obex</string>
     <string name="auth_notif_title">Ključ seje</string>
     <string name="bluetooth_a2dp_sink_queue_name">Zdaj se predvaja</string>
-    <string name="bluetooth_and_wifi_stays_on_message">Naprava v načinu za letalo pusti Wi-Fi in Bluetooth vklopljena. Če ne želite, da Wi-Fi in Bluetooth ostaneta vklopljena, ju izklopite.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">Wi-Fi in Bluetooth ostaneta vklopljena</string>
     <string name="bluetooth_connected">Zvok prek Bluetootha je povezan</string>
     <string name="bluetooth_disconnected">Zvok prek Bluetootha ni povezan</string>
-    <string name="bluetooth_enabled_apm_message">Če pustite Bluetooth vklopljen, bo naprava ob naslednjem preklopu na način za letalo pustila Bluetooth vklopljen.</string>
-    <string name="bluetooth_enabled_apm_title">Bluetooth je vklopljen v načinu za letalo</string>
     <string name="bluetooth_map_settings_app_icon">Ikona aplikacije</string>
     <string name="bluetooth_map_settings_cancel">Prekliči</string>
     <string name="bluetooth_map_settings_count">Preostala mesta:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">Želite zahtevati, da odjemalec prekine povezavo?</string>
     <string name="bluetooth_sap_notif_ticker">Dostop do kartice SIM prek Bluetootha</string>
     <string name="bluetooth_sap_notif_title">Dostop do kartice SIM prek Bluetootha</string>
-    <string name="bluetooth_stays_on_message">Naprava v načinu za letalo pusti Bluetooth vklopljen. Če ne želite, da Bluetooth ostane vklopljen, ga izklopite.</string>
-    <string name="bluetooth_stays_on_title">Bluetooth ostane vklopljen</string>
     <string name="bt_Auracast_audio_share_notification_content">Tapnite za prikaz podrobnosti</string>
     <string name="bt_Auracast_audio_share_notification_title">Oddajanje zvoka iz te naprave…</string>
     <string name="bt_audio_share_assistant_notification_title">Sprejemanje oddajanja iz bližnje naprave…</string>

@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">Richiesta di autenticazione Obex</string>
     <string name="auth_notif_title">Chiave sessione</string>
     <string name="bluetooth_a2dp_sink_queue_name">Now Playing</string>
-    <string name="bluetooth_and_wifi_stays_on_message">Il dispositivo memorizza che deve tenere attivi il Wi‑Fi e il Bluetooth in modalità aereo. Disattiva il Wi-Fi e il Bluetooth se non vuoi tenerli attivi.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">Wi-Fi e Bluetooth rimangono attivi</string>
     <string name="bluetooth_connected">Audio Bluetooth connesso</string>
     <string name="bluetooth_disconnected">Audio Bluetooth disconnesso</string>
-    <string name="bluetooth_enabled_apm_message">Se tieni attivo il Bluetooth, il dispositivo memorizza che dovrà tenerlo attivo la prossima volta che sarai in modalità aereo</string>
-    <string name="bluetooth_enabled_apm_title">Bluetooth attivo in modalità aereo</string>
     <string name="bluetooth_map_settings_app_icon">Icona applicazione</string>
     <string name="bluetooth_map_settings_cancel">Annulla</string>
     <string name="bluetooth_map_settings_count">Slot rimanenti:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">Richiedere al client di disconnettersi?</string>
     <string name="bluetooth_sap_notif_ticker">Accesso SIM Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Accesso SIM Bluetooth</string>
-    <string name="bluetooth_stays_on_message">Il dispositivo memorizza che deve tenere attivo il Bluetooth in modalità aereo. Disattiva il Bluetooth se non vuoi tenerlo attivo.</string>
-    <string name="bluetooth_stays_on_title">Il Bluetooth rimane attivo</string>
     <string name="bt_Auracast_audio_share_notification_content">Tocca per visualizzare i dettagli</string>
     <string name="bt_Auracast_audio_share_notification_title">Trasmissione audio da questo dispositivo…</string>
     <string name="bt_audio_share_assistant_notification_title">Ricezione di una trasmissione da un dispositivo nelle vicinanze…</string>

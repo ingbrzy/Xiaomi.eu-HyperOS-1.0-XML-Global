@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">"Sol·licitud d'autenticació Obex"</string>
     <string name="auth_notif_title">Clau de sessió</string>
     <string name="bluetooth_a2dp_sink_queue_name">Reproducció actual</string>
-    <string name="bluetooth_and_wifi_stays_on_message">"El dispositiu recorda mantenir la Wi‑Fi i el Bluetooth activats en mode d'avió. Desactiva la Wi‑Fi i el Bluetooth si no vols que es quedin activats."</string>
-    <string name="bluetooth_and_wifi_stays_on_title">La Wi‑Fi i el Bluetooth es mantenen activats</string>
     <string name="bluetooth_connected">Àudio per Bluetooth connectat</string>
     <string name="bluetooth_disconnected">Àudio per Bluetooth desconnectat</string>
-    <string name="bluetooth_enabled_apm_message">"Si tens activat el Bluetooth, el dispositiu recordarà mantenir-lo així la pròxima vegada que utilitzis el mode d'avió"</string>
-    <string name="bluetooth_enabled_apm_title">"El Bluetooth està activat en mode d'avió"</string>
     <string name="bluetooth_map_settings_app_icon">"Icona d'aplicació"</string>
     <string name="bluetooth_map_settings_cancel">Cancel·la</string>
     <string name="bluetooth_map_settings_count">Espais que queden:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">Vols sol·licitar al client que es desconnecti?</string>
     <string name="bluetooth_sap_notif_ticker">Accés SIM del Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Accés SIM del Bluetooth</string>
-    <string name="bluetooth_stays_on_message">"El dispositiu recorda mantenir el Bluetooth activat en mode d'avió. Desactiva el Bluetooth si no vols que es quedi activat."</string>
-    <string name="bluetooth_stays_on_title">El Bluetooth es mantindrà activat</string>
     <string name="bt_Auracast_audio_share_notification_content">Toqueu per veure més detalls</string>
     <string name="bt_Auracast_audio_share_notification_title">"S'està emetent àudio des d'aquest dispositiu…"</string>
     <string name="bt_audio_share_assistant_notification_title">"S'està rebent una emissió des d'un dispositiu proper…"</string>

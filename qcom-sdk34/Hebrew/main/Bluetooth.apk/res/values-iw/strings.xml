@@ -37,12 +37,8 @@
     <string name="auth_notif_ticker">‏בקשת אימות של Obex</string>
     <string name="auth_notif_title">קוד הפעלה</string>
     <string name="bluetooth_a2dp_sink_queue_name">מה שומעים עכשיו?</string>
-    <string name="bluetooth_and_wifi_stays_on_message">‏חיבורי ה-Wi‑Fi וה-Bluetooth במכשיר יישארו מופעלים במצב טיסה. אפשר להשבית את ה-Wi-Fi וה-Bluetooth אם לא רוצים שהם יפעלו.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">‏חיבורי ה-Wi‑Fi וה-Bluetooth יישארו מופעלים</string>
     <string name="bluetooth_connected">‏אודיו Bluetooth מחובר</string>
     <string name="bluetooth_disconnected">‏אודיו Bluetooth מנותק</string>
-    <string name="bluetooth_enabled_apm_message">‏אם חיבור ה-Bluetooth נשאר מופעל, המכשיר יזכור להשאיר אותו מופעל בפעם הבאה שהוא יועבר למצב טיסה</string>
-    <string name="bluetooth_enabled_apm_title">‏חיבור ה-Bluetooth מופעל במצב טיסה</string>
     <string name="bluetooth_map_settings_app_icon">סמל אפליקציה</string>
     <string name="bluetooth_map_settings_cancel">ביטול</string>
     <string name="bluetooth_map_settings_count">מקומות נותרים:</string>
@@ -57,8 +53,6 @@
     <string name="bluetooth_sap_notif_message">האם לבקש מלקוח להתנתק?</string>
     <string name="bluetooth_sap_notif_ticker">‏גישת SIM ל-Bluetooth</string>
     <string name="bluetooth_sap_notif_title">‏גישת SIM ל-Bluetooth</string>
-    <string name="bluetooth_stays_on_message">‏חיבור ה-Bluetooth במכשיר יישאר מופעל במצב טיסה. אפשר להשבית את ה-Bluetooth אם לא רוצים שהוא יפעל.</string>
-    <string name="bluetooth_stays_on_title">‏Bluetooth יישאר מופעל</string>
     <string name="bt_enable_cancel">ביטול</string>
     <string name="bt_enable_line1">‏כדי להשתמש בשירותי Bluetooth, עליך להפעיל תחילה את Bluetooth.</string>
     <string name="bt_enable_line2">‏להפעיל Bluetooth כעת?</string>

@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">Požadavek ověření Obex</string>
     <string name="auth_notif_title">Klíč relace</string>
     <string name="bluetooth_a2dp_sink_queue_name">Co to hraje</string>
-    <string name="bluetooth_and_wifi_stays_on_message">Zařízení si pamatuje, že má v režimu Letadlo ponechat zapnutou Wi-Fi a Bluetooth. Pokud nechcete, aby Wi-Fi a Bluetooth zůstaly zapnuté, vypněte je.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">Wi-Fi a Bluetooth zůstávají zapnuté</string>
     <string name="bluetooth_connected">Bluetooth Audio – připojeno</string>
     <string name="bluetooth_disconnected">Bluetooth Audio – odpojeno</string>
-    <string name="bluetooth_enabled_apm_message">Pokud Bluetooth necháte zapnutý, zařízení si zapamatuje, že ho má příště v režimu Letadlo ponechat zapnutý</string>
-    <string name="bluetooth_enabled_apm_title">Zapnutý Bluetooth v režimu Letadlo</string>
     <string name="bluetooth_map_settings_app_icon">Ikona aplikace</string>
     <string name="bluetooth_map_settings_cancel">Zrušit</string>
     <string name="bluetooth_map_settings_count">Zbývající sloty:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">Chcete klient požádat o odpojení?</string>
     <string name="bluetooth_sap_notif_ticker">Přístup k SIM kartě přes Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Přístup k SIM kartě přes Bluetooth</string>
-    <string name="bluetooth_stays_on_message">Zařízení si pamatuje, že má v režimu Letadlo ponechat zapnutý Bluetooth. Pokud nechcete, aby Bluetooth zůstal zapnutý, vypněte ho.</string>
-    <string name="bluetooth_stays_on_title">Bluetooth zůstane zapnutý</string>
     <string name="bt_Auracast_audio_share_notification_content">Klepnutím zobrazíte podrobnosti</string>
     <string name="bt_Auracast_audio_share_notification_title">Vysílání zvuku z tohoto zařízení…</string>
     <string name="bt_audio_share_assistant_notification_title">Přijímání vysílání ze zařízení v okolí…</string>

@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">„Obex“ tapatybės nustatymo užklausa</string>
     <string name="auth_notif_title">Sesijos raktas</string>
     <string name="bluetooth_a2dp_sink_queue_name">Dabar leidžiama</string>
-    <string name="bluetooth_and_wifi_stays_on_message">Įrenginys prisimena, kad lėktuvo režimu reikia palikti įjungtą „Wi‑Fi“ ir „Bluetooth“ ryšį. Išjunkite „Wi-Fi“ ir „Bluetooth“, jei nenorite, kad jie liktų įjungti.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">„Wi‑Fi“ ir „Bluetooth“ ryšys lieka įjungtas</string>
     <string name="bluetooth_connected">„Bluetooth“ garsas prijungtas</string>
     <string name="bluetooth_disconnected">„Bluetooth“ garsas atjungtas</string>
-    <string name="bluetooth_enabled_apm_message">Jei paliksite „Bluetooth“ ryšį įjungtą, įrenginys prisimins palikti jį įjungtą, kai kitą kartą įjungsite lėktuvo režimą</string>
-    <string name="bluetooth_enabled_apm_title">„Bluetooth“ ryšys įjungtas lėktuvo režimu</string>
     <string name="bluetooth_map_settings_app_icon">Programos piktograma</string>
     <string name="bluetooth_map_settings_cancel">Atšaukti</string>
     <string name="bluetooth_map_settings_count">Liko sričių:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">Prašyti kliento atsijungti?</string>
     <string name="bluetooth_sap_notif_ticker">„Bluetooth“ SIM prieiga</string>
     <string name="bluetooth_sap_notif_title">„Bluetooth“ SIM prieiga</string>
-    <string name="bluetooth_stays_on_message">Įrenginys prisimena, kad lėktuvo režimu reikia palikti įjungtą „Bluetooth“ ryšį. Išjunkite „Bluetooth“, jei nenorite, kad jis liktų įjungtas.</string>
-    <string name="bluetooth_stays_on_title">„Bluetooth“ liks įjungtas</string>
     <string name="bt_Auracast_audio_share_notification_content">Bakstelėkite, jei norite peržiūrėti išsamią informaciją</string>
     <string name="bt_Auracast_audio_share_notification_title">Šio įrenginio transliavimo garsas…</string>
     <string name="bt_audio_share_assistant_notification_title">Gaunama transliacija iš netoliese esančio įrenginio…</string>

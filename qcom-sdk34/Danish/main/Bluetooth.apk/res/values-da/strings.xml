@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">Anmodning om Obex-godkendelse</string>
     <string name="auth_notif_title">Sessionstast</string>
     <string name="bluetooth_a2dp_sink_queue_name">Afspiller nu</string>
-    <string name="bluetooth_and_wifi_stays_on_message">Din enhed beholder Wi-Fi og Bluetooth aktiveret i flytilstand. Deaktiver Wi-Fi og Bluetooth, hvis du ikke vil have, at de forbliver aktiveret.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">Wi-Fi og Bluetooth forbliver aktiveret</string>
     <string name="bluetooth_connected">Bluetooth-lyden blev tilsluttet</string>
     <string name="bluetooth_disconnected">Bluetooth-lyden blev afbrudt</string>
-    <string name="bluetooth_enabled_apm_message">Hvis du holder Bluetooth aktiveret, sørger din enhed for, at Bluetooth forbliver aktiveret, næste gang du slår flytilstand til</string>
-    <string name="bluetooth_enabled_apm_title">Bluetooth er aktiveret i flytilstand</string>
     <string name="bluetooth_map_settings_app_icon">Appens ikon</string>
     <string name="bluetooth_map_settings_cancel">Annuller</string>
     <string name="bluetooth_map_settings_count">Pladser tilbage:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">Vil du anmode klienten om at afbryde forbindelsen?</string>
     <string name="bluetooth_sap_notif_ticker">Bluetooth-adgang til SIM-kort</string>
     <string name="bluetooth_sap_notif_title">Bluetooth-adgang til SIM-kort</string>
-    <string name="bluetooth_stays_on_message">Din enhed beholder Bluetooth aktiveret i flytilstand. Deaktiver Bluetooth, hvis du ikke vil have, at det forbliver aktiveret.</string>
-    <string name="bluetooth_stays_on_title">Bluetooth forbliver aktiveret</string>
     <string name="bt_Auracast_audio_share_notification_content">Tryk for at se oplysninger</string>
     <string name="bt_Auracast_audio_share_notification_title">Udsender lyd fra denne enhed…</string>
     <string name="bt_audio_share_assistant_notification_title">Modtagelse af en udsendelse fra en enhed i nærheden…</string>

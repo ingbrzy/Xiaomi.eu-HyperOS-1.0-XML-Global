@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">Obex authentication request</string>
     <string name="auth_notif_title">Session key</string>
     <string name="bluetooth_a2dp_sink_queue_name">Now Playing</string>
-    <string name="bluetooth_and_wifi_stays_on_message">"Your device remembers to keep Wi-Fi and Bluetooth on in aeroplane mode. Turn off Wi-Fi and Bluetooth if you don't want them to stay on."</string>
-    <string name="bluetooth_and_wifi_stays_on_title">Wi-Fi and Bluetooth stay on</string>
     <string name="bluetooth_connected">Bluetooth audio connected</string>
     <string name="bluetooth_disconnected">Bluetooth audio disconnected</string>
-    <string name="bluetooth_enabled_apm_message">"If you keep Bluetooth on, your device will remember to keep it on the next time that you're in aeroplane mode"</string>
-    <string name="bluetooth_enabled_apm_title">Bluetooth on in aeroplane mode</string>
     <string name="bluetooth_map_settings_app_icon">Application Icon</string>
     <string name="bluetooth_map_settings_cancel">Cancel</string>
     <string name="bluetooth_map_settings_count">Slots left:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">Request client to disconnect?</string>
     <string name="bluetooth_sap_notif_ticker">Bluetooth SIM access</string>
     <string name="bluetooth_sap_notif_title">Bluetooth SIM access</string>
-    <string name="bluetooth_stays_on_message">"Your device remembers to keep Bluetooth on in aeroplane mode. Turn off Bluetooth if you don't want it to stay on."</string>
-    <string name="bluetooth_stays_on_title">Bluetooth stays on</string>
     <string name="bt_Auracast_audio_share_notification_content">Tap to view details</string>
     <string name="bt_Auracast_audio_share_notification_title">Broadcasting audio from this device…</string>
     <string name="bt_audio_share_assistant_notification_title">Receiving a broadcast from a nearby device…</string>

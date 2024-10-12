@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">Żądanie uwierzytelniania Obex</string>
     <string name="auth_notif_title">Klucz sesji</string>
     <string name="bluetooth_a2dp_sink_queue_name">Co jest grane</string>
-    <string name="bluetooth_and_wifi_stays_on_message">Wi-Fi i Bluetooth na urządzeniu pozostają włączone w trybie samolotowym. Wyłącz Wi-Fi i Bluetooth, jeśli nie chcesz, żeby funkcje te pozostawały włączone.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">Wi-Fi i Bluetooth pozostają włączone</string>
     <string name="bluetooth_connected">Dźwięk Bluetooth podłączony</string>
     <string name="bluetooth_disconnected">Dźwięk Bluetooth odłączony</string>
-    <string name="bluetooth_enabled_apm_message">Jeśli pozostawisz włączony Bluetooth, urządzenie zachowa się podobnie przy kolejnym przejściu w tryb samolotowy</string>
-    <string name="bluetooth_enabled_apm_title">Bluetooth włączony w trybie samolotowym</string>
     <string name="bluetooth_map_settings_app_icon">Ikona aplikacji</string>
     <string name="bluetooth_map_settings_cancel">Anuluj</string>
     <string name="bluetooth_map_settings_count">Wolne miejsca:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">Zażądać odłączenia od klienta?</string>
     <string name="bluetooth_sap_notif_ticker">Dostęp do karty SIM przez Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Dostęp do karty SIM przez Bluetooth</string>
-    <string name="bluetooth_stays_on_message">Bluetooth na urządzeniu pozostaje włączony w trybie samolotowym. Wyłącz Bluetooth, jeśli nie chcesz, żeby pozostawał włączony.</string>
-    <string name="bluetooth_stays_on_title">Bluetooth pozostanie włączony</string>
     <string name="bt_Auracast_audio_share_notification_content">Dotknij, aby wyświetlić szczegóły</string>
     <string name="bt_Auracast_audio_share_notification_title">Nadawanie dźwięku z tego urządzenia…</string>
     <string name="bt_audio_share_assistant_notification_title">Odbieranie transmisji z urządzenia w pobliżu…</string>

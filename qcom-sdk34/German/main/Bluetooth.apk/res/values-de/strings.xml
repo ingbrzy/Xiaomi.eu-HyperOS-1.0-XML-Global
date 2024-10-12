@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">OBEX-Authentifizierungsanfrage</string>
     <string name="auth_notif_title">Sitzungsschlüssel</string>
     <string name="bluetooth_a2dp_sink_queue_name">Now Playing</string>
-    <string name="bluetooth_and_wifi_stays_on_message">Auf deinem Gerät bleiben WLAN und Bluetooth im Flugmodus eingeschaltet. Schalte sie aus, wenn du das nicht möchtest.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">WLAN und Bluetooth bleiben eingeschaltet</string>
     <string name="bluetooth_connected">Bluetooth-Audio verbunden</string>
     <string name="bluetooth_disconnected">Bluetooth-Audio-Verbindung aufgehoben</string>
-    <string name="bluetooth_enabled_apm_message">Wenn du Bluetooth nicht ausschaltest, bleibt es eingeschaltet, wenn du das nächste Mal in den Flugmodus wechselst</string>
-    <string name="bluetooth_enabled_apm_title">Bluetooth im Flugmodus eingeschaltet</string>
     <string name="bluetooth_map_settings_app_icon">App-Symbol</string>
     <string name="bluetooth_map_settings_cancel">Abbrechen</string>
     <string name="bluetooth_map_settings_count">Plätze frei:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">Client zum Trennen der Verbindung auffordern?</string>
     <string name="bluetooth_sap_notif_ticker">Zugriff auf SIM über Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Zugriff auf SIM über Bluetooth</string>
-    <string name="bluetooth_stays_on_message">Auf deinem Gerät bleibt Bluetooth im Flugmodus eingeschaltet. Schalte Bluetooth aus, wenn du das nicht möchtest.</string>
-    <string name="bluetooth_stays_on_title">Bluetooth bleibt aktiviert</string>
     <string name="bt_Auracast_audio_share_notification_content">Tippen, um Details anzuzeigen</string>
     <string name="bt_Auracast_audio_share_notification_title">Audio von diesem Gerät übertragen…</string>
     <string name="bt_audio_share_assistant_notification_title">Erhalten einer Übertragung von einem Gerät in der Nähe…</string>

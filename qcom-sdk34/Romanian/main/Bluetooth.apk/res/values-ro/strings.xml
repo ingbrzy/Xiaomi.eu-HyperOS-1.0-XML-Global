@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">Cerere de autentificare pentru protocolul OBEX</string>
     <string name="auth_notif_title">Cheia sesiunii</string>
     <string name="bluetooth_a2dp_sink_queue_name">Now Playing</string>
-    <string name="bluetooth_and_wifi_stays_on_message">Dispozitivul reține să păstreze funcțiile Wi-Fi și Bluetooth activate în modul Avion. Dezactivează Wi-Fi și Bluetooth dacă nu vrei să rămână activate.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">Wi-Fi și Bluetooth rămân activate</string>
     <string name="bluetooth_connected">Audio prin Bluetooth conectat</string>
     <string name="bluetooth_disconnected">Audio prin Bluetooth deconectat</string>
-    <string name="bluetooth_enabled_apm_message">Dacă păstrezi Bluetooth activat, dispozitivul tău va reține să-l păstreze activat data viitoare când ești în modul Avion</string>
-    <string name="bluetooth_enabled_apm_title">Bluetooth activat în modul Avion</string>
     <string name="bluetooth_map_settings_app_icon">Pictograma aplicației</string>
     <string name="bluetooth_map_settings_cancel">Anulați</string>
     <string name="bluetooth_map_settings_count">Sloturi rămase:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">Solicitați clientului să se deconecteze?</string>
     <string name="bluetooth_sap_notif_ticker">Accesul la SIM prin Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Accesul la SIM prin Bluetooth</string>
-    <string name="bluetooth_stays_on_message">Dispozitivul reține să păstreze Bluetooth activat în modul Avion. Dezactivează Bluetooth dacă nu vrei să rămână activat.</string>
-    <string name="bluetooth_stays_on_title">Bluetooth rămâne activat</string>
     <string name="bt_Auracast_audio_share_notification_content">Atinge pentru a vedea detalii</string>
     <string name="bt_Auracast_audio_share_notification_title">Se difuzează audio de pe acest dispozitiv…</string>
     <string name="bt_audio_share_assistant_notification_title">Primirea unei emisiuni de pe un dispozitiv din apropiere…</string>

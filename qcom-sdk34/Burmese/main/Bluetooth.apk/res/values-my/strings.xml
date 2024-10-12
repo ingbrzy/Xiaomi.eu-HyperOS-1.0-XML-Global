@@ -37,12 +37,8 @@
     <string name="auth_notif_ticker">Obex (အချင်းအချင်းဖလှယ်ရန်) စစ်မှန်ကြောင်းတောင်းခံခြင်း</string>
     <string name="auth_notif_title">ကဏ္ဏတစ်ခု၏ ကီး</string>
     <string name="bluetooth_a2dp_sink_queue_name">ယခု ဖွင့်နေသည်</string>
-    <string name="bluetooth_and_wifi_stays_on_message">လေယာဉ်ပျံမုဒ်သုံးစဉ် Wi-Fi နှင့် ဘလူးတုသ် ဆက်ဖွင့်ထားရန် သင့်စက်က မှတ်မိသည်။ Wi-Fi နှင့် ဘလူးတုသ် ဆက်ဖွင့်မထားလိုပါက ပိတ်နိုင်သည်။</string>
-    <string name="bluetooth_and_wifi_stays_on_title">Wi-Fi နှင့် ဘလူးတုသ် ဆက်ဖွင့်ထားသည်</string>
     <string name="bluetooth_connected">ဘလူးတုသ်အသံ ချိတ်ဆက်ပြီးပါပြီ</string>
     <string name="bluetooth_disconnected">ဘလူးတုသ်အသံ မချိတ်ဆက်ထားပါ</string>
-    <string name="bluetooth_enabled_apm_message">ဘလူးတုသ် ဆက်ဖွင့်ထားပါက နောက်တစ်ကြိမ်လေယာဉ်ပျံမုဒ် သုံးချိန်တွင် ၎င်းဆက်ဖွင့်ရန် သင့်စက်က မှတ်ထားမည်</string>
-    <string name="bluetooth_enabled_apm_title">လေယာဉ်ပျံမုဒ်တွင် ဘလူးတုသ် ပွင့်နေသည်</string>
     <string name="bluetooth_map_settings_app_icon">အပလီကေးရှင်း သင်္ကေတ</string>
     <string name="bluetooth_map_settings_cancel">မလုပ်တော့</string>
     <string name="bluetooth_map_settings_count">ကျန်နေသည့် အပေါက်များ:</string>
@@ -57,8 +53,6 @@
     <string name="bluetooth_sap_notif_message">ကလိုင်းယင့်အား ချိတ်ဆက်မှု ဖြုတ်ရန် တောင်းဆိုမည်လား?</string>
     <string name="bluetooth_sap_notif_ticker">ဘလူးတုသ် SIM ဝင်ရောက်သုံးမှု</string>
     <string name="bluetooth_sap_notif_title">ဘလူးတုသ် SIM ဝင်ရောက်သုံးမှု</string>
-    <string name="bluetooth_stays_on_message">လေယာဉ်ပျံမုဒ်သုံးစဉ် ဘလူးတုသ် ဆက်ဖွင့်ထားရန် သင့်စက်က မှတ်မိသည်။ ဘလူးတုသ် ဆက်ဖွင့်မထားလိုပါက ပိတ်နိုင်သည်။</string>
-    <string name="bluetooth_stays_on_title">ဘလူးတုသ် ဆက်ပွင့်နေသည်</string>
     <string name="bt_enable_cancel">မလုပ်တော့</string>
     <string name="bt_enable_line1">ဘလူးတုသ်ဆားဗစ်ကိုအသုံးပြုရန် ပထမဦးစွာ ဘလူးတုသ်ကိုဖွင့်ပါ</string>
     <string name="bt_enable_line2">ယခုပင် ဘလူးတုသ်ကိုဖွင့်မည်လား?</string>

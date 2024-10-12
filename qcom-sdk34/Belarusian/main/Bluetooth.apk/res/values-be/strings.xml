@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">Запыт на аўтэнтыфікацыю Obex</string>
     <string name="auth_notif_title">Ключ сесіі</string>
     <string name="bluetooth_a2dp_sink_queue_name">Цяпер іграе</string>
-    <string name="bluetooth_and_wifi_stays_on_message">На прыладзе ў рэжыме палёту Wi‑Fi і Bluetooth будуць заставацца ўключанымі, але вы можаце выключыць іх.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">Wi-Fi і Bluetooth застаюцца ўключанымі</string>
     <string name="bluetooth_connected">Bluetooth-аўдыя падключана</string>
     <string name="bluetooth_disconnected">Bluetooth-аўдыя адключана</string>
-    <string name="bluetooth_enabled_apm_message">Калі вы не выключыце Bluetooth, падчас наступнага пераходу ў рэжым палёту прылада будзе захоўваць яго ўключаным</string>
-    <string name="bluetooth_enabled_apm_title">У рэжыме палёту Bluetooth уключаны</string>
     <string name="bluetooth_map_settings_app_icon">Значок праграмы</string>
     <string name="bluetooth_map_settings_cancel">Скасаваць</string>
     <string name="bluetooth_map_settings_count">Засталося слотаў:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">Запытаць адлучэнне кліента?</string>
     <string name="bluetooth_sap_notif_ticker">Доступ да SIM па Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Доступ да SIM па Bluetooth</string>
-    <string name="bluetooth_stays_on_message">На прыладзе ў рэжыме палёту Bluetooth застанецца ўключаным, але вы можаце выключыць яго.</string>
-    <string name="bluetooth_stays_on_title">Bluetooth застаецца ўключаным</string>
     <string name="bt_Auracast_audio_share_notification_content">Націсніце, каб праглядзець падрабязнасці</string>
     <string name="bt_Auracast_audio_share_notification_title">Гук транслюецца з гэтай прылады…</string>
     <string name="bt_audio_share_assistant_notification_title">Прыём трансляцыі з прылады паблізу…</string>

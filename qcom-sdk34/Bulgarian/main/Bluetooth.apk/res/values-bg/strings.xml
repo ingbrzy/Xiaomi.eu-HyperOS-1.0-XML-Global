@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">Заявка за удостоверяване на Obex</string>
     <string name="auth_notif_title">Ключ за сесия</string>
     <string name="bluetooth_a2dp_sink_queue_name">Възпроизвеждано сега съдържание</string>
-    <string name="bluetooth_and_wifi_stays_on_message">Функциите за Wi‑Fi и Bluetooth ще бъдат включени, докато устройството ви е в самолетен режим. Ако не искате това, изключете ги.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">Функциите за Wi-Fi и Bluetooth няма да бъдат изключени</string>
     <string name="bluetooth_connected">Установена е аудиовръзка през Bluetooth</string>
     <string name="bluetooth_disconnected">Аудиовръзката през Bluetooth е прекратена</string>
-    <string name="bluetooth_enabled_apm_message">Ако не изключите функцията за Bluetooth, устройството ви ще я остави активна следващия път, когато използвате самолетния режим</string>
-    <string name="bluetooth_enabled_apm_title">Функцията за Bluetooth е включена в самолетния режим</string>
     <string name="bluetooth_map_settings_app_icon">Икона на приложението</string>
     <string name="bluetooth_map_settings_cancel">Отказ</string>
     <string name="bluetooth_map_settings_count">Оставащи слотове:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">Искате ли да заявите клиентската програма да прекрати връзката?</string>
     <string name="bluetooth_sap_notif_ticker">Достъп до SIM карти през Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Достъп до SIM карти през Bluetooth</string>
-    <string name="bluetooth_stays_on_message">Функцията за Bluetooth ще бъде включена, докато устройството ви е в самолетен режим. Ако не искате това, изключете я.</string>
-    <string name="bluetooth_stays_on_title">Функцията за Bluetooth няма да се изключи</string>
     <string name="bt_Auracast_audio_share_notification_content">Натиснете за подробности</string>
     <string name="bt_Auracast_audio_share_notification_title">Излъчване на аудио от това устройство…</string>
     <string name="bt_audio_share_assistant_notification_title">Получаване на излъчване от устройство наблизо…</string>

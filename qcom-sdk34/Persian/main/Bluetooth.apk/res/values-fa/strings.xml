@@ -37,12 +37,8 @@
     <string name="auth_notif_ticker">‏درخواست اصالت‌سنجی Obex</string>
     <string name="auth_notif_title">کلید جلسه</string>
     <string name="bluetooth_a2dp_sink_queue_name">اکنون درحال پخش</string>
-    <string name="bluetooth_and_wifi_stays_on_message">‏دستگاهتان به‌یاد می‌آورد که Wi-Fi و بلوتوث را در «حالت هواپیما» روشن نگه دارد. اگر نمی‌خواهید Wi-Fi و بلوتوث روشن بمانند، آن‌ها را خاموش کنید.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">‏‫Wi-Fi و بلوتوث روشن بماند</string>
     <string name="bluetooth_connected">بلوتوث صوتی متصل شد</string>
     <string name="bluetooth_disconnected">ارتباط بلوتوث صوتی قطع شد</string>
-    <string name="bluetooth_enabled_apm_message">اگر بلوتوث را روشن نگه دارید، دستگاهتان به‌یاد خواهد داشت تا دفعه بعدی که در «حالت هواپیما» هستید آن را روشن نگه دارد</string>
-    <string name="bluetooth_enabled_apm_title">بلوتوث در «حالت هواپیما» روشن باشد</string>
     <string name="bluetooth_map_settings_app_icon">نماد برنامه</string>
     <string name="bluetooth_map_settings_cancel">لغو</string>
     <string name="bluetooth_map_settings_count">شیارهای باقی‌مانده:</string>
@@ -57,8 +53,6 @@
     <string name="bluetooth_sap_notif_message">قطع ارتباط از کلاینت درخواست شود؟</string>
     <string name="bluetooth_sap_notif_ticker">دسترسی به سیم‌کارت بلوتوث</string>
     <string name="bluetooth_sap_notif_title">دسترسی به سیم‌کارت بلوتوث</string>
-    <string name="bluetooth_stays_on_message">دستگاهتان به‌یاد می‌آورد که بلوتوث را در «حالت هواپیما» روشن نگه دارد. اگر نمی‌خواهید بلوتوث روشن بماند، آن را خاموش کنید.</string>
-    <string name="bluetooth_stays_on_title">بلوتوث روشن بماند</string>
     <string name="bt_enable_cancel">لغو</string>
     <string name="bt_enable_line1">برای استفاده از خدمات بلوتوث، باید ابتدا بلوتوث را روشن کنید.</string>
     <string name="bt_enable_line2">اکنون بلوتوث روشن شود؟</string>

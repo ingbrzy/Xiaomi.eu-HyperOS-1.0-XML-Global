@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">"Demande d'authentification Obex"</string>
     <string name="auth_notif_title">Clé de session</string>
     <string name="bluetooth_a2dp_sink_queue_name">En écoute</string>
-    <string name="bluetooth_and_wifi_stays_on_message">Le Wi‑Fi et le Bluetooth de votre appareil resteront activés en mode Avion, mais vous pouvez les désactivez.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">Le Wi-Fi et le Bluetooth restent activés</string>
     <string name="bluetooth_connected">Audio Bluetooth connecté</string>
     <string name="bluetooth_disconnected">Audio Bluetooth déconnecté</string>
-    <string name="bluetooth_enabled_apm_message">"Si vous laissez le Bluetooth activé, votre appareil s'en souviendra et le Bluetooth restera activé la prochaine fois que vous serez en mode Avion"</string>
-    <string name="bluetooth_enabled_apm_title">Bluetooth activé en mode Avion</string>
     <string name="bluetooth_map_settings_app_icon">"Icône de l'application"</string>
     <string name="bluetooth_map_settings_cancel">Annuler</string>
     <string name="bluetooth_map_settings_count">Espaces libres :</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">Demander au client de se déconnecter ?</string>
     <string name="bluetooth_sap_notif_ticker">Accès SIM Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Accès SIM Bluetooth</string>
-    <string name="bluetooth_stays_on_message">Le Bluetooth de votre appareil restera activé en mode Avion, mais vous pouvez le désactiver.</string>
-    <string name="bluetooth_stays_on_title">Le Bluetooth reste activé</string>
     <string name="bt_Auracast_audio_share_notification_content">Appuyer pour voir les détails</string>
     <string name="bt_Auracast_audio_share_notification_title">Diffusion audio à partir de cet appareil…</string>
     <string name="bt_audio_share_assistant_notification_title">"Recevoir une diffusion d'un appareil à proximité…"</string>

@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">Obex azonosítási kérelem</string>
     <string name="auth_notif_title">Munkamenetkulcs</string>
     <string name="bluetooth_a2dp_sink_queue_name">Now Playing</string>
-    <string name="bluetooth_and_wifi_stays_on_message">Az eszköz bekapcsolva tartja a Wi‑Fi-t és a Bluetootht Repülős üzemmódban. Ha nem szeretné, hogy bekapcsolva maradjon a Wi-Fi és a Bluetooth, kapcsolja ki őket.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">A Wi-Fi és a Bluetooth bekapcsolva marad</string>
     <string name="bluetooth_connected">Bluetooth audió csatlakoztatva</string>
     <string name="bluetooth_disconnected">Bluetooth audió leválasztva</string>
-    <string name="bluetooth_enabled_apm_message">Ha bekapcsolva tartja a Bluetootht, az eszköz emlékezni fog arra, hogy a következő alkalommal, amikor Repülős üzemmódban van, bekapcsolva tartsa a funkciót.</string>
-    <string name="bluetooth_enabled_apm_title">Bluetooth bekapcsolva Repülős üzemmódban</string>
     <string name="bluetooth_map_settings_app_icon">Alkalmazás ikonja</string>
     <string name="bluetooth_map_settings_cancel">Mégse</string>
     <string name="bluetooth_map_settings_count">Szabadon maradt helyek száma:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">Ügyfél felkérése szétválasztásra?</string>
     <string name="bluetooth_sap_notif_ticker">Bluetooth SIM-elérés</string>
     <string name="bluetooth_sap_notif_title">Bluetooth SIM-elérés</string>
-    <string name="bluetooth_stays_on_message">Az eszköz bekapcsolva tartja a Bluetootht Repülős üzemmódban. Kapcsolja ki a Bluetootht, ha nem szeretné, hogy bekapcsolva maradjon.</string>
-    <string name="bluetooth_stays_on_title">A Bluetooth bekapcsolva marad</string>
     <string name="bt_Auracast_audio_share_notification_content">A részletek megtekintéséhez koppintson</string>
     <string name="bt_Auracast_audio_share_notification_title">Hang sugárzása erről a készülékről…</string>
     <string name="bt_audio_share_assistant_notification_title">Adás fogadása egy közeli készüléktől…</string>

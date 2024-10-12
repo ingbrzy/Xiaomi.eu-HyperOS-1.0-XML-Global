@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">Solicitud de autenticación de Obex</string>
     <string name="auth_notif_title">Clave de la sesión</string>
     <string name="bluetooth_a2dp_sink_queue_name">Está Sonando</string>
-    <string name="bluetooth_and_wifi_stays_on_message">El dispositivo dejará activado el Wi-Fi y el Bluetooth en el modo de avión. Desactívalos si no quieres que permanezcan activados.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">El Wi-Fi y el Bluetooth permanecen activados</string>
     <string name="bluetooth_connected">Audio Bluetooth conectado</string>
     <string name="bluetooth_disconnected">Audio Bluetooth desconectado</string>
-    <string name="bluetooth_enabled_apm_message">Si mantienes el Bluetooth activado, el dispositivo recordará mantenerlo activado la próxima vez que habilites el modo de avión</string>
-    <string name="bluetooth_enabled_apm_title">Bluetooth activado en modo de avión</string>
     <string name="bluetooth_map_settings_app_icon">Ícono de la aplicación</string>
     <string name="bluetooth_map_settings_cancel">Cancelar</string>
     <string name="bluetooth_map_settings_count">Espacios restantes:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">¿Quieres solicitar al cliente que se desconecte?</string>
     <string name="bluetooth_sap_notif_ticker">Acceso a SIM mediante Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Acceso a SIM mediante Bluetooth</string>
-    <string name="bluetooth_stays_on_message">El dispositivo dejará activado el Bluetooth en el modo de avión. Desactiva el Bluetooth si no quieres que permanezca activado.</string>
-    <string name="bluetooth_stays_on_title">El Bluetooth permanece activado</string>
     <string name="bt_Auracast_audio_share_notification_content">Toque para ver los detalles</string>
     <string name="bt_Auracast_audio_share_notification_title">Transmitiendo audio desde este dispositivo…</string>
     <string name="bt_audio_share_assistant_notification_title">Recibiendo una retransmisión desde un dispositivo cercano…</string>

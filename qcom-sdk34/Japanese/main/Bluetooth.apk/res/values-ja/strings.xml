@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">OBEX認証リクエスト</string>
     <string name="auth_notif_title">セッションキー</string>
     <string name="bluetooth_a2dp_sink_queue_name">この曲なに？</string>
-    <string name="bluetooth_and_wifi_stays_on_message">機内モードでも、デバイスの Wi-Fi と Bluetooth は ON のままになります。Wi-Fi と Bluetooth を ON にしたくない場合は OFF にしてください。</string>
-    <string name="bluetooth_and_wifi_stays_on_title">Wi-Fi と Bluetooth を ON のままにする</string>
     <string name="bluetooth_connected">Bluetooth オーディオは接続されています</string>
     <string name="bluetooth_disconnected">Bluetooth オーディオは接続を解除されています</string>
-    <string name="bluetooth_enabled_apm_message">Bluetooth を ON にしておくと、次に機内モードになったときも ON のままになります</string>
-    <string name="bluetooth_enabled_apm_title">機内モードで Bluetooth を ON にする</string>
     <string name="bluetooth_map_settings_app_icon">アプリアイコン</string>
     <string name="bluetooth_map_settings_cancel">キャンセル</string>
     <string name="bluetooth_map_settings_count">残りスロット数:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">クライアントに接続解除をリクエストしますか？</string>
     <string name="bluetooth_sap_notif_ticker">Bluetooth SIMアクセス</string>
     <string name="bluetooth_sap_notif_title">Bluetooth SIMアクセス</string>
-    <string name="bluetooth_stays_on_message">機内モードでも、デバイスの Bluetooth は ON のままになります。Bluetooth を ON にしたくない場合は OFF にしてください。</string>
-    <string name="bluetooth_stays_on_title">Bluetooth を ON にしておく</string>
     <string name="bt_Auracast_audio_share_notification_content">タップして詳細を表示</string>
     <string name="bt_Auracast_audio_share_notification_title">このデバイスからオーディオをブロードキャスト中…</string>
     <string name="bt_audio_share_assistant_notification_title">付近のデバイスからブロードキャストを受信しています…</string>

@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">‏طلب مصادقة Obex</string>
     <string name="auth_notif_title">مفتاح الجلسة</string>
     <string name="bluetooth_a2dp_sink_queue_name">التعرّف التلقائي على الموسيقى</string>
-    <string name="bluetooth_and_wifi_stays_on_message">‏يتذكر جهازك الاحتفاظ بشبكة Wi‑Fi وتقنية البلوتوث مفعَّلتَين في \"وضع الطيران\". يمكنك إيقاف شبكة Wi‑Fi وتقنية البلوتوث إذا لم تكن تريد مواصلة تفعيلهما.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">‏تظل شبكة Wi‑Fi وتقنية البلوتوث مفعَّلتَين.</string>
     <string name="bluetooth_connected">تم الاتصال بالبث الصوتي عبر البلوتوث.</string>
     <string name="bluetooth_disconnected">انقطع الاتصال بالبث الصوتي عبر البلوتوث.</string>
-    <string name="bluetooth_enabled_apm_message">إذا واصلت تفعيل تقنية البلوتوث، سيتذكر جهازك إبقاءها مفعَّلة في المرة القادمة التي تفعِّل فيها \"وضع الطيران\".</string>
-    <string name="bluetooth_enabled_apm_title">تقنية البلوتوث مفعّلة في \"وضع الطيران\"</string>
     <string name="bluetooth_map_settings_app_icon">رمز التطبيق</string>
     <string name="bluetooth_map_settings_cancel">إلغاء</string>
     <string name="bluetooth_map_settings_count">المنافذ المتبقية:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">هل تريد مطالبة العميل بإلغاء الربط؟</string>
     <string name="bluetooth_sap_notif_ticker">‏الوصول إلى SIM بلوتوث</string>
     <string name="bluetooth_sap_notif_title">‏الوصول إلى SIM بلوتوث</string>
-    <string name="bluetooth_stays_on_message">يتذكر جهازك الاحتفاظ بتقنية البلوتوث مفعَّلة في \"وضع الطيران\". يمكنك إيقاف تقنية البلوتوث إذا لم تكن تريد مواصلة تفعيلها.</string>
-    <string name="bluetooth_stays_on_title">تظل تقنية البلوتوث مفعّلة</string>
     <string name="bt_Auracast_audio_share_notification_content">انقر لعرض التفاصيل</string>
     <string name="bt_Auracast_audio_share_notification_title">جارٍ بث الصوت من هذا الجهاز…</string>
     <string name="bt_audio_share_assistant_notification_title">جارٍ استقبال بث من جهاز قريب…</string>

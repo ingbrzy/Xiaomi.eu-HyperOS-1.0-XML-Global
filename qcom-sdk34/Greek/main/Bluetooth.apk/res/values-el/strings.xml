@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">Αίτημα ελέγχου ταυτότητας Obex</string>
     <string name="auth_notif_title">Κλειδί περιόδου σύνδεσης</string>
     <string name="bluetooth_a2dp_sink_queue_name">Ακούγεται τώρα</string>
-    <string name="bluetooth_and_wifi_stays_on_message">Η συσκευή θυμάται να διατηρεί ενεργοποιημένο το Wi‑Fi και το Bluetooth σε λειτουργία πτήσης. Απενεργοποιήστε το Wi-Fi και το Bluetooth αν δεν θέλετε να παραμένουν ενεργοποιημένα.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">Το Wi-Fi και το Bluetooth παραμένουν ενεργοποιημένα</string>
     <string name="bluetooth_connected">Ο ήχος Bluetooth συνδέθηκε</string>
     <string name="bluetooth_disconnected">Ο ήχος Bluetooth αποσυνδέθηκε</string>
-    <string name="bluetooth_enabled_apm_message">Αν διατηρήσετε το Bluetooth ενεργοποιημένο, η συσκευή σας θα θυμάται να το διατηρήσει ενεργοποιημένο την επόμενη φορά που θα βρεθεί σε λειτουργία πτήσης</string>
-    <string name="bluetooth_enabled_apm_title">Bluetooth ενεργοποιημένο σε λειτουργία πτήσης</string>
     <string name="bluetooth_map_settings_app_icon">Εικονίδιο εφαρμογής</string>
     <string name="bluetooth_map_settings_cancel">Ακύρωση</string>
     <string name="bluetooth_map_settings_count">Υποδοχές που απομένουν:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">Αίτημα εφαρμογής-πελάτη για αποσύνδεση;</string>
     <string name="bluetooth_sap_notif_ticker">Πρόσβαση SIM Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Πρόσβαση SIM Bluetooth</string>
-    <string name="bluetooth_stays_on_message">Η συσκευή σας θυμάται να διατηρεί ενεργοποιημένο το Bluetooth σε λειτουργία πτήσης. Απενεργοποιήστε το Bluetooth αν δεν θέλετε να παραμένει ενεργοποιημένο.</string>
-    <string name="bluetooth_stays_on_title">Το Bluetooth παραμένει ενεργό</string>
     <string name="bt_Auracast_audio_share_notification_content">Πατήστε για προβολή λεπτομερειών</string>
     <string name="bt_Auracast_audio_share_notification_title">Μετάδοση ήχου από αυτήν τη συσκευή…</string>
     <string name="bt_audio_share_assistant_notification_title">Λήψη μετάδοσης από μια κοντινή συσκευή…</string>

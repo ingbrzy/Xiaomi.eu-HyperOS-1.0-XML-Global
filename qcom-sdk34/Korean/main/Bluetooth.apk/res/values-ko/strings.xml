@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">Obex 인증 요청</string>
     <string name="auth_notif_title">세션 키</string>
     <string name="bluetooth_a2dp_sink_queue_name">지금 재생 중</string>
-    <string name="bluetooth_and_wifi_stays_on_message">비행기 모드에서 기기의 Wi-Fi 및 블루투스가 켜진 상태로 유지됩니다. 유지하지 않으려면 Wi-Fi와 블루투스를 사용 중지하세요.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">Wi-Fi 및 블루투스 계속 사용</string>
     <string name="bluetooth_connected">블루투스 오디오가 연결됨</string>
     <string name="bluetooth_disconnected">블루투스 오디오가 연결 해제됨</string>
-    <string name="bluetooth_enabled_apm_message">블루투스를 켜진 상태로 유지하면 다음에 비행기 모드를 사용할 때도 블루투스 연결이 유지됩니다.</string>
-    <string name="bluetooth_enabled_apm_title">비행기 모드에서 블루투스 사용 설정</string>
     <string name="bluetooth_map_settings_app_icon">애플리케이션 아이콘</string>
     <string name="bluetooth_map_settings_cancel">취소</string>
     <string name="bluetooth_map_settings_count">남은 슬롯:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">클라이언트가 연결 해제하도록 요청하시겠습니까?</string>
     <string name="bluetooth_sap_notif_ticker">블루투스 SIM 액세스</string>
     <string name="bluetooth_sap_notif_title">블루투스 SIM 액세스</string>
-    <string name="bluetooth_stays_on_message">비행기 모드에서 기기의 블루투스가 켜진 상태로 유지됩니다. 유지하지 않으려면 블루투스를 사용 중지하세요.</string>
-    <string name="bluetooth_stays_on_title">블루투스가 켜진 상태로 유지됨</string>
     <string name="bt_Auracast_audio_share_notification_content">탭하여 세부사항 보기</string>
     <string name="bt_Auracast_audio_share_notification_title">이 기기에서 오디오를 브로드캐스트하는 중…</string>
     <string name="bt_audio_share_assistant_notification_title">근처 기기의 브로드캐스트 수신 중…</string>

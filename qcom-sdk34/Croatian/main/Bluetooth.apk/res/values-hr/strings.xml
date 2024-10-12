@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">Zahtjev za provjeru autentičnosti Obex protokola</string>
     <string name="auth_notif_title">Šifra sesije</string>
     <string name="bluetooth_a2dp_sink_queue_name">Upravo svira</string>
-    <string name="bluetooth_and_wifi_stays_on_message">Uređaj će zapamtiti da Wi‑Fi i Bluetooth trebaju ostati uključeni u načinu rada u zrakoplovu. Isključite Wi-Fi i Bluetooth ako ne želite da ostanu uključeni.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">Wi-Fi i Bluetooth ostat će uključeni</string>
     <string name="bluetooth_connected">Bluetooth Audio povezan</string>
     <string name="bluetooth_disconnected">Veza Bluetooth Audija prekinuta</string>
-    <string name="bluetooth_enabled_apm_message">Ako Bluetooth ostane uključen, uređaj će zapamtiti da treba ostati uključen u načinu rada u zrakoplovu</string>
-    <string name="bluetooth_enabled_apm_title">Bluetooth je uključen u načinu rada u zrakoplovu</string>
     <string name="bluetooth_map_settings_app_icon">Ikona aplikacije</string>
     <string name="bluetooth_map_settings_cancel">Odustani</string>
     <string name="bluetooth_map_settings_count">Preostala mjesta:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">Želite li postaviti zahtjev klijentu da prekine vezu?</string>
     <string name="bluetooth_sap_notif_ticker">Pristup SIM-u putem Bluetootha</string>
     <string name="bluetooth_sap_notif_title">Pristup SIM-u putem Bluetootha</string>
-    <string name="bluetooth_stays_on_message">Uređaj će zapamtiti da Bluetooth treba ostati uključen u načinu rada u zrakoplovu. Isključite Bluetooth ako ne želite da ostane uključen.</string>
-    <string name="bluetooth_stays_on_title">Bluetooth ostaje uključen</string>
     <string name="bt_Auracast_audio_share_notification_content">Dodirnite za pregled pojedinosti</string>
     <string name="bt_Auracast_audio_share_notification_title">Emitiranje zvuka s ovog uređaja…</string>
     <string name="bt_audio_share_assistant_notification_title">Primanje emitiranja s uređaja u blizini…</string>

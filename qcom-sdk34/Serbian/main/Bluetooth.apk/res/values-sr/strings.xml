@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">Захтев за потврду идентитета преко Obex протокола</string>
     <string name="auth_notif_title">Кључ сесије</string>
     <string name="bluetooth_a2dp_sink_queue_name">Тренутно свира</string>
-    <string name="bluetooth_and_wifi_stays_on_message">Уређај памти да не треба да искључује WiFi и Bluetooth у режиму рада у авиону. Искључите WiFi и Bluetooth ако не желите да остану укључени.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">WiFi и Bluetooth остају укључени</string>
     <string name="bluetooth_connected">Bluetooth аудио је повезан</string>
     <string name="bluetooth_disconnected">Веза са Bluetooth аудијом је прекинута</string>
-    <string name="bluetooth_enabled_apm_message">Ако одлучите да не искључујете Bluetooth, уређај ће запамтити да га не искључује следећи пут када будете у режиму рада у авиону</string>
-    <string name="bluetooth_enabled_apm_title">Bluetooth је укључен у режиму рада у авиону</string>
     <string name="bluetooth_map_settings_app_icon">Икона апликације</string>
     <string name="bluetooth_map_settings_cancel">Откажи</string>
     <string name="bluetooth_map_settings_count">Преосталих места:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">Желите ли да пошаљете клијенту захтев за прекид везе?</string>
     <string name="bluetooth_sap_notif_ticker">Приступ SIM картици преко Bluetooth-а</string>
     <string name="bluetooth_sap_notif_title">Приступ SIM картици преко Bluetooth-а</string>
-    <string name="bluetooth_stays_on_message">Уређај памти да не треба да искључује Bluetooth у режиму рада у авиону. Искључите Bluetooth ако не желите да остане укључен.</string>
-    <string name="bluetooth_stays_on_title">Bluetooth се не искључује</string>
     <string name="bt_Auracast_audio_share_notification_content">Додирните за приказ детаља</string>
     <string name="bt_Auracast_audio_share_notification_title">Емитовање звука са овог уређаја…</string>
     <string name="bt_audio_share_assistant_notification_title">Пријем емитовања са оближњег уређаја…</string>

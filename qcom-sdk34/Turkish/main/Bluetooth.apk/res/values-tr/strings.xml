@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">Obex kimlik doğrulama isteği</string>
     <string name="auth_notif_title">Oturum Anahtarı</string>
     <string name="bluetooth_a2dp_sink_queue_name">Ne Çalıyor?</string>
-    <string name="bluetooth_and_wifi_stays_on_message">"Cihazınız, uçak modundayken kablosuz bağlantıyı ve Bluetooth'u açık tutmayı hatırlar. Açık kalmasını istemiyorsanız kablosuz bağlantıyı ve Bluetooth'u kapatın."</string>
-    <string name="bluetooth_and_wifi_stays_on_title">Kablosuz bağlantı ve Bluetooth açık kalır</string>
     <string name="bluetooth_connected">Bluetooth ses bağlandı</string>
     <string name="bluetooth_disconnected">Bluetooth ses bağlantısı kesildi</string>
-    <string name="bluetooth_enabled_apm_message">Kablosuz bağlantıyı açık tutarsanız cihazınız, daha sonra tekrar uçak modunda olduğunuzda kablosuz bağlantıyı açık tutar</string>
-    <string name="bluetooth_enabled_apm_title">Uçak modundayken Bluetooth açık</string>
     <string name="bluetooth_map_settings_app_icon">Uygulama Simgesi</string>
     <string name="bluetooth_map_settings_cancel">İptal</string>
     <string name="bluetooth_map_settings_count">Kalan yuva sayısı:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">İstemciden bağlantıyı kesmesi istensin mi?</string>
     <string name="bluetooth_sap_notif_ticker">Bluetooth SIM Erişimi</string>
     <string name="bluetooth_sap_notif_title">Bluetooth SIM erişimi</string>
-    <string name="bluetooth_stays_on_message">"Cihazınız, uçak modundayken Bluetooth'u açık tutmayı hatırlar. Açık kalmasını istemiyorsanız Bluetooth'u kapatın."</string>
-    <string name="bluetooth_stays_on_title">Bluetooth açık kalır</string>
     <string name="bt_Auracast_audio_share_notification_content">Detayları görüntülemek için dokunun</string>
     <string name="bt_Auracast_audio_share_notification_title">Ses bu cihazdan yayınlanıyor…</string>
     <string name="bt_audio_share_assistant_notification_title">Yakındaki bir cihazdan yayın alınıyor…</string>

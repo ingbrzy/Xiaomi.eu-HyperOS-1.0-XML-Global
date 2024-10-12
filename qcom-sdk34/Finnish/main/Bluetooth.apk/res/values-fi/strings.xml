@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">Obex-todennuspyyntö</string>
     <string name="auth_notif_title">Käyttökerran avain</string>
     <string name="bluetooth_a2dp_sink_queue_name">Musiikintunnistus</string>
-    <string name="bluetooth_and_wifi_stays_on_message">Laitteen Wi-Fi-yhteys ja Bluetooth pysyvät päällä lentokonetilassa. Voit halutessasi laittaa ne pois päältä.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">Wi-Fi ja Bluetooth pysyvät päällä</string>
     <string name="bluetooth_connected">Bluetooth-ääni liitetty</string>
     <string name="bluetooth_disconnected">Bluetooth-ääni katkaistu</string>
-    <string name="bluetooth_enabled_apm_message">Jos pidät Bluetooth-yhteyden päällä, laite pitää sen päällä, kun seuraavan kerran olet lentokonetilassa</string>
-    <string name="bluetooth_enabled_apm_title">Bluetooth päällä lentokonetilassa</string>
     <string name="bluetooth_map_settings_app_icon">Sovelluskuvake</string>
     <string name="bluetooth_map_settings_cancel">Peruuta</string>
     <string name="bluetooth_map_settings_count">Paikkoja jäljellä:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">Pyydetäänkö asiakassovellusta katkaisemaan yhteys?</string>
     <string name="bluetooth_sap_notif_ticker">Bluetooth SIM -käyttö</string>
     <string name="bluetooth_sap_notif_title">Bluetooth SIM -käyttö</string>
-    <string name="bluetooth_stays_on_message">Laitteen Bluetooth pysyy päällä lentokonetilassa. Voit halutessasi laittaa Bluetooth-yhteyden pois päältä.</string>
-    <string name="bluetooth_stays_on_title">Bluetooth pysyy päällä</string>
     <string name="bt_Auracast_audio_share_notification_content">Näytä tiedot napauttamalla</string>
     <string name="bt_Auracast_audio_share_notification_title">Lähetetään ääntä tästä laitteesta…</string>
     <string name="bt_audio_share_assistant_notification_title">Lähetyksen vastaanottaminen lähellä olevalta laitteelta…</string>

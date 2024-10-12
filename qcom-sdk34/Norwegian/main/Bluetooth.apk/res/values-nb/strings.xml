@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">Autentiseringsforespørsel fra Obex</string>
     <string name="auth_notif_title">Øktsnøkkel</string>
     <string name="bluetooth_a2dp_sink_queue_name">Spilles nå</string>
-    <string name="bluetooth_and_wifi_stays_on_message">Enheten husker at wifi og Bluetooth skal være på i flymodus. Slå av wifi og Bluetooth hvis du ikke vil at de skal være på.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">Wifi og Bluetooth holdes påslått</string>
     <string name="bluetooth_connected">Bluetooth-lyd er tilkoblet</string>
     <string name="bluetooth_disconnected">Bluetooth-lyd er frakoblet</string>
-    <string name="bluetooth_enabled_apm_message">Hvis du lar Bluetooth være på, husker enheten dette til neste gang du bruker flymodus</string>
-    <string name="bluetooth_enabled_apm_title">Bluetooth er på i flymodus</string>
     <string name="bluetooth_map_settings_app_icon">Appikon</string>
     <string name="bluetooth_map_settings_cancel">Avbryt</string>
     <string name="bluetooth_map_settings_count">Plasser igjen:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">Vil du be klienten om å koble fra?</string>
     <string name="bluetooth_sap_notif_ticker">Bluetooth SIM Access</string>
     <string name="bluetooth_sap_notif_title">Bluetooth SIM access</string>
-    <string name="bluetooth_stays_on_message">Enheten husker at Bluetooth skal være på i flymodus. Slå av Bluetooth hvis du ikke vil at det skal være på.</string>
-    <string name="bluetooth_stays_on_title">Bluetooth blir værende på</string>
     <string name="bt_Auracast_audio_share_notification_content">Trykk for å vise detaljer</string>
     <string name="bt_Auracast_audio_share_notification_title">Kringkaster lyd fra denne enheten…</string>
     <string name="bt_audio_share_assistant_notification_title">Mottar en strømming fra en enhet i nærheten…</string>

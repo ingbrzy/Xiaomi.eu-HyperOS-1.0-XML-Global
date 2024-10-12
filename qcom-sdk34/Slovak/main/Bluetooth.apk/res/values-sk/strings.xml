@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">Žiadosť overenia Obex</string>
     <string name="auth_notif_title">Kľúč relácie</string>
     <string name="bluetooth_a2dp_sink_queue_name">Čo to hrá</string>
-    <string name="bluetooth_and_wifi_stays_on_message">Zariadenie si pamätá, aby v režime v lietadle nevypínalo Wi‑Fi ani Bluetooth. Ak ich nechcete ponechať zapnuté, vypnite ich.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">Wi‑Fi a Bluetooth zostanú zapnuté</string>
     <string name="bluetooth_connected">Rozhranie Bluetooth Audio je pripojené</string>
     <string name="bluetooth_disconnected">Rozhranie Bluetooth Audio je odpojené</string>
-    <string name="bluetooth_enabled_apm_message">Ak ponecháte rozhranie Bluetooth zapnuté, vaše zariadenie si zapamätá, že ho má ponechať zapnuté pri ďalšom aktivovaní režimu v lietadle</string>
-    <string name="bluetooth_enabled_apm_title">Rozhranie Bluetooth bude v režime v lietadle zapnuté</string>
     <string name="bluetooth_map_settings_app_icon">Ikona aplikácie</string>
     <string name="bluetooth_map_settings_cancel">Zrušiť</string>
     <string name="bluetooth_map_settings_count">Počet zostávajúcich slotov:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">Chcete požiadať klienta, aby sa odpojil?</string>
     <string name="bluetooth_sap_notif_ticker">Prístup k SIM karte prostredníctvom rozhrania Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Prístup k SIM karte prostredníctvom rozhrania Bluetooth</string>
-    <string name="bluetooth_stays_on_message">Zariadenie si pamätá, aby v režime v lietadle nevypínalo rozhranie Bluetooth. Ak ho nechcete ponechať zapnuté, vypnite ho.</string>
-    <string name="bluetooth_stays_on_title">Rozhranie Bluetooth zostane zapnuté</string>
     <string name="bt_Auracast_audio_share_notification_content">Ťuknutím zobraziť podrobnosti</string>
     <string name="bt_Auracast_audio_share_notification_title">Prenáša sa zvuk z tohto zariadenia…</string>
     <string name="bt_audio_share_assistant_notification_title">Prijímanie vysielania zo zariadenia v okolí…</string>

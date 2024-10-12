@@ -40,12 +40,8 @@
     <string name="auth_notif_ticker">Pedido de autenticação OBEX</string>
     <string name="auth_notif_title">Chave de sessão</string>
     <string name="bluetooth_a2dp_sink_queue_name">A tocar</string>
-    <string name="bluetooth_and_wifi_stays_on_message">O seu dispositivo lembra-se de manter o Wi-Fi e o Bluetooth ativados no modo de avião. Desative o Wi-Fi e o Bluetooth se não quiser que fiquem ativados.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">O Wi-Fi e o Bluetooth mantêm-se ativados</string>
     <string name="bluetooth_connected">Áudio Bluetooth ligado</string>
     <string name="bluetooth_disconnected">Áudio Bluetooth desligado</string>
-    <string name="bluetooth_enabled_apm_message">Se mantiver o Bluetooth ativado, o dispositivo vai lembrar-se de o manter ativado da próxima vez que estiver no modo de avião</string>
-    <string name="bluetooth_enabled_apm_title">Bluetooth ativado no modo de avião</string>
     <string name="bluetooth_map_settings_app_icon">Ícone de aplicação</string>
     <string name="bluetooth_map_settings_cancel">Cancelar</string>
     <string name="bluetooth_map_settings_count">Ranhuras restantes:</string>
@@ -60,8 +56,6 @@
     <string name="bluetooth_sap_notif_message">Pretende pedir ao cliente para desligar?</string>
     <string name="bluetooth_sap_notif_ticker">Acesso Bluetooth ao SIM</string>
     <string name="bluetooth_sap_notif_title">Acesso Bluetooth ao SIM</string>
-    <string name="bluetooth_stays_on_message">O seu dispositivo lembra-se de manter o Bluetooth ativado no modo de avião. Desative o Bluetooth se não quiser que fique ativado.</string>
-    <string name="bluetooth_stays_on_title">O Bluetooth mantém-se ativado</string>
     <string name="bt_Auracast_audio_share_notification_content">Toque para ver detalhes</string>
     <string name="bt_Auracast_audio_share_notification_title">A transmitir áudio deste dispositivo…</string>
     <string name="bt_audio_share_assistant_notification_title">A receber transmissão de um dispositivo próximo…</string>

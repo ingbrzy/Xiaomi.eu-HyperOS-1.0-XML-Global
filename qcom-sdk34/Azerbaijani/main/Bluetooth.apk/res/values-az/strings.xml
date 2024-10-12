@@ -37,12 +37,8 @@
     <string name="auth_notif_ticker">Obex təsdiqləmə sorğusu</string>
     <string name="auth_notif_title">Seans Açarı</string>
     <string name="bluetooth_a2dp_sink_queue_name">İndi Efirdə</string>
-    <string name="bluetooth_and_wifi_stays_on_message">Cihaz təyyarə rejimində Wi‑Fi və Bluetooth-u aktiv saxlayır. İstəmirsinizsə, Wi-Fi və Bluetooth-u deaktiv edin.</string>
-    <string name="bluetooth_and_wifi_stays_on_title">Wi-Fi və Bluetooth aktiv qalır</string>
     <string name="bluetooth_connected">Bluetooth audio bağlantısı yaradıldı</string>
     <string name="bluetooth_disconnected">Bluetooth audio ilə bağlantı kəsildi</string>
-    <string name="bluetooth_enabled_apm_message">Bluetooth aktiv qalarsa, cihaz növbəti dəfə təyyarə rejimində onu aktiv saxlayacaq</string>
-    <string name="bluetooth_enabled_apm_title">Bluetooth təyyarə rejimində aktivdir</string>
     <string name="bluetooth_map_settings_app_icon">Tətbiq ikonası</string>
     <string name="bluetooth_map_settings_cancel">Ləğv edin</string>
     <string name="bluetooth_map_settings_count">Qalmış slotlar:</string>
@@ -57,8 +53,6 @@
     <string name="bluetooth_sap_notif_message">Müştəri ayırmaq tələb?</string>
     <string name="bluetooth_sap_notif_ticker">Bluetooth SIM Access</string>
     <string name="bluetooth_sap_notif_title">Bluetooth SIM girişi</string>
-    <string name="bluetooth_stays_on_message">Cihaz təyyarə rejimində Bluetooth-u aktiv saxlayır. İstəmirsinizsə, Bluetooth-u deaktiv edin.</string>
-    <string name="bluetooth_stays_on_title">Bluetooth aktiv qalacaq</string>
     <string name="bt_enable_cancel">Ləğv et</string>
     <string name="bt_enable_line1">"Bluetooth xidmətlərindən istifadə etmək üçün ilk öncə Bluetooth'u yandırmalısınız."</string>
     <string name="bt_enable_line2">"İndi Bluetooth'u yandıraq?"</string>
