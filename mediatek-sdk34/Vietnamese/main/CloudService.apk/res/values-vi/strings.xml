@@ -188,9 +188,10 @@
     <string name="find_device_gdpr_prompt">Bằng cách bật Tìm thiết bị, bạn đồng ý với <u><a href="app://com.miui.cloudservice.gdpr.license">Chính sách Riêng tư</a></u> của chúng tôi. Tắt tính năng này nếu bạn muốn rút lại chấp thuận.</string>
     <string name="find_device_operation_failure_rpc">Thao tác thất bại do lỗi RPC.</string>
     <string name="find_device_permissions_footer">Chạm \"Cấp quyền\" để cấp quyền cho quyền được chọn.</string>
-    <string name="find_device_permissions_header">Chào mừng sử dụng Tìm thiết bị! Bạn có thể sử dụng ứng dụng này để định vị, theo dõi và khóa thiết bị của mình khi thiết bị bị đánh mất. Tìm thiết bị yêu cầu các quyền sau:</string>
+    <string name="find_device_permissions_header">Chào mừng sử dụng Tìm thiết bị! Bạn có thể sử dụng ứng dụng này để định vị, theo dõi và khóa thiết bị của mình khi bị mất. Bạn cũng có thể ẩn danh giúp người khác định vị thiết bị Xiaomi của họ. Ứng dụng này yêu cầu các quyền sau để hoạt động bình thường:</string>
     <string name="find_device_service_title">Tìm thiết bị</string>
-    <string name="find_device_status_summary">Định vị và khóa thiết bị của bạn, cũng như xóa dữ liệu từ xa</string>
+    <string name="find_device_status_summary">"Bật để định vị và theo dõi thiết bị của bạn hoặc xóa dữ liệu từ xa.
+Bạn cũng có thể ẩn danh giúp người khác định vị thiết bị Xiaomi của họ."</string>
     <string name="find_device_status_title_pad">Tìm thiết bị</string>
     <string name="find_device_status_title_phone">Tìm thiết bị</string>
     <string name="find_permission_location_summary">Để định vị thiết bị này</string>
@@ -413,7 +414,7 @@
     <string name="micloud_last_sync_canceled">Đồng bộ đã bị hủy. Hãy thử lại.</string>
     <string name="micloud_main_head_menu_cloud_backup">Sao lưu</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Tìm thiết bị không khả dụng trong Không gian thứ hai. Bạn có thể sử dụng trong Không gian thứ nhất.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">Mục đã xóa</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">Mục đã xóa gần đây</string>
     <string name="micloud_main_network_error">Không thể kết nối mạng</string>
     <string name="micloud_main_sync_mode_summary">Đồng bộ dữ liệu ứng dụng theo thời gian thực. Tiêu thụ pin sẽ tăng khi tính năng này được bật.</string>
     <string name="micloud_main_sync_mode_title">Đồng bộ nhanh</string>
@@ -633,6 +634,18 @@ Hãy chắc chắn rằng bạn đang sử dụng tài khoản Xiaomi được l
     <string name="noti_quota_low_title_without_button">Không đủ dung lượng lưu trữ đám mây</string>
     <string name="notification_sync_fail_title">Không thể đồng bộ mật khẩu</string>
     <string name="notification_update_key_text">Mật khẩu quản lý mật khẩu đã thay đổi. Xác minh mật khẩu mới.</string>
+    <string name="offline_find_action_open">Bật</string>
+    <string name="offline_find_checkbox_pref_summary_1">Định vị thiết bị này ngay cả khi thiết bị không được kết nối mạng và xem vị trí của các thiết bị ngoại tuyến khác. &lt;br/>&lt;font color=#0f84ff>Tìm hiểu thêm&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">Định vị thiết bị này ngay cả khi thiết bị đã tắt nguồn hoặc không được kết nối mạng và xem vị trí của các thiết bị ngoại tuyến khác. &lt;br/>&lt;font color=#0f84ff>Tìm hiểu thêm&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">Định vị ngoại tuyến</string>
+    <string name="offline_find_doing_disable">Đang tắt Định vị ngoại tuyến…</string>
+    <string name="offline_find_doing_enable">Đang bật Định vị ngoại tuyến…</string>
+    <string name="offline_find_function">Định vị ngoại tuyến</string>
+    <string name="offline_find_msg_to_open_1">Bật Định vị ngoại tuyến trên thiết bị này để có thể xem vị trí của các thiết bị ngoại tuyến khác.</string>
+    <string name="offline_find_msg_to_open_2">Xác minh thiết bị này là đáng tin cậy và bật Định vị ngoại tuyến để có thể xem vị trí của các thiết bị ngoại tuyến khác.</string>
+    <string name="offline_find_msg_to_open_3">Để bảo vệ bảo mật của dữ liệu, xác minh thiết bị này là đáng tin cậy trước khi bật Định vị ngoại tuyến.</string>
+    <string name="offline_find_title_to_open_1">Bật Định vị ngoại tuyến</string>
+    <string name="offline_find_title_to_open_2">Xác minh thiết bị này</string>
     <string name="open_service_title">Bật</string>
     <string name="pay_info_dialog_confirm_to_pay">Thanh toán %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Sử dụng Mi Coin còn lại: %s</string>
@@ -658,8 +671,8 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">Đã sao chép \"%1$s\" vào bảng nhớ tạm.</string>
     <string name="privacy_and_agreement">Điều khoản và Điều kiện</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">Chào mừng sử dụng Tìm thiết bị! Bạn có thể sử dụng dịch vụ này để định vị, khóa hoặc xóa dữ liệu trên thiết bị của mình nếu bị mất.</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">Chào mừng sử dụng Tìm thiết bị! Bạn có thể sử dụng dịch vụ này để định vị, khóa hoặc xóa dữ liệu trên thiết bị của mình nếu bị mất.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">Chào mừng sử dụng Tìm thiết bị! Bạn có thể sử dụng ứng dụng này để định vị, theo dõi và khóa thiết bị của mình khi bị mất. Bạn cũng có thể ẩn danh giúp người khác định vị thiết bị Xiaomi của họ.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">Chào mừng sử dụng Tìm thiết bị! Bạn có thể sử dụng ứng dụng này để định vị, theo dõi và khóa thiết bị của mình khi bị mất. Bạn cũng có thể ẩn danh giúp người khác định vị thiết bị Xiaomi của họ.</string>
     <string name="privacy_dialog_sync_all_purpose_china">Chào mừng sử dụng dịch vụ Xiaomi Cloud! Bạn có thể sử dụng Xiaomi Cloud để đồng bộ tin nhắn, liên hệ, ghi chú, cài đặt Trình duyệt, ảnh và video, cài đặt WLAN, ghi âm, bố trí Màn hình chính, ứng dụng, lịch sự kiện, mục Danh sách chặn, lịch sử cuộc gọi và App vault trên tất cả các thiết bị đã được kết nối.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Chào mừng sử dụng dịch vụ Xiaomi Cloud! Bạn có thể sử dụng Xiaomi Cloud để đồng bộ tin nhắn, liên hệ, ghi chú, cài đặt Trình duyệt, ảnh và video, cài đặt WLAN, ghi âm, bố trí Màn hình chính, ứng dụng, lịch sự kiện, mục Danh sách chặn, lịch sử cuộc gọi và App vault trên tất cả các thiết bị đã được kết nối.</string>
     <string name="privacy_dialog_sync_all_purpose_pad">Chào mừng sử dụng dịch vụ Xiaomi Cloud! Bạn có thể sử dụng ứng dụng này để đồng bộ tin nhắn, liên hệ, ghi chú, mục Trình duyệt, album đám mây, nhạc, lịch, danh sách chặn và lịch sử cuộc gọi lên đám mây.</string>

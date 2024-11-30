@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">Schakel Altijd-aan-display eerst in Instellingen in</string>
     <string name="apply_theme_with_ringtones">Themabeltonen gebruiken</string>
     <string name="apply_wallpaper_after_three_theme">U gebruikt momenteel een thema van derden. Als u uw Vergrendelscherm achtergrond wijzigt, kan dit ertoe leiden dat de klokstijl van het Vergrendelscherm wordt hersteld naar de standaardwaarde. Nu toepassen?</string>
+    <string name="apply_wallpaper_dialog_title">Achtergrond toepassen</string>
     <string name="apply_wallpaper_notice">Let op</string>
     <string name="apply_wallpaper_notice_cancel">Annuleren</string>
     <string name="apply_wallpaper_notice_content">Het momenteel toegepaste thema bevat een aangepaste Vergrendelschermmodule waardoor u mogelijk geen aanpassingen aan het Vergrendelscherm kunt maken.</string>
     <string name="apply_wallpaper_notice_lockscreen">Uw huidige thema bevat een aangepast Vergrendelscherm. We zullen het vervangen door het standaard Vergrendelscherm als u deze achtergrond toepast. Toch toepassen?</string>
     <string name="apply_wallpaper_notice_still_apply">Toepassen</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">U gebruikt nu een achtergrond-set. Als u een nieuw thema toepast, worden zowel de achtergronden van het Vergrendelscherm als van het Startscherm vervangen en wordt het Altijd-aan-display hersteld naar de vorige stijl. Toch toepassen?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">U gebruikt momenteel een Super achtergrond. Als u een nieuwe achtergrond selecteert, wordt deze toegepast op zowel uw Startscherm als uw Vergrendelscherm en wordt Altijd-aan-display hersteld naar de vorige instelling. Nu toepassen?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">U gebruikt nu een achtergrond-set. Als u een nieuw thema toepast, worden zowel de Vergrendelscherm- als de Startschermachtergronden vervangen. Toch toepassen?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">U gebruikt momenteel een Super achtergrond. Als u een nieuwe achtergrond selecteert, wordt deze toegepast op zowel uw Startscherm als uw Vergrendelscherm. Nu toepassen?</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">Luchtkwaliteitindex: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">Kon niet verbinden met het netwerk. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
     <string name="card_retry">Opnieuw proberen</string>
     <string name="carefully_chosen_wallpaper">Keuzes van de redactie</string>
+    <string name="carousel_no_set_wallpaper_effects">Kan geen effecten instellen als Achtergrondcarrousel aan staat</string>
     <string name="change_host_hint">Host veranderen</string>
     <string name="change_wallpaper">Achtergrond</string>
     <string name="channel_featured_page">Uitgelicht</string>
@@ -147,7 +151,12 @@
     <string name="clearable_edittext_clear_description">Opschonen</string>
     <string name="close">Afsluiten</string>
     <string name="columbus_ad_flag_text">Advertentie</string>
+    <string name="columbus_reward_style_access">Meer informatie</string>
+    <string name="columbus_reward_style_close_cancel">Afsluiten</string>
+    <string name="columbus_reward_style_close_desc">Beëindig het bekijken van de video om een beloning te krijgen. Blijf kijken?</string>
+    <string name="columbus_reward_style_speed_confirm">Doorgaan</string>
     <string name="columbus_skip_ad">Overslaan</string>
+    <string name="columbus_skip_ad_time">Overslaan (%d)</string>
     <string name="come_and_choose_wallpaper">Kies uit duizenden geweldige achtergronden</string>
     <string name="common_google_play_services_enable_button">Aanzetten</string>
     <string name="common_google_play_services_enable_text">%1$s werkt niet, tenzij je Google Play-services inschakelt.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Ochtend</string>
     <string name="editor_apply_message">"Deze functie wordt gebruikt voor debugging door ontwerpers. Het standaardthema wordt over een tijdje automatisch hersteld. Bestandspad van het huidige thema: "</string>
     <string name="editor_apply_toast">Selecteer handmatig temp.mtz in de hoofdmap</string>
+    <string name="effect_home">Startscherm effecten</string>
+    <string name="effect_lock">Vergrendelscherm-effecten</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Voer een e-mailadres in</string>
     <string name="eras_ad">n.C.</string>
@@ -422,6 +433,7 @@
     <string name="later">Niet nu</string>
     <string name="latest_wallpaper">Nieuw</string>
     <string name="limit_discount">Beperkt aanbod</string>
+    <string name="linked_wallpaper">Achtergrond-sets</string>
     <string name="live_wallpaper">Live achtergrond</string>
     <string name="live_wallpapers">Live achtergronden</string>
     <string name="loading">Een ogenblik geduld…</string>
@@ -650,14 +662,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Niet meer tonen</string>
     <string name="not_set">Niet ingesteld</string>
+    <string name="not_support_subtitle">Neem contact op met de IT-ondersteuning van uw organisatie of wissel van account</string>
+    <string name="not_support_title">"Kan geen Thema's gebruiken bij gebruik van een werkprofiel"</string>
     <string name="notifications_permission_confirm">Toestaan</string>
     <string name="notifications_permission_decline">Niet toestaan</string>
     <string name="notifications_permission_title">App toestaan om je meldingen te sturen?</string>
     <string name="notify_style">Meldingseffecten</string>
-    <string name="offline_notification_text">Tik om advertentie te openen</string>
-    <string name="offline_notification_title">De advertentie bekijken die je hebt opgeslagen toen je offline was</string>
+    <string name="offline_dialog_image_description">Icoon</string>
+    <string name="offline_dialog_text">"Bedankt voor je interesse.
+We delen meer zodra je weer online bent."</string>
+    <string name="offline_notification_title">Je bent weer online. Laten we verder gaan waar we waren gebleven.</string>
+    <string name="offline_notification_title_with_advertiser">Je bent weer online. Ga verder met leren over %s.</string>
     <string name="offline_opt_in_confirm">OK</string>
-    <string name="offline_opt_in_confirmation">Je krijgt een melding met de link als je weer online bent</string>
     <string name="offline_opt_in_decline">Nee, bedankt</string>
     <string name="offline_opt_in_message">We sturen je een melding met een link naar de site van de adverteerder.</string>
     <string name="offline_opt_in_title">Advertentie openen als je weer online bent</string>
@@ -679,6 +695,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">Deze mag u niet missen!</string>
     <string name="ota_theme_default_push_content2">Bekijk onze aanbevelingen</string>
     <string name="ota_theme_default_push_title">"Nieuwe thema's onderweg"</string>
+    <string name="out_wallpaper_list">Achtergrond van het buitenste scherm</string>
     <string name="password_toggle_content_description">Wachtwoord weergeven</string>
     <string name="pause_all">Alles pauzeren</string>
     <string name="pay_online">Online betaling</string>
@@ -975,13 +992,12 @@ mm"</string>
     <string name="saturday_short">Za</string>
     <string name="saturday_shortest">Za</string>
     <string name="scroll_switch">Veeg om tussen items te schakelen</string>
-    <string name="sdcard_not_mounted_dialog_message">"SD-kaart nu plaatsen.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">Geen SD-kaart gedetecteerd</string>
     <string name="search_color">Kleur</string>
     <string name="search_hint_header_text">Populaire woorden</string>
     <string name="search_menu_title">Zoeken</string>
     <string name="search_sort">Sorteren op</string>
+    <string name="search_update_guide_bubble">Nieuw</string>
+    <string name="search_update_guide_text">Ervaar geheel nieuwe zoekfuncties</string>
     <string name="select_all">Alles selecteren</string>
     <string name="selected_resource_file_invalid">Kan geselecteerde bronbestand niet gebruiken</string>
     <string name="send">Verzenden</string>
@@ -1035,12 +1051,14 @@ mm"</string>
     <string name="system_aod_dialog_message">Schakel Altijd-aan-display in om deze functie te kunnen gebruiken.</string>
     <string name="system_aod_dialog_positive_button">Instellingen</string>
     <string name="system_aod_dialog_title">Altijd-aan-display</string>
+    <string name="system_personalize_title">Personalisatie</string>
     <string name="system_phone">Gesprekken</string>
     <string name="system_precust">Voorgeïnstalleerd</string>
     <string name="text_billing_info">Factureringsinformatie</string>
     <string name="text_cancel_subscription_service">Dit abonnement nu opzeggen?</string>
     <string name="text_content_update">Dagelijks nieuwe inhoud</string>
     <string name="text_free_trial">Probeer gratis</string>
+    <string name="text_local_push_check">Bekijken</string>
     <string name="text_pay_monthly" formatted="false">Vanaf %s, wordt automatisch verlengd voor %s/maand tot annulering</string>
     <string name="text_pay_weekly" formatted="false">Vanaf %s, wordt automatisch verlengd voor %s/week tot annulering</string>
     <string name="text_pay_yearly" formatted="false">Vanaf %s, wordt automatisch verlengd voor %s/jaar tot annulering</string>
@@ -1291,7 +1309,7 @@ U kunt uw toestemming voor het Privacybeleid van Thema's op elk moment in de Ins
     <string name="wallpaper_group_sgn_mountain_title">Berg Siguniang</string>
     <string name="wallpaper_might_like">Achtergronden die u mogelijk leuk vindt</string>
     <string name="wallpaper_restore_defalut_push">Hersteld naar standaard</string>
-    <string name="wallpaper_scroll_type_tips">Scrol om achtergronden te bekijken</string>
+    <string name="wallpaper_scroll_type_tips">Achtergrond scrollen</string>
     <string name="wallpaper_set_as_both">Voor beiden instellen</string>
     <string name="wallpaper_set_as_desktop">Als Startscherm instellen</string>
     <string name="wallpaper_set_as_lockscreen">Als vergrendelscherm instellen</string>

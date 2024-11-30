@@ -933,8 +933,8 @@ Vous pouvez obtenir un essai gratuit de %d-jour maintenant!"</item>
         <item quantity="one">%1$d élément sécurisé</item>
     </plurals>
     <plurals name="title_app_update_cn">
-        <item quantity="other">"&lt;Data>Mettre à jour &lt;font color=#F22424>%d&lt;/font> l' applications&lt;/Data>"</item>
-        <item quantity="one">"&lt;Data>Mettre à jour &lt;font color=#F22424>%d&lt;/font> l' application&lt;/Data>"</item>
+        <item quantity="other">&lt;Data>"Mettre à jour &lt;font color=#F22424>%d&lt;/font> l' applications"&lt;/Data></item>
+        <item quantity="one">&lt;Data>"Mettre à jour &lt;font color=#F22424>%d&lt;/font> l' application"&lt;/Data></item>
     </plurals>
     <plurals name="title_virus_clean">
         <item quantity="other">%d virus effacés</item>

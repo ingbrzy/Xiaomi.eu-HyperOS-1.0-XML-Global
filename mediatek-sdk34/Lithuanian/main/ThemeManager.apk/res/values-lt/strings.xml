@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">Visų pirma parametrų skiltyje įjunkite funkciją „Visada ekrane“</string>
     <string name="apply_theme_with_ringtones">Naudoti temos skambėjimo garsus</string>
     <string name="apply_wallpaper_after_three_theme">Dabar naudojate trečiosios šalies temą. Jei pakeisite užrakto ekrano foną, tai gali pakeisti užrakto ekrano laikrodžio stilių į numatytąjį. Sutinkate?</string>
+    <string name="apply_wallpaper_dialog_title">Pritaikyti fono paveikslėlį</string>
     <string name="apply_wallpaper_notice">Dėmesio</string>
     <string name="apply_wallpaper_notice_cancel">Atšaukti</string>
     <string name="apply_wallpaper_notice_content">Šiuo metu taikomai temai yra pritaikytas užrakto ekrano modulis, kuris gali neleisti jums atlikti su užrakto ekranu susijusių koregavimų.</string>
     <string name="apply_wallpaper_notice_lockscreen">Jūsų dabartinėje temoje yra pasirinktinis užrakto ekranas. Pritaikius šį fono paveikslėlį, pakeisime jį numatytuoju užrakto ekranu. Vis tiek pritaikyti?</string>
     <string name="apply_wallpaper_notice_still_apply">Taikyti</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Dabar naudojate fono paveikslėlių rinkinį. Jei pritaikysite naują temą, bus pakeisti ir užrakto ekrano, ir pagrindinio ekrano paveikslėliai, o funkcija „visada ekrane“ bus atstatyta į ankstesnio stiliaus. Vis tiek pritaikyti?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Dabar naudojate superfoną. Jei pasirinksite naują foną, jis atsiras namų ir užrakto ekranuose, o „Visada ekrane“ bus atkurtas į ankstesnius parametrus. Sutinkate?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">Dabar naudojate fono paveikslėlių rinkinį. Jei pritaikysite naują temą, bus pakeisti ir užrakto ekrano, ir pagrindinio ekrano fono paveikslėliai. Vis tiek pritaikyti?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Dabar naudojate superfoną. Jei pasirinksite naują foną, jis atsiras namų ir užrakto ekranuose. Sutinkate?</string>
     <string name="aqi_format">OKI %s</string>
     <string name="aqi_format_desc">Oro kokybės indeksas: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">Nepavyko prisijungti prie tinklo. Patikrinkite tinklo parametrus ir bandykite dar kartą.</string>
     <string name="card_retry">Pakartoti</string>
     <string name="carefully_chosen_wallpaper">Redaktoriaus pasirinkimas</string>
+    <string name="carousel_no_set_wallpaper_effects">Negalima nustatyti efektų, kai įjungta „Fonų karuselė“</string>
     <string name="change_host_hint">Pakeisti host</string>
     <string name="change_wallpaper">Fono paveikslėlis</string>
     <string name="channel_featured_page">Rekomenduojama</string>
@@ -146,8 +150,13 @@
     <string name="clear_text_end_icon_content_description">Išvalyti tekstą</string>
     <string name="clearable_edittext_clear_description">Išvalyti</string>
     <string name="close">Uždaryti</string>
-    <string name="columbus_ad_flag_text">Reklama</string>
+    <string name="columbus_ad_flag_text">REKLAMA</string>
+    <string name="columbus_reward_style_access">Sužinoti daugiau</string>
+    <string name="columbus_reward_style_close_cancel">Išeiti</string>
+    <string name="columbus_reward_style_close_desc">Užbaikite žiūrėti vaizdo įrašą, kad gautumėte premiją. Tęsti žiūrėjimą?</string>
+    <string name="columbus_reward_style_speed_confirm">Tęsti</string>
     <string name="columbus_skip_ad">Praleisti</string>
+    <string name="columbus_skip_ad_time">Praleisti (%d)</string>
     <string name="come_and_choose_wallpaper">Pasirinkite iš tūkstančių nuostabių fono paveikslėlių</string>
     <string name="common_google_play_services_enable_button">Įgalinti</string>
     <string name="common_google_play_services_enable_text">„%1$s“ neveiks, jei neįgalinsite „Google Play“ paslaugų.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Rytas</string>
     <string name="editor_apply_message">"Ši funkcija naudojama taisyti klaidas dizaineriams. Numatytoji tema už kurio laiko bus automatiškai atkurta. Esamos temos failo kelias: "</string>
     <string name="editor_apply_toast">Šakniniame kataloge manualiai pasirinkite temp.mtz</string>
+    <string name="effect_home">Pagrindinio ekrano efektai</string>
+    <string name="effect_lock">Užrakto ekrano efektai</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Įveskite el. pašto adresą</string>
     <string name="eras_ad">m.e.</string>
@@ -422,6 +433,7 @@
     <string name="later">Ne dabar</string>
     <string name="latest_wallpaper">Naujas</string>
     <string name="limit_discount">Ribotas pasiūlymas</string>
+    <string name="linked_wallpaper">Fono paveikslėlių rinkiniai</string>
     <string name="live_wallpaper">Judantis fonas</string>
     <string name="live_wallpapers">Judantys fono paveikslėliai</string>
     <string name="loading">Sekundėlę…</string>
@@ -650,14 +662,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Daugiau neberodyti</string>
     <string name="not_set">Nenustatyta</string>
+    <string name="not_support_subtitle">Susisiekite su savo organizacijos IT pagalbos skyriumi arba perjunkite paskyras</string>
+    <string name="not_support_title">Kai naudoju darbinę paskyrą, negaliu naudotis temų programa</string>
     <string name="notifications_permission_confirm">Leisti</string>
     <string name="notifications_permission_decline">Neleisti</string>
     <string name="notifications_permission_title">Leisti programai siųsti jums pranešimus?</string>
     <string name="notify_style">Pranešimų efektai</string>
-    <string name="offline_notification_text">Palieskite, kad atidarytumėte skelbimą</string>
-    <string name="offline_notification_title">Peržiūrėkite skelbimą, kurį išsaugojote būdami neprisijungę</string>
+    <string name="offline_dialog_image_description">Piktograma</string>
+    <string name="offline_dialog_text">"Dėkojame, kad domitės.
+Pasidalysime daugiau informacijos, kai vėl prisijungsite."</string>
+    <string name="offline_notification_title">Vėl esate prisijungę! Tęskime nuo ten, kur baigėme</string>
+    <string name="offline_notification_title_with_advertiser">Vėl esate prisijungę! Toliau mokykitės apie „%s“</string>
     <string name="offline_opt_in_confirm">Gerai</string>
-    <string name="offline_opt_in_confirmation">Gausite pranešimą su nuoroda, kai vėl prisijungsite</string>
     <string name="offline_opt_in_decline">Ne, ačiū</string>
     <string name="offline_opt_in_message">Atsiųsime jums pranešimą su nuoroda į reklamuotojo svetainę.</string>
     <string name="offline_opt_in_title">Atidarykite skelbimą, kai vėl prisijungsite.</string>
@@ -679,6 +695,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">Nepraleiskite!</string>
     <string name="ota_theme_default_push_content2">Peržiūrėkite mūsų rekomendacijas</string>
     <string name="ota_theme_default_push_title">Naujos temos pakeliui</string>
+    <string name="out_wallpaper_list">Išorinio ekrano fonas</string>
     <string name="password_toggle_content_description">Rodyti slaptažodį</string>
     <string name="pause_all">Pristabdyti visus</string>
     <string name="pay_online">Mokėjimas internetu</string>
@@ -975,13 +992,12 @@ mm"</string>
     <string name="saturday_short">Št.</string>
     <string name="saturday_shortest">Št.</string>
     <string name="scroll_switch">Perbraukite, kad perjungtumėte elementus</string>
-    <string name="sdcard_not_mounted_dialog_message">"Įdėkite SD kortelę dabar.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">SD kortelė neaptikta</string>
     <string name="search_color">Spalvos</string>
     <string name="search_hint_header_text">Populiarūs žodžiai</string>
     <string name="search_menu_title">Ieškoti</string>
     <string name="search_sort">Rūšiuoti pagal</string>
+    <string name="search_update_guide_bubble">Naujas</string>
+    <string name="search_update_guide_text">Išbandykite visiškai naujas paieškos funkcijas</string>
     <string name="select_all">Pasirinkti visus</string>
     <string name="selected_resource_file_invalid">Pasirinkto išteklio failo naudojimas negalimas</string>
     <string name="send">Siųsti</string>
@@ -1035,12 +1051,14 @@ mm"</string>
     <string name="system_aod_dialog_message">Norėdami naudoti šią funkciją, įjunkite „Visada ekrane“</string>
     <string name="system_aod_dialog_positive_button">Parametrai</string>
     <string name="system_aod_dialog_title">Visada ekrane</string>
+    <string name="system_personalize_title">Suasmeninimas</string>
     <string name="system_phone">Skambučiai</string>
     <string name="system_precust">Iš anksto įdiegta</string>
     <string name="text_billing_info">Sąskaitų išrašymo informacija</string>
     <string name="text_cancel_subscription_service">Atšaukti prenumeratą dabar?</string>
     <string name="text_content_update">Naujas turinys kasdien</string>
     <string name="text_free_trial">Išbandykite nemokamai</string>
+    <string name="text_local_push_check">Peržiūrėti</string>
     <string name="text_pay_monthly" formatted="false">Nuo %s, automatiškai atnaujinama už %s per mėnesį iki atšaukimo</string>
     <string name="text_pay_weekly" formatted="false">Nuo %s, automatiškai atnaujinama už %s per savaitę iki atšaukimo</string>
     <string name="text_pay_yearly" formatted="false">Nuo %s, automatiškai atnaujinama už %s per metus iki atšaukimo</string>
@@ -1291,7 +1309,7 @@ mm"</string>
     <string name="wallpaper_group_sgn_mountain_title">Siguniangšanas</string>
     <string name="wallpaper_might_like">Fonai, kurie Jums galėtų patikti</string>
     <string name="wallpaper_restore_defalut_push">Atstatyti numatytuosius</string>
-    <string name="wallpaper_scroll_type_tips">Fono paveikslėlio pasukimas</string>
+    <string name="wallpaper_scroll_type_tips">Fono paveikslėlių slinktis</string>
     <string name="wallpaper_set_as_both">Nustatyti abu</string>
     <string name="wallpaper_set_as_desktop">Nustatyti kaip „pradžios ekraną“</string>
     <string name="wallpaper_set_as_lockscreen">Nustatyti kaip užrakto ekraną</string>

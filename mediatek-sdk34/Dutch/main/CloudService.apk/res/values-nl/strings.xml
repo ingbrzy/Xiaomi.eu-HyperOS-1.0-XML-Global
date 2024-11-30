@@ -188,9 +188,10 @@
     <string name="find_device_gdpr_prompt">Door Apparaat zoeken in te schakelen, gaat u akkoord met ons <u><a href="app://com.miui.cloudservice.gdpr.license">Privacybeleid</a></u>. Schakel deze functie uit als u uw toestemming wilt intrekken.</string>
     <string name="find_device_operation_failure_rpc">Door een RPC-fout kon de operatie niet worden uitgevoerd.</string>
     <string name="find_device_permissions_footer">Tik op \"Verlenen\" om de door u geselecteerde toestemmingen te verlenen.</string>
-    <string name="find_device_permissions_header">Welkom bij Apparaat zoeken! U kunt deze app gebruiken om uw apparaat te lokaliseren, te volgen en te vergrendelen wanneer het kwijt is. Apparaat zoeken vereist de volgende toestemmingen:</string>
+    <string name="find_device_permissions_header">Welkom bij Apparaat zoeken! U kunt deze app gebruiken om uw apparaat te lokaliseren, volgen en vergrendelen wanneer het kwijt is. U kunt ook anoniem anderen helpen hun Xiaomi apparaten te lokaliseren. Deze app vereist de volgende toestemmingen om normaal te werken:</string>
     <string name="find_device_service_title">Apparaat zoeken</string>
-    <string name="find_device_status_summary">Lokaliseer en vergrendel uw apparaat en wis gegevens op afstand</string>
+    <string name="find_device_status_summary">"Schakel deze optie in om uw apparaat te lokaliseren en volgen of om de gegevens op afstand te wissen.
+U kunt ook anoniem anderen helpen hun Xiaomi apparaten te lokaliseren."</string>
     <string name="find_device_status_title_pad">Apparaat zoeken</string>
     <string name="find_device_status_title_phone">Apparaat zoeken</string>
     <string name="find_permission_location_summary">Voor het lokaliseren van dit apparaat</string>
@@ -413,7 +414,7 @@
     <string name="micloud_last_sync_canceled">Synchroniseren is geannuleerd. Probeer het opnieuw.</string>
     <string name="micloud_main_head_menu_cloud_backup">Back-ups</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Apparaat zoeken is niet beschikbaar in Tweede ruimte. U kunt dit gebruiken in Eerste ruimte.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">Verwijderde items</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">Recent verwijderde items</string>
     <string name="micloud_main_network_error">Kan geen verbinding maken met het netwerk</string>
     <string name="micloud_main_sync_mode_summary">Synchroniseer live app-gegevens. Stroomverbruik zal hoger zijn wanneer deze functie ingeschakeld is.</string>
     <string name="micloud_main_sync_mode_title">Snel synchroniseren</string>
@@ -633,6 +634,18 @@ Zorg ervoor dat u het bijbehorende Xiaomi Account gebruikt als uw systeemaccount
     <string name="noti_quota_low_title_without_button">Niet genoeg cloud opslag</string>
     <string name="notification_sync_fail_title">Kon wachtwoorden niet synchroniseren</string>
     <string name="notification_update_key_text">Wachtwoordbeheerder wachtwoord gewijzigd. Verifieer het nieuwe wachtwoord.</string>
+    <string name="offline_find_action_open">Inschakelen</string>
+    <string name="offline_find_checkbox_pref_summary_1">Lokaliseer dit apparaat, zelfs als het niet is verbonden met het netwerk, en bekijk de locatie van andere offline apparaten. &lt;br/>&lt;font color=#0f84ff>Meer informatie&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">Lokaliseer dit apparaat, zelfs als het is uitgeschakeld of niet is verbonden met het netwerk, en bekijk de locatie van andere offline apparaten. &lt;br/>&lt;font color=#0f84ff>Meer informatie&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">Offline locatie</string>
+    <string name="offline_find_doing_disable">Offline locatie uitschakelen…</string>
+    <string name="offline_find_doing_enable">Offline locatie inschakelen…</string>
+    <string name="offline_find_function">Offline locatie</string>
+    <string name="offline_find_msg_to_open_1">Schakel Offline locatie in op dit apparaat om de locatie van andere offline apparaten te kunnen bekijken.</string>
+    <string name="offline_find_msg_to_open_2">Verifieer of dit apparaat vertrouwd is en schakel Offline locatie in om de locatie van andere offline apparaten te kunnen bekijken.</string>
+    <string name="offline_find_msg_to_open_3">Om de veiligheid van uw gegevens te beschermen, moet u verifiëren of dit apparaat betrouwbaar is voordat u Offline locatie inschakelt.</string>
+    <string name="offline_find_title_to_open_1">Offline locatie inschakelen</string>
+    <string name="offline_find_title_to_open_2">Verifieer dit apparaat</string>
     <string name="open_service_title">Inschakelen</string>
     <string name="pay_info_dialog_confirm_to_pay">Betaal %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Gebruik de resterende Mi Coins: %s</string>
@@ -658,8 +671,8 @@ Locatie info wordt mogelijk niet gerapporteerd wanneer de netwerkverbinding slec
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="privacy_and_agreement">Algemene voorwaarden</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">Welkom bij Apparaat zoeken! U kunt deze service gebruiken om gegevens op uw apparaat te lokaliseren, te vergrendelen of te wissen als deze verloren zijn.</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">Welkom bij Apparaat zoeken! U kunt deze service gebruiken om gegevens op uw apparaat te lokaliseren, te vergrendelen of te wissen als deze verloren zijn.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">Welkom bij Apparaat zoeken! U kunt deze app gebruiken om uw apparaat te lokaliseren, volgen en vergrendelen wanneer het kwijt is. U kunt ook anoniem anderen helpen hun Xiaomi apparaten te lokaliseren.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">Welkom bij Apparaat zoeken! U kunt deze app gebruiken om uw apparaat te lokaliseren, volgen en vergrendelen wanneer het kwijt is. U kunt ook anoniem anderen helpen hun Xiaomi apparaten te lokaliseren.</string>
     <string name="privacy_dialog_sync_all_purpose_china">"Welkom bij Xiaomi Cloud services! U kunt Xiaomi Cloud gebruiken om uw berichten, contacten, notities, Browserinstellingen, foto's en video's, WLAN-instellingen, opnames, Startscherm lay-out, apps, kalendergebeurtenissen, Blokkeerlijst-items, belgeschiedenis en App-kluis te synchroniseren voor alle verbonden apparaten."</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">"Welkom bij Xiaomi Cloud services! U kunt Xiaomi Cloud gebruiken om uw berichten, contacten, notities, Browserinstellingen, foto's en video's, WLAN-instellingen, opnames, Startscherm lay-out, apps, kalendergebeurtenissen, Blokkeerlijst-items, belgeschiedenis en App-kluis te synchroniseren voor alle verbonden apparaten."</string>
     <string name="privacy_dialog_sync_all_purpose_pad">Welkom bij Xiaomi Cloud services! U kunt deze app gebruiken om uw berichten, contacten, notities, Browseritems, cloud albums, muziek, kalender, blokkeerlijst en belgeschiedenis naar de cloud te synchroniseren.</string>

@@ -188,6 +188,7 @@
     <string name="alert_back_milink_hangup_tips_content_vb">Когато екрана е изключен, приложението ще работи във фонов режим без да прекъсва прожекцията. Натиснете Бутона за Включване, за да включите отново екрана.</string>
     <string name="all_address_choose_hint">Всички номера от този регион</string>
     <string name="allow_all">Разреши на всички</string>
+    <string name="allow_device_id_access">Избор на приложения, които могат да ползват ID на устройството</string>
     <string name="allow_onetime">Разреши веднъж</string>
     <string name="already_close_gamebooster">Ускорителят на игри е изключен.</string>
     <string name="am">AM</string>
@@ -224,8 +225,8 @@
     <string name="antivirus_privacy_dialog_cloudscan">Качване на имена и детайли за прил.</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">За да можем да засичаме и неутрализираме вируси по-успешно, ние ще качваме имената и свойствата на пакетите от приложения, за да ги сканираме чрез облачните услуги.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
-    <string name="antivirus_privacy_dialog_summary">&lt;Data>Тази услуга се предоставя от антивирусна програма от трета страна. За да научите повече прочетете &lt;a href=\"%1$s\">Споразумението за лиценз&lt;/a> предоставено от третата страна.&lt;/Data></string>
-    <string name="antivirus_privacy_dialog_summary_kddi">&lt;Data>Когато извършвате сканиране за сигурност, модела на вашето устройство и резултатите от сканирането ще бъдат качени в %1$s сървъри и използвани съобразно съответните &lt;a href=\"%2$s\">правила и условия&lt;/a>.&lt;br/>&lt;br/>Прочетете и приемете правилата и условията на %3$s преди да извършите сканиране за сигурност.&lt;br/>&lt;br/>Ако не приемете да качите данни в %4$s сървъри, все още ще можете да използвате дефинициите за вирус съхранявани локално във вашето устройство.&lt;/Data></string>
+    <string name="antivirus_privacy_dialog_summary"><Data>Тази услуга се предоставя от антивирусна програма от трета страна. За да научите повече прочетете &lt;a href=\"%1$s\">Споразумението за лиценз&lt;/a> предоставено от третата страна.</Data></string>
+    <string name="antivirus_privacy_dialog_summary_kddi"><Data>Когато извършвате сканиране за сигурност, модела на вашето устройство и резултатите от сканирането ще бъдат качени в %1$s сървъри и използвани съобразно съответните &lt;a href=\"%2$s\">правила и условия&lt;/a>.&lt;br/>&lt;br/>Прочетете и приемете правилата и условията на %3$s преди да извършите сканиране за сигурност.&lt;br/>&lt;br/>Ако не приемете да качите данни в %4$s сървъри, все още ще можете да използвате дефинициите за вирус съхранявани локално във вашето устройство.</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Правила за поверителност</string>
     <string name="antivirus_privacy_dialog_title">Правила за поверителност</string>
     <string name="antivirus_privacy_dialog_title_kddi">Правила и условия</string>
@@ -666,7 +667,7 @@
     <string name="auto_task_operation_string_comma">,</string>
     <string name="auto_task_operation_string_etc">, и др.</string>
     <string name="auto_task_operation_string_split">;</string>
-    <string name="auto_task_operation_sync">Синхронизиране сега</string>
+    <string name="auto_task_operation_sync">Синхронизация</string>
     <string name="auto_task_operation_vibration">Вибрация</string>
     <string name="auto_task_operation_wifi">Wi-Fi</string>
     <string name="auto_task_result_summary_text">Настройте автоматични задачи за Икономия на батерия</string>
@@ -935,6 +936,7 @@
     <string name="button_text_let_me_select">Разбрах</string>
     <string name="button_text_next_step">Напред</string>
     <string name="button_text_next_step_timer">Напред (%d)</string>
+    <string name="button_text_once_accept">Разреши веднъж</string>
     <string name="button_text_open_now">Отвори</string>
     <string name="button_text_reject">Откажи</string>
     <string name="button_text_trust">Доверявам се на тази мрежа</string>
@@ -1147,6 +1149,7 @@
     <string name="create_shortcut">Създайте пряк път на Началния екран за Game Turbo</string>
     <string name="cs_color_sense">Температура на цвета</string>
     <string name="cs_conversation_record_using">Записване</string>
+    <string name="cs_func_toast_bluetooth_headset">Изключете Bluetooth слушалките, за да можете да използвате тази функция</string>
     <string name="cs_func_toast_headset">Изключете слушалките си, за да можете да използвате тази функция</string>
     <string name="cs_func_toast_light">Превключете към предната камера, за да можете да използвате тази функция</string>
     <string name="cs_func_toast_pickup">Превключете към видео разговор, за да можете да използвате тази функция</string>
@@ -1177,6 +1180,7 @@
     <string name="cs_tool_box_phone_guide_case_1">Опитайте симултанен превод и други функции в новата Кутия с инструменти за повиквания</string>
     <string name="cs_tool_box_phone_guide_case_2">Изпробвайте набор от функции в новата Кутия с инструменти за повиквания</string>
     <string name="cs_voice_print">Запишете гласов отпечатък</string>
+    <string name="cs_voice_search">Гласов отпечатък</string>
     <string name="cs_vt_camera_toast_case1">Отворете камерата в текущото приложение</string>
     <string name="cs_vt_camera_toast_case2">Няма съвместими устройства наблизо</string>
     <string name="cta_agree_desc">За да можете да използвате нашите услуги, разрешете на това приложение достъп до интернет, както и изброените по-горе разрешения.</string>
@@ -1267,10 +1271,26 @@
     <string name="descx_quick_scan_preparation">Момент…</string>
     <string name="detail_app_button">Детайли</string>
     <string name="details_subtitle">Детайли за употреба</string>
+    <string name="device_id">Идентификация на Вашето устройство за получаване на персонализирани препоръки</string>
+    <string name="device_id_app_manager_dialog_continue">Не спирай</string>
+    <string name="device_id_app_manager_dialog_message">Разрешихте на някои приложения да проследяват дейностите Ви. Можете да спрете проследяването сега.</string>
+    <string name="device_id_app_manager_dialog_stop">Спри</string>
+    <string name="device_id_app_manager_switch_sub_title">Когато тази функция е изключена, всички нови заявки за проследяване ще бъдат отхвърлени автоматично</string>
+    <string name="device_id_app_manager_switch_title">Разрешете на приложенията да изискват проследяване</string>
+    <string name="device_id_app_manager_tips">Приложенията могат да проследяват Вашите дейности в различни приложения и уебсайтове, като използват идентификатори за проследяване, за да предоставят персонализирани рекламни препоръки и други функции</string>
+    <string name="device_id_app_manager_title">Управление на проследяването на приложението</string>
+    <string name="device_id_manager_tips">Системата предоставя нулираеми идентификатори за проследяване (PAID) на приложения вместо идентификатори на устройства, за да защити Вашата поверителност</string>
+    <string name="device_id_manager_title">Управление на идентификатора за проследяване</string>
+    <string name="device_id_reset">Нулиране на идентификатора за проследяване</string>
+    <string name="device_id_reset_msg">След нулиране, нов идентификатор ще бъде свързан с това устройство.</string>
+    <string name="device_id_str">Текущ идентификатор за проследяване: %s</string>
     <string name="device_manager_apply_step_1">Да се активират ли администраторски права за това приложение?</string>
     <string name="device_manager_apply_step_2">"Активирането на административен достъп за това приложение може да направи незащитена Вашата лична информация. 
 Цялата Ваша информация бъде изтрита и паролата за заключен екран ще бъде нулирана."</string>
     <string name="device_manager_apply_step_3">Уверете се, че разбирате рисковете, преди да продължите. Да се активират ли администраторски права за това приложение?</string>
+    <string name="device_oaid">Управление на виртуално ID</string>
+    <string name="device_oaid_desc">Вместо вашия уникален идентификатор, системата ще ви предостави виртуално ID (OAID) към инсталираните приложения. То предотвратява проследяването на поведението и препочитанията ви от приложенията и защитава вашите лични данни.</string>
+    <string name="device_oaid_title">Виртуално ID</string>
     <string name="dialog_app_roaming_message">%1$s не може да използва мобилни данни при роуминг. Когато сте в условия на международен роуминг, само добавените в списъка с изключения приложения ще могат да използват услугите за данни.</string>
     <string name="dialog_app_roaming_title">Междунардният роуминг не е активиран за %1$s</string>
     <string name="dialog_change_package_type_summary">Промяната на вида план за данни ще нулира всички Ваши настройки (напр. ограничения за данни) до техните стойности по подразбиране. Да се промени ли вида план за данни сега?</string>
@@ -1408,12 +1428,12 @@
     <string name="exit">Изход</string>
     <string name="exit_dialog_exit">Изход</string>
     <string name="exit_dialog_garbage_clean_message">Средната стойност на отпадъци във вашия телефон е повече от %s. Да се почисти ли сега?</string>
-    <string name="exit_dialog_garbage_clean_message_new">&lt;Data>Чистача може да освободи &lt;font color=#0099ff>%s&lt;/font> от пространството. Желаете ли да изчистите сега?&lt;/Data></string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>Чистача може да освободи &lt;font color=#0099ff>%s&lt;/font> от пространството. Желаете ли да изчистите сега?</Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">Почисти</string>
     <string name="exit_dialog_garbage_clean_title">Освободете пространство</string>
     <string name="exit_dialog_homepage_optimise_message">Производителността на вашето устройство е по-ниска от 80 точки. Да се оптимизира ли сега?</string>
     <string name="exit_dialog_release_memory_positive_button">Затваряне</string>
-    <string name="exit_dialog_release_memory_title_new">&lt;Data>Ускорете устройството си с &lt;font color=#0099ff>%s&lt;/font>&lt;/Data></string>
+    <string name="exit_dialog_release_memory_title_new"><Data>Ускорете устройството си с &lt;font color=#0099ff>%s&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">Повече от 80% от паметта на Вашето устройство е запълнена. Освободете място като деинсталирате приложения, които никога не използвате.</string>
     <string name="exit_dialog_release_storage_message_new">Повече от %s от паметта на Вашето устройство е запълнена. Освободете място като деинсталирате приложения, които никога не използвате.</string>
     <string name="exit_dialog_release_storage_positive_button">Освободи място</string>
@@ -1730,7 +1750,7 @@
     <string name="game_wid_viewpoint_buttom">Направи кратка почивка.</string>
     <string name="gamebooster_confirm_dialog_negative_btn">Не приемам</string>
     <string name="gamebooster_confirm_dialog_positive_btn">Приемам</string>
-    <string name="gamebooster_confirm_dialog_tip">&lt;Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Privacy Policy&lt;/a>&lt;/Data></string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Privacy Policy&lt;/a></Data></string>
     <string name="gamebooster_confirm_dialog_title">Приемете нашите Правила за поверителност</string>
     <string name="gamebooster_dialog_recover">Поднови</string>
     <string name="gamebooster_dialog_start_booster">Начало</string>
@@ -1859,8 +1879,8 @@
     <string name="gb_audition_play_instruction">За най-добър ефект използвайте слушалки</string>
     <string name="gb_award_noti_message">Активирайте Играй за Мир обновления във фонов режим в Game Turbo, за да получавате награди</string>
     <string name="gb_award_noti_title">Наградите Играй за Мир са тук!</string>
-    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Не можете да превключвате към Балансиран режим в Game Turbo, когато режимът Ultimate за цялата система е включен. Можете да промените настройките на батерията в Сигурност.&lt;br>&lt;a href=\"#\">Отвори Сигурност&lt;/a>&lt;/Data></string>
-    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Не можете да превключвате към Балансиран режим в Game Turbo, когато режимът Ultimate за цялата система е включен. Можете да промените настройките на батерията в Сигурност. &lt;br>&lt;a href=\"#\">Отвори Сигурност&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>Не можете да превключвате към Балансиран режим в Game Turbo, когато режимът Ultimate за цялата система е включен. Можете да промените настройките на батерията в Сигурност.&lt;br>&lt;a href=\"#\">Отвори Сигурност&lt;/a></Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>Не можете да превключвате към Балансиран режим в Game Turbo, когато режимът Ultimate за цялата система е включен. Можете да промените настройките на батерията в Сигурност. &lt;br>&lt;a href=\"#\">Отвори Сигурност&lt;/a></Data></string>
     <string name="gb_bar_high">Висока</string>
     <string name="gb_bar_low">Ниска</string>
     <string name="gb_bar_mid">Средна</string>
@@ -1988,7 +2008,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="gb_new_feature">Нова услуга</string>
     <string name="gb_not_support_on_device">"This app can't be used on the outer screen"</string>
     <string name="gb_operat_frequently">Не толкова бързо!</string>
-    <string name="gb_performace_guide_disable_desc">&lt;Data>Не можете да превключите към Балансиран режим в Game Turbo при включен Режим Производителност. Можете да промените настройките на батерията в Настройките.&lt;br>&lt;a href=\"#\">Отваряне на Сигурност&lt;/a>&lt;/Data></string>
+    <string name="gb_performace_guide_disable_desc"><Data>Не можете да превключите към Балансиран режим в Game Turbo при включен Режим Производителност. Можете да промените настройките на батерията в Настройките.&lt;br>&lt;a href=\"#\">Отваряне на Сигурност&lt;/a></Data></string>
     <string name="gb_performace_switch_toast">Преминахте към Режим Производителност. Възможно е устройството Ви да се нагрее и да консумира повече енергия.</string>
     <string name="gb_performace_tips_button">Превключване</string>
     <string name="gb_performace_tips_title">Преминете към Режим Производителност за по-добро преживяване</string>
@@ -2005,7 +2025,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="gb_predownload_dialog_cancel">Не, благодаря</string>
     <string name="gb_predownload_dialog_checked">Не показвай отново</string>
     <string name="gb_predownload_dialog_confirm">Включи</string>
-    <string name="gb_predownload_dialog_message_china">&lt;Data>Обновено съдържание за тази игра може да бъде изтеглено в това устройство автоматично след като се свържете към WLAN и изключите екрана. По този начин ще можете да използвате новата версия веднага щом излезе.&lt;br>&lt;br>Прочетете и приемете &lt;a href=\"%1$s\">Изявлението за фонови обновления&lt;/a> преди да използвате тази функция.&lt;/Data></string>
+    <string name="gb_predownload_dialog_message_china"><Data>Обновено съдържание за тази игра може да бъде изтеглено в това устройство автоматично след като се свържете към WLAN и изключите екрана. По този начин ще можете да използвате новата версия веднага щом излезе.&lt;br>&lt;br>Прочетете и приемете &lt;a href=\"%1$s\">Изявлението за фонови обновления&lt;/a> преди да използвате тази функция.</Data></string>
     <string name="gb_predownload_dialog_title">Вече са налични фонови обновления</string>
     <string name="gb_predownload_message_new">Обновявайте съвместимите игри автоматично докато не използвате устройството</string>
     <string name="gb_predownload_noti_message">%2$1.2f GB от обновено съдържание са вече в това устройство. Ще можете да го използвате след излизането на новата версия.</string>
@@ -2182,7 +2202,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="gd_sidebar_edit_quick_title">Преки пътища</string>
     <string name="gd_sidebar_long_press_tips">Натиснете и задръжте индикатора, за да го преместите докато държите устройството вертикално</string>
     <string name="gd_splite_screen_tips">Разделен екран не поддържа плаващи прозорци</string>
-    <string name="gdpr_msg">&lt;Data>За да можем да засичаме рискове за сигурността и да защитаваме вашите данни трябва да събираме задължително количество информация за вашето устройство. Прочетете и приемете нашите &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Правила за поверителност&lt;/a> преди да използвате нашите услуги. В случай, че решите, че не желаете да споделяте подобна информация с нас, все още ще можете да използвате това приложение, но някои от функциите му няма да са достъпни. &lt;/Data></string>
+    <string name="gdpr_msg"><Data>За да можем да засичаме рискове за сигурността и да защитаваме вашите данни трябва да събираме задължително количество информация за вашето устройство. Прочетете и приемете нашите &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Правила за поверителност&lt;/a> преди да използвате нашите услуги. В случай, че решите, че не желаете да споделяте подобна информация с нас, все още ще можете да използвате това приложение, но някои от функциите му няма да са достъпни. </Data></string>
     <string name="get_detail_by_click">Натиснете за подробности</string>
     <string name="get_phone_num_fail">Неизвестен номер</string>
     <string name="get_sys_info">Заявка за информация…</string>
@@ -2289,11 +2309,11 @@ Xiaomi Gaming Cooler"</string>
     <string name="gtb_dialog_btn_open">Включване</string>
     <string name="gtb_dialog_hint_smart_5g">Можете да включвате и изключвате тази функция в Game Turbo > Настройки.</string>
     <string name="gtb_dialog_privacy_speed_message">Ще използвате Xunyou Ускоряване на Игри. Тази услуга ще получи достъп до Вашия Номер на Xiaomi Профил, за да записва продължителността на Вашето членство.</string>
-    <string name="gtb_dialog_privacy_speed_tips">&lt;Data>Прочетох и приемам &lt;a href=\"%1$s\">Правилата за поверителност&lt;/a> на Xunyou Ускоряване на Игри.&lt;/Data></string>
-    <string name="gtb_dialog_privacy_speed_tips_new">"&lt;Data>I've read and agreed to the Xunyou Game Booster &lt;a href=\"%1$s\">Privacy Policy&lt;/a>.&lt;/Data>"</string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>Прочетох и приемам &lt;a href=\"%1$s\">Правилата за поверителност&lt;/a> на Xunyou Ускоряване на Игри.</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"I've read and agreed to the Xunyou Game Booster &lt;a href=\"%1$s\">Privacy Policy&lt;/a>."</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou Ускоряване на Игри</string>
     <string name="gtb_dialog_privacy_voice_message">Ще използвате Xunyou Промяна на Гласа в Игри. Тази услуга ще получи достъп до Вашия Номер на Xiaomi Профил, за да записва продължителността на Вашето членство.</string>
-    <string name="gtb_dialog_privacy_voice_tips">&lt;Data>Прочетох и приемам &lt;a href=\"%1$s\">Правилата за поверителност&lt;/a> на Xunyou Промяна на Гласа в Игри.&lt;/Data></string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>Прочетох и приемам &lt;a href=\"%1$s\">Правилата за поверителност&lt;/a> на Xunyou Промяна на Гласа в Игри.</Data></string>
     <string name="gtb_dialog_privacy_voice_title">Xunyou Промяна на Гласа в Игри</string>
     <string name="gtb_dialog_summary_smart_5g">Когато Game Turbo открие 5G мрежа, ще може да свързва вашето устройство към най-силната налична мрежа, с цел намаляване на мрежовото забавяне. Желаете ли да включите тази функция сега?</string>
     <string name="gtb_dialog_title_smart_5g">Оптимизация на 5G мрежата</string>
@@ -3061,9 +3081,12 @@ to join our egg hunt!"</string>
     <string name="numeric_recording_intro_header">Въведете парола</string>
     <string name="numeric_retry_button_text">Отказ</string>
     <string name="numeric_settings_help_how_to_record">Как да зададете PIN</string>
+    <string name="oaid_apps_summary">Разрешете или ограничете достъпа за определени приложения</string>
     <string name="oaid_apps_title">Управление на виртуално ID</string>
     <string name="oaid_reset_content_tip">Ако изключите виртуалното ID сега, някои приложения може да спрат да функционират правилно, а част от вашите данни за приложения може да бъдат изгубени или да станат неизползваеми.</string>
     <string name="oaid_reset_final_tip">Желаете ли да изключите виртуалното ID въпреки това?</string>
+    <string name="oaid_string">"Текущо виртуално ID:
+%1s"</string>
     <string name="oaid_tips_content">Виртуалните ID (OAID) могат да бъдат използвани за следене на Вашето поведение и персонализация на рекламите за Вас. Можете да изберете кои приложения да получават достъп до Вашето виртуално ID. Забележете, че ако ограничите достъпа, препоръките за реклами може да станат незначителни и е възможно някои приложения да не работят правилно.</string>
     <string name="ok">ОК</string>
     <string name="ok_button">ОК</string>
@@ -3200,6 +3223,7 @@ to join our egg hunt!"</string>
     <string name="pc_batery_protection">Защита на батерията</string>
     <string name="pc_battery_charge_protect">Защита от зареждане</string>
     <string name="pc_battery_chart_loading">Момент…</string>
+    <string name="pc_battery_date_year_month_format">MMM yyyy</string>
     <string name="pc_battery_detail_curve_reference_now">Сега</string>
     <string name="pc_battery_detail_device_item_title">Статистика за разхода на батерия</string>
     <string name="pc_battery_health_revise_title">Калибрирайте информацията за здравето на батерията</string>
@@ -3232,7 +3256,7 @@ to join our egg hunt!"</string>
     <string name="pc_camera_printer_notify_subtitle">Свързано</string>
     <string name="pc_camera_printer_title">Комплект фотопринтер</string>
     <string name="pc_category_charge_settings">Настройки на зареждане</string>
-    <string name="pc_charge_mode_low_power_fast_speed">Нисък волтаж</string>
+    <string name="pc_charge_mode_low_power_fast_speed">Ускори</string>
     <string name="pc_charge_mode_low_power_fast_speed_tips">Устройството може да се нагрее</string>
     <string name="pc_charge_mode_standard">Стандартно</string>
     <string name="pc_charge_mode_topspeed">Най-висока скорост</string>
@@ -3263,6 +3287,7 @@ to join our egg hunt!"</string>
     <string name="pc_continuity_open_save_mode_notifi_sumary">%1$s батерията е по-малко от %2$s. Включете Икономия на батерия, за да добавите %3$s %4$s.</string>
     <string name="pc_continuity_open_save_mode_notifi_title">%s батерията е изтощена</string>
     <string name="pc_current_power_mode">Настоящ режим</string>
+    <string name="pc_cycle_count_protect_title">Цикли</string>
     <string name="pc_emergency_call">Спешност</string>
     <string name="pc_endurance_calculation">Изчисляване…</string>
     <string name="pc_entered_extreme_mode">Включен е Режим Хибернация</string>
@@ -3294,11 +3319,16 @@ to join our egg hunt!"</string>
     <string name="pc_fast_charge_switch_toast_message">Промените ще бъдат приложени следващия път когато заредите устройството</string>
     <string name="pc_fast_charge_temp_remider">Включете, за да регулирате автоматично скоростта на зареждане. Тази функция работи само с доставените зарядни устройства на Xiaomi. Вашето устройство може да се нагрее по време на зареждане.</string>
     <string name="pc_fast_charge_title">Ускоряване на скоростта на зареждане</string>
+    <string name="pc_first_use_error_tips">Изчислява се</string>
+    <string name="pc_first_use_protect_title">Първо използване</string>
     <string name="pc_going_to_exit_extreme_mode">Излизане от Режим Хибернация</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Устройството Ви се зарежда. Излязохте от Режим Хибернация.</string>
     <string name="pc_going_to_extreme_mode">Включване на Режим Хибернация</string>
     <string name="pc_handle_battery_level">Дръжка</string>
     <string name="pc_have_no_battery_issue">Няма проблеми</string>
+    <string name="pc_health_charge_protect_notification_summary">Включете Защитата на батерията, за да намалите стареенето на батерията</string>
+    <string name="pc_health_charge_protect_summary">За да удължи живота на батерията, устройството ще спре да се зарежда, когато нивото на батерията достигне %1$s</string>
+    <string name="pc_health_charge_protect_title">Защита на батерията</string>
     <string name="pc_hide_more_power_rank_apps">Скрий</string>
     <string name="pc_hidemode_normal">Балансирано</string>
     <string name="pc_hidemode_normal_title">Балансирано</string>
@@ -3337,6 +3367,8 @@ to join our egg hunt!"</string>
     <string name="pc_low_battery_fast_charge_summary">Свържете предоставеното зарядно устройство, за да ускорите зареждането, когато екранът е изключен и батерията е изтощена. Тази функция може да доведе до нагряване на устройството.</string>
     <string name="pc_low_temp_charge_summary">Дръжте зарядното устройство свързано и изчакайте батерията да се загрее, след като екранът изгасне, за да се зарежда нормално</string>
     <string name="pc_low_temp_charge_title">Зареждане при ниска температура</string>
+    <string name="pc_low_temperature_extreme_endurance_summary">Ограничете производителността на устройството, за да удължите живота на батерията, когато температурата на околната среда е изключително ниска</string>
+    <string name="pc_low_temperature_extreme_endurance_title">Режим Издръжливост на студ</string>
     <string name="pc_main_activity_back">Назад</string>
     <string name="pc_main_battery_text_day">Добавени %1$sмин, остават около %2$sд</string>
     <string name="pc_main_battery_text_day_hour">Добавени %1$sмин, остават около %2$sд %3$sч</string>
@@ -3367,6 +3399,7 @@ to join our egg hunt!"</string>
     <string name="pc_power_mode_has_berserk">Включен е Краен режим</string>
     <string name="pc_power_mode_has_performance">Активиран е режим Производителност</string>
     <string name="pc_power_save_settings_new">Настройки на Икономия на батерията</string>
+    <string name="pc_production_date_protect_title">Дата на производство</string>
     <string name="pc_remind_close_cover_to_charge_summary">Сгънете устройството преди зареждане за по-бързо и по-стабилно зареждане.</string>
     <string name="pc_remind_close_cover_to_charge_title">Сгънете, за да заредите</string>
     <string name="pc_reminder_always_protect_summary">Преминете към ограничено зареждане, за да намалите стареенето на батерията</string>
@@ -3412,6 +3445,8 @@ to join our egg hunt!"</string>
     <string name="pc_wait_device_cools_down">Изчакайте, докато устройството Ви се охлади, за да можете да използвате тази функция.</string>
     <string name="pc_wireless_charge_adjust_position_summary">Поставете го на безжичното зарядно устройство</string>
     <string name="pc_wireless_charge_adjust_position_title">Заредете устройството си по-бързо</string>
+    <string name="pc_wireless_charge_notification_summary">Безжичното зареждане е по-малко енергийно ефективно от кабелното зареждане</string>
+    <string name="pc_wireless_charge_notification_title">Безжично зареждане</string>
     <string name="pc_wireless_charging_special_stand_summary1">Инсталирайте вашето устройство на стойката, доставена с вашето безжично зарядно устройство</string>
     <string name="pc_wireless_charging_special_stand_summary2">Инсталирайте устройството си на стойката, доставена с вашето безжично зарядно устройство, за най-добро зареждане</string>
     <string name="pc_wireless_charging_special_stand_title">Използвайте предоставената стойка за зареждане</string>
@@ -3554,6 +3589,7 @@ to join our egg hunt!"</string>
     <string name="permission_instruction_write_contacts">Това разрешение позволява на приложенията да добавят, изтриват и редактират контакти.</string>
     <string name="permission_instruction_write_settings">This permission allows apps to modify system settings. Malicious apps might use this permission temper with your system settings and affect the normal use of your device.</string>
     <string name="permission_legacy_storage">Достъп до снимки, видеоклипове, аудио и файлове</string>
+    <string name="permission_oaid_desc">Желаете ли да разрешите на %1$s да проследява дейностите Ви в други приложения и уебсайтове?</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">Приложенията няма да искат Вашето разрешение преди да четат контактите Ви, да преглеждат хронологията Ви на повиквания, да променят настройките на системата, да използват камерата и другите ресурси в устройството. Може да включите функцията от Настойки на разрешенията.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Мениджърът на разрешения е изкл.</string>
     <string name="permission_precise_location">Точно местоположение</string>
@@ -3675,8 +3711,8 @@ to join our egg hunt!"</string>
     <string name="power_center_night_charge_protection_setting">Преглед на повече опции в Сигурност > Батерия.</string>
     <string name="power_center_night_charge_protection_summary">За да намали стареенето на батерията, вашето устройство се учи от ежедневната ви рутина на зареждане, за да намали ненужното непрекъснато зареждане</string>
     <string name="power_center_one_key_save">Оптимизирай</string>
-    <string name="power_center_ontime_boot">Включване по време</string>
-    <string name="power_center_ontime_shutdown">Изключване по време</string>
+    <string name="power_center_ontime_boot">Автоматично включване</string>
+    <string name="power_center_ontime_shutdown">Автоматично изключване</string>
     <string name="power_center_optimize_title">Предложения</string>
     <string name="power_center_power_save_summary_text">Увеличете оставащото време с до %1$dч %2$dмин</string>
     <string name="power_center_power_save_title_text">Икономия на батерия</string>
@@ -3737,8 +3773,8 @@ to join our egg hunt!"</string>
     <string name="power_center_surface_temp_low">Хладна</string>
     <string name="power_center_surface_temp_lower">Студена</string>
     <string name="power_center_surface_temp_normal">Нормална</string>
-    <string name="power_center_time_to_boot">Време за включване</string>
-    <string name="power_center_time_to_shutdown">Време за изключване</string>
+    <string name="power_center_time_to_boot">Час</string>
+    <string name="power_center_time_to_shutdown">Час</string>
     <string name="power_center_title">Батерия</string>
     <string name="power_center_unoffical_battery_button">Намерете удостоверен сервизен център</string>
     <string name="power_center_unoffical_battery_dialog">Предупреждение за неодобрена батерия</string>
@@ -3863,7 +3899,7 @@ to join our egg hunt!"</string>
     <string name="power_save_ps_close_setting_gps">GPS</string>
     <string name="power_save_ps_close_setting_haptic">тактилна обратна връзка</string>
     <string name="power_save_ps_close_setting_pickupwakeup">\"Вдигни за събуждане\"</string>
-    <string name="power_save_ps_close_setting_sync">синхронизиране</string>
+    <string name="power_save_ps_close_setting_sync">синхронизация</string>
     <string name="power_save_ps_description_title">Икономия на батерия активира следните ограничения:</string>
     <string name="power_save_ps_freeze">Замрази приложенията на заден план</string>
     <string name="power_save_ps_limit">Ограничаване активността на системните приложения</string>
@@ -4055,8 +4091,8 @@ to join our egg hunt!"</string>
     <string name="privacy_dialog_camera_message">За да защити вашите лични данни, системата не позволява на приложения да използват камерата във фонов режим.</string>
     <string name="privacy_dialog_camera_title">Ограничаване на употреба на камера във фонов режим</string>
     <string name="privacy_dialog_content_part1">Добре дошли в Сигурност! Това приложение сканира вашето устройство за боклук и вируси и също така ви разрешава да управлявате приложения, употребата на мобилни данни, списъка с блокирани повиквания, съобщения и други.</string>
-    <string name="privacy_dialog_content_part2">&lt;Data>За да ви предоставя услугите си, както и за да подобрява функциите си, Сигурност се нуждае да събира задължителни лични данни от вас. Можете да научите повече за това как обработваме събраната информация в нашите &lt;a href=\"%1$s\">Правила за поверителност&lt;/a>. Можете да оттеглите съгласието си за Правилата за поверителност на Сигурност по всяко време в Настройки.&lt;/Data></string>
-    <string name="privacy_dialog_content_part3">&lt;Data>Прочетете и приемете нашето &lt;a href=\"%2$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%1$s\">Правила за поверителност&lt;/a> преди да използвате Сигурност. Ако не приемате да използвате гореспоменатите услуги, няма да можете да използвате някои от функциите на това приложение, но все още ще имате достъп до основните му функции.&lt;/Data></string>
+    <string name="privacy_dialog_content_part2"><Data>За да ви предоставя услугите си, както и за да подобрява функциите си, Сигурност се нуждае да събира задължителни лични данни от вас. Можете да научите повече за това как обработваме събраната информация в нашите &lt;a href=\"%1$s\">Правила за поверителност&lt;/a>. Можете да оттеглите съгласието си за Правилата за поверителност на Сигурност по всяко време в Настройки.</Data></string>
+    <string name="privacy_dialog_content_part3"><Data>Прочетете и приемете нашето &lt;a href=\"%2$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%1$s\">Правила за поверителност&lt;/a> преди да използвате Сигурност. Ако не приемате да използвате гореспоменатите услуги, няма да можете да използвате някои от функциите на това приложение, но все още ще имате достъп до основните му функции.</Data></string>
     <string name="privacy_dialog_danger_mission_message">Android съдържа множество високо-рискови разрешения (например разрешение да ви праща пуш известия). За да защити личните ви данни, системата ще ви пита дали позволявате подобно поведение и ще ви предостави опции за ограничаване.</string>
     <string name="privacy_dialog_danger_mission_title">Високо-рискови разрешения</string>
     <string name="privacy_dialog_feedback">Отзиви</string>
@@ -4162,7 +4198,7 @@ to join our egg hunt!"</string>
     <string name="privacy_revoke_dialog_title_cn">Внимание</string>
     <string name="privacy_revoke_failed_dialog_content">Възникна грешка в сървъра. Изчакайте минута-две и опитайте отново.</string>
     <string name="privacy_revoke_failed_dialog_title">Неуспешно оттегляне на съгласие</string>
-    <string name="privacy_revoke_tip_dialog_content">&lt;Data>Няма да можете да продължите да използвате %1$s ако не приемете новата версия на неговите Правила за поверителност. Приемате ли обновените %2$s &lt;a href=\"%3$s\">Правила за поверителност&lt;/a>?&lt;/Data></string>
+    <string name="privacy_revoke_tip_dialog_content"><Data>Няма да можете да продължите да използвате %1$s ако не приемете новата версия на неговите Правила за поверителност. Приемате ли обновените %2$s &lt;a href=\"%3$s\">Правила за поверителност&lt;/a>?</Data></string>
     <string name="privacy_revoke_tip_dialog_title">Приложението не може да се използва</string>
     <string name="privacy_revoke_title">Оттегляне на съгласие</string>
     <string name="privacy_risk_app">Рискови приложения</string>
@@ -4265,7 +4301,7 @@ to join our egg hunt!"</string>
     <string name="privacy_thumbnail_shield_top_tip">Маскиране на визуализации за приложения, показани в Скорошни</string>
     <string name="privacy_type_open">Вкл</string>
     <string name="privacy_update_dialog_content_1">Правилата за поверителност на %s бяха обновени:</string>
-    <string name="privacy_update_dialog_content_2">&lt;Data>Прочетете и приемете новата версия на &lt;a href=\"%1$s\">Правилата за поверителност&lt;/a> преди да продължите.&lt;/Data></string>
+    <string name="privacy_update_dialog_content_2"><Data>Прочетете и приемете новата версия на &lt;a href=\"%1$s\">Правилата за поверителност&lt;/a> преди да продължите.</Data></string>
     <string name="privacy_update_dialog_title">Обновени Правила за Поверителност</string>
     <string name="privacy_using_camera">Достъп до камерата</string>
     <string name="privacy_using_location">Достъп до местоположението</string>
@@ -4347,6 +4383,16 @@ to join our egg hunt!"</string>
     <string name="reset_data_dialog_message">Това устройство не е свързано с Вашия Xiaomi Профил. Поради това не може да се възстанови или нулира паролата. Архивирайте всички важни елементи, направете им копия и преминете към възстановяване на фабрични настройки. Цялата информация ще бъде завинаги изтрита и вашата SD карта ще бъде форматирана по време на този процес.</string>
     <string name="reset_data_dialog_ok">Фабрични настройки</string>
     <string name="reset_data_title">Не може да се възстанови паролата</string>
+    <string name="restore_device_id_content">Персонализираните препоръки ще бъдат нулирани</string>
+    <string name="restore_device_id_title">Нулиране ID на устройството</string>
+    <string name="restore_dialog_content">Нулирането на Вашето текущо ID ще нулира и всички персонализирани препоръки. Да се нулира ли въпреки това?</string>
+    <string name="restore_dialog_positive">Нулиране</string>
+    <string name="restore_dialog_title">Внимание</string>
+    <string name="restore_oaid_content">Пренастройте вашето виртуално ID, за да изчистите данните за вашето поведение и предпочитания</string>
+    <string name="restore_oaid_dialog_content">Множество приложения използват вашето виртуално ID. Ако го нулирате сега, част от вашите данни за приложения може да бъдат изгуени или да станат неизползваеми. Желаете ли да нулирате виртуалното ID въпреки това?</string>
+    <string name="restore_oaid_positive">Пренастройване</string>
+    <string name="restore_oaid_positive_step">Нулиране (%1$d)</string>
+    <string name="restore_oaid_title">Пренастройване на виртуалното ID</string>
     <string name="result_autoscan_header">Проверка при плащания</string>
     <string name="result_autoscan_info">Автоматично наблюдение на системната среда при работещи приложения за плащане</string>
     <string name="result_sms_header">Засечени рискове в Съобщения</string>
@@ -5005,6 +5051,9 @@ to join our egg hunt!"</string>
     <string name="superpower_dialog_button_ok">OК</string>
     <string name="superpower_dialog_massage">Свръхикономия на батерията ограничава повечето услуги, които консумират енергия и забавят работата на Вашето устройство, като оставя само основни функционалности (напр. обаждания, SMS и връзка с клетъчната мрежа) възможно най - дълго. Да включа ли режим Свръхикономия на батерията?</string>
     <string name="superpower_dialog_title">Свръхикономия на батерията</string>
+    <string name="superpower_notification_low_temp_btn_txt">Включване</string>
+    <string name="superpower_notification_low_temp_summary">Режимът Издръжливост на студ може да спести повече батерия, когато е включен режим Свръх икономия на батерия и температурата на околната среда е изключително ниска</string>
+    <string name="superpower_notification_low_temp_title">Включване на Свръх икономия на батерия?</string>
     <string name="superpower_notification_new_title_new">Остават по-малко от %s от батерията</string>
     <string name="superpower_notification_summary">Заредете устройството си или включете Свръх икономия на батерията</string>
     <string name="superpower_notification_time_12">EEEE, d MMMM</string>
@@ -5012,6 +5061,7 @@ to join our egg hunt!"</string>
     <string name="superpower_notification_title_new">Остават по-малко от %s от батерията</string>
     <string name="superpower_progress_content">Включване на Свръхикономия на батерията…</string>
     <string name="superpower_progress_left_time">%1$dч %2$dмин</string>
+    <string name="superpower_progress_low_temp_content">Включване на режима Издръжливост на студ…</string>
     <string name="superpower_progress_switch_home">Преминаване към тъмна тема</string>
     <string name="superpower_progress_title">Оставащо време</string>
     <string name="superpower_progress_turndown_brightness">Намаляване на яркостта на екрана</string>
@@ -5049,11 +5099,11 @@ to join our egg hunt!"</string>
     <string name="system_permission_declare_agree">Приемам</string>
     <string name="system_permission_declare_analytics_declare">Каним ви да се запишете в нашата Програма за потребителски отзиви. Това приложение има нужда от достъп до интернет и изисква следните разрешения или услуги, за да събира статистически данни с цел подобряване на услугите, които ви предоставяме. Ние събираме данни единствено с цел статистика и не можем да ви идентифицираме персонално въз основа на данните, които събираме.</string>
     <string name="system_permission_declare_disagree">Отхвърли</string>
-    <string name="system_permission_declare_double_link">&lt;Data>Прочетете и приемете нашето &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%2$s\">Правила за поверителност&lt;/a> преди да продължите.&lt;/Data></string>
+    <string name="system_permission_declare_double_link"><Data>Прочетете и приемете нашето &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%2$s\">Правила за поверителност&lt;/a> преди да продължите.</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">Добре дошли в %1s! Това приложение Ви позволява да използвате следните функции: %2s.</string>
-    <string name="system_permission_declare_meanwhile_double_link">&lt;Data>Прочетете и приемете нашето &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%2$s\">Правила за поверителност&lt;/a> преди да продължите.&lt;/Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data>Прочетете и приемете нашите &lt;a href=\"%1$s\">Правила за поверителност&lt;/a> преди да продължите.&lt;/Data></string>
-    <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data>Прочетете и приемете нашето &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> преди да продължите.&lt;/Data></string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>Прочетете и приемете нашето &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> и &lt;a href=\"%2$s\">Правила за поверителност&lt;/a> преди да продължите.</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Прочетете и приемете нашите &lt;a href=\"%1$s\">Правила за поверителност&lt;/a> преди да продължите.</Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>Прочетете и приемете нашето &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> преди да продължите.</Data></string>
     <string name="system_permission_declare_no_say_no">Ако не сте съгласни да събираме Ваши лични данни и не искате да ни дадете разрешение, приложението няма да работи нормално.</string>
     <string name="system_permission_declare_no_say_no_analytics">Ако не желаете да дадете тези разрешения, можете да се отпишете от програмата от Настройки > Разширени настройки > Поверителност > Програма за потребителски отзиви.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">Ако изберете да не давате необходимите разрешения или да не ни позволите да събираме и използваме Вашите данни, това приложение частично няма да може да работи.</string>
@@ -5061,13 +5111,13 @@ to join our egg hunt!"</string>
     <string name="system_permission_declare_privacy_declare">Това приложение се нуждае от достъп до интернет и изисква следните разрешения, за да функционира нормално:</string>
     <string name="system_permission_declare_privacy_no_network">Това приложение се нуждае от следните разрешения, за да функционира нормално:</string>
     <string name="system_permission_declare_privacy_no_permission">Това приложение се нуждае от достъп до интернет и разрешение да събира необходимите лични данни, за да може да функционира нормално.</string>
-    <string name="system_permission_declare_privacy_policy">&lt;Data>Прочетете и приемете нашите &lt;a href=\"%1$s\">Правила за поверителност&lt;/a> преди да продължите.&lt;/Data></string>
+    <string name="system_permission_declare_privacy_policy"><Data>Прочетете и приемете нашите &lt;a href=\"%1$s\">Правила за поверителност&lt;/a> преди да продължите.</Data></string>
     <string name="system_permission_declare_revoke_system">Можете да излезете от това приложение.</string>
     <string name="system_permission_declare_revoke_uninstallable">Можете да излезете от профила си, да деинсталирате това приложение или да оттеглите разрешението си в \"Сигурност\" > \"Управление на приложения\" > \"Разрешения\" > \"Разрешения\".</string>
     <string name="system_permission_declare_title">Внимание</string>
     <string name="system_permission_declare_use_network">Свържете се с мрежа</string>
     <string name="system_permission_declare_use_network_no_permission">Свържете се с мрежа</string>
-    <string name="system_permission_declare_user_agreement">&lt;Data>Прочетете и приемете нашето &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> преди да продължите.&lt;/Data></string>
+    <string name="system_permission_declare_user_agreement"><Data>Прочетете и приемете нашето &lt;a href=\"%1$s\">Потребителско споразумение&lt;/a> преди да продължите.</Data></string>
     <string name="system_permission_perm_answer_call">Телефонни обаждания</string>
     <string name="system_permission_perm_optional">" (по желание)"</string>
     <string name="system_permission_perm_read_mms">Четене на МMS</string>
@@ -5453,8 +5503,7 @@ to join our egg hunt!"</string>
     <string name="vb_fps_settings_tips">Тази функция коригира скоростта на опресняване на екрана към скоростта на видео кадрите, което спестява батерия и прави възпроизвеждането по-плавно. Включването на плаващи коментари ще изключи автоматичната скорост на опресняване.</string>
     <string name="vb_immerse_voice">Завладяващ звук</string>
     <string name="vb_movie_mode">Театрален режим</string>
-    <string name="vb_movie_power_hint">"Режимът Театър предоставя завладяващо изживяване при гледане.
-Вашето устройство може да се нагрее и да консумира повече енергия."</string>
+    <string name="vb_movie_power_hint">Режимът Театър предоставя завладяващо изживяване при гледане. Вашето устройство може да се нагрее и да консумира повече енергия.</string>
     <string name="vb_movie_subtitle">Изисква висока производителност</string>
     <string name="vb_mv_style_close_toast">Стилът е изключен</string>
     <string name="vb_power_performance_mode_conflict_toast">Не можете да използвате тази функция, когато режим Производителност е включен</string>

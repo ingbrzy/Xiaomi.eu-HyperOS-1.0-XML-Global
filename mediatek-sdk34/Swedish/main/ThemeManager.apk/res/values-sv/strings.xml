@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">Starta \"Skärm alltid på\" i \"Inställningar\", först</string>
     <string name="apply_theme_with_ringtones">Använd tema ringsignaler</string>
     <string name="apply_wallpaper_after_three_theme">Du använder för närvarande ett tredjeparts-tema. Om du byter bakgrund på din låsskärm kommer detta orsaka att klockstilen på låsskärmen återställs till standard. Använd nu?</string>
+    <string name="apply_wallpaper_dialog_title">Lägg till bakgrund</string>
     <string name="apply_wallpaper_notice">Uppmärksamma</string>
     <string name="apply_wallpaper_notice_cancel">Avbryt</string>
     <string name="apply_wallpaper_notice_content">Det aktuella temat innehåller en anpassad modul för skärmlås, som kan förhindra att du kan utföra justeringar relaterade till skärmlåset.</string>
     <string name="apply_wallpaper_notice_lockscreen">Ditt aktuella tema innehåller en anpassad låsskärm. Vi ersätter den med låsskärmen om du lägger till detta wallpaper. Lägg till ändå?</string>
     <string name="apply_wallpaper_notice_still_apply">Lägg till</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Du använder ett bakgrundsset nu. Om du lägger till ett nytt tema, kommer både låsskärmens och hemskärmens bakgrunder att bytas ut, och Skärm alltid på kommer alltid att återställas till föregående stil. Lägg till ändå?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Du använder för närvarande en Super-bakgrund. Om du väljer en ny bakgrund kommer den att läggas till både till din Hem- och Låsskärm, och funktionen Skärm alltid på kommer att återställas till sin tidigare inställning. Använd nu?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">Du använder ett bakgrundsset nu. Om du lägger till ett nytt tema, kommer både låsskärmens och hemskärmens bakgrunder att bytas ut. Lägg till ändå?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Du använder för närvarande en Super-bakgrund. Om du väljer en ny bakgrund kommer den att läggas till både till din Hem- och Låsskärm. Använd nu?</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">Luftkvalitetsindex: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">Kunde inte ansluta till nätverk. Kontrollera inställningar och försök igen.</string>
     <string name="card_retry">Försök igen</string>
     <string name="carefully_chosen_wallpaper">Redaktörens val</string>
+    <string name="carousel_no_set_wallpaper_effects">Kan inte ställa in effekter när bakgrundsbildskarusellen är på</string>
     <string name="change_host_hint">Ändra värd</string>
     <string name="change_wallpaper">Bakgrund</string>
     <string name="channel_featured_page">Utvalda</string>
@@ -147,7 +151,12 @@
     <string name="clearable_edittext_clear_description">Rensa</string>
     <string name="close">Stäng</string>
     <string name="columbus_ad_flag_text">Annons</string>
+    <string name="columbus_reward_style_access">Läs mer</string>
+    <string name="columbus_reward_style_close_cancel">Avsluta</string>
+    <string name="columbus_reward_style_close_desc">Se videon till slutet för att få en belöning. Fortsätt att titta?</string>
+    <string name="columbus_reward_style_speed_confirm">Fortsätt</string>
     <string name="columbus_skip_ad">Hoppa över</string>
+    <string name="columbus_skip_ad_time">Hoppa över (%d)</string>
     <string name="come_and_choose_wallpaper">Välj från tusentals otroliga bakgrundsbilder</string>
     <string name="common_google_play_services_enable_button">Aktivera</string>
     <string name="common_google_play_services_enable_text">%1$s fungerar inte om du inte aktiverar Google Play-tjänster.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Morgon</string>
     <string name="editor_apply_message">"Den här funktionen används för felsökningar av designers. Standardtemat kommer automatiskt att återställas inom kort. Filens sökväg till det aktuella temat: "</string>
     <string name="editor_apply_toast">Välj temp.mtz manuellt i rotkatalogen</string>
+    <string name="effect_home">Effekter på Hemskärmen</string>
+    <string name="effect_lock">Effekter på Låsskärmen</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Ange en e-postadress</string>
     <string name="eras_ad">V.T.</string>
@@ -422,6 +433,7 @@
     <string name="later">Inte nu</string>
     <string name="latest_wallpaper">Nya</string>
     <string name="limit_discount">Begränsat erbjudande</string>
+    <string name="linked_wallpaper">Bakgrundsset</string>
     <string name="live_wallpaper">Levande bakgrund</string>
     <string name="live_wallpapers">Levande bakgrunder</string>
     <string name="loading">Vänta lite…</string>
@@ -650,14 +662,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Visa inte igen</string>
     <string name="not_set">Inte angett</string>
+    <string name="not_support_subtitle">Kontakta din organisations IT-support, eller byt konto</string>
+    <string name="not_support_title">Kan inte använda Teman när du använder en arbetsprofil</string>
     <string name="notifications_permission_confirm">Tillåt</string>
     <string name="notifications_permission_decline">Tillåt inte</string>
     <string name="notifications_permission_title">Vill du tillåta att appen skickar aviseringar?</string>
     <string name="notify_style">Notifikationseffekter</string>
-    <string name="offline_notification_text">Tryck för att öppna annonsen</string>
-    <string name="offline_notification_title">Se annonsen som du sparade när du var offline</string>
+    <string name="offline_dialog_image_description">Ikon</string>
+    <string name="offline_dialog_text">"Tack för visat intresse.
+Du får mer information när du är online igen."</string>
+    <string name="offline_notification_title">Du är online igen. Vi fortsätter där vi slutade.</string>
+    <string name="offline_notification_title_with_advertiser">Du är online igen. Fortsätt att läsa mer om %s</string>
     <string name="offline_opt_in_confirm">OK</string>
-    <string name="offline_opt_in_confirmation">Du får en avisering med en länk när du är online igen</string>
     <string name="offline_opt_in_decline">Nej tack</string>
     <string name="offline_opt_in_message">Vi skickar en avisering med en länk till annonsörens webbplats.</string>
     <string name="offline_opt_in_title">Öppna annonsen när du är online igen.</string>
@@ -679,6 +695,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">Missa inte dessa!</string>
     <string name="ota_theme_default_push_content2">Se våra rekommendationer</string>
     <string name="ota_theme_default_push_title">Nya teman påväg</string>
+    <string name="out_wallpaper_list">Yttre skärmbakgrund</string>
     <string name="password_toggle_content_description">Visa lösenord</string>
     <string name="pause_all">Pausa alla</string>
     <string name="pay_online">Online-betalning</string>
@@ -975,13 +992,12 @@ mm"</string>
     <string name="saturday_short">Lör</string>
     <string name="saturday_shortest">Lör</string>
     <string name="scroll_switch">Svep för att växla mellan objekt</string>
-    <string name="sdcard_not_mounted_dialog_message">"Sätt i SD-kortet nu.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">Inget SD-kort upptäckt</string>
     <string name="search_color">Färg</string>
     <string name="search_hint_header_text">Populära ord</string>
     <string name="search_menu_title">Sök</string>
     <string name="search_sort">Sortera efter</string>
+    <string name="search_update_guide_bubble">Ny</string>
+    <string name="search_update_guide_text">Upplev helt nya sökfunktioner</string>
     <string name="select_all">Välj alla</string>
     <string name="selected_resource_file_invalid">Kan inte använda valda resursfilen</string>
     <string name="send">Skicka</string>
@@ -1035,12 +1051,14 @@ mm"</string>
     <string name="system_aod_dialog_message">Slå på \"Skärm alltid på\" för att kunna använda denna funktion.</string>
     <string name="system_aod_dialog_positive_button">Inställningar</string>
     <string name="system_aod_dialog_title">Skärm alltid på</string>
+    <string name="system_personalize_title">Anpassning</string>
     <string name="system_phone">Samtal</string>
     <string name="system_precust">Förinstallerade</string>
     <string name="text_billing_info">Fakturainformation</string>
     <string name="text_cancel_subscription_service">Avbryt den här prenumerationen nu?</string>
     <string name="text_content_update">Nytt innehåll dagligen</string>
     <string name="text_free_trial">Prova gratis</string>
+    <string name="text_local_push_check">Visa</string>
     <string name="text_pay_monthly" formatted="false">Börjar från %s, förnyas automatiskt för %s/ månad tills den avbryts</string>
     <string name="text_pay_weekly" formatted="false">Börjar från %s, förnyas automatiskt för %s/ vecka tills den avbryts</string>
     <string name="text_pay_yearly" formatted="false">Börjar från %s, förnyas automatiskt för %s/ år tills den avbryts</string>
@@ -1291,7 +1309,7 @@ Du kan när som helst dra tillbaka ditt samtycke till Integritetspolicyn för Te
     <string name="wallpaper_group_sgn_mountain_title">Siguniangberget</string>
     <string name="wallpaper_might_like">Bakgrunder du kanske gillar</string>
     <string name="wallpaper_restore_defalut_push">Återställde till standard</string>
-    <string name="wallpaper_scroll_type_tips">Scrolla bland bakgrunderna</string>
+    <string name="wallpaper_scroll_type_tips">Bakgrundsskroll</string>
     <string name="wallpaper_set_as_both">Bakgrund på Låsskärm och Hemskärm</string>
     <string name="wallpaper_set_as_desktop">Bakgrund på Hemskärm</string>
     <string name="wallpaper_set_as_lockscreen">Bakgrund på Låsskärm</string>

@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">Először kapcsolja be a Always-on display funkciót a Beállításokban</string>
     <string name="apply_theme_with_ringtones">Vegye át a téma csengőhangjait</string>
     <string name="apply_wallpaper_after_three_theme">Jelenleg harmadik féltől származó témát használ. Ha módosítja a Képernyőzár háttérképét, előfordulhat, hogy a Képernyőzár órastílusa visszaáll az alapértelmezettre. Beállítja most?</string>
+    <string name="apply_wallpaper_dialog_title">Háttérkép alkalmazása</string>
     <string name="apply_wallpaper_notice">Figyelem</string>
     <string name="apply_wallpaper_notice_cancel">Mégse</string>
     <string name="apply_wallpaper_notice_content">A jelenleg alkalmazott téma testreszabott képernyőzár-modult tartalmaz, amely megakadályozhatja a képernyőzárral kapcsolatos beállítások elvégzését.</string>
     <string name="apply_wallpaper_notice_lockscreen">A jelenlegi téma tartalmaz egy egyéni képernyőzárat. Lecseréljük az alapértelmezett képernyőzárra, ha ezt a háttérképet alkalmazza. Mindenképpen alkalmazza?</string>
     <string name="apply_wallpaper_notice_still_apply">Alkalmaz</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Most egy háttérkép sorozatot használ. Ha új témát alkalmaz, a Képernyőzár és a Kezdőképernyő háttérképei lecserélődnek, és az Always-on display funkció visszaáll a korábbi stílusra. Mindenképpen alkalmazza?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Jelenleg Szuper háttérképet használ. Ha új háttérképet választ, az a Kezdőképernyőn és a Képernyőzáron is meg fog jelenni, és az Always-on display funkció pedig visszaáll az előző beállításra. Beállítja most?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">Most egy háttérkép sorozatot használ. Ha új témát alkalmaz, a Képernyőzár és a Kezdőképernyő háttérképei lecserélődnek. Mindenképpen alkalmazza?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Jelenleg Szuper háttérképet használ. Ha új háttérképet választ, az a Kezdőképernyőn és a Képernyőzáron is meg fog jelenni. Beállítja most?</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">Légszennyezettségi mutató: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">Nem sikerült kapcsolódni a hálózathoz. Ellenőrizze a beállításokat és próbálja újra.</string>
     <string name="card_retry">Próbálja újra</string>
     <string name="carefully_chosen_wallpaper">Szerkesztői ajánlás</string>
+    <string name="carousel_no_set_wallpaper_effects">Nem lehet effekteket beállítani, ha a Váltakozó háttérképek be van kapcsolva</string>
     <string name="change_host_hint">Kiszolgáló változtatása</string>
     <string name="change_wallpaper">Háttérkép</string>
     <string name="channel_featured_page">Kiemelt</string>
@@ -146,8 +150,13 @@
     <string name="clear_text_end_icon_content_description">Szöveg törlése</string>
     <string name="clearable_edittext_clear_description">Törlés</string>
     <string name="close">Bezárás</string>
-    <string name="columbus_ad_flag_text">REKLÁM</string>
+    <string name="columbus_ad_flag_text">KR. U.</string>
+    <string name="columbus_reward_style_access">Bővebben</string>
+    <string name="columbus_reward_style_close_cancel">Kilépés</string>
+    <string name="columbus_reward_style_close_desc">A jutalom megszerzéséhez nézze végig a videót. Folytatja a megtekintést?</string>
+    <string name="columbus_reward_style_speed_confirm">Tovább</string>
     <string name="columbus_skip_ad">Kihagyás</string>
+    <string name="columbus_skip_ad_time">Kihagyás (%d)</string>
     <string name="come_and_choose_wallpaper">Válasszon több ezer magával ragadó háttérkép közül</string>
     <string name="common_google_play_services_enable_button">Engedélyezés</string>
     <string name="common_google_play_services_enable_text">A(z) %1$s alkalmazás csak akkor működik, ha engedélyezi a Google Play-szolgáltatásokat.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Reggel</string>
     <string name="editor_apply_message">"Ezt a funkciót a tervezők használják hibakeresésre. Az alapértelmezett téma kis idő múlva automatikusan vissza lesz állítva. Az aktuális téma elérési útja: "</string>
     <string name="editor_apply_toast">A temp.mtz manuális kiválasztása a gyökérkönyvtárban</string>
+    <string name="effect_home">Kezdőképernyő effektek</string>
+    <string name="effect_lock">Képernyőzár effektek</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Adjon meg egy e-mail-címet</string>
     <string name="eras_ad">I.SZ.</string>
@@ -422,6 +433,7 @@
     <string name="later">Nem most</string>
     <string name="latest_wallpaper">Új</string>
     <string name="limit_discount">Korlátozott ideig elérhető ajánlat</string>
+    <string name="linked_wallpaper">Háttérkép sorozatok</string>
     <string name="live_wallpaper">Élő háttérkép</string>
     <string name="live_wallpapers">Élő háttérképek</string>
     <string name="loading">Egy pillanat…</string>
@@ -650,14 +662,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Ne emlékeztessen újra</string>
     <string name="not_set">Nincs beállítva</string>
+    <string name="not_support_subtitle">Forduljon a szervezet IT csapatához, vagy váltson fiókot</string>
+    <string name="not_support_title">Nem lehet használni a Témákat a munkahelyi profil használatakor</string>
     <string name="notifications_permission_confirm">Engedélyezés</string>
     <string name="notifications_permission_decline">Tiltás</string>
     <string name="notifications_permission_title">Engedélyezi, hogy az alkalmazás értesítéseket küldjön Önnek?</string>
     <string name="notify_style">Értesítési effektek</string>
-    <string name="offline_notification_text">Koppintson a hirdetés megnyitásához</string>
-    <string name="offline_notification_title">Az offline mentett hirdetés megtekintése</string>
+    <string name="offline_dialog_image_description">Ikon</string>
+    <string name="offline_dialog_text">"Köszönjük érdeklődését!
+Amint újra online lesz, bővebb tájékoztatást fog kapni."</string>
+    <string name="offline_notification_title">Újra van internetkapcsolata. Folytassuk onnan, ahol abbahagytuk.</string>
+    <string name="offline_notification_title_with_advertiser">Újra van internetkapcsolata. Ismerje meg részletesebben a következőt: %s.</string>
     <string name="offline_opt_in_confirm">OK</string>
-    <string name="offline_opt_in_confirmation">Linket tartalmazó értesítést kap, amikor újra online lesz</string>
     <string name="offline_opt_in_decline">Nem</string>
     <string name="offline_opt_in_message">Értesítést küldünk, amelyben a hirdető webhelyére mutató link szerepel.</string>
     <string name="offline_opt_in_title">Megnyithatja a hirdetést akkor, amikor újra online lesz.</string>
@@ -679,6 +695,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">Ne maradjon le róluk!</string>
     <string name="ota_theme_default_push_content2">Ajánlásaink megtekintése</string>
     <string name="ota_theme_default_push_title">Új témák érkeznek hamarosan</string>
+    <string name="out_wallpaper_list">Külső képernyő háttérkép</string>
     <string name="password_toggle_content_description">Jelszó megjelenítése</string>
     <string name="pause_all">Összes szüneteltetése</string>
     <string name="pay_online">Online fizetés</string>
@@ -975,13 +992,12 @@ mm"</string>
     <string name="saturday_short">Szo</string>
     <string name="saturday_shortest">Szo</string>
     <string name="scroll_switch">Csúsztasson az elemek közötti váltáshoz</string>
-    <string name="sdcard_not_mounted_dialog_message">"Helyezzen be egy SD-kártyát.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">Nem található SD-kártya</string>
     <string name="search_color">Szín</string>
     <string name="search_hint_header_text">Népszerű szavak</string>
     <string name="search_menu_title">Keresés</string>
     <string name="search_sort">Rendezés</string>
+    <string name="search_update_guide_bubble">Új</string>
+    <string name="search_update_guide_text">Fedezze fel az összes új keresési funkciót</string>
     <string name="select_all">Összes kijelölése</string>
     <string name="selected_resource_file_invalid">A kiválasztott fájl formátuma hibás.</string>
     <string name="send">Küldés</string>
@@ -1035,12 +1051,14 @@ mm"</string>
     <string name="system_aod_dialog_message">A szolgáltatás használatához kapcsolja be a Always-on display funkciót.</string>
     <string name="system_aod_dialog_positive_button">Beállítások</string>
     <string name="system_aod_dialog_title">Always-on display funkció</string>
+    <string name="system_personalize_title">Testreszabás</string>
     <string name="system_phone">Hívások</string>
     <string name="system_precust">Előre telepített</string>
     <string name="text_billing_info">Számlázási adatok</string>
     <string name="text_cancel_subscription_service">Lemondja az előfizetést most?</string>
     <string name="text_content_update">Új tartalom naponta</string>
     <string name="text_free_trial">Próbálja ki ingyen</string>
+    <string name="text_local_push_check">Megtekintés</string>
     <string name="text_pay_monthly" formatted="false">%s-tól kezdődően, automatikusan megújul %s/hónap áron lemondásig</string>
     <string name="text_pay_weekly" formatted="false">%s-tól kezdődően, automatikusan megújul %s/hét áron lemondásig</string>
     <string name="text_pay_yearly" formatted="false">%s-tól kezdődően, automatikusan megújul %s/év áron lemondásig</string>

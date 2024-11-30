@@ -188,9 +188,10 @@
     <string name="find_device_gdpr_prompt">Включвайки Открий устройството Вие приемате нашите <u><a href="app://com.miui.cloudservice.gdpr.license">Правила за поверителност</a></u>. Ако желаете да оттеглите съгласието си, изключете тази функция.</string>
     <string name="find_device_operation_failure_rpc">Невъзможно е да се изпълни операцията поради грешка в RPC.</string>
     <string name="find_device_permissions_footer">Натиснете \"Разрешаване\", за да дадете избраните разрешения.</string>
-    <string name="find_device_permissions_header">Добре дошли в Открий устройството! Можете да използвате това приложение, за да откривате, следите и заключвате устройството си когато то липсва. Открий устройството изисква следните разрешения:</string>
+    <string name="find_device_permissions_header">Добре дошли в „Открий устройството“! Можеш да използваш това приложение, за да откриваш, проследяваш и заключваш своето устройство, когато го няма. Можеш също така анонимно да помагаш на други хора да откриват своите устройства Xiaomi. Това приложение изисква следните разрешения, за да работи нормално:</string>
     <string name="find_device_service_title">Открий устройството</string>
-    <string name="find_device_status_summary">Открийте и заключете вашето устройство и изтрийте данни от разстояние</string>
+    <string name="find_device_status_summary">"Включи, за да откриваш и проследяваш устройството си или да изчистваш данните му от разстояние.
+Можеш също така анонимно да помагаш на други хора да откриват своите устройства Xiaomi."</string>
     <string name="find_device_status_title_pad">Открий устройството</string>
     <string name="find_device_status_title_phone">Открий устройството</string>
     <string name="find_permission_location_summary">За откриване на това устройство</string>
@@ -413,7 +414,7 @@
     <string name="micloud_last_sync_canceled">Синхр. беше отменено. Опитайте отново.</string>
     <string name="micloud_main_head_menu_cloud_backup">Резервни копия</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Открий устройството не е налично във Второ пространство. Можете да го използвате в Първо пространство.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">Изтрити елементи</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">Наскоро изтрити елементи</string>
     <string name="micloud_main_network_error">Мрежата е недостъпна</string>
     <string name="micloud_main_sync_mode_summary">Синхр. информацията на всички приложения в реално време. Консумацията на енергия може да се повиши когато е включена тази услуга.</string>
     <string name="micloud_main_sync_mode_title">Бързо cинхронизиране</string>
@@ -447,10 +448,10 @@
     <string name="micloud_manual_request_permission_content_on_provision">Първо дайте необходимите разрешения в Сигурност</string>
     <string name="micloud_manual_request_permission_title">Изискват се разрешения</string>
     <string name="micloud_manual_sync_all">Синхр. на всички елементи</string>
-    <string name="micloud_manual_sync_now">Синхр</string>
+    <string name="micloud_manual_sync_now">Синхронизация</string>
     <string name="micloud_manual_sync_now_retry">Повторен опит</string>
-    <string name="micloud_manual_sync_pause">Синхр на пауза</string>
-    <string name="micloud_manual_sync_resume">Продължи синхр</string>
+    <string name="micloud_manual_sync_pause">Синхр. на пауза</string>
+    <string name="micloud_manual_sync_resume">Продължи синхр.</string>
     <string name="micloud_manual_syncing">Синхронизира се…</string>
     <string name="micloud_member_net_error_alert_message">Нямате връзка с интернет.</string>
     <string name="micloud_member_net_error_alert_title">Няма връзка с мрежата</string>
@@ -475,7 +476,7 @@
     <string name="micloud_notif_title_sync_with_off">Синхронизиране с Xiaomi Cloud</string>
     <string name="micloud_preference_last_sync_time">Последно синхр: %s</string>
     <string name="micloud_preference_syncing">Синхронизира се…</string>
-    <string name="micloud_privacy_cloud_off">Синхр. е изключена</string>
+    <string name="micloud_privacy_cloud_off">Синхронизацията е изключена</string>
     <string name="micloud_privacy_cloud_sync">Включете услугите на Xiaomi Cloud</string>
     <string name="micloud_privacy_explanation">Дайте разрешението си, за да включите услугите на Xiaomi Cloud</string>
     <string name="micloud_privacy_licence_agreed">Приемете &lt;a href=app://com.miui.cloudservice.gdpr.license>&lt;u>Правилата за поверителност&lt;/u>&lt;/a> на Xiaomi Cloud.</string>
@@ -633,6 +634,18 @@
     <string name="noti_quota_low_title_without_button">Няма достатъчно памет в облака</string>
     <string name="notification_sync_fail_title">Неуспешно синхронизиране на паролите</string>
     <string name="notification_update_key_text">Паскода за Управление на пароли бе променен. Първо потвърдете новия паскод.</string>
+    <string name="offline_find_action_open">Включи</string>
+    <string name="offline_find_checkbox_pref_summary_1">Откривай това устройство дори когато не е свързано към мрежата и виждай местоположението на други офлайн устройства. &lt;br/>&lt;font color=#0f84ff>Научи повече&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">Откривай това устройство дори когато е изключено или не е свързано към мрежата и виждай местоположението на други офлайн устройства. &lt;br/>&lt;font color=#0f84ff>Научи повече&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">Офлайн местоположение</string>
+    <string name="offline_find_doing_disable">Изключване на „Офлайн местоположение“…</string>
+    <string name="offline_find_doing_enable">Включване на „Офлайн местоположение“…</string>
+    <string name="offline_find_function">Офлайн местоположение</string>
+    <string name="offline_find_msg_to_open_1">Включи „Офлайн местоположение“ на това устройство, за да можеш да виждаш местоположението на други офлайн устройства.</string>
+    <string name="offline_find_msg_to_open_2">Потвърди това устройство като надеждно и включи „Офлайн местоположение“, за да можеш да виждаш местоположението на други офлайн устройства.</string>
+    <string name="offline_find_msg_to_open_3">За да защитиш сигурността на данните си, потвърди това устройство като надеждно, преди да включиш „Офлайн местоположение“.</string>
+    <string name="offline_find_title_to_open_1">Включи „Офлайн местоположение“</string>
+    <string name="offline_find_title_to_open_2">Потвърди това устройство</string>
     <string name="open_service_title">Включване</string>
     <string name="pay_info_dialog_confirm_to_pay">Плати %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Изразходване на оставащи Mi Монети: %s</string>
@@ -658,8 +671,8 @@
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">Копирахте „%1$s“ в буферната памет.</string>
     <string name="privacy_and_agreement">Правила и условия</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">Добре дошли в Открий устройството! Можете да използвате тази услуга, за да намерите или заключите устройството си или да изтриете данните в него, ако бъде изгубено.</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">Добре дошли в Открий устройството! Можете да използвате тази услуга, за да намерите или заключите устройството си или да изтриете данните в него, ако бъде изгубено.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">Добре дошли в „Открий устройството“! Можеш да използваш това приложение, за да откриваш, проследяваш и заключваш своето устройство, когато го няма. Можеш също така анонимно да помагаш на други хора да откриват своите устройства Xiaomi.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">Добре дошли в „Открий устройството“! Можеш да използваш това приложение, за да откриваш, проследяваш и заключваш своето устройство, когато го няма. Можеш също така анонимно да помагаш на други хора да откриват своите устройства Xiaomi.</string>
     <string name="privacy_dialog_sync_all_purpose_china">Добре дошли в Услуги на Xiaomi Cloud! Можете да използвате Xiaomi Cloud, за да синхронизирате Вашите съобщения, контакти, бележки, настройки на браузъра, снимки и видеоклипове, WLAN настройки, записи, оформление на началния екран, приложения, събития в календара, елементи от списък с блокирани, хронология на повикванията и трезор за приложения между всички свързани устройства.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Добре дошли в Услуги на Xiaomi Cloud! Можете да използвате Xiaomi Cloud, за да синхронизирате своите съобщения, контакти, бележки, настройки на браузъра, снимки и видеоклипове, WLAN настройки, записи, оформление на Началния екран, приложения, събития в календара, елементи от списък с блокирани, хронология на повикванията и Трезор за приложения между всички свързани устройства.</string>
     <string name="privacy_dialog_sync_all_purpose_pad">Добре дошли в Услуги на Xiaomi Cloud! Можете да използвате това приложение, за да синхронизирате Вашите съобщения, контакти, бележки, елементи на браузъра, облачни албуми, музика, календар, списък с блокирани и хронология на повикванията в Облака.</string>

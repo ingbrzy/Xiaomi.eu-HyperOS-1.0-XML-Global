@@ -60,12 +60,15 @@
     <string name="apply_success_not_enable_aod">Əvvəlcə Tənzimləmələrdə Həmişə açıq ekranı açın</string>
     <string name="apply_theme_with_ringtones">Tema zəng səsini istifadə et</string>
     <string name="apply_wallpaper_after_three_theme">Hazırda üçüncü tərəf temasından istifadə edirsiniz. Kilid ekranı divar kağızı dəyişdirsəniz, bu Kilid ekranı saat üslubunun standart vəziyyətinə qaytarılmasına səbəb ola bilər. İndi tətbiq edilsin?</string>
+    <string name="apply_wallpaper_dialog_title">Divarkağızı tətbiq et</string>
     <string name="apply_wallpaper_notice">Diqqət</string>
     <string name="apply_wallpaper_notice_cancel">Ləğv et</string>
     <string name="apply_wallpaper_notice_content">Hal-hazırda tətbiq olunan mövzu, kilid ekranı ilə əlaqəli düzəlişlər etmənizə mane ola biləcək xüsusi bir Kilid ekran modulu ehtiva edir.</string>
     <string name="apply_wallpaper_notice_lockscreen">Cari temanızda xüsusi bir Kilid ekranı var. Bu divar kağızı tətbiq etsəniz, onu standart Kilid ekranı ilə əvəz edəcəyik. Hər halda müraciət olunsun?</string>
     <string name="apply_wallpaper_notice_still_apply">Tətbiq et</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Hazırda divarkağızı dəstindən istifadə edirsən. Əgər yeni tema tətbiq etsən, Kilid ekranı və Əsas ekran divarkağızları əvəzlənəcək və Həmişə açıq ekran əvvəlki üsluba bərpa ediləcək. Hər bir halda tətbiq edilsin?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Hazırda Super divar kağızı istifadə edirsiniz. Yeni divar kağızı seçsəniz, o, həm Əsas, həm də Kilid ekranlarınıza tətbiq olunacaq və Həmişə açıq ekran əvvəlki tənzimləməsinə bərpa ediləcək. İndi tətbiq edilsin?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">Hazırda divarkağızı dəstindən istifadə edirsən. Əgər yeni tema tətbiq etsən, Kilid ekranı və Əsas ekran divarkağızları əvəzlənəcək. Hər bir halda tətbiq edilsin?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Hazırda Super divar kağızı istifadə edirsiniz. Yeni divar kağızı seçsəniz, o, həm Əsas, həm də Kilid ekranlarınıza tətbiq ediləcək. İndi tətbiq edilsin?</string>
     <string name="aqi_format">HKİ %s</string>
     <string name="aqi_format_desc">Hava keyfiyyəti indeksi: %s</string>
@@ -106,6 +109,7 @@
     <string name="card_no_network">Şəbəkəyə qoşula bilmədi. Şəbəkə tənzimləmələrinizi yoxlayın və yenidən cəhd edin.</string>
     <string name="card_retry">Yenidən cəhd edin</string>
     <string name="carefully_chosen_wallpaper">Redaktorun seçimləri</string>
+    <string name="carousel_no_set_wallpaper_effects">Divar kağızı Karuseli aktiv olanda effektlər təyin etmək mümkün deyil</string>
     <string name="change_host_hint">Təminedicini dəyişdir</string>
     <string name="change_wallpaper">Divar kağızı</string>
     <string name="channel_featured_page">Önə çıxanlar</string>
@@ -116,7 +120,12 @@
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="close">Bağla</string>
     <string name="columbus_ad_flag_text">Reklam</string>
+    <string name="columbus_reward_style_access">Daha çox öyrən</string>
+    <string name="columbus_reward_style_close_cancel">Çıxış</string>
+    <string name="columbus_reward_style_close_desc">Mükafat qazanmaq üçün videoya baxmağı bitirin. Baxmağa davam edilsin?</string>
+    <string name="columbus_reward_style_speed_confirm">Davam et</string>
     <string name="columbus_skip_ad">Burax</string>
+    <string name="columbus_skip_ad_time">Növbəti (%d)</string>
     <string name="come_and_choose_wallpaper">Minlərlə heyrətamiz divar kağızı arasından seçin</string>
     <string name="component_backup_preference_title">Mövzunu yedəklə</string>
     <string name="component_category_finest_title">ÜMUMİ</string>
@@ -167,6 +176,8 @@
     <string name="early_morning">Səhər</string>
     <string name="editor_apply_message">"Bu xüsusiyyət dizaynerlər tərəfindən sazlama üçün istifadə olunur. Standart tema bir müddət sonra avtomatik olaraq bərpa olunacaq. Cari mövzunun fayl yolu: "</string>
     <string name="editor_apply_toast">Kök qovluğunda temp.mtz-i əl ilə seçin</string>
+    <string name="effect_home">Əsas ekran effektləri</string>
+    <string name="effect_lock">Kilid ekranı effektləri</string>
     <string name="empty" />
     <string name="enter_email_address_tips">E-poçt ünvanını daxil edin</string>
     <string name="eras_ad">B.E</string>
@@ -312,6 +323,7 @@
     <string name="later">İndi yox</string>
     <string name="latest_wallpaper">Yeni</string>
     <string name="limit_discount">Məhdud təklif</string>
+    <string name="linked_wallpaper">Divar kağızı tənzimləmələri</string>
     <string name="live_wallpaper">Canlı divar kağızı</string>
     <string name="live_wallpapers">Canlı divar kağızları</string>
     <string name="loading">Bir saniyə…</string>
@@ -489,6 +501,8 @@ mm"</string>
     <string name="noon">Günorta</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Təkrar göstərmə</string>
+    <string name="not_support_subtitle">Təşkilatınızın İT dəstəyi ilə əlaqə saxlayın və ya hesabları dəyişin</string>
+    <string name="not_support_title">İş profilindən istifadə edərkən Temalardan istifadə etmək mümkün deyil</string>
     <string name="notify_style">Bildiriş effektləri</string>
     <string name="online_no_network">Şəbəkəyə qoşula bilmir</string>
     <string name="online_precust_abstract">Abstrakt</string>
@@ -508,6 +522,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">Bunları qaçırmayın!</string>
     <string name="ota_theme_default_push_content2">Tövsiyələrimizə baxın</string>
     <string name="ota_theme_default_push_title">Yeni temalar yolda</string>
+    <string name="out_wallpaper_list">Xarici ekran divar kağızı</string>
     <string name="pause_all">Hamısını durdur</string>
     <string name="pay_online">Onlayn ödəniş</string>
     <string name="payment_cancel_tip">İndi çıxsanız, ödənişiniz tamamlanmayacaq. Hər halda çıxış edilsin?</string>
@@ -795,12 +810,11 @@ mm"</string>
     <string name="saturday_short">Ş.</string>
     <string name="saturday_shortest">Ş.</string>
     <string name="scroll_switch">Elementlər arasında dəyişdirmək üçün sürüşdürün</string>
-    <string name="sdcard_not_mounted_dialog_message">"İndi SD kartı daxil edin.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">SD kart aşkarlanmadı</string>
     <string name="search_color">Rəng</string>
     <string name="search_hint_header_text">Popular axtarışlar</string>
     <string name="search_sort">Sırala</string>
+    <string name="search_update_guide_bubble">Yeni</string>
+    <string name="search_update_guide_text">Bütün yeni Axtarış funksiyalarını təcrübədən keçir</string>
     <string name="select_all">Hamısını seç</string>
     <string name="selected_resource_file_invalid">Seçilən mənbə faylı istifadə edilə bilmir</string>
     <string name="send">Göndər</string>
@@ -852,12 +866,14 @@ mm"</string>
     <string name="system_aod_dialog_message">Bu funksiyadan istifadə etmək üçün Həmişə açıq ekranı açın.</string>
     <string name="system_aod_dialog_positive_button">Tənzimləmələr</string>
     <string name="system_aod_dialog_title">Həmişə açıq ekran</string>
+    <string name="system_personalize_title">Fərdiləşdirmə</string>
     <string name="system_phone">Zənglər</string>
     <string name="system_precust">Əvvəlcədən quraşdırılmış</string>
     <string name="text_billing_info">İnvoys məlumatları</string>
     <string name="text_cancel_subscription_service">Bu abunəlik indi ləğv edilsin?</string>
     <string name="text_content_update">Gündəlik yeni məzmun</string>
     <string name="text_free_trial">Ödənişsiz yoxlayın</string>
+    <string name="text_local_push_check">Göstər</string>
     <string name="text_pay_monthly" formatted="false">%s başlayaraq ləğv edilənə qədər%s/aylıq avtomatik yenilənir</string>
     <string name="text_pay_weekly" formatted="false">%s başlayaraq ləğv edilənə qədər%s/həftəlik avtomatik yenilənir</string>
     <string name="text_pay_yearly" formatted="false">%s başlayaraq ləğv edilənə qədər%s/illik avtomatik yenilənir</string>

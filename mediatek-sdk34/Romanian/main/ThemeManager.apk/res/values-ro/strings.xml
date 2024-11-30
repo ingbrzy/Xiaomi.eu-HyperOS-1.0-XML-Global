@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">Activați mai întâi Întotdeauna pe ecran în Setări</string>
     <string name="apply_theme_with_ringtones">Utilizați tonuri de apel tematice</string>
     <string name="apply_wallpaper_after_three_theme">În prezent, utilizați o temă terță parte. Dacă schimbați imaginea de fundal a Ecranului de blocare, acest lucru poate face ca stilul de ceas al Ecranului de blocare să fie restabilit la implicit. Aplicați acum?</string>
+    <string name="apply_wallpaper_dialog_title">Aplică imaginea de fundal</string>
     <string name="apply_wallpaper_notice">Atenție</string>
     <string name="apply_wallpaper_notice_cancel">Anulează</string>
     <string name="apply_wallpaper_notice_content">Tema aplicată în prezent conține un modul de blocare a ecranului personalizat, care vă poate împiedica să efectuați ajustări legate de Ecranul de blocare.</string>
     <string name="apply_wallpaper_notice_lockscreen">Tema dvs. actuală conține un ecran de blocare personalizat. Îl vom înlocui cu Ecranul de blocare implicit dacă aplicați această imagine de fundal. Aplicați oricum?</string>
     <string name="apply_wallpaper_notice_still_apply">Aplică</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Acum utilizați un set de imagini de fundal. Dacă aplicați o temă nouă, atât Ecranul de blocare, cât și imaginile de fundal ale Ecranului principal vor fi înlocuite, iar Întotdeauna pe ecran va fi restabilit la stilul anterior. Aplicați oricum?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">În prezent, utilizați Imagine de fundal super. Dacă selectați o imagine de fundal, acesta va fi aplicat atât pe Ecranul principal, cât și pe Ecranul de blocare, iar afișajul permanent va fi restabilit la setarea anterioară. Aplicați acum?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">Acum utilizați un set de imagini de fundal. Dacă aplicați o temă nouă, atât Ecranul de blocare, cât și imaginile de fundal ale Ecranului principal vor fi înlocuite. Aplicați oricum?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">În prezent, utilizați Imagine de fundal super. Dacă selectați o nouă imagine de fundal, acesta va fi aplicat atât pe Ecranul principal, cât și pe Ecranul de blocare. Aplicați acum?</string>
     <string name="aqi_format">ICA %s</string>
     <string name="aqi_format_desc">Indice calitate aer: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">Nu s-a putut conecta la rețea. Verificați setările la conexiune și încercați din nou.</string>
     <string name="card_retry">Încercați din nou</string>
     <string name="carefully_chosen_wallpaper">Alegerile editorului</string>
+    <string name="carousel_no_set_wallpaper_effects">Nu se pot seta efecte când Imagine de fundal Carusel este activat</string>
     <string name="change_host_hint">Schimbă gazda</string>
     <string name="change_wallpaper">Fundal de ecran</string>
     <string name="channel_featured_page">Recomandate</string>
@@ -147,7 +151,12 @@
     <string name="clearable_edittext_clear_description">Șterge</string>
     <string name="close">Închide</string>
     <string name="columbus_ad_flag_text">Anunț</string>
+    <string name="columbus_reward_style_access">Aflați mai multe</string>
+    <string name="columbus_reward_style_close_cancel">Ieși</string>
+    <string name="columbus_reward_style_close_desc">Termină de vizionat videoclipul pentru a primi o recompensă. Continuați să vizionați?</string>
+    <string name="columbus_reward_style_speed_confirm">Continuă</string>
     <string name="columbus_skip_ad">Treci peste</string>
+    <string name="columbus_skip_ad_time">Treci peste (%d)</string>
     <string name="come_and_choose_wallpaper">Alegeți dintre mii de imagini de fundal uimitoare</string>
     <string name="common_google_play_services_enable_button">Activați</string>
     <string name="common_google_play_services_enable_text">%1$s nu va funcționa decât dacă activați serviciile Google Play.</string>
@@ -157,7 +166,7 @@
     <string name="common_google_play_services_install_title">Descărcați serviciile Google Play</string>
     <string name="common_google_play_services_notification_channel_name">Disponibilitatea serviciilor Google Play</string>
     <string name="common_google_play_services_notification_ticker">Eroare a serviciilor Google Play</string>
-    <string name="common_google_play_services_unknown_issue">%1$s întâmpină probleme privind serviciile Google Play. Încercați din nou.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s întâmpină probleme privind serviciile Google Play. Încearcă din nou.</string>
     <string name="common_google_play_services_unsupported_text">%1$s nu va rula fără serviciile Google Play, care nu sunt acceptate de dispozitivul dvs.</string>
     <string name="common_google_play_services_update_button">Actualizați</string>
     <string name="common_google_play_services_update_text">%1$s nu va rula decât dacă actualizați serviciile Google Play.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Dimineaţa</string>
     <string name="editor_apply_message">"Această funcție este utilizată pentru depanare de către designeri. Tema implicită va fi restabilită automat peste un timp. Calea fișierului temei curente: "</string>
     <string name="editor_apply_toast">Selectați manual temp.mtz în directorul rădăcină</string>
+    <string name="effect_home">Efecte Ecran principal</string>
+    <string name="effect_lock">Efecte Ecran de blocare</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Introduceți o adresă de e-mail</string>
     <string name="eras_ad">d.Hr.</string>
@@ -422,6 +433,7 @@
     <string name="later">Nu acum</string>
     <string name="latest_wallpaper">Nou</string>
     <string name="limit_discount">Ofertă limitată</string>
+    <string name="linked_wallpaper">Seturi de imagine de fundal</string>
     <string name="live_wallpaper">Imagine de fundal live</string>
     <string name="live_wallpapers">Imagini de fundal live</string>
     <string name="loading">Doar o secundă…</string>
@@ -650,14 +662,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Nu mai afișa din nou</string>
     <string name="not_set">Nesetată</string>
+    <string name="not_support_subtitle">Contactați asistența IT a organizației dvs. sau schimbați conturile</string>
+    <string name="not_support_title">Nu se pot folosi teme când se utilizează un profil de lucru</string>
     <string name="notifications_permission_confirm">Permite</string>
     <string name="notifications_permission_decline">Nu permite</string>
     <string name="notifications_permission_title">Permiți aplicației să îți trimită notificări?</string>
     <string name="notify_style">Efecte de notificare</string>
-    <string name="offline_notification_text">Atinge pentru a deschide anunțul</string>
-    <string name="offline_notification_title">Vezi anunțul salvat când erai offline</string>
+    <string name="offline_dialog_image_description">Pictogramă</string>
+    <string name="offline_dialog_text">"Îți mulțumim pentru interes.
+Îți vom oferi mai multe informații când revii online."</string>
+    <string name="offline_notification_title">Ești iar online! Reia de unde ai rămas</string>
+    <string name="offline_notification_title_with_advertiser">Ești iar online! Continuă să afli mai multe despre %s</string>
     <string name="offline_opt_in_confirm">OK</string>
-    <string name="offline_opt_in_confirmation">Vei primi o notificare cu linkul când revii online</string>
     <string name="offline_opt_in_decline">Nu</string>
     <string name="offline_opt_in_message">Îți vom trimite o notificare cu un link la site-ul advertiserului.</string>
     <string name="offline_opt_in_title">Deschide anunțul când revii online.</string>
@@ -679,6 +695,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">Nu ratați acestea!</string>
     <string name="ota_theme_default_push_content2">Vezi recomandările noastre</string>
     <string name="ota_theme_default_push_title">Teme noi pe drum</string>
+    <string name="out_wallpaper_list">Imagine de fundal pentru ecranul exterior</string>
     <string name="password_toggle_content_description">Afișați parola</string>
     <string name="pause_all">Întrerupeți tot</string>
     <string name="pay_online">Plată online</string>
@@ -975,13 +992,12 @@ mm"</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâm</string>
     <string name="scroll_switch">Glisează pentru a comuta între elemente</string>
-    <string name="sdcard_not_mounted_dialog_message">"Introduceți cardul SD acum.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">Niciun card SD detectat</string>
     <string name="search_color">Culoare</string>
     <string name="search_hint_header_text">Cuvinte cheie</string>
     <string name="search_menu_title">Căutați</string>
     <string name="search_sort">Sortare după</string>
+    <string name="search_update_guide_bubble">Nou</string>
+    <string name="search_update_guide_text">Experimentați funcții de căutare complet noi</string>
     <string name="select_all">Selectează tot</string>
     <string name="selected_resource_file_invalid">Nu se poate utiliza fișierul selectat</string>
     <string name="send">Trimite</string>
@@ -1035,12 +1051,14 @@ mm"</string>
     <string name="system_aod_dialog_message">Activați Întotdeauna pe ecran pentru a putea utiliza această funcție.</string>
     <string name="system_aod_dialog_positive_button">Setări</string>
     <string name="system_aod_dialog_title">Întotdeauna pe ecran</string>
+    <string name="system_personalize_title">Personalizare</string>
     <string name="system_phone">Apeluri</string>
     <string name="system_precust">Preinstalat</string>
     <string name="text_billing_info">Informații de facturare</string>
     <string name="text_cancel_subscription_service">Anulați acest abonament acum?</string>
     <string name="text_content_update">Conținut nou zilnic</string>
     <string name="text_free_trial">Încercați gratuit</string>
+    <string name="text_local_push_check">Vezi</string>
     <string name="text_pay_monthly" formatted="false">Începând de la %s, se reînnoiește automat pentru %s/lună până la anulare</string>
     <string name="text_pay_weekly" formatted="false">Începând de la %s, se reînnoiește automat pentru %s/săptămână până la anulare</string>
     <string name="text_pay_yearly" formatted="false">Începând de la %s, se reînnoiește automat pentru %s/an până la anulare</string>

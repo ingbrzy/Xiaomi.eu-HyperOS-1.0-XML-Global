@@ -84,12 +84,15 @@
     <string name="apply_success_not_enable_aod">Turn on Always-on display in Settings first</string>
     <string name="apply_theme_with_ringtones">Use theme ringtones</string>
     <string name="apply_wallpaper_after_three_theme">"You're currently using a third party theme. If you change your Lock screen wallpaper, this may cause the Lock screen clock style to be restored to default. Apply now?"</string>
+    <string name="apply_wallpaper_dialog_title">Apply wallpaper</string>
     <string name="apply_wallpaper_notice">Attention</string>
     <string name="apply_wallpaper_notice_cancel">Cancel</string>
     <string name="apply_wallpaper_notice_content">Currently applied theme contains customised Lock screen module which might prevent you from making Lock screen-related adjustments.</string>
     <string name="apply_wallpaper_notice_lockscreen">"Your current theme contains a custom Lock screen. We'll replace it with the default Lock screen if you apply this wallpaper. Apply anyway?"</string>
     <string name="apply_wallpaper_notice_still_apply">Apply</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">"You're using a wallpaper set now. If you apply a new theme, both the Lock screen and Home screen wallpapers will be replaced, and the Always-on display will be restored to the previous style. Apply anyway?"</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"You're currently using a Super wallpaper. If you select a new wallpaper, it'll be applied to both your Home and Lock screens, and Always-on display will be restored to its previous setting. Apply now?"</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">"You're using a wallpaper set now. If you apply a new theme, both the Lock screen and Home screen wallpapers will be replaced. Apply anyway?"</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">"You're currently using a Super wallpaper. If you select a new wallpaper, it'll be applied to both your Home and Lock screens. Apply now?"</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">Air quality index: %s</string>
@@ -130,6 +133,7 @@
     <string name="card_no_network">"Couldn't connect to the network. Check your network settings and try again."</string>
     <string name="card_retry">Try again</string>
     <string name="carefully_chosen_wallpaper">"Editor's picks"</string>
+    <string name="carousel_no_set_wallpaper_effects">"Can't set effects when Wallpaper Carousel is on"</string>
     <string name="change_host_hint">Change host</string>
     <string name="change_wallpaper">Wallpaper</string>
     <string name="channel_featured_page">Featured</string>
@@ -139,7 +143,12 @@
     <string name="classification_more_understand_you">Select your favourite category</string>
     <string name="close">Close</string>
     <string name="columbus_ad_flag_text">AD</string>
+    <string name="columbus_reward_style_access">Learn more</string>
+    <string name="columbus_reward_style_close_cancel">Exit</string>
+    <string name="columbus_reward_style_close_desc">Finish watching the video to get a reward. Continue watching?</string>
+    <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
+    <string name="columbus_skip_ad_time">Skip (%d)</string>
     <string name="come_and_choose_wallpaper">Choose from thousands of amazing wallpapers</string>
     <string name="component_backup_preference_title">Back up theme</string>
     <string name="component_category_finest_title">GENERAL</string>
@@ -186,6 +195,8 @@
     <string name="dynamic_video_wallpaper">%dH wallpaper</string>
     <string name="editor_apply_message">"This feature is used for debugging by designers. The default theme will automatically be restored in a while. File path of the current theme: "</string>
     <string name="editor_apply_toast">Manually select temp.mtz in the root directory</string>
+    <string name="effect_home">Home screen effects</string>
+    <string name="effect_lock">Lock screen effects</string>
     <string name="enter_email_address_tips">Enter an email address</string>
     <string name="events">Events</string>
     <string name="exit">Exit</string>
@@ -379,6 +390,7 @@
     <string name="later">Not now</string>
     <string name="latest_wallpaper">New</string>
     <string name="limit_discount">Limited offer</string>
+    <string name="linked_wallpaper">Wallpaper sets</string>
     <string name="live_wallpaper">Live wallpaper</string>
     <string name="live_wallpapers">Live wallpapers</string>
     <string name="loading">Just a sec…</string>
@@ -497,6 +509,8 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">"Don't show again"</string>
     <string name="not_set">Not set</string>
+    <string name="not_support_subtitle">"Contact your organization's IT support or switch accounts"</string>
+    <string name="not_support_title">"Can't use Themes when using a work profile"</string>
     <string name="notify_style">Notification effects</string>
     <string name="online_no_network">"Can't connect to the network"</string>
     <string name="online_precust_abstract">Abstract</string>
@@ -516,6 +530,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">"Don't miss out on these!"</string>
     <string name="ota_theme_default_push_content2">View our recommendations</string>
     <string name="ota_theme_default_push_title">New themes on the way</string>
+    <string name="out_wallpaper_list">Outer screen wallpaper</string>
     <string name="pause_all">Pause all</string>
     <string name="pay_online">Online payment</string>
     <string name="payment_cancel_tip">"If you exit now, your payment won't be completed. Exit anyway?"</string>
@@ -800,13 +815,12 @@ mm"</string>
     <string name="ringtone_preset">Pre-installed ringtones</string>
     <string name="ringtone_set_success">Set successfully</string>
     <string name="scroll_switch">Swipe to switch between items</string>
-    <string name="sdcard_not_mounted_dialog_message">"Insert SD card now.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">No SD card detected</string>
     <string name="search_color">Colour</string>
     <string name="search_hint_header_text">Hot words</string>
     <string name="search_menu_title">Search</string>
     <string name="search_sort">Sort by</string>
+    <string name="search_update_guide_bubble">New</string>
+    <string name="search_update_guide_text">Experience all-new search features</string>
     <string name="select_all">Select all</string>
     <string name="selected_resource_file_invalid">"Can't use selected resource file"</string>
     <string name="service_expiration_date">Valid until %1$s</string>
@@ -856,12 +870,14 @@ mm"</string>
     <string name="system_aod_dialog_message">Turn on Always-on display to be able to use this feature.</string>
     <string name="system_aod_dialog_positive_button">Settings</string>
     <string name="system_aod_dialog_title">Always-on display</string>
+    <string name="system_personalize_title">Personalization</string>
     <string name="system_phone">Calls</string>
     <string name="system_precust">Pre-installed</string>
     <string name="text_billing_info">Billing information</string>
     <string name="text_cancel_subscription_service">Cancel this subscription now?</string>
     <string name="text_content_update">New content daily</string>
     <string name="text_free_trial">Try for free</string>
+    <string name="text_local_push_check">View</string>
     <string name="text_pay_monthly" formatted="false">Starting from %s, renews automatically for %s/month until canceled</string>
     <string name="text_pay_weekly" formatted="false">Starting from %s, renews automatically for %s/week until canceled</string>
     <string name="text_pay_yearly" formatted="false">Starting from %s, renews automatically for %s/year until canceled</string>
