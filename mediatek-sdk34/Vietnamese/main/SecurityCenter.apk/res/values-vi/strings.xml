@@ -694,7 +694,7 @@ Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="battery_charge_estimating">Đang tính</string>
     <string name="battery_charge_full">Sạc đầy</string>
     <string name="battery_charging_prompt">Đang sạc</string>
-    <string name="battery_desc_ambient_display">Điện năng tiêu thụ bởi Always-on display</string>
+    <string name="battery_desc_ambient_display">Điện năng tiêu thụ bởi Luôn luôn hiển thị</string>
     <string name="battery_desc_apps">Pin được sử dụng bởi ứng dụng</string>
     <string name="battery_desc_bluetooth">Pin được sử dụng bởi Bluetooth</string>
     <string name="battery_desc_display">Pin được sử dụng bởi màn hình và đèn nền</string>
@@ -3642,7 +3642,7 @@ Tiết kiệm pin tối ưu"</string>
     <string name="popular_action_video_clean_title_global">Xóa bộ nhớ đệm video để giải phóng dung lượng</string>
     <string name="power_5g_popups_content">Mạng 5G cung cấp tốc độ kết nối cao và độ trễ thấp hơn.</string>
     <string name="power_5g_popups_title">Sử dụng mạng 5G</string>
-    <string name="power_ambient_display">Always-on display</string>
+    <string name="power_ambient_display">Luôn luôn hiển thị</string>
     <string name="power_analysis_consume_title">Sử dụng pin</string>
     <string name="power_analysis_suggestion_need_optimize">Đã phát hiện vấn đề sử dụng pin.</string>
     <string name="power_autorun_apps_empty">Không có ứng dụng tự khởi chạy</string>
@@ -3841,7 +3841,7 @@ Tiết kiệm pin tối ưu"</string>
     <string name="power_optimize_darkmode_summary">Chế độ nền tối tiêu thụ ít điện năng</string>
     <string name="power_optimize_disable_5g">Giới hạn kết nối 5G</string>
     <string name="power_optimize_disable_5g_summary">Kết nối 5G tiêu hao nhiều điện năng</string>
-    <string name="power_optimize_disable_aod">Tắt Always-on display</string>
+    <string name="power_optimize_disable_aod">Tắt Luôn luôn hiển thị</string>
     <string name="power_optimize_disable_app_autostart">Chặn ứng dụng tự động mở</string>
     <string name="power_optimize_disable_gps">Tắt GPS</string>
     <string name="power_optimize_disable_gps_high_accuracy">Tắt chế độ định vị chính xác cao</string>
@@ -3871,8 +3871,8 @@ Tiết kiệm pin tối ưu"</string>
     <string name="power_save_mode">Tiết kiệm pin</string>
     <string name="power_save_mode_auto_exit_summary_new">Tắt khi pin %s hoặc đã sạc đầy</string>
     <string name="power_save_mode_auto_exit_title">Tắt khi sạc</string>
-    <string name="power_save_mode_close_aod_display_summary">Tắt Always-on display khi Tiết kiệm pin bật</string>
-    <string name="power_save_mode_close_aod_display_title">Tắt Always-on display</string>
+    <string name="power_save_mode_close_aod_display_summary">Tắt Luôn luôn hiển thị khi Tiết kiệm pin bật</string>
+    <string name="power_save_mode_close_aod_display_title">Tắt Luôn luôn hiển thị</string>
     <string name="power_save_mode_close_notification_screenon_summary">Làm việc khi Tiết kiệm Pin bật</string>
     <string name="power_save_mode_close_notification_screenon_title">Không sáng màn hình khi có thông báo</string>
     <string name="power_save_mode_close_warn_text">Tiết kiệm Pin giới hạn hoạt động nền và đồng bộ. Nếu bạn chọn sử dụng khi thiết bị được sạc, một vài tính năng có thể không làm việc bình thường. Bật tiết kiệm pin khi thiết bị được sạc?</string>
@@ -5071,7 +5071,7 @@ Rút lại chấp thuận ngay?"</string>
     <string name="superpower_savemode_description_title">Tiết kiệm pin tối ưu kích hoạt giới hạn dưới đây:</string>
     <string name="superpower_savemode_limit1">Chủ đề nền tối</string>
     <string name="superpower_savemode_limit2">Hạn chế hoạt động nền</string>
-    <string name="superpower_savemode_limit3">Giảm hoạt động tiêu thụ pin (đồng bộ, GPS, rung, Always-on display, v.v.)</string>
+    <string name="superpower_savemode_limit3">Giảm hoạt động tiêu thụ pin (đồng bộ, GPS, rung, Luôn luôn hiển thị, v.v.)</string>
     <string name="superpower_savemode_limit4">Cho phép ứng dụng được chọn làm việc bình thường</string>
     <string name="superpower_settings">Tiết kiệm pin tối ưu</string>
     <string name="superpower_settins_autoenter_summary_new">Bật Tiết kiệm pin tối ưu tự động khi pin chỉ còn %s</string>

@@ -522,9 +522,13 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="session_failed_dist_no_space_btn_text">עליך לנקות שטח אחסון</string>
     <string name="session_failed_get_installed_apps_denied_detail">לביצוע גיבוי אוטומטי יש להיכנס להגדרות, לתת ליישום זה הרשאת גישה לרשימת היישומים המותקנים במכשיר שלך ולבחור באפשרות \"לאפשר תמיד\".</string>
     <string name="session_failed_get_installed_apps_denied_title">הרשאות נדרשות</string>
+    <string name="session_failed_invalid_token_action">התחברות</string>
+    <string name="session_failed_invalid_token_detail">יש להתחבר מחדש</string>
+    <string name="session_failed_invalid_token_title">הפרטים אינם תקפים</string>
     <string name="session_failed_no_server_response_title">לא ניתן היה להתחבר לשרת.</string>
     <string name="session_failed_override_detail">גיבוי מקומי שונה מגיבוי Xiaomi Cloud. המשך יביא לדריסת הגיבוי הקודם על-ידי הגיבוי הנוכחי. האם לדרוס עכשיו?</string>
     <string name="session_failed_override_title">דורס גיבוי</string>
+    <string name="session_failed_reason_invalid_token">פרטי ההתחברות אינם תקפים. יש להתחבר מחדש.</string>
     <string name="session_failed_restore_app_data_btn_text">הקודם</string>
     <string name="session_failed_restore_app_data_detail">לפני שחזור פריטים, עליך לוודא כי WeChat אינו מותקן במכשיר זה. אין לפתוח את WeChat או להשתמש בו בזמן שחזור הנתונים.</string>
     <string name="session_failed_restore_app_data_title">הסרת WeChat</string>

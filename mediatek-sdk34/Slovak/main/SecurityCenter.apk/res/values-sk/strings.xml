@@ -429,7 +429,7 @@
 Neprídete o žiadne údaje aplikácií."</string>
     <string name="app_manager_reset_app_preferences_title">Obnoviť predvoľby aplikácií?</string>
     <string name="app_manager_restricted_settings_title">Povoliť obmedzené nastavenia</string>
-    <string name="app_manager_search_prompt">Nenašli ste výsledky? Skúste výsledky zo všetkých aplikácií.</string>
+    <string name="app_manager_search_prompt">Žiadne výsledky? Skúste výsledky zo všetkých aplikácií.</string>
     <string name="app_manager_share_apk">Zdieľať</string>
     <string name="app_manager_shortcut_manager">Spravovať odkazy na Domovskej obrazovke</string>
     <string name="app_manager_show_all_apps">Zobraziť všetky aplikácie</string>
@@ -1133,7 +1133,7 @@ Niektoré z vašich transakcií však ešte nie sú dokončené. Ak chcete odvol
     <string name="continue_set">Pokračovať</string>
     <string name="convenient_mode">Odblokovať všetky apl. súčasne</string>
     <string name="convenient_summary">Jediným zadaním hesla odomknete všetky aplikácie</string>
-    <string name="conversation_phone_title">Sada nástrojov pre volanie</string>
+    <string name="conversation_phone_title">Panel nástrojov pre volanie</string>
     <string name="conversation_settings_top">"·Vysunutím panela konferenčných nástrojov počas hovorov a videohovorov na celú obrazovku získate prístup k jeho funkciám.
 ·Typ a počet funkcií závisí od modelu zariadenia."</string>
     <string name="conversation_sider_tips">Použite nové Konferenčné nástroje pre najlepší zážitok z hovoru</string>
@@ -1295,8 +1295,8 @@ Všetky údaje vo vašom zariadení môžu byť vymazané a heslo Zamknutej obra
     <string name="dialog_app_roaming_title">Roaming nie je povolený pre %1$s</string>
     <string name="dialog_change_package_type_summary">Zmena dátového programu obnoví nastavenia užívateľských dát (napr. dátové limity) na predvolené hodnoty. Zmeniť typ dátového programu teraz?</string>
     <string name="dialog_change_package_type_title">Zmeniť typ dátového programu</string>
-    <string name="dialog_msg_auto_start_declare">Niektoré bezpečnostné aplikácie môžu nesprávne hlásiť, že systém bráni ich spusteniu. Skontrolujte pridelené povolenia jednotlivých aplikácií v Nastaveniach.</string>
-    <string name="dialog_msg_auto_start_declare_global">Niektoré bezpečnostné aplikácie môžu nesprávne hlásiť, že systém bráni ich spusteniu. Skontrolujte pridelené povolenia jednotlivých aplikácií v Nastaveniach.</string>
+    <string name="dialog_msg_auto_start_declare">Niektoré bezpečnostné aplikácie môžu nesprávne hlásiť, že systém bráni ich spusteniu. Skontrolujte pridelené povolenia individuálnych aplikácií v Nastaveniach.</string>
+    <string name="dialog_msg_auto_start_declare_global">Niektoré bezpečnostné aplikácie môžu nesprávne hlásiť, že systém bráni ich spusteniu. Skontrolujte pridelené povolenia individuálnych aplikácií v Nastaveniach.</string>
     <string name="dialog_msg_stop_virus_scan">Prerušiť bezpečnostnú kontrolu pred dokončením?</string>
     <string name="dialog_no_longer_alert">Viac nezobrazovať</string>
     <string name="dialog_restrict_all_mobile_summary">%s Po tomto bude mobilné dátové pripojenie zakázané pre všetky aplikácie.</string>
@@ -2174,7 +2174,7 @@ hrania vašich hier"</string>
     <string name="gd_setting_conversation_desc">Poskytuje množstvo funkcií pre audio a video hovory na celú obrazovku</string>
     <string name="gd_setting_dock_activity_title">Bočný panel nástrojov</string>
     <string name="gd_setting_dock_call_summary">Funkcie pre hlasové hovory a videohovory (napr. doplnkové svetlo)</string>
-    <string name="gd_setting_dock_call_title">Sada nástrojov pre volanie</string>
+    <string name="gd_setting_dock_call_title">Panel nástrojov pre volanie</string>
     <string name="gd_setting_dock_game_summary">Vylepšite zobrazenie a výkon pri hraní hier</string>
     <string name="gd_setting_dock_game_summary_new">Vylepšite zobrazenie a výkon pri hraní hier</string>
     <string name="gd_setting_dock_summary">Otvorte počas používania aplikácie na celej obrazovke iné aplikácie v plávajúcich oknách</string>
@@ -3075,7 +3075,7 @@ Skúste použiť iný ethernetový kábel pre pripojenie routera. Ak si myslíte
     <string name="numeric_recording_intro_header">Zadajte heslo</string>
     <string name="numeric_retry_button_text">Zrušiť</string>
     <string name="numeric_settings_help_how_to_record">Ako nastaviť PIN</string>
-    <string name="oaid_apps_summary">Povoliť alebo zakázať prístup pre jednotlivé aplikácie</string>
+    <string name="oaid_apps_summary">Povoliť alebo zakázať prístup pre individuálne aplikácie</string>
     <string name="oaid_apps_title">Spravovať virtuálne ID</string>
     <string name="oaid_reset_content_tip">Ak teraz vypnete virtuálne ID, niektoré aplikácie môžu prestať správne fungovať, časť údajov o aplikácii môže byť stratená alebo nepoužiteľná.</string>
     <string name="oaid_reset_final_tip">Napriek tomu vypnúť virtuálne ID?</string>
@@ -3613,7 +3613,7 @@ ultra šetrenia batérie"</string>
     <string name="phone_manage_system_tool_summary">Užitočné systémové nástroje</string>
     <string name="phone_manage_system_tool_title">Nástroje</string>
     <string name="phone_manager_edit_commonly_used_func_title">Upraviť bežné funkcie</string>
-    <string name="phone_manager_title">Nástroje</string>
+    <string name="phone_manager_title">Panel nástrojov</string>
     <string name="phone_number_protect">Nastavte telefónne číslo ako súkromné</string>
     <string name="pin_toast">Potiahnutím prstom nahor z dolnej časti obrazovky a pozastavením zrušíte pripnutie tejto aplikácie</string>
     <string name="pin_toast_nav">Stlačte a podržte tlačidlo späť a tlačidlo náhľadu pre zrušenie pripnutia tejto aplikácie</string>

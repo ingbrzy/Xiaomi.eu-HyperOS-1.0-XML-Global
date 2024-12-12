@@ -1763,7 +1763,7 @@ It will be added to exceptions, but previously blocked items won't appear in cal
     <string name="gamebooster_push_expiring_soon_button">Renew</string>
     <string name="gamebooster_push_expiring_soon_title">Game Turbo</string>
     <string name="gamebox_ai_accelerate">Mobile data AI boost</string>
-    <string name="gamebox_ai_accelerate_description">Analyze network environment to boost mobile network connection speed and save mobile data</string>
+    <string name="gamebox_ai_accelerate_description">Analyse network environment to boost mobile network connection speed and save mobile data</string>
     <string name="gamebox_ai_subtitle">AI subtitles</string>
     <string name="gamebox_app_not_find">Install the app first.</string>
     <string name="gamebox_brightness">Brightness</string>
