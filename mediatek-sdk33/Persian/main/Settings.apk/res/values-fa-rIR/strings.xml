@@ -2550,6 +2550,8 @@
     <string name="login_action">ورود به حساب</string>
     <string name="long_press_back_key">دکمه بازگشت را به مدت طولانی بفشارید</string>
     <string name="long_press_buttom_key">دکمه خانه را در صفحه قفل به مدت طولانی بفشارید</string>
+    <string name="long_press_editor_style_summary">برای ویرایش ساعت و کاغذدیواری، قفل صفحه را فشار داده و نگه دارید</string>
+    <string name="long_press_editor_style_title">برای ویرایش فشرده و نگه دارید</string>
     <string name="long_press_home_key">دکمه خانه را به مدت طولانی بفشارید</string>
     <string name="long_press_menu_key">دکمه منو را به مدت طولانی بفشارید</string>
     <string name="long_press_menu_key_when_lock">منو را در صفحه قفل به مدت طولانی بفشارید</string>

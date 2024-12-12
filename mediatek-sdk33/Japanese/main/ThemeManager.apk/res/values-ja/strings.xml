@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">まず、設定で常時オンディスプレイをオンにしてください</string>
     <string name="apply_theme_with_ringtones">テーマの着信音を使用する</string>
     <string name="apply_wallpaper_after_three_theme">現在、サードパーティのテーマを使用しています。ロック画面の壁紙を変更すると、ロック画面の時計のスタイルがデフォルトに戻る場合があります。今すぐ適用しますか？</string>
+    <string name="apply_wallpaper_dialog_title">壁紙を適用</string>
     <string name="apply_wallpaper_notice">注意</string>
     <string name="apply_wallpaper_notice_cancel">キャンセル</string>
     <string name="apply_wallpaper_notice_content">現在適用されているテーマには、カスタマイズされたロック画面モジュールが含まれているため、ロック画面関連の調整ができない場合があります。</string>
     <string name="apply_wallpaper_notice_lockscreen">現在お使いのテーマには、カスタムロック画面が含まれています。この壁紙を適用すると、デフォルトのロック画面に変更されます。適用してもよろしいですか？</string>
     <string name="apply_wallpaper_notice_still_apply">適用</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">現在、壁紙セットを使用しています。新しいテーマを適用すると、ロック画面とホーム画面の両方の壁紙が置き換えられ、常時オンディスプレイは以前のスタイルに戻ります。適用してもよろしいですか？</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">現在、スーパー壁紙が使用されています。新しい壁紙を選択すると、ホーム画面とロック画面の両方に適用され、常時オンディスプレイが以前の設定に戻されます。今すぐ適用しますか？</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">現在、壁紙セットを使用しています。新しいテーマを適用すると、ロック画面とホーム画面の両方の壁紙が置き換えられます。適用してもよろしいですか？</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">現在、スーパー壁紙が使用されています。新しい壁紙を選択すると、ホーム画面とロック画面の両方に適用されます。今すぐ適用しますか？</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">大気汚染指数: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">ネットワークに接続できませんでした。ネットワーク設定を確認して、もう一度お試しください。</string>
     <string name="card_retry">再試行</string>
     <string name="carefully_chosen_wallpaper">エディターズピック</string>
+    <string name="carousel_no_set_wallpaper_effects">壁紙カルーセルがオンの際は効果を設定できません</string>
     <string name="change_host_hint">ホストを変更する</string>
     <string name="change_wallpaper">壁紙</string>
     <string name="channel_featured_page">注目</string>
@@ -147,7 +151,12 @@
     <string name="clearable_edittext_clear_description">消去</string>
     <string name="close">閉じる</string>
     <string name="columbus_ad_flag_text">広告</string>
+    <string name="columbus_reward_style_access">もっと詳しく知る</string>
+    <string name="columbus_reward_style_close_cancel">終了</string>
+    <string name="columbus_reward_style_close_desc">ビデオを見終わると報酬を獲得できます。視聴を続けますか？</string>
+    <string name="columbus_reward_style_speed_confirm">続ける</string>
     <string name="columbus_skip_ad">スキップ</string>
+    <string name="columbus_skip_ad_time">スキップ (%d)</string>
     <string name="come_and_choose_wallpaper">何千もの素晴らしい壁紙から選択</string>
     <string name="common_google_play_services_enable_button">有効にする</string>
     <string name="common_google_play_services_enable_text">%1$sの実行には、Google Play開発者サービスの有効化が必要です。</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">早朝</string>
     <string name="editor_apply_message">"この機能は、デザイナーによるデバッグに使用されます。しばらくすると自動的にデフォルトのテーマに戻ります。現在のテーマのファイルパス: "</string>
     <string name="editor_apply_toast">ルートディレクトリにあるtemp.mtzを手動で選択してください</string>
+    <string name="effect_home">ホーム画面の効果</string>
+    <string name="effect_lock">ロック画面の効果</string>
     <string name="empty" />
     <string name="enter_email_address_tips">メールアドレスを入力してください</string>
     <string name="eras_ad">西暦</string>
@@ -422,6 +433,7 @@
     <string name="later">今はしない</string>
     <string name="latest_wallpaper">新着</string>
     <string name="limit_discount">限定オファー</string>
+    <string name="linked_wallpaper">壁紙セット</string>
     <string name="live_wallpaper">ライブ壁紙</string>
     <string name="live_wallpapers">ライブ壁紙</string>
     <string name="loading">お待ちください…</string>
@@ -650,14 +662,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">再度表示しない</string>
     <string name="not_set">未設定</string>
+    <string name="not_support_subtitle">所属組織の IT サポートに連絡するか、アカウントを切り替えてください</string>
+    <string name="not_support_title">仕事用プロファイルを使用している場合はテーマを使用できません</string>
     <string name="notifications_permission_confirm">許可</string>
     <string name="notifications_permission_decline">許可しない</string>
     <string name="notifications_permission_title">通知の送信をアプリに許可しますか？</string>
     <string name="notify_style">通知効果</string>
-    <string name="offline_notification_text">タップすると広告を表示します</string>
-    <string name="offline_notification_title">オフライン時に保存した広告を表示します</string>
+    <string name="offline_dialog_image_description">アイコン</string>
+    <string name="offline_dialog_text">"関心をお寄せいただきありがとうございます。
+再度オンラインになりましたら、追加情報をご案内します。"</string>
+    <string name="offline_notification_title">オンラインになりました: 続きをご覧ください</string>
+    <string name="offline_notification_title_with_advertiser">オンラインになりました: %sについて続きをご確認ください</string>
     <string name="offline_opt_in_confirm">OK</string>
-    <string name="offline_opt_in_confirmation">ネットワークに接続したときに、リンクが記載された通知が届きます</string>
     <string name="offline_opt_in_decline">設定しない</string>
     <string name="offline_opt_in_message">広告主のサイトへのリンクが記載された通知が届きます。</string>
     <string name="offline_opt_in_title">ネットワークに接続したときに、広告を表示します。</string>
@@ -679,6 +695,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">お見逃しなく！</string>
     <string name="ota_theme_default_push_content2">おすすめを表示</string>
     <string name="ota_theme_default_push_title">新しいテーマが登場</string>
+    <string name="out_wallpaper_list">外側の画面の壁紙</string>
     <string name="password_toggle_content_description">パスワードを表示</string>
     <string name="pause_all">すべて一時停止</string>
     <string name="pay_online">オンライン決済</string>
@@ -975,13 +992,12 @@ mm"</string>
     <string name="saturday_short">土</string>
     <string name="saturday_shortest">土</string>
     <string name="scroll_switch">スワイプしてアイテムを切り替える</string>
-    <string name="sdcard_not_mounted_dialog_message">"今すぐSDカードを挿入してください。
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">SDカードが検出されませんでした</string>
     <string name="search_color">色</string>
     <string name="search_hint_header_text">ホットワード</string>
     <string name="search_menu_title">検索</string>
     <string name="search_sort">並べ替え</string>
+    <string name="search_update_guide_bubble">新機能</string>
+    <string name="search_update_guide_text">まったく新しい検索機能を体験してください</string>
     <string name="select_all">すべて選択</string>
     <string name="selected_resource_file_invalid">選択したリソースファイルを使用できません</string>
     <string name="send">送信</string>
@@ -1035,12 +1051,14 @@ mm"</string>
     <string name="system_aod_dialog_message">この機能を使用するには、常時オンディスプレイをオンにしてください。</string>
     <string name="system_aod_dialog_positive_button">設定</string>
     <string name="system_aod_dialog_title">常時オンディスプレイ</string>
+    <string name="system_personalize_title">パーソナライゼーション</string>
     <string name="system_phone">通話</string>
     <string name="system_precust">プリインストール</string>
     <string name="text_billing_info">請求情報</string>
     <string name="text_cancel_subscription_service">今すぐこのサブスクリプションを解約しますか？</string>
     <string name="text_content_update">毎日新しいコンテンツ</string>
     <string name="text_free_trial">無料で試す</string>
+    <string name="text_local_push_check">表示</string>
     <string name="text_pay_monthly" formatted="false">%sから始まり、解約されるまで%s/月で自動的に更新されます</string>
     <string name="text_pay_weekly" formatted="false">%sから始まり、解約されるまで%s/週で自動的に更新されます</string>
     <string name="text_pay_yearly" formatted="false">%sから始まり、解約されるまで%s/年で自動的に更新されます</string>

@@ -5119,6 +5119,8 @@ PIN을 설정하십시오.
     <string name="login_action">로그인</string>
     <string name="long_press_back_key">뒤로가기 버튼을 길게 누르기</string>
     <string name="long_press_buttom_key">잠금화면에서 홈 버튼을 길게 누르기</string>
+    <string name="long_press_editor_style_summary">잠금화면을 길게 눌러 시계 및 배경화면 편집</string>
+    <string name="long_press_editor_style_title">길게 눌러 편집</string>
     <string name="long_press_home_key">홈 버튼을 길게 누르기</string>
     <string name="long_press_menu_key">메뉴 버튼을 길게 누르기</string>
     <string name="long_press_menu_key_when_lock">잠금화면에서 메뉴를 길게 누르기</string>

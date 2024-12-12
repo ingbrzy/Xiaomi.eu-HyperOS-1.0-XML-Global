@@ -188,9 +188,10 @@
     <string name="find_device_gdpr_prompt">Įjungdami „Rasti įrenginį“, jūs sutinkate su mūsų <u><a href="app://com.miui.cloudservice.gdpr.license">privatumo politika</a></u>. Išjunkite šią funkciją, jei norite atšaukti savo sutikimą</string>
     <string name="find_device_operation_failure_rpc">Nepavyko atlikti operacijos dėl PRC klaidos.</string>
     <string name="find_device_permissions_footer">Bakstelėkite „Suteikti“, kad suteiktumėte pasirinktus leidimus.</string>
-    <string name="find_device_permissions_header">Sveiki atvykę į „Rasti įrenginį“. Galite naudoti šią programą norėdami aptikti, sekti arba užrakinti savo įrenginį, jei jį pametėte. „Rasti įrenginį“ reikalingi šie leidimai:</string>
+    <string name="find_device_permissions_header">Sveiki, prisijungę prie programos „Rasti įrenginį“! Galite naudoti šią programą, kad rastumėte stebėtumėte ir užrakintumėte savo įrenginį, kai jo nerandate. Taip pat galite anonimiškai padėti kitiems rasti jų „Xiaomi“ įrenginius. Jei norite, kad programa tinkamai veiktų, jai būtinos šios teisės:</string>
     <string name="find_device_service_title">Rasti įrenginį</string>
-    <string name="find_device_status_summary">Aptikite ir užrakinkite savo įrenginį arba ištrinkite duomenis nuotoliniu būdu</string>
+    <string name="find_device_status_summary">"Įjunkite, kad rastumėte ir stebėtumėte savo įrenginį arba visiškai išvalykite duomenis.
+Taip pat galite anonimiškai padėti kitiems rasti jų „Xiaomi“ įrenginius."</string>
     <string name="find_device_status_title_pad">Rasti įrenginį</string>
     <string name="find_device_status_title_phone">Rasti įrenginį</string>
     <string name="find_permission_location_summary">Šio įrenginio aptikimas</string>
@@ -413,7 +414,7 @@
     <string name="micloud_last_sync_canceled">Sinchronizavimas atšauktas. Pabandykite dar kartą.</string>
     <string name="micloud_main_head_menu_cloud_backup">Atsarginės kopijos</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">„Rasti įrenginį“ nėra pasiekiamas „Antrojoje erdvėje“. Šią funkciją galite naudoti tik „Pirmojoje erdvėje“.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">Ištrinti elementai</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">Nesenai ištrinti elementai</string>
     <string name="micloud_main_network_error">Nepavyko prisijungti prie tinklo</string>
     <string name="micloud_main_sync_mode_summary">Sinchronizuoti programos duomenis realiu laiku. Įjungus šią funkciją, padidės energijos sąnaudų lygis.</string>
     <string name="micloud_main_sync_mode_title">Greitasis sinchronizavimas</string>
@@ -633,6 +634,18 @@
     <string name="noti_quota_low_title_without_button">Nepakanka vietos debesies saugykloje</string>
     <string name="notification_sync_fail_title">Nepavyko susinchronizuoti slaptažodžių</string>
     <string name="notification_update_key_text">Slaptažodžių tvarkytuvo slaptasis kodas pakeistas. Patvirtinkite naująjį slaptąjį kodą.</string>
+    <string name="offline_find_action_open">Įjungti</string>
+    <string name="offline_find_checkbox_pref_summary_1">Raskite šį įrenginį net ir tuomet, kai jis neprijungtas prie tinklo ir žiūrėkite kitų neprisijungusių įrenginių vietą. &lt;br/>&lt;font color=#0f84ff>Sužinokite daugiau&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">Raskite šį įrenginį net ir tuomet, kai jis išjungtas arba neprijungtas prie tinklo ir žiūrėkite kitų neprisijungusių įrenginių vietą. &lt;br/>&lt;font color=#0f84ff>Sužinokite daugiau&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">Vieta neprisijungus</string>
+    <string name="offline_find_doing_disable">Išjungiama vieta neprisijungus…</string>
+    <string name="offline_find_doing_enable">Įjungiama vieta neprisijungus…</string>
+    <string name="offline_find_function">Vieta neprisijungus</string>
+    <string name="offline_find_msg_to_open_1">Šiame įrenginyje įjunkite vietą neprisijungus, kad galėtumėte žiūrėti kitų neprisijungusių įrenginių vietą.</string>
+    <string name="offline_find_msg_to_open_2">Patvirtinkite, kad šis įrenginys patikimas ir įjunkite vietą neprisijungus, kad galėtumėte žiūrėti kitų neprijungtų įrenginių vietą.</string>
+    <string name="offline_find_msg_to_open_3">Norėdami apsaugoti savo duomenų saugumą, prieš įjungdami vietą neprisijungus, patvirtinkite, kad šis įrenginys patikimas.</string>
+    <string name="offline_find_title_to_open_1">Įjungti vietą neprisijungus</string>
+    <string name="offline_find_title_to_open_2">Patvirtinti šį įrenginį</string>
     <string name="open_service_title">Įjungti</string>
     <string name="pay_info_dialog_confirm_to_pay">Mokėti %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Naudoti likusias „Mi“ monetas: %s</string>
@@ -658,8 +671,8 @@ Vietos informacija gali nebūti perduota, jei prastas tinklo ryšys."</string>
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">Suvestinė „%1$s“ nukopijuota į iškarpinę.</string>
     <string name="privacy_and_agreement">Nuostatos ir sąlygos</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">Sveiki atvykę į „Rasti įrenginį“! Šią paslaugą galite naudoti, norėdami aptikti, užrakinti ir pašalinti įrenginio duomenis, jį pametus.</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">Sveiki atvykę į „Rasti įrenginį“! Šią paslaugą galite naudoti, norėdami aptikti, užrakinti ir pašalinti įrenginio duomenis, jį pametus.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">Sveiki, prisijungę prie programos „Rasti įrenginį“! Galite naudoti šią programą, kad rastumėte stebėtumėte ir užrakintumėte savo įrenginį, kai jo nerandate. Taip pat galite anonimiškai padėti kitiems rasti jų „Xiaomi“ įrenginius.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">Sveiki, prisijungę prie programos „Rasti įrenginį“! Galite naudoti šią programą, kad rastumėte stebėtumėte ir užrakintumėte savo įrenginį, kai jo nerandate. Taip pat galite anonimiškai padėti kitiems rasti jų „Xiaomi“ įrenginius.</string>
     <string name="privacy_dialog_sync_all_purpose_china">Sveiki atvykę į „Xiaomi debesų“ paslaugas! „Xiaomi debesį“ galite naudoti, norėdami sinchronizuoti pranešimus, kontaktus, užrašus, naršyklės nustatymus, nuotraukas ir vaizdo įrašus, WLAN nustatymus, įrašus, pagrindinio ekrano išdėstymą, programas, kalendoriaus įvykius, blokuojamus elementus, skambučių istoriją ir programų saugyklą visuose prijungtuose įrenginiuose.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Sveiki atvykę į „Xiaomi debesų“ paslaugas! „Xiaomi debesį“ galite naudoti, norėdami sinchronizuoti pranešimus, kontaktus, užrašus, naršyklės nustatymus, nuotraukas ir vaizdo įrašus, WLAN nustatymus, įrašus, pagrindinio ekrano išdėstymą, programas, kalendoriaus įvykius, blokuojamus elementus, skambučių istoriją ir programų saugyklą visuose prijungtuose įrenginiuose.</string>
     <string name="privacy_dialog_sync_all_purpose_pad">Sveiki atvykę į „Xiaomi debesų“ paslaugas! Šią programą galite naudoti, norėdami debesyje sinchronizuoti pranešimus, kontaktus, užrašus, naršyklės elementus, debesų albumus, muziką, kalendorių, blokuojamus elementus ir skambučių istoriją.</string>

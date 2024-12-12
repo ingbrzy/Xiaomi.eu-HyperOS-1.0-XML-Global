@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">Primer, activeu la Pantalla sempre encesa a Configuració</string>
     <string name="apply_theme_with_ringtones">Utilitza els tons del tema</string>
     <string name="apply_wallpaper_after_three_theme">"Actualment esteu utilitzant un tema de tercers. Si canvieu el fons de pantalla de la pantalla de bloqueig, pot ser que l'estil del rellotge de la pantalla de bloqueig es restableixi al valor predeterminat. Voleu aplicar-lo ara?"</string>
+    <string name="apply_wallpaper_dialog_title">Aplica el fons de pantalla</string>
     <string name="apply_wallpaper_notice">Atenció</string>
     <string name="apply_wallpaper_notice_cancel">Cancel·la</string>
     <string name="apply_wallpaper_notice_content">El tema aplicat actualment conté un mòdul de Pantalla de bloqueig personalitzat que us pot impedir fer ajustos relacionats amb la Pantalla de bloqueig.</string>
     <string name="apply_wallpaper_notice_lockscreen">El tema actual conté una Pantalla de bloqueig personalitzada. La substituirem per la Pantalla de bloqueig predeterminada si apliqueu aquest fons de pantalla. Voleu aplicar-ho igualment?</string>
     <string name="apply_wallpaper_notice_still_apply">Aplica</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">"Ara esteu fent servir un fons de pantalla. Si apliqueu un tema nou, els fons de pantalla de la Pantalla de bloqueig i de la Pantalla d'inici se substituiran i la pantalla sempre activada es restaurarà a l'estil anterior. Voleu aplicar-lo de totes maneres?"</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Actualment esteu utilitzant un Superfons de pantalla. Si seleccioneu un fons de pantalla nou, s'aplicarà tant a la vostra pantalla d'inici com a la de bloqueig, i la pantalla sempre activada es restaurarà a la seva configuració anterior. Voleu aplicar-lo ara?"</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">"Ara esteu fent servir un fons de pantalla. Si apliqueu un tema nou, els fons de pantalla de la Pantalla de bloqueig i de la Pantalla d'inici se substituiran. Voleu aplicar-lo de totes maneres?"</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">"Actualment esteu utilitzant un Superfons de pantalla. Si seleccioneu un fons de pantalla nou, s'aplicarà tant a la vostra pantalla d'inici com a la de bloqueig. Voleu aplicar-lo ara?"</string>
     <string name="aqi_format">IQA %s</string>
     <string name="aqi_format_desc">Índex de qualitat de l’aire: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">"No s'ha pogut connectar a la xarxa. Comproveu la configuració de la xarxa i proveu-ho de nou."</string>
     <string name="card_retry">Proveu-ho de nou</string>
     <string name="carefully_chosen_wallpaper">"Seleccions de l'editor"</string>
+    <string name="carousel_no_set_wallpaper_effects">No es poden establir efectes quan el Tipus de fons de pantalla està activat</string>
     <string name="change_host_hint">"Canvia l'amfitrió"</string>
     <string name="change_wallpaper">Fons de pantalla</string>
     <string name="channel_featured_page">Recomanat</string>
@@ -147,7 +151,12 @@
     <string name="clearable_edittext_clear_description">Netejar</string>
     <string name="close">Tanca</string>
     <string name="columbus_ad_flag_text">ANUNCI</string>
+    <string name="columbus_reward_style_access">Aprèn més</string>
+    <string name="columbus_reward_style_close_cancel">Tanca</string>
+    <string name="columbus_reward_style_close_desc">Acabeu de veure el vídeo per obtenir una recompensa. Voleu continuar veient-lo?</string>
+    <string name="columbus_reward_style_speed_confirm">Continua</string>
     <string name="columbus_skip_ad">Omet</string>
+    <string name="columbus_skip_ad_time">Omet (%d)</string>
     <string name="come_and_choose_wallpaper">Trieu entre milers de fons de pantalla sorprenents</string>
     <string name="common_google_play_services_enable_button">Activa</string>
     <string name="common_google_play_services_enable_text">%1$s no funcionarà si no actives Serveis de Google Play.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Matí</string>
     <string name="editor_apply_message">"Aquesta característica s'utilitza per a la depuració dels dissenyadors. El tema predeterminat es restaurarà automàticament d'aquí a un temps. Camí del fitxer del tema actual: "</string>
     <string name="editor_apply_toast">Seleccioneu manualment temp.mtz al directori arrel</string>
+    <string name="effect_home">"Efectes de la Pantalla d'inici"</string>
+    <string name="effect_lock">Efectes de la Pantalla de bloqueig</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Introduïu un correu electrònic</string>
     <string name="eras_ad">EC</string>
@@ -422,6 +433,7 @@
     <string name="later">Ara no</string>
     <string name="latest_wallpaper">Nou</string>
     <string name="limit_discount">Oferta limitada</string>
+    <string name="linked_wallpaper">Conjunts de fons de pantalla</string>
     <string name="live_wallpaper">Fons de pantalla animat</string>
     <string name="live_wallpapers">Fons de pantalla animats</string>
     <string name="loading">Un moment…</string>
@@ -650,14 +662,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">No ho tornis a mostrar</string>
     <string name="not_set">No definit</string>
+    <string name="not_support_subtitle">"Contacteu amb l'assistència informàtica de la vostra organització o canvieu de compte"</string>
+    <string name="not_support_title">"No es pot utilitzar Temes quan s'utilitza un perfil de treball"</string>
     <string name="notifications_permission_confirm">Permet</string>
     <string name="notifications_permission_decline">No permetis</string>
     <string name="notifications_permission_title">"Vols permetre que l'aplicació t'enviï notificacions?"</string>
     <string name="notify_style">Efectes de notificació</string>
-    <string name="offline_notification_text">"Toca per obrir l'anunci"</string>
-    <string name="offline_notification_title">"Mira l'anunci que has desat sense connexió"</string>
+    <string name="offline_dialog_image_description">Icona</string>
+    <string name="offline_dialog_text">"Gràcies pel teu interès.
+Et proporcionarem més informació quan tornis a estar en línia."</string>
+    <string name="offline_notification_title">Tornes a estar en línia. Continua a partir del punt on ho has deixat.</string>
+    <string name="offline_notification_title_with_advertiser">Tornes a estar en línia. Descobreix més sobre %s.</string>
     <string name="offline_opt_in_confirm">"D'acord"</string>
-    <string name="offline_opt_in_confirmation">"Rebràs una notificació amb l'enllaç quan tornis a tenir connexió"</string>
     <string name="offline_opt_in_decline">No, gràcies</string>
     <string name="offline_opt_in_message">"T'enviarem una notificació amb un enllaç al lloc web de l'anunciant."</string>
     <string name="offline_opt_in_title">"Obre l'anunci quan tornis a tenir connexió."</string>
@@ -679,6 +695,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">No et perdis aquests!</string>
     <string name="ota_theme_default_push_content2">Consulta les nostres recomanacions</string>
     <string name="ota_theme_default_push_title">Nous temes en camí</string>
+    <string name="out_wallpaper_list">Fons de pantalla de la pantalla exterior</string>
     <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="pause_all">Pausa-ho tot</string>
     <string name="pay_online">Pagament en línia</string>
@@ -975,13 +992,12 @@ mm"</string>
     <string name="saturday_short">ds.</string>
     <string name="saturday_shortest">ds.</string>
     <string name="scroll_switch">Llisqueu per permutar entre els ítems</string>
-    <string name="sdcard_not_mounted_dialog_message">"Inseriu la targeta SD ara.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">Targeta SD no detectada</string>
     <string name="search_color">Color</string>
     <string name="search_hint_header_text">El més cercat</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_sort">Ordeneu per</string>
+    <string name="search_update_guide_bubble">Nou</string>
+    <string name="search_update_guide_text">Experimenteu les noves funcions de cerca</string>
     <string name="select_all">Seleccionar tot</string>
     <string name="selected_resource_file_invalid">No es pot utilitzar el fitxer del recurs seleccionat</string>
     <string name="send">Envia</string>
@@ -1035,12 +1051,14 @@ mm"</string>
     <string name="system_aod_dialog_message">Activeu la Pantalla sempre encesa per poder utilitzar aquesta funció.</string>
     <string name="system_aod_dialog_positive_button">Configuració</string>
     <string name="system_aod_dialog_title">Pantalla sempre encesa</string>
+    <string name="system_personalize_title">Personalització</string>
     <string name="system_phone">Trucades</string>
     <string name="system_precust">Preinstal·lat</string>
     <string name="text_billing_info">Informació de facturació</string>
     <string name="text_cancel_subscription_service">Voleu cancel·lar aquesta subscripció?</string>
     <string name="text_content_update">Nou contingut cada dia</string>
     <string name="text_free_trial">Proveu-lo de franc</string>
+    <string name="text_local_push_check">Mostra</string>
     <string name="text_pay_monthly" formatted="false">A partir del %s, es renova automàticament per %s/mes fins que es cancel·li</string>
     <string name="text_pay_weekly" formatted="false">A partir del %s, es renova automàticament per %s/setmana fins que es cancel·li</string>
     <string name="text_pay_yearly" formatted="false">A partir del %s, es renova automàticament per %s/any fins que es cancel·li</string>

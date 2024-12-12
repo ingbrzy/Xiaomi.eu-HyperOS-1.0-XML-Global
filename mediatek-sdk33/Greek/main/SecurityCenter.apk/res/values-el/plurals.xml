@@ -781,8 +781,8 @@
         <item quantity="one">%d εικόνα εφαρμογής κρύφτηκε</item>
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">%d εικόνες εφαρμογής δεν είναι κρυμμένες</item>
-        <item quantity="one">%d εικόνα εφαρμογής δεν είναι κρυμμένη</item>
+        <item quantity="other">%d εικονίδια εφαρμογών δεν είναι κρυμμένα</item>
+        <item quantity="one">%d εικονίδιο εφαρμογής δεν είναι κρυμμένο</item>
     </plurals>
     <plurals name="privacy_permission_summary">
         <item quantity="other">%s εφαρμογές έχουν μόνιμη πρόσβαση</item>

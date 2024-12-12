@@ -117,7 +117,7 @@ Proveu-ho de nou"</string>
     <string name="cloud_app_restore_error">"No s'ha pogut restaurar"</string>
     <string name="cloud_app_restore_success">Aplicacions restaurades</string>
     <string name="cloud_app_restore_wifi_prompt">"Restaura des d'una còpia del núvol."</string>
-    <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
+    <string name="cloud_back_up_date_format">dd/MM/yyyy HH:mm</string>
     <string name="cloud_back_up_detail_discription">"Es realitzarà una còpia de seguretat d'aquests elements al Núvol Xiaomi quan el dispositiu estigui connectat a Wi-Fi: 
 *  Aplicacions, disseny de pantalla d'inici i fons de pantalla 
 *  Configuració de l'alarma, rellotge i hora 
@@ -554,9 +554,13 @@ Comproveu la vostra configuració de xarxa i proveu-ho de nou."</string>
     <string name="session_failed_dist_no_space_btn_text">"Neteja l'emmagatzematge"</string>
     <string name="session_failed_get_installed_apps_denied_detail">"Per poder fer una còpia de seguretat automàticament, concediu permís a aquesta aplicació a Configuració per accedir a la llista d'aplicacions instal·lades al vostre dispositiu i seleccioneu Permetre sempre."</string>
     <string name="session_failed_get_installed_apps_denied_title">Permisos requerits</string>
+    <string name="session_failed_invalid_token_action">Inicia sessió</string>
+    <string name="session_failed_invalid_token_detail">Inicia la sessió de nou</string>
+    <string name="session_failed_invalid_token_title">Credencials no vàlides</string>
     <string name="session_failed_no_server_response_title">"No s'ha pogut connectar al servidor."</string>
     <string name="session_failed_override_detail">"La còpia de seguretat local és diferent de la de Núvol Xiaomi. Si continueu, la còpia de seguretat actual sobreescriurà l'anterior. Voleu sobreescriure-la ara?"</string>
     <string name="session_failed_override_title">"S'està sobreescrivint la còpia de seguretat"</string>
+    <string name="session_failed_reason_invalid_token">"Credencials d'inici de sessió no vàlides. Torneu a iniciar la sessió."</string>
     <string name="session_failed_restore_app_data_btn_text">Enrere</string>
     <string name="session_failed_restore_app_data_detail">Assegureu-vos que WeChat no estigui instal·lat en aquest dispositiu abans de restaurar els elements. No obriu ni utilitzeu WeChat mentre es restauren les dades.</string>
     <string name="session_failed_restore_app_data_title">Desinstal·leu WeChat</string>

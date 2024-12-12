@@ -188,9 +188,10 @@
     <string name="find_device_gdpr_prompt">A Készülékkeresés bekapcsolásával ön elfogadja az <u><a href="app://com.miui.cloudservice.gdpr.license">Adatvédelmi irányelveinket</a></u>. Kapcsolja ki ezt a funkciót, ha szeretné visszavonni a hozzájárulását.</string>
     <string name="find_device_operation_failure_rpc">RPC hiba miatt nem sikerült végrehajtani a műveletet.</string>
     <string name="find_device_permissions_footer">Érintse meg az \"Engedélyezés\" gombot a kiválasztott engedélyek megadásához.</string>
-    <string name="find_device_permissions_header">Üdvözli önt a Készülékkeresés! Ezzel az alkalmazással megtalálhatja, lekövetheti és zárolhatja elveszett készülékét. A Készülékkeresésnek a következő engedélyekre van szüksége:</string>
+    <string name="find_device_permissions_header">Üdvözöljük a Készülékkeresésben! Ezzel az alkalmazással megtalálhatja, nyomon követheti és zárolhatja készülékét, ha az eltűnt. Névtelenül is segíthet másoknak megtalálni Xiaomi-készülékeiket. Ennek az alkalmazásnak a normál működéshez a következő engedélyekre van szüksége:</string>
     <string name="find_device_service_title">Készülékkeresés</string>
-    <string name="find_device_status_summary">Keresse meg és zárolja készülékét, valamit törölje le róla az adatokat távolról</string>
+    <string name="find_device_status_summary">"Kapcsolja be a készülék helymeghatározásához és nyomon követéséhez vagy adatainak távoli törléséhez.
+Másoknak is segíthet névtelenül a Xiaomi-készülékeik helymeghatározásában."</string>
     <string name="find_device_status_title_pad">Készülékkeresés</string>
     <string name="find_device_status_title_phone">Készülékkeresés</string>
     <string name="find_permission_location_summary">A készülék helyének meghatározásához</string>
@@ -413,7 +414,7 @@
     <string name="micloud_last_sync_canceled">A szinkronizálás törölve lett. Próbálja újra.</string>
     <string name="micloud_main_head_menu_cloud_backup">Biztonsági mentések</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">A Második asztalon nem elérhető a Készülékkeresés, az Első asztalon tudja használni.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">Törölt elemek</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">Nemrég törölt elemek</string>
     <string name="micloud_main_network_error">Nem tud csatlakozni a hálózathoz</string>
     <string name="micloud_main_sync_mode_summary">Valós időben szinkronizálja az alkalmazásadatokat. Ha ez a funkció be van kapcsolva, megnőhet az energiafogyasztás.</string>
     <string name="micloud_main_sync_mode_title">Gyors szinkronizálás</string>
@@ -633,6 +634,18 @@ Ellenőrizze, hogy a társított Xiaomi Fiókot használja rendszerfiókként."<
     <string name="noti_quota_low_title_without_button">Nincs elegendő felhőtárhely</string>
     <string name="notification_sync_fail_title">Nem sikerült szinkronizálni a jelszavakat</string>
     <string name="notification_update_key_text">A jelszókezelő jelszava megváltozott. Erősítse meg az új jelszót.</string>
+    <string name="offline_find_action_open">Bekapcsolás</string>
+    <string name="offline_find_checkbox_pref_summary_1">Végezzen helymeghatározást ezen a készüléken akkor is, ha nincs csatlakoztatva a hálózathoz, és tekintse meg más offline készülékek helyét. &lt;br/>&lt;font color=#0f84ff>További információ&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">Végezzen helymeghatározást ezen a készüléken akkor is, ha ki van kapcsolva, vagy nincs csatlakoztatva a hálózathoz, és tekintse meg más offline készülékek helyét. &lt;br/>&lt;font color=#0f84ff>További információ&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">Offline helymeghatározás</string>
+    <string name="offline_find_doing_disable">Offline helymeghatározás kikapcsolása…</string>
+    <string name="offline_find_doing_enable">Offline helymeghatározás bekapcsolása…</string>
+    <string name="offline_find_function">Offline helymeghatározás</string>
+    <string name="offline_find_msg_to_open_1">Kapcsolja be az Offline helymeghatározást ezen a készüléken, hogy megtekinthesse más offline készülékek helyét.</string>
+    <string name="offline_find_msg_to_open_2">Ellenőrizze, hogy ez a készülék megbízható-e, és kapcsolja be az Offline helymeghatározást, hogy megtekinthesse a többi offline készülék helyét.</string>
+    <string name="offline_find_msg_to_open_3">Adatai biztonságának védelme érdekében az Offline helymeghatározás bekapcsolása előtt ellenőrizze, hogy ez a készülék megbízhatónak minősül-e.</string>
+    <string name="offline_find_title_to_open_1">Kapcsolja be az offline helymeghatározást</string>
+    <string name="offline_find_title_to_open_2">Hitelesítse ezt a készüléket</string>
     <string name="open_service_title">Bekapcsolás</string>
     <string name="pay_info_dialog_confirm_to_pay">Fizessen %s összeget</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Hátralévő Mi érmék felhasználása: %s</string>
@@ -658,8 +671,8 @@ Előfordulhat, hogy gyenge hálózati kapcsolat esetén nem jelenik meg a helyin
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="privacy_and_agreement">Felhasználási feltételek</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">Üdvözöljük, ez a Készülékkeresés! A szolgáltatással meghatározhatja készüléke helyzetét, zárolhatja és törölheti róla az adatokat, ha elveszett.</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">Üdvözöljük, ez a Készülékkeresés! A szolgáltatással meghatározhatja készüléke helyzetét, zárolhatja és törölheti róla az adatokat, ha elveszett.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">Üdvözöljük a Készülékkeresésben! Ezzel az alkalmazással megtalálhatja, nyomon követheti és zárolhatja készülékét, ha az eltűnt. Névtelenül is segíthet másoknak megtalálni Xiaomi-készülékeiket.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">Üdvözöljük a Készülékkeresésben! Ezzel az alkalmazással megtalálhatja, nyomon követheti és zárolhatja készülékét, ha az eltűnt. Névtelenül is segíthet másoknak megtalálni Xiaomi-készülékeiket.</string>
     <string name="privacy_dialog_sync_all_purpose_china">Üdvözöljük a Xiaomi Cloud szolgáltatásokban! A Xiaomi Clouddal összeszinkronizálhatja üzeneteit, névjegyeit, jegyzeteit, böngészőbeállításait, képeit és videóit, WLAN-beállításait, felvételeit, kezdőképernyőjének elrendezését, alkalmazásait, naptáreseményeit, tiltólistás tételeit, híváselőzményeit, és a Gyorselérési kártyákat összes csatlakoztatott eszközével.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Üdvözöljük a Xiaomi Cloud szolgáltatásokban! A Xiaomi Clouddal összeszinkronizálhatja üzeneteit, névjegyeit, jegyzeteit, böngészőbeállításait, képeit és videóit, WLAN-beállításait, felvételeit, kezdőképernyőjének elrendezését, alkalmazásait, naptáreseményeit, tiltólistás tételeit, híváselőzményeit, és a Gyorselérési kártyákat összes csatlakoztatott eszközével.</string>
     <string name="privacy_dialog_sync_all_purpose_pad">Üdvözöljük a Xiaomi Cloud szolgáltatásokban! Ezzel az alkalmazással a felhőbe szinkronizálhatja üzeneteit, névjegyeit, jegyzeteit, böngészőelemeit, felhőalbumait, zeneszámait, naptárát, tiltólistáját és híváslistáját.</string>

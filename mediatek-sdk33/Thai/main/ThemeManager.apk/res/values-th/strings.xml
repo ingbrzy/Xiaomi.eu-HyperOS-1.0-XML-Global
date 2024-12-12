@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">เปิด จอแสดงผลแบบเปิดตลอด ในการตั้งค่าก่อน</string>
     <string name="apply_theme_with_ringtones">เลือกใช้เสียงเรียกเข้าของธีม</string>
     <string name="apply_wallpaper_after_three_theme">คุณกำลังใช้ธีมของบุคคลที่สาม หากคุณเปลี่ยนวอลเปเปอร์หน้าจอล็อค อาจทำให้รูปแบบนาฬิกาหน้าจอล็อคกลับคืนสู่ค่าเริ่มต้น สมัครตอนนี้?</string>
+    <string name="apply_wallpaper_dialog_title">ใช้งานภาพพื้นหลัง</string>
     <string name="apply_wallpaper_notice">โปรดทราบ</string>
     <string name="apply_wallpaper_notice_cancel">ยกเลิก</string>
     <string name="apply_wallpaper_notice_content">ธีมที่ใช้ในปัจจุบันประกอบด้วยโมดูลหน้าจอล็อกที่กำหนดเองซึ่งอาจป้องกันไม่ให้คุณทำการปรับเปลี่ยนเกี่ยวกับหน้าจอล็อกได้</string>
     <string name="apply_wallpaper_notice_lockscreen">ธีมปัจจุบันของคุณมีหน้าจอล็อกแบบกำหนดเอง เราจะแทนที่ด้วยหน้าจอล็อกเริ่มต้นหากคุณใช้ภาพพื้นหลังนี้ ยืนยันใช้งาน?</string>
     <string name="apply_wallpaper_notice_still_apply">นำไปใช้</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">คุณกำลังใช้ชุดภาพพื้นหลังอยู่ในขณะนี้ หากคุณใช้ธีมใหม่ ภาพพื้นหลังทั้งหน้าจอล็อคและหน้าจอหลักจะถูกแทนที่ และการแสดงผลแบบเปิดตลอดเวลาจะกลับเป็นสไตล์เดิม คุณยังต้องการใช้ธีมใหม่หรือไม่?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">คุณกำลังใช้สุดยอดภาพพื้นหลัง หากคุณเลือกภาพพื้นหลังใหม่ ภาพพื้นหลังนั้นจะใช้กับทั้งหน้าจอหลักและหน้าจอล็อค และหน้าจอเปิดตลอดเวลาจะถูกคืนค่าเป็นการตั้งค่าก่อนหน้า สมัครตอนนี้?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">คุณกำลังใช้ชุดภาพพื้นหลังอยู่ในขณะนี้ หากคุณใช้ธีมใหม่ ภาพพื้นหลังทั้งหน้าจอล็อคและหน้าจอหลักจะถูกแทนที่ คุณยังต้องการใช้ธีมใหม่หรือไม่?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">คุณกำลังใช้สุดยอดภาพพื้นหลัง หากคุณเลือกภาพพื้นหลังใหม่ ภาพพื้นหลังนั้นจะใช้กับทั้งหน้าจอหลักและหน้าจอล็อก สมัครตอนนี้?</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">ดัชนีคุณภาพอากาศ: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง</string>
     <string name="card_retry">ลองอีกครั้ง</string>
     <string name="carefully_chosen_wallpaper">ขอแนะนำ</string>
+    <string name="carousel_no_set_wallpaper_effects">ไม่สามารถตั้งค่าเอฟเฟกต์ได้เมื่อเปิดใช้งานภาพพื้นหลังรายวัน</string>
     <string name="change_host_hint">เปลี่ยนโฮสต์</string>
     <string name="change_wallpaper">ภาพพื้นหลัง</string>
     <string name="channel_featured_page">รายการเด่น</string>
@@ -147,7 +151,12 @@
     <string name="clearable_edittext_clear_description">ล้าง</string>
     <string name="close">ปิด</string>
     <string name="columbus_ad_flag_text">โฆษณา</string>
+    <string name="columbus_reward_style_access">เรียนรู้เพิ่มเติม</string>
+    <string name="columbus_reward_style_close_cancel">ออก</string>
+    <string name="columbus_reward_style_close_desc">ดูวิดีโอให้จบเพื่อรับรางวัล ดูต่อไหม?</string>
+    <string name="columbus_reward_style_speed_confirm">ดำเนินต่อ</string>
     <string name="columbus_skip_ad">ข้าม</string>
+    <string name="columbus_skip_ad_time">ข้าม (%d)</string>
     <string name="come_and_choose_wallpaper">เลือกจากภาพพื้นหลังที่น่าทึ่งนับพัน</string>
     <string name="common_google_play_services_enable_button">เปิดใช้</string>
     <string name="common_google_play_services_enable_text">%1$s จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">เช้า</string>
     <string name="editor_apply_message">"คุณลักษณะนี้ใช้สำหรับการดีบักโดยนักออกแบบ ธีมเริ่มต้นจะถูกกู้คืนโดยอัตโนมัติในอีกสักครู่ เส้นทางไฟล์ของธีมปัจจุบัน: "</string>
     <string name="editor_apply_toast">เลือก temp.mtz ด้วยตนเองในไดเรกทอรีราก</string>
+    <string name="effect_home">เอฟเฟคหน้าจอหลัก</string>
+    <string name="effect_lock">เอฟเฟกต์หน้าจอล็อค</string>
     <string name="empty" />
     <string name="enter_email_address_tips">ใส่ที่อยู่อีเมล</string>
     <string name="eras_ad">หลังคริสตกาล</string>
@@ -425,6 +436,7 @@
     <string name="later">ไม่ใช่ตอนนี้</string>
     <string name="latest_wallpaper">ใหม่</string>
     <string name="limit_discount">ข้อเสนอจำกัด</string>
+    <string name="linked_wallpaper">ตั้งค่าภาพพื้นหลัง</string>
     <string name="live_wallpaper">ภาพเคลื่อนไหว</string>
     <string name="live_wallpapers">ภาพพื้นหลังเคลื่อนไหว</string>
     <string name="loading">รอสักครู่…</string>
@@ -653,14 +665,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">ไม่ต้องแสดงอีก</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
+    <string name="not_support_subtitle">ติดต่อฝ่ายสนับสนุนด้านไอทีขององค์กรของคุณหรือเปลี่ยนบัญชี</string>
+    <string name="not_support_title">ไม่สามารถใช้ธีมได้เมื่อใช้โปรไฟล์งาน</string>
     <string name="notifications_permission_confirm">อนุญาต</string>
     <string name="notifications_permission_decline">ไม่อนุญาต</string>
     <string name="notifications_permission_title">อนุญาตให้แอปส่งการแจ้งเตือนถึงคุณไหม</string>
     <string name="notify_style">เอฟเฟกต์การแจ้งเตือน</string>
-    <string name="offline_notification_text">แตะเพื่อเปิดโฆษณา</string>
-    <string name="offline_notification_title">ดูโฆษณาที่คุณบันทึกไว้ขณะออฟไลน์</string>
+    <string name="offline_dialog_image_description">ไอคอน</string>
+    <string name="offline_dialog_text">"ขอขอบคุณที่ให้ความสนใจ
+เราจะแชร์ข้อมูลเพิ่มเติมเมื่อคุณกลับมาออนไลน์อีกครั้ง"</string>
+    <string name="offline_notification_title">คุณกลับมาออนไลน์แล้ว มาดำเนินการต่อจากที่ค้างไว้กันเลย</string>
+    <string name="offline_notification_title_with_advertiser">คุณกลับมาออนไลน์แล้ว เรียนรู้ข้อมูลเกี่ยวกับ %s ต่อ</string>
     <string name="offline_opt_in_confirm">ตกลง</string>
-    <string name="offline_opt_in_confirmation">คุณจะได้รับการแจ้งเตือนพร้อมลิงก์เมื่อกลับมาออนไลน์</string>
     <string name="offline_opt_in_decline">ไม่เป็นไร</string>
     <string name="offline_opt_in_message">เราจะส่งการแจ้งเตือนให้คุณพร้อมลิงก์ไปยังเว็บไซต์ของผู้ลงโฆษณา</string>
     <string name="offline_opt_in_title">เปิดโฆษณาเมื่อคุณกลับมาออนไลน์</string>
@@ -682,6 +698,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">อย่าพลาดสิ่งเหล่านี้!</string>
     <string name="ota_theme_default_push_content2">ดูคำแนะนำของเรา</string>
     <string name="ota_theme_default_push_title">ธีมใหม่อยู่ระหว่างทาง</string>
+    <string name="out_wallpaper_list">ภาพพื้นหลังหน้าจอด้านนอก</string>
     <string name="password_toggle_content_description">แสดงรหัสผ่าน</string>
     <string name="pause_all">พักชั่วคราวทั้งหมด</string>
     <string name="pay_online">ชำระเงินออนไลน์</string>
@@ -978,13 +995,12 @@ mm"</string>
     <string name="saturday_short">เสาร์</string>
     <string name="saturday_shortest">เสาร์</string>
     <string name="scroll_switch">เลื่อนซ้ายขวาเพื่อสลับรายการ</string>
-    <string name="sdcard_not_mounted_dialog_message">"กรุณาใส่ SD การ์ด
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">ไม่พบการ์ด SD</string>
     <string name="search_color">สี</string>
     <string name="search_hint_header_text">คำค้นยอดนิยม</string>
     <string name="search_menu_title">ค้นหา</string>
     <string name="search_sort">เรียงตาม</string>
+    <string name="search_update_guide_bubble">ใหม่</string>
+    <string name="search_update_guide_text">สัมผัสกับฟีเจอร์การค้นหาแบบใหม่ทั้งหมด</string>
     <string name="select_all">เลือกทั้งหมด</string>
     <string name="selected_resource_file_invalid">ไม่สามารถใช้งานไฟล์ที่เลือกได้</string>
     <string name="send">ส่ง</string>
@@ -1038,12 +1054,14 @@ mm"</string>
     <string name="system_aod_dialog_message">เปิด จอแสดงผลแบบเปิดตลอด เพื่อให้สามารถใช้คุณสมบัตินี้ได้</string>
     <string name="system_aod_dialog_positive_button">การตั้งค่า</string>
     <string name="system_aod_dialog_title">จอแสดงผลแบบเปิดตลอด</string>
+    <string name="system_personalize_title">ส่วนบุคคล</string>
     <string name="system_phone">การโทร</string>
     <string name="system_precust">ติตตั้งไว้ก่อนหน้าแล้ว</string>
     <string name="text_billing_info">ข้อมูลการเรียกเก็บเงิน</string>
     <string name="text_cancel_subscription_service">ยกเลิกการสมัครสมาชิกนี้ตอนนี้หรือไม่?</string>
     <string name="text_content_update">เนื้อหาใหม่ทุกวัน</string>
     <string name="text_free_trial">ลองใช้ฟรี</string>
+    <string name="text_local_push_check">ดู</string>
     <string name="text_pay_monthly" formatted="false">เริ่มต้นจาก %s จะต่ออายุโดยอัตโนมัติในราคา %s/เดือน จนกว่าจะยกเลิก</string>
     <string name="text_pay_weekly" formatted="false">เริ่มต้นจาก %s จะต่ออายุโดยอัตโนมัติในราคา %s/สัปดาห์ จนกว่าจะยกเลิก</string>
     <string name="text_pay_yearly" formatted="false">เริ่มต้นจาก %s จะต่ออายุโดยอัตโนมัติในราคา %s/ปี จนกว่าจะยกเลิก</string>

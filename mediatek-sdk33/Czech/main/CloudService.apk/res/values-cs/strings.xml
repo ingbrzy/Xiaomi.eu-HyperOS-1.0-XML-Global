@@ -188,9 +188,10 @@
     <string name="find_device_gdpr_prompt">Zapnutím služby Najít zařízení souhlasíte s našimi <u><a href="app://com.miui.cloudservice.gdpr.license">Zásadami ochrany osobních údajů</a></u>. Pokud chcete souhlas odebrat, jednoduše službu vypněte.</string>
     <string name="find_device_operation_failure_rpc">Operaci nebylo možné provést z důvodu chyby RPC.</string>
     <string name="find_device_permissions_footer">Klepněte na \"Udělit\" pro udělení vybraných oprávnění.</string>
-    <string name="find_device_permissions_header">Vítejte ve službě Najít zařízení! Pomocí této aplikace můžete najít, sledovat nebo uzamknout své zařízení v případě ztráty. Najít zařízení vyžaduje udělení následujících oprávnění:</string>
+    <string name="find_device_permissions_header">Vítejte ve službě Najít zařízení! Pomocí této aplikace můžete najít, sledovat nebo uzamknout své zařízení v případě ztráty. Můžete také anonymně pomoci ostatním najít jejich Xiaomi zařízení. Pro správnou funkci této aplikace jsou nutná následující oprávnění:</string>
     <string name="find_device_service_title">Najít zařízení</string>
-    <string name="find_device_status_summary">Určete polohu svého zařízení, uzamkněte jej nebo vzdáleně vymažte veškerá data zařízení</string>
+    <string name="find_device_status_summary">"Zapněte, abyste mohli lokalizovat a sledovat zařízení nebo smazat jeho data na dálku.
+Můžete také anonymně pomoci ostatním najít jejich Xiaomi zařízení."</string>
     <string name="find_device_status_title_pad">Najít zařízení</string>
     <string name="find_device_status_title_phone">Najít zařízení</string>
     <string name="find_permission_location_summary">Pro určení polohy zařízení</string>
@@ -413,7 +414,7 @@
     <string name="micloud_last_sync_canceled">Synchronizace byla zrušena. Zkuste to znovu.</string>
     <string name="micloud_main_head_menu_cloud_backup">Zálohy</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Funkce Najít zařízení je v Druhém prostoru nedostupná. Pro její využití přejděte do Prvního prostoru.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">Smazané položky</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">Nedávno odstraněné položky</string>
     <string name="micloud_main_network_error">Nelze se připojit k síti</string>
     <string name="micloud_main_sync_mode_summary">Synchronizace dat v reálném čase. Při zapnutí této funkce se zvýší spotřeba baterie.</string>
     <string name="micloud_main_sync_mode_title">Rychlá synchronizace</string>
@@ -633,6 +634,18 @@ Dbejte na to, abyste používali stejný Xiaomi účet jako je váš systémový
     <string name="noti_quota_low_title_without_button">Nedostatek volného místa na cloudu</string>
     <string name="notification_sync_fail_title">Synchronizace hesel se nezdařila</string>
     <string name="notification_update_key_text">Heslo Správce hesel bylo změněno. Ověřte nové heslo.</string>
+    <string name="offline_find_action_open">Zapnout</string>
+    <string name="offline_find_checkbox_pref_summary_1">Najít toto zařízení, i když není připojené k síti, a zobrazit polohu dalších offline zařízení. &lt;br/>&lt;font color=#0f84ff>Zjistit více&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">Najít toto zařízení, i když je vypnuté nebo není připojené k síti, a zobrazit polohu dalších offline zařízení. &lt;br/>&lt;font color=#0f84ff>Zjistit více&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">Offline poloha</string>
+    <string name="offline_find_doing_disable">Vypínání funkce Offline poloha…</string>
+    <string name="offline_find_doing_enable">Vypínání funkce Offline poloha…</string>
+    <string name="offline_find_function">Offline poloha</string>
+    <string name="offline_find_msg_to_open_1">Zapněte funkci Offline poloha na tomto zařízení, abyste mohli zobrazit polohu dalších offline zařízení.</string>
+    <string name="offline_find_msg_to_open_2">Ověřte toto zařízení jako důvěryhodné a zapněte funkci Offline poloha, abyste mohli zobrazit polohu dalších offline zařízení.</string>
+    <string name="offline_find_msg_to_open_3">Z důvodu ochrany bezpečnosti svých dat před zapnutím funkce Offline poloha ověřte toto zařízení jako důvěryhodné.</string>
+    <string name="offline_find_title_to_open_1">Zapnout funkci Offline poloha</string>
+    <string name="offline_find_title_to_open_2">Ověřit toto zařízení</string>
     <string name="open_service_title">Zapnout</string>
     <string name="pay_info_dialog_confirm_to_pay">Zaplatit %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Použít zbývající Mi Coins: %s</string>
@@ -658,8 +671,8 @@ Při špatném síťovém signálu nemusí být poloha zaznamenána."</string>
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">Položka %1$s byla zkopírována do schránky.</string>
     <string name="privacy_and_agreement">Pravidla a podmínky</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">Vítejte ve službě Najít zařízení! Pomocí této služby můžete najít, uzamknout nebo vymazat data ze zařízení v případě, že jej ztratíte.</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">Vítejte ve službě Najít zařízení! Pomocí této služby můžete najít, uzamknout nebo vymazat data ze zařízení v případě, že jej ztratíte.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">Vítejte ve službě Najít zařízení! Pomocí této aplikace můžete najít, sledovat nebo uzamknout své zařízení v případě ztráty. Můžete také anonymně pomoci ostatním najít jejich Xiaomi zařízení.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">Vítejte ve službě Najít zařízení! Pomocí této aplikace můžete najít, sledovat nebo uzamknout své zařízení v případě ztráty. Můžete také anonymně pomoci ostatním najít jejich Xiaomi zařízení.</string>
     <string name="privacy_dialog_sync_all_purpose_china">Vítejte ve službách Xiaomi Cloudu! Pomocí Xiaomi Cloudu můžete synchronizovat zprávy, kontakty, poznámky, nastavení Prohlížeče, fotografie a videa, nastavení Wi-Fi sítí, nahrávky, rozložení Domovské obrazovky, aplikace, události kalendáře, blokované položky, historii hovorů a Aplikační trezor současně ve všech propojených zařízeních.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Vítejte ve službách Xiaomi Cloudu! Pomocí Xiaomi Cloudu můžete synchronizovat zprávy, kontakty, poznámky, nastavení Prohlížeče, fotografie a videa, nastavení Wi-Fi sítí, nahrávky, rozložení Domovské obrazovky, aplikace, události kalendáře, blokované položky, historii hovorů a Aplikační trezor současně ve všech propojených zařízeních.</string>
     <string name="privacy_dialog_sync_all_purpose_pad">Vítejte ve službách Xiaomi Cloudu! Pomocí této aplikace můžete synchronizovat zprávy, kontakty, poznámky, položky Prohlížeče, cloudová alba, hudbu, kalendář, seznam blokovaných a historii hovorů do cloudu.</string>

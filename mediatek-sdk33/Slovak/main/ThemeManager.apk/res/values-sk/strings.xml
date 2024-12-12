@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">Najprv povoľte Aktívny displej v Nastaveniach</string>
     <string name="apply_theme_with_ringtones">Použiť motívy so zvonením</string>
     <string name="apply_wallpaper_after_three_theme">Aktuálne používate tému poskytovanú treťou stranou. Po zmene tapety Zamknutej obrazovky bude štýl hodín Zamknutej obrazovky obnovený do východiskového stavu. Použiť teraz?</string>
+    <string name="apply_wallpaper_dialog_title">Použiť tapetu</string>
     <string name="apply_wallpaper_notice">Upozornenie</string>
     <string name="apply_wallpaper_notice_cancel">Zrušiť</string>
     <string name="apply_wallpaper_notice_content">Aktuálny motív obsahuje prispôsobený modul Zamknutej obrazovky, ktorý môže brániť v úpravách Zamknutej obrazovky.</string>
     <string name="apply_wallpaper_notice_lockscreen">Váš aktuálny motív obsahuje prispôsobenú Zamknutú obrazovku. Ak použijete túto tapetu, nahradíme ju predvolenou uzamknutou obrazovkou. Použiť napriek tomu?</string>
     <string name="apply_wallpaper_notice_still_apply">Použiť</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Teraz používate sady tapiet. Ak použijete nový motív, tapety na Zamknutej obrazovke a Domovskej obrazovke sa nahradia a na aktívnom displeji sa obnoví predchádzajúci štýl. Použiť napriek tomu?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Aktuálne používate Super tapety. Po vybraní novej tapety bude táto tapeta použitá ako pre Domovskú tak Zamknutú obrazovku a Aktívny displej bude obnovený do predchádzajúceho nastavenia. Použiť teraz?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">Teraz používate sady tapiet. Ak použijete nový motív, tapety na Zamknutej obrazovke a na Domovskej obrazovke sa nahradia. Použiť napriek tomu?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Aktuálne používate Super tapety. Po vybraní novej tapety bude táto tapeta použitá ako pre Domovskú tak Zamknutú obrazovku. Použiť teraz?</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">Index kvality ovzdušia: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">Nepodarilo sa pripojiť k sieti. Skontrolujte svoje nastavenia siete a skúste to znovu.</string>
     <string name="card_retry">Skúste to znova</string>
     <string name="carefully_chosen_wallpaper">Výber editora</string>
+    <string name="carousel_no_set_wallpaper_effects">Nie je možné nastaviť efekty, keď je zapnutá Denná tapeta</string>
     <string name="change_host_hint">Zmeniť hostiteľa</string>
     <string name="change_wallpaper">Tapeta</string>
     <string name="channel_featured_page">Odporúčané</string>
@@ -146,8 +150,13 @@
     <string name="clear_text_end_icon_content_description">Vymazať text</string>
     <string name="clearable_edittext_clear_description">Vymazať</string>
     <string name="close">Zatvoriť</string>
-    <string name="columbus_ad_flag_text">REKLAMA</string>
+    <string name="columbus_ad_flag_text">AD</string>
+    <string name="columbus_reward_style_access">Zistiť viac</string>
+    <string name="columbus_reward_style_close_cancel">Koniec</string>
+    <string name="columbus_reward_style_close_desc">Ak chcete získať odmenu, dokončite sledovanie videa. Pokračovať v pozeraní?</string>
+    <string name="columbus_reward_style_speed_confirm">Pokračovať</string>
     <string name="columbus_skip_ad">Preskočiť</string>
+    <string name="columbus_skip_ad_time">Preskočiť (%d)</string>
     <string name="come_and_choose_wallpaper">Vyberte si z tisícok jedinečných tapiet</string>
     <string name="common_google_play_services_enable_button">Povoliť</string>
     <string name="common_google_play_services_enable_text">Aplikácia %1$s bude fungovať až po povolení služieb Google Play.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Ráno</string>
     <string name="editor_apply_message">"Túto funkciu používajú dizajnéri na ladenie. Predvolený motív sa o chvíľu automaticky obnoví. Cesta k súboru aktuálneho motívu: "</string>
     <string name="editor_apply_toast">Manuálne vyberte súbor temp.mtz v root priečinku</string>
+    <string name="effect_home">Efekty Domovskej obrazovky</string>
+    <string name="effect_lock">Efekty Zamknutej obrazovky</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Zadajte e-mailovú adresu</string>
     <string name="eras_ad">CE</string>
@@ -422,6 +433,7 @@
     <string name="later">Teraz nie</string>
     <string name="latest_wallpaper">Nové</string>
     <string name="limit_discount">Limitovaná ponuka</string>
+    <string name="linked_wallpaper">Sady tapiet</string>
     <string name="live_wallpaper">Živá tapeta</string>
     <string name="live_wallpapers">Živé tapety</string>
     <string name="loading">Malý moment…</string>
@@ -650,14 +662,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Viac nezobrazovať</string>
     <string name="not_set">Nenastavené</string>
+    <string name="not_support_subtitle">Kontaktujte IT podporu svojej organizácie alebo prejdite na iné konto.</string>
+    <string name="not_support_title">Nie je možné používať Motívy, keď používate pracovný profil</string>
     <string name="notifications_permission_confirm">Povoliť</string>
     <string name="notifications_permission_decline">Nepovoliť</string>
     <string name="notifications_permission_title">Chcete povoliť aplikácii posielať vám upozornenia?</string>
     <string name="notify_style">Efekty upozornení</string>
-    <string name="offline_notification_text">Klepnutím otvoriť reklamu</string>
-    <string name="offline_notification_title">Zobrazte si reklamu, ktorú ste uložili v režime offline</string>
+    <string name="offline_dialog_image_description">Ikona</string>
+    <string name="offline_dialog_text">"Ďakujeme vám za záujem.
+Ďalšie informácie s vami budeme zdieľať, keď budete opäť online."</string>
+    <string name="offline_notification_title">Opäť ste online. Pokračujme, kde sme skončili.</string>
+    <string name="offline_notification_title_with_advertiser">Opäť ste online. Pokračujte v zisťovaní ďalších informácií o inzerentovi %s.</string>
     <string name="offline_opt_in_confirm">OK</string>
-    <string name="offline_opt_in_confirmation">Po opätovnom pripojení k internetu dostanete upozornenie s odkazom</string>
     <string name="offline_opt_in_decline">Nie, ďakujem</string>
     <string name="offline_opt_in_message">Pošleme vám upozornenie s odkazom na web inzerenta.</string>
     <string name="offline_opt_in_title">Reklama sa otvorí, keď budete znova online.</string>
@@ -679,6 +695,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">Nenechajte si ujsť najnovšie novinky!</string>
     <string name="ota_theme_default_push_content2">Zobraziť naše odporúčania</string>
     <string name="ota_theme_default_push_title">Nové motívy už čoskoro</string>
+    <string name="out_wallpaper_list">Pozadie externej obrazovky</string>
     <string name="password_toggle_content_description">Zobraziť heslo</string>
     <string name="pause_all">Pozastaviť všetko</string>
     <string name="pay_online">Online platba</string>
@@ -907,7 +924,7 @@ mm"</string>
     <string name="resource_server_alert_dialog_title">Server je momentálne nedostupný…</string>
     <string name="resource_server_out_of_service">Nie je možné sa pripojiť k sieti. Skúste to znova neskôr.</string>
     <string name="resource_system_title">Systémové zdroje</string>
-    <string name="resource_tab_to_view">Zobraziť.</string>
+    <string name="resource_tab_to_view">Ťuknite pre zobrazenie.</string>
     <string name="resource_tip_select_none">Žiadne</string>
     <string name="resource_title">Podrobnosti</string>
     <string name="resource_title_category">Kategórie</string>
@@ -975,13 +992,12 @@ mm"</string>
     <string name="saturday_short">Sob</string>
     <string name="saturday_shortest">Sob</string>
     <string name="scroll_switch">Potiahnite prstom pre presúvanie medzi položkami</string>
-    <string name="sdcard_not_mounted_dialog_message">"Vložte SD kartu.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">Žiadna SD karta</string>
     <string name="search_color">Farba</string>
     <string name="search_hint_header_text">Populárne</string>
     <string name="search_menu_title">Hľadať</string>
     <string name="search_sort">Triediť podľa</string>
+    <string name="search_update_guide_bubble">Nové</string>
+    <string name="search_update_guide_text">Zažite úplne nové funkcie vyhľadávania</string>
     <string name="select_all">Vybrať všetko</string>
     <string name="selected_resource_file_invalid">Vybraný súbor nie je možné použiť</string>
     <string name="send">Odoslať</string>
@@ -1035,12 +1051,14 @@ mm"</string>
     <string name="system_aod_dialog_message">Na použitie tejto funkcie povoľte Aktívny displej.</string>
     <string name="system_aod_dialog_positive_button">Nastavenia</string>
     <string name="system_aod_dialog_title">Aktívny displej</string>
+    <string name="system_personalize_title">Prispôsobenie</string>
     <string name="system_phone">Hovory</string>
     <string name="system_precust">Predinštalované</string>
     <string name="text_billing_info">Fakturačné údaje</string>
     <string name="text_cancel_subscription_service">Zrušiť toto predplatné teraz?</string>
     <string name="text_content_update">Denne nový obsah</string>
     <string name="text_free_trial">Vyskúšať zadarmo</string>
+    <string name="text_local_push_check">Zobraziť</string>
     <string name="text_pay_monthly" formatted="false">Začiatok %s, obnovuje sa automaticky za %s/mesiac až do zrušenia</string>
     <string name="text_pay_weekly" formatted="false">Začiatok %s, obnovuje sa automaticky za %s/týždeň až do zrušenia</string>
     <string name="text_pay_yearly" formatted="false">Začiatok %s, obnovuje sa automaticky za %s/rok až do zrušenia</string>
@@ -1146,7 +1164,7 @@ mm"</string>
     <string name="theme_detail_tab_comment">Komentáre</string>
     <string name="theme_detail_tab_recommend">Odporúčané</string>
     <string name="theme_detail_tab_theme">Podrobnosti</string>
-    <string name="theme_download_success_hint">Úspešne stiahnuté. Zobraziť dotykom.</string>
+    <string name="theme_download_success_hint">Úspešne stiahnuté. Ťuknite pre zobrazenie.</string>
     <string name="theme_empty_redirect">Späť na motívy</string>
     <string name="theme_favorite_add_fail">Nepodarilo sa pridať k obľúbeným</string>
     <string name="theme_favorite_add_success">Pridané do obľúbených</string>

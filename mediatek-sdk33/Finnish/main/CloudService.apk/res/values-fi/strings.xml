@@ -188,9 +188,10 @@
     <string name="find_device_gdpr_prompt">Ottamalla käyttöön Etsi laite hyväksyt <u><a href="app://com.miui.cloudservice.gdpr.license">tietosuojakäytännön</a></u>. Poista tämä ominaisuus käytöstä, jos haluat peruuttaa suostumuksesi.</string>
     <string name="find_device_operation_failure_rpc">RPC-virheen vuoksi toimintoa ei voitu suorittaa.</string>
     <string name="find_device_permissions_footer">Napauta \"Myönnä\" myöntääksesi valitsemasi käyttöoikeudet.</string>
-    <string name="find_device_permissions_header">Tervetuloa kohteeseen Etsi laite! Tämän sovelluksen avulla voit paikantaa, seurata ja lukita laitteesi, kun se katoaa. Etsi laite vaatii seuraavat käyttöoikeudet:</string>
+    <string name="find_device_permissions_header">Tervetuloa kohteeseen Etsi laite! Tämän sovelluksen avulla voit paikantaa, seurata ja lukita laitteesi, kun se puuttuu. Voit myös anonyymisti auttaa muita löytämään Xiaomi-laitteensa. Tämä sovellus vaatii seuraavat luvat toimiakseen normaalisti:</string>
     <string name="find_device_service_title">Etsi laite</string>
-    <string name="find_device_status_summary">Etsi ja lukitse laitteesi sekä poista tietoja etänä</string>
+    <string name="find_device_status_summary">"Ota käyttöön, jos haluat paikantaa ja seurata laitteesi tai tyhjentää sen tiedot etänä.
+Voit myös anonyymisti auttaa muita löytämään Xiaomi-laitteensa."</string>
     <string name="find_device_status_title_pad">Etsi laite</string>
     <string name="find_device_status_title_phone">Etsi laite</string>
     <string name="find_permission_location_summary">Tämän laitteen paikantamiseen</string>
@@ -413,7 +414,7 @@
     <string name="micloud_last_sync_canceled">Synkronointi peruutettiin. Yritä uudelleen.</string>
     <string name="micloud_main_head_menu_cloud_backup">Varmuuskopiot</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Etsi laite -toimintoa ei voida käyttää toisessa tilassa. Voit käyttää sitä ensimmäisessä tilassa.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">Poistetut kohteet</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">Äskettäin poistetut kohteet</string>
     <string name="micloud_main_network_error">Ei voi yhdistää verkkoon</string>
     <string name="micloud_main_sync_mode_summary">Synkronoi sovellustietoja reaaliajassa. Virrankulutus kasvaa, kun tämä ominaisuus on käytössä.</string>
     <string name="micloud_main_sync_mode_title">Pikasynkronointi</string>
@@ -633,6 +634,18 @@ Varmista, että käytät siihen liittyvää Xiaomi-tiliä järjestelmätilinä."
     <string name="noti_quota_low_title_without_button">Pilvitallennustila ei riitä</string>
     <string name="notification_sync_fail_title">Salasanojen synkronointi epäonnistui</string>
     <string name="notification_update_key_text">Salasananhallinnan salasana vaihdettu. Tarkista uusi salasana.</string>
+    <string name="offline_find_action_open">Ota käyttöön</string>
+    <string name="offline_find_checkbox_pref_summary_1">Paikanna tämä laite, vaikka se ei olisi yhdistetty verkkoon, ja tarkastele muiden offline-laitteiden sijaintia. &lt;br/>&lt;font color=#0f84ff>Tutustu lisää&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">Paikanna tämä laite, vaikka se olisi pois päältä tai kun se ei ole yhteydessä verkkoon, ja tarkastele muiden offline-laitteiden sijaintia. &lt;br/>&lt;font color=#0f84ff>Tutustu lisää&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">Offline-sijainti</string>
+    <string name="offline_find_doing_disable">Offline-sijainti poistetaan käytöstä…</string>
+    <string name="offline_find_doing_enable">Offline-sijainti otetaan käyttöön…</string>
+    <string name="offline_find_function">Offline-sijainti</string>
+    <string name="offline_find_msg_to_open_1">Ota offline-sijainti käyttöön tässä laitteessa, jotta voit tarkastella muiden offline-laitteiden sijaintia.</string>
+    <string name="offline_find_msg_to_open_2">Vahvista tämä laite luotetuksi ja ota offline-sijainti käyttöön, jotta voit tarkastella muiden offline-laitteiden sijaintia.</string>
+    <string name="offline_find_msg_to_open_3">Tietojesi turvallisuuden takaamiseksi varmista, että tämä laite on luotettava, ennen kuin otat offline-sijainnin käyttöön.</string>
+    <string name="offline_find_title_to_open_1">Ota offline-sijainti käyttöön</string>
+    <string name="offline_find_title_to_open_2">Vahvista tämä laite</string>
     <string name="open_service_title">Ota käyttöön</string>
     <string name="pay_info_dialog_confirm_to_pay">Maksa %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Käytä jäljellä olevat Mi-kolikot: %s</string>
@@ -658,8 +671,8 @@ Sijaintitietoja ei ehkä ilmoiteta, kun verkkoyhteys on heikko."</string>
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Käytä vain WLAN-yhteyttä valokuvien synkronointiin</string>
     <string name="preference_copied">%1$s kopioitiin leikepöydälle.</string>
     <string name="privacy_and_agreement">Käyttöehdot</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">Tervetuloa kohteeseen Etsi laite! Tämän palvelun avulla voit paikantaa, lukita tai poistaa tietoja laitteestasi, jos se katoaa.</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">Tervetuloa kohteeseen Etsi laite! Tämän palvelun avulla voit paikantaa, lukita tai poistaa tietoja laitteestasi, jos se katoaa.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">Tervetuloa kohteeseen Etsi laite! Tämän sovelluksen avulla voit paikantaa, seurata ja lukita laitteesi, kun se puuttuu. Voit myös anonyymisti auttaa muita löytämään Xiaomi-laitteensa.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">Tervetuloa kohteeseen Etsi laite! Tämän sovelluksen avulla voit paikantaa, seurata ja lukita laitteesi, kun se puuttuu. Voit myös anonyymisti auttaa muita löytämään Xiaomi-laitteensa.</string>
     <string name="privacy_dialog_sync_all_purpose_china">Tervetuloa Xiaomi Cloud -palveluihin! Xiaomi Cloudin avulla voit synkronoida viestisi, yhteystietosi, muistiinpanosi, selaimen asetukset, valokuvat ja videot, WLAN-asetukset, tallenteet, aloitusnäytön asettelun, sovellukset, kalenteritapahtumat, estoluettelon kohteet, puheluhistorian ja sovellusholvin kaikissa yhdistetyissä laitteissa.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Tervetuloa Xiaomi Cloud -palveluihin! Xiaomi Cloudin avulla voit synkronoida viestisi, yhteystietosi, muistiinpanosi, selaimen asetukset, valokuvat ja videot, WLAN-asetukset, tallenteet, aloitusnäytön asettelun, sovellukset, kalenteritapahtumat, estoluettelon kohteet, puheluhistorian ja sovellusholvin kaikissa yhdistetyissä laitteissa.</string>
     <string name="privacy_dialog_sync_all_purpose_pad">Tervetuloa Xiaomin Cloud -palveluihin! Tämän sovelluksen avulla voit synkronoida viestit, yhteystiedot, muistiinpanot, selaimen kohteet, pilvialbumit, musiikin, kalenterin, estolistan ja puheluhistorian pilveen.</string>

@@ -141,9 +141,10 @@
     <string name="find_device_gdpr_prompt">Cihazı tap-ı açaraq, <u><a href="app://com.miui.cloudservice.gdpr.license">Gizlilik Siyasəti</a></u> sazişimizi qəbul edirsiniz. Razılığınızı geri götürmək istəyirsinizsə bu xüsusiyyəti söndürün.</string>
     <string name="find_device_operation_failure_rpc">RPC xətası səbəbindən əməliyyat yerinə yetirilə bilmədi.</string>
     <string name="find_device_permissions_footer">Seçdiyiniz icazələri vermək üçün \"İcazə ver\" seçiminə toxunun.</string>
-    <string name="find_device_permissions_header">Cihazı tap-a xoş gəlmisiniz! Siz bu tətbiqdən istifadə edərək cihazınız itdikdə yerini tapmaq, izləmək və kilidləmək üçün istifadə edə bilərsiniz. Cihazı tapmaq üçün aşağıdakı icazələr tələb olunur:</string>
+    <string name="find_device_permissions_header">Cihazı tap-a xoş gəlmisiniz! Siz bu tətbiqdən cihazınız itdikdə onun yerini tapmaq, izləmək və kilidləmək üçün istifadə edə bilərsiniz. Siz həmçinin anonim olaraq başqalarına Xiaomi cihazlarını tapmaqda kömək edə bilərsiniz. Bu tətbiq normal işləmək üçün aşağıdakı icazələri tələb edir:</string>
     <string name="find_device_service_title">Cihazı tap</string>
-    <string name="find_device_status_summary">Cihazınızı tapmaq və kilidləmək, həmçinin məlumatları uzaqdan silmək</string>
+    <string name="find_device_status_summary">"Cihazınızı tapmaq və izləmək və ya onun datasını uzaqdan təmizləmək üçün aktiv edin.
+Həmçinin, siz başqalarına Xiaomi cihazlarını tapmaqda anonim şəkildə kömək edə bilərsiniz."</string>
     <string name="find_device_status_title_pad">Cihazı tap</string>
     <string name="find_device_status_title_phone">Cihazı tap</string>
     <string name="find_permission_location_summary">Bu cihazı tapmaq üçün</string>
@@ -366,7 +367,7 @@
     <string name="micloud_last_sync_canceled">Sinxronlaşdırma ləğv edildi. Yenidən cəhd edin.</string>
     <string name="micloud_main_head_menu_cloud_backup">Yedəkləmələr</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Cihaz tapma İkinci sahədə istifadə edilə bilmir. Bu xüsusiyyəti Birinci sahədə istifadə edə bilərsiniz.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">Elementləri sil</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">Son silinən elementlər</string>
     <string name="micloud_main_network_error">Şəbəkəyə qoşula bilmir</string>
     <string name="micloud_main_sync_mode_summary">Tətbiq məlumatını gerçək vaxtda sinxronlaşdır. Bu xüsusiyyət açıq olduqda enerji sərfiyyatı artar.</string>
     <string name="micloud_main_sync_mode_title">Cəld sinxronlaşdırma</string>
@@ -585,6 +586,18 @@
     <string name="noti_quota_low_title_without_button">Kifayət qədər cloud sahəsi yoxdur</string>
     <string name="notification_sync_fail_title">Şifrələr sinxronlaşdırıla bilmədi</string>
     <string name="notification_update_key_text">Şifrə menecerinin şifrəsi dəyişdirildi. Yeni şifrəni yoxlayın.</string>
+    <string name="offline_find_action_open">Aktiv et</string>
+    <string name="offline_find_checkbox_pref_summary_1">Bu cihazı şəbəkəyə qoşulmadıqda belə onu tapın və digər oflayn cihazların yerinə baxın. &lt;br/>&lt;font color=#0f84ff>Daha ətraflı&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">Bu cihazı söndürüldükdə və ya şəbəkəyə qoşulmadıqda belə onu tapın və digər oflayn cihazların yerinə baxın. &lt;br/>&lt;font color=#0f84ff>Daha ətraflı&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">Oflayn yer</string>
+    <string name="offline_find_doing_disable">Oflayn yer … söndürülür</string>
+    <string name="offline_find_doing_enable">Oflayn yer … aktiv edilir</string>
+    <string name="offline_find_function">Oflayn yer</string>
+    <string name="offline_find_msg_to_open_1">Digər oflayn cihazların yerinə baxmaq üçün bu cihazda Oflayn məkanı aktiv edin.</string>
+    <string name="offline_find_msg_to_open_2">Bu cihazın etibarlı olduğunu təsdiqləyin və digər oflayn cihazların yerinə baxmaq üçün Oflayn məkanı aktiv edin.</string>
+    <string name="offline_find_msg_to_open_3">Datanızın təhlükəsizliyini qorumaq üçün Oflayn məkanı aktiv etməzdən əvvəl bu cihazın etibarlı olduğunu yoxlayın.</string>
+    <string name="offline_find_title_to_open_1">Oflayn yeri aktiv et</string>
+    <string name="offline_find_title_to_open_2">Bu cihazı doğrula</string>
     <string name="open_service_title">Aç</string>
     <string name="pay_info_dialog_confirm_to_pay">%s ödə</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Qalan Mi Sikkələri: %s</string>
@@ -609,8 +622,8 @@
     <string name="pref_title_sync_display_photo_on_wifi_only">Şəkilləri sinxronlaşdırmaq üçün yalnız Wi-Fi istifadə et</string>
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="privacy_and_agreement">Şərtlər və qaydalar</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">Cihazı tap xüsusiyyətinə xoş gəlmisiniz! Bu xidmətdən cihazınızı itirdikdə tapmaq, kilidləmək və ya silmək üçün istifadə edə bilərsiniz.</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">Cihazı tap xüsusiyyətinə xoş gəlmisiniz! Bu xidmətdən cihazınızı itirdikdə məkanını aşkarlamaq, kilidləmək və ya məlumatları silmək üçün istifadə edə bilərsiniz.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">Cihazı tap-a xoş gəlmisiniz! Siz bu tətbiqdən cihazınız itdikdə onun yerini tapmaq, izləmək və kilidləmək üçün istifadə edə bilərsiniz. Siz həmçinin anonim olaraq başqalarına Xiaomi cihazlarını tapmaqda kömək edə bilərsiniz.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">Cihazı tap-a xoş gəlmisiniz! Siz bu tətbiqdən cihazınız itdikdə onun yerini tapmaq, izləmək və kilidləmək üçün istifadə edə bilərsiniz. Siz həmçinin anonim olaraq başqalarına Xiaomi cihazlarını tapmaqda kömək edə bilərsiniz.</string>
     <string name="privacy_dialog_sync_all_purpose_china">Xiaomi Cloud xidmətlərinə xoş gəlmisiniz! Mesajlarınızı, kontaktlarınızı, qeydlərinizi, Brauzer tənzimləmələrini, şəkillərinizi və videolarınızı, WLAN tənzimləmələrinizi, qeydləri, Əsas ekran düzülüşünü, tətbiqləri, təqvim hadisələrini, Əngəlli siyahısı elementlərini, zəng tarixçəsini və Tətbiq kassasını bütün qoşulmuş cihazlarda sinxronizasiya etmək üçün Xiaomi Cloud-dan istifadə edə bilərsiniz.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Xiaomi Cloud xidmətlərinə xoş gəlmisiniz! Mesajlarınızı, kontaktlarınızı, qeydlərinizi, Brauzer tənzimləmələrini, şəkillərinizi və videolarınızı, WLAN tənzimləmələrinizi, qeydləri, Əsas ekran düzülüşünü, tətbiqləri, təqvim hadisələrini, Əngəlli siyahısı elementlərini, zəng tarixçəsini və Tətbiq kassasını bütün qoşulmuş cihazlarda sinxronizasiya etmək üçün Xiaomi Cloud-dan istifadə edə bilərsiniz.</string>
     <string name="privacy_dialog_sync_all_purpose_pad">Xiaomi Cloud xidmətlərinə xoş gəlmisiniz! Siz bu tətbiq mesajlarınızı, kontaktlarınızı, qeydlərinizi, Brauzer elementlərinizi, cloud albomlarınızı, musiqinizi, təqviminizi, əngəlli siyahılarınızı və zəng tarixçənizi cloud-la sinxronlaşdırmaq üçün istifadə edə bilərsiniz.</string>

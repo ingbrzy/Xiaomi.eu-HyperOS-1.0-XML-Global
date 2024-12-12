@@ -5099,6 +5099,8 @@ Połącz co najmniej 4 kropki."</string>
     <string name="login_action">Zaloguj się</string>
     <string name="long_press_back_key">Dotknij i przytrzymaj przycisk Wstecz</string>
     <string name="long_press_buttom_key">Dotknij i przytrzymaj przycisk Ekran główny na Ekranie blokady</string>
+    <string name="long_press_editor_style_summary">Naciśnij i przytrzymaj ekran blokady, aby edytować zegar i tapetę</string>
+    <string name="long_press_editor_style_title">Naciśnij i przytrzymaj, aby edytować</string>
     <string name="long_press_home_key">Dotknij i przytrzymaj przycisk Ekranu głównego</string>
     <string name="long_press_menu_key">Dotknij i przytrzymaj przycisk Menu</string>
     <string name="long_press_menu_key_when_lock">Dotknij i przytrzymaj przycisk Menu na Ekranie blokady</string>

@@ -188,9 +188,10 @@
     <string name="find_device_gdpr_prompt">"By turning on Find device, you're agreeing to our "<u><a href="app://com.miui.cloudservice.gdpr.license">Privacy Policy</a></u>. Turn this feature off if you want to withdraw your consent.</string>
     <string name="find_device_operation_failure_rpc">"Couldn't perform the operation due to RPC error."</string>
     <string name="find_device_permissions_footer">"Tap \"Grant\" to grant the permissions you've selected."</string>
-    <string name="find_device_permissions_header">"Welcome to Find device! You can use this app to locate, track, and lock your device when it's missing. Find device requires the following permissions:"</string>
+    <string name="find_device_permissions_header">"Welcome to Find device! You can use this app to locate, track, and lock your device when it's missing. You can also anonymously help others locate their Xiaomi devices. This app requires the following permissions to work normally:"</string>
     <string name="find_device_service_title">Find device</string>
-    <string name="find_device_status_summary">Locate and lock your device, as well as erase data remotely</string>
+    <string name="find_device_status_summary">"Turn on to locate and track your device or clear its data remotely.
+You can also anonymously help others locate their Xiaomi devices."</string>
     <string name="find_device_status_title_pad">Find device</string>
     <string name="find_device_status_title_phone">Find device</string>
     <string name="find_permission_location_summary">For locating this device</string>
@@ -413,7 +414,7 @@
     <string name="micloud_last_sync_canceled">Sync was cancelled. Try again.</string>
     <string name="micloud_main_head_menu_cloud_backup">Backups</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Find device is unavailable in Second space. You can use it in First space.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">Deleted items</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">Recently deleted items</string>
     <string name="micloud_main_network_error">"Can't connect to the network"</string>
     <string name="micloud_main_sync_mode_summary">Sync app data in real time. Power consumption will increase when this feature is on.</string>
     <string name="micloud_main_sync_mode_title">Quick sync</string>
@@ -633,6 +634,18 @@ Make sure you're using the associated Xiaomi Account as your system account."</s
     <string name="noti_quota_low_title_without_button">Not enough cloud storage</string>
     <string name="notification_sync_fail_title">"Couldn't sync passwords"</string>
     <string name="notification_update_key_text">Password manager passcode changed. Verify the new passcode.</string>
+    <string name="offline_find_action_open">Turn on</string>
+    <string name="offline_find_checkbox_pref_summary_1">"Locate this device even when it's not connected to the network and view the location of other offline devices. &lt;br/>&lt;font color=#0f84ff>Learn more&lt;/font>"</string>
+    <string name="offline_find_checkbox_pref_summary_2">"Locate this device even when it's powered off or not connected to the network, and view the location of other offline devices. &lt;br/>&lt;font color=#0f84ff>Learn more&lt;/font>"</string>
+    <string name="offline_find_checkbox_pref_title">Offline location</string>
+    <string name="offline_find_doing_disable">Turning off Offline location…</string>
+    <string name="offline_find_doing_enable">Turning on Offline location…</string>
+    <string name="offline_find_function">Offline location</string>
+    <string name="offline_find_msg_to_open_1">Turn on Offline location on this device to be able to view the location of other offline devices.</string>
+    <string name="offline_find_msg_to_open_2">Verify this device as trusted and turn on Offline location to be able to view the location of other offline devices.</string>
+    <string name="offline_find_msg_to_open_3">To protect the security of your data, verify this device as trusted before turning on Offline location.</string>
+    <string name="offline_find_title_to_open_1">Turn on Offline location</string>
+    <string name="offline_find_title_to_open_2">Verify this device</string>
     <string name="open_service_title">Turn on</string>
     <string name="pay_info_dialog_confirm_to_pay">Pay %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Use remaining Mi Coins: %s</string>
@@ -658,8 +671,8 @@ Location info might not be reported when network connection is poor."</string>
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">"'%1$s' copied to clipboard."</string>
     <string name="privacy_and_agreement">Terms and conditions</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">"Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost."</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">"Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost."</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">"Welcome to Find device! You can use this app to locate, track, and lock your device when it's missing. You can also anonymously help others locate their Xiaomi devices."</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">"Welcome to Find device! You can use this app to locate, track, and lock your device when it's missing. You can also anonymously help others locate their Xiaomi devices."</string>
     <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, call history, and App vault across all connected devices.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, contacts, notes, Browser settings, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, call history, and App vault across all connected devices.</string>
     <string name="privacy_dialog_sync_all_purpose_pad">Welcome to Xiaomi Cloud services! You can use this app to sync your messages, contacts, notes, Browser items, cloud albums, music, calendar, blocklist, and call history to the cloud.</string>

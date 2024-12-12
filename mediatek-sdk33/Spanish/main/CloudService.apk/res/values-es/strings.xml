@@ -188,9 +188,10 @@
     <string name="find_device_gdpr_prompt">Al activar Encontrar dispositivo, aceptas nuestra <u><a href="app://com.miui.cloudservice.gdpr.license">Política de Privacidad</a></u>. Si necesitas revocar la autorización, desactiva esta función.</string>
     <string name="find_device_operation_failure_rpc">No se pudo realizar la acción debido a un error de RPC.</string>
     <string name="find_device_permissions_footer">Pulsa \"Otorgar\" para otorgar los permisos que has seleccionado.</string>
-    <string name="find_device_permissions_header">¡Bienvenido a Encontrar dispositivo! Puedes utilizar esta aplicación para localizar, rastrear y bloquear tu dispositivo cuando se pierda. Encontrar dispositivo requiere de los siguientes permisos:</string>
+    <string name="find_device_permissions_header">¡Bienvenido a Encontrar dispositivo! Puedes usar esta aplicación para localizar, rastrear y bloquear tu dispositivo cuando se pierda. También puedes ayudar de forma anónima a otras personas a localizar tus dispositivos Xiaomi. Esta aplicación requiere los siguientes permisos para funcionar con normalidad:</string>
     <string name="find_device_service_title">Encontrar dispositivo</string>
-    <string name="find_device_status_summary">Localiza y bloquea tu dispositivo, elimina también datos de forma remota</string>
+    <string name="find_device_status_summary">"Actívalo para localizar y rastrear tu dispositivo o borrar tus datos de forma remota.
+También puedes ayudar de forma anónima a otros a localizar tus dispositivos Xiaomi."</string>
     <string name="find_device_status_title_pad">Encontrar dispositivo</string>
     <string name="find_device_status_title_phone">Encontrar dispositivo</string>
     <string name="find_permission_location_summary">Para localizar este dispositivo</string>
@@ -413,7 +414,7 @@
     <string name="micloud_last_sync_canceled">La sincronización fue cancelada. Vuelve a intentarlo.</string>
     <string name="micloud_main_head_menu_cloud_backup">Copias de seguridad</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Encontrar dispositivo no está disponible en el Segundo espacio. Puedes usarlo en el Primer espacio.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">Elementos eliminados</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">Elementos eliminados recientemente</string>
     <string name="micloud_main_network_error">No se puede conectar a la red</string>
     <string name="micloud_main_sync_mode_summary">Sincroniza los datos de aplicaciones en tiempo real. El consumo de energía aumentará cuando esta función esté activa.</string>
     <string name="micloud_main_sync_mode_title">Sincronización rápida</string>
@@ -633,6 +634,18 @@ Asegúrate de estar usando la Cuenta Xiaomi asociada a tu cuenta del sistema."</
     <string name="noti_quota_low_title_without_button">No hay almacenamiento suficiente en la nube</string>
     <string name="notification_sync_fail_title">No se pudo sincronizar las contraseñas</string>
     <string name="notification_update_key_text">La contraseña del gestor de códigos de acceso ha cambiado. Comprueba el nuevo código de acceso.</string>
+    <string name="offline_find_action_open">Activar</string>
+    <string name="offline_find_checkbox_pref_summary_1">Localiza este dispositivo incluso cuando no esté conectado a la red y mira la ubicación de otros dispositivos sin conexión. &lt;br/>&lt;font color=#0f84ff>Aprender más&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">Localiza este dispositivo incluso cuando esté apagado no esté conectado a la red y mira la ubicación de otros dispositivos sin conexión. &lt;br/>&lt;font color=#0f84ff>Aprender más&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">Ubicación sin conexión</string>
+    <string name="offline_find_doing_disable">Desactivando Ubicación sin conexión…</string>
+    <string name="offline_find_doing_enable">Activando Ubicación sin conexión…</string>
+    <string name="offline_find_function">Ubicación sin conexión</string>
+    <string name="offline_find_msg_to_open_1">Activa Ubicación sin conexión en este dispositivo para poder ver la ubicación de otros dispositivos sin conexión.</string>
+    <string name="offline_find_msg_to_open_2">Verifica este dispositivo como confiable y activa Ubicación sin conexión para poder ver la ubicación de otros dispositivos sin conexión</string>
+    <string name="offline_find_msg_to_open_3">Para proteger la seguridad de tus datos, verifica que este dispositivo sea confiable antes de activar Ubicación sin conexión.</string>
+    <string name="offline_find_title_to_open_1">Activar Ubicación sin conexión</string>
+    <string name="offline_find_title_to_open_2">Verifica este dispositivo</string>
     <string name="open_service_title">Activar</string>
     <string name="pay_info_dialog_confirm_to_pay">Pagar %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Usar Monedas Mi restantes: %s</string>
@@ -658,8 +671,8 @@ Es posible que la información de ubicación no sea reportada cuando la conexió
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="privacy_and_agreement">Términos y Condiciones</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">¡Bienvenido a Buscar dispositivo! Puedes usar este servicio para localizar, bloquear o borrar datos en tu dispositivo si se pierde.</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">¡Bienvenido a Buscar dispositivo! Puedes usar este servicio para localizar, bloquear o borrar datos en tu dispositivo si se pierde.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">¡Bienvenido a Encontrar dispositivo! Puedes usar esta aplicación para localizar, rastrear y bloquear tu dispositivo cuando se pierda. También puedes ayudar de forma anónima a otras personas a localizar tus dispositivos Xiaomi.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">¡Bienvenido a Encontrar dispositivo! Puedes usar esta aplicación para localizar, rastrear y bloquear tu dispositivo cuando se pierda. También puedes ayudar de forma anónima a otras personas a localizar tus dispositivos Xiaomi.</string>
     <string name="privacy_dialog_sync_all_purpose_china">¡Bienvenido a los servicios de Xiaomi Cloud! Puedes usar Xiaomi Cloud para sincronizar tus mensajes, contactos, notas, ajustes del Navegador, fotos y vídeos, ajustes WLAN, grabaciones, diseño de la Pantalla de inicio, aplicaciones, eventos del calendario, elementos de la Lista negra, historial de llamadas y Bóveda de aplicaciones en todos dispositivos conectados.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">¡Bienvenido a los servicios de Xiaomi Cloud! Puedes usar Xiaomi Cloud para sincronizar tus mensajes, contactos, notas, ajustes del Navegador, fotos y vídeos, ajustes WLAN, grabaciones, diseño de la Pantalla de inicio, aplicaciones, eventos del calendario, elementos de la Lista negra, historial de llamadas y Bóveda de aplicaciones en todos dispositivos conectados.</string>
     <string name="privacy_dialog_sync_all_purpose_pad">¡Bienvenido a los servicios de Xiaomi Cloud! Puedes utilizar esta aplicación para sincronizar tus mensajes, contactos, notas, elementos del Navegador, álbumes en la nube, música, calendario, lista negra e historial de llamadas en la nube.</string>

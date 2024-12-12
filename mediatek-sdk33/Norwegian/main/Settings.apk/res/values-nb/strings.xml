@@ -5102,6 +5102,8 @@ Knytt sammen minst 4 prikker."</string>
     <string name="login_action">Logg inn</string>
     <string name="long_press_back_key">Langt trykk på tilbakeknappen</string>
     <string name="long_press_buttom_key">Langt trykk på Hjem på låseskjermen</string>
+    <string name="long_press_editor_style_summary">Trykk og hold inne låseskjermen for å redigere klokke og bakgrunnsbilde</string>
+    <string name="long_press_editor_style_title">Trykk og hold inne for å redigere</string>
     <string name="long_press_home_key">Langt trykk på hjemknappen</string>
     <string name="long_press_menu_key">Langt trykk på menyknappen</string>
     <string name="long_press_menu_key_when_lock">Langt trykk på Meny på låseskjerm</string>

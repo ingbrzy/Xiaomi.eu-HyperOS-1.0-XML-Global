@@ -5101,6 +5101,8 @@ Sujunkite mažiausiai 4 taškus."</string>
     <string name="login_action">Prisijungti</string>
     <string name="long_press_back_key">Palaikykite nuspaudę grįžimo mygtuką</string>
     <string name="long_press_buttom_key">Užrakto ekrane ilgu paspaudimu palaikykite „Pagrindinis“ mygtuką</string>
+    <string name="long_press_editor_style_summary">Norėdami redaguoti laikrodį ir fono paveikslėlį, paspauskite ir palaikykite ant užrakto ekrano</string>
+    <string name="long_press_editor_style_title">Norėdami redaguoti, paspauskite ir palaikykite</string>
     <string name="long_press_home_key">Palaikykite nuspaudę mygtuką „Pagrindinis“</string>
     <string name="long_press_menu_key">Ilgai palaikykite nuspaudę „Meniu“ mygtuką</string>
     <string name="long_press_menu_key_when_lock">Užrakto ekrane ilgai palaikykite nuspaudę „Meniu“</string>

@@ -554,9 +554,13 @@ Patikrinkite tinklo parametrus ir bandykite dar kartą."</string>
     <string name="session_failed_dist_no_space_btn_text">Valyti saugyklą</string>
     <string name="session_failed_get_installed_apps_denied_detail">Automatiniam atsarginių kopijų kūrimui, parametruose suteikite šiai programai leidimą pasiekti įrenginyje įdiegtų programų sąrašą (pasirinkite „Visada leisti“).</string>
     <string name="session_failed_get_installed_apps_denied_title">Reikalingi leidimai</string>
+    <string name="session_failed_invalid_token_action">Prisijungti</string>
+    <string name="session_failed_invalid_token_detail">Prisijungti iš naujo</string>
+    <string name="session_failed_invalid_token_title">Netinkami prisijungimo duomenys</string>
     <string name="session_failed_no_server_response_title">Nepavyko prisijungti prie serverio.</string>
     <string name="session_failed_override_detail">Vietinė atsarginė kopija skiriasi nuo „Xiaomi debesyje“ kuriamos kopijos. Jei tęsite, dabartinė kopija perrašys ankstesnę. Perrašyti dabar?</string>
     <string name="session_failed_override_title">Atsarginės kopijos perrašymas</string>
+    <string name="session_failed_reason_invalid_token">Netinkami prisijungimo duomenys. Prisijunkite dar kartą.</string>
     <string name="session_failed_restore_app_data_btn_text">Grįžti</string>
     <string name="session_failed_restore_app_data_detail">Prieš atkurdami elementus įsitikinkite, kad šiame įrenginyje neįdiegta „WeChat“. Neatidarykite ir nenaudokite „WeChat“, kol duomenys atkuriami.</string>
     <string name="session_failed_restore_app_data_title">Išdiegti „WeChat“</string>

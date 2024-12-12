@@ -5101,6 +5101,8 @@ Conecta al menos 4 puntos."</string>
     <string name="login_action">Iniciar sesión</string>
     <string name="long_press_back_key">Mantén pulsado el botón Atrás</string>
     <string name="long_press_buttom_key">Pulsa y mantén Inicio en la Pantalla de bloqueo</string>
+    <string name="long_press_editor_style_summary">Mantén pulsada la Pantalla de bloqueo para editar el reloj y el fondo de pantalla</string>
+    <string name="long_press_editor_style_title">Mantén pulsado para editar</string>
     <string name="long_press_home_key">Mantén pulsado el botón de Inicio</string>
     <string name="long_press_menu_key">Mantén pulsado el botón Menú</string>
     <string name="long_press_menu_key_when_lock">Mantén pulsado el Menú en la Pantalla de bloqueo</string>

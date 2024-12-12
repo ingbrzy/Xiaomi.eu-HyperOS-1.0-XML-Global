@@ -5098,6 +5098,8 @@ Kössön össze legalább 4 pontot."</string>
     <string name="login_action">Bejelentkezés</string>
     <string name="long_press_back_key">Vissza gomb hosszan nyomva</string>
     <string name="long_press_buttom_key">Home gomb hosszan nyomva lezárt képernyőnél</string>
+    <string name="long_press_editor_style_summary">Nyomja hosszan a képernyőzárat az óra és a háttérkép szerkesztéséhez</string>
+    <string name="long_press_editor_style_title">Nyomja hosszan a szerkesztéshez</string>
     <string name="long_press_home_key">Home gomb hosszan nyomva</string>
     <string name="long_press_menu_key">Menü gomb hosszan nyomva</string>
     <string name="long_press_menu_key_when_lock">Menü gomb hosszan nyomva lezárt képernyőnél</string>

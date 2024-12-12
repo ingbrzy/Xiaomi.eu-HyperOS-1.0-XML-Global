@@ -5102,6 +5102,8 @@ Povežite vsaj 4 pike."</string>
     <string name="login_action">Vpis</string>
     <string name="long_press_back_key">Dolg pritisk gumba Nazaj</string>
     <string name="long_press_buttom_key">Dolg pritisk gumba Domov na Zaklenjenem zaslonu</string>
+    <string name="long_press_editor_style_summary">Pritisnite in držite zaklenjen zaslon, da uredite uro in ozadje</string>
+    <string name="long_press_editor_style_title">Pritisnite in držite za urejanje</string>
     <string name="long_press_home_key">Dolg pritisk gumba Domov</string>
     <string name="long_press_menu_key">Dolg pritisk gumba Meni</string>
     <string name="long_press_menu_key_when_lock">Dolg pritisk tipke Meni na Zaklenjenem zaslonu</string>

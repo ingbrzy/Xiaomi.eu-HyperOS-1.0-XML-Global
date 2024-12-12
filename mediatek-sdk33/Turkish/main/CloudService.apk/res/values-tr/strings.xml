@@ -188,9 +188,10 @@
     <string name="find_device_gdpr_prompt">"Cihazı bul'u açarak "<u><a href="app://com.miui.cloudservice.gdpr.license">Gizlilik Politikamızı</a></u> kabul ediyorsunuz. Onayınızı geri çekmek isterseniz bu özelliği kapatın.</string>
     <string name="find_device_operation_failure_rpc">İşlem RPC hatası nedeniyle tamamlanamadı.</string>
     <string name="find_device_permissions_footer">"Seçtiğiniz izinleri vermek için ''İzin ver'' seçeneğine dokunun."</string>
-    <string name="find_device_permissions_header">"Cihazı bul'a hoş geldiniz! Bu uygulamayı, kaybolduğunda cihazınızın konumunu belirlemek, cihazınızı takip etmek ve kilitlemek için kullanabilirsiniz. Cihazı bul'un aşağıdaki izinlere ihtiyacı vardır:"</string>
+    <string name="find_device_permissions_header">"Cihazı bul'a hoş geldiniz! Cihazınız kayıpken bu uygulamayı cihazınızı bulmak, takip etmek ve kilitlemek için kullanabilirsiniz. Ayrıca anonim olarak başkalarının Xiaomi cihazlarını bulmalarına da yardımcı olabilirsiniz. Bu uygulamanın normal çalışabilmesi için aşağıdaki izinlere ihtayacı vardır:"</string>
     <string name="find_device_service_title">Cihazı bul</string>
-    <string name="find_device_status_summary">Cihazınızı bulun ve kilitleyin, ayrıca verileri uzaktan silin</string>
+    <string name="find_device_status_summary">"Cihazınızın yerini belirlemek ve cihazınızı izlemek veya verilerini uzaktan silmek için açın.
+Ayrıca anonim olarak başkalarının Xiaomi cihazlarını bulmalarına da yardımcı olabilirsiniz."</string>
     <string name="find_device_status_title_pad">Cihazı bul</string>
     <string name="find_device_status_title_phone">Cihazı bul</string>
     <string name="find_permission_location_summary">Bu cihazın konumunu bulmak için</string>
@@ -413,7 +414,7 @@
     <string name="micloud_last_sync_canceled">Senkronizasyon iptal edildi. Tekrar deneyin.</string>
     <string name="micloud_main_head_menu_cloud_backup">Yedekler</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Cihazı bul özelliği ikinci alanda kullanılamıyor. Bu özelliği birinci alanda kullanabilirsiniz.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">Silinen öğeler</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">Son silinen ögeler</string>
     <string name="micloud_main_network_error">Ağa bağlanılamıyor</string>
     <string name="micloud_main_sync_mode_summary">Uygulamaları gerçek zamanlı olarak senkronize edin. Bu özellik açıkken güç tüketimi artar.</string>
     <string name="micloud_main_sync_mode_title">Hızlı senkronizasyon</string>
@@ -633,6 +634,18 @@ Sistem hesabınızla ilişkili Xiaomi Hesabınızı kullandığınızdan emin ol
     <string name="noti_quota_low_title_without_button">Yeterli cloud depolama alanı yok</string>
     <string name="notification_sync_fail_title">Şifreler senkronize edilemedi</string>
     <string name="notification_update_key_text">Şifre yöneticisi şifresi değişti. Yeni şifreyi doğrulayın.</string>
+    <string name="offline_find_action_open">Aç</string>
+    <string name="offline_find_checkbox_pref_summary_1">Ağa bağlı olmadığında bile bu cihazın konumunu bulun ve diğer çevrim dışı cihazların konumunu görüntüleyin.&lt;br/>&lt;font color=#0f84ff>Daha fazla bilgi edinin&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">Kapalıyken veya ağa bağlı değilken bile bu cihazın konumunu bulun ve diğer çevrim dışı cihazların konumunu görüntüleyin.&lt;br/>&lt;font color=#0f84ff>Daha fazla bilgi edinin&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">Çevrim dışı konum</string>
+    <string name="offline_find_doing_disable">Çevrim dışı konum kapatılıyor…</string>
+    <string name="offline_find_doing_enable">Çevrim dışı konum açılıyor…</string>
+    <string name="offline_find_function">Çevrim dışı konum</string>
+    <string name="offline_find_msg_to_open_1">Diğer çevrim dışı cihazların konumunu görüntüleyebilmek için bu cihazdaki Çevrim dışı konumu açın.</string>
+    <string name="offline_find_msg_to_open_2">Bu cihazı güvenilir olarak doğrulayın ve diğer çevrim dışı cihazların konumunu görüntüleyebilmek için bu cihazdaki Çevrim dışı konumu açın.</string>
+    <string name="offline_find_msg_to_open_3">Verilerinizin güvenliğini korumak için Çevrim dışı konumu açmadan önce bu cihazı güvenilir olarak doğrulayın.</string>
+    <string name="offline_find_title_to_open_1">Çevrim dışı konumu aç</string>
+    <string name="offline_find_title_to_open_2">Bu cihazı doğrulayın</string>
     <string name="open_service_title">Aç</string>
     <string name="pay_info_dialog_confirm_to_pay">%s öde</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Kalan Mi Paraları kullanın: %s</string>
@@ -658,8 +671,8 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilemeyebilir."</string>
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
     <string name="privacy_and_agreement">Şartlar ve koşullar</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">"Cihaz bul'a hoş geldiniz! Bu hizmeti, kaybolması durumunda cihazınızın yerini belirlemek, cihazınızı kilitlemek veya cihazınızdaki verileri silmek için kullanabilirsiniz."</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">"Cihaz bul'a hoş geldiniz! Bu hizmeti, kaybolması durumunda cihazınızın yerini belirlemek, cihazınızı kilitlemek veya cihazınızdaki verileri silmek için kullanabilirsiniz."</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">"Cihazı bul'a hoş geldiniz! Cihazınız kayıpken bu uygulamayı cihazınızı bulmak, takip etmek ve kilitlemek için kullanabilirsiniz. Ayrıca anonim olarak başkalarının Xiaomi cihazlarını bulmalarına da yardımcı olabilirsiniz."</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">"Cihazı bul'a hoş geldiniz! Cihazınız kayıpken bu uygulamayı cihazınızı bulmak, takip etmek ve kilitlemek için kullanabilirsiniz. Ayrıca anonim olarak başkalarının Xiaomi cihazlarını bulmalarına da yardımcı olabilirsiniz."</string>
     <string name="privacy_dialog_sync_all_purpose_china">"Xioami Cloud hizmetlerine hoş geldiniz! Xiaomi Cloud'u tüm bağlı cihazlarınızda mesajlarınızı, kişilerinizi, notlarınızı, tarayıcı ayarlarınızı, fotoğraf ve videolarınızı, WLAN ayarlarını, ses kayıtlarınızı, ana ekran düzenini, uygulamalarınızı, takvim etkinliklerinizi, Engellenenler ögelerini, arama geçmişini ve Uygulama kasasını senkronize etmek için kullanabilirsiniz."</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">"Xioami Cloud hizmetlerine hoş geldiniz! Xiaomi Cloud'u tüm bağlı cihazlarınızda mesajlarınızı, kişilerinizi, notlarınızı, tarayıcı ayarlarınızı, fotoğraf ve videolarınızı, WLAN ayarlarını, ses kayıtlarınızı, ana ekran düzenini, uygulamalarınızı, takvim etkinliklerinizi, Engellenenler ögelerini, arama geçmişini ve Uygulama kasasını senkronize etmek için kullanabilirsiniz."</string>
     <string name="privacy_dialog_sync_all_purpose_pad">Xiaomi Cloud hizmetlerine hoş geldiniz! Bu uygulamayı mesajlarınızı, kişilerinizi, notlarınızı, tarayıcı ögelerini, cloud albümlerini, müziği, takvimi, engellenenler listesini ve arama geçmişini cloud ile senkronize etmek için kullanabilirsiniz.</string>

@@ -141,9 +141,10 @@
     <string name="find_device_gdpr_prompt">על ידי הפעלת איתור המכשיר, אתה מסכים ל<u><a href="app://com.miui.cloudservice.gdpr.license">מדיניות הפרטיות</a></u> שלנו. כבה תכונה זו אם ברצונך לבטל את הסכמתך.</string>
     <string name="find_device_operation_failure_rpc">לא ניתן היה לבצע את הפעולה עקב שגיאת RPC.</string>
     <string name="find_device_permissions_footer">הקש על \"הענק\" כדי להעניק את ההרשאות שבחרת.</string>
-    <string name="find_device_permissions_header">ברוכים הבאים לאיתור המכשיר! ניתן להשתמש ביישום זה כדי לאתר, לעקוב ולנעול את המכשיר כאשר הוא הולך לאיבוד. איתור המכשיר דורש את ההרשאות הבאות:</string>
+    <string name="find_device_permissions_header">ברוכים הבאים לאיתור המכשיר! ניתן להשתמש ביישום זה כדי לאתר את המכשיר שלכם, לעקוב אחריו ולנעול אותו אם הוא אבד. תוכלו גם לעזור לאחרים באופן אנונימי לאתר את מכשירי Xiaomi שלהם. יישום זה זקוק להרשאות הבאות כדי לעבוד כנדרש:</string>
     <string name="find_device_service_title">איתור המכשיר</string>
-    <string name="find_device_status_summary">אתר את המכשיר שלך ונעל אותו, וכן מחק נתונים מרחוק</string>
+    <string name="find_device_status_summary">"הפעילו כדי לאתר את המכשיר שלכם ולעקוב אחריו או למחוק את הנתונים שלו מרחוק.
+תוכלו גם לעזור לאחרים באופן אנונימי לאתר את מכשירי Xiaomi שלהם."</string>
     <string name="find_device_status_title_pad">איתור המכשיר</string>
     <string name="find_device_status_title_phone">איתור המכשיר</string>
     <string name="find_permission_location_summary">לאיתור מכשיר זה</string>
@@ -366,7 +367,7 @@
     <string name="micloud_last_sync_canceled">הסינכרון בוטל. נסה שנית.</string>
     <string name="micloud_main_head_menu_cloud_backup">גיבויים</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">"'איתור המכשיר' אינו זמין ב'שטח שני'. תוכל להשתמש בתכונה זו ב'שטח ראשון'."</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">פריטים שנמחקו</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">פריטים שנמחקו לאחרונה</string>
     <string name="micloud_main_network_error">לא ניתן להתחבר לרשת</string>
     <string name="micloud_main_sync_mode_summary">סנכרן את נתוני היישום. צריכת הסוללה תעלה כאשר תכונה זו מופעלת.</string>
     <string name="micloud_main_sync_mode_title">סריקה מהירה</string>
@@ -585,6 +586,18 @@
     <string name="noti_quota_low_title_without_button">אין מספיק שטח אחסון בענן</string>
     <string name="notification_sync_fail_title">לא ניתן היה לסנכן את הסיסמה</string>
     <string name="notification_update_key_text">הקוד למנהל הסיסמאות שונה. יש לאמת את הקוד החדש.</string>
+    <string name="offline_find_action_open">להפעיל</string>
+    <string name="offline_find_checkbox_pref_summary_1">אתרו את המכשיר הזה אפילו כשהוא לא מחובר לרשת וצפו במיקום של מכשירים אחרים שאינם מקוונים.&lt;br/>&lt;font color=#0f84ff>למידע נוסף&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">אתרו את המכשיר הזה אפילו כשהוא כבוי או לא מחובר לרשת וצפו במיקום של מכשירים אחרים שאינם מקוונים.&lt;br/>&lt;font color=#0f84ff>למידע נוסף&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">מיקום לא מקוון</string>
+    <string name="offline_find_doing_disable">משבית מיקום לא מקוון…</string>
+    <string name="offline_find_doing_enable">מפעיל מיקום לא מקוון…</string>
+    <string name="offline_find_function">מיקום לא מקוון</string>
+    <string name="offline_find_msg_to_open_1">יש להפעיל מיקום לא מקוון במכשיר זה כדי שתוכלו לצפות במיקום של מכשירים לא מקוונים אחרים.</string>
+    <string name="offline_find_msg_to_open_2">אמתו את המכשיר הזה כמכשיר מהימן והפעילו מיקום לא מקוון כדי שתוכלו לצפות במיקום של מכשירים לא מקוונים אחרים.</string>
+    <string name="offline_find_msg_to_open_3">כדי לשמור על אבטחת הנתונים שלכם, יש לאמת את המכשיר הזה כמכשיר מהימן לפני הפעלת מיקום לא מקוון.</string>
+    <string name="offline_find_title_to_open_1">הפעלת מיקום לא מקוון</string>
+    <string name="offline_find_title_to_open_2">אמתו את המכשיר הזה</string>
     <string name="open_service_title">הפעל</string>
     <string name="pay_info_dialog_confirm_to_pay">שלם %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">השתמש במטבעות Mi שנותרו: %s</string>
@@ -609,8 +622,8 @@
     <string name="pref_title_sync_display_photo_on_wifi_only">השתמש בחיבור רשת אחלוטית בלבד לסנכרון תמונות</string>
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="privacy_and_agreement">תנאים והתניות</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">ברוך הבא לשירות איתור המכשיר! תוכל להשתמש בשירות זה כדי לאתר, לנעול או למחוק נתונים במכשיר שלך במקרה של אובדן.</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">ברוך הבא לשירות איתור המכשיר! תוכל להשתמש בשירות זה כדי לאתר, לנעול או למחוק נתונים במכשיר שלך במקרה של אובדן.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">ברוכים הבאים לאיתור המכשיר! ניתן להשתמש ביישום זה כדי לאתר את המכשיר שלכם, לעקוב אחריו ולנעול אותו אם הוא אבד. תוכלו גם לעזור לאחרים באופן אנונימי לאתר את מכשירי Xiaomi שלהם.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">ברוכים הבאים לאיתור המכשיר! ניתן להשתמש ביישום זה כדי לאתר את המכשיר שלכם, לעקוב אחריו ולנעול אותו אם הוא אבד. תוכלו גם לעזור לאחרים באופן אנונימי לאתר את מכשירי Xiaomi שלהם.</string>
     <string name="privacy_dialog_sync_all_purpose_china">ברוכים הבאים לשירותי הענן Xiaomi Cloud! אפשר להשתמש ב-Xiaomi Cloud כדי לסנכרן את ההודעות, אנשי הקשר, הפתקים, הגדרות הדפדפן, התמונות והסרטונים, הגדרות ה-WLAN, ההקלטות, פריסת מסך הבית, היישומים, אירועי לוח השנה, רשימת החסומים, יומן השיחות וכספת היישומים שלך בין כל המכשירים המחוברים.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">ברוכים הבאים לשירותי הענן Xiaomi Cloud! אפשר להשתמש ב-Xiaomi Cloud כדי לסנכרן את ההודעות, אנשי הקשר, הפתקים, הגדרות הדפדפן, התמונות והסרטונים, הגדרות ה-WLAN, ההקלטות, פריסת מסך הבית, היישומים, אירועי לוח השנה, רשימת החסומים, יומן השיחות וכספת היישומים שלך בין כל המכשירים המחוברים.</string>
     <string name="privacy_dialog_sync_all_purpose_pad">ברוכים הבאים לשירותי הענן Xiaomi Cloud! אפשר להשתמש ביישום הזה כדי לסנכרן לענן את ההודעות, אנשי הקשר, הפתקים, תוכן הדפדפן, אלבומי הענן, המוזיקה, לוח השנה, רשימת החסומים ויומן השיחות שלך.</string>

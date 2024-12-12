@@ -161,6 +161,7 @@
     <string name="alert_back_milink_hangup_tips_content_vb">မျက်နှာပြင်ပိတ်သွားသောအခါတွင် ဤအက်ပ်သည် ပြသမှုလုပ်ငန်းစဉ်များကို အနှောင့်အယှက်ပေးခြင်းမရှိဘဲ နောက်ခံတွင် အလုပ်လုပ်နေပါမည်။ မျက်နှာပြင် ပြန်ဖွင့်ရန်အတွက် ပါဝါခလုတ်ကို နှိပ်ပါ။</string>
     <string name="all_address_choose_hint">ဤခရိုင်အတွင်းရှိ နံပါတ်အားလုံး</string>
     <string name="allow_all">အားလုံးခွင့်ပြုရန်</string>
+    <string name="allow_device_id_access">စက်အိုင်ဒီ သုံးနိုင်သော အက်ပ်များအား ရွေးပါ</string>
     <string name="allow_onetime">တစ်ကြိမ်ခွင့်ပြုရန်</string>
     <string name="already_close_gamebooster">ဂိမ်းအရှိန်မြှင့်ခြင်းအား ပိတ်ထားသည်</string>
     <string name="am">နံနက်</string>
@@ -197,8 +198,8 @@
     <string name="antivirus_privacy_dialog_cloudscan">အက်ပ်အမည်များနှင့် အသေးစိတ်များကို လုဒ်တင်တင်ပါ</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">ဗိုင်းရပ်များကို ပိုမိုထိရောက်စွာ ရှာပြီး သတ်ရန်အတွက် ကျွန်ုပ်တို့က ကလောက်အင်ဂျင်သုံးပြီး ရှာဖွေနိုင်ရန် အက်(ပ်)၏ ပက်ကေ့(ဂျ်)အမည်များနှင့် ဂုဏ်သတ္တိများကို အပ်ပလုဒ်လုပ်ပါမည်။</string>
     <string name="antivirus_privacy_dialog_ok">အိုကေ</string>
-    <string name="antivirus_privacy_dialog_summary">&lt;Data>ဤအင်္ဂါရပ်ကို ပြင်ပပါတီ ဗိုင်းရပ်ကာကွယ်ရေး အင်ဂျင်မှ ပံ့ပိုးခြင်းဖြစ်သည်။ ပိုမိုလေ့လာရန် ပြင်ပပါတီမှ ပေးထားသော&lt;a href=\"%1$s\">လိုင်စင်သဘောတူညီချက်&lt;/a> ကို ဖတ်ပါ။&lt;/Data></string>
-    <string name="antivirus_privacy_dialog_summary_kddi">&lt;Data>လုံခြုံရေးစကန်ဖတ်နေချိန်တွင် စက်၏မော်ဒယ်နှင့် စကန်ရလဒ်များကို %1$s ဆာဗာသို့ တင်မည်ဖြစ်ပြီး ၎င်းတို့ကို သက်ဆိုင်ရာ &lt;a href=\"%2$s\">စည်းမျဉ်းစည်းကမ်းများ&lt;/a> နှင့် အညီ သုံးပါမည်။ .&lt;br/>&lt;br/>လုံခြုံရေးစကန် မဖတ်မီ %3$s ၏ စည်းမျဉ်းစည်းကမ်းများကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;br/>&lt;br/>ဒေတာများကို %4$s ဆာဗာများသို့တင်ရန် သဘောမတူပါက သင့်စက်အတွင်းသိမ်းထားသော ဗိုင်းရပ်သတ်မှတ်ချက်များကို ဆက်သုံးနိုင်ပါသည်။&lt;/Data></string>
+    <string name="antivirus_privacy_dialog_summary"><Data>ဤအင်္ဂါရပ်ကို ပြင်ပပါတီ ဗိုင်းရပ်ကာကွယ်ရေး အင်ဂျင်မှ ပံ့ပိုးခြင်းဖြစ်သည်။ ပိုမိုလေ့လာရန် ပြင်ပပါတီမှ ပေးထားသော&lt;a href=\"%1$s\">လိုင်စင်သဘောတူညီချက်&lt;/a> ကို ဖတ်ပါ။</Data></string>
+    <string name="antivirus_privacy_dialog_summary_kddi"><Data>လုံခြုံရေးစကန်ဖတ်နေချိန်တွင် စက်၏မော်ဒယ်နှင့် စကန်ရလဒ်များကို %1$s ဆာဗာသို့ တင်မည်ဖြစ်ပြီး ၎င်းတို့ကို သက်ဆိုင်ရာ &lt;a href=\"%2$s\">စည်းမျဉ်းစည်းကမ်းများ&lt;/a> နှင့် အညီ သုံးပါမည်။ .&lt;br/>&lt;br/>လုံခြုံရေးစကန် မဖတ်မီ %3$s ၏ စည်းမျဉ်းစည်းကမ်းများကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;br/>&lt;br/>ဒေတာများကို %4$s ဆာဗာများသို့တင်ရန် သဘောမတူပါက သင့်စက်အတွင်းသိမ်းထားသော ဗိုင်းရပ်သတ်မှတ်ချက်များကို ဆက်သုံးနိုင်ပါသည်။</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</string>
     <string name="antivirus_privacy_dialog_title">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</string>
     <string name="antivirus_privacy_dialog_title_kddi">စည်းမျဉ်းစည်းကမ်းများ</string>
@@ -907,6 +908,7 @@
     <string name="button_text_let_me_select">နားလည်ပါပြီ</string>
     <string name="button_text_next_step">နောက်တစ်ဆင့်</string>
     <string name="button_text_next_step_timer">နောက်တစ်ဆင့် (%d)</string>
+    <string name="button_text_once_accept">တစ်ကြိမ်ခွင့်ပြုရန်</string>
     <string name="button_text_open_now">ဖွင့်ရန်</string>
     <string name="button_text_reject">ပယ်ချ</string>
     <string name="button_text_trust">ဤကွန်ရက်ကို ယုံသည်</string>
@@ -1097,6 +1099,7 @@
     <string name="create_shortcut">ဂိမ်းအရှိန်မြှင့်စနစ်အတွက် ပင်မမျက်နှာပြင်တွင် ဖြတ်လမ်းဖိုင်တစ်ခု ပြုလုပ်ပါ</string>
     <string name="cs_color_sense">အရောင်ပြအပူချိန်</string>
     <string name="cs_conversation_record_using">အသံသွင်းနေသည်</string>
+    <string name="cs_func_toast_bluetooth_headset">ဤအင်္ဂါရပ်ကို သုံးနိုင်ရန် ဘလူးတုနားကြပ်ဖြုတ်ပါ</string>
     <string name="cs_func_toast_headset">ဤအင်္ဂါရပ်ကို သုံးနိုင်ရန် နားကြပ်ဖြုတ်ပါ</string>
     <string name="cs_func_toast_light">ဤအင်္ဂါရပ်ကို သုံးနိုင်ရန် ရှေ့ကင်မရာသို့ ပြောင်းပါ</string>
     <string name="cs_func_toast_pickup">ဤအင်္ဂါရပ်ကို သုံးနိုင်ရန် ဗီဒီယိုခေါ်ဆိုမှုသို့ ပြောင်းပါ</string>
@@ -1127,6 +1130,7 @@
     <string name="cs_tool_box_phone_guide_case_1">ခေါ်ဆိုမှုကိရိယာပုံးအသစ်ရှိ တစ်ပြိုင်နက်ဘာသာပြန်နှင့် အခြားအင်္ဂါရပ်များ စမ်းသုံးပါ</string>
     <string name="cs_tool_box_phone_guide_case_2">ခေါ်ဆိုမှုကိရိယာပုံးအသစ်ရှိ အင်္ဂါရပ်အမြောက်အမြား စမ်းသုံးပါ</string>
     <string name="cs_voice_print">အသံသဘာဝကို အသံသွင်းရန်</string>
+    <string name="cs_voice_search">အသံသဘာဝ</string>
     <string name="cs_vt_camera_toast_case1">လက်ရှိအက်(ပ်)တွင် ကင်မရာဖွင့်ပါ</string>
     <string name="cs_vt_camera_toast_case2">အနီးအနားတွင် တွဲသုံးနိုင်သောစက်မရှိပါ</string>
     <string name="cta_agree_desc">ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုများကို အသုံးပြုနိုင်စေရန်အတွက် ဤအက်ပ်ကို အင်တာနက်နှင့် ချိတ်ဆက်၍ အထက်ဖော်ပြပါ ခွင့်ပြုချက်များ ပေးအပ်လိုက်ပါ။</string>
@@ -1217,10 +1221,26 @@
     <string name="descx_quick_scan_preparation">ခဏစောင့်ပါ…</string>
     <string name="detail_app_button">အက်(ပ်)အချက်အလက်</string>
     <string name="details_subtitle">သုံးစွဲမှု အသေးစိတ်များ</string>
+    <string name="device_id">စက်အိုင်ဒီ အတွက် အကြံပြုချက်များ</string>
+    <string name="device_id_app_manager_dialog_continue">မရပ်ပါနှင့်</string>
+    <string name="device_id_app_manager_dialog_message">သင်သည် အက်(ပ်)အချို့အား သင့်လှုပ်ရှားမှုကို ခြေရာခံခွင့်ပေးထားသည်။ ခြေရာခံခြင်းကို ယခုရပ်နိုင်သည်။</string>
+    <string name="device_id_app_manager_dialog_stop">ရပ်ပါ</string>
+    <string name="device_id_app_manager_switch_sub_title">ဤအင်္ဂါရပ်ပိတ်ထားစဉ် ခြေရာခံခြင်း တောင်းဆိုချက်အသစ်အားလုံးကို အလိုအလျောက် ပယ်ပါမည်။</string>
+    <string name="device_id_app_manager_switch_title">အက်(ပ်)များအား ခြေရာခံခြင်း တောင်းဆိုခွင့်ပြုရန်</string>
+    <string name="device_id_app_manager_tips">အက်(ပ်)များသည် သင့်အား စိတ်ကြိုက်ကြော်ငြာအကြံပြုချက်နှင့် အခြားအင်္ဂါရပ်များ ပံ့ပိုးနိုင်ရန် ခြေရာခံအထောက်အထားများသုံးပြီး အက်(ပ်)နှင့် ဝက်ဘဆိုက်အမျိုးမျိုးတွင် သင့်လှုပ်ရှားမှုများကို ခြေရာခံနိုင်သည်။</string>
+    <string name="device_id_app_manager_title">အက်(ပ်)ခြေရာခံစနစ် စီမံခန့်ခွဲရန်</string>
+    <string name="device_id_manager_tips">သင့်ကိုယ်ရေးအချက်အလက်လုံခြုံမှုကို ကာကွယ်ရန်အတွက် စနစ်တွင် စက်အထောက်အထားများအစား ပြန်သတ်မှတ်နိုင်သော ခြေရာခံအထောက်အထား (OAID) ကို အက်(ပ်)များသို့ ပံ့ပိုးသည်</string>
+    <string name="device_id_manager_title">ခြေရာခံအထောက်အထား စီမံခန့်ခွဲရန်</string>
+    <string name="device_id_reset">ခြေရာခံအထောက်အထား စီမံခန့်ခွဲရန်</string>
+    <string name="device_id_reset_msg">ပြန်သတ်မှတ်ပြီးနောက် အထောက်အထားအသစ်တစ်ခုကို ဤစက်နှင့် ချိတ်ဆက်ပါမည်။</string>
+    <string name="device_id_str">လက်ရှိ ခြေရာခံအထောက်အထား - %s</string>
     <string name="device_manager_apply_step_1">ဤအက်ပ်အတွက် စက်အုပ်ချုပ်သူအား ဖွင့်ပေးမလား?</string>
     <string name="device_manager_apply_step_2">"ဤအက်ပ်အတွက် စက်အုပ်ချုပ်သူအား ဖွင့်ပေးပါက သင်၏ ကိုယ်ရေးအချက်အလက်များ ထုတ်ဖော်ခံရနိုင်ခြေရှိသည်။
 သင်၏စက်ထဲရှိ ဒေတာအားလုံး ဖျက်ခံရပြီး သော့ခတ်မျက်နှာပြင် စကားဝှက်ကိုလည်း ပြန်သတ်မှတ်ခံရနိုင်ခြေရှိသည်။"</string>
     <string name="device_manager_apply_step_3">ရှေ့ဆက် မလုပ်ဆောင်မီ ဖြစ်ပေါ်နိုင်သော အန္တရာယ်အားလုံးကို သင်နားလည်ကြောင်း သေချာစေပါ။ ဤအက်ပ်အတွက် စက်အုပ်ချုပ်သူအား ယခု ဖွင့်ပေးမလား?</string>
+    <string name="device_oaid">ဗာကျူဝယ် ID ကို စီမံခန့်ခွဲရန်</string>
+    <string name="device_oaid_desc">စနစ်သည် ထည့်ထားသောအက်(ပ်)များသို့ သင့်အထူး ID အစား ဗာကျူဝယ် ID (OAID) သာ ပေးပါမည်။ ၎င်းသည် သင့်အမူအကျင့်နှင့် စိတ်ကြိုက်များကို အက်(ပ်)များက မှတ်ထားခြင်းမှ တားဆီးနိုင်ပြီး ကိုယ်ရေးအချက်အလက်လုံခြုံမှုကို ကာကွယ်နိုင်သည်။</string>
+    <string name="device_oaid_title">ဗာကျူဝယ် ID</string>
     <string name="dialog_app_roaming_message">%1$s သည် မိုဘိုင်းဒေတာ ရွန်းမင်းကို အသုံးပြု၍ မရနိုင်ပါ။ သင်ရွန်းမင်းလုပ်နေစဉ်၊ ခြွင်းချက်များတွင် ထည့်ထားသော အက်ပ်များသာ မိုဘိုင်းဒေတာကို အသုံးပြု၍ရနိုင်ပါသည်။</string>
     <string name="dialog_app_roaming_title">%1$s သည် ဒေတာရွန်းမင်းအား အသုံးမပြုနိုင်ပါ</string>
     <string name="dialog_change_package_type_summary">ဒေတာအစီအစဉ် အမျိုးအစားအား ပြောင်းမည်ဆိုပါက ဒေတာသုံးစွဲမှုဆက်တင်(ဥပမာ- ဒေတာကန့်သတ်ချက်) အားလုံးကို မူလသို့ ပြန်သတ်မှတ်ပါမည်။ ယခု ပြောင်းမလား?</string>
@@ -1357,12 +1377,12 @@
     <string name="exit">ထွက်</string>
     <string name="exit_dialog_exit">ထွက်ရန်</string>
     <string name="exit_dialog_garbage_clean_message">သင်၏စက်တွင် အမှိုက် %s ထက်များနေပြီ။ ရှင်းလင်းမလား?</string>
-    <string name="exit_dialog_garbage_clean_message_new">&lt;Data>Cleaner သည် နေရာလွတ် &lt;font color=#0099ff>%s&lt;/font> ရှင်းပေးနိုင်သည်။ ယခုရှင်းလိုသလား။&lt;/Data></string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>Cleaner သည် နေရာလွတ် &lt;font color=#0099ff>%s&lt;/font> ရှင်းပေးနိုင်သည်။ ယခုရှင်းလိုသလား။</Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">ရှင်းလင်းပါ</string>
     <string name="exit_dialog_garbage_clean_title">နေရာလွတ်ပြုလုပ်ရန်</string>
     <string name="exit_dialog_homepage_optimise_message">လုပ်ဆောင်ချက်ရမှတ်မှာ ၈၀ ထက်နည်းနေသည်။ ပိုကောင်းအောင်လုပ်မလား?</string>
     <string name="exit_dialog_release_memory_positive_button">ပိတ်ရန်</string>
-    <string name="exit_dialog_release_memory_title_new">&lt;Data>စက်ကို &lt;font color=#0099ff>%s&lt;/font> အထိ မြန်နှုန်းမြှင့်ရန်&lt;/Data></string>
+    <string name="exit_dialog_release_memory_title_new"><Data>စက်ကို &lt;font color=#0099ff>%s&lt;/font> အထိ မြန်နှုန်းမြှင့်ရန်</Data></string>
     <string name="exit_dialog_release_storage_message">လက်ရှိတွင် သင်စက်သိုလှောင်ခန်း၏ ၈၀%ကို နေရာယူထားသည်။ ဘယ်တော့မှ မသုံးသော အက်ပ်များကို ဖြုတ်ချခြင်းဖြင့် နေရာလွတ် ရှင်းလင်းပါ။</string>
     <string name="exit_dialog_release_storage_message_new">စက်သိုလှောင်ခန်းနေရာ %s ကျော် ပြည့်နေသည်။ မသုံးသော အက်(ပ်)များကို ဖြုတ်ပြီး နေရာလွတ်ရှင်းပါ။</string>
     <string name="exit_dialog_release_storage_positive_button">နေရာလွတ်ရှင်းပါ</string>
@@ -1626,7 +1646,7 @@
     <string name="game_wid_viewpoint_buttom">ခဏ အနားယူပါ။</string>
     <string name="gamebooster_confirm_dialog_negative_btn">သဘောမတူပါ</string>
     <string name="gamebooster_confirm_dialog_positive_btn">သဘောတူပါသည်</string>
-    <string name="gamebooster_confirm_dialog_tip">&lt;Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Privacy Policy&lt;/a>&lt;/Data></string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Privacy Policy&lt;/a></Data></string>
     <string name="gamebooster_confirm_dialog_title">ကျွန်ုပ်တို့၏ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒကို သဘောတူပါ</string>
     <string name="gamebooster_dialog_recover">သက်တမ်းတိုးရန်</string>
     <string name="gamebooster_dialog_start_booster">စရန်</string>
@@ -1755,8 +1775,8 @@
     <string name="gb_audition_play_instruction">အကောင်းဆုံးရလဒ်အတွက် နားကြပ်တပ်ပါ</string>
     <string name="gb_award_noti_message">ဆုများရရန် ငြိမ်းချမ်းရေးဂိမ်း နောက်ခံအပ်ပဒိတ်များကို ဂိမ်းတာဘိုတွင် ဖွင့်ပါ။</string>
     <string name="gb_award_noti_title">ငြိမ်းချမ်းရေးဂိမ်းအတွက် ဆုများက သည်မှာပါ။</string>
-    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>စနစ်အနှံ့ အကောင်းဆုံးမုဒ်ကို ဖွင့်ထားလျှင် ဂိမ်းအရှိန်မြှင့်စနစ်တွင် ဘက်မျှမုဒ်သို့ ပြောင်းမရပါ။ လုံခြုံရေးတွင် ဓာတ်ခဲဆက်တင်ကို ပြောင်းနိုင်သည်။.&lt;br>&lt;a href=\"#\">လုံခြုံရေး ဖွင့်ရန်&lt;/a>&lt;/Data></string>
-    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>စနစ်အနှံ့ အကောင်းဆုံးမုဒ်ကို ဖွင့်ထားလျှင် ဂိမ်းအရှိန်မြှင့်စနစ်တွင် ဘက်မျှမုဒ်သို့ ပြောင်းမရပါ။ လုံခြုံရေးတွင် ဓာတ်ခဲဆက်တင်ကို ပြောင်းနိုင်သည်။&lt;br>&lt;a href=\"#\">လုံခြုံရေး ဖွင့်ရန်&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>စနစ်အနှံ့ အကောင်းဆုံးမုဒ်ကို ဖွင့်ထားလျှင် ဂိမ်းအရှိန်မြှင့်စနစ်တွင် ဘက်မျှမုဒ်သို့ ပြောင်းမရပါ။ လုံခြုံရေးတွင် ဓာတ်ခဲဆက်တင်ကို ပြောင်းနိုင်သည်။.&lt;br>&lt;a href=\"#\">လုံခြုံရေး ဖွင့်ရန်&lt;/a></Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>စနစ်အနှံ့ အကောင်းဆုံးမုဒ်ကို ဖွင့်ထားလျှင် ဂိမ်းအရှိန်မြှင့်စနစ်တွင် ဘက်မျှမုဒ်သို့ ပြောင်းမရပါ။ လုံခြုံရေးတွင် ဓာတ်ခဲဆက်တင်ကို ပြောင်းနိုင်သည်။&lt;br>&lt;a href=\"#\">လုံခြုံရေး ဖွင့်ရန်&lt;/a></Data></string>
     <string name="gb_bar_high">အမြင့်</string>
     <string name="gb_bar_low">အနိမ့်</string>
     <string name="gb_bar_mid">အလယ်အလတ်</string>
@@ -1884,7 +1904,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_new_feature">အင်္ဂါရပ်အသစ်များ</string>
     <string name="gb_not_support_on_device">"This app can't be used on the outer screen"</string>
     <string name="gb_operat_frequently">အလွန်မမြန်ပါစေနှင့်။</string>
-    <string name="gb_performace_guide_disable_desc">&lt;Data>စနစ်အနှံ့ စွမ်းဆောင်ရည်မုဒ်ကို ဖွင့်ထားလျှင် ဂိမ်းအရှိန်မြှင့်စနစ်တွင် ဘက်မျှမုဒ်သို့ ပြောင်းမရပါ။ လုံခြုံရေးတွင် ဓာတ်ခဲဆက်တင်ကို ပြောင်းနိုင်သည်။&lt;br>&lt;a href=\"#\">လုံခြုံရေး ဖွင့်ရန်&lt;/a>&lt;/Data></string>
+    <string name="gb_performace_guide_disable_desc"><Data>စနစ်အနှံ့ စွမ်းဆောင်ရည်မုဒ်ကို ဖွင့်ထားလျှင် ဂိမ်းအရှိန်မြှင့်စနစ်တွင် ဘက်မျှမုဒ်သို့ ပြောင်းမရပါ။ လုံခြုံရေးတွင် ဓာတ်ခဲဆက်တင်ကို ပြောင်းနိုင်သည်။&lt;br>&lt;a href=\"#\">လုံခြုံရေး ဖွင့်ရန်&lt;/a></Data></string>
     <string name="gb_performace_switch_toast">စွမ်းဆောင်ရည်မုဒ်သို့ ပြောင်းထားသည်။ စက်အပူလွန်ပြီး ဓာတ်ခဲပိုကုန်နိုင်သည်။</string>
     <string name="gb_performace_tips_button">ပြောင်းရန်</string>
     <string name="gb_performace_tips_title">ပိုသုံးကောင်းရန် စွမ်းဆောင်ရည်မုဒ်သို့ ပြောင်းပါ</string>
@@ -1901,7 +1921,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_predownload_dialog_cancel">မလုပ်လိုပါ</string>
     <string name="gb_predownload_dialog_checked">ထပ်မပြပါနှင့်</string>
     <string name="gb_predownload_dialog_confirm">ဖွင့်ရန်</string>
-    <string name="gb_predownload_dialog_message_china">&lt;Data>WLAN ချိတ်ပြီး မျက်နှာပြင်ပိတ်ထားလျှင် ဤဂိမ်းအတွက် နောက်ဆုံးပေါ်အကြောင်းအရာများကို ဤစက်တွင် အလိုအလျောက်ဒေါင်းလုဒ်လုပ်နိုင်သည်။ ထို့ကြောင့် ဗားရှင်းအသစ်ထွက်သည်နှင့် ချက်ချင်းသုံးနိုင်ပါမည်။&lt;br>&lt;br>ဤအင်္ဂါရပ်ကိုမသုံးမီ &lt;a href=\"%1$s\">နောက်ခံအပ်ပဒိတ်များကြေညာချက်&lt;/a>ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data></string>
+    <string name="gb_predownload_dialog_message_china"><Data>WLAN ချိတ်ပြီး မျက်နှာပြင်ပိတ်ထားလျှင် ဤဂိမ်းအတွက် နောက်ဆုံးပေါ်အကြောင်းအရာများကို ဤစက်တွင် အလိုအလျောက်ဒေါင်းလုဒ်လုပ်နိုင်သည်။ ထို့ကြောင့် ဗားရှင်းအသစ်ထွက်သည်နှင့် ချက်ချင်းသုံးနိုင်ပါမည်။&lt;br>&lt;br>ဤအင်္ဂါရပ်ကိုမသုံးမီ &lt;a href=\"%1$s\">နောက်ခံအပ်ပဒိတ်များကြေညာချက်&lt;/a>ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</Data></string>
     <string name="gb_predownload_dialog_title">နောက်ခံအပ်ပဒိတ်များ ယခုရနိုင်ပါပြီ</string>
     <string name="gb_predownload_message_new">စက်ကို မသုံးချိန်တွင် တွဲသုံးနိုင်သောအက်(ပ်)များကို အလိုအလျောက် အပ်ပဒိတ်လုပ်ပါ</string>
     <string name="gb_predownload_noti_message">ဤစက်တွင် အပ်ပဒိတ်လုပ်ထားသော အကြောင်းအရာ %2$1.2f GB ရှိပြီးဖြစ်သည်။ ဗားရှင်းအသစ်ထွက်သည်နှင့် ချက်ချင်းသုံးနိုင်ပါမည်။</string>
@@ -2077,7 +2097,7 @@ Record sequences and use them anytime!"</string>
     <string name="gd_sidebar_edit_quick_title">ရှော့ကတ်များ</string>
     <string name="gd_sidebar_long_press_tips">စက်ကို ထောင်လိုက်ကိုင်ထားစဉ် အညွှန်းခလုတ်ကိုရွှေ့ရန် ထိပြီး ဖိထားပါ။</string>
     <string name="gd_splite_screen_tips">မျက်နှာပြင်ခွဲခြင်းသည် မျောလွင့် အကွက်များအား ထည့်သွင်းထောက်ပံ့ထားခြင်း မရှိပါ</string>
-    <string name="gdpr_msg">&lt;Data>လုံခြုံရေး အန္တရာယ်များကို ရှာဖွေဖော်ထုတ်ရန်နှင့် သင့်ဒေတာကို ကာကွယ်ရန်အတွက် သင့်စက်နှင့်သက်ဆိုင်သည့် လိုအပ်သော အချက်အလက်ပမာဏတစ်ခုကို ကျွန်ုပ်တို့စုဆောင်းရန် လိုအပ်ပါသည်။ ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုများကို အသုံးမပြုမီ ကျွန်ုပ်တို့၏ &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">ကိုယ်ရေးကိုယ်တာ မူဝါဒ&lt;/a>ကို ဖတ်ရှု၍ သဘောတူပေးပါ။ ဤသို့သော အချက်အလက်စုဆောင်းခွင့်အား ကျွန်ုပ်တို့ထံ သင်ပေးအပ်ခြင်းမပြုလျှင် ဤအက်ပ်ကို အသုံးပြုနိုင်ဦးမည်ဖြစ်သော်လည်း အချို့သော အင်္ဂါရပ်များကို သင်အသုံးပြုနိုင်မည် မဟုတ်ပါ။ &lt;/Data></string>
+    <string name="gdpr_msg"><Data>လုံခြုံရေး အန္တရာယ်များကို ရှာဖွေဖော်ထုတ်ရန်နှင့် သင့်ဒေတာကို ကာကွယ်ရန်အတွက် သင့်စက်နှင့်သက်ဆိုင်သည့် လိုအပ်သော အချက်အလက်ပမာဏတစ်ခုကို ကျွန်ုပ်တို့စုဆောင်းရန် လိုအပ်ပါသည်။ ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုများကို အသုံးမပြုမီ ကျွန်ုပ်တို့၏ &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">ကိုယ်ရေးကိုယ်တာ မူဝါဒ&lt;/a>ကို ဖတ်ရှု၍ သဘောတူပေးပါ။ ဤသို့သော အချက်အလက်စုဆောင်းခွင့်အား ကျွန်ုပ်တို့ထံ သင်ပေးအပ်ခြင်းမပြုလျှင် ဤအက်ပ်ကို အသုံးပြုနိုင်ဦးမည်ဖြစ်သော်လည်း အချို့သော အင်္ဂါရပ်များကို သင်အသုံးပြုနိုင်မည် မဟုတ်ပါ။ </Data></string>
     <string name="get_detail_by_click">အသေးစိတ်ကြည့်ရန် တို့ပါ</string>
     <string name="get_phone_num_fail">မသိသောဖုန်းနံပါတ်</string>
     <string name="get_sys_info">အချက်အလက်ရယူနေသည်…</string>
@@ -2184,11 +2204,11 @@ Record sequences and use them anytime!"</string>
     <string name="gtb_dialog_btn_open">ဖွင့်ရန်</string>
     <string name="gtb_dialog_hint_smart_5g">ဤအင်္ဂါရပ်အား Game Turbo နှင့် ဆက်တင်များအတွင်းတွင် အဖွင့်၊ အပိတ် လုပ်နိုင်ပါသည်။</string>
     <string name="gtb_dialog_privacy_speed_message">သင်သည် Xunyou ဂိမ်းစွမ်းအားမြှင့်စနစ်ကို သုံးပါတော့မည်။ ဤဝန်ဆောင်မှုက သင်၏အဖွဲ့ဝင်သက်တမ်းကို မှတ်တမ်းတင်ရန်အတွက် Xiaomi အကောင့် ID ကို ကောက်ယူပါမည်။</string>
-    <string name="gtb_dialog_privacy_speed_tips">&lt;Data>ကျွန်ုပ်သည် Xunyou ဂိမ်းစွမ်းအားမြှင့်စနစ်၏ &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
-    <string name="gtb_dialog_privacy_speed_tips_new">"&lt;Data>I've read and agreed to the Xunyou Game Booster &lt;a href=\"%1$s\">Privacy Policy&lt;/a>.&lt;/Data>"</string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>ကျွန်ုပ်သည် Xunyou ဂိမ်းစွမ်းအားမြှင့်စနစ်၏ &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"I've read and agreed to the Xunyou Game Booster &lt;a href=\"%1$s\">Privacy Policy&lt;/a>."</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou ဂိမ်းစွမ်းအားမြှင့်စနစ်</string>
     <string name="gtb_dialog_privacy_voice_message">သင်သည် Xunyou ဂိမ်းအသံပြောင်းစနစ်ကို သုံးပါတော့မည်။ ဤဝန်ဆောင်မှုက သင်၏အဖွဲ့ဝင်သက်တမ်းကို မှတ်တမ်းတင်ရန်အတွက် သင့် Xiaomi အကောင့် ID ကို ကောက်ယူပါမည်။</string>
-    <string name="gtb_dialog_privacy_voice_tips">&lt;Data>ကျွန်ုပ်သည် Xunyou ဂိမ်းအသံပြောင်းစနစ်၏ &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။&lt;/Data></string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>ကျွန်ုပ်သည် Xunyou ဂိမ်းအသံပြောင်းစနစ်၏ &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူပြီးပါပြီ။</Data></string>
     <string name="gtb_dialog_privacy_voice_title">Xunyou ဂိမ်းအသံပြောင်းစနစ်</string>
     <string name="gtb_dialog_summary_smart_5g">5G ကွန်ရက်တစ်ခုကို Game Turbo က ထောက်လှမ်းတွေ့ရှိသောအချိန်တိုင်းတွင် ကွန်ရက်နှောင့်နှေးမှုကို လျှော့ချပေးရန်အသုံးပြုနိုင်သည့် အကောင်းဆုံးကွန်ရက်နှင့် သင်စက်ကို ချိတ်ဆက်နိုင်စေပါသည်။ ဤအင်္ဂါရပ်ကို ပိတ်ထားမလား။</string>
     <string name="gtb_dialog_title_smart_5g">5G ကွန်ရက် အဆင့်မြှင့်ခြင်း</string>
@@ -2908,9 +2928,12 @@ Record sequences and use them anytime!"</string>
     <string name="numeric_recording_intro_header">စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="numeric_retry_button_text">ပယ်ဖျက်မည်</string>
     <string name="numeric_settings_help_how_to_record">PIN အား ဘယ်လို သတ်မှတ်မလဲ</string>
+    <string name="oaid_apps_summary">အက်ပ်တစ်ခုချင်းစီအတွက် သုံးစွဲမှုကို ခွင့်ပြုပါ သို့မဟုတ် ကန့်သတ်ပါ</string>
     <string name="oaid_apps_title">ဗာကျူဝယ် ID ကို စီမံခန့်ခွဲရန်</string>
     <string name="oaid_reset_content_tip">ဗာကျူဝယ် ID ကို ယခုပိတ်လိုက်လျှင် အချို့အက်(ပ်)များ ကောင်းစွာအလုပ်လုပ်တော့မည် မဟုတ်ဘဲ သင့်အက်(ပ်)ဒေတာအချို့ ပျောက်ဆုံးသွားမည် သို့မဟုတ် သုံးမရဖြစ်သွားပါမည်။</string>
     <string name="oaid_reset_final_tip">ဗာကျူဝယ် ID ကို မဖြစ်မနေ ပိတ်လိုသလား။</string>
+    <string name="oaid_string">"လက်ရှိ ဗာကျူဝယ် ID - 
+%1s"</string>
     <string name="oaid_tips_content">သင့်အတွက် စိတ်ကြိုက်ြပုလုပ်ထားသည့် ကြော်ငြာများနှင့် သင့်အပြုအမူ ခြေရာခံကြည့်မှုအတွက် ဗာကျူဝယ် ID များ (OAID)ကို အသုံးပြုနိုင်သည်။ မည်သည့် အက်ပ်က သင့်ဗာကျူဝယ် ID အား သုံးစွဲခွင့်ပြုမပြုကို သင်ရွေးချယ်နိုင်သည်။ သင်က သုံးစွဲခွင့်ကို ကန့်သတ်ထားလျှင် ကြော်ငြာအကြံပြုချက်များသည် ဆက်စပ်မှုမရှိတော့ဘဲ အက်ပ်များသည်လည်း ပုံမှန်အတိုင်း အလုပ်မလုပ်နိုင်‌တော့ကြောင်းကို သတိပြုပါ။</string>
     <string name="ok">အိုကေ</string>
     <string name="ok_button">အိုကေ</string>
@@ -3046,6 +3069,7 @@ Record sequences and use them anytime!"</string>
     <string name="pc_batery_protection">ဓာတ်ခဲအကာအကွယ်</string>
     <string name="pc_battery_charge_protect">အားသွင်းအကာအကွယ်</string>
     <string name="pc_battery_chart_loading">ခဏစောင့်ပါ…</string>
+    <string name="pc_battery_date_year_month_format">MMM yyyy</string>
     <string name="pc_battery_detail_curve_reference_now">ယခု</string>
     <string name="pc_battery_detail_device_item_title">ဘက်ထရီသုံးစွဲမှု အခြေအနေ</string>
     <string name="pc_battery_health_revise_title">ဓာတ်ခဲကျန်းမာရေးအချက်အလက် ချိန်ညှိရန်</string>
@@ -3078,7 +3102,7 @@ Record sequences and use them anytime!"</string>
     <string name="pc_camera_printer_notify_subtitle">ချိတ်ထားသည်</string>
     <string name="pc_camera_printer_title">ဓာတ်ပုံပရင်တာပစ္စည်းစုံ</string>
     <string name="pc_category_charge_settings">အားသွင်းဆက်တင်များ</string>
-    <string name="pc_charge_mode_low_power_fast_speed">မီးအားနည်း</string>
+    <string name="pc_charge_mode_low_power_fast_speed">အရှိန်မြှင့်ရန်</string>
     <string name="pc_charge_mode_low_power_fast_speed_tips">စက်ပူနိုင်သည်</string>
     <string name="pc_charge_mode_standard">ပုံမှန်</string>
     <string name="pc_charge_mode_topspeed">အမြန်ဆုံး</string>
@@ -3109,6 +3133,7 @@ Record sequences and use them anytime!"</string>
     <string name="pc_continuity_open_save_mode_notifi_sumary">%1$s ဓာတ်ခဲသည် %2$s အောက် အားနည်းနေသည်။ %3$s %4$s ထည့်ရန် ဓာတ်ခဲချွေတာစနစ်ကို ဖွင့်ပါ။</string>
     <string name="pc_continuity_open_save_mode_notifi_title">%s ဓာတ်ခဲအားနည်းသည်</string>
     <string name="pc_current_power_mode">လက်ရှိမုဒ်</string>
+    <string name="pc_cycle_count_protect_title">စက်ဝန်းများ</string>
     <string name="pc_emergency_call">အရေးပေါ်</string>
     <string name="pc_endurance_calculation">တွက်ချက်နေသည်…</string>
     <string name="pc_entered_extreme_mode">ဟိုက်ဘာနိတ်မုဒ်ဖွင့်ထားသည်</string>
@@ -3140,11 +3165,16 @@ Record sequences and use them anytime!"</string>
     <string name="pc_fast_charge_switch_toast_message">နောက်တစ်ကြိမ် အားသွင်းချိန်တွင် ပြောင်းလဲမှုများ စတင်အကျုံးဝင်ပါမည်</string>
     <string name="pc_fast_charge_temp_remider">အားသွင်းနှုန်းကို အလိုအလျောက်ချိန်ရန် ဖွင့်ပါ။ ဤအင်္ဂါရပ်သည် Xiaomi ပါ အားသွင်းကြိုးနှင့်သာ အလုပ်လုပ်သည်။ အားသွင်းစဉ် စက်ပူနိုင်သည်။</string>
     <string name="pc_fast_charge_title">အားသွင်းနှုန်းကို မြှင့်ရန်</string>
+    <string name="pc_first_use_error_tips">တွက်နေသည်</string>
+    <string name="pc_first_use_protect_title">ပထမအကြိမ်သုံးခြင်း</string>
     <string name="pc_going_to_exit_extreme_mode">ဟိုက်ဘာနိတ်မုဒ်မှ ထွက်ခြင်း</string>
     <string name="pc_going_to_exit_extreme_mode_summary">သင့်စက်ကိုအားသွင်းနေသည်။ ဟိုက်ဘာနိတ်မုဒ်ကို ပိတ်ထားသည်။</string>
     <string name="pc_going_to_extreme_mode">ဟိုက်ဘာနိတ်မုဒ်သို့ ဝင်ခြင်း</string>
     <string name="pc_handle_battery_level">လက်ကိုင်</string>
     <string name="pc_have_no_battery_issue">ပြဿနာမရှိပါ</string>
+    <string name="pc_health_charge_protect_notification_summary">ဓာတ်ခဲသက်တမ်းကုန်ခြင်းလျှော့ရန် ဓာတ်ခဲအကာအကွယ် ဖွင့်ပါ</string>
+    <string name="pc_health_charge_protect_summary">ဓာတ်ခဲသက်တမ်း တိုးမြှင့်နိုင်ရန်အတွက် ဓာတ်ခဲလယ်ဗယ် %1$s ရောက်လျှင် စက်က အားသွင်းခြင်းကို ရပ်ပါမည်</string>
+    <string name="pc_health_charge_protect_title">ဓာတ်ခဲအကာအကွယ်</string>
     <string name="pc_hide_more_power_rank_apps">ဖုံးထားရန်</string>
     <string name="pc_hidemode_normal">ညှိထားသည်</string>
     <string name="pc_hidemode_normal_title">ညှိထားသည်</string>
@@ -3183,6 +3213,8 @@ Record sequences and use them anytime!"</string>
     <string name="pc_low_battery_fast_charge_summary">မျက်နှာပြင်ပိတ်ချိန်နှင့် ဓာတ်ခဲအားနည်းချိန်တွင် အားသွင်းနှုန်းမြှင့်ရန် အတူပါအားသွင်းကြိုးနှင့် ချိတ်ပါ။ ဤအင်္ဂါရပ်က စက်ပူစေနိုင်သည်။</string>
     <string name="pc_low_temp_charge_summary">ပုံမှန်အားသွင်းရန် အားသွင်းကြိုးကိုချိတ်ထားပြီး မျက်နှာပြင်က အလိုအလျောက်ပိတ်သွားပြီးလျှင် ဓာတ်ခဲကို နွေးအောင်စောင့်ပါ</string>
     <string name="pc_low_temp_charge_title">အပူချိန်လျော့အားသွင်းခြင်း</string>
+    <string name="pc_low_temperature_extreme_endurance_summary">ပတ်ဝန်းကျင်အပူချိန်အလွန်နည်းချိန်တွင် ဓာတ်ခဲသက်တမ်းရှည်ရန်အတွက် စက်လုပ်ဆောင်ချက်ကို ကန့်သတ်ပါ</string>
+    <string name="pc_low_temperature_extreme_endurance_title">အအေးဒဏ်ခံမုဒ်</string>
     <string name="pc_main_activity_back">နောက်သို့</string>
     <string name="pc_main_battery_text_day">%1$s မိနစ် ပေါင်းထည့်ထားသည်၊ %2$s ရက် ကျန်သေးသည်</string>
     <string name="pc_main_battery_text_day_hour">%1$s မိနစ် ပေါင်းထည့်ထားသည်၊ %2$s ရက် %3$s နာရီ ကျန်သေးသည်</string>
@@ -3213,6 +3245,7 @@ Record sequences and use them anytime!"</string>
     <string name="pc_power_mode_has_berserk">အကောင်းဆုံးမုဒ်ဖွင့်ထားသည်</string>
     <string name="pc_power_mode_has_performance">လုပ်ဆောင်ရည်မုဒ်အား ဖွင့်ထားပါသည်</string>
     <string name="pc_power_save_settings_new">ဓာတ်ခဲချွေတာဆက်တင်များ</string>
+    <string name="pc_production_date_protect_title">ထုတ်လုပ်ရက်စွဲ</string>
     <string name="pc_remind_close_cover_to_charge_summary">အားသွင်းရာတွင် မြန်ဆန်ပြီး တည်ငြိမ်စေရန် အားမသွင်းမီ စက်ကို ခေါက်ပါ။</string>
     <string name="pc_remind_close_cover_to_charge_title">အားသွင်းရန်ခေါက်ပါ</string>
     <string name="pc_reminder_always_protect_summary">ဓာတ်ခဲသက်တမ်းကုန်ခြင်းနှေးစေရန် ကန့်သတ်အားသွင်းစနစ်သို့ပြောင်းပါ</string>
@@ -3258,6 +3291,8 @@ Record sequences and use them anytime!"</string>
     <string name="pc_wait_device_cools_down">ဤအင်္ဂါရပ်ကိုသုံးနိုင်ရန် စက်အနည်းငယ်အေးအောင်စောင့်ပါ။</string>
     <string name="pc_wireless_charge_adjust_position_summary">ကြိုးမဲ့အားသွင်းကိရိယာတွင် ထည့်ပါ</string>
     <string name="pc_wireless_charge_adjust_position_title">စက်ကို အမြန်အားသွင်းပါ</string>
+    <string name="pc_wireless_charge_notification_summary">ကြိုးမဲ့အားသွင်းခြင်းသည် ကြိုးတပ်အားသွင်းခြင်းထက် စွမ်းအင်ထိရောက်မှု နည်းသည်</string>
+    <string name="pc_wireless_charge_notification_title">ကြိုးမဲ့အားသွင်းနေသည်</string>
     <string name="pc_wireless_charging_special_stand_summary1">ကြိုးမဲ့အားသွင်းကြိုးနှင့်အတူပါသော ထောက်တိုင်တွင် စက်ကိုတပ်ပါ</string>
     <string name="pc_wireless_charging_special_stand_summary2">အကောင်းဆုံးအားသွင်းနိုင်ရန် ကြိုးမဲ့အားသွင်းကြိုးနှင့်အတူပါသော ထောက်တိုင်တွင် သင့်စက်ကိုတပ်ပါ</string>
     <string name="pc_wireless_charging_special_stand_title">အတူပါအားသွင်းထောက်တိုင်ကိုသုံးပါ</string>
@@ -3400,6 +3435,7 @@ Record sequences and use them anytime!"</string>
     <string name="permission_instruction_write_contacts">ဤခွင့်ပြုချက်က အက်(ပ်)များအား အဆက်အသွယ်များကို ထည့်ခွင့်၊ ဖျက်ခွင့်နှင့် ပြင်ခွင့်ပေးသည်။</string>
     <string name="permission_instruction_write_settings">This permission allows apps to modify system settings. Malicious apps might use this permission temper with your system settings and affect the normal use of your device.</string>
     <string name="permission_legacy_storage">ဓာတ်ပုံ၊ ဗီဒီယို၊ အသံနှင့် ဖိုင်များ ဖတ်ရန်</string>
+    <string name="permission_oaid_desc">%1$s အား အခြားအက်(ပ်)များနှင့် ဝက်ဘဆိုက်များတွင် သင့်လှုပ်ရှားမှုကို ခြေရာခံခွင့်ပြုမလား။</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">အက်ပ်စ်က သင့် ဆက်သွယ်မှုများကို ဖတ်ခြင်း၊ သင့်ခေါ်ဆိုခြင်းရာဇဝင်များကို ကြည့်ခြင်း၊ စနစ်အပြင်အဆင်များကို ပြောင်လဲခြင်း သို့မဟုတ် ကင်မရာကို ဝင်သုံးခြင်း နှင့် အခြားကိရိယာ၏ရင်းမြစ်များကိုဝင်သုံးခြင်းအတွက် သင့်ခွင့်ပြုချက်ကို တောင်းလိမ့်မည်မဟုတ်ပါ။ ဤသွင်ပြင်ကို ခွင့်ပြုဆိုင်ရာအပြင်အဆင်များတွင် ဖွင့်နိုင်ပါသည်။</string>
     <string name="permission_permission_control_closed_desc_dialog_title">ခွင့်ပြုရေးရာ မန်နေဂျာ</string>
     <string name="permission_precise_location">တည်နေရာအတိအကျ</string>
@@ -3521,8 +3557,8 @@ Record sequences and use them anytime!"</string>
     <string name="power_center_night_charge_protection_setting">လုံခြုံရေးနှင့် ဓာတ်ခဲတွင် အခြားရွေးချယ်စရာများကို ကြည့်ပါ။</string>
     <string name="power_center_night_charge_protection_summary">ဓာတ်ခဲသက်တမ်းကုန်ခြင်းလျှော့ရန် သင့်စက်က နေ့စဉ်အားသွင်းမှုအလေ့အထကိုလေ့လာပြီး မလိုလားအပ်သော ဆက်တိုက်အားသွင်းမှုကို လျှော့ပေးသည်။</string>
     <string name="power_center_one_key_save">အဆင့်မြှင့်တင်မည်</string>
-    <string name="power_center_ontime_boot">ပါဝါဖွင့်ချိန်</string>
-    <string name="power_center_ontime_shutdown">ပါဝါပိတ်ချိန်</string>
+    <string name="power_center_ontime_boot">ပါဝါအဖွင့် အချိန်စီစဉ်ထားသည်</string>
+    <string name="power_center_ontime_shutdown">ပါဝါအပိတ် အချိန်စီစဉ်ထားသည်</string>
     <string name="power_center_optimize_title">အကြံပြုချက်များ</string>
     <string name="power_center_power_save_summary_text">လက်ကျန်အချိန်အား %1$dနာရီ %2$dမိနစ် အထိ တိုးမည်</string>
     <string name="power_center_power_save_title_text">ဘက်ထရီချွေတာသူ</string>
@@ -3583,8 +3619,8 @@ Record sequences and use them anytime!"</string>
     <string name="power_center_surface_temp_low">အေးခဲ</string>
     <string name="power_center_surface_temp_lower">အအေး</string>
     <string name="power_center_surface_temp_normal">ပုံမှန်</string>
-    <string name="power_center_time_to_boot">ပါဝါဖွင့်ချိန်</string>
-    <string name="power_center_time_to_shutdown">ပါဝါပိတ်ချိန်</string>
+    <string name="power_center_time_to_boot">အချိန်</string>
+    <string name="power_center_time_to_shutdown">အချိန်</string>
     <string name="power_center_title">ဘက်ထရီ</string>
     <string name="power_center_unoffical_battery_button">ခွင့်ပြုချက်ရ ဝန်ဆောင်မှုပေးသူကို ရှာဖွေပါ</string>
     <string name="power_center_unoffical_battery_dialog">ခွင့်ပြုချက်မရှိသော ဘက်ထရီ သတိပေးချက်</string>
@@ -3900,8 +3936,8 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_dialog_camera_message">ကိုယ်ရေးကိုယ်တာကို ကာကွယ်နိုင်ရန် စနစ်က အောက်ပါအက်(ပ်)များကို နောက်ခံတွင် ကင်မရာသုံးခွင့်မပြုပါ။</string>
     <string name="privacy_dialog_camera_title">နောက်ခံ၌ ကင်မရာအသုံးပြုခြင်းကို ကန့်သတ်သည်</string>
     <string name="privacy_dialog_content_part1">လုံခြုံရေးမှ ကြိုဆိုပါသည်။ ဤအက်(ပ်)သည် သင့်စက်တွင် အမှိုက်နှင့် ဗိုင်းရပ်များ စစ်ပေးပြီး သင့်အား အက်(ပ်)များစီမံခန့်ခွဲမှု၊ မိုဘိုင်းဒေတာထိန်းချုပ်မှု၊ ခေါ်ဆိုမှုနှင့် မက်ဆေ့(ချ်)များ ပိတ်ဆို့မှုနင့် အခြားအရာများစွာ လုပ်ခွင့်ပေးပါသည်။</string>
-    <string name="privacy_dialog_content_part2">&lt;Data>လုံခြုံရေးသည် သင့်အားဝန်ဆောင်မှုပေးနိုင်ရန်နှင့် ၎င်း၏အင်္ဂါရပ်များ တိုးတက်စေရန်အတွက် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူရန်လိုအပ်သည်။ ကောက်ယူသော အချက်အလက်များကို ကျွန်ုပ်တို့ ကိုင်တွယ်ပုံအား &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တွင် လေ့လာနိုင်သည်။ လုံခြုံရေး၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒသို့ပေးထားသော သဘောတူခွင့်ပြုချက်ကို ဆက်တင်ထဲတွင် အချိန်မရွေး ရုတ်သိမ်းနိုင်သည်။&lt;/Data></string>
-    <string name="privacy_dialog_content_part3">&lt;Data>လုံခြုံရေးကို မသုံးမီ ကျွန်ုပ်တို့၏&lt;a href=\"%2$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူပေးပါ။ အထက်ဖော်ပြပါဝန်ဆောင်မှုများကို သုံးရန် သဘောမတူပါက ဤအက်(ပ်)၏ အင်္ဂါရပ်အချို့ကို သုံးမရဘဲ အခြေခံလုပ်ဆောင်ချက်များကိုသာ သုံးနိုင်ပါမည်။&lt;/Data></string>
+    <string name="privacy_dialog_content_part2"><Data>လုံခြုံရေးသည် သင့်အားဝန်ဆောင်မှုပေးနိုင်ရန်နှင့် ၎င်း၏အင်္ဂါရပ်များ တိုးတက်စေရန်အတွက် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကောက်ယူရန်လိုအပ်သည်။ ကောက်ယူသော အချက်အလက်များကို ကျွန်ုပ်တို့ ကိုင်တွယ်ပုံအား &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တွင် လေ့လာနိုင်သည်။ လုံခြုံရေး၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒသို့ပေးထားသော သဘောတူခွင့်ပြုချက်ကို ဆက်တင်ထဲတွင် အချိန်မရွေး ရုတ်သိမ်းနိုင်သည်။</Data></string>
+    <string name="privacy_dialog_content_part3"><Data>လုံခြုံရေးကို မသုံးမီ ကျွန်ုပ်တို့၏&lt;a href=\"%2$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>တို့ကို ဖတ်ရှုပြီး သဘောတူပေးပါ။ အထက်ဖော်ပြပါဝန်ဆောင်မှုများကို သုံးရန် သဘောမတူပါက ဤအက်(ပ်)၏ အင်္ဂါရပ်အချို့ကို သုံးမရဘဲ အခြေခံလုပ်ဆောင်ချက်များကိုသာ သုံးနိုင်ပါမည်။</Data></string>
     <string name="privacy_dialog_danger_mission_message">Android တွင် အန္တရာယ်ရှိသော ခွင့်ပြုချက်များစွာရှိသည် (ဥပမာ - သင့်ထံ တွန်းပို့အသိပေးချက်များပို့ခွင့်)။ ကိုယ်ရေးကိုယ်တာကို ကာကွယ်နိုင်ရန် စနစ်က အဆိုပါအမူအကျင့်များကို သင်ခွင့်ပြုမပြုမေးပြီး ကန့်သတ်ခွင့်များပေးပါမည်။</string>
     <string name="privacy_dialog_danger_mission_title">အန္တရာယ်များသော ခွင့်ပြုချက်များ</string>
     <string name="privacy_dialog_feedback">တုံ့ပြန်အကြံပြုချက်</string>
@@ -4007,7 +4043,7 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_revoke_dialog_title_cn">သတိပြုရန်</string>
     <string name="privacy_revoke_failed_dialog_content">ဆာဗာအမှားအယွင်းရှိသည်။ တစ်မိနစ်၊ နှစ်မိနစ် စောင့်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="privacy_revoke_failed_dialog_title">သဘောတူခွင့်ပြုချက် ရုပ်သိမ်းမရပါ</string>
-    <string name="privacy_revoke_tip_dialog_content">&lt;Data>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ ဗားရှင်းအသစ်ကို သဘောမတူပါက %1$s ကို သုံးမရပါ။ အပ်ပဒိတ်လုပ်ထားသော %2$s &lt;a href=\"%3$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ယခုသဘောတူလိုသလား။&lt;/Data></string>
+    <string name="privacy_revoke_tip_dialog_content"><Data>ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ ဗားရှင်းအသစ်ကို သဘောမတူပါက %1$s ကို သုံးမရပါ။ အပ်ပဒိတ်လုပ်ထားသော %2$s &lt;a href=\"%3$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ယခုသဘောတူလိုသလား။</Data></string>
     <string name="privacy_revoke_tip_dialog_title">အက်(ပ်)ကို သုံးမရပါ</string>
     <string name="privacy_revoke_title">သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းခြင်း</string>
     <string name="privacy_risk_app">အန္တရာယ်ရှိသောအက်ပ်များ</string>
@@ -4110,7 +4146,7 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_thumbnail_shield_top_tip">လတ်တလောအရာများတွင်ပြသသော အက်(ပ်)အစမ်းကြည့်ခွင့်များကို ဝါးထားရန်</string>
     <string name="privacy_type_open">ဖွင့်ရန်</string>
     <string name="privacy_update_dialog_content_1">%s ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို အပ်ပဒိတ်လုပ်ထားသည် -</string>
-    <string name="privacy_update_dialog_content_2">&lt;Data>ရှေ့မဆက်မီ &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ဗားရှင်းအသစ်ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data></string>
+    <string name="privacy_update_dialog_content_2"><Data>ရှေ့မဆက်မီ &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ဗားရှင်းအသစ်ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</Data></string>
     <string name="privacy_update_dialog_title">အပ်ပဒိတ်လုပ်ထားသော ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
     <string name="privacy_using_camera">ကင်မရာသုံးနေသည်</string>
     <string name="privacy_using_location">တည်နေရာဖတ်ခြင်း</string>
@@ -4193,6 +4229,16 @@ Record sequences and use them anytime!"</string>
     <string name="reset_data_dialog_message">ဤစက်ကို သင့် Xiaomi အကောင့်နှင့် ချိတ်မထားပါ။ စကားဝှက်ပြန်ယူခြင်း သို့မဟုတ် ပြန်သတ်မှတ်ခြင်း လုပ်မရပါ။ အရေးကြီးသောအရာများကို အရန်သိမ်းပြီး စက်ရုံထုတ်အနေအထားသို့ သတ်မှတ်ပါ။ စက်ရုံထုတ်အနေအထားသို့ သတ်မှတ်စဉ် ဒေတာအားလုံးကို အပြီးဖျက်ပြီး SD ကတ်ကိုလည်း ဖောမတ်ချပါမည်။</string>
     <string name="reset_data_dialog_ok">စက်ရုံထုတ် အနေအထားသို့ ပြန်သတ်မှတ်ခြင်း</string>
     <string name="reset_data_title">စကားဝှက်အား ပြန်လည်ရယူ၍ မရပါ</string>
+    <string name="restore_device_id_content">စိတ်ကြိုက် အကြံပြုချက်များအား ပြန်သတ်မှတ်ပါမည်</string>
+    <string name="restore_device_id_title">စက်အိုင်ဒီအား ပြန်သတ်မှတ်မည်</string>
+    <string name="restore_dialog_content">လက်ရှိ စက်အိုင်ဒီအား ပြန်သတ်မှတ်ပါက စိတ်ကြိုက် အကြံပြုချက်များကိုလည်း ပြန်သတ်မှတ်လိမ့်မည်။ ယခု ပြန်သတ်မှတ်မလား?</string>
+    <string name="restore_dialog_positive">ပြန်သတ်မှတ်မည်</string>
+    <string name="restore_dialog_title">သတိပြုရန်</string>
+    <string name="restore_oaid_content">သင့်အမူအကျင့်နှင့် စိတ်ကြိုက်မှတ်တမ်းများကို ရှင်းရန် ဗာကျူဝယ် ID ကို ပြန်သတ်မှတ်ပါ</string>
+    <string name="restore_oaid_dialog_content">သင့် ဗာကျူဝယ် ID ကို အက်(ပ်)အမြောက်အမြားက သုံးနေပါသည်။ ယခု ပြန်သတ်မှတ်လျှင် သင့်အက်(ပ်)ဒေတာအချို့ ပျောက်ဆုံးသွားမည် သို့မဟုတ် သုံးမရဖြစ်သွားပါမည်။ ဗာကျူဝယ် ID ကို မဖြစ်မနေ ပြန်သတ်မှတ်လိုသလား။</string>
+    <string name="restore_oaid_positive">ပြန်သတ်မှတ်ပါ</string>
+    <string name="restore_oaid_positive_step">(%1$d) ကို ပြန်သတ်မှတ်ရန်</string>
+    <string name="restore_oaid_title">ဗာကျူဝယ် ID ပြန်သတ်မှတ်ရန်</string>
     <string name="result_autoscan_header">ပေးချေမှုအား စောင့်ကြည့်အကဲခတ်ခြင်း</string>
     <string name="result_autoscan_info">ပေးချေမှုအက်ပ်များ စတင်လိုက်သည်နှင့် ပတ်ဝန်းကျင်အား အလိုအလျောက် စောင့်ကြည့်ပါ</string>
     <string name="result_sms_header">မက်ဆေ့(ချ်)ပို့ခြင်း အန္တာရာယ် ခြေရာခံမိသည်</string>
@@ -4848,6 +4894,9 @@ Record sequences and use them anytime!"</string>
     <string name="superpower_dialog_button_ok">အိုကေ</string>
     <string name="superpower_dialog_massage">အခြေခံလုပ်ဆောင်ချက် (ဥပမာ - ဖုန်းခေါ်ဆိုမှုများ၊ SMS နှင့် ကွန်ရက်ချိတ်ဆက်ခြင်း) တို့ကို ကြာနိုင်သမျှကြာကြာ ထိန်းသိမ်းထားနိုင်ရန်အတွက် Ultra ဓာတ်ခဲချွေတာခြင်းစနစ်သည် ဓာတ်ခဲအကုန်အမြန်ဆုံးအင်္ဂါရပ်များကို ကန့်သတ်ပြီး သင့်စက်ပစ္စည်း၏ လုပ်ဆောင်ချက်ကို လျှော့ချသည်။ Ultra ဓာတ်ခဲချွေတာခြင်းစနစ်ကို ဖွင့်လိုပါသလား။</string>
     <string name="superpower_dialog_title">အစွန်းရောက် ဘက်ထရီချွေတာသူ</string>
+    <string name="superpower_notification_low_temp_btn_txt">ဖွင့်ရန်</string>
+    <string name="superpower_notification_low_temp_summary">ပတ်ဝန်းကျင်အပူချိန်အလွန်နည်းပြီး အာထရာဓာတ်ခဲချွေတာရေးဖွင့်ထားချိန်တွင် အအေးဒဏ်ခံမုဒ်က ဓာတ်ခဲပိုချွေတာနိုင်သည်။</string>
+    <string name="superpower_notification_low_temp_title">အာထရာဓာတ်ခဲချွေတာရေးပိတ်လိုသလား။</string>
     <string name="superpower_notification_new_title_new">ဓာတ်ခဲအား %s အောက်သာ ကျန်တော့သည်</string>
     <string name="superpower_notification_summary">စက်ကို အားသွင်းပါ သို့မဟုတ် Ultra ဓာတ်ခဲချွေတာစနစ်ဖွင့်ပါ</string>
     <string name="superpower_notification_time_12">MMMM dd EEEE</string>
@@ -4855,6 +4904,7 @@ Record sequences and use them anytime!"</string>
     <string name="superpower_notification_title_new">ဓာတ်ခဲအား %s အောက်သာ ကျန်တော့သည်</string>
     <string name="superpower_progress_content">Ultra ဓာတ်ခဲချွေတာခြင်းစနစ်ကို ဖွင့်နေသည်…</string>
     <string name="superpower_progress_left_time">%1$dနာရီ%2$dမိနစ်</string>
+    <string name="superpower_progress_low_temp_content">အအေးဒဏ်ခံမုဒ်ဖွင့်နေသည်…</string>
     <string name="superpower_progress_switch_home">အနက်ရောင်အပြင်အဆင်သို့ ပြောင်းရန်</string>
     <string name="superpower_progress_title">အချိန်လက်ကျန်</string>
     <string name="superpower_progress_turndown_brightness">မျက်နှာပြင်အလင်းကို လျှော့ချနေသည်</string>
@@ -4892,11 +4942,11 @@ Record sequences and use them anytime!"</string>
     <string name="system_permission_declare_agree">သဘောတူသည်</string>
     <string name="system_permission_declare_analytics_declare">ကျွန်ုပ်တို့၏ အသုံးပြုသူအတွေ့အကြုံအစီအစဉ်တွင် စာရင်းသွင်းရန် ဖိတ်ခေါ်ပါသည်။ သင့်အား ပိုကောင်းသော ဝန်ဆောင်မှုပေးရန် လိုအပ်သည့် အချက်အလက်များကို ကျွန်ုပ်တို့ကောက်ယူနိုင်ရန်အတွက် ဤအက်(ပ်)သည် အင်တာနက်နှင့်ချိတ်ပြီး အောက်ပါခွင့်ပြုချက်များ သို့မဟုတ် အင်္ဂါရပ်များကို သုံးပါမည်။ ဤအချက်အလက်များကို ကိန်းဂဏန်းမှတ်တမ်းအတွက်သာ ကောက်ယူခြင်းဖြစ်ပြီး ဤအချက်အလက်များကို သုံး၍ သင့်အား မည်သူမည်ဝါမှန်း ခွဲခြားနိုင်ခြင်းမရှိပါ။</string>
     <string name="system_permission_declare_disagree">သဘောမတူပါ</string>
-    <string name="system_permission_declare_double_link">&lt;Data>ရှေ့မဆက်မီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data></string>
+    <string name="system_permission_declare_double_link"><Data>ရှေ့မဆက်မီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">%1s မှ ကြိုဆိုပါသည်။ ဤအက်(ပ်)က အောက်ပါဝန်ဆောင်မှုများကို သုံးခွင့်ပြုပါသည်%2s။</string>
-    <string name="system_permission_declare_meanwhile_double_link">&lt;Data>ရှေ့မဆက်မီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data>ရှေ့မဆက်မီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data></string>
-    <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data>ရှေ့မဆက်မီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data></string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>ရှေ့မဆက်မီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>ရှေ့မဆက်မီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>ရှေ့မဆက်မီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</Data></string>
     <string name="system_permission_declare_no_say_no">သင်သည် ခွင့်ပြုချက်များမပေးရန် သို့မဟုတ် ကျွန်ုပ်တို့အား ဒေတာကောက်ယူအသုံးပြုခွင့်မပေးရန် ရွေးချယ်ပါက ဤအက်(ပ်)သည် ကောင်းစွာ အလုပ်လုပ်မည်မဟုတ်ပါ။</string>
     <string name="system_permission_declare_no_say_no_analytics">ဤခွင့်ပြုချက်များကို မပေးလိုပါက ဆက်တင်များ > ထပ်ဆောင်းဆက်တင်များ > ပုဂ္ဂိုလ်ရေးလုံခြုံမှု > အသုံးပြုသူအတွေ့အကြုံအစီအစဉ်တွင် စာရင်းပြန်ဖြုတ်နိုင်သည်။</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">သင်သည် လိုအပ်သော ခွင့်ပြုချက်များ မပေးရန် သို့မဟုတ် ကျွန်ုပ်တို့အား သင့်၏ ဒေတာကောက်ယူအသုံးပြုခွင့်မပေးရန် ရွေးချယ်ပါက ဤအက်(ပ်)သည် ကောင်းစွာ အလုပ်လုပ်မည်မဟုတ်ပါ။</string>
@@ -4904,13 +4954,13 @@ Record sequences and use them anytime!"</string>
     <string name="system_permission_declare_privacy_declare">ဤအက်(ပ်)သည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်ချိတ်ရန်နှင့် အောက်ပါခွင့်ပြုချက်များ လိုအပ်သည် -</string>
     <string name="system_permission_declare_privacy_no_network">ဤအက်(ပ်)သည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အောက်ပါခွင့်ပြုချက်များ လိုအပ်သည် -</string>
     <string name="system_permission_declare_privacy_no_permission">ဤအက်(ပ်)သည် ကောင်းစွာအလုပ်လုပ်နိုင်ရန်အတွက် အင်တာနက်နှင့်ချိတ်ရန်နှင့် လိုအပ်သော ကိုယ်ရေးကိုယ်တာဒေတာများကို ကောက်ယူရန် လိုအပ်သည်။</string>
-    <string name="system_permission_declare_privacy_policy">&lt;Data>ရှေ့မဆက်မီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data></string>
+    <string name="system_permission_declare_privacy_policy"><Data>ရှေ့မဆက်မီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</Data></string>
     <string name="system_permission_declare_revoke_system">ဤအက်(ပ်)မှ ထွက်လိုက်နိုင်ပါသည်။</string>
     <string name="system_permission_declare_revoke_uninstallable">သင်သည် လုံခြုံရေး > အက်(ပ်) စီမံခန့်ခွဲရန် > ခွင့်ပြုချက်များ > ခွင့်ပြုချက်များတွင် အကောင့်ထွက်ခြင်း၊ ဤအက်(ပ်)ကို ဖြုတ်ခြင်း သို့မဟုတ် ခွင့်ပြုချက် ရုတ်သိမ်းခြင်းများ ပြုလုပ်နိုင်သည်။</string>
     <string name="system_permission_declare_title">သတိပြုရန်</string>
     <string name="system_permission_declare_use_network">ကွန်ရက်ချိတ်ဆက်ရန်</string>
     <string name="system_permission_declare_use_network_no_permission">ကွန်ရက်ချိတ်ဆက်ပါ</string>
-    <string name="system_permission_declare_user_agreement">&lt;Data>ရှေ့မဆက်မီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။&lt;/Data></string>
+    <string name="system_permission_declare_user_agreement"><Data>ရှေ့မဆက်မီ ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</Data></string>
     <string name="system_permission_perm_answer_call">ဖုန်းခေါ်ဆိုမှုများပြုလုပ်ရန်</string>
     <string name="system_permission_perm_optional">" (ချန်လှပ်နိုင်သည်)"</string>
     <string name="system_permission_perm_read_mms">MMS ဖတ်ရန်</string>
@@ -5294,8 +5344,7 @@ Rolled over extra data"</string>
     <string name="vb_fps_settings_tips">ဤအင်္ဂါရပ်သည် ဘက်ထရီချွေတာပေးပြီး ပြန်ပြမှုကို အဆင်ပြေချောမွေ့စေသည့် ဗီဒီယိုဖရိန်နှုန်းအဖြစ်သို့ မျက်နှာပြင်ပြန်လန်းဆန်းနှုန်းကို ချိန်ညှိပေးပါသည်။ မျောနေသော မှတ်ချက်များကို ဖွင့်ထားခြင်းသည် အလိုအလျောက် ပြန်လန်းဆန်းနှုန်းကို ပိတ်ပစ်ပါမည်။</string>
     <string name="vb_immerse_voice">စူးနစ်အသံ</string>
     <string name="vb_movie_mode">ပြဇာတ်ရုံမုဒ်</string>
-    <string name="vb_movie_power_hint">"ပြဇာတ်ရုံမုဒ်တွင် နှစ်မြှုပ်မြင်ကွင်းအတွေ့အကြုံပံ့ပိုးသည်။
-စက်ပူပြီး ဓာတ်ခဲပိုကုန်နိုင်သည်။"</string>
+    <string name="vb_movie_power_hint">ပြဇာတ်ရုံမုဒ်တွင် နှစ်မြှုပ်မြင်ကွင်းအတွေ့အကြုံပံ့ပိုးသည်။စက်ပူပြီး ဓာတ်ခဲပိုကုန်နိုင်သည်။</string>
     <string name="vb_movie_subtitle">စွမ်းဆောင်ရည်အမြင့်လိုသည်</string>
     <string name="vb_mv_style_close_toast">စတိုင်ပိတ်ထားသည်</string>
     <string name="vb_power_performance_mode_conflict_toast">စွမ်းဆောင်ရည်မုဒ်ဖွင့်ထားချိန် ဤအင်္ဂါရပ်ကို သုံးမရပါ</string>

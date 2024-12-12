@@ -117,7 +117,7 @@
     <string name="cloud_app_restore_error">Не може се вратити</string>
     <string name="cloud_app_restore_success">Апликације су враћене</string>
     <string name="cloud_app_restore_wifi_prompt">Врати са бекапа cloud-а.</string>
-    <string name="cloud_back_up_date_format">HH:mm d. M. yyyy.</string>
+    <string name="cloud_back_up_date_format">d. M. yyyy. HH:mm</string>
     <string name="cloud_back_up_detail_discription">"Ове ставке ће бити бекаповане на Xiaomi Cloud када је уређај повезан на Wi-Fi: 
 *\u0009\u0009\u0009Апликације, распоред Почетног екрана и позадине 
 *\u0009\u0009\u0009Подешавање аларма, сата и времена 
@@ -554,9 +554,13 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="session_failed_dist_no_space_btn_text">Очисти складиште</string>
     <string name="session_failed_get_installed_apps_denied_detail">Да бисте могли аутоматски да креирате резервну копију, дајте овој апликацији дозволу у Подешавањима да приступи листи апликација инсталираних на вашем уређају и изаберите Увек дозволи.</string>
     <string name="session_failed_get_installed_apps_denied_title">Потребне су дозволе</string>
+    <string name="session_failed_invalid_token_action">Пријавите се</string>
+    <string name="session_failed_invalid_token_detail">Пријавите се опет</string>
+    <string name="session_failed_invalid_token_title">Погрешни подаци</string>
     <string name="session_failed_no_server_response_title">Није повезано са сервером.</string>
     <string name="session_failed_override_detail">Локални бекап се разликује од оног у Xiaomi Cloud-у. Ако наставите, тренутни бекап ће заменити претходни. Заменити сада?</string>
     <string name="session_failed_override_title">Бекап преко записа</string>
+    <string name="session_failed_reason_invalid_token">Погрешни подаци за пријављивање. Пријавите се опет.</string>
     <string name="session_failed_restore_app_data_btn_text">Назад</string>
     <string name="session_failed_restore_app_data_detail">Уверите се да WeChat није инсталиран на овом уређају пре него што вратите ставке. Не отварајте и не користите WeChat док се подаци враћају.</string>
     <string name="session_failed_restore_app_data_title">Деинсталирај WeChat</string>

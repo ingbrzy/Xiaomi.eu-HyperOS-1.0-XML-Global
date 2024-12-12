@@ -188,6 +188,7 @@
     <string name="alert_back_milink_hangup_tips_content_vb">إذا كانت الشاشة مغلقة، سيستمر تشغيل التطبيق في الخلفية دون مقاطعة عملية البث. اضغط على زر الطاقة لإعادة تشغيل الشاشة.</string>
     <string name="all_address_choose_hint">كل الأرقام في هذا الإقليم</string>
     <string name="allow_all">السماح للكل</string>
+    <string name="allow_device_id_access">حدد التطبيقات التي يمكنها استخدام معرف الجهاز</string>
     <string name="allow_onetime">سماح مرة</string>
     <string name="already_close_gamebooster">مسرع الألعاب متوقف</string>
     <string name="am">ص</string>
@@ -224,8 +225,8 @@
     <string name="antivirus_privacy_dialog_cloudscan">تحميل أسماء وتفاصيل التطبيقات</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">للكشف عن الفيروسات وتحييدها بشكل أكثر كفاءة ، سنقوم بتحميل أسماء حزم التطبيقات وخصائصها عند فحص الجهاز للبحث عن فيروسات.</string>
     <string name="antivirus_privacy_dialog_ok">موافق</string>
-    <string name="antivirus_privacy_dialog_summary">&lt;Data>يتم تشغيل هذه الميزة بواسطة محرك حماية من الفيروسات تابع لجهة خارجية. اقرأ &lt;a href=\"%1$s\">اتفاقية الترخيص&lt;/a> للجهات الخارجية لمزيد من المعلومات&lt;/Data></string>
-    <string name="antivirus_privacy_dialog_summary_kddi">&lt;Data>عند إجراء فحص أمني، سيتم تحميل بعض المعلومات مثل طراز جهازك ونتائج الفحص إلى خوادم %1$s واستخدامها وفقا لـ &lt;a href=\"%2$s\">الأحكام والشروط&lt;/a> المقابلة.&lt;br/>&lt;br/>يرجى القراءة والموافقة على أحكام وشروط %3$s قبل إجراء فحص أمني.&lt;br/>&lt;br/>إذا كنت لا توافق على تحميل البيانات إلى خوادم %4$s، يمكنك استخدام تعريفات الفيروسات المخزنة على جهازك.&lt;/Data></string>
+    <string name="antivirus_privacy_dialog_summary"><Data>يتم تشغيل هذه الميزة بواسطة محرك حماية من الفيروسات تابع لجهة خارجية. اقرأ &lt;a href=\"%1$s\">اتفاقية الترخيص&lt;/a> للجهات الخارجية لمزيد من المعلومات</Data></string>
+    <string name="antivirus_privacy_dialog_summary_kddi"><Data>عند إجراء فحص أمني، سيتم تحميل بعض المعلومات مثل طراز جهازك ونتائج الفحص إلى خوادم %1$s واستخدامها وفقا لـ &lt;a href=\"%2$s\">الأحكام والشروط&lt;/a> المقابلة.&lt;br/>&lt;br/>يرجى القراءة والموافقة على أحكام وشروط %3$s قبل إجراء فحص أمني.&lt;br/>&lt;br/>إذا كنت لا توافق على تحميل البيانات إلى خوادم %4$s، يمكنك استخدام تعريفات الفيروسات المخزنة على جهازك.</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">سياسة الخصوصية</string>
     <string name="antivirus_privacy_dialog_title">سياسة الخصوصية</string>
     <string name="antivirus_privacy_dialog_title_kddi">الأحكام والشروط</string>
@@ -935,6 +936,7 @@
     <string name="button_text_let_me_select">فهمت</string>
     <string name="button_text_next_step">التالي</string>
     <string name="button_text_next_step_timer">الخطوة التالية (%d)</string>
+    <string name="button_text_once_accept">سماح مرة</string>
     <string name="button_text_open_now">إفتح</string>
     <string name="button_text_reject">رفض</string>
     <string name="button_text_trust">الوثوق بهذه الشبكة</string>
@@ -1147,6 +1149,7 @@
     <string name="create_shortcut">إنشاء إختصار على الشاشة الرئيسية لمسرع الألعاب</string>
     <string name="cs_color_sense">درجة حرارة اللون</string>
     <string name="cs_conversation_record_using">جارٍٍ التسجيل</string>
+    <string name="cs_func_toast_bluetooth_headset">افصل سماعات البلوتوث لتتمكن من استخدام هذه الميزة</string>
     <string name="cs_func_toast_headset">افصل سماعات الرأس أولاً لاستخدام هذه الميزة</string>
     <string name="cs_func_toast_light">قم بالتبديل إلى الكاميرا الأمامية لاستخدام هذه الميزة</string>
     <string name="cs_func_toast_pickup">قم بالتبديل إلى مكالمة فيديو لاستخدام هذه الميزة</string>
@@ -1177,6 +1180,7 @@
     <string name="cs_tool_box_phone_guide_case_1">جرب الترجمة الفورية والميزات الأخرى في صندوق أدوات الاتصال الجديدة</string>
     <string name="cs_tool_box_phone_guide_case_2">جرب مجموعة من الميزات في صندوق أدوات الاتصال الجديد</string>
     <string name="cs_voice_print">تسجيل بصمة الصوت</string>
+    <string name="cs_voice_search">بصمة الصوت</string>
     <string name="cs_vt_camera_toast_case1">افتح الكاميرا في التطبيق الحالي</string>
     <string name="cs_vt_camera_toast_case2">لا توجد أجهزة متوافقة قريبة</string>
     <string name="cta_agree_desc">لاستخدام خدماتنا، اسمح للتطبيق بالاتصال بالإنترنت ومنح الأذونات أعلاه.</string>
@@ -1267,10 +1271,26 @@
     <string name="descx_quick_scan_preparation">لحظة من فضلك…</string>
     <string name="detail_app_button">معلومات التطبيق</string>
     <string name="details_subtitle">تفاصيل الاستخدام</string>
+    <string name="device_id">معرف الجهاز للحصول على توصيات مخصصة</string>
+    <string name="device_id_app_manager_dialog_continue">عدم إيقاف</string>
+    <string name="device_id_app_manager_dialog_message">لقد سمحت لبعض التطبيقات بتتبع أنشطتك. يمكنك إيقاف التتبع الآن.</string>
+    <string name="device_id_app_manager_dialog_stop">إيقاف</string>
+    <string name="device_id_app_manager_switch_sub_title">عند إيقاف تشغيل هذه الميزة، سيتم رفض جميع طلبات التتبع الجديدة تلقائيًا</string>
+    <string name="device_id_app_manager_switch_title">اسمح للتطبيقات بطلب التتبع</string>
+    <string name="device_id_app_manager_tips">يمكن للتطبيقات تتبع أنشطتك عبر التطبيقات ومواقع الويب المختلفة باستخدام معرفات التتبع لتقديم توصيات إعلانية مخصصة وميزات أخرى</string>
+    <string name="device_id_app_manager_title">إدارة تتبع التطبيق</string>
+    <string name="device_id_manager_tips">يوفر النظام معرفات تتبع قابلة لإعادة التعيين (PAID) للتطبيقات بدلاً من معرفات الأجهزة لحماية خصوصيتك</string>
+    <string name="device_id_manager_title">إدارة معرف التتبع</string>
+    <string name="device_id_reset">إعادة تعيين معرف التتبع</string>
+    <string name="device_id_reset_msg">بعد إعادة التعيين، سيتم ربط معرف جديد بهذا الجهاز.</string>
+    <string name="device_id_str">معرف التتبع الحالي: %s</string>
     <string name="device_manager_apply_step_1">تفعيل مشرف الجهاز لهذا التطبيق؟</string>
     <string name="device_manager_apply_step_2">"يمكن أن يؤدي تنشيط مشرف الجهاز لهذا التطبيق إلى الكشف عن معلوماتك الشخصية.
 يمكن أن يتم حذف جميع البيانات الموجودة على جهازك وإعادة تعيين كلمة مرور قفل الشاشة."</string>
     <string name="device_manager_apply_step_3">تأكد من فهمك لجميع المخاطر المحتملة قبل المتابعة. هل تريد تفعيل مشرف الجهاز لهذا التطبيق الآن؟</string>
+    <string name="device_oaid">إدارة الهوية الافتراضية</string>
+    <string name="device_oaid_desc">سيوفر النظام معرف هوية إفتراضي (OAID) خاص بالتطبيقات المثبتة لإستبدال معرفك الحقيقي، مما يمنع التطبيقات من تتبع سلوكك وتفضيلاتك، وكذلك حماية خصوصيتك الشخصية.</string>
+    <string name="device_oaid_title">هوية افتراضية</string>
     <string name="dialog_app_roaming_message">%1$s لا يمكنها استخدام بيانات الهاتف أثناء التجوال. عندما تتجول, فقط التطبيقات التي قمت باضافتها الى الاستثناءات تستطيع استخدام بيانات الهاتف.</string>
     <string name="dialog_app_roaming_title">%1$s لا يمكنها استعمال بيانات التجوال</string>
     <string name="dialog_change_package_type_summary">سيؤدي تغيير نوع خطة البيانات إلى إعادة تعيين إعدادات إستخدام البيانات (مثال: حد البيانات) لقيمها الإفتراضية. تغيير نوع خطة البيانات الآن؟</string>
@@ -1408,12 +1428,12 @@
     <string name="exit">خروج</string>
     <string name="exit_dialog_exit">إنهاء</string>
     <string name="exit_dialog_garbage_clean_message">حجم المهملات على جهازك أكبر من %s. هل تريد تنظيف المهملات؟</string>
-    <string name="exit_dialog_garbage_clean_message_new">&lt;Data>يمكن للمنظف تفريغ &lt;font color=#0099ff>%s&lt;/font> من مساحة التخزين. هل ترغب في التنظيف الآن؟&lt;/Data></string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>يمكن للمنظف تفريغ &lt;font color=#0099ff>%s&lt;/font> من مساحة التخزين. هل ترغب في التنظيف الآن؟</Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">تنظيف</string>
     <string name="exit_dialog_garbage_clean_title">تفريغ مساحة التخزين</string>
     <string name="exit_dialog_homepage_optimise_message">نقاط أداء جهازك أقل من ٨٠ نقطة. التحسين الآن؟</string>
     <string name="exit_dialog_release_memory_positive_button">إغلاق</string>
-    <string name="exit_dialog_release_memory_title_new">&lt;Data>يمكنك زيادة سرعة الجهاز بنسبة &lt;font color=#0099ff>%s&lt;/font>&lt;/Data></string>
+    <string name="exit_dialog_release_memory_title_new"><Data>يمكنك زيادة سرعة الجهاز بنسبة &lt;font color=#0099ff>%s&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">أكثر من ٨٠% من تخزين جهازك ممتلئ. قم بتفريغ مساحة من خلال إلغاء تثبيت التطبيقات التي لا تستخدمها ابداً.</string>
     <string name="exit_dialog_release_storage_message_new">أكثر من %s من مساحة تخزين جهازك ممتلئة. قم بتفريغ مساحة عن طريق إلغاء تثبيت التطبيقات التي لا تستخدمها.</string>
     <string name="exit_dialog_release_storage_positive_button">تفريغ مساحة</string>
@@ -1730,7 +1750,7 @@
     <string name="game_wid_viewpoint_buttom">خذ استراحة قصيرة.</string>
     <string name="gamebooster_confirm_dialog_negative_btn">لا أوافق</string>
     <string name="gamebooster_confirm_dialog_positive_btn">أوافق</string>
-    <string name="gamebooster_confirm_dialog_tip">&lt;Data>مسرع الألعاب Xunyou&lt;br>&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a>&lt;/Data></string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>مسرع الألعاب Xunyou&lt;br>&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a></Data></string>
     <string name="gamebooster_confirm_dialog_title">الموافقة على سياسة الخصوصية لدينا</string>
     <string name="gamebooster_dialog_recover">تجديد</string>
     <string name="gamebooster_dialog_start_booster">ابدأ</string>
@@ -1859,8 +1879,8 @@
     <string name="gb_audition_play_instruction">استخدم سماعة الأذن لتأثير أفضل</string>
     <string name="gb_award_noti_message">قم بتشغيل تحديثات لعبة Peace في الخلفية من مسرع الألعاب لتحصل على مكافآتك</string>
     <string name="gb_award_noti_title">مكافآت لعبة Peace في انتظارك!</string>
-    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>لا يمكن التبديل إلى الوضع المتوازن في مسرع الألعاب عندما يكون الوضع النهائي على مستوى النظام مشغل. يمكنك تغيير إعدادات البطارية من تطبيق الحماية.&lt;br>&lt;a href=\"#\">فتح الحماية&lt;/a>&lt;/Data></string>
-    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>لا يمكن التبديل إلى الوضع المتوازن في مسرع الألعاب عندما يكون الوضع النهائي على مستوى النظام مشغل. يمكنك تغيير إعدادات البطارية من تطبيق الحماية. &lt;br>&lt;a href=\"#\">فتح الحماية&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>لا يمكن التبديل إلى الوضع المتوازن في مسرع الألعاب عندما يكون الوضع النهائي على مستوى النظام مشغل. يمكنك تغيير إعدادات البطارية من تطبيق الحماية.&lt;br>&lt;a href=\"#\">فتح الحماية&lt;/a></Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>لا يمكن التبديل إلى الوضع المتوازن في مسرع الألعاب عندما يكون الوضع النهائي على مستوى النظام مشغل. يمكنك تغيير إعدادات البطارية من تطبيق الحماية. &lt;br>&lt;a href=\"#\">فتح الحماية&lt;/a></Data></string>
     <string name="gb_bar_high">عالية</string>
     <string name="gb_bar_low">منخفضة</string>
     <string name="gb_bar_mid">متوسطة</string>
@@ -1988,7 +2008,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_new_feature">ميزة جديدة</string>
     <string name="gb_not_support_on_device">"This app can't be used on the outer screen"</string>
     <string name="gb_operat_frequently">ليس بهذه السرعة!</string>
-    <string name="gb_performace_guide_disable_desc">&lt;Data>لا يمكنك التبديل إلى الوضع المتوازن في مسرع الألعاب عندما يكون وضع الأداء على مستوى النظام قيد التشغيل. يمكنك تغيير إعدادات البطارية من الحماية.&lt;br>&lt;a href=\"#\">فتح الحماية&lt;/a>&lt;/Data></string>
+    <string name="gb_performace_guide_disable_desc"><Data>لا يمكنك التبديل إلى الوضع المتوازن في مسرع الألعاب عندما يكون وضع الأداء على مستوى النظام قيد التشغيل. يمكنك تغيير إعدادات البطارية من الحماية.&lt;br>&lt;a href=\"#\">فتح الحماية&lt;/a></Data></string>
     <string name="gb_performace_switch_toast">تم التبديل إلى وضع الأداء. سيسخن الجهاز أكثر ويستهلك مزيد من الطاقة.</string>
     <string name="gb_performace_tips_button">تبديل</string>
     <string name="gb_performace_tips_title">قم بالتبديل إلى وضع الأداء لتجربة أفضل</string>
@@ -2005,7 +2025,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_predownload_dialog_cancel">لا شكراً</string>
     <string name="gb_predownload_dialog_checked">لا تظهر مرة اخرى</string>
     <string name="gb_predownload_dialog_confirm">تشغيل</string>
-    <string name="gb_predownload_dialog_message_china">"&lt;Data>Updated content for this game can be downloaded to this device automatically after you connect to WLAN and turn the screen off. Thus, you'll be able to use the new version as soon as it's released.&lt;br>&lt;br>Read and agree to the &lt;a href=\"%1$s\">Statement on background updates&lt;/a> before using this feature.&lt;/Data>"</string>
+    <string name="gb_predownload_dialog_message_china"><Data>"Updated content for this game can be downloaded to this device automatically after you connect to WLAN and turn the screen off. Thus, you'll be able to use the new version as soon as it's released.&lt;br>&lt;br>Read and agree to the &lt;a href=\"%1$s\">Statement on background updates&lt;/a> before using this feature."</Data></string>
     <string name="gb_predownload_dialog_title">تحديثات الخلفية متوفر الآن</string>
     <string name="gb_predownload_message_new">تحديث الألعاب المتوافقة تلقائيا عندما لا تستخدم الجهاز</string>
     <string name="gb_predownload_noti_message">يوجد %2$1.2f جيجابايت من المحتوى محدث على هذا الجهاز. ستتمكن من البدء في استخدام هذا المحتوى بعد إصدار الإصدار الجديد.</string>
@@ -2182,7 +2202,7 @@ Record sequences and use them anytime!"</string>
     <string name="gd_sidebar_edit_quick_title">الاختصارات</string>
     <string name="gd_sidebar_long_press_tips">اضغط مطولا على المؤشر لتحريكه أثناء حمل الجهاز عموديا</string>
     <string name="gd_splite_screen_tips">لا يدعم تقسيم الشاشة النوافذ المنبثقة</string>
-    <string name="gdpr_msg">&lt;Data>للكشف عن مخاطر الأمان وضمان حماية بياناتك، يتطلب هذا التطبيق موافقتك على جمع بيانات معينة حول جهازك. يرجى القراءة والموافقة على &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">سياسة الخصوصية&lt;/a> قبل استخدام خدماتنا. إذا اخترت عدم الموافقة على جمع المعلومات المذكورة أعلاه، فستظل قادرًا على استخدام التطبيق ولكن بعض الميزات لن تكون متاحة. &lt;/Data></string>
+    <string name="gdpr_msg"><Data>للكشف عن مخاطر الأمان وضمان حماية بياناتك، يتطلب هذا التطبيق موافقتك على جمع بيانات معينة حول جهازك. يرجى القراءة والموافقة على &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">سياسة الخصوصية&lt;/a> قبل استخدام خدماتنا. إذا اخترت عدم الموافقة على جمع المعلومات المذكورة أعلاه، فستظل قادرًا على استخدام التطبيق ولكن بعض الميزات لن تكون متاحة. </Data></string>
     <string name="get_detail_by_click">انقر لعرض التفاصيل</string>
     <string name="get_phone_num_fail">رقم هاتف غير معروف</string>
     <string name="get_sys_info">جار الحصول على المعلومات…</string>
@@ -2289,11 +2309,11 @@ Record sequences and use them anytime!"</string>
     <string name="gtb_dialog_btn_open">تشغيل الميزة</string>
     <string name="gtb_dialog_hint_smart_5g">يمكنك تشغيل هذه الميزة أو إيقافها من مسرع الألعاب > الإعدادات.</string>
     <string name="gtb_dialog_privacy_speed_message">أنت على وشك استخدام مسرع الألعاب Xunyou. ستجمع هذه الخدمة معرف معرف حساب Mi لتسجيل مدة عضويتك.</string>
-    <string name="gtb_dialog_privacy_speed_tips">&lt;Data>يرجى القراءة والموافقة على &lt;a href=\"%1$s\">سياسة خصوصية&lt;/a> مسرع الألعاب Xunyou.&lt;/Data></string>
-    <string name="gtb_dialog_privacy_speed_tips_new">&lt;Data>لقد قرأت وأوافق على &lt;a href=\"%1$s\">سياسة خصوصية مسرع الألعاب Xunyou&lt;/a>.&lt;/Data></string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>يرجى القراءة والموافقة على &lt;a href=\"%1$s\">سياسة خصوصية&lt;/a> مسرع الألعاب Xunyou.</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>لقد قرأت وأوافق على &lt;a href=\"%1$s\">سياسة خصوصية مسرع الألعاب Xunyou&lt;/a>.</Data></string>
     <string name="gtb_dialog_privacy_speed_title">مسرع الألعاب Xunyou</string>
     <string name="gtb_dialog_privacy_voice_message">"You're about to use Xunyou Game Voice Changer. This service will collect your Xiaomi Account ID to record your membership duration."</string>
-    <string name="gtb_dialog_privacy_voice_tips">&lt;Data>يرجى القراءة والموافقة على &lt;a href=\"%1$s\">سياسة خصوصية&lt;/a> مغير صوت لعبة Xunyou.&lt;/Data></string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>يرجى القراءة والموافقة على &lt;a href=\"%1$s\">سياسة خصوصية&lt;/a> مغير صوت لعبة Xunyou.</Data></string>
     <string name="gtb_dialog_privacy_voice_title">مغير صوت لعبة Xunyou</string>
     <string name="gtb_dialog_summary_smart_5g">عندما يكتشف مسرع الألعاب شبكة 5G، فأنه يقوم بتوصيل جهازك بأفضل شبكة متاحة لتقليل تأخير اللعبة. هل ترغب في تشغيل هذه الميزة الآن؟</string>
     <string name="gtb_dialog_title_smart_5g">تحسين شبكة 5G</string>
@@ -3061,9 +3081,12 @@ to join our egg hunt!"</string>
     <string name="numeric_recording_intro_header">ادخل كلمة المرور</string>
     <string name="numeric_retry_button_text">إلغاء</string>
     <string name="numeric_settings_help_how_to_record">كيفية تعيين رمز PIN</string>
+    <string name="oaid_apps_summary">تقييد أو السماح بالوصول إلى التطبيقات الفردية</string>
     <string name="oaid_apps_title">إدارة الهوية الافتراضية</string>
     <string name="oaid_reset_content_tip">إذا قمت بإيقاف تشغيل الهوية الافتراضية الآن، فقد تتوقف بعض التطبيقات عن العمل بشكل صحيح، أو قد تفقد بعض بيانات التطبيق، أو قد تكون غير قابلة للاستخدام.</string>
     <string name="oaid_reset_final_tip">متابعة إيقاف تشغيل الهوية الافتراضية؟</string>
+    <string name="oaid_string">"الهوية الافتراضية الحالية:
+%1s"</string>
     <string name="oaid_tips_content">يمكن استخدام معرف الهوية الافتراضية (OAID) لتتبع سلوكك ثم تخصيص إعلانات مناسبة لذوقك. يمكنك اختيار التطبيقات التي تسمح لها بالوصول إلى هويتك الافتراضية. يرجى ملاحظة أنه إذا قمت بتعطيل هذه الخدمة، فقد تصبح محتويات الإعلانات المقدمة لك غير مناسبة أوقد لا تتمكن بعض التطبيقات من العمل بشكل صحيح.</string>
     <string name="ok">موافق</string>
     <string name="ok_button">موافق</string>
@@ -3200,6 +3223,7 @@ to join our egg hunt!"</string>
     <string name="pc_batery_protection">حماية البطارية</string>
     <string name="pc_battery_charge_protect">حماية شحن البطارية</string>
     <string name="pc_battery_chart_loading">لحظة من فضلك…</string>
+    <string name="pc_battery_date_year_month_format">MMM yyyy</string>
     <string name="pc_battery_detail_curve_reference_now">الآن</string>
     <string name="pc_battery_detail_device_item_title">حالات استخدام البطارية</string>
     <string name="pc_battery_health_revise_title">معايرة معلومات صحة البطارية</string>
@@ -3232,7 +3256,7 @@ to join our egg hunt!"</string>
     <string name="pc_camera_printer_notify_subtitle">متصلة</string>
     <string name="pc_camera_printer_title">مجموعة طابعة الصور</string>
     <string name="pc_category_charge_settings">إعدادات الشحن</string>
-    <string name="pc_charge_mode_low_power_fast_speed">فولت منخفض</string>
+    <string name="pc_charge_mode_low_power_fast_speed">تسريع</string>
     <string name="pc_charge_mode_low_power_fast_speed_tips">قد يسخن الجهاز</string>
     <string name="pc_charge_mode_standard">قياسي</string>
     <string name="pc_charge_mode_topspeed">أفضل سرعة</string>
@@ -3263,6 +3287,7 @@ to join our egg hunt!"</string>
     <string name="pc_continuity_open_save_mode_notifi_sumary">بطارية %1$s أقل من %2$s. شغل موفر البطارية لإضافة %3$s و %4$s.</string>
     <string name="pc_continuity_open_save_mode_notifi_title">بطارية %s منخفضة</string>
     <string name="pc_current_power_mode">الوضع الحالي</string>
+    <string name="pc_cycle_count_protect_title">الدورات</string>
     <string name="pc_emergency_call">الطوارئ</string>
     <string name="pc_endurance_calculation">جارٍ الحساب…</string>
     <string name="pc_entered_extreme_mode">وضع الإسبات مشغل</string>
@@ -3294,11 +3319,16 @@ to join our egg hunt!"</string>
     <string name="pc_fast_charge_switch_toast_message">سيتم تطبيق التغييرات في المرة القادمة التي تقوم فيها بشحن هذا الجهاز</string>
     <string name="pc_fast_charge_temp_remider">قم بتشغيل هذه الميزة لتنظيم سرعة الشحن تلقائيًا. تعمل هذه الميزة فقط مع أجهزة الشحن المتوفرة من Xiaomi. قد يسخن جهازك أثناء الشحن.</string>
     <string name="pc_fast_charge_title">زيادة سرعة الشحن</string>
+    <string name="pc_first_use_error_tips">يتم الحساب</string>
+    <string name="pc_first_use_protect_title">أول استخدام:</string>
     <string name="pc_going_to_exit_extreme_mode">الخروج من وضع الإسبات</string>
     <string name="pc_going_to_exit_extreme_mode_summary">جهازك قيد الشحن. وضع الإسبات متوقف.</string>
     <string name="pc_going_to_extreme_mode">الدخول في وضع الإسبات</string>
     <string name="pc_handle_battery_level">المقبض</string>
     <string name="pc_have_no_battery_issue">لا توجد مشاكل</string>
+    <string name="pc_health_charge_protect_notification_summary">تشغيل حماية البطارية لتقليل استهلاك عمر البطارية</string>
+    <string name="pc_health_charge_protect_summary">لزيادة عمر البطارية، سيتوقف هذا الجهاز عن الشحن عندما تصل البطارية إلى %1$s</string>
+    <string name="pc_health_charge_protect_title">حماية البطارية</string>
     <string name="pc_hide_more_power_rank_apps">اخفاء</string>
     <string name="pc_hidemode_normal">متوازن</string>
     <string name="pc_hidemode_normal_title">متوازن</string>
@@ -3337,6 +3367,8 @@ to join our egg hunt!"</string>
     <string name="pc_low_battery_fast_charge_summary">قم بتوصيل الشاحن المرفق لتسريع الشحن عندما تكون الشاشة مطفأة والبطارية منخفضة. قد تتسبب هذه الميزة في سخونة الجهاز.</string>
     <string name="pc_low_temp_charge_summary">أبقي الشاحن متصل وانتظر حتى تسخن البطارية بعد إيقاف تشغيل الشاشة لشحنها بشكل طبيعي</string>
     <string name="pc_low_temp_charge_title">شحن في درجة حرارة منخفضة</string>
+    <string name="pc_low_temperature_extreme_endurance_summary">قم بالحد من أداء الجهاز لإطالة عمر البطارية عندما تكون درجة الحرارة المحيطة منخفضة جدًا</string>
+    <string name="pc_low_temperature_extreme_endurance_title">وضع تحمل درجات الحرارة المنخفضة</string>
     <string name="pc_main_activity_back">رجوع</string>
     <string name="pc_main_battery_text_day">تمت إضافة %1$sدق، تبقى %2$s يوم للاستخدام</string>
     <string name="pc_main_battery_text_day_hour">تمت إضافة %1$s دقيقة، تبقى %2$s يوم و %3$s ساعة للاستخدام</string>
@@ -3367,6 +3399,7 @@ to join our egg hunt!"</string>
     <string name="pc_power_mode_has_berserk">الوضع النهائي مشغل</string>
     <string name="pc_power_mode_has_performance">وضع الأداء مفعل</string>
     <string name="pc_power_save_settings_new">إعدادات موفر البطارية</string>
+    <string name="pc_production_date_protect_title">بيانات التصنيع</string>
     <string name="pc_remind_close_cover_to_charge_summary">قم بطي الجهاز قبل الشحن للحصول لشحن أسرع وأكثر استقرارًا.</string>
     <string name="pc_remind_close_cover_to_charge_title">قم بطي الجهاز للشحن</string>
     <string name="pc_reminder_always_protect_summary">التبديل إلى الشحن المحدود لتقليل عمر البطارية</string>
@@ -3412,6 +3445,8 @@ to join our egg hunt!"</string>
     <string name="pc_wait_device_cools_down">أنتظر حتى يبرد الجهاز لتتمكن من استخدام هذه الميزة.</string>
     <string name="pc_wireless_charge_adjust_position_summary">ضع جهازك على الشاحن اللاسلكي</string>
     <string name="pc_wireless_charge_adjust_position_title">اشحن جهازك اسرع</string>
+    <string name="pc_wireless_charge_notification_summary">الشحن اللاسلكي أقل كفاءة في استخدام الطاقة من الشحن السلكي</string>
+    <string name="pc_wireless_charge_notification_title">الشحن اللاسلكي</string>
     <string name="pc_wireless_charging_special_stand_summary1">قم بتثبيت جهازك على الحامل المرفق مع الشاحن اللاسلكي</string>
     <string name="pc_wireless_charging_special_stand_summary2">قم بتثبيت جهازك على الحامل المرفق مع الشاحن اللاسلكي للحصول على أفضل أداء للشحن</string>
     <string name="pc_wireless_charging_special_stand_title">استخدم حامل الشحن المرفق</string>
@@ -3554,6 +3589,7 @@ to join our egg hunt!"</string>
     <string name="permission_instruction_write_contacts">يسمح هذا الإذن للتطبيقات بإضافة جهات الاتصال وحذفها وتعديلها.</string>
     <string name="permission_instruction_write_settings">This permission allows apps to modify system settings. Malicious apps might use this permission temper with your system settings and affect the normal use of your device.</string>
     <string name="permission_legacy_storage">الوصول إلى الصور ومقاطع الفيديو والصوت والملفات</string>
+    <string name="permission_oaid_desc">السماح لـ %1$s بتتبع أنشطتك على التطبيقات ومواقع الويب؟</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">لن تطلب التطبيقات الإذن قبل قراءة جهات الاتصال أو عرض سجل المكالمات أو تغيير إعدادات النظام أو الوصول إلى الكاميرا وموارد الجهاز الأخرى. يمكنك تشغيل هذه الميزة من إعدادات الأذونات.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">مدير الأذونات</string>
     <string name="permission_precise_location">الموقع الدقيق</string>
@@ -3675,8 +3711,8 @@ to join our egg hunt!"</string>
     <string name="power_center_night_charge_protection_setting">تتوفر مزيد من الخيارات في الحماية > البطارية.</string>
     <string name="power_center_night_charge_protection_summary">لتقليل عمر البطارية، يتعلم جهازك عاداتك اليومية لشحن الهاتف لتجنب الشحن المستمر غير الضروري</string>
     <string name="power_center_one_key_save">تحسين</string>
-    <string name="power_center_ontime_boot">وقت التشغيل</string>
-    <string name="power_center_ontime_shutdown">وقت إيقاف التشغيل</string>
+    <string name="power_center_ontime_boot">تشغيل الجدولة</string>
+    <string name="power_center_ontime_shutdown">إيقاف تشغيل الجدولة</string>
     <string name="power_center_optimize_title">الإقتراحات</string>
     <string name="power_center_power_save_summary_text">زيادة الوقت المتبقي إلى %1$dس %2$dدق</string>
     <string name="power_center_power_save_title_text">موفر البطارية</string>
@@ -3737,8 +3773,8 @@ to join our egg hunt!"</string>
     <string name="power_center_surface_temp_low">باردة جدا</string>
     <string name="power_center_surface_temp_lower">باردة</string>
     <string name="power_center_surface_temp_normal">عادية</string>
-    <string name="power_center_time_to_boot">وقت التشغيل</string>
-    <string name="power_center_time_to_shutdown">وقت إيقاف التشغيل</string>
+    <string name="power_center_time_to_boot">الوقت</string>
+    <string name="power_center_time_to_shutdown">الوقت</string>
     <string name="power_center_title">البطارية</string>
     <string name="power_center_unoffical_battery_button">اعثر على مركز خدمة معتمد</string>
     <string name="power_center_unoffical_battery_dialog">تحذير البطارية غير أصلية</string>
@@ -4055,7 +4091,7 @@ to join our egg hunt!"</string>
     <string name="privacy_dialog_camera_message">لحماية خصوصيتك، لا يسمح النظام للتطبيقات باستخدام الكاميرا في الخلفية.</string>
     <string name="privacy_dialog_camera_title">تقييد استخدام الكاميرا في الخلفية</string>
     <string name="privacy_dialog_content_part1">مرحبًا بك في الحماية! يمكن لهذا التطبيق فحص جهازك للبحث عن فيروسات وتنظيف مجلد المهملات وإدارة التطبيقات واستخدام بيانات الهاتف وحظر المكالمات والرسائل واكثر من ذلك.</string>
-    <string name="privacy_dialog_content_part2">&lt;Data> يحتاج تطبيق الحماية إلى جمع البيانات الشخصية الضرورية لتزويدك بخدماته وتحسين ميزاته. يمكنك التعرف على كيفية تعاملنا مع البيانات التي نجمعها في &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a>. يمكنك سحب الموافقة على سياسة خصوصية الحماية في أي وقت من الإعدادات.&lt;/Data></string>
+    <string name="privacy_dialog_content_part2"><Data> يحتاج تطبيق الحماية إلى جمع البيانات الشخصية الضرورية لتزويدك بخدماته وتحسين ميزاته. يمكنك التعرف على كيفية تعاملنا مع البيانات التي نجمعها في &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a>. يمكنك سحب الموافقة على سياسة خصوصية الحماية في أي وقت من الإعدادات.</Data></string>
     <string name="privacy_dialog_content_part3">&lt;Data>يجب أن تقرأ وتوافق على &lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> قبل استخدام الحماية. أذا كنت لا توافق على الخدمات المذكورة أعلاه. فلن تعمل بعض الميزات بشكل صحيح ولكنها لن تؤثر على استخدامك للوظائف الأساسية لهذا التطبيق.&lt;/Data></string>
     <string name="privacy_dialog_danger_mission_message">يحتوي Android على العديد من الأذونات عالية المخاطر (مثل الاذونات التي تسمح بإرسال إشعارات الدفع) التي قد تؤثر على خصوصيتك. ولذلك يوفر لك النظام خيار السماح او تقييد مثل هذه السلوكيات.</string>
     <string name="privacy_dialog_danger_mission_title">أذونات عالية المخاطر</string>
@@ -4162,7 +4198,7 @@ to join our egg hunt!"</string>
     <string name="privacy_revoke_dialog_title_cn">تنبيه</string>
     <string name="privacy_revoke_failed_dialog_content">حدث خطأ في الخادم، انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
     <string name="privacy_revoke_failed_dialog_title">تعذر سحب الموافقة</string>
-    <string name="privacy_revoke_tip_dialog_content">&lt;Data>لن تتمكن من الاستمرار في استخدام %1$s إذا لم توافق على الإصدار الجديد من سياسة خصوصيتة. هل توافق على تحديثات &lt;a href=\"%3$s\">سياسة خصوصية&lt;/a> %2$s الآن؟&lt;/Data></string>
+    <string name="privacy_revoke_tip_dialog_content"><Data>لن تتمكن من الاستمرار في استخدام %1$s إذا لم توافق على الإصدار الجديد من سياسة خصوصيتة. هل توافق على تحديثات &lt;a href=\"%3$s\">سياسة خصوصية&lt;/a> %2$s الآن؟</Data></string>
     <string name="privacy_revoke_tip_dialog_title">لا يمكن استخدام التطبيق</string>
     <string name="privacy_revoke_title">سحب الموافقة</string>
     <string name="privacy_risk_app">التطبيقات الخطيرة</string>
@@ -4265,7 +4301,7 @@ to join our egg hunt!"</string>
     <string name="privacy_thumbnail_shield_top_tip">تمويه معاينات التطبيقات في \"التطبيقات الأخيرة\"</string>
     <string name="privacy_type_open">مشغل</string>
     <string name="privacy_update_dialog_content_1">تم تحديث سياسة خصوصية %s:</string>
-    <string name="privacy_update_dialog_content_2">&lt;Data>يرجى قراءة والموافقة على الإصدار الجديد من &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> قبل المتابعة.&lt;/Data></string>
+    <string name="privacy_update_dialog_content_2"><Data>يرجى قراءة والموافقة على الإصدار الجديد من &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> قبل المتابعة.</Data></string>
     <string name="privacy_update_dialog_title">سياسة الخصوصية المحدثة</string>
     <string name="privacy_using_camera">استخدام الكاميرا</string>
     <string name="privacy_using_location">الوصول إلى الموقع</string>
@@ -4347,6 +4383,16 @@ to join our egg hunt!"</string>
     <string name="reset_data_dialog_message">هذا الجهاز غير مرتبط بحساب Mi الخاص بك. لا يمكن إعادة تعيين كلمة المرور أو إعادة تعيينها. انسخ جميع العناصر المهمة احتياطيًا وأعد ضبط إعدادات المصنع. سيتم مسح جميع البيانات بشكل دائم وسيتم تهيئة بطاقة SD أثناء إعادة إعدادات المصنع.</string>
     <string name="reset_data_dialog_ok">إعادة ضبط إعدادات المصنع</string>
     <string name="reset_data_title">لا يمكن إستعادة كلمة المرور</string>
+    <string name="restore_device_id_content">سيتم إعادة تعيين التوصيات المخصصة</string>
+    <string name="restore_device_id_title">إعادة تعيين معرف الجهاز</string>
+    <string name="restore_dialog_content">سيؤدي إعادة تعيين معرف الجهاز الحالي أيضًا إلى إعادة تعيين التوصيات المخصصة. إعادة التعيين الآن؟</string>
+    <string name="restore_dialog_positive">إعادة تعيين</string>
+    <string name="restore_dialog_title">تنبيه</string>
+    <string name="restore_oaid_content">أعد تعيين هويتك الافتراضية لمسح سجلات سلوكك وتفضيلاتك.</string>
+    <string name="restore_oaid_dialog_content">تستخدم العديد من التطبيقات هويتك الافتراضية. إذا قمت بإعادة تعيينها الآن، فقد يتم فقد بعض بيانات التطبيق أو ستصبح غير صالحة للاستخدام. هل مازلت ترغب في إعادة تعيين هويتك الافتراضية؟</string>
+    <string name="restore_oaid_positive">إعادة تعيين</string>
+    <string name="restore_oaid_positive_step">إعادة تعيين (%1$d)</string>
+    <string name="restore_oaid_title">إعادة تعيين الهوية الافتراضية</string>
     <string name="result_autoscan_header">مراقبة الدفع</string>
     <string name="result_autoscan_info">مراقبة بيئة النظام تلقائيا عندما يتم تشغيل تطبيقات الدفع</string>
     <string name="result_sms_header">تم اكتشاف مخاطر في الرسائل</string>
@@ -4910,7 +4956,7 @@ to join our egg hunt!"</string>
     <string name="storage_file_list_btn">حذف %1$s</string>
     <string name="storage_file_list_form_default">بطاقة الذاكرة SD</string>
     <string name="storage_file_list_from">من %s</string>
-    <string name="storage_fob_date_format">dd/MM</string>
+    <string name="storage_fob_date_format">M/d</string>
     <string name="storage_format_failure">فشل تهيئة %1$s</string>
     <string name="storage_format_success">تم تهيئة %1$s بنجاح</string>
     <string name="storage_item_apk_name">حزم التثبيت</string>
@@ -5007,6 +5053,9 @@ to join our egg hunt!"</string>
     <string name="superpower_dialog_button_ok">موافق</string>
     <string name="superpower_dialog_massage">يعمل موفر البطارية الفائق على تقييد معظم الميزات التي تستهلك الطاقة وتقلل من أداء جهازك وذلك لترك الوظائف الأساسية تعمل (مثل المكالمات والرسائل النصية واتصال الشبكة) لأطول فترة ممكنة. تشغيله؟</string>
     <string name="superpower_dialog_title">موفر البطارية الفائق</string>
+    <string name="superpower_notification_low_temp_btn_txt">تشغيل</string>
+    <string name="superpower_notification_low_temp_summary">يمكن أن يوفر وضع تحمل درجات الحرارة المنخفضة المزيد من طاقة البطارية عند تشغيل ميزة موفر البطارية الفائق وتكون درجة الحرارة المحيطة منخفضة جدًا</string>
+    <string name="superpower_notification_low_temp_title">تشغيل موفر البطارية الفائق؟</string>
     <string name="superpower_notification_new_title_new">شحن البطارية أقل من %s</string>
     <string name="superpower_notification_summary">اشحن الجهاز أو قم بتشغيل موفر البطارية الفائق</string>
     <string name="superpower_notification_time_12">EEEE، dd MMMM</string>
@@ -5014,6 +5063,7 @@ to join our egg hunt!"</string>
     <string name="superpower_notification_title_new">شحن البطارية أقل من %s</string>
     <string name="superpower_progress_content">جارٍ تشغيل موفر البطارية الفائق…</string>
     <string name="superpower_progress_left_time">%1$d ساعة %2$d دقيقة</string>
+    <string name="superpower_progress_low_temp_content">جارٍ تشغيل وضع تحمل درجات الحرارة المنخفضة…</string>
     <string name="superpower_progress_switch_home">التبديل إلى ثيم الظلام</string>
     <string name="superpower_progress_title">الوقت المتبقي</string>
     <string name="superpower_progress_turndown_brightness">تقليل سطوع الشاشة</string>
@@ -5051,11 +5101,11 @@ to join our egg hunt!"</string>
     <string name="system_permission_declare_agree">أوافق</string>
     <string name="system_permission_declare_analytics_declare">يسعدنا دعوتك للمشاركة في برنامج تجربة المستخدم لدينا. يحتاج هذا التطبيق إلى الاتصال بالإنترنت ومنحه الأذونات أو الوظائف التالية حتى نتمكن من تحسين الخدمات التي نقدمها لك. يتم جمع هذه البيانات لأغراض إحصائية فقط. ولن نتمكن من استخدام هذه البيانات لتحديد هويتك الشخصية.</string>
     <string name="system_permission_declare_disagree">غير موافق</string>
-    <string name="system_permission_declare_double_link">&lt;Data>يرجى قراءة والموافقة على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> قبل المتابعة.&lt;/Data></string>
+    <string name="system_permission_declare_double_link"><Data>يرجى قراءة والموافقة على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> قبل المتابعة.</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">مرحبا بك في %1s! يسمح لك هذا التطبيق بإستخدام الميزات التالية: %2s.</string>
-    <string name="system_permission_declare_meanwhile_double_link">&lt;Data>يرجى قراءة والموافقة على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> قبل المتابعة.&lt;/Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data>يرجى قراءة والموافقة على &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> قبل المتابعة.&lt;/Data></string>
-    <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data>يرجى قراءة والموافقة على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> قبل المتابعة.&lt;/Data></string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>يرجى قراءة والموافقة على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> قبل المتابعة.</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>يرجى قراءة والموافقة على &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> قبل المتابعة.</Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>يرجى قراءة والموافقة على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> قبل المتابعة.</Data></string>
     <string name="system_permission_declare_no_say_no">إذا قررت عدم منح الأذونات اللازمة أو عدم السماح لنا بجمع بياناتك واستخدامها، فلن يعمل هذا التطبيق بشكل صحيح.</string>
     <string name="system_permission_declare_no_say_no_analytics">إذا كنت لا ترغب في منح هذه الأذونات، فيمكنك إلغاء التسجيل من الإعدادات > الإعدادات الإضافية > الخصوصية > برنامج تجربة المستخدم.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">إذا قررت عدم منح الأذونات اللازمة أو عدم السماح لنا بجمع بياناتك واستخدامها، فلن يعمل هذا التطبيق بشكل صحيح.</string>
@@ -5063,13 +5113,13 @@ to join our egg hunt!"</string>
     <string name="system_permission_declare_privacy_declare">يحتاج هذا التطبيق إلى الاتصال بالإنترنت ومنحه الأذونات التاليه ليعمل بشكل طبيعي:</string>
     <string name="system_permission_declare_privacy_no_network">يحتاج هذا التطبيق الأذونات التالية ليعمل بشكل طبيعي:</string>
     <string name="system_permission_declare_privacy_no_permission">يحتاج هذا التطبيق إلى الاتصال بالإنترنت وجمع البيانات الشخصية المطلوبة ليعمل بشكل طبيعي.</string>
-    <string name="system_permission_declare_privacy_policy">&lt;Data>يرجى قراءة والموافقة على &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> قبل المتابعة.&lt;/Data></string>
+    <string name="system_permission_declare_privacy_policy"><Data>يرجى قراءة والموافقة على &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> قبل المتابعة.</Data></string>
     <string name="system_permission_declare_revoke_system">يمكنك الخروج من هذا التطبيق.</string>
     <string name="system_permission_declare_revoke_uninstallable">يمكنك تسجيل الخروج، أو إلغاء تثبيت هذا التطبيق، أو إلغاء التراخيص من الحماية > إدارة التطبيقات > الأذونات> الأذونات.</string>
     <string name="system_permission_declare_title">تنبيه</string>
     <string name="system_permission_declare_use_network">الإتصال بالشبكة</string>
     <string name="system_permission_declare_use_network_no_permission">الإتصال بالشبكة</string>
-    <string name="system_permission_declare_user_agreement">&lt;Data>يرجى قراءة والموافقة على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> قبل المتابعة.&lt;/Data></string>
+    <string name="system_permission_declare_user_agreement"><Data>يرجى قراءة والموافقة على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> قبل المتابعة.</Data></string>
     <string name="system_permission_perm_answer_call">إجراء مكالمات</string>
     <string name="system_permission_perm_optional">" (اختياري)"</string>
     <string name="system_permission_perm_read_mms">قراءة رسائل وسائط متعددة</string>
@@ -5455,8 +5505,7 @@ to join our egg hunt!"</string>
     <string name="vb_fps_settings_tips">تعمل هذه الميزة على ضبط معدل تحديث الشاشة وفقًا لمعدل إطار مقطع الفيديو، مما يوفر البطارية ويحسن التشغيل. سيؤدي إيقاف تشغيل التعليقات المنبثقة إلى إيقاف تشغيل ميزة معدل التحديث التلقائي.</string>
     <string name="vb_immerse_voice">صوت غامر</string>
     <string name="vb_movie_mode">وضع السينما</string>
-    <string name="vb_movie_power_hint">"يوفر وضع السينما تجربة مشاهدة غامرة.
-قد يسخن جهازك ويستهلك مزيد من الطاقة."</string>
+    <string name="vb_movie_power_hint">يوفر وضع السينما تجربة مشاهدة غامرة. قد يسخن جهازك ويستهلك مزيد من الطاقة.</string>
     <string name="vb_movie_subtitle">يتطلب أداء عالي</string>
     <string name="vb_mv_style_close_toast">التأثيرات متوقفة</string>
     <string name="vb_power_performance_mode_conflict_toast">لا يمكن استخدام هذه الميزة عند تشغيل وضع الأداء</string>

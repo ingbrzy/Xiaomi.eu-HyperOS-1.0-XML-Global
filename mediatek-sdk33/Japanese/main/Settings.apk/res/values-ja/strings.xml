@@ -5119,6 +5119,8 @@ PINを設定してください。
     <string name="login_action">サインイン</string>
     <string name="long_press_back_key">戻るボタンを長押し</string>
     <string name="long_press_buttom_key">ロック画面でホームボタンを長押し</string>
+    <string name="long_press_editor_style_summary">ロック画面を長押しして時計と壁紙を編集します</string>
+    <string name="long_press_editor_style_title">長押しして編集</string>
     <string name="long_press_home_key">ホームボタンを長押し</string>
     <string name="long_press_menu_key">メニューボタンを長押し</string>
     <string name="long_press_menu_key_when_lock">ロック画面でメニューボタンを長押し</string>

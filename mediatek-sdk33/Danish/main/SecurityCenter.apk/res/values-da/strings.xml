@@ -188,6 +188,7 @@
     <string name="alert_back_milink_hangup_tips_content_vb">Når skærmen er slukket, arbejder appen i baggrunden uden at afbryde casting-processen. Tryk på afbryderen for at tænde for skærmen igen.</string>
     <string name="all_address_choose_hint">Alle numre i denne provins</string>
     <string name="allow_all">Tillad alle</string>
+    <string name="allow_device_id_access">Vælg apps, der kan bruge enheds-ID</string>
     <string name="allow_onetime">Tillad én gang</string>
     <string name="already_close_gamebooster">Spilturbo er slået fra</string>
     <string name="am">AM</string>
@@ -224,8 +225,8 @@
     <string name="antivirus_privacy_dialog_cloudscan">Upload appnavne og oplysninger</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">For at detektere og neutralisere virusser mere effektivt uploader vi appernes pakkenavne og egenskaber for at scanne dem ved hjælp af et cloud-program.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
-    <string name="antivirus_privacy_dialog_summary">&lt;Data>Denne funktion er drevet af et tredjeparts-virusprogram. Få mere at vide på &lt;a href=\"%1$s\">Licensaftale&lt;/a> fra tredjeparten.&lt;/Data></string>
-    <string name="antivirus_privacy_dialog_summary_kddi">&lt;Data>Når du udfører en sikkerhedsscanning, uploades din enheds modeltype og scanningsresultaterne til %1$s-servere og bruges i henhold til de korresponderende &lt;a href=\"%2$s\">vilkår og betingelser&lt;/a>.&lt;br/>&lt;br/>Læs og acceptér %3$ss vilkår og betingelser, før du udfører sikkerhedsscanninger.&lt;br/>&lt;br/>Hvis du ikke accepterer at uploade data til %4$s-servere, kan du fortsat bruge virusdefinitionerne, der er lagret lokalt på din enhed.&lt;/Data></string>
+    <string name="antivirus_privacy_dialog_summary"><Data>Denne funktion er drevet af et tredjeparts-virusprogram. Få mere at vide på &lt;a href=\"%1$s\">Licensaftale&lt;/a> fra tredjeparten.</Data></string>
+    <string name="antivirus_privacy_dialog_summary_kddi"><Data>Når du udfører en sikkerhedsscanning, uploades din enheds modeltype og scanningsresultaterne til %1$s-servere og bruges i henhold til de korresponderende &lt;a href=\"%2$s\">vilkår og betingelser&lt;/a>.&lt;br/>&lt;br/>Læs og acceptér %3$ss vilkår og betingelser, før du udfører sikkerhedsscanninger.&lt;br/>&lt;br/>Hvis du ikke accepterer at uploade data til %4$s-servere, kan du fortsat bruge virusdefinitionerne, der er lagret lokalt på din enhed.</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Privatlivspolitik</string>
     <string name="antivirus_privacy_dialog_title">Privatlivspolitik</string>
     <string name="antivirus_privacy_dialog_title_kddi">Vilkår og betingelser</string>
@@ -935,6 +936,7 @@ Nogle af dine transaktioner er dog ikke fuldført endnu. For at kunne trække sa
     <string name="button_text_let_me_select">Forstået</string>
     <string name="button_text_next_step">Næste</string>
     <string name="button_text_next_step_timer">Næste trin (%d)</string>
+    <string name="button_text_once_accept">Tillad én gang</string>
     <string name="button_text_open_now">Åbn</string>
     <string name="button_text_reject">Afvis</string>
     <string name="button_text_trust">Hav tillid til dette netværk</string>
@@ -1147,6 +1149,7 @@ Nogle af dine transaktioner er dog ikke fuldført endnu. For at kunne trække sa
     <string name="create_shortcut">Opret en genvej til startskærmen for Game Turbo</string>
     <string name="cs_color_sense">Farvetemperatur</string>
     <string name="cs_conversation_record_using">Optager</string>
+    <string name="cs_func_toast_bluetooth_headset">Frakobl Bluetooth-øretelefonerne for at kunne bruge denne funktion</string>
     <string name="cs_func_toast_headset">Frakobl dit headset for at kunne bruge denne funktion</string>
     <string name="cs_func_toast_light">Skift til frontkameraet for at kunne bruge denne funktion</string>
     <string name="cs_func_toast_pickup">Skift til et videoopkald for at kunne bruge denne funktion</string>
@@ -1177,6 +1180,7 @@ Nogle af dine transaktioner er dog ikke fuldført endnu. For at kunne trække sa
     <string name="cs_tool_box_phone_guide_case_1">Prøv simultantolkning og andre smarte funktioner i den nye værktøjskasse for opkald</string>
     <string name="cs_tool_box_phone_guide_case_2">Prøv flere forskellige funktioner i den nye værktøjskasse for opkald</string>
     <string name="cs_voice_print">Optag stemmeprint</string>
+    <string name="cs_voice_search">Stemmeprint</string>
     <string name="cs_vt_camera_toast_case1">Åbn kameraet i den aktuelle app</string>
     <string name="cs_vt_camera_toast_case2">Ingen kompatible enheder i nærheden</string>
     <string name="cta_agree_desc">For at være i stand til at bruge vores tjenester skal du tillade, at denne app opretter forbindelse til internettet og give de ovenstående tilladelser.</string>
@@ -1267,10 +1271,26 @@ Nogle af dine transaktioner er dog ikke fuldført endnu. For at kunne trække sa
     <string name="descx_quick_scan_preparation">Lige et øjeblik…</string>
     <string name="detail_app_button">App-oplysninger</string>
     <string name="details_subtitle">Oplysninger om forbrug</string>
+    <string name="device_id">Enheds-ID til personlige anbefalinger</string>
+    <string name="device_id_app_manager_dialog_continue">Stop ikke</string>
+    <string name="device_id_app_manager_dialog_message">Du har tilladt nogle apps at spore dine aktiviteter. Du kan stoppe sporing nu.</string>
+    <string name="device_id_app_manager_dialog_stop">Stop</string>
+    <string name="device_id_app_manager_switch_sub_title">Når denne funktion er slået fra, afvises alle nye sporingsanmodninger automatisk</string>
+    <string name="device_id_app_manager_switch_title">Tillad apps at anmode om sporing</string>
+    <string name="device_id_app_manager_tips">Apps kan spore dine aktiviteter på tværs af forskellige apps og hjemmesider ved hjælp af sporingsidentifikatorer for at give personlige anbefalinger og andre funktioner</string>
+    <string name="device_id_app_manager_title">Administrer appsporing</string>
+    <string name="device_id_manager_tips">Systemet giver apps genindstillelige sporingsidentifikatorer (OAID) i stedet for enhedsidentifikatorer for at beskytte dit privatliv</string>
+    <string name="device_id_manager_title">Administrer sporingsidentifikator</string>
+    <string name="device_id_reset">Nulstil sporingsidentifikator</string>
+    <string name="device_id_reset_msg">Efter nulstilling bliver en ny identifikator tilknyttet denne enhed.</string>
+    <string name="device_id_str">Nuværende sporingsidentifikator: %s</string>
     <string name="device_manager_apply_step_1">Aktiver enhedsadministrator for denne app?</string>
     <string name="device_manager_apply_step_2">"Aktivering af enhedsadministrator for denne app kan medføre afsløring af dine personlige data.
 Alle data på din enhed kan blive slettet, og din låseskærmsadgangskode kan blive nulstillet."</string>
     <string name="device_manager_apply_step_3">Sørg for, at du forstår alle mulige risici, inden du fortsætter. Aktiver enhedsadministrator for denne app nu?</string>
+    <string name="device_oaid">Administrer virtuel id</string>
+    <string name="device_oaid_desc">I stedet for din unikke identifikator vil systemet levere et virtuelt id (OAID) til installerede apps. Det forhindrer apps i at spore din adfærd og dine præferencer og beskytter dit privatliv.</string>
+    <string name="device_oaid_title">Virtuelt id</string>
     <string name="dialog_app_roaming_message">%1$s kan ikke bruge mobildata under roaming. Kun apps, som du har tilføjet som undtagelser, kan anvende mobildata under roaming.</string>
     <string name="dialog_app_roaming_title">%1$s kan ikke bruge data-roaming</string>
     <string name="dialog_change_package_type_summary">Skift af datatypeplan vil rydde alle indstillinger for dataforbrug (f.eks. datagrænser) til deres standardværdier. Skift dataplantype nu?</string>
@@ -1408,12 +1428,12 @@ Det vil blive føjet til undtagelser, men tidligere blokerede elementer vil ikke
     <string name="exit">Afslut</string>
     <string name="exit_dialog_exit">Afslut</string>
     <string name="exit_dialog_garbage_clean_message">Mængden af affald på din enhed er mere end %s. Fjern affaldet?</string>
-    <string name="exit_dialog_garbage_clean_message_new">&lt;Data>Cleaner kan frigøre &lt;font color=#0099ff>%s&lt;/font> lagerplads. Ryd nu?&lt;/Data></string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>Cleaner kan frigøre &lt;font color=#0099ff>%s&lt;/font> lagerplads. Ryd nu?</Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">Fjern affald</string>
     <string name="exit_dialog_garbage_clean_title">Frigør lagerplads</string>
     <string name="exit_dialog_homepage_optimise_message">Din enheds ydelses-score er lavere end 80. Optimer nu?</string>
     <string name="exit_dialog_release_memory_positive_button">Luk</string>
-    <string name="exit_dialog_release_memory_title_new">&lt;Data>Gør din enhed &lt;font color=#0099ff>%s&lt;/font> hurtigere&lt;/Data></string>
+    <string name="exit_dialog_release_memory_title_new"><Data>Gør din enhed &lt;font color=#0099ff>%s&lt;/font> hurtigere</Data></string>
     <string name="exit_dialog_release_storage_message">Mere end 80 % af lageret på din enhed er optaget. Frigør plads ved at afinstallere de apps, du aldrig bruger.</string>
     <string name="exit_dialog_release_storage_message_new">Mere end %s af lageret på din enhed er optaget. Frigør plads ved at afinstallere de apps, du aldrig bruger.</string>
     <string name="exit_dialog_release_storage_positive_button">Frigør plads</string>
@@ -1730,7 +1750,7 @@ Det vil blive føjet til undtagelser, men tidligere blokerede elementer vil ikke
     <string name="game_wid_viewpoint_buttom">Tag en kort pause.</string>
     <string name="gamebooster_confirm_dialog_negative_btn">Acceptér ikke</string>
     <string name="gamebooster_confirm_dialog_positive_btn">Acceptér</string>
-    <string name="gamebooster_confirm_dialog_tip">&lt;Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Privacy Policy&lt;/a>&lt;/Data></string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Privacy Policy&lt;/a></Data></string>
     <string name="gamebooster_confirm_dialog_title">Acceptér vores privatlivspolitik</string>
     <string name="gamebooster_dialog_recover">Forny</string>
     <string name="gamebooster_dialog_start_booster">Begynd</string>
@@ -1859,8 +1879,8 @@ Det vil blive føjet til undtagelser, men tidligere blokerede elementer vil ikke
     <string name="gb_audition_play_instruction">Brug høretelefoner for bedste effekt</string>
     <string name="gb_award_noti_message">Aktivér Game for Peace-baggrundsopdateringer i Game Turbo for at få belønninger</string>
     <string name="gb_award_noti_title">Game for Peace-belønninger er her!</string>
-    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Kan ikke skifte til Balanceret tilstand i Game Turbo, når Ultimativ tilstand er slået til på tværs af systemet. Du kan ændre batteriindstillinger i Sikkerhed.&lt;br>&lt;a href=\"#\">Åbn Sikkerhed&lt;/a>&lt;/Data></string>
-    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Kan ikke skifte til Balanceret tilstand i Game Turbo, når Ultimativ tilstand er slået til på tværs af systemet. Du kan ændre batteriindstillinger i Sikkerhed. &lt;br>&lt;a href=\"#\">Åbn Sikkerhed&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>Kan ikke skifte til Balanceret tilstand i Game Turbo, når Ultimativ tilstand er slået til på tværs af systemet. Du kan ændre batteriindstillinger i Sikkerhed.&lt;br>&lt;a href=\"#\">Åbn Sikkerhed&lt;/a></Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>Kan ikke skifte til Balanceret tilstand i Game Turbo, når Ultimativ tilstand er slået til på tværs af systemet. Du kan ændre batteriindstillinger i Sikkerhed. &lt;br>&lt;a href=\"#\">Åbn Sikkerhed&lt;/a></Data></string>
     <string name="gb_bar_high">Høj</string>
     <string name="gb_bar_low">Lav</string>
     <string name="gb_bar_mid">Mellem</string>
@@ -1988,7 +2008,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_new_feature">Ny funktion</string>
     <string name="gb_not_support_on_device">"This app can't be used on the outer screen"</string>
     <string name="gb_operat_frequently">Ikke så hurtigt!</string>
-    <string name="gb_performace_guide_disable_desc">&lt;Data>Kan ikke skifte til Balanceret tilstand i Game Turbo, når systemets Præstationstilstand er aktiveret. Du kan ændre batteriindstillinger i Sikkerhed.&lt;br>&lt;a href=\"#\">Åbn Sikkerhed&lt;/a>&lt;/Data></string>
+    <string name="gb_performace_guide_disable_desc"><Data>Kan ikke skifte til Balanceret tilstand i Game Turbo, når systemets Præstationstilstand er aktiveret. Du kan ændre batteriindstillinger i Sikkerhed.&lt;br>&lt;a href=\"#\">Åbn Sikkerhed&lt;/a></Data></string>
     <string name="gb_performace_switch_toast">Skiftede til præstationstilstand. Enheden kan muligvis blive varm og forbruge mere strøm.</string>
     <string name="gb_performace_tips_button">Skift</string>
     <string name="gb_performace_tips_title">Skift til præstationstilstand for at få en bedre oplevelse</string>
@@ -2005,7 +2025,7 @@ men øger også strømforbruget og bevirker, at din enhed kan blive overophedet"
     <string name="gb_predownload_dialog_cancel">Nej tak</string>
     <string name="gb_predownload_dialog_checked">Vis ikke igen</string>
     <string name="gb_predownload_dialog_confirm">Aktivér</string>
-    <string name="gb_predownload_dialog_message_china">&lt;Data>Opdateret indhold til dette spil kan downloades automatisk til denne enhed, når du har tilsluttet til WLAN og slukket for skærmen. Du vil således kunne bruge den nye version, så snart den er udgivet.&lt;br>&lt;br>Læs og acceptér &lt;a href=\"%1$s\">erklæringen om baggrundsopdateringer&lt;/a>, før du bruger denne funktion.&lt;/Data></string>
+    <string name="gb_predownload_dialog_message_china"><Data>Opdateret indhold til dette spil kan downloades automatisk til denne enhed, når du har tilsluttet til WLAN og slukket for skærmen. Du vil således kunne bruge den nye version, så snart den er udgivet.&lt;br>&lt;br>Læs og acceptér &lt;a href=\"%1$s\">erklæringen om baggrundsopdateringer&lt;/a>, før du bruger denne funktion.</Data></string>
     <string name="gb_predownload_dialog_title">Baggrundsopdateringer er tilgængelige nu</string>
     <string name="gb_predownload_message_new">Opdatér kompatible spil automatisk, mens du ikke bruger enheden</string>
     <string name="gb_predownload_noti_message">%2$1.2f GB opdateret indhold findes allerede på denne enhed. Du vil kunne bruge det, så snart den nye version er udgivet.</string>
@@ -2182,7 +2202,7 @@ af dine spillesessioner"</string>
     <string name="gd_sidebar_edit_quick_title">Genveje</string>
     <string name="gd_sidebar_long_press_tips">Tryk og hold indikatoren for at bevæge den, mens enheden holdes vandret</string>
     <string name="gd_splite_screen_tips">Opdelt skærm understøtter ikke flydende vinduer</string>
-    <string name="gdpr_msg">&lt;Data>For at være i stand til at detektere sikkerhedsrisici og beskytte dine data er vi nødt til at indsamle den nødvendige mængde oplysninger om din enhed. Læs og accepter vores &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Fortrolighedspolitik&lt;/a>, før du bruger vores tjenester. I tilfælde af, at du ikke lader os indsamle sådanne oplysninger, vil du stadig være i stand til at bruge denne app, men der vil være nogle funktioner, som ikke er tilgængelige for dig. &lt;/Data></string>
+    <string name="gdpr_msg"><Data>For at være i stand til at detektere sikkerhedsrisici og beskytte dine data er vi nødt til at indsamle den nødvendige mængde oplysninger om din enhed. Læs og accepter vores &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Fortrolighedspolitik&lt;/a>, før du bruger vores tjenester. I tilfælde af, at du ikke lader os indsamle sådanne oplysninger, vil du stadig være i stand til at bruge denne app, men der vil være nogle funktioner, som ikke er tilgængelige for dig. </Data></string>
     <string name="get_detail_by_click">Tryk for at se oplysninger</string>
     <string name="get_phone_num_fail">Ukendt telefonnummer</string>
     <string name="get_sys_info">Henter oplysninger…</string>
@@ -2289,11 +2309,11 @@ Tryk og hold indikatoren for at flytte vinduet rundt."</string>
     <string name="gtb_dialog_btn_open">Tænd</string>
     <string name="gtb_dialog_hint_smart_5g">Du kan slå denne funktion til og fra i Game Turbos indstillinger.</string>
     <string name="gtb_dialog_privacy_speed_message">Du er ved at bruge Xunyou Game Booster. Denne tjeneste indsamler dit Xiaomi-konto-id for at registrere varigheden af dit medlemskab.</string>
-    <string name="gtb_dialog_privacy_speed_tips">&lt;Data>Jeg har læst og accepteret Xunyou Game Boosters &lt;a href=\"%1$s\">privatlivspolitik.&lt;/a>&lt;/Data></string>
-    <string name="gtb_dialog_privacy_speed_tips_new">"&lt;Data>I've read and agreed to the Xunyou Game Booster &lt;a href=\"%1$s\">Privacy Policy&lt;/a>.&lt;/Data>"</string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>Jeg har læst og accepteret Xunyou Game Boosters &lt;a href=\"%1$s\">privatlivspolitik.&lt;/a></Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"I've read and agreed to the Xunyou Game Booster &lt;a href=\"%1$s\">Privacy Policy&lt;/a>."</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou Game Booster</string>
     <string name="gtb_dialog_privacy_voice_message">Du er ved at bruge Xunyou Game Voice Changer. Denne tjeneste indsamler din Xiaomi-konto-id for at registrere varigheden af dit medlemskab.</string>
-    <string name="gtb_dialog_privacy_voice_tips">&lt;Data>Jeg har læst og accepteret Xunyou Game Voice Changers &lt;a href=\"%1$s\">privatlivspolitik.&lt;/a>&lt;/Data></string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>Jeg har læst og accepteret Xunyou Game Voice Changers &lt;a href=\"%1$s\">privatlivspolitik.&lt;/a></Data></string>
     <string name="gtb_dialog_privacy_voice_title">Xunyou Game Voice Changer</string>
     <string name="gtb_dialog_summary_smart_5g">Når som helst Game Turbo opdager et 5G-netværk, kan det tilslutte din enhed til det bedste tilgængelige netværk for at mindske netværksforsinkelse. Slå denne funktion til nu?</string>
     <string name="gtb_dialog_title_smart_5g">Optimering af 5G-netværk</string>
@@ -3061,9 +3081,12 @@ Prøv at anvende et andet ethernet-kabel til at forbinde med din router. Hvis du
     <string name="numeric_recording_intro_header">Indtast adgangskode</string>
     <string name="numeric_retry_button_text">Annuller</string>
     <string name="numeric_settings_help_how_to_record">Sådan fastsætter du PIN</string>
+    <string name="oaid_apps_summary">Tillad eller begræns adgang for individuelle apps</string>
     <string name="oaid_apps_title">Administrer virtuel id</string>
     <string name="oaid_reset_content_tip">Hvis du slukker for virtuelt id nu, stopper nogle apps muligvis med at fungere korrekt, en del af dine app-data kan gå tabt eller blive ubrugelige.</string>
     <string name="oaid_reset_final_tip">Vil du slukke for virtuelt id alligevel?</string>
+    <string name="oaid_string">"Nuværende virtuelt id:
+%1s"</string>
     <string name="oaid_tips_content">"Virtuelle id'er (OAID) kan bruges til at spore din adfærd og lave personlige reklamer til dig. Du kan vælge, hvile apps der har tilladelse til at få adgang til din virtuelle id. Bemærk, at hvis du begrænser adgangen, kan reklameanbefalinger blive irrelevante, og apps vil muligvis ikke fungere normalt."</string>
     <string name="ok">OK</string>
     <string name="ok_button">OK</string>
@@ -3200,6 +3223,7 @@ Prøv at anvende et andet ethernet-kabel til at forbinde med din router. Hvis du
     <string name="pc_batery_protection">Batteribeskyttelse</string>
     <string name="pc_battery_charge_protect">Opladningsbeskyttelse</string>
     <string name="pc_battery_chart_loading">Lige et øjeblik…</string>
+    <string name="pc_battery_date_year_month_format">MMM yyyy</string>
     <string name="pc_battery_detail_curve_reference_now">Nu</string>
     <string name="pc_battery_detail_device_item_title">Statistik om batteriforbrug</string>
     <string name="pc_battery_health_revise_title">Kalibrer information om batteriets tilstand</string>
@@ -3232,7 +3256,7 @@ Prøv at anvende et andet ethernet-kabel til at forbinde med din router. Hvis du
     <string name="pc_camera_printer_notify_subtitle">Tilsluttet</string>
     <string name="pc_camera_printer_title">Photo Printer Kit</string>
     <string name="pc_category_charge_settings">Indstillinger for opladning</string>
-    <string name="pc_charge_mode_low_power_fast_speed">Lav spænding</string>
+    <string name="pc_charge_mode_low_power_fast_speed">Øg hastighed</string>
     <string name="pc_charge_mode_low_power_fast_speed_tips">Enheden kan blive varmet op</string>
     <string name="pc_charge_mode_standard">Standard</string>
     <string name="pc_charge_mode_topspeed">Tophastighed</string>
@@ -3263,6 +3287,7 @@ Prøv at anvende et andet ethernet-kabel til at forbinde med din router. Hvis du
     <string name="pc_continuity_open_save_mode_notifi_sumary">%1$s batteri er lavere end %2$s. Aktivér Batteribesparer for tilføre %3$s %4$s.</string>
     <string name="pc_continuity_open_save_mode_notifi_title">%s batteri er lavt</string>
     <string name="pc_current_power_mode">Aktuel tilstand</string>
+    <string name="pc_cycle_count_protect_title">Cyklusser</string>
     <string name="pc_emergency_call">Nødsituation</string>
     <string name="pc_endurance_calculation">Beregner…</string>
     <string name="pc_entered_extreme_mode">Dvaletilstand er aktiveret</string>
@@ -3294,11 +3319,16 @@ Prøv at anvende et andet ethernet-kabel til at forbinde med din router. Hvis du
     <string name="pc_fast_charge_switch_toast_message">Ændringer vil blive anvendt, næste gang du oplader denne enhed</string>
     <string name="pc_fast_charge_temp_remider">Slå til for automatisk regulering af opladningshastighed. Funktionen virker kun med Xiaomis medfølgende opladere. Din enhed kan blive varm under opladning.</string>
     <string name="pc_fast_charge_title">Boost opladningshastighed</string>
+    <string name="pc_first_use_error_tips">Beregner</string>
+    <string name="pc_first_use_protect_title">Første brug</string>
     <string name="pc_going_to_exit_extreme_mode">Forlader dvaletilstand</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Din enhed oplades. Dvaletilstand er deaktiveret.</string>
     <string name="pc_going_to_extreme_mode">Går i dvaletilstand</string>
     <string name="pc_handle_battery_level">Greb</string>
     <string name="pc_have_no_battery_issue">Ingen problemer</string>
+    <string name="pc_health_charge_protect_notification_summary">Slå batteribeskyttelse til for at mindske batteriets aldring</string>
+    <string name="pc_health_charge_protect_summary">For at forlænge batteriets levetid stopper opladningen, når batteriniveauet når %1$s</string>
+    <string name="pc_health_charge_protect_title">Batteribeskyttelse</string>
     <string name="pc_hide_more_power_rank_apps">Skjul</string>
     <string name="pc_hidemode_normal">Balanceret</string>
     <string name="pc_hidemode_normal_title">Balanceret</string>
@@ -3337,6 +3367,8 @@ slås fra"</string>
     <string name="pc_low_battery_fast_charge_summary">Tilslut den medfølgende oplader for at fremskynde opladningen, når skærmen er slukket, og batteriet er lavt. Denne funktion kan få din enhed til at blive varm.</string>
     <string name="pc_low_temp_charge_summary">Hold opladeren tilsluttet, og vent på, at batteriet varmes op, efter at skærmen slukker, for at oplade normalt</string>
     <string name="pc_low_temp_charge_title">Opladning ved lav temperatur</string>
+    <string name="pc_low_temperature_extreme_endurance_summary">Begræns enhedens ydeevne for at forlænge batteriets levetid, når temperaturen er ekstremt lav</string>
+    <string name="pc_low_temperature_extreme_endurance_title">Tilstand for kuldebeskyttelse</string>
     <string name="pc_main_activity_back">Tilbage</string>
     <string name="pc_main_battery_text_day">Tilføjet %1$sm, ca. %2$sd tilbage</string>
     <string name="pc_main_battery_text_day_hour">Tilføjet %1$sm, ca. %2$sd og %3$st tilbage</string>
@@ -3367,6 +3399,7 @@ slås fra"</string>
     <string name="pc_power_mode_has_berserk">Ultimativ tilstand er aktiveret</string>
     <string name="pc_power_mode_has_performance">Præstationstilstand er til</string>
     <string name="pc_power_save_settings_new">Indstillinger af Batteribesparer</string>
+    <string name="pc_production_date_protect_title">Produktionsdato</string>
     <string name="pc_remind_close_cover_to_charge_summary">Fold enheden sammen før opladning for at opnå en hurtigere og mere stabil opladning.</string>
     <string name="pc_remind_close_cover_to_charge_title">Fold sammen for at oplade</string>
     <string name="pc_reminder_always_protect_summary">Skift til begrænset opladning for at reducere batteriets ældning</string>
@@ -3412,6 +3445,8 @@ slås fra"</string>
     <string name="pc_wait_device_cools_down">Vent, indtil enheden er kølet ned, for at kunne bruge denne funktion.</string>
     <string name="pc_wireless_charge_adjust_position_summary">Sæt den i den trådløse oplader</string>
     <string name="pc_wireless_charge_adjust_position_title">Oplad din enhed hurtigere</string>
+    <string name="pc_wireless_charge_notification_summary">Trådløs opladning er mindre energieffektiv end opladning via kabel</string>
+    <string name="pc_wireless_charge_notification_title">Oplader trådløst</string>
     <string name="pc_wireless_charging_special_stand_summary1">Installér din enhed på den stander, der fulgte med din trådløse oplader</string>
     <string name="pc_wireless_charging_special_stand_summary2">Installér din enhed på standeren, der fulgte med din trådløse oplader, for at få den bedste opladningsydelse</string>
     <string name="pc_wireless_charging_special_stand_title">Brug den medfølgende ladestander</string>
@@ -3554,6 +3589,7 @@ slås fra"</string>
     <string name="permission_instruction_write_contacts">Denne tilladelse giver apps mulighed for at tilføje, slette og redigere kontakter.</string>
     <string name="permission_instruction_write_settings">This permission allows apps to modify system settings. Malicious apps might use this permission temper with your system settings and affect the normal use of your device.</string>
     <string name="permission_legacy_storage">Få adgang til fotos, videoer, lyd og filer</string>
+    <string name="permission_oaid_desc">Tillad %1$s at spore dine aktiviteter på andre apps og hjemmesider?</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">Apps vil ikke bede om din tilladelse, før de læser dine kontakter, viser din opkaldshistorik, ændrer systemindstillinger eller får adgang til kamera og andre enhedsressourcer. Du kan aktivere denne funktion i Tilladelsesindstillinger.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Tilladelsesmanager</string>
     <string name="permission_precise_location">Nøjagtig placering</string>
@@ -3675,8 +3711,8 @@ slås fra"</string>
     <string name="power_center_night_charge_protection_setting">Se flere valgmuligheder i Sikkerhed > Batteri.</string>
     <string name="power_center_night_charge_protection_summary">For at mindske batteriældning lærer din enhed dit daglige opladningsmønster for at kunne mindske unødvendig vedvarende opladning.</string>
     <string name="power_center_one_key_save">Optimer</string>
-    <string name="power_center_ontime_boot">Tændes kl.</string>
-    <string name="power_center_ontime_shutdown">Slukkes kl.</string>
+    <string name="power_center_ontime_boot">Planlagt tænd</string>
+    <string name="power_center_ontime_shutdown">Planlagt sluk</string>
     <string name="power_center_optimize_title">Forslag</string>
     <string name="power_center_power_save_summary_text">Øg resterende tid op til %1$dt %2$dm</string>
     <string name="power_center_power_save_title_text">Batteribesparer</string>
@@ -3737,8 +3773,8 @@ slås fra"</string>
     <string name="power_center_surface_temp_low">Kold</string>
     <string name="power_center_surface_temp_lower">Kold</string>
     <string name="power_center_surface_temp_normal">Normal</string>
-    <string name="power_center_time_to_boot">Tændes kl.</string>
-    <string name="power_center_time_to_shutdown">Slukkes kl.</string>
+    <string name="power_center_time_to_boot">Tid</string>
+    <string name="power_center_time_to_shutdown">Tid</string>
     <string name="power_center_title">Batteri</string>
     <string name="power_center_unoffical_battery_button">Find en autoriseret serviceudbyder</string>
     <string name="power_center_unoffical_battery_dialog">Advarsel om ukurante batterier</string>
@@ -4055,8 +4091,8 @@ slås fra"</string>
     <string name="privacy_dialog_camera_message">For at beskytte dine personlige oplysninger tillader systemet ikke, at apps bruger dit kamera i baggrunden.</string>
     <string name="privacy_dialog_camera_title">Begræns brug af baggrundskamera</string>
     <string name="privacy_dialog_content_part1">Velkommen til Sikkerhed! Denne app kontrollerer, om der er affald og virer på din enhed, samt giver dig mulighed for at administrere apps, kontrollere mobildataforbrug, blokere opkald og meddelelser og meget mere.</string>
-    <string name="privacy_dialog_content_part2">&lt;Data>Sikkerhed skal indsamle de nødvendige personlige oplysninger for at kunne stille sine tjenester til rådighed og forbedre dens funktioner. Du kan læse mere om hvordan vi håndterer de oplysninger, vi indsamler, i vores&lt;a href=\"%1$s\">fortrolighedspolitik&lt;/a>. Du kan trække dit samtykke til fortrolighedspolitikken tilbage i indstillingerne når som helst. &lt;/Data></string>
-    <string name="privacy_dialog_content_part3">&lt;Data>[Læs og accepter vores &lt;a href=\"%2$s\">brugeraftale&lt;/a> og &lt;a href=\"%1$s\">fortrolighedspolitik&lt;/a> inden du bruger appen Sikkerhed. Hvis du ikke accepterer de ovennævnte tjenester, kan du muligvis ikke bruge alle funktionerne i denne app; dens grundlæggende funktionalitet vil dog stadig være tilgængelig.&lt;/Data></string>
+    <string name="privacy_dialog_content_part2"><Data>Sikkerhed skal indsamle de nødvendige personlige oplysninger for at kunne stille sine tjenester til rådighed og forbedre dens funktioner. Du kan læse mere om hvordan vi håndterer de oplysninger, vi indsamler, i vores&lt;a href=\"%1$s\">fortrolighedspolitik&lt;/a>. Du kan trække dit samtykke til fortrolighedspolitikken tilbage i indstillingerne når som helst. </Data></string>
+    <string name="privacy_dialog_content_part3"><Data>[Læs og accepter vores &lt;a href=\"%2$s\">brugeraftale&lt;/a> og &lt;a href=\"%1$s\">fortrolighedspolitik&lt;/a> inden du bruger appen Sikkerhed. Hvis du ikke accepterer de ovennævnte tjenester, kan du muligvis ikke bruge alle funktionerne i denne app; dens grundlæggende funktionalitet vil dog stadig være tilgængelig.</Data></string>
     <string name="privacy_dialog_danger_mission_message">Android har flere højrisikotilladelser (f.eks. tilladelsen til at sende dig push-notifikationer). For at beskytte dine personlige oplysninger spørger systemet dig, om du tillader sådan adfærd, og tilbyder dig muligheder for begrænsninger.</string>
     <string name="privacy_dialog_danger_mission_title">Høj-risiko tilladelser</string>
     <string name="privacy_dialog_feedback">Feedback</string>
@@ -4162,7 +4198,7 @@ Tilbagetræk samtykke nu?"</string>
     <string name="privacy_revoke_dialog_title_cn">Bemærk</string>
     <string name="privacy_revoke_failed_dialog_content">Der opstod en serverfejl. Vent et minut eller to og prøv så igen.</string>
     <string name="privacy_revoke_failed_dialog_title">Kunne ikke tilbagetrække samtykke</string>
-    <string name="privacy_revoke_tip_dialog_content">&lt;Data>Du vil ikke fortsat kunne bruge %1$s, medmindre du accepterer den nye version af dens privatlivspolitik. Acceptér den opdaterede %2$s &lt;a href=\"%3$s\">privatlivspolitik&lt;/a> nu?&lt;/Data></string>
+    <string name="privacy_revoke_tip_dialog_content"><Data>Du vil ikke fortsat kunne bruge %1$s, medmindre du accepterer den nye version af dens privatlivspolitik. Acceptér den opdaterede %2$s &lt;a href=\"%3$s\">privatlivspolitik&lt;/a> nu?</Data></string>
     <string name="privacy_revoke_tip_dialog_title">Kan ikke bruge appen</string>
     <string name="privacy_revoke_title">Tilbagetrækning af samtykke</string>
     <string name="privacy_risk_app">Risikable apps</string>
@@ -4265,7 +4301,7 @@ Tilbagetræk samtykke nu?"</string>
     <string name="privacy_thumbnail_shield_top_tip">Maskér forhåndsvisninger for apps vist i Nylige</string>
     <string name="privacy_type_open">Aktiveret</string>
     <string name="privacy_update_dialog_content_1">Privatlivspolitik for %s blev opdateret:</string>
-    <string name="privacy_update_dialog_content_2">&lt;Data>Læs og acceptér vores nye version af &lt;a href=\"%1$s\">privatlivspolitikken&lt;/a>, inden du fortsætter.&lt;/Data></string>
+    <string name="privacy_update_dialog_content_2"><Data>Læs og acceptér vores nye version af &lt;a href=\"%1$s\">privatlivspolitikken&lt;/a>, inden du fortsætter.</Data></string>
     <string name="privacy_update_dialog_title">Opdateret privatlivspolitik</string>
     <string name="privacy_using_camera">Bruger kamera</string>
     <string name="privacy_using_location">Får adgang til placering</string>
@@ -4347,6 +4383,16 @@ Tilbagetræk samtykke nu?"</string>
     <string name="reset_data_dialog_message">Denne enhed er ikke tilknyttet din Xiaomi-konto. Adgangskoden kan ikke gendannes eller nulstilles. Sikkerhedskopiér alle vigtige elementer, og foretag en fabriksnulstilling. Alle data vil blive slettet permanent, og dit SD-kort vil blive formateret under fabriksnulstillingen.</string>
     <string name="reset_data_dialog_ok">Fabriksnulstilling</string>
     <string name="reset_data_title">Kan ikke gendanne adgangskode</string>
+    <string name="restore_device_id_content">Personlige anbefalinger vil blive nulstillet</string>
+    <string name="restore_device_id_title">Nulstil enheds-ID</string>
+    <string name="restore_dialog_content">Nulstilling af det nuværende enheds-ID nulstiller også personlige anbefalinger. Nulstil nu?</string>
+    <string name="restore_dialog_positive">Nulstil</string>
+    <string name="restore_dialog_title">Vigtigt</string>
+    <string name="restore_oaid_content">Nulstil dit virtuelle id for rydde registreringerne af din adfærd og dine præferencer</string>
+    <string name="restore_oaid_dialog_content">Flere apps bruger dit virtuelle id. Hvis du nulstiller det nu, kan en del af dine app-data gå tabt eller blive ubrugelige. Vil du nulstille det virtuelle id alligevel?</string>
+    <string name="restore_oaid_positive">Nulstil</string>
+    <string name="restore_oaid_positive_step">Nulstil(%1$d)</string>
+    <string name="restore_oaid_title">Nulstil virtuelt id</string>
     <string name="result_autoscan_header">Betalingsmonitorering</string>
     <string name="result_autoscan_info">Monitorer automatisk systemmiljøet, når betalings-apps er startet</string>
     <string name="result_sms_header">Beskedrisici detekteret</string>
@@ -5005,6 +5051,9 @@ Formatering vil slette eksisterende indhold på ^2. For at undgå at miste indho
     <string name="superpower_dialog_button_ok">OK</string>
     <string name="superpower_dialog_massage">Ultra-batterisparer begrænser de mest strømforbrugende funktioner og mindsker din enheds ydelse for at holde basisfunktionerne (f.eks. opkald, SMS og oprette forbindelse til netværk) tilgængelige længst muligt. Tænd for Ultra-batterisparer?</string>
     <string name="superpower_dialog_title">Ultra-batterisparer</string>
+    <string name="superpower_notification_low_temp_btn_txt">Slå til</string>
+    <string name="superpower_notification_low_temp_summary">Tilstand for kuldebeskyttelse kan spare mere batteri, når Ultra-batterisparer er slået til, og temperaturen er ekstremt lav</string>
+    <string name="superpower_notification_low_temp_title">Slå Ultra-batterisparer til?</string>
     <string name="superpower_notification_new_title_new">Mindre end %s batteri tilbage</string>
     <string name="superpower_notification_summary">Oplad din enhed eller deaktiver Ultra-batterisparer</string>
     <string name="superpower_notification_time_12">EEEE d. MMMM</string>
@@ -5012,6 +5061,7 @@ Formatering vil slette eksisterende indhold på ^2. For at undgå at miste indho
     <string name="superpower_notification_title_new">Mindre end %s batteri tilbage</string>
     <string name="superpower_progress_content">Tænd for Ultra-batterisparer…</string>
     <string name="superpower_progress_left_time">%1$d t %2$d m</string>
+    <string name="superpower_progress_low_temp_content">Slår tilstand for kuldebeskyttelse til…</string>
     <string name="superpower_progress_switch_home">Skifter til mørkt tema</string>
     <string name="superpower_progress_title">Tilbageværende tid</string>
     <string name="superpower_progress_turndown_brightness">Formindsk skærmens lysstyrke</string>
@@ -5049,11 +5099,11 @@ Formatering vil slette eksisterende indhold på ^2. For at undgå at miste indho
     <string name="system_permission_declare_agree">Bekræft</string>
     <string name="system_permission_declare_analytics_declare">Vi inviterer dig til at være med i vores brugeroplevelsesprogram. Denne app skal tilslutte til internettet og bruge følgende tilladelser eller funktioner for at indsamle statistikker for at kunne forbedre de tjenester, vi leverer til dig. Vi indsamler data her kun til statistiske formål, og vi kan ikke identificere dig personligt baseret på de data, vi indsamler.</string>
     <string name="system_permission_declare_disagree">Uenig</string>
-    <string name="system_permission_declare_double_link">&lt;Data>Læs og acceptér vores &lt;a href=\"%1$s\">brugeraftale&lt;/a> og &lt;a href=\"%2$s\">privatlivspolitik&lt;/a>, inden du fortsæter.&lt;/Data></string>
+    <string name="system_permission_declare_double_link"><Data>Læs og acceptér vores &lt;a href=\"%1$s\">brugeraftale&lt;/a> og &lt;a href=\"%2$s\">privatlivspolitik&lt;/a>, inden du fortsæter.</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">Velkommen til %1s! Med denne app kan du bruge følgende funktion: %2s.</string>
-    <string name="system_permission_declare_meanwhile_double_link">&lt;Data>Læs og acceptér vores &lt;a href=\"%1$s\">brugeraftale&lt;/a> og &lt;a href=\"%2$s\">privatlivspolitik&lt;/a>, inden du fortsætter.&lt;/Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data>Læs og acceptér vores &lt;a href=\"%1$s\">privatlivspolitk&lt;/a>, inden du fortsætter.&lt;/Data></string>
-    <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data>Læs og acceptér vores &lt;a href=\"%1$s\">brugeraftale&lt;/a>, inden du fortsætter.&lt;/Data></string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>Læs og acceptér vores &lt;a href=\"%1$s\">brugeraftale&lt;/a> og &lt;a href=\"%2$s\">privatlivspolitik&lt;/a>, inden du fortsætter.</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Læs og acceptér vores &lt;a href=\"%1$s\">privatlivspolitk&lt;/a>, inden du fortsætter.</Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>Læs og acceptér vores &lt;a href=\"%1$s\">brugeraftale&lt;/a>, inden du fortsætter.</Data></string>
     <string name="system_permission_declare_no_say_no">Hvis du vælger ikke at give os de anmodede tilladelser eller ikke tillader os at indsamle og bruge dine data, vil denne app ikke kunne fungere normalt.</string>
     <string name="system_permission_declare_no_say_no_analytics">Hvis du ikke ønsker at give disse tilladelser, kan du afmelde dig under Indstillinger > Yderligere indstillinger > Fortrolighed > User Experience Program.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">Hvis du vælger ikke at give os de anmodede tilladelser eller ikke tillader os at indsamle og bruge dine data, vil denne app ikke kunne fungere bare delvist.</string>
@@ -5061,13 +5111,13 @@ Formatering vil slette eksisterende indhold på ^2. For at undgå at miste indho
     <string name="system_permission_declare_privacy_declare">Denne app skal tilslutte til internettet og kræver følgende tilladelser for at kunne fungere normalt:</string>
     <string name="system_permission_declare_privacy_no_network">Denne app kræver følgende tilladelser for at kunne fungere normalt:</string>
     <string name="system_permission_declare_privacy_no_permission">Denne app skal tilslutte til internettet og indsamle de påkrævede personlige oplysninger for at kunne fungere normalt.</string>
-    <string name="system_permission_declare_privacy_policy">&lt;Data>Læs og acceptér vores &lt;a href=\"%1$s\">privatlivspolitik&lt;/a>, inden du fortsætter.&lt;/Data></string>
+    <string name="system_permission_declare_privacy_policy"><Data>Læs og acceptér vores &lt;a href=\"%1$s\">privatlivspolitik&lt;/a>, inden du fortsætter.</Data></string>
     <string name="system_permission_declare_revoke_system">Du kan afslutte denne app.</string>
     <string name="system_permission_declare_revoke_uninstallable">Du kan logge ud, afinstallere denne app eller tilbagekalde din tilladelse og autorisation i Sikkerhed > Administrer apps > Tilladelser > Tilladelser.</string>
     <string name="system_permission_declare_title">Bemærk</string>
     <string name="system_permission_declare_use_network">Opret forbindelse til netværket</string>
     <string name="system_permission_declare_use_network_no_permission">Opret forbindelse til netværket</string>
-    <string name="system_permission_declare_user_agreement">&lt;Data>Læs og acceptér vores &lt;a href=\"%1$s\">brugeraftale&lt;/a>, inden du fortsætter.&lt;/Data></string>
+    <string name="system_permission_declare_user_agreement"><Data>Læs og acceptér vores &lt;a href=\"%1$s\">brugeraftale&lt;/a>, inden du fortsætter.</Data></string>
     <string name="system_permission_perm_answer_call">Foretag opkald</string>
     <string name="system_permission_perm_optional">" (valgfrit)"</string>
     <string name="system_permission_perm_read_mms">Læs MMS</string>
@@ -5453,8 +5503,7 @@ Tilbageværende data inkluderer data, der er overført fra den foregående måne
     <string name="vb_fps_settings_tips">Denne funktion justerer skærmens opdateringsfrekvens til videoframerate, hvilket sparer batteri og gør afspilningen glidende. Aktivering af flydende kommentarer deaktiverer frekvens for automatisk opdatering.</string>
     <string name="vb_immerse_voice">Immersiv lyd</string>
     <string name="vb_movie_mode">Teatertilstand</string>
-    <string name="vb_movie_power_hint">"Teatertilstand giver en fordybende seeroplevelse.
-Din enhed bliver muligvis varm og bruger mere strøm."</string>
+    <string name="vb_movie_power_hint">Teatertilstand giver en fordybende seeroplevelse.Din enhed bliver muligvis varm og bruger mere strøm.</string>
     <string name="vb_movie_subtitle">Kræver høj ydeevne</string>
     <string name="vb_mv_style_close_toast">Stil er deaktiveret.</string>
     <string name="vb_power_performance_mode_conflict_toast">Kan ikke bruge denne funktion, når præstationstilstand er aktiveret</string>

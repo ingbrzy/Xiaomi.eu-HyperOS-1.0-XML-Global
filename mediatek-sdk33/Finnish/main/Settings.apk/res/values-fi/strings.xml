@@ -5101,6 +5101,8 @@ Yhdistä vähintään 4 pistettä."</string>
     <string name="login_action">Kirjaudu sisään</string>
     <string name="long_press_back_key">Paina pitkään Takaisin-painiketta</string>
     <string name="long_press_buttom_key">Paina pitkään kotinäppäintä lukitusnäytössä</string>
+    <string name="long_press_editor_style_summary">Muokkaa kelloa ja taustakuvaa painamalla lukitusnäyttöä pitkään</string>
+    <string name="long_press_editor_style_title">Muokkaa painamalla pitkään</string>
     <string name="long_press_home_key">Paina pitkään kotinäppäintä</string>
     <string name="long_press_menu_key">Paina pitkään valikkopainiketta</string>
     <string name="long_press_menu_key_when_lock">Paina pitkään valikkopainiketta lukitusnäytössä</string>

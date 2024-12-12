@@ -554,9 +554,13 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="session_failed_dist_no_space_btn_text">ストレージを消去</string>
     <string name="session_failed_get_installed_apps_denied_detail">自動的にバックアップするには、[設定] でこのアプリに対し、デバイスにインストールされているアプリ一覧へのアクセス許可を付与して、[常に許可] を選択します。</string>
     <string name="session_failed_get_installed_apps_denied_title">アクセス許可が必要です</string>
+    <string name="session_failed_invalid_token_action">サインイン</string>
+    <string name="session_failed_invalid_token_detail">もう一度サインイン</string>
+    <string name="session_failed_invalid_token_title">資格情報が無効です</string>
     <string name="session_failed_no_server_response_title">サーバーに接続できませんでした。</string>
     <string name="session_failed_override_detail">ローカルバックアップはXiaomi Cloudのバックアップとは異なります。続けると、現在のバックアップによって以前のバックアップが上書きされます。今すぐ上書きしますか？</string>
     <string name="session_failed_override_title">バックアップの上書き</string>
+    <string name="session_failed_reason_invalid_token">サインイン資格情報が無効です。もう一度サインインしてください。</string>
     <string name="session_failed_restore_app_data_btn_text">戻る</string>
     <string name="session_failed_restore_app_data_detail">アイテムを復元する前に、このデバイスにWeChatがインストールされていないことを確認してください。データの復元中は、WeChatを開いたり使用したりしないでください。</string>
     <string name="session_failed_restore_app_data_title">WeChatをアンインストール</string>

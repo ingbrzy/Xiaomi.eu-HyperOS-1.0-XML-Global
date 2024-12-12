@@ -188,9 +188,10 @@
     <string name="find_device_gdpr_prompt">Активируя функцию \"Поиск устройства\", вы соглашаетесь с нашей <u><a href="app://com.miui.cloudservice.gdpr.license">Политикой конфиденциальности</a></u>. Отключите функцию, если хотите отозвать свое согласие.</string>
     <string name="find_device_operation_failure_rpc">Не удалось выполнить операцию из-за ошибки RPC.</string>
     <string name="find_device_permissions_footer">Нажмите \"Предоставить\", чтобы предоставить выбранные разрешения.</string>
-    <string name="find_device_permissions_header">Добро пожаловать в Поиск устройства! Используйте это приложение для поиска и отслеживания устройства, а также его блокировки в случае утери. Поиску устройства требуются следующие разрешения:</string>
+    <string name="find_device_permissions_header">Добро пожаловать в Поиск устройства! Вы можете использовать это приложение для поиска, отслеживания и блокировки вашего устройства после его потери. Вы также можете анонимно помочь другим людям найти их устройства Xiaomi. Для нормальной работы этому приложению требуются следующие разрешения:</string>
     <string name="find_device_service_title">Поиск устройства</string>
-    <string name="find_device_status_summary">Поиск и блокировка вашего устройства, а также дистанционное удаление данных на нем.</string>
+    <string name="find_device_status_summary">"Включите эту функцию, чтобы находить и отслеживать свое устройство или удаленно удалять с него данные.
+Вы также можете анонимно помочь другим людям найти их устройства Xiaomi."</string>
     <string name="find_device_status_title_pad">Поиск устройства</string>
     <string name="find_device_status_title_phone">Поиск устройства</string>
     <string name="find_permission_location_summary">Для определения местоположения этого устройства</string>
@@ -413,7 +414,7 @@
     <string name="micloud_last_sync_canceled">Синхронизация была отменена. Повторите попытку.</string>
     <string name="micloud_main_head_menu_cloud_backup">Резервные копии</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Поиск устройства недоступен из второго пространства. Вы можете воспользоваться этой функцией в первом пространстве.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">Корзина</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">Недавно удаленные объекты</string>
     <string name="micloud_main_network_error">Не удалось подключиться к сети</string>
     <string name="micloud_main_sync_mode_summary">Синхронизировать данные в режиме реального времени. Эта функция увеличит потребление энергии.</string>
     <string name="micloud_main_sync_mode_title">Быстрая синхронизация</string>
@@ -633,6 +634,18 @@
     <string name="noti_quota_low_title_without_button">Недостаточно места в облаке</string>
     <string name="notification_sync_fail_title">Не удалось синхронизировать пароли</string>
     <string name="notification_update_key_text">Код доступа к менеджеру паролей был изменен. Подтвердите новый код доступа.</string>
+    <string name="offline_find_action_open">Включить</string>
+    <string name="offline_find_checkbox_pref_summary_1">Находите это устройство, даже если оно не подключено к сети, и просматривайте местоположение других устройств, которые не подключены к сети. &lt;br/>&lt;font color=#0f84ff>Подробнее&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">Находите это устройство, даже если оно выключено или не подключено к сети, и просматривайте местоположение других устройств, которые не подклчюены к сети. &lt;br/>&lt;font color=#0f84ff>Подробнее&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">Автономное местоположение</string>
+    <string name="offline_find_doing_disable">Выключение Автономного местоположения…</string>
+    <string name="offline_find_doing_enable">Включение определения местоположения без подключения к сети…</string>
+    <string name="offline_find_function">Автономное местоположение</string>
+    <string name="offline_find_msg_to_open_1">Включите параметр «Автономное местоположение» на этом устройстве, чтобы просматривать местоположение других устройств, которые не подключены к сети.</string>
+    <string name="offline_find_msg_to_open_2">Убедитесь, что это устройство является надежным, и включите опцию «Автономное местоположение», чтобы просматривать местоположение других устройств, которые не подключены к сети.</string>
+    <string name="offline_find_msg_to_open_3">Чтобы обеспечить безопасность ваших данных, убедитесь, что это устройство является надежным, прежде чем включать опцию «Автономное местоположение».</string>
+    <string name="offline_find_title_to_open_1">Включить Автономное местоположение</string>
+    <string name="offline_find_title_to_open_2">Подтвердите это устройство</string>
     <string name="open_service_title">Включить</string>
     <string name="pay_info_dialog_confirm_to_pay">Оплатить %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Использовать доступные Mi Coins: %s</string>
@@ -658,8 +671,8 @@
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy_and_agreement">Условия использования</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">Добро пожаловать в Поиск устройства! Вы можете использовать эту службу для поиска и блокировки ваших устройств, а также для удаления с них всех данных, если устройство было утеряно.</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">Добро пожаловать в Поиск устройства! Вы можете использовать эту службу для поиска и блокировки ваших устройств, а также для удаления с них всех данных, если устройство было утеряно.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">Добро пожаловать в Поиск устройства! Вы можете использовать это приложение для поиска, отслеживания и блокировки вашего устройства после его потери. Вы также можете анонимно помочь другим людям найти их устройства Xiaomi.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">Добро пожаловать в Поиск устройства! Вы можете использовать это приложение для поиска, отслеживания и блокировки вашего устройства после его потери. Вы также можете анонимно помочь другим людям найти их устройства Xiaomi.</string>
     <string name="privacy_dialog_sync_all_purpose_china">Добро пожаловать в службы Xiaomi Cloud! Вы можете использовать Xiaomi Cloud для синхронизации сообщений, контактов, заметок, настроек Браузера, фото и видео, настроек WLAN, аудиозаписей, разметки рабочего стола, приложений, мероприятий, объектов Анти-спама и Ленты виджетов между всеми подключенными устройствами.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Добро пожаловать в службы Xiaomi Cloud! Вы можете использовать Xiaomi Cloud для синхронизации сообщений, контактов, заметок, настроек Браузера, фото и видео, настроек WLAN, аудиозаписей, разметки рабочего стола, приложений, мероприятий, объектов Анти-спама и Ленты виджетов между всеми подключенными устройствами.</string>
     <string name="privacy_dialog_sync_all_purpose_pad">Добро пожаловать в службы Xiaomi Cloud! Вы можете использовать это приложение для синхронизации сообщений, контактов, заметок, объектов Браузера, альбомов в облаке, музыки, календаря, списка заблокированных и журнала вызовов с облаком.</string>

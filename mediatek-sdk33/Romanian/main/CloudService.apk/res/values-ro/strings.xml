@@ -188,9 +188,10 @@
     <string name="find_device_gdpr_prompt">Dacă activați Găsește dispozitiv, sunteți de acord cu <u><a href="app://com.miui.cloudservice.gdpr.license">Politica de confidențialitate</a></u>. Dezactivați această funcție dacă doriți să vă retrageți consimțământul.</string>
     <string name="find_device_operation_failure_rpc">Operația nu a putut fi efectuată din cauza erorii RPC.</string>
     <string name="find_device_permissions_footer">Atinge \"Acordă\" pentru a acorda permisiunile pe care le-ați selectat.</string>
-    <string name="find_device_permissions_header">Bine ați venit la Găsește dispozitiv! Puteți utiliza această aplicație pentru a localiza, urmări și bloca dispozitivul atunci când este pierdut. Găsește dispozitiv necesită următoarele permisiuni:</string>
+    <string name="find_device_permissions_header">Bine ați venit la Găsește dispozitiv! Puteți folosi această aplicație pentru a localiza, urmări și bloca dispozitivul atunci când lipsește. De asemenea, puteți ajuta în mod anonim pe alții să-și localizeze dispozitivele Xiaomi. Această aplicație necesită următoarele permisiuni pentru a funcționa normal:</string>
     <string name="find_device_service_title">Găsește dispozitiv</string>
-    <string name="find_device_status_summary">Localizează și blochează dispozitivul de asemenea puteți șterge și datele de la distanță.</string>
+    <string name="find_device_status_summary">"Activați pentru a vă localiza și urmări dispozitivul sau pentru a-i șterge datele de la distanță.
+De asemenea, puteți ajuta anonim pe alții să-și localizeze dispozitivele Xiaomi."</string>
     <string name="find_device_status_title_pad">Găsește dispozitiv</string>
     <string name="find_device_status_title_phone">Găsește dispozitiv</string>
     <string name="find_permission_location_summary">Pentru localizarea acestui dispozitiv</string>
@@ -413,7 +414,7 @@
     <string name="micloud_last_sync_canceled">Sincronizarea a fost anulată. Încercați din nou.</string>
     <string name="micloud_main_head_menu_cloud_backup">Copii de rezervă</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Găsește dispozitiv nu este disponibil în Al doilea spațiu. Puteți să utlizați în Primul spațiu.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">Elemente șterse</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">Elemente șterse recent</string>
     <string name="micloud_main_network_error">Nu se poate conecta la rețea</string>
     <string name="micloud_main_sync_mode_summary">Sincronizați datele aplicației în timp real. Consumul de energie va crește atunci când această funcție este activată.</string>
     <string name="micloud_main_sync_mode_title">Sincronizare rapidă</string>
@@ -633,6 +634,18 @@ Asigurați-vă că utilizați Contul Xiaomi asociat ca și cont de sistem."</str
     <string name="noti_quota_low_title_without_button">Nu este suficient spațiu de stocare cloud</string>
     <string name="notification_sync_fail_title">Parolele nu au putut fi sincronizate</string>
     <string name="notification_update_key_text">Parola de gestionare a codului de acces a fost modificată. Verificați noul cod de acces.</string>
+    <string name="offline_find_action_open">Activează</string>
+    <string name="offline_find_checkbox_pref_summary_1">Localizați acest dispozitiv chiar și atunci când nu este conectat la rețea și vedeți locația altor dispozitive offline. &lt;br/>&lt;font color=#0f84ff>Aflați mai multe&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">Localizați acest dispozitiv chiar și atunci când este oprit sau nu este conectat la rețea și vedeți locația altor dispozitive offline. &lt;br/>&lt;font color=#0f84ff>Aflați mai multe&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">Locație offline</string>
+    <string name="offline_find_doing_disable">Se dezactivează Locația offline…</string>
+    <string name="offline_find_doing_enable">Se activează Locația offline…</string>
+    <string name="offline_find_function">Locație offline</string>
+    <string name="offline_find_msg_to_open_1">Activați Locație offline pe acest dispozitiv pentru a putea vedea locația altor dispozitive offline.</string>
+    <string name="offline_find_msg_to_open_2">Verificați acest dispozitiv ca fiind de încredere și activați Locație offline pentru a putea vedea locația altor dispozitive offline.</string>
+    <string name="offline_find_msg_to_open_3">Pentru a vă proteja securitatea datelor, verificați acest dispozitiv ca fiind de încredere înainte de a activa Locație offline.</string>
+    <string name="offline_find_title_to_open_1">Activați Locație offline</string>
+    <string name="offline_find_title_to_open_2">Verificați acest dispozitiv</string>
     <string name="open_service_title">Activează</string>
     <string name="pay_info_dialog_confirm_to_pay">Plătește %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Utilizați restul de Monede Mi: %s</string>
@@ -658,8 +671,8 @@ Informațiile despre locație nu pot fi raportate atunci când conexiunea la re�
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">„%1$s” a fost copiat în clipboard.</string>
     <string name="privacy_and_agreement">Termeni și condiții</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">Bine ați venit la Găsește dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele de pe dispozitivul dvs. dacă acesta este pierdut.</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">Bine ați venit la Găsește dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele de pe dispozitivul dvs. dacă acesta este pierdut.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">Bine ați venit la Găsește dispozitiv! Puteți folosi această aplicație pentru a localiza, urmări și bloca dispozitivul atunci când lipsește. De asemenea, puteți ajuta în mod anonim pe alții să-și localizeze dispozitivele Xiaomi.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">Bine ați venit la Găsește dispozitiv! Puteți folosi această aplicație pentru a localiza, urmări și bloca dispozitivul atunci când lipsește. De asemenea, puteți ajuta în mod anonim pe alții să-și localizeze dispozitivele Xiaomi.</string>
     <string name="privacy_dialog_sync_all_purpose_china">Bine ați venit la serviciile Xiaomi Cloud! Puteți utiliza Xiaomi Cloud pentru a vă sincroniza mesajele, istoricul apelurilor, contactele, notele, setările browserului, fotografiile și videoclipurile, setările WLAN, înregistrările, aspectul Ecranului principal, aplicații, evenimente din calendar, elemente din lista neagră, istoric apel și Aplicația seif în toate dispozitive conectate.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Bine ați venit la serviciile Xiaomi Cloud! Puteți utiliza Xiaomi Cloud pentru a vă sincroniza mesajele, istoricul apelurilor, contactele, notele, setările browserului, fotografiile și videoclipurile, setările WLAN, înregistrările, aspectul Ecranului principal, aplicații, evenimente din calendar, elemente din lista neagră, istoric apel și Aplicația seif în toate dispozitive conectate.</string>
     <string name="privacy_dialog_sync_all_purpose_pad">Bine ați venit la serviciile Xiaomi Cloud! Puteți utiliza această aplicație pentru a vă sincroniza mesajele, contactele, notele, elementele din browser, albumele în cloud, muzica, calendarul, lista neagră și istoricul apelurilor în cloud.</string>
