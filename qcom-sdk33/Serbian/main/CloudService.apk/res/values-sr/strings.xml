@@ -188,9 +188,10 @@
     <string name="find_device_gdpr_prompt">Укључивањем функције Пронађи уређај, прихватате наша <u><a href="app://com.miui.cloudservice.gdpr.license">Правила о приватности</a></u>. Искључите ову функцију ако желите да повучете сагласност.</string>
     <string name="find_device_operation_failure_rpc">Није могуће извршити радњу због RPC грешке.</string>
     <string name="find_device_permissions_footer">Додирните „Одобри“ да бисте доделили дозволе које сте изабрали.</string>
-    <string name="find_device_permissions_header">Добродошли у Пронађи уређај! Ову апликацију можете да користите за лоцирање, праћење и закључавање вашег уређаја када је изгубљен. Проналажење уређаја захтева следеће дозволе:</string>
+    <string name="find_device_permissions_header">Добро дошли у Пронађи уређај! Можете да користите ову апликацију да лоцирате, пратите и закључате свој уређај када га изгубите. Такође можете анонимно помоћи другима да лоцирају своје Xiaomi уређаје. Ова апликација захтева следеће дозволе да би нормално радила:</string>
     <string name="find_device_service_title">Пронађи уређај</string>
-    <string name="find_device_status_summary">Даљински лоцирајте и закључајте уређај или обришите податке</string>
+    <string name="find_device_status_summary">"Укључите да бисте лоцирали и пратили свој уређај или даљински обрисали његове податке.
+Можете и анонимно да помогнете другима да лоцирају своје Xiaomi уређаје."</string>
     <string name="find_device_status_title_pad">Пронађи уређај</string>
     <string name="find_device_status_title_phone">Пронађи уређај</string>
     <string name="find_permission_location_summary">За лоцирање овог уређаја</string>
@@ -413,7 +414,7 @@
     <string name="micloud_last_sync_canceled">Синхронизација је отказана. Покушајте опет.</string>
     <string name="micloud_main_head_menu_cloud_backup">Бекапи</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Функција Пронађи уређај није доступна у Другом простору. Можете је користити у Првом простору.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">Oбрисане ставке</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">Недавно обрисане ставке</string>
     <string name="micloud_main_network_error">Није могуће повезивање на мрежу</string>
     <string name="micloud_main_sync_mode_summary">Синхронизовање података апликације у реалном времену. Укључивање ове функције повећава потрошњу енергије.</string>
     <string name="micloud_main_sync_mode_title">Брза синронизација</string>
@@ -633,6 +634,18 @@
     <string name="noti_quota_low_title_without_button">Cloud нема довољно простора</string>
     <string name="notification_sync_fail_title">Синхронизација лозинки није успела</string>
     <string name="notification_update_key_text">Лозинка Менаџера лозинки је промењена. Потврдите нову лозинку.</string>
+    <string name="offline_find_action_open">Укључи</string>
+    <string name="offline_find_checkbox_pref_summary_1">Лоцирајте овај уређај чак и када није повезан на мрежу и проверите локацију других уређаја ван мреже. &lt;br/>&lt;font color=#0f84ff>Сазнајте више&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">Лоцирајте овај уређај чак и када је искључен или није повезан на мрежу и проверите локацију других уређаја ван мреже. &lt;br/>&lt;font color=#0f84ff>Сазнајте више&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">Лоцирање ван мреже</string>
+    <string name="offline_find_doing_disable">Искључивање Лоцирања ван мреже…</string>
+    <string name="offline_find_doing_enable">Укључивање Лоцирања ван мреже…</string>
+    <string name="offline_find_function">Лоцирање ван мреже</string>
+    <string name="offline_find_msg_to_open_1">Укључите Лоцирање ван мреже на овом уређају да бисте могли да видите локацију других уређаја ван мреже.</string>
+    <string name="offline_find_msg_to_open_2">Потврдите овај уређај као поуздан и укључите Лоцирање ван мреже да бисте могли да видите локацију других уређаја ван мреже.</string>
+    <string name="offline_find_msg_to_open_3">Да бисте заштитили безбедност својих података, потврдите да је овај уређај поуздан пре него што укључите Лоцирање ван мреже.</string>
+    <string name="offline_find_title_to_open_1">Укључи Лоцирање ван мреже</string>
+    <string name="offline_find_title_to_open_2">Потврди овај уређај</string>
     <string name="open_service_title">Укључи</string>
     <string name="pay_info_dialog_confirm_to_pay">Платити %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Користите преостале Mi Новчиће: %s</string>
@@ -658,8 +671,8 @@
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">Резиме „%1$s“ је копиран у привремену меморију.</string>
     <string name="privacy_and_agreement">Одредбе и услови</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">Добро дошли у Пронађи уређај! Ову услугу можете користити за лоцирање, закључавање или брисање података са уређаја ако је изгубљен.</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">Добро дошли у Пронађи уређај! Ову услугу можете користити за лоцирање, закључавање или брисање података са уређаја ако је изгубљен.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">Добро дошли у Пронађи уређај! Можете да користите ову апликацију да лоцирате, пратите и закључате свој уређај када га изгубите. Такође можете анонимно помоћи другима да лоцирају своје Xiaomi уређаје.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">Добро дошли у Пронађи уређај! Можете да користите ову апликацију да лоцирате, пратите и закључате свој уређај када га изгубите. Такође можете анонимно помоћи другима да лоцирају своје Xiaomi уређаје.</string>
     <string name="privacy_dialog_sync_all_purpose_china">Добро дошли у Xiaomi Cloud услуге! Можете да користите Xiaomi Cloud да синхронизујете своје поруке, контакте, белешке, подешавања Прегледача, фотографије и видео снимке, WLAN подешавања, снимке, распоред Почетног екрана, апликације, догађаје у календару, ставке на Листи блокираних, историју позива и Трезор апликација на свим повезаним уређајима.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Добро дошли у Xiaomi Cloud услуге! Можете да користите Xiaomi Cloud да синхронизујете своје поруке, контакте, белешке, подешавања Прегледача, фотографије и видео снимке, WLAN подешавања, снимке, распоред Почетног екрана, апликације, догађаје у календару, ставке на Листи блокираних, историју позива и Трезор апликација на свим повезаним уређајима.</string>
     <string name="privacy_dialog_sync_all_purpose_pad">Добро дошли у Xiaomi Cloud услуге! Можете да користите ову апликацију да синхронизујете ваше поруке, контакте, белешке, подешавања Прегледача, cloud албуме, музику, календар, листу блокираних и историју позива са cloud-ом.</string>

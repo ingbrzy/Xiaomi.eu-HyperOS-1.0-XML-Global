@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">"Attiva prima l'always-on display nelle Impostazioni"</string>
     <string name="apply_theme_with_ringtones">Utilizza le suonerie del tema</string>
     <string name="apply_wallpaper_after_three_theme">"Al momento stai utilizzando un tema di terze parti. Se modifichi lo sfondo della schermata di blocco, lo stile dell'orologio della schermata di blocco potrebbe essere ripristinato ai valori predefiniti. Applicare ora?"</string>
+    <string name="apply_wallpaper_dialog_title">Applica sfondo</string>
     <string name="apply_wallpaper_notice">Attenzione</string>
     <string name="apply_wallpaper_notice_cancel">Annulla</string>
     <string name="apply_wallpaper_notice_content">Il tema attualmente applicato contiene un modulo della schermata di blocco personalizzato che potrebbe impedire di apportare modifiche relative alla schermata di blocco.</string>
     <string name="apply_wallpaper_notice_lockscreen">Il tuo tema attuale contiene una schermata di blocco personalizzata. Lo sostituiremo con la schermata di blocco predefinita se applichi questo sfondo. Applicare comunque?</string>
     <string name="apply_wallpaper_notice_still_apply">Applica</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">"Ora stai utilizzando un set di sfondi. Se applichi un nuovo tema, gli sfondi della schermata di blocco e della schermata Home verranno sostituiti e l'Always-on display verrà ripristinato allo stile precedente. Applicare comunque?"</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Al momento stai utilizzando un super sfondo. Se selezioni un nuovo sfondo, verrà applicato sia alla schermata Home che a quella di blocco, e always-on display verrà ripristinato alle impostazioni precedenti. Applicare ora?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">Ora stai utilizzando un set di sfondi. Se applichi un nuovo tema, gli sfondi della schermata di blocco e della schermata Home verranno sostituiti. Applicare comunque?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Al momento stai utilizzando un super sfondo. Se selezioni un nuovo sfondo, verrà applicato sia alla schermata Home che a quella di blocco. Applicare ora?</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">"Indice di qualità dell'aria: %s"</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">Impossibile connettersi alla rete. Verifica le tue impostazioni di rete e riprova.</string>
     <string name="card_retry">Riprova</string>
     <string name="carefully_chosen_wallpaper">In evidenza</string>
+    <string name="carousel_no_set_wallpaper_effects">Non è possibile impostare gli effetti quando il Carosello sfondi è attivo</string>
     <string name="change_host_hint">Cambia host</string>
     <string name="change_wallpaper">Sfondo</string>
     <string name="channel_featured_page">In primo piano</string>
@@ -147,7 +151,12 @@
     <string name="clearable_edittext_clear_description">Cancella</string>
     <string name="close">Chiudi</string>
     <string name="columbus_ad_flag_text">Annuncio</string>
+    <string name="columbus_reward_style_access">Scopri di più</string>
+    <string name="columbus_reward_style_close_cancel">Esci</string>
+    <string name="columbus_reward_style_close_desc">Finisci di guardare il video per ottenere una ricompensa. Continuare a guardare?</string>
+    <string name="columbus_reward_style_speed_confirm">Continua</string>
     <string name="columbus_skip_ad">Salta</string>
+    <string name="columbus_skip_ad_time">Ignora (%d)</string>
     <string name="come_and_choose_wallpaper">Scegli tra migliaia di fantastici sfondi</string>
     <string name="common_google_play_services_enable_button">Attiva</string>
     <string name="common_google_play_services_enable_text">%1$s non funzionerà se non attivi Google Play Services.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Mattino</string>
     <string name="editor_apply_message">"Questa funzionalità è utilizzata per il debug dai designer. Il tema predefinito verrà automaticamente ripristinato in un attimo. Percorso file del tema corrente: "</string>
     <string name="editor_apply_toast">Seleziona manualmente temp.mtz nella directory principale</string>
+    <string name="effect_home">Effetti schermata Home</string>
+    <string name="effect_lock">Effetti schermata di blocco</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Inserisci un indirizzo e-mail</string>
     <string name="eras_ad">d.C.</string>
@@ -425,6 +436,7 @@
     <string name="later">Non ora</string>
     <string name="latest_wallpaper">Nuovi</string>
     <string name="limit_discount">Offerta limitata</string>
+    <string name="linked_wallpaper">Set di sfondi</string>
     <string name="live_wallpaper">Sfondi animati</string>
     <string name="live_wallpapers">Sfondi animati</string>
     <string name="loading">Solo un secondo…</string>
@@ -653,14 +665,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Non mostrare più</string>
     <string name="not_set">Non impostato</string>
+    <string name="not_support_subtitle">"Contatta l'assistenza informatica della tua società o cambia account."</string>
+    <string name="not_support_title">Non è possibile utilizzare Temi quando si utilizza un profilo di lavoro</string>
     <string name="notifications_permission_confirm">Consenti</string>
     <string name="notifications_permission_decline">Non consentire</string>
     <string name="notifications_permission_title">"Consentire all'app di inviarti notifiche?"</string>
     <string name="notify_style">Effetti notifiche</string>
-    <string name="offline_notification_text">"Tocca per aprire l'annuncio"</string>
-    <string name="offline_notification_title">"Visualizza l'annuncio salvato quando eri offline"</string>
+    <string name="offline_dialog_image_description">Icona</string>
+    <string name="offline_dialog_text">"Grazie per il tuo interesse.
+Comunicheremo ulteriori dettagli quando tornerai online."</string>
+    <string name="offline_notification_title">Sei di nuovo online Riprendiamo da dove abbiamo interrotto</string>
+    <string name="offline_notification_title_with_advertiser">Sei di nuovo online Continua a scoprire informazioni su %s</string>
     <string name="offline_opt_in_confirm">OK</string>
-    <string name="offline_opt_in_confirmation">Riceverai una notifica con il link quando sarai di nuovo online</string>
     <string name="offline_opt_in_decline">No, grazie</string>
     <string name="offline_opt_in_message">"Ti invieremo una notifica con un link che rimanda al sito dell'inserzionista."</string>
     <string name="offline_opt_in_title">"Apri l'annuncio quando sarai di nuovo online."</string>
@@ -682,6 +698,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">Non farteli scappare!</string>
     <string name="ota_theme_default_push_content2">Visualizza i nostri suggerimenti</string>
     <string name="ota_theme_default_push_title">Nuovi temi in arrivo</string>
+    <string name="out_wallpaper_list">Sfondo schermata esterna</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="pause_all">Sospendi tutto</string>
     <string name="pay_online">Pagamento online</string>
@@ -978,13 +995,12 @@ mm"</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>
     <string name="scroll_switch">"Scorri per passare da un elemento all'altro"</string>
-    <string name="sdcard_not_mounted_dialog_message">"Inserisci una scheda SD.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">Scheda SD non rilevata</string>
     <string name="search_color">Colore</string>
     <string name="search_hint_header_text">Parole chiave</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_sort">Ordina per</string>
+    <string name="search_update_guide_bubble">Nuovi</string>
+    <string name="search_update_guide_text">Prova le nuovissime funzioni di ricerca</string>
     <string name="select_all">Seleziona tutto</string>
     <string name="selected_resource_file_invalid">Impossibile utilizzare il file di risorsa selezionato</string>
     <string name="send">Invia</string>
@@ -1038,12 +1054,14 @@ mm"</string>
     <string name="system_aod_dialog_message">"Attiva l'always-on display per utilizzare questa funzionalità."</string>
     <string name="system_aod_dialog_positive_button">Impostazioni</string>
     <string name="system_aod_dialog_title">Always-on display</string>
+    <string name="system_personalize_title">Personalizzazione</string>
     <string name="system_phone">Chiamate</string>
     <string name="system_precust">Preinstallati</string>
     <string name="text_billing_info">Informazioni di fatturazione</string>
     <string name="text_cancel_subscription_service">"Vuoi annullare subito l'abbonamento?"</string>
     <string name="text_content_update">Nuovi contenuti giornalieri</string>
     <string name="text_free_trial">Prova gratis</string>
+    <string name="text_local_push_check">Visualizza</string>
     <string name="text_pay_monthly" formatted="false">A partire dal %s, si rinnova automaticamente per %s/mese fino a quando non viene annullato</string>
     <string name="text_pay_weekly" formatted="false">A partire dal %s, si rinnova automaticamente per %s/settimana fino a quando non viene annullato</string>
     <string name="text_pay_yearly" formatted="false">A partire dal %s, si rinnova automaticamente per %s/anno fino a quando non viene annullato</string>

@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">먼저 설정에서 Always On Display를 켜십시오</string>
     <string name="apply_theme_with_ringtones">테마 벨소리 사용</string>
     <string name="apply_wallpaper_after_three_theme">서드파티 테마를 사용하고 계십니다. 잠금화면 배경화면을 변경하시는 경우, 잠금화면 시계 스타일이 기본값으로 복구될 것입니다. 지금 적용하시겠습니까?</string>
+    <string name="apply_wallpaper_dialog_title">배경화면 적용</string>
     <string name="apply_wallpaper_notice">참고</string>
     <string name="apply_wallpaper_notice_cancel">취소</string>
     <string name="apply_wallpaper_notice_content">현재 적용된 테마에는 잠금화면 관련 조정을 방해할 수 있는 사용자지정 잠금화면 모듈이 포함되어 있습니다.</string>
     <string name="apply_wallpaper_notice_lockscreen">현재 테마는 사용자지정 잠금 화면을 포함하고 있습니다. 이 배경화면을 적용하시면 기본 잠금화면으로 교체될 것입니다. 그래도 적용하시겠습니까?</string>
     <string name="apply_wallpaper_notice_still_apply">적용</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">배경화면 세트를 사용하고 있습니다. 새 테마를 적용하면 잠금화면과 홈 화면 배경화면이 모두 대체되고, Always On Display가 이전 스타일로 복원됩니다. 그래도 적용하시겠습니까?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">현재 슈퍼 배경화면을 사용하고 계십니다. 새로운 배경화면을 선택하시는 경우, 홈 화면 및 잠금화면에 적용되며 Always On Display가 이전 설정으로 복원될 것입니다. 지금 적용하시겠습니까?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">배경화면 세트를 사용하고 있습니다. 새 테마를 적용하면 잠금화면과 홈 화면 배경화면이 모두 대체됩니다. 그래도 적용하시겠습니까?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">현재 슈퍼 배경화면을 사용하고 계십니다. 새로운 배경화면을 선택하시는 경우, 홈 화면 및 잠금화면에 적용될 것입니다. 지금 적용하시겠습니까?</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">대기 질 지수: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">네트워크에 연결할 수 없습니다. 네트워크 설정을 확인하시고 다시 시도하십시오.</string>
     <string name="card_retry">다시 시도</string>
     <string name="carefully_chosen_wallpaper">에디터의 선택</string>
+    <string name="carousel_no_set_wallpaper_effects">슬라이드형 배경화면이 켜져 있을 시 효과를 설정할 수 없음</string>
     <string name="change_host_hint">호스트 변경</string>
     <string name="change_wallpaper">배경화면</string>
     <string name="channel_featured_page">추천</string>
@@ -147,7 +151,12 @@
     <string name="clearable_edittext_clear_description">지우기</string>
     <string name="close">닫기</string>
     <string name="columbus_ad_flag_text">광고</string>
+    <string name="columbus_reward_style_access">더 알아보기</string>
+    <string name="columbus_reward_style_close_cancel">나가기</string>
+    <string name="columbus_reward_style_close_desc">동영상 시청을 완료하면 보상을 획득합니다. 계속 시청하시겠습니까?</string>
+    <string name="columbus_reward_style_speed_confirm">계속</string>
     <string name="columbus_skip_ad">건너뛰기</string>
+    <string name="columbus_skip_ad_time">건너뛰기 (%d)</string>
     <string name="come_and_choose_wallpaper">수천 가지의 놀라운 배경화면 중에서 선택하십시오</string>
     <string name="common_google_play_services_enable_button">사용 설정</string>
     <string name="common_google_play_services_enable_text">Google Play 서비스를 사용하도록 설정해야 %1$s이(가) 작동합니다.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">아침</string>
     <string name="editor_apply_message">"이 기능은 디자이너의 디버깅에 사용됩니다. 잠시 후 기본 테마가 자동으로 복원됩니다. 현재 테마의 파일 경로: "</string>
     <string name="editor_apply_toast">루트 디렉토리에서 temp.mtz을 수동으로 선택하십시오</string>
+    <string name="effect_home">홈 화면 효과</string>
+    <string name="effect_lock">잠금화면 효과</string>
     <string name="empty" />
     <string name="enter_email_address_tips">이메일 주소 입력</string>
     <string name="eras_ad">서기</string>
@@ -422,6 +433,7 @@
     <string name="later">지금 안 함</string>
     <string name="latest_wallpaper">신규</string>
     <string name="limit_discount">리미티드 타임 오퍼</string>
+    <string name="linked_wallpaper">배경화면 세트</string>
     <string name="live_wallpaper">라이브 배경화면</string>
     <string name="live_wallpapers">라이브 배경화면</string>
     <string name="loading">잠시만 기다려주십시오…</string>
@@ -650,14 +662,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">다시 표시하지 않기</string>
     <string name="not_set">설정되지 않음</string>
+    <string name="not_support_subtitle">속한 조직의 IT 지원팀에 문의하거나 계정을 전환하십시오</string>
+    <string name="not_support_title">업무 프로필을 사용 중에는 테마를 사용할 수 없음</string>
     <string name="notifications_permission_confirm">허용</string>
     <string name="notifications_permission_decline">허용 안함</string>
     <string name="notifications_permission_title">앱에서 알림을 보내도록 허용하시겠습니까?</string>
     <string name="notify_style">알림 효과</string>
-    <string name="offline_notification_text">광고를 열려면 탭하세요.</string>
-    <string name="offline_notification_title">오프라인 상태에서 저장한 광고 보기</string>
+    <string name="offline_dialog_image_description">아이콘</string>
+    <string name="offline_dialog_text">"관심을 가져 주셔서 감사합니다.
+인터넷에 다시 연결되면 더 많은 내용을 공유해 드리겠습니다."</string>
+    <string name="offline_notification_title">인터넷에 다시 연결되었습니다. 최근 감상한 부분부터 이어서 감상해 보세요</string>
+    <string name="offline_notification_title_with_advertiser">인터넷에 다시 연결되었습니다. %s에 관해 계속 알아보세요</string>
     <string name="offline_opt_in_confirm">확인</string>
-    <string name="offline_opt_in_confirmation">다시 온라인 상태가 되면 링크와 함께 알림을 받습니다.</string>
     <string name="offline_opt_in_decline">나중에</string>
     <string name="offline_opt_in_message">광고주 사이트로 연결되는 링크와 함께 알림을 보내 드리겠습니다.</string>
     <string name="offline_opt_in_title">다시 온라인 상태가 될 때 광고 열기</string>
@@ -679,6 +695,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">이 항목들을 놓치지 마십시오!</string>
     <string name="ota_theme_default_push_content2">추천 보기</string>
     <string name="ota_theme_default_push_title">새로운 테마 출시 예정</string>
+    <string name="out_wallpaper_list">외부 화면 배경화면</string>
     <string name="password_toggle_content_description">비밀번호 표시</string>
     <string name="pause_all">전체 일시정지</string>
     <string name="pay_online">온라인 결제</string>
@@ -975,13 +992,12 @@ mm"</string>
     <string name="saturday_short">토</string>
     <string name="saturday_shortest">토</string>
     <string name="scroll_switch">스와이프하여 항목 간 전환</string>
-    <string name="sdcard_not_mounted_dialog_message">"지금 SD 카드를 삽입하십시오.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">SD 카드 발견되지 않음</string>
     <string name="search_color">색상</string>
     <string name="search_hint_header_text">인기 키워드</string>
     <string name="search_menu_title">검색</string>
     <string name="search_sort">정렬</string>
+    <string name="search_update_guide_bubble">신규</string>
+    <string name="search_update_guide_text">완전히 새로운 검색 기능을 경험해 보십시오</string>
     <string name="select_all">전체 선택</string>
     <string name="selected_resource_file_invalid">선택한 리소스 파일을 사용할 수 없습니다.</string>
     <string name="send">전송</string>
@@ -1035,12 +1051,14 @@ mm"</string>
     <string name="system_aod_dialog_message">이 기능을 사용하시려면 Always On Display를 켜십시오.</string>
     <string name="system_aod_dialog_positive_button">설정</string>
     <string name="system_aod_dialog_title">Always On Display</string>
+    <string name="system_personalize_title">개인맞춤</string>
     <string name="system_phone">통화</string>
     <string name="system_precust">사전설치</string>
     <string name="text_billing_info">청구서 정보</string>
     <string name="text_cancel_subscription_service">이 구독을 취소하시겠습니까?</string>
     <string name="text_content_update">매일 새로운 콘텐츠</string>
     <string name="text_free_trial">무료 체험</string>
+    <string name="text_local_push_check">보기</string>
     <string name="text_pay_monthly" formatted="false">%s부터, 취소 전까지 %s/월로 자동 갱신</string>
     <string name="text_pay_weekly" formatted="false">%s부터, 취소 전까지 %s/주로 자동 갱신</string>
     <string name="text_pay_yearly" formatted="false">%s부터, 취소 전까지 %s/년으로 자동 갱신</string>

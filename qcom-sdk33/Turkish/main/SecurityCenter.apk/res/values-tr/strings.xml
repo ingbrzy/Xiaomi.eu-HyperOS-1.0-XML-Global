@@ -188,6 +188,7 @@
     <string name="alert_back_milink_hangup_tips_content_vb">Ekran kapalıyken, uygulama yansıtma işlemini kesintiye uğratmadan arka planda çalışır. Ekranı tekrar açmak için güç düğmesine basın.</string>
     <string name="all_address_choose_hint">Bu bölgedeki bütün numaralar</string>
     <string name="allow_all">Tümüne izin ver</string>
+    <string name="allow_device_id_access">Cihaz kimliğimi kullanabilecek uygulamaları seçin</string>
     <string name="allow_onetime">Bir kez izin ver</string>
     <string name="already_close_gamebooster">Game Turbo kapalı</string>
     <string name="am">ÖÖ</string>
@@ -224,8 +225,8 @@
     <string name="antivirus_privacy_dialog_cloudscan">Uygulama adlarını ve detaylarını karşıya yükle</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Virüsleri daha etkili bir şekilde algılamak ve etkisiz hale getirmek için bir cloud motoru kullanarak taramak için uygulamaların paket isimlerini ve özellikleri yükleyeceğiz.</string>
     <string name="antivirus_privacy_dialog_ok">Tamam</string>
-    <string name="antivirus_privacy_dialog_summary">"&lt;Data>Bu özellik üçüncü taraf bir antivirüs programı tarafından desteklenmektedir. Daha fazla bilgi edinmek için üçüncü taraf tarafından sağlanan &lt;a href=\"%1$s\">Lisans Sözleşmesi'ni&lt;/a> okuyun.&lt;/Data>"</string>
-    <string name="antivirus_privacy_dialog_summary_kddi">&lt;Data>Bir güvenlik taraması yapıyorken, cihaz modeli ve tarama sonuçları %1$s sunucularına yüklenecek ve ilgili &lt;a href=\"%2$s\">Şartlar ve koşullara&lt;/a> göre kullanılacaktır.&lt;br/>&lt;br/>Güvenlik taraması gerçekleştirmeden önce %3$s şartlar ve koşullarını okuyun ve onaylayın.&lt;br/>&lt;br/>Verileri %4$s sunucularına yüklemeyi onaylamazsanız, yine de cihazınızda yerel olarak depolanan virüs tanımlarını kullanabileceksiniz.&lt;/Data></string>
+    <string name="antivirus_privacy_dialog_summary"><Data>"Bu özellik üçüncü taraf bir antivirüs programı tarafından desteklenmektedir. Daha fazla bilgi edinmek için üçüncü taraf tarafından sağlanan &lt;a href=\"%1$s\">Lisans Sözleşmesi'ni&lt;/a> okuyun."</Data></string>
+    <string name="antivirus_privacy_dialog_summary_kddi"><Data>Bir güvenlik taraması yapıyorken, cihaz modeli ve tarama sonuçları %1$s sunucularına yüklenecek ve ilgili &lt;a href=\"%2$s\">Şartlar ve koşullara&lt;/a> göre kullanılacaktır.&lt;br/>&lt;br/>Güvenlik taraması gerçekleştirmeden önce %3$s şartlar ve koşullarını okuyun ve onaylayın.&lt;br/>&lt;br/>Verileri %4$s sunucularına yüklemeyi onaylamazsanız, yine de cihazınızda yerel olarak depolanan virüs tanımlarını kullanabileceksiniz.</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Gizlilik Politikası</string>
     <string name="antivirus_privacy_dialog_title">Gizlilik Politikası</string>
     <string name="antivirus_privacy_dialog_title_kddi">Şartlar ve koşullar</string>
@@ -935,6 +936,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. İzni geri çekebilmek için sip
     <string name="button_text_let_me_select">Anladım</string>
     <string name="button_text_next_step">Sonraki</string>
     <string name="button_text_next_step_timer">Sonraki adım (%d)</string>
+    <string name="button_text_once_accept">Bir kez izin ver</string>
     <string name="button_text_open_now">Aç</string>
     <string name="button_text_reject">Reddet</string>
     <string name="button_text_trust">Bu ağa güven</string>
@@ -1147,6 +1149,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. İzni geri çekebilmek için sip
     <string name="create_shortcut">Game Turbo için Ana ekran kısayolu oluştur</string>
     <string name="cs_color_sense">Renk sıcaklığı</string>
     <string name="cs_conversation_record_using">Kaydediliyor</string>
+    <string name="cs_func_toast_bluetooth_headset">Bu özelliği kullanabilmek için Bluetooth kulaklığınızın bağlantısını kesin</string>
     <string name="cs_func_toast_headset">Bu özelliği kullanabilmek için kulaklığızın bağlantısını kesin</string>
     <string name="cs_func_toast_light">Bu özelliği kullanabilmek için ön kameraya geçin</string>
     <string name="cs_func_toast_pickup">Bu özelliği kullanabilmek için görüntülü aramaya geçin</string>
@@ -1177,6 +1180,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. İzni geri çekebilmek için sip
     <string name="cs_tool_box_phone_guide_case_1">Yeni arama araç kutusundaki simültane tercümeyi ve diğer özellikleri deneyin</string>
     <string name="cs_tool_box_phone_guide_case_2">Yeni arama araç kutusundaki çeşitli özellikleri deneyin</string>
     <string name="cs_voice_print">Ses izini kaydet</string>
+    <string name="cs_voice_search">Ses izi</string>
     <string name="cs_vt_camera_toast_case1">Mevcut uygulamada kamerayı açın</string>
     <string name="cs_vt_camera_toast_case2">Yakında uyumlu cihaz yok</string>
     <string name="cta_agree_desc">Hizmetlerimizi kullanabilmek için bu uygulamanın internete bağlanmasına ve yukarıda listelenen izinleri vermesine izin verin</string>
@@ -1267,10 +1271,26 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. İzni geri çekebilmek için sip
     <string name="descx_quick_scan_preparation">Yalnızca bir sn…</string>
     <string name="detail_app_button">Uygulama bilgisi</string>
     <string name="details_subtitle">Kullanım detayları</string>
+    <string name="device_id">Kişiselleştirilmiş öneriler için cihaz kimliği</string>
+    <string name="device_id_app_manager_dialog_continue">Durdurma</string>
+    <string name="device_id_app_manager_dialog_message">Bazı uygulamaların etkinliklerinizi izlemesine izin verdiniz. İzlemeyi şimdi durdurabilirsiniz.</string>
+    <string name="device_id_app_manager_dialog_stop">Durdur</string>
+    <string name="device_id_app_manager_switch_sub_title">Bu özellik kapalıyken tüm yeni izleme istekleri otomatik olarak reddedilecek</string>
+    <string name="device_id_app_manager_switch_title">Uygulamaların izleme isteğinde bulunmasına izin ver</string>
+    <string name="device_id_app_manager_tips">Uygulamalar, kişiselleştirilmiş reklam önerileri ve diğer özellikleri sağlamak için izleme tanımlayıcılarını kullanarak farklı uygulama ve internet sitelerindeki etkinliklerinizi izleyebilir</string>
+    <string name="device_id_app_manager_title">Uygulama izlemeyi yönet</string>
+    <string name="device_id_manager_tips">Sistem, gizliliğinizi korumak için cihaz tanımlayıcıları yerine uygulamalara sıfırlanabilir izleme tanımlayıcıları (OAID) sağlar.</string>
+    <string name="device_id_manager_title">İzleme tanımlayıcısını yönet</string>
+    <string name="device_id_reset">İzleme tanımlayıcısını sıfırla</string>
+    <string name="device_id_reset_msg">Sıfırladıktan sonra bu cihazla yeni bir tanımlayıcı ilişkilendirilecektir.</string>
+    <string name="device_id_str">Mevcut izleme tanımlayıcısı: %s</string>
     <string name="device_manager_apply_step_1">Bu uygulama için cihaz yöneticisi etkinleştirilsin mi?</string>
     <string name="device_manager_apply_step_2">"Bu uygulama için cihaz yöneticisini etkinleştirmek, kişisel bilgilerinizin açığa çıkmasına neden olabilir.
 Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanabilir."</string>
     <string name="device_manager_apply_step_3">İlerlemeden önce tüm olası riskleri anladığınızdan emin olun. Bu uygulama için cihaz yöneticisi şimdi başlatılsın mı?</string>
+    <string name="device_oaid">Sanal Kimliği yönet</string>
+    <string name="device_oaid_desc">Benzersiz tanımlayıcınız yerine sistem yüklenen uygulamalara sanal bir Kimlik (OAID) sağlar. Uygulamaların, davranışlarınızı ve tercihlerinizi takip etmesini engeller ve gizliliğinizi korur.</string>
+    <string name="device_oaid_title">Sanal Kimlik</string>
     <string name="dialog_app_roaming_message">%1$s dolaşım sırasında mobil veri kullanamıyor. Uluslararası dolaşımdayken yalnızca istisnalar listesine eklemiş olduğunuz uygulamalar mobil veri kullanabilir.</string>
     <string name="dialog_app_roaming_title">%1$s veri dolaşımını kullanamıyor</string>
     <string name="dialog_change_package_type_summary">Tarifeyi değiştirmek tüm kullanım ayarlarını (yani veri sınırlamalarını) varsayılan ayarlarına geri döndürür. Tarife şimdi değiştirilsin mi?</string>
@@ -1408,12 +1428,12 @@ Numara istisnalara eklenecek, ancak daha önce engellenen ögeler arama geçmiş
     <string name="exit">Çık</string>
     <string name="exit_dialog_exit">Çıkış</string>
     <string name="exit_dialog_garbage_clean_message">Cihazınızdaki çöp miktarı %s boyutundan fazla. Çöpler temizlensin mi?</string>
-    <string name="exit_dialog_garbage_clean_message_new">&lt;Data>Temizleyici, depolama alanının &lt;font color=#0099ff>%s&lt;/font> oranını boşaltabilir. Şimdi temizlensin mi?&lt;/Data></string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>Temizleyici, depolama alanının &lt;font color=#0099ff>%s&lt;/font> oranını boşaltabilir. Şimdi temizlensin mi?</Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">Temizle</string>
     <string name="exit_dialog_garbage_clean_title">Depolama alanı açın</string>
     <string name="exit_dialog_homepage_optimise_message">Cihazınızın performans puanı 80 puandan az. Cihazınız şimdi optimize edilsin mi?</string>
     <string name="exit_dialog_release_memory_positive_button">Kapat</string>
-    <string name="exit_dialog_release_memory_title_new">&lt;Data>Cihazınız &lt;font color=#0099ff>%s&lt;/font> kadar hızlanabilir&lt;/Data></string>
+    <string name="exit_dialog_release_memory_title_new"><Data>Cihazınız &lt;font color=#0099ff>%s&lt;/font> kadar hızlanabilir</Data></string>
     <string name="exit_dialog_release_storage_message">"Cihazınızın depolama alanının %80'i dolu. Kullanmadığınız uygulamaları silerek boş depolama alanı açın."</string>
     <string name="exit_dialog_release_storage_message_new">Cihazınızın depolama alanı %s oranından daha dolu. Kullanmadığınız uygulamaları silerek boş depolama alanı açın.</string>
     <string name="exit_dialog_release_storage_positive_button">Alan boşalt</string>
@@ -1730,7 +1750,7 @@ Numara istisnalara eklenecek, ancak daha önce engellenen ögeler arama geçmiş
     <string name="game_wid_viewpoint_buttom">Kısa bir mola verin.</string>
     <string name="gamebooster_confirm_dialog_negative_btn">Reddet</string>
     <string name="gamebooster_confirm_dialog_positive_btn">Kabul et</string>
-    <string name="gamebooster_confirm_dialog_tip">&lt;Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a>&lt;/Data></string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a></Data></string>
     <string name="gamebooster_confirm_dialog_title">"Gizlilik Politikası'nı kabul et"</string>
     <string name="gamebooster_dialog_recover">Yenile</string>
     <string name="gamebooster_dialog_start_booster">Başlat</string>
@@ -1859,8 +1879,8 @@ Numara istisnalara eklenecek, ancak daha önce engellenen ögeler arama geçmiş
     <string name="gb_audition_play_instruction">En iyi etki için kulaklıkları kullanın</string>
     <string name="gb_award_noti_message">"Ödülleri almak için Game Turbo'da Game for Peace arka planı güncellemelerini açın"</string>
     <string name="gb_award_noti_title">Game for Peace ödülleri burada!</string>
-    <string name="gb_balance_disbale_wild_mode_pad_desc">"&lt;Data>Sistem genelinde Nihai mod açık olduğunda Game Turbo'da Dengeli mod'a değiştirilemiyor. Güvenlik'te pil ayarlarını değiştirebilirsiniz. &lt;br>&lt;a href=\"#\">Güvenlik'i aç&lt;/a>&lt;/Data>"</string>
-    <string name="gb_balance_disbale_wild_mode_phone_desc">"&lt;Data>Sistem genelinde Nihai mod açık olduğunda Game Turbo'da Dengeli mod'a değiştirilemiyor. Güvenlik'te pil ayarlarını değiştirebilirsiniz. &lt;br>&lt;a href=\"#\">Güvenlik'i aç&lt;/a>&lt;/Data>"</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>"Sistem genelinde Nihai mod açık olduğunda Game Turbo'da Dengeli mod'a değiştirilemiyor. Güvenlik'te pil ayarlarını değiştirebilirsiniz. &lt;br>&lt;a href=\"#\">Güvenlik'i aç&lt;/a>"</Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>"Sistem genelinde Nihai mod açık olduğunda Game Turbo'da Dengeli mod'a değiştirilemiyor. Güvenlik'te pil ayarlarını değiştirebilirsiniz. &lt;br>&lt;a href=\"#\">Güvenlik'i aç&lt;/a>"</Data></string>
     <string name="gb_bar_high">Yüksek</string>
     <string name="gb_bar_low">Düşük</string>
     <string name="gb_bar_mid">Orta</string>
@@ -1988,7 +2008,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_new_feature">Yeni özellik</string>
     <string name="gb_not_support_on_device">"This app can't be used on the outer screen"</string>
     <string name="gb_operat_frequently">Daha yavaş!</string>
-    <string name="gb_performace_guide_disable_desc">"&lt;Data>Sistem genelinde Performans modu açıkken, Game Turbo'da Dengeli moda geçilemez. Güvenlik menüsünde pil ayarlarını değiştirebilirsiniz.&lt;br>&lt;a href=\"#\">Güvenlik'i aç&lt;/a>&lt;/Data>"</string>
+    <string name="gb_performace_guide_disable_desc"><Data>"Sistem genelinde Performans modu açıkken, Game Turbo'da Dengeli moda geçilemez. Güvenlik menüsünde pil ayarlarını değiştirebilirsiniz.&lt;br>&lt;a href=\"#\">Güvenlik'i aç&lt;/a>"</Data></string>
     <string name="gb_performace_switch_toast">Performans moduna geçildi. Cihazınız ısınabilir ve daha fazla güç tüketebilir.</string>
     <string name="gb_performace_tips_button">Değiştir</string>
     <string name="gb_performace_tips_title">Daha iyi deneyim için Performans moduna geçin</string>
@@ -2005,7 +2025,7 @@ ama güç tüketimini de arttırır ve cihazın aşırı ısınmasına neden olu
     <string name="gb_predownload_dialog_cancel">Hayır, teşekkürler</string>
     <string name="gb_predownload_dialog_checked">Tekrar gösterme</string>
     <string name="gb_predownload_dialog_confirm">Aç</string>
-    <string name="gb_predownload_dialog_message_china">"&lt;Data>Bu oyun için güncellenen içerik, siz WLAN'a bağlandıktan ve ekranı kapattıktan sonra bu cihaza otomatik olarak indirilebilir. Böylece, yayınlanır yayınlanmaz yeni sürümü kullanabileceksiniz.&lt;br>&lt;br>Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">Arka plan güncellemeleri bildirimi'ni&lt;/a> okuyun ve kabul edin.&lt;/Data>"</string>
+    <string name="gb_predownload_dialog_message_china"><Data>"Bu oyun için güncellenen içerik, siz WLAN'a bağlandıktan ve ekranı kapattıktan sonra bu cihaza otomatik olarak indirilebilir. Böylece, yayınlanır yayınlanmaz yeni sürümü kullanabileceksiniz.&lt;br>&lt;br>Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">Arka plan güncellemeleri bildirimi'ni&lt;/a> okuyun ve kabul edin."</Data></string>
     <string name="gb_predownload_dialog_title">Arka plan güncellemeleri şimdi mevcut</string>
     <string name="gb_predownload_message_new">Kullanmadığınızda uyumlu oyunları otomatik güncelleyin</string>
     <string name="gb_predownload_noti_message">"%2$1.2f GB'lik güncellenmiş içerik zaten bu cihazda. Yeni sürüm yayınlanır yayınlanmaz kullanabileceksiniz."</string>
@@ -2181,7 +2201,7 @@ ve Ses değiştirici'yi keşfedin!"</string>
     <string name="gd_sidebar_edit_quick_title">Kısayollar</string>
     <string name="gd_sidebar_long_press_tips">Cihazı dikey tutuyorken hareket ettirmek için göstergeye basılı tutun</string>
     <string name="gd_splite_screen_tips">Ekran bölme, kayan pencereleri desteklemiyor</string>
-    <string name="gdpr_msg">&lt;Data>Güvenlik risklerini saptayabilmek ve verilerinizi koruyabilmek için cihazınız hakkında gerekli miktarda bilgi toplamamız gerekir. Hizmetlerimizi kullanmadan önce &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin. Bu bilgileri toplamamıza izin vermeseniz de bu uygulamayı kullanabilirsiniz ama bazı özellikler kullanılamayacaktır. &lt;/Data></string>
+    <string name="gdpr_msg"><Data>Güvenlik risklerini saptayabilmek ve verilerinizi koruyabilmek için cihazınız hakkında gerekli miktarda bilgi toplamamız gerekir. Hizmetlerimizi kullanmadan önce &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin. Bu bilgileri toplamamıza izin vermeseniz de bu uygulamayı kullanabilirsiniz ama bazı özellikler kullanılamayacaktır. </Data></string>
     <string name="get_detail_by_click">Detayları görüntülemek için dokunun</string>
     <string name="get_phone_num_fail">Bilinmeyen telefon numarası</string>
     <string name="get_sys_info">Bilgi alınıyor…</string>
@@ -2288,11 +2308,11 @@ Pencereyi hareket ettirmek için göstergeye basılı tutun."</string>
     <string name="gtb_dialog_btn_open">Aç</string>
     <string name="gtb_dialog_hint_smart_5g">Bu özelliği Game Turbo > Ayarlar menüsünden açabilir ve kapatabilirsiniz.</string>
     <string name="gtb_dialog_privacy_speed_message">Xunyou Oyun Hızlandırıcı kullanmak üzeresiniz. Bu hizmet, üyelik sürenizi kaydetmek için Xiaomi Hesabı Kimliğinizi toplayacaktır.</string>
-    <string name="gtb_dialog_privacy_speed_tips">&lt;Data>Xunyou Oyun Hızlandırıcı &lt;a href=\"%1$s\">Gizlilik Politikasını&lt;/a> okudum ve kabul ediyorum.&lt;/Data></string>
-    <string name="gtb_dialog_privacy_speed_tips_new">"&lt;Data>Xunyou Oyun Hızlandırıcı &lt;a href=\"%1$s\">>Gizlilik Politikası'nı&lt;/a> okudum ve kabul ediyorum.&lt;/Data>"</string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>Xunyou Oyun Hızlandırıcı &lt;a href=\"%1$s\">Gizlilik Politikasını&lt;/a> okudum ve kabul ediyorum.</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"Xunyou Oyun Hızlandırıcı &lt;a href=\"%1$s\">>Gizlilik Politikası'nı&lt;/a> okudum ve kabul ediyorum."</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou Oyun Hızlandırıcı</string>
     <string name="gtb_dialog_privacy_voice_message">"You're about to use Xunyou Game Voice Changer. This service will collect your Xiaomi Account ID to record your membership duration."</string>
-    <string name="gtb_dialog_privacy_voice_tips">&lt;Data>Xunyou Oyun Ses değiştiricisi &lt;a href=\"%1$s\">Gizlilik Politikasını&lt;/a> okudum ve kabul ediyorum.&lt;/Data></string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>Xunyou Oyun Ses değiştiricisi &lt;a href=\"%1$s\">Gizlilik Politikasını&lt;/a> okudum ve kabul ediyorum.</Data></string>
     <string name="gtb_dialog_privacy_voice_title">Xunyou Oyun Ses Değiştiricisi</string>
     <string name="gtb_dialog_summary_smart_5g">Game Turbo bir 5G ağı algıladığında, ağ gecikmesini azaltmak için cihazınızı en iyi kullanılabilir ağa bağlayabilir. Bu özellik şimdi açılsın mı?</string>
     <string name="gtb_dialog_title_smart_5g">5G ağ optimizasyonu</string>
@@ -3060,9 +3080,12 @@ Yönlendiriciniz ile bağlantı için kullandığınız Ethernet kablosunu deği
     <string name="numeric_recording_intro_header">Şifre girin</string>
     <string name="numeric_retry_button_text">İptal</string>
     <string name="numeric_settings_help_how_to_record">PIN nasıl ayarlanır</string>
+    <string name="oaid_apps_summary">Tekli uygulamalar için erişime izin verin veya erişimi kısıtlayın</string>
     <string name="oaid_apps_title">Sanal Kimliği yönet</string>
     <string name="oaid_reset_content_tip">Sanal Kimliği şimdi kapatırsanız, bazı uygulamalar düzgün çalışmayabilir, uygulama verilerinin bir kısmı kaybolabilir veya kullanılamayabilir.</string>
     <string name="oaid_reset_final_tip">Sanal Kimlik yine de kapatılsın mı?</string>
+    <string name="oaid_string">"Mevcut sanal Kimlik:
+%1s"</string>
     <string name="oaid_tips_content">Sanal Kimlik (OAID), davranışınızı izlemek ve sizin için reklamları kişiselleştirmek için kullanılabilir. Hangi uygulamaların sanal kimliğinize erişimine izin verileceğini seçebilirsiniz. Erişimi kısıtlamak isterseniz, reklam önerilerinin alakasız olabileceğini veya uygulamaların normal çalışmayabileceğini unutmayın.</string>
     <string name="ok">Tamam</string>
     <string name="ok_button">Tamam</string>
@@ -3199,6 +3222,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız Ethernet kablosunu deği
     <string name="pc_batery_protection">Pil koruması</string>
     <string name="pc_battery_charge_protect">Şarj koruması</string>
     <string name="pc_battery_chart_loading">Yalnızca bir sn.…</string>
+    <string name="pc_battery_date_year_month_format">MMM yyyy</string>
     <string name="pc_battery_detail_curve_reference_now">Şimdi</string>
     <string name="pc_battery_detail_device_item_title">Pil kullanım istatistikler</string>
     <string name="pc_battery_health_revise_title">Pil sağlığı bilgilerini kalibre et</string>
@@ -3231,7 +3255,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız Ethernet kablosunu deği
     <string name="pc_camera_printer_notify_subtitle">Bağlı</string>
     <string name="pc_camera_printer_title">Fotoğraf Yazıcısı Kiti</string>
     <string name="pc_category_charge_settings">Şarj ayarları</string>
-    <string name="pc_charge_mode_low_power_fast_speed">Düşük voltaj</string>
+    <string name="pc_charge_mode_low_power_fast_speed">Hızlan</string>
     <string name="pc_charge_mode_low_power_fast_speed_tips">Cihaz ısınabilir</string>
     <string name="pc_charge_mode_standard">Standart</string>
     <string name="pc_charge_mode_topspeed">En yüksek hız</string>
@@ -3262,6 +3286,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız Ethernet kablosunu deği
     <string name="pc_continuity_open_save_mode_notifi_sumary">"%1$s pili %2$s'den düşük. %3$s %4$s eklemek için Pil tasarrufu'nu açın."</string>
     <string name="pc_continuity_open_save_mode_notifi_title">%s pili düşük</string>
     <string name="pc_current_power_mode">Geçerli mod</string>
+    <string name="pc_cycle_count_protect_title">Döngüler</string>
     <string name="pc_emergency_call">Acil durum</string>
     <string name="pc_endurance_calculation">Hesaplanıyor…</string>
     <string name="pc_entered_extreme_mode">Hazırda bekletme modu açık</string>
@@ -3293,11 +3318,16 @@ Yönlendiriciniz ile bağlantı için kullandığınız Ethernet kablosunu deği
     <string name="pc_fast_charge_switch_toast_message">Değişiklikler gelecek sefer bu cihazı şarj ettiğinizde uygulanacaktır</string>
     <string name="pc_fast_charge_temp_remider">"Şarj olma hızını otomatik olarak düzenlemek için açın. Bu özellik yalnızca Xiaomi'nin sağladığı şarj cihazlarıyla çalışır. Şarj sırasında cihazınız ısınabilir."</string>
     <string name="pc_fast_charge_title">Şarj hızını artır</string>
+    <string name="pc_first_use_error_tips">Hesaplanıyor</string>
+    <string name="pc_first_use_protect_title">İlk kullanım</string>
     <string name="pc_going_to_exit_extreme_mode">Hazırda bekletme modundan çıkılıyor</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Cihazınız şarj oluyor. Hazırda bekletme modu kapalı.</string>
     <string name="pc_going_to_extreme_mode">Hazırda bekletme moduna giriliyor</string>
     <string name="pc_handle_battery_level">Tutacak</string>
     <string name="pc_have_no_battery_issue">Sorun yok</string>
+    <string name="pc_health_charge_protect_notification_summary">Pil yaşlanmasını azaltmak için Pil korumasını açın</string>
+    <string name="pc_health_charge_protect_summary">Pil ömrünü uzatmak için pil %1$s seviyesine ulaştığında cihaz şarj olmayı durduracak</string>
+    <string name="pc_health_charge_protect_title">Pil koruması</string>
     <string name="pc_hide_more_power_rank_apps">Gizle</string>
     <string name="pc_hidemode_normal">Dengeli</string>
     <string name="pc_hidemode_normal_title">Dengeli</string>
@@ -3336,6 +3366,8 @@ kapatılıyor"</string>
     <string name="pc_low_battery_fast_charge_summary">Ekran kapalıyken ve pil zayıfken şarjı hızlandırmak için verilen şarj cihazını bağlayın. Bu özellik cihazınızın ısınmasına neden olabilir.</string>
     <string name="pc_low_temp_charge_summary">Şarj cihazını bağlı tutun ve normal şekilde şarj etmek için ekran kapandıktan sonra pilin ısınmasını bekleyin</string>
     <string name="pc_low_temp_charge_title">Düşük sıcaklıkta şarj</string>
+    <string name="pc_low_temperature_extreme_endurance_summary">Ortam sıcaklığı son derece düşük olduğunda pil ömrünü uzatmak için cihaz performansını sınırlayın</string>
+    <string name="pc_low_temperature_extreme_endurance_title">Soğuğa dayanıklılık modu</string>
     <string name="pc_main_activity_back">Geri</string>
     <string name="pc_main_battery_text_day">%1$sdk eklendi, %2$sgün kadar kaldı</string>
     <string name="pc_main_battery_text_day_hour">%1$s dk eklendi, %2$s gün %3$s saat kadar kaldı</string>
@@ -3366,6 +3398,7 @@ kapatılıyor"</string>
     <string name="pc_power_mode_has_berserk">Nihai mod açık</string>
     <string name="pc_power_mode_has_performance">Performans modu açık</string>
     <string name="pc_power_save_settings_new">Pil tasarrufu ayarları</string>
+    <string name="pc_production_date_protect_title">Üretim tarihi</string>
     <string name="pc_remind_close_cover_to_charge_summary">Daha hızlı ve daha sabit bir şarj deneyimi için şarj etmeden önce cihazı katlayın.</string>
     <string name="pc_remind_close_cover_to_charge_title">Şarj etmek için katla</string>
     <string name="pc_reminder_always_protect_summary">Pil yaşlanmasını azaltmak için sınırlı şarj özelliğine geçin</string>
@@ -3411,6 +3444,8 @@ kapatılıyor"</string>
     <string name="pc_wait_device_cools_down">Bu özelliği kullanabilmek için cihazınız soğuyana kadar bekleyin.</string>
     <string name="pc_wireless_charge_adjust_position_summary">Kablosuz şarj cihazına koyun</string>
     <string name="pc_wireless_charge_adjust_position_title">Cihazınızı daha hızlı şarj edin</string>
+    <string name="pc_wireless_charge_notification_summary">Kablosuz şarj, kablolu şarja göre daha az enerji verimlidir</string>
+    <string name="pc_wireless_charge_notification_title">Kablosuz şarj ediliyor</string>
     <string name="pc_wireless_charging_special_stand_summary1">Cihazınızı kablosuz şarj cihazınızla gelen standa kurun</string>
     <string name="pc_wireless_charging_special_stand_summary2">En iyi şarj performansı için cihazınızı kablosuz şarj cihazınızla gelen standa kurun</string>
     <string name="pc_wireless_charging_special_stand_title">Birlikte verilen şarj standını kullanın</string>
@@ -3553,6 +3588,7 @@ kapatılıyor"</string>
     <string name="permission_instruction_write_contacts">Bu izin, uygulamaların kişi eklemesine, silmesine ve düzenlemesine izin verir.</string>
     <string name="permission_instruction_write_settings">This permission allows apps to modify system settings. Malicious apps might use this permission temper with your system settings and affect the normal use of your device.</string>
     <string name="permission_legacy_storage">Fotoğraflara, videolara, ses ve dosyalara eriş</string>
+    <string name="permission_oaid_desc">%1$s uygulamasının diğer uygulamalardaki ve internet sitelerindeki etkinliklerinizi izlemesine izin verilsin mi?</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">Uygulamalar; kişilerinizi okumadan, arama kaydınızı görüntülemeden, sistem ayarlarını değiştirmeden yada kamera veya diğer kaynaklara erişimden önce izninizi sormayacak. İzin ayarlarından bu özelliği kullanılabilir hale getirebilirsiniz.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">İzin yöneticisi</string>
     <string name="permission_precise_location">Tam konum</string>
@@ -3674,8 +3710,8 @@ kapatılıyor"</string>
     <string name="power_center_night_charge_protection_setting">Güvenlik > Pil menüsünde daha fazla seçenek görüntüleyin.</string>
     <string name="power_center_night_charge_protection_summary">Cihazınız pil yaşlanmasını azaltmak için gereksiz sürekli şarjı azaltmak amacıyla günlük şarj rutininizden bilgi alır</string>
     <string name="power_center_one_key_save">Optimize et</string>
-    <string name="power_center_ontime_boot">Açılış zamanı</string>
-    <string name="power_center_ontime_shutdown">Kapanış zamanı</string>
+    <string name="power_center_ontime_boot">Programlı güç açma</string>
+    <string name="power_center_ontime_shutdown">Programlı güç kapatma</string>
     <string name="power_center_optimize_title">Öneriler</string>
     <string name="power_center_power_save_summary_text">Kalan zamanı %1$dsa %2$ddk kadar uzat</string>
     <string name="power_center_power_save_title_text">Pil tasarrufu</string>
@@ -3736,8 +3772,8 @@ kapatılıyor"</string>
     <string name="power_center_surface_temp_low">Soğuk</string>
     <string name="power_center_surface_temp_lower">Serin</string>
     <string name="power_center_surface_temp_normal">Normal</string>
-    <string name="power_center_time_to_boot">Açılış zamanı</string>
-    <string name="power_center_time_to_shutdown">Kapanış zamanı</string>
+    <string name="power_center_time_to_boot">Saat</string>
+    <string name="power_center_time_to_shutdown">Saat</string>
     <string name="power_center_title">Pil</string>
     <string name="power_center_unoffical_battery_button">Yetkili bir hizmet sağlayıcı bulun</string>
     <string name="power_center_unoffical_battery_dialog">Yetkisiz pil uyarısı</string>
@@ -4054,8 +4090,8 @@ kapatılıyor"</string>
     <string name="privacy_dialog_camera_message">Sistem gizliliğinizi korumak için uygulamaların arka planda kameranızı kullanmasına izin vermez.</string>
     <string name="privacy_dialog_camera_title">Arka plan kamera kullanımını kısıtlayın</string>
     <string name="privacy_dialog_content_part1">"Güvenlik'e hoş geldiniz! Bu uygulama, çöpler ve virüsler için cihazınızı kontrol eder, ayrıca uygulamaları yönetmenize, mobil veri kullanımını kontrol etmenize, aramaları ve mesajları engellemenize ve daha fazlasına izin verir."</string>
-    <string name="privacy_dialog_content_part2">"&lt;Data>Güvenlik'in, hizmetleri size sunabilmesi ve özelliklerini geliştirebilmesi için gerekli kişisel bilgilerinizi toplaması gerekmektedir. &lt;a href=\"%1$s\">Gizlilik Politikamızda&lt;/a> topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. İstediğiniz zaman Güvenlik'in Gizlilik Politikasına verdiğiniz izni geri çekebilirsiniz.&lt;/Data>"</string>
-    <string name="privacy_dialog_content_part3">&lt;Data>Güvenlik uygulamasını kullanmadan önce &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%1$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin. Yukarıda bahsedilen hizmetleri kullanmayı onaylamazsanız, bu uygulamanın bazı özelliklerini kullanamayacaksınız; bununla birlikte, temel işlevler hala kullanılabilir olacaktır.&lt;/Data></string>
+    <string name="privacy_dialog_content_part2"><Data>"Güvenlik'in, hizmetleri size sunabilmesi ve özelliklerini geliştirebilmesi için gerekli kişisel bilgilerinizi toplaması gerekmektedir. &lt;a href=\"%1$s\">Gizlilik Politikamızda&lt;/a> topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. İstediğiniz zaman Güvenlik'in Gizlilik Politikasına verdiğiniz izni geri çekebilirsiniz."</Data></string>
+    <string name="privacy_dialog_content_part3"><Data>Güvenlik uygulamasını kullanmadan önce &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%1$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin. Yukarıda bahsedilen hizmetleri kullanmayı onaylamazsanız, bu uygulamanın bazı özelliklerini kullanamayacaksınız; bununla birlikte, temel işlevler hala kullanılabilir olacaktır.</Data></string>
     <string name="privacy_dialog_danger_mission_message">Android, birden fazla yüksek riskli izne sahiptir (örn. size push bildirimleri gönderme izni). Sistem gizliliğinizi korumak için böyle davranışlara izin verip vermediğinizi soracak ve kısıtlama seçenekleri sunacaktır.</string>
     <string name="privacy_dialog_danger_mission_title">Yüksek riskli izinler</string>
     <string name="privacy_dialog_feedback">Geri bildirim</string>
@@ -4161,7 +4197,7 @@ kapatılıyor"</string>
     <string name="privacy_revoke_dialog_title_cn">Uyarı</string>
     <string name="privacy_revoke_failed_dialog_content">Bir sunucu hatası meydana geldi. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
     <string name="privacy_revoke_failed_dialog_title">İzin geri çekilemedi</string>
-    <string name="privacy_revoke_tip_dialog_content">"&lt;Data>Gizlilik Politikası'nın yeni sürümünü kabul etmezseniz %1$s kullanmaya devam edemezsiniz. Güncellenen %2$s &lt;a href=\"%3$s\">Gizlilik Politikası'nı&lt;/a> kabul ediyor musunuz?&lt;/Data>"</string>
+    <string name="privacy_revoke_tip_dialog_content"><Data>"Gizlilik Politikası'nın yeni sürümünü kabul etmezseniz %1$s kullanmaya devam edemezsiniz. Güncellenen %2$s &lt;a href=\"%3$s\">Gizlilik Politikası'nı&lt;/a> kabul ediyor musunuz?"</Data></string>
     <string name="privacy_revoke_tip_dialog_title">Uygulama kullanılamıyor</string>
     <string name="privacy_revoke_title">İznin geri çekilmesi</string>
     <string name="privacy_risk_app">Riskli uygulamalar</string>
@@ -4264,7 +4300,7 @@ kapatılıyor"</string>
     <string name="privacy_thumbnail_shield_top_tip">Son kullanılanlarda görüntülenen uygulamalar için önizlemeleri maskele</string>
     <string name="privacy_type_open">Açık</string>
     <string name="privacy_update_dialog_content_1">%s Gizlilik Politikası güncellendi:</string>
-    <string name="privacy_update_dialog_content_2">&lt;Data>Devam etmeden önce &lt;a href =%1$s>Gizlilik Politikası&lt;/a> yeni sürümünü okuyun ve kabul edin.&lt;/Data></string>
+    <string name="privacy_update_dialog_content_2"><Data>Devam etmeden önce &lt;a href =%1$s>Gizlilik Politikası&lt;/a> yeni sürümünü okuyun ve kabul edin.</Data></string>
     <string name="privacy_update_dialog_title">Güncellenen Gizlilik Politikası</string>
     <string name="privacy_using_camera">Kamerayı kullanma</string>
     <string name="privacy_using_location">Konuma erişme</string>
@@ -4346,6 +4382,16 @@ kapatılıyor"</string>
     <string name="reset_data_dialog_message">Bu cihaz Xiaomi Hesabınızla ilişkili değil. Şifre kurtarılamıyor veya sıfırlanamıyor. Tüm önemli ögeleri yedekleyin ve fabrika ayarlarına geri döndürün. Tüm veriler kalıcı olarak silinecek ve SD kartınız fabrika ayarlarına dönme işlemi sırasında biçimlendirilecektir.</string>
     <string name="reset_data_dialog_ok">Fabrika ayarlarına geri dön</string>
     <string name="reset_data_title">Şifre kurtarılamıyor</string>
+    <string name="restore_device_id_content">Kişiselleştirilmiş öneriler sıfırlanacak</string>
+    <string name="restore_device_id_title">Cihaz kimliğini sıfırla</string>
+    <string name="restore_dialog_content">Mevcut cihaz kimliğinizi sıfırlamak, kişiselleştirilmiş önerileri de sıfırlayacaktır. Şimdi sıfırlansın mı?</string>
+    <string name="restore_dialog_positive">Sıfırla</string>
+    <string name="restore_dialog_title">Uyarı</string>
+    <string name="restore_oaid_content">Davranışlarınızın ve tercihlerinizin kayıtlarını silmek için sanal Kimliğinizi sıfırlayın</string>
+    <string name="restore_oaid_dialog_content">Birden fazla uygulama sanal kimliğinizi kullanıyor. Şimdi sıfırlarsanız, uygulama verilerinizin bir kısmı kaybolabilir veya kullanılamayabilir. Yine de sanal kimlik sıfırlansın mı?</string>
+    <string name="restore_oaid_positive">Sıfırla</string>
+    <string name="restore_oaid_positive_step">Sıfırla (%1$d)</string>
+    <string name="restore_oaid_title">Sanal Kimliği sıfırla</string>
     <string name="result_autoscan_header">Ödeme takibi</string>
     <string name="result_autoscan_info">Ödeme uygulamaları başlatıldığında sistemi otomatik olarak takip et</string>
     <string name="result_sms_header">Mesajlaşma riskleri tespit edildi</string>
@@ -5004,6 +5050,9 @@ Biçimlendirme ^2daki var olan içeriği silecektir. İçerik kaybını önlemek
     <string name="superpower_dialog_button_ok">Tamam</string>
     <string name="superpower_dialog_massage">Ultra pil tasarrufu, temel işlevleri (örn. aramalar, SMS, ağ bağlantısı) en uzun süre yürütebilmek için en çok güç tüketen özellikleri kısıtlar ve cihazınızın performansını azaltır. Ultra pil tasarrufu açılsın mı?</string>
     <string name="superpower_dialog_title">Ultra pil tasarrufu</string>
+    <string name="superpower_notification_low_temp_btn_txt">Aç</string>
+    <string name="superpower_notification_low_temp_summary">Soğuğa dayanıklılık modu, Ultra pil tasarrufu açık ve ortam sıcaklığı son derece düşük olduğunda daha fazla pil tasarrufu yapabilir.</string>
+    <string name="superpower_notification_low_temp_title">Ultra pil tasarrufunu açılsın mı?</string>
     <string name="superpower_notification_new_title_new">Pil seviyesi %s seviyesinden az</string>
     <string name="superpower_notification_summary">Cihazını şarj edin veya Ultra pil tasarrufu özelliğini açın</string>
     <string name="superpower_notification_time_12">dd MMMM, EEEE</string>
@@ -5011,6 +5060,7 @@ Biçimlendirme ^2daki var olan içeriği silecektir. İçerik kaybını önlemek
     <string name="superpower_notification_title_new">Pil seviyesi %s seviyesinden az</string>
     <string name="superpower_progress_content">Ultra pil tasarrufu açılıyor…</string>
     <string name="superpower_progress_left_time">%1$dsa %2$ddk</string>
+    <string name="superpower_progress_low_temp_content">Soğuğa dayanıklılık modu açılıyor…</string>
     <string name="superpower_progress_switch_home">Karanlık temaya geçiliyor</string>
     <string name="superpower_progress_title">Kalan süre</string>
     <string name="superpower_progress_turndown_brightness">Ekran parlaklığı azaltılıyor</string>
@@ -5048,11 +5098,11 @@ Biçimlendirme ^2daki var olan içeriği silecektir. İçerik kaybını önlemek
     <string name="system_permission_declare_agree">Kabul et</string>
     <string name="system_permission_declare_analytics_declare">Sizi Kullanıcı Deneyimi Programımıza katılmaya davet ediyoruz. Size sağladığımız hizmetleri iyileştirmemiz için bu uygulamanın internete bağlanması ve istatistikleri toplamak için aşağıdaki izinleri veya özellikleri kullanması gerekir. Verileri yalnızca istatiksel amaçlı toplarız ve topladığımız verilere dayanarak sizi kişisel olarak tanımlayamayız.</string>
     <string name="system_permission_declare_disagree">Reddet</string>
-    <string name="system_permission_declare_double_link">&lt;Data>Devam etmeden önce &lt;a href =%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href =%2$s>Gizlilik Politikası&lt;/a> anlaşmalarımızı okuyun ve kabul edin.&lt;/Data></string>
+    <string name="system_permission_declare_double_link"><Data>Devam etmeden önce &lt;a href =%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href =%2$s>Gizlilik Politikası&lt;/a> anlaşmalarımızı okuyun ve kabul edin.</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">%1s uygulamasına hoşgeldiniz! Bu uygulama, şu özelliği kullanmanıza izin verir: %2s.</string>
-    <string name="system_permission_declare_meanwhile_double_link">&lt;Data>Devam etmeden önce &lt;a href =%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href =%2$s>Gizlilik Politikası&lt;/a> anlaşmalarımızı okuyun ve kabul edin.&lt;/Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy">"&lt;Data>Devam etmeden önce &lt;a href =%1$s>Gizlilik Politikası'nı&lt;/a> okuyun ve kabul edin.&lt;/Data>"</string>
-    <string name="system_permission_declare_meanwhile_user_agreement">"&lt;Data>Devam etmeden önce &lt;a href =%1$s>Kullanıcı Sözleşmesi'ni&lt;/a> okuyun ve kabul edin.&lt;/Data>"</string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>Devam etmeden önce &lt;a href =%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href =%2$s>Gizlilik Politikası&lt;/a> anlaşmalarımızı okuyun ve kabul edin.</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>"Devam etmeden önce &lt;a href =%1$s>Gizlilik Politikası'nı&lt;/a> okuyun ve kabul edin."</Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>"Devam etmeden önce &lt;a href =%1$s>Kullanıcı Sözleşmesi'ni&lt;/a> okuyun ve kabul edin."</Data></string>
     <string name="system_permission_declare_no_say_no">Gerekli izinleri vermezseniz veya verilerinizi toplamamıza ve kullanmamıza izin vermezseniz bu uygulama düzgün çalışmayabilir.</string>
     <string name="system_permission_declare_no_say_no_analytics">Bu izinleri vermek istemiyorsanız, Ayarlar > Ek ayarlar > Gizlilik > Kullanıcı Deneyimi Programı menüsünde programdan ayrılabilirsiniz.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">Gerekli izinleri vermezseniz veya verilerinizi toplamamıza ve kullanmamıza izin vermezseniz bu uygulama kısmi olarak çalışmayabilir.</string>
@@ -5060,13 +5110,13 @@ Biçimlendirme ^2daki var olan içeriği silecektir. İçerik kaybını önlemek
     <string name="system_permission_declare_privacy_declare">Bu uygulama normal çalışabilmek için internete bağlanmaya ve aşağıdaki izinlere ihtiyaç duyar:</string>
     <string name="system_permission_declare_privacy_no_network">Bu uygulama normal çalışabilmek için belirtilen izinlere ihtiyaç duyar:</string>
     <string name="system_permission_declare_privacy_no_permission">Bu uygulama normal çalışabilmek için internete bağlanmaya ve gerekli kişisel verileri toplamaya ihtiyaç duyar.</string>
-    <string name="system_permission_declare_privacy_policy">"&lt;Data>Devam etmeden önce &lt;a href =%1$s>Gizlilik Politikası'nı&lt;/a> okuyun ve kabul edin.&lt;/Data>"</string>
+    <string name="system_permission_declare_privacy_policy"><Data>"Devam etmeden önce &lt;a href =%1$s>Gizlilik Politikası'nı&lt;/a> okuyun ve kabul edin."</Data></string>
     <string name="system_permission_declare_revoke_system">Bu uygulamadan çıkabilirsiniz.</string>
     <string name="system_permission_declare_revoke_uninstallable">Oturumu kapatabilir, bu uygulamayı kaldırabilir veya Güvenlik > Uygulamaları yönet > İzinler > İzinler menüsünden yetkileri geri alabilirsiniz.</string>
     <string name="system_permission_declare_title">Uyarı</string>
     <string name="system_permission_declare_use_network">Ağa bağlan</string>
     <string name="system_permission_declare_use_network_no_permission">Ağa bağlan</string>
-    <string name="system_permission_declare_user_agreement">"&lt;Data>Devam etmeden önce &lt;a href =%1$s>Kullanıcı Sözleşmesi'ni&lt;/a> okuyun ve kabul edin.&lt;/Data>"</string>
+    <string name="system_permission_declare_user_agreement"><Data>"Devam etmeden önce &lt;a href =%1$s>Kullanıcı Sözleşmesi'ni&lt;/a> okuyun ve kabul edin."</Data></string>
     <string name="system_permission_perm_answer_call">Arama yap</string>
     <string name="system_permission_perm_optional">" (isteğe bağlı)"</string>
     <string name="system_permission_perm_read_mms">MMS oku</string>
@@ -5452,8 +5502,7 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir."</string>
     <string name="vb_fps_settings_tips">Bu özellik, ekran yenileme hızını video kare hızına ayarlar, bu da pil tasarrufu sağlar ve oynatmayı sorunsuz hale getirir. Kayan yorumları açmak otomatik yenileme hızını kapatacaktır.</string>
     <string name="vb_immerse_voice">Sürükleyici ses</string>
     <string name="vb_movie_mode">Tiyatro modu</string>
-    <string name="vb_movie_power_hint">"Tiyatro modu sürükleyici bir görüntüleme deneyimi sağlar.
-Cihazınız ısınabilir ve daha fazla güç tüketebilir."</string>
+    <string name="vb_movie_power_hint">Tiyatro modu sürükleyici bir görüntüleme deneyimi sağlar. Cihazınız ısınabilir ve daha fazla güç tüketebilir.</string>
     <string name="vb_movie_subtitle">Yüksek performans gerektirir</string>
     <string name="vb_mv_style_close_toast">Stil kapalı</string>
     <string name="vb_power_performance_mode_conflict_toast">Performans modu açıkken bu özellik kullanılamıyor.</string>

@@ -141,9 +141,10 @@
     <string name="find_device_gdpr_prompt">با روشن کردن یافتن دستگاه، شما <u><a href="app://com.miui.cloudservice.gdpr.license">سیاست حفظ حریم خصوصی</a></u> ما را می‌پذیرید. چنانچه می‌خواهید رضایت خود را پس بگیرید، این ویژگی را خاموش نمایید.</string>
     <string name="find_device_operation_failure_rpc">عملیات به دلیل خطای RPC انجام نشد.</string>
     <string name="find_device_permissions_footer">روی «اعطا کردن» زده تا مجوزهایی که انتخاب کرده‌اید داده شوند.</string>
-    <string name="find_device_permissions_header">به یافتن دستگاه خوش آمدید! شما با استفاده از این برنامه می‌توانید دستگاه خود را در صورت گم شدن مکان‌یابی، دنبال و قفل کنید. یافتن دستگاه به مجوزهای زیر نیاز دارد:</string>
+    <string name="find_device_permissions_header">به یافتن دستگاه خوش آمدید! می‌توانید از این برنامه برای مکان‌یابی، ردیابی و قفل کردن دستگاه خود در مواقع گم شدن استفاده کنید. همچنین می‌توانید به‌طور ناشناس به دیگران کمک کنید دستگاه‌های Xiaomi خود را پیدا کنند. این برنامه برای کارکرد عادی به مجوزهای زیر نیاز دارد:</string>
     <string name="find_device_service_title">یافتن دستگاه</string>
-    <string name="find_device_status_summary">مکان‌یابی، قفل و همچنین پاک‌سازی داده‌ها از راه دور</string>
+    <string name="find_device_status_summary">"برای م‍کان‌یابی و ردیابی دستگاه خود یا پاک کردن داده‌های آن از راه دور، آن را روشن کنید.
+همچنین می‌توانید به صورت ناشناس به دیگران کمک کنید دستگاه های Xiaomi خود را پیدا کنند."</string>
     <string name="find_device_status_title_pad">یافتن دستگاه</string>
     <string name="find_device_status_title_phone">یافتن دستگاه</string>
     <string name="find_permission_location_summary">برای مکان‌یابی این دستگاه</string>
@@ -366,7 +367,7 @@
     <string name="micloud_last_sync_canceled">همگام‌سازی لغو شده بود. دوباره تلاش کنید.</string>
     <string name="micloud_main_head_menu_cloud_backup">پشتیبان‌گیری</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">یافتن دستگاه در فضای دوم غیر قابل دسترس است. می‌توانید در فضای نخست از آن استفاده کنید.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">موارد حذف شده</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">موارد حذف شده اخیر</string>
     <string name="micloud_main_network_error">نمی‌توان به شبکه متصل شد</string>
     <string name="micloud_main_sync_mode_summary">داده‌های برنامه را در زمان واقعی همگام‌سازی می‌کند. هنگام روشن بودن این ویژگی مصرف برق افزایش می‌یابد.</string>
     <string name="micloud_main_sync_mode_title">همگام‌سازی سریع</string>
@@ -585,6 +586,18 @@
     <string name="noti_quota_low_title_without_button">حافظه فضای ابری کافی وجود ندارد</string>
     <string name="notification_sync_fail_title">گذرواژه‌ها همگام‌سازی نشد</string>
     <string name="notification_update_key_text">رمز عبور مدیریت گذرواژه‌ها تغییر کرد. رمز عبور جدید را تأیید کنید.</string>
+    <string name="offline_find_action_open">روشن کردن</string>
+    <string name="offline_find_checkbox_pref_summary_1">موقعیت این دستگاه را حتی زمانی که به شبکه متصل نیست پیدا کنید و مکان سایر دستگاه‌های آفلاین را ببینید. &lt;br/>&lt;font color=#0f84ff>جزئیات بیشتر&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">موقعیت این دستگاه را حتی زمانی که خاموش است و یا به شبکه متصل نیست پیدا کنید و مکان سایر دستگاه‌های آفلاین را ببینید. &lt;br/>&lt;font color=#0f84ff>جزئیات بیشتر&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">موقعیت آفلاین</string>
+    <string name="offline_find_doing_disable">در حال خاموش کردن موقعیت آفلاین…</string>
+    <string name="offline_find_doing_enable">در حال روشن کردن موقعیت آفلاین…</string>
+    <string name="offline_find_function">موقعیت آفلاین</string>
+    <string name="offline_find_msg_to_open_1">برای امکان دیدن موقعیت سایر دستگاه‌های آفلاین، موقعیت آفلاین این دستگاه را روشن کنید.</string>
+    <string name="offline_find_msg_to_open_2">برای امکان دیدن موقعیت سایر دستگاه‌های آفلاین، این دستگاه را به عنوان دستگاه مورد اعتماد تأیید کرده و موقعیت آفلاین را روشن کنید.</string>
+    <string name="offline_find_msg_to_open_3">برای محافظت از امنیت داده‌های خود، پیش از روشن کردن موقعیت آفلاین، این دستگاه را به عنوان مورد اعتماد تأیید کنید.</string>
+    <string name="offline_find_title_to_open_1">روشن کردن موقعیت آفلاین</string>
+    <string name="offline_find_title_to_open_2">این دستگاه را تأیید کنید</string>
     <string name="open_service_title">روشن کردن</string>
     <string name="pay_info_dialog_confirm_to_pay">پرداخت %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">استفاده از سکه‌های Mi باقی مانده: %s</string>
@@ -609,8 +622,8 @@
     <string name="pref_title_sync_display_photo_on_wifi_only">برای همگام‌سازی عکس‌ها فقط از Wi-Fi استفاده شود</string>
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="privacy_and_agreement">شرایط و ضوابط</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">به یافتن دستگاه خوش آمدید! در صورت گم شدن دستگاهتان شما می‌توانید با استفاده از این خدمات آن را مکان‌یابی یا قفل کرده و یا داده‌های آن را پاک کنید.</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">به یافتن دستگاه خوش آمدید! در صورت گم شدن دستگاهتان شما می‌توانید با استفاده از این خدمات آن را مکان‌یابی یا قفل کرده و یا داده‌های آن را پاک کنید.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">به یافتن دستگاه خوش آمدید! می‌توانید از این برنامه برای مکان‌یابی، ردیابی و قفل کردن دستگاه خود در مواقع گم شدن استفاده کنید. همچنین می‌توانید به‌طور ناشناس به دیگران کمک کنید دستگاه‌های Xiaomi خود را پیدا کنند.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">به یافتن دستگاه خوش آمدید! می‌توانید از این برنامه برای مکان‌یابی، ردیابی و قفل کردن دستگاه خود در مواقع گم شدن استفاده کنید. همچنین می‌توانید به‌طور ناشناس به دیگران کمک کنید دستگاه‌های Xiaomi خود را پیدا کنند.</string>
     <string name="privacy_dialog_sync_all_purpose_china">به خدمات فضای ابری Xiaomi خوش آمدید! شما با استفاده از فضای ابری Xiaomi می‌توانید پیام‌ها، تاریخچه تماس، مخاطبین، یادداشت‌ها، تنظیمات مرورگر، عکس‌ها و ویدئوها، تنظیمات WLAN، موارد ضبط شده، چیدمان صفحه اصلی، برنامه‌ها، رویدادهای سالنامه، موارد فهرست سیاه و قفسه برنامه خود را بین همه دستگاه‌های وصل شده‌ همگام‌سازی کنید.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">به خدمات فضای ابری Xiaomi خوش آمدید! شما با استفاده از فضای ابری Xiaomi می‌توانید پیام‌ها، تاریخچه تماس، مخاطبین، یادداشت‌ها، تنظیمات مرورگر، عکس‌ها و ویدئوها، تنظیمات WLAN، موارد ضبط شده، چیدمان صفحه اصلی، برنامه‌ها، رویدادهای سالنامه، موارد فهرست سیاه و قفسه برنامه خود را بین همه دستگاه‌های وصل شده‌ همگام‌سازی کنید.</string>
     <string name="privacy_dialog_sync_all_purpose_pad">به خدمات فضای ابری Xiaomi خوش آمدید! می‌توانید از این برنامه برای همگام‌سازی پیام‌ها، مخاطبین، یادداشت‌ها، موارد مرورگر، آلبوم‌های فضای ابری، موسیقی، تقویم، فهرست سیاه و تاریخچه تماس‌ها با فضای ابری استفاده کنید.</string>

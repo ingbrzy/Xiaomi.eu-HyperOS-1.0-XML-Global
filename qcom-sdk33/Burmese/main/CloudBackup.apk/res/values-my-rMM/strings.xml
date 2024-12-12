@@ -510,8 +510,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="session_action_btn_text_return_home">ပင်မမျက်နှာပြင်</string>
     <string name="session_backup_apk_data_text">WeChat ဒေတာများ အရန်သိမ်းနေသည်…</string>
     <string name="session_backup_apk_text">ပင်ပမမျက်နှာပင်အပြင်အဆင်နှင့် စနစ်ဆက်တင်များကို အရန်သိမ်းနေသည်…</string>
-    <string name="session_ending_backup_text">ပြီးလုပါပြီ…</string>
-    <string name="session_ending_restore_text">ပြီးလုပါပြီ…</string>
+    <string name="session_ending_backup_text">ပြီးခါနီးပြီ…</string>
+    <string name="session_ending_restore_text">ပြီးခါနီးပြီ…</string>
     <string name="session_failed_app_usage_denied_detail">ဤအက်(ပ်)သည် အက်(ပ်)အသုံးပြုမှုဆိုင်ရာကိန်းဂဏန်းများကို ဖတ်ရန် ခွင့်ပြုချက်များလိုအပ်သည်။ ဤခွင့်ပြုချက်ကို ဆက်တင်တွင်ပေးနိုင်သည်။</string>
     <string name="session_failed_app_usage_denied_title">ခွင့်ပြုချက်များလိုအပ်သည်</string>
     <string name="session_failed_cloud_no_space_detail">ဤအရန်သိမ်းဖိုင်အတွက် ကလောက်သိုလှောင်ခန်း၏ %s အနည်းဆုံးလိုသည်။</string>
@@ -522,9 +522,13 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="session_failed_dist_no_space_btn_text">သိုလှောင်ခန်းရှင်းရန်</string>
     <string name="session_failed_get_installed_apps_denied_detail">အလိုအလျောက် အရန်သိမ်းနိုင်ရန် ဆက်တင်တွင် ဤအက်(ပ်)အား စက်၌ထည့်သွင်းထားသော အက်(ပ်)စာရင်းကို ဖတ်ခွင့်ပေးပြီး အမြဲခွင့်ပြုရန်ကို ရွေးပါ။</string>
     <string name="session_failed_get_installed_apps_denied_title">ခွင့်ပြုချက်များလိုအပ်သည်</string>
+    <string name="session_failed_invalid_token_action">အကောင့်ဝင်ရန်</string>
+    <string name="session_failed_invalid_token_detail">အကောင့်ပြန်ဝင်ပါ</string>
+    <string name="session_failed_invalid_token_title">အထောက်အထားများမမှန်ပါ</string>
     <string name="session_failed_no_server_response_title">ဆာဗာချိတ်မရပါ။</string>
     <string name="session_failed_override_detail">စက်ထဲရှိ အရန်သိမ်းဖိုင်သည် Xiaomi ကလောက်ရှိ ဖိုင်နှင့် မတူပါ။ ရှေ့ဆက်ပါက လက်ရှိအရန်သိမ်းဖိုင်တွင် အသစ်က ထပ်ရေးလိုက်ပါမည်။ ယခုထပ်ရေးလိုသလား။</string>
     <string name="session_failed_override_title">အရန်သိမ်းဖိုင်ကို ထပ်ရေးနေသည်</string>
+    <string name="session_failed_reason_invalid_token">အကောင့်ဝင်အထောက်အထား မမှန်ပါ။ အကောင့်ပြန်ဝင်ပါ။</string>
     <string name="session_failed_restore_app_data_btn_text">နောက်သို့</string>
     <string name="session_failed_restore_app_data_detail">အကြောင်းအရာများ ပြန်မယူမီ ဤစက်တွင် WeChat ထည့်မထားကြောင်း အတည်ပြုပါ။ ဒေတာများပြန်ယူနေစဉ် WeChat ကို ဖွင့်ခြင်း သို့မဟုတ် သုံးခြင်း မလုပ်ပါနှင့်။</string>
     <string name="session_failed_restore_app_data_title">WeChat ပြန်ဖြုတ်ပါ</string>

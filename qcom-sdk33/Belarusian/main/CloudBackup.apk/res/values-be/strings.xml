@@ -554,9 +554,13 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="session_failed_dist_no_space_btn_text">Ачысціць сховішча</string>
     <string name="session_failed_get_installed_apps_denied_detail">Каб аўтаматычна ствараць рэзервовыя копіі, падайце гэтай праграме дазвол у Наладах на доступ да спісу праграм, устаноўленых на вашай прыладзе, і абярыце «Заўсёды дазваляць».</string>
     <string name="session_failed_get_installed_apps_denied_title">Патрабуюцца дазволы</string>
+    <string name="session_failed_invalid_token_action">Увайсці</string>
+    <string name="session_failed_invalid_token_detail">Увайдзіце зноў</string>
+    <string name="session_failed_invalid_token_title">Няправільныя ўліковыя дадзеныя</string>
     <string name="session_failed_no_server_response_title">Не атрымалася падлучыцца да сервера.</string>
     <string name="session_failed_override_detail">Лакальная рэзервовая копія адрозніваецца ад копіі ў Xiaomi Cloud. Калі вы працягнеце, бягучая копія перазапіша папярэднюю. Перазапісаць?</string>
     <string name="session_failed_override_title">Перазапіс рэзервовай копіі...</string>
+    <string name="session_failed_reason_invalid_token">Няправільныя ўліковыя дадзеныя для ўваходу. Увайдзіце зноў.</string>
     <string name="session_failed_restore_app_data_btn_text">Назад</string>
     <string name="session_failed_restore_app_data_detail">"Перад аднаўленнем аб'ектаў пераканайцеся, што на гэтай прыладзе не ўсталяваны WeChat. Не адкрывайце і не выкарыстоўвайце WeChat падчас аднаўлення дадзеных."</string>
     <string name="session_failed_restore_app_data_title">Выдаліць WeChat</string>

@@ -188,6 +188,7 @@
     <string name="alert_back_milink_hangup_tips_content_vb">Ha a kijelző ki van kapcsolva, az alkalmazás a háttérben anélkül fog továbbfutni, hogy megszakítaná a kivetítést. A kijelző visszakapcsolásához nyomja meg a Bekapcsoló gombot.</string>
     <string name="all_address_choose_hint">Minden szám ebben a régióban</string>
     <string name="allow_all">Összes engedélyezése</string>
+    <string name="allow_device_id_access">Az alkalmazások kiválasztása, amelyek használhatják a készülékazonosítót</string>
     <string name="allow_onetime">Egyszeri engedélyezés</string>
     <string name="already_close_gamebooster">Játékgyorsító kikapcsolva</string>
     <string name="am">DE</string>
@@ -224,8 +225,8 @@
     <string name="antivirus_privacy_dialog_cloudscan">Alkalmazások neveinek és adatainak feltöltése</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">A vírusok hatékonyabb észlelése és semlegesítése érdekében feltöltjük az alkalmazáscsomagok nevét és tulajdonságait, hogy felhőmotor segítségével kereshetők legyenek.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
-    <string name="antivirus_privacy_dialog_summary">&lt;Data>Ezt a funkciót harmadik fél víruskereső motorja üzemelteti. További információkért olvassa el a &lt;a href=\"%1$s\">Licencszerződést&lt;/a> , melyet a harmadik fél bocsátott rendelkezésre.&lt;/Data></string>
-    <string name="antivirus_privacy_dialog_summary_kddi">&lt;Data>Biztonsági vizsgálat futtatásakor készülékének típusa és a vizsgálat eredménye feltöltésre kerül a(z) %1$s szervereire, és ezeket az információkat a vonatkozó &lt;a href=\"%2$s\">felhasználsái feltételek&lt;/a> szerint kezelik.&lt;br/>&lt;br/>A biztonsági vizsgálat elindítása előtt olvassa el, és fogadja el a(z) %3$s felhasználási feltételeit.&lt;br/>&lt;br/>Ha nem járul hozzá ahhoz, hogy az adatait feltöltsék a(z) %4$s szervereire, attól a készülékén tárolt vírusdefiníciókat még használni tudja.&lt;/Data></string>
+    <string name="antivirus_privacy_dialog_summary"><Data>Ezt a funkciót harmadik fél víruskereső motorja üzemelteti. További információkért olvassa el a &lt;a href=\"%1$s\">Licencszerződést&lt;/a> , melyet a harmadik fél bocsátott rendelkezésre.</Data></string>
+    <string name="antivirus_privacy_dialog_summary_kddi"><Data>Biztonsági vizsgálat futtatásakor készülékének típusa és a vizsgálat eredménye feltöltésre kerül a(z) %1$s szervereire, és ezeket az információkat a vonatkozó &lt;a href=\"%2$s\">felhasználsái feltételek&lt;/a> szerint kezelik.&lt;br/>&lt;br/>A biztonsági vizsgálat elindítása előtt olvassa el, és fogadja el a(z) %3$s felhasználási feltételeit.&lt;br/>&lt;br/>Ha nem járul hozzá ahhoz, hogy az adatait feltöltsék a(z) %4$s szervereire, attól a készülékén tárolt vírusdefiníciókat még használni tudja.</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Adatvédelmi irányelvek</string>
     <string name="antivirus_privacy_dialog_title">Adatvédelmi irányelvek</string>
     <string name="antivirus_privacy_dialog_title_kddi">Felhasználási feltételek</string>
@@ -935,6 +936,7 @@ Néhány tranzakciója azonban még nem fejeződött be. A hozzájárulás vissz
     <string name="button_text_let_me_select">Rendben</string>
     <string name="button_text_next_step">Tovább</string>
     <string name="button_text_next_step_timer">Tovább (%d)</string>
+    <string name="button_text_once_accept">Egyszeri engedélyezés</string>
     <string name="button_text_open_now">Megnyitás</string>
     <string name="button_text_reject">Elutasítás</string>
     <string name="button_text_trust">Megbízható hálózat</string>
@@ -1147,6 +1149,7 @@ Néhány tranzakciója azonban még nem fejeződött be. A hozzájárulás vissz
     <string name="create_shortcut">Játékgyorsító parancsikon létrehozása a Kezdőképernyőn</string>
     <string name="cs_color_sense">Színhőmérséklet</string>
     <string name="cs_conversation_record_using">Rögzítés</string>
+    <string name="cs_func_toast_bluetooth_headset">A funkció használatához csatlakoztassa le a Bluetooth fülhallgatót.</string>
     <string name="cs_func_toast_headset">A funkció használatához csatlakoztassa le fejhallgatóját</string>
     <string name="cs_func_toast_light">A funkció használatához váltson elülső kamerára</string>
     <string name="cs_func_toast_pickup">A funkció használatához váltson videohívásra</string>
@@ -1177,6 +1180,7 @@ Néhány tranzakciója azonban még nem fejeződött be. A hozzájárulás vissz
     <string name="cs_tool_box_phone_guide_case_1">Próbálja ki a szinkrontolmácsolást és más funkciókat az új Hívás eszköztárban</string>
     <string name="cs_tool_box_phone_guide_case_2">Próbáljon ki egy sor funkciót az új Hívás eszköztárban</string>
     <string name="cs_voice_print">Hangminta rögzítése</string>
+    <string name="cs_voice_search">Hangminta</string>
     <string name="cs_vt_camera_toast_case1">Nyissa meg a kamerát az aktuális alkalmazásban</string>
     <string name="cs_vt_camera_toast_case2">Nincs kompatibilis eszköz a közelben</string>
     <string name="cta_agree_desc">A szolgáltatásaink használatához engedélyezze az alkalmazás számára, hogy csatlakozzon az internethet és megadja a fenti engedélyeket.</string>
@@ -1267,10 +1271,26 @@ Néhány tranzakciója azonban még nem fejeződött be. A hozzájárulás vissz
     <string name="descx_quick_scan_preparation">Egy pillanat…</string>
     <string name="detail_app_button">Alkalmazásadatok</string>
     <string name="details_subtitle">A használat részletei</string>
+    <string name="device_id">Készülékazonosító a személyre szabott ajánlásokhoz</string>
+    <string name="device_id_app_manager_dialog_continue">Ne állítsa le</string>
+    <string name="device_id_app_manager_dialog_message">Engedélyezte, hogy néhány alkalmazás nyomon kövesse a tevékenységeit. Most leállíthatja a nyomkövetést.</string>
+    <string name="device_id_app_manager_dialog_stop">Leállítás</string>
+    <string name="device_id_app_manager_switch_sub_title">A funkció kikapcsolt állapotában minden új nyomkövetési kérelmet automatikusan elutasítunk</string>
+    <string name="device_id_app_manager_switch_title">Engedélyezze az alkalmazásoknak a nyomkövetés kérését</string>
+    <string name="device_id_app_manager_tips">Az alkalmazások nyomon követhetik tevékenységeit a különböző alkalmazásokban és weboldalakon a nyomkövető azonosítók segítségével, hogy személyre szabott reklámajánlatokat és egyéb funkciókat nyújthassanak</string>
+    <string name="device_id_app_manager_title">Alkalmazáskezelés nyomkövetése</string>
+    <string name="device_id_manager_tips">A rendszer visszaállítható nyomkövető azonosítókat (OAID) kínál az alkalmazásoknak az eszközazonosítók helyett az Ön adatainak védelme érdekében</string>
+    <string name="device_id_manager_title">Nyomkövető azonosító kezelése</string>
+    <string name="device_id_reset">Nyomkövető azonosító visszaállítása</string>
+    <string name="device_id_reset_msg">A visszaállítás után új azonosító társul a készülékhez.</string>
+    <string name="device_id_str">Jelenlegi nyomkövető azonosító: %s</string>
     <string name="device_manager_apply_step_1">Aktiválja a készüléken a rendszergazda jogot ehhez az alkalmazáshoz?</string>
     <string name="device_manager_apply_step_2">"Amennyiben aktiválja a készüléken a rendszergazda jogot ehhez az alkalmazáshoz, azzal veszélynek teszi ki személyes adatait.
 A készülékén lévő összes adat törölhetővé válhat, és a képernyőzár-jelszava is alaphelyzetbe állítható."</string>
     <string name="device_manager_apply_step_3">Legyen tisztában vele, milyen veszélyekkel járhat az aktiválás végrehajtása. Most aktiválja a készüléken a rendszergazda jogot ehhez az alkalmazáshoz?</string>
+    <string name="device_oaid">Virtuális azonosító kezelése</string>
+    <string name="device_oaid_desc">Az Ön valódi azonosítója helyett a rendszer virtuális azonosítót (OAID) biztosít a telepített alkalmazások számára. Megakadályozza, hogy az alkalmazások nyomon kövessék viselkedését és preferenciáit, és megóvja az adatai biztonságát.</string>
+    <string name="device_oaid_title">Virtuális azonosító</string>
     <string name="dialog_app_roaming_message">%1$s nem használhat mobiladatot barangolás során. Mikor ön barangol csak azok az alkalmazások jutnak mobiladathoz, amiket a kivételekhez adott.</string>
     <string name="dialog_app_roaming_title">%1$s alkalmazásnak nincs engedélye az adatbarangoláshoz</string>
     <string name="dialog_change_package_type_summary">Az adat-előfizetés változtatása vissza fogja állítani alaphelyzetbe az adatfelhasználási beállításait (pl. adatkorlátok). Most szeretné megváltoztatni az adat-előfizetés típusát?</string>
@@ -1408,12 +1428,12 @@ A szám a kivételek közé kerül, de a korábban letiltott számok nem látsza
     <string name="exit">Kilépés</string>
     <string name="exit_dialog_exit">Kilépés</string>
     <string name="exit_dialog_garbage_clean_message">A felesleges fájlok mennyisége a készülékén több, mint %s. Törli a fájlokat?</string>
-    <string name="exit_dialog_garbage_clean_message_new">&lt;Data>A tisztitó &lt;font color=#0099ff>%s&lt;/font> tárhelyet szabadíthat fel. Elindítja most a tisztítást?&lt;/Data></string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>A tisztitó &lt;font color=#0099ff>%s&lt;/font> tárhelyet szabadíthat fel. Elindítja most a tisztítást?</Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">Törlés</string>
     <string name="exit_dialog_garbage_clean_title">Szabadítson fel tárhelyet</string>
     <string name="exit_dialog_homepage_optimise_message">Készülékének teljesítményeredménye 80 pont alatt van. Optimalizálja most?</string>
     <string name="exit_dialog_release_memory_positive_button">Bezárás</string>
-    <string name="exit_dialog_release_memory_title_new">&lt;Data>Gyorsítsa fel készülékét ennyivel: &lt;font color=#0099ff>%s&lt;/font>&lt;/Data></string>
+    <string name="exit_dialog_release_memory_title_new"><Data>Gyorsítsa fel készülékét ennyivel: &lt;font color=#0099ff>%s&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">Az Ön készülékén a tárhely több, mint 80%-a foglalt. Szabadítson fel helyet olyan alkalmazások törlésével, amiket sosem használ.</string>
     <string name="exit_dialog_release_storage_message_new">A készülékén lévő tárhely több mint %s része foglalt. Szabadítson fel helyet a soha nem használt alkalmazások eltávolításával.</string>
     <string name="exit_dialog_release_storage_positive_button">Tárhely-felszabadítás</string>
@@ -1730,7 +1750,7 @@ A szám a kivételek közé kerül, de a korábban letiltott számok nem látsza
     <string name="game_wid_viewpoint_buttom">Vegyen egy kis szünetet.</string>
     <string name="gamebooster_confirm_dialog_negative_btn">Elutasítom</string>
     <string name="gamebooster_confirm_dialog_positive_btn">Elfogadom</string>
-    <string name="gamebooster_confirm_dialog_tip">&lt;Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Privacy Policy&lt;/a>&lt;/Data></string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Privacy Policy&lt;/a></Data></string>
     <string name="gamebooster_confirm_dialog_title">Fogadja el Adatvédelmi irányelvünket</string>
     <string name="gamebooster_dialog_recover">Megújítás</string>
     <string name="gamebooster_dialog_start_booster">Kezdés</string>
@@ -1859,8 +1879,8 @@ A szám a kivételek közé kerül, de a korábban letiltott számok nem látsza
     <string name="gb_audition_play_instruction">A legjobb eredmény érdekében használjon fülhallgatót</string>
     <string name="gb_award_noti_message">Kapcsolja be a Game for Peace háttérfrissítéseket a Játékgyorsítóban, ha jutalmakat szeretne kapni.</string>
     <string name="gb_award_noti_title">Itt vannak a Game for Peace jutalmak!</string>
-    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Nem lehet Kiegyenlített módra váltani a Játékgyorsítóban, ha a rendszerszintű Végleges mód be van kapcsolva. Az akkumulátor beállításait a Biztonságban módosíthatja.&lt;br>&lt;a href=\"#\">Biztonság megnyitása&lt;/a>&lt;/Data></string>
-    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Nem lehet Kiegyenlített módra váltani a Játékgyorsítóban, ha a rendszerszintű Végleges mód be van kapcsolva. Az akkumulátor beállításait a Biztonságban módosíthatja. &lt;br>&lt;a href=\"#\">Biztonság megnyitása&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>Nem lehet Kiegyenlített módra váltani a Játékgyorsítóban, ha a rendszerszintű Végleges mód be van kapcsolva. Az akkumulátor beállításait a Biztonságban módosíthatja.&lt;br>&lt;a href=\"#\">Biztonság megnyitása&lt;/a></Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>Nem lehet Kiegyenlített módra váltani a Játékgyorsítóban, ha a rendszerszintű Végleges mód be van kapcsolva. Az akkumulátor beállításait a Biztonságban módosíthatja. &lt;br>&lt;a href=\"#\">Biztonság megnyitása&lt;/a></Data></string>
     <string name="gb_bar_high">Magas</string>
     <string name="gb_bar_low">Alacsony</string>
     <string name="gb_bar_mid">Közepes</string>
@@ -1988,7 +2008,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_new_feature">Új funkció</string>
     <string name="gb_not_support_on_device">"This app can't be used on the outer screen"</string>
     <string name="gb_operat_frequently">Csak ne olyan gyorsan!</string>
-    <string name="gb_performace_guide_disable_desc">&lt;Data>Nem lehet kiegyensúlyozott módra váltani a Játékgyorsítóban, ha a rendszer egészére kiterjedő Teljesítménymód be van kapcsolva. Az akkumulátor beállításait a Biztonság menüpontban módosíthatja.&lt;br>&lt;a href=\"#\">Biztonság megnyitása&lt;/a>&lt;/Data></string>
+    <string name="gb_performace_guide_disable_desc"><Data>Nem lehet kiegyensúlyozott módra váltani a Játékgyorsítóban, ha a rendszer egészére kiterjedő Teljesítménymód be van kapcsolva. Az akkumulátor beállításait a Biztonság menüpontban módosíthatja.&lt;br>&lt;a href=\"#\">Biztonság megnyitása&lt;/a></Data></string>
     <string name="gb_performace_switch_toast">Teljesítménymódra váltott. Előfordulhat, hogy a készülék felmelegszik és több energiát fogyaszt.</string>
     <string name="gb_performace_tips_button">Váltás</string>
     <string name="gb_performace_tips_title">Teljesítménymódra váltás a jobb élmény érdekében</string>
@@ -2005,7 +2025,7 @@ de növeli az energiafogyasztást és lehetővé teszi a készülék túlmeleged
     <string name="gb_predownload_dialog_cancel">Nem, köszönöm</string>
     <string name="gb_predownload_dialog_checked">Ne jelenjen meg újra</string>
     <string name="gb_predownload_dialog_confirm">Bekapcsolás</string>
-    <string name="gb_predownload_dialog_message_china">&lt;Data>A játék frissített tartalma automatikusan letölthető erre a készülékre a WLAN-hoz való csatlakozás és a képernyő kikapcsolása után. Így az új verziót azonnal használhatja, amint az elérhetővé válik.&lt;br>&lt;br>A funkció használata előtt olvassa el és fogadja el a &lt;a href=\"%1$s\">Háttérfrissítésekről szóló nyilatkozatot&lt;/a>.&lt;/Data></string>
+    <string name="gb_predownload_dialog_message_china"><Data>A játék frissített tartalma automatikusan letölthető erre a készülékre a WLAN-hoz való csatlakozás és a képernyő kikapcsolása után. Így az új verziót azonnal használhatja, amint az elérhetővé válik.&lt;br>&lt;br>A funkció használata előtt olvassa el és fogadja el a &lt;a href=\"%1$s\">Háttérfrissítésekről szóló nyilatkozatot&lt;/a>.</Data></string>
     <string name="gb_predownload_dialog_title">A háttérfrissítések már elérhetők</string>
     <string name="gb_predownload_message_new">Kompatibilis játékok automatikus frissítése, ha nem használja a készüléket</string>
     <string name="gb_predownload_noti_message">%2$1.2f GB frissített tartalom már van ezen a készüléken. Az új verzió megjelenését követően azonnal használhatja.</string>
@@ -2182,7 +2202,7 @@ fontos pillanatait"</string>
     <string name="gd_sidebar_edit_quick_title">Parancsikonok</string>
     <string name="gd_sidebar_long_press_tips">Nyomja meg és tartsa lenyomva a kijelzőt a mozgatáshoz a készülék függőlegesen tartása közben</string>
     <string name="gd_splite_screen_tips">Az osztott képernyő nem támogatja a lebegő ablakokat</string>
-    <string name="gdpr_msg">&lt;Data>A biztonsági kockázatok felismerése és az adatai védelme érdekében össze kell gyűjtenünk a szükséges mennyiségű információt az eszközéről. Olvassa el és fogadja el az &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Adatvédelmi irányelveket&lt;/a>, mielőtt használja a szolgáltatásainkat. Amennyiben nem engedélyezi ezeknek az információknak a gyűjtését, akkor is fogja tudni használni az alkalmazást, csak néhány funkció nem lesz elérhető. &lt;/Data></string>
+    <string name="gdpr_msg"><Data>A biztonsági kockázatok felismerése és az adatai védelme érdekében össze kell gyűjtenünk a szükséges mennyiségű információt az eszközéről. Olvassa el és fogadja el az &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Adatvédelmi irányelveket&lt;/a>, mielőtt használja a szolgáltatásainkat. Amennyiben nem engedélyezi ezeknek az információknak a gyűjtését, akkor is fogja tudni használni az alkalmazást, csak néhány funkció nem lesz elérhető. </Data></string>
     <string name="get_detail_by_click">Koppintson a részletek megtekintéséhez</string>
     <string name="get_phone_num_fail">Ismeretlen telefonszám</string>
     <string name="get_sys_info">Adatok lekérése…</string>
@@ -2289,11 +2309,11 @@ Az ablak mozgatásához nyomja hosszan a jelzőt."</string>
     <string name="gtb_dialog_btn_open">Bekapcsolás</string>
     <string name="gtb_dialog_hint_smart_5g">A funkció bármikor ki- vagy bekapcsolható a Játékgyorsító > Beállítások menüben.</string>
     <string name="gtb_dialog_privacy_speed_message">Ön épp a Xunyou Game Boostert készül használni. A szolgáltatás begyűjti a Xiaomi Fiók azonosítóját a tagság idejének rögzítéséhez.</string>
-    <string name="gtb_dialog_privacy_speed_tips">&lt;Data>Elolvastam és elfogadom a Xunyou Game Booster &lt;a href=\"%1$s\">Adatvédelmi irányelvét&lt;/a>&lt;/Data></string>
-    <string name="gtb_dialog_privacy_speed_tips_new">"&lt;Data>I've read and agreed to the Xunyou Game Booster &lt;a href=\"%1$s\">Privacy Policy&lt;/a>.&lt;/Data>"</string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>Elolvastam és elfogadom a Xunyou Game Booster &lt;a href=\"%1$s\">Adatvédelmi irányelvét&lt;/a></Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"I've read and agreed to the Xunyou Game Booster &lt;a href=\"%1$s\">Privacy Policy&lt;/a>."</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou Game Booster</string>
     <string name="gtb_dialog_privacy_voice_message">Ön épp a Xunyou Game Hangtorzítót készül használni. A szolgáltatás begyűjti a Xiaomi Fiók azonosítóját a tagság idejének rögzítéséhez.</string>
-    <string name="gtb_dialog_privacy_voice_tips">&lt;Data>Elolvastam és elfogadom a Xunyou Hangtorzító &lt;a href=\"%1$s\">Adatvédelmi irányelvét&lt;/a>&lt;/Data></string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>Elolvastam és elfogadom a Xunyou Hangtorzító &lt;a href=\"%1$s\">Adatvédelmi irányelvét&lt;/a></Data></string>
     <string name="gtb_dialog_privacy_voice_title">Xunyou Hangtorzító</string>
     <string name="gtb_dialog_summary_smart_5g">Ha a Játékgyorsító 5G hálózatot észlel, a hálózati késés csökkentése érdekében csatlakoztathatja az elérhető legjobb hálózathoz. Bekapcsolja a funkciót most?</string>
     <string name="gtb_dialog_title_smart_5g">5G hálózatoptimalizáció</string>
@@ -3061,9 +3081,12 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="numeric_recording_intro_header">Adja meg a jelszót</string>
     <string name="numeric_retry_button_text">Mégse</string>
     <string name="numeric_settings_help_how_to_record">Hogyan állítson be PIN-t</string>
+    <string name="oaid_apps_summary">Hozzáférés engedélyezése vagy korlátozása egyes alkalmazások számára</string>
     <string name="oaid_apps_title">Virtuális azonosító kezelése</string>
     <string name="oaid_reset_content_tip">Ha most kikapcsolja a virtuális azonosítót, lehetséges, hogy némelyik alkalmazás nem fog megfelelően működni, az alkalmazásadatok egy része elveszik vagy használhatatlanná válik.</string>
     <string name="oaid_reset_final_tip">Mégis kikapcsolja a virtuális azonosítót?</string>
+    <string name="oaid_string">"Jelenlegi virtuális azonosító:
+%1s"</string>
     <string name="oaid_tips_content">A virtuális azonosítók (OAID) felhasználhatók az Ön viselkedésének nyomon követésére és a hirdetések személyre szabására. Kiválaszthatja, hogy mely alkalmazások férhetnek hozzá virtuális azonosítójához. Vegye figyelembe, hogy ha korlátozza a hozzáférést, a hirdetési ajánlások irrelevánssá válhatnak, vagy az alkalmazások nem tudnak normálisan működni.</string>
     <string name="ok">OK</string>
     <string name="ok_button">OK</string>
@@ -3200,6 +3223,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="pc_batery_protection">Akkumulátorvédelem</string>
     <string name="pc_battery_charge_protect">Töltésvédelem</string>
     <string name="pc_battery_chart_loading">Egy pillanat…</string>
+    <string name="pc_battery_date_year_month_format">yyyy. MMM.</string>
     <string name="pc_battery_detail_curve_reference_now">Most</string>
     <string name="pc_battery_detail_device_item_title">Akkuhasználati statisztikák</string>
     <string name="pc_battery_health_revise_title">Akkumulátorállapot információ kalibrálása</string>
@@ -3232,7 +3256,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="pc_camera_printer_notify_subtitle">Csatlakoztatva</string>
     <string name="pc_camera_printer_title">Photo Printer Kit</string>
     <string name="pc_category_charge_settings">Töltési beállítások</string>
-    <string name="pc_charge_mode_low_power_fast_speed">Alacsony feszültség</string>
+    <string name="pc_charge_mode_low_power_fast_speed">Felgyorsítás</string>
     <string name="pc_charge_mode_low_power_fast_speed_tips">A készülék felmelegedhet</string>
     <string name="pc_charge_mode_standard">Normál</string>
     <string name="pc_charge_mode_topspeed">Végsebesség</string>
@@ -3263,6 +3287,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="pc_continuity_open_save_mode_notifi_sumary">%1$s akkumulátor töltöttsége kevesebb, mint %2$s. Kapcsolja be az Akkumulátorkímélő funkciót %3$s %4$s hozzáadásához.</string>
     <string name="pc_continuity_open_save_mode_notifi_title">%s akkumulátor alacsony töltöttségű</string>
     <string name="pc_current_power_mode">Jelenlegi mód</string>
+    <string name="pc_cycle_count_protect_title">Ciklusok</string>
     <string name="pc_emergency_call">Segélyhívás</string>
     <string name="pc_endurance_calculation">Számítás…</string>
     <string name="pc_entered_extreme_mode">Hibernálás mód</string>
@@ -3294,11 +3319,16 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="pc_fast_charge_switch_toast_message">A módosítások a készülék következő feltöltésekor lépnek érvénybe</string>
     <string name="pc_fast_charge_temp_remider">Kapcsolja be a töltési sebesség automatikus szabályozásához. Ez a funkció csak a Xiaomi által szállított töltőkkel működik. A készülék töltés közben felmelegedhet.</string>
     <string name="pc_fast_charge_title">A töltési sebesség növelése</string>
+    <string name="pc_first_use_error_tips">Számítás</string>
+    <string name="pc_first_use_protect_title">Első használat</string>
     <string name="pc_going_to_exit_extreme_mode">Kilépés Hibernálás módból</string>
     <string name="pc_going_to_exit_extreme_mode_summary">A készülék töltődik. A Hibernálás mód ki van kapcsolva.</string>
     <string name="pc_going_to_extreme_mode">Belépés Hibernálás módba</string>
     <string name="pc_handle_battery_level">Tartó</string>
     <string name="pc_have_no_battery_issue">Nincs probléma</string>
+    <string name="pc_health_charge_protect_notification_summary">Kapcsolja be az akkumulátorvédelmet, hogy mérsékelje az akkumulátor öregedését</string>
+    <string name="pc_health_charge_protect_summary">Az akkumulátor élettartamának meghosszabbítása érdekében a készülék leállítja a töltést, ha az akkumulátor szintje eléri a(z) %1$s értéket.</string>
+    <string name="pc_health_charge_protect_title">Akkumulátorvédelem</string>
     <string name="pc_hide_more_power_rank_apps">Elrejtés</string>
     <string name="pc_hidemode_normal">Kiegyensúlyozott</string>
     <string name="pc_hidemode_normal_title">Kiegyensúlyozott</string>
@@ -3337,6 +3367,8 @@ Ultraerős akkumulátorkímélő"</string>
     <string name="pc_low_battery_fast_charge_summary">Csatlakoztassa a mellékelt töltőt a töltés felgyorsításához, amikor a képernyő ki van kapcsolva és az akkumulátor lemerült. Ez a funkció a készülék felmelegedését okozhatja.</string>
     <string name="pc_low_temp_charge_summary">Tartsa a töltőt csatlakoztatva, és várja meg, hogy az akkumulátor felmelegedjen, miután a képernyő kikapcsolt a normális töltés érdekében</string>
     <string name="pc_low_temp_charge_title">Alacsony hőmérsékletű töltés</string>
+    <string name="pc_low_temperature_extreme_endurance_summary">A készülék teljesítményének korlátozása az akkumulátor élettartamának meghosszabbítása érdekében, ha a környezeti hőmérséklet rendkívül alacsony</string>
+    <string name="pc_low_temperature_extreme_endurance_title">Hideg állóképességi mód</string>
     <string name="pc_main_activity_back">Vissza</string>
     <string name="pc_main_battery_text_day">%1$s perc hozzáadva, nagyjából %2$s nap van hátra</string>
     <string name="pc_main_battery_text_day_hour">%1$s perc hozzáadva, nagyjából %2$s nap %3$s óra van hátra</string>
@@ -3367,6 +3399,7 @@ Ultraerős akkumulátorkímélő"</string>
     <string name="pc_power_mode_has_berserk">Végleges mód bekapcsolva</string>
     <string name="pc_power_mode_has_performance">Teljesítmény mód bekapcsolva</string>
     <string name="pc_power_save_settings_new">Az akkumulátorkímélő beállításai</string>
+    <string name="pc_production_date_protect_title">Gyártás dátuma</string>
     <string name="pc_remind_close_cover_to_charge_summary">Töltés előtt hajtsa össze a készüléket a gyorsabb és stabilabb töltés érdekében.</string>
     <string name="pc_remind_close_cover_to_charge_title">A töltéshez hajtsa össze</string>
     <string name="pc_reminder_always_protect_summary">Váltson korlátozott töltésre, hogy mérsékelje az akkumulátor öregedését</string>
@@ -3412,6 +3445,8 @@ Ultraerős akkumulátorkímélő"</string>
     <string name="pc_wait_device_cools_down">Várja meg, amíg a készülék lehűl, hogy használni tudja ezt a funkciót.</string>
     <string name="pc_wireless_charge_adjust_position_summary">Helyezze a vezeték nélküli töltőre</string>
     <string name="pc_wireless_charge_adjust_position_title">Töltse eszközét gyorsabban</string>
+    <string name="pc_wireless_charge_notification_summary">A vezeték nélküli töltés kevésbé energiatakarékos, mint a vezetékes töltés</string>
+    <string name="pc_wireless_charge_notification_title">Vezeték nélküli töltés</string>
     <string name="pc_wireless_charging_special_stand_summary1">Helyezze a készüléket a vezeték nélküli töltőhöz kapott állomásra</string>
     <string name="pc_wireless_charging_special_stand_summary2">A legjobb töltési élmény érdekében helyezze a készüléket a vezeték nélküli töltőhöz kapott állomásra</string>
     <string name="pc_wireless_charging_special_stand_title">Használja a tartozék töltőállomást</string>
@@ -3554,6 +3589,7 @@ Ultraerős akkumulátorkímélő"</string>
     <string name="permission_instruction_write_contacts">Az engedély lehetővé teszi az alkalmazások számára a névjegyek hozzáadását, törlését és szerkesztését.</string>
     <string name="permission_instruction_write_settings">This permission allows apps to modify system settings. Malicious apps might use this permission temper with your system settings and affect the normal use of your device.</string>
     <string name="permission_legacy_storage">Fotók, videók, hanganyagok és fájlok elérése</string>
+    <string name="permission_oaid_desc">Engedélyezi, hogy %1$s nyomon kövesse a tevékenységeit más alkalmazásokban és webhelyeken?</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">A rendszer nem kérdezi meg, hogy az alkalmazás hozzáférhet-e a névjegyzék olvasásához, a hívásnapló megtekintéséhez, a rendszerbeállítások módosításához, a kamerához vagy egyéb rendszererőforráshoz.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Az engedélykezelő ki van kapcsolva</string>
     <string name="permission_precise_location">Pontos hely</string>
@@ -3675,8 +3711,8 @@ Ultraerős akkumulátorkímélő"</string>
     <string name="power_center_night_charge_protection_setting">További lehetőségek megtekintése itt: Biztonság > Akkumulátor.</string>
     <string name="power_center_night_charge_protection_summary">Az akkumulátor öregedésének csökkentése érdekében az eszköz megtanulja a napi töltési rutinokat a szükségtelen folyamatos töltés csökkentése érdekében</string>
     <string name="power_center_one_key_save">Optimalizálás</string>
-    <string name="power_center_ontime_boot">Bekapcsolás ideje</string>
-    <string name="power_center_ontime_shutdown">Kikapcsolás ideje</string>
+    <string name="power_center_ontime_boot">Ütemezett bekapcsolás</string>
+    <string name="power_center_ontime_shutdown">Ütemezett kikapcsolás</string>
     <string name="power_center_optimize_title">Javaslatok</string>
     <string name="power_center_power_save_summary_text">Megnövelheti a hátralévő időt akár %1$d ó %2$d p időtartammal</string>
     <string name="power_center_power_save_title_text">Akkumulátorkímélő</string>
@@ -3737,8 +3773,8 @@ Ultraerős akkumulátorkímélő"</string>
     <string name="power_center_surface_temp_low">Hideg</string>
     <string name="power_center_surface_temp_lower">Hűvös</string>
     <string name="power_center_surface_temp_normal">Normális</string>
-    <string name="power_center_time_to_boot">Bekapcsolás ideje</string>
-    <string name="power_center_time_to_shutdown">Kikapcsolás ideje</string>
+    <string name="power_center_time_to_boot">Idő</string>
+    <string name="power_center_time_to_shutdown">Idő</string>
     <string name="power_center_title">Akkumulátor</string>
     <string name="power_center_unoffical_battery_button">Keressen hivatalos szolgáltatót</string>
     <string name="power_center_unoffical_battery_dialog">Figyelmeztetés nem megfelelő akkumulátor miatt</string>
@@ -4055,8 +4091,8 @@ Ultraerős akkumulátorkímélő"</string>
     <string name="privacy_dialog_camera_message">Adatainak védelme érdekében a rendszer nem engedélyezi az alkalmazások számára a kamera háttérben való használatát.</string>
     <string name="privacy_dialog_camera_title">Háttérkamera használatának korlátozása</string>
     <string name="privacy_dialog_content_part1">Üdvözli Önt a Biztonság! Ez az alkalmazás ellenőrzi az eszközön a szemetet és a vírusokat, valamint lehetővé teszi az alkalmazások kezelését, a mobil adatfelhasználás szabályozását, a hívások és üzenetek blokkolását és még sok mást.</string>
-    <string name="privacy_dialog_content_part2">&lt;Data>A Biztonság alkalmazásnak össze kell gyűjtenie a szükséges személyes adatokat ahhoz, hogy szolgáltatásait elérhetővé tegye az Ön számára, és javítani tudja a funkcióit. Az &lt;a href=\"%1$s\">adatvédelmi irányelveinkből&lt;/a> megtudhatja, hogyan kezeljük az összegyűjtött információkat. A Beállításokban bármikor visszavonhatja hozzájárulását a Biztonság Adatvédelmi irányelveihez.&lt;/Data></string>
-    <string name="privacy_dialog_content_part3">&lt;Data>Olvassa el és fogadja el a &lt;a href=\"%2$s\">Felhasználási feltételeinket&lt;/a> és az &lt;a href=\"%1$s\">Adatvédelmi irányelveinket&lt;/a> mielőtt a Biztonság alkalmazást használja. Ha nem járul hozzá a fent említett szolgáltatások használatához, akkor nem fogja tudni használni az alkalmazás egyes funkcióit; alapvető funkciói azonban továbbra is elérhetőek lesznek az Ön számára.&lt;/Data></string>
+    <string name="privacy_dialog_content_part2"><Data>A Biztonság alkalmazásnak össze kell gyűjtenie a szükséges személyes adatokat ahhoz, hogy szolgáltatásait elérhetővé tegye az Ön számára, és javítani tudja a funkcióit. Az &lt;a href=\"%1$s\">adatvédelmi irányelveinkből&lt;/a> megtudhatja, hogyan kezeljük az összegyűjtött információkat. A Beállításokban bármikor visszavonhatja hozzájárulását a Biztonság Adatvédelmi irányelveihez.</Data></string>
+    <string name="privacy_dialog_content_part3"><Data>Olvassa el és fogadja el a &lt;a href=\"%2$s\">Felhasználási feltételeinket&lt;/a> és az &lt;a href=\"%1$s\">Adatvédelmi irányelveinket&lt;/a> mielőtt a Biztonság alkalmazást használja. Ha nem járul hozzá a fent említett szolgáltatások használatához, akkor nem fogja tudni használni az alkalmazás egyes funkcióit; alapvető funkciói azonban továbbra is elérhetőek lesznek az Ön számára.</Data></string>
     <string name="privacy_dialog_danger_mission_message">Az Android több nagy kockázatú engedéllyel rendelkezik (pl. leküldéses értesítések küldésére való engedély). Az adatai védelme érdekében a rendszer megkérdezi, hogy engedélyezi-e ezt a viselkedést, és korlátozó lehetőségeket kínál fel.</string>
     <string name="privacy_dialog_danger_mission_title">Magas kockázatú engedélyek</string>
     <string name="privacy_dialog_feedback">Visszajelzés</string>
@@ -4162,7 +4198,7 @@ Visszavonja most a hozzájárulását?"</string>
     <string name="privacy_revoke_dialog_title_cn">Figyelmeztetés</string>
     <string name="privacy_revoke_failed_dialog_content">Kiszolgálóhiba. Várjon egy-két percet, majd próbálja újra.</string>
     <string name="privacy_revoke_failed_dialog_title">Hozzájárulás visszavonása sikertelen</string>
-    <string name="privacy_revoke_tip_dialog_content">&lt;Data>Csakk akkor tudja tovább használni a(z) %1$s alkalmazást, ha elfogadja az Adatvédelmi irányelvek új verzióját. Elfogadja a frissített %2$s &lt;a href=\"%3$s\">Adatvédelmi irányelveket&lt;/a> most?&lt;/Data></string>
+    <string name="privacy_revoke_tip_dialog_content"><Data>Csakk akkor tudja tovább használni a(z) %1$s alkalmazást, ha elfogadja az Adatvédelmi irányelvek új verzióját. Elfogadja a frissített %2$s &lt;a href=\"%3$s\">Adatvédelmi irányelveket&lt;/a> most?</Data></string>
     <string name="privacy_revoke_tip_dialog_title">Nem lehet használni az alkalmazást</string>
     <string name="privacy_revoke_title">Beleegyezés visszavonása</string>
     <string name="privacy_risk_app">Kockázatos alkalmazások</string>
@@ -4265,7 +4301,7 @@ Visszavonja most a hozzájárulását?"</string>
     <string name="privacy_thumbnail_shield_top_tip">Az Előzmények között megjelenített alkalmazás előnézetek kimaszkolása</string>
     <string name="privacy_type_open">Bekapcsolva</string>
     <string name="privacy_update_dialog_content_1">%s Adatvédelmi irányelvek frissítve lettek:</string>
-    <string name="privacy_update_dialog_content_2">&lt;Data>A folytatás előtt olvassa el és fogadja el az &lt;a href=\"%1$s\">Adatvédelmi irányelvek&lt;/a> új verzióját.&lt;/Data></string>
+    <string name="privacy_update_dialog_content_2"><Data>A folytatás előtt olvassa el és fogadja el az &lt;a href=\"%1$s\">Adatvédelmi irányelvek&lt;/a> új verzióját.</Data></string>
     <string name="privacy_update_dialog_title">Frissített Adatvédelmi irányelvek</string>
     <string name="privacy_using_camera">Kamerahasználat</string>
     <string name="privacy_using_location">Hozzáférés a helyadatokhoz</string>
@@ -4347,6 +4383,16 @@ Visszavonja most a hozzájárulását?"</string>
     <string name="reset_data_dialog_message">Ez a készülék nincs hozzárendelve a Xiaomi Fiókjához. Nem lehetséges a jelszó helyreállítása vagy visszaállítása. Készítsen biztonsági másolatot minden fontos elemről, és végezze el a gyári adatok visszaállítását. A gyári visszaállítás során minden adat véglegesen törlődik, és az SD-kártya formázásra kerül.</string>
     <string name="reset_data_dialog_ok">Gyári adatok visszaállítása</string>
     <string name="reset_data_title">A jelszó visszaállítása sikertelen</string>
+    <string name="restore_device_id_content">A személyre szabott ajánlások visszaállításra kerülnek</string>
+    <string name="restore_device_id_title">Készülékazonosító-visszaállítás</string>
+    <string name="restore_dialog_content">Amennyiben visszaállítja a készülékazonosítóját, azzal a személyre szabott ajánlások is visszaállításra kerülnek. Visszaállítja most?</string>
+    <string name="restore_dialog_positive">Visszaállítás</string>
+    <string name="restore_dialog_title">Figyelmeztetés</string>
+    <string name="restore_oaid_content">Állítsa vissza a virtuális azonosítóját a viselkedés- és a preferenciarögzítések törléséhez</string>
+    <string name="restore_oaid_dialog_content">Több alkalmazás is használja az Ön vizuális azonosítóját. Ha most visszaállítja, az alkalmazásadatok egy része lehetséges, hogy elveszik vagy használhatatlanná válik. Mégis visszaállítja a vizuális azonosítót?</string>
+    <string name="restore_oaid_positive">Visszaállítás</string>
+    <string name="restore_oaid_positive_step">Visszaállítás (%1$d)</string>
+    <string name="restore_oaid_title">Virtuális azonosító visszaállítása</string>
     <string name="result_autoscan_header">Fizetésellenőrzés</string>
     <string name="result_autoscan_info">Rendszerkörnyezet automatikus ellenőrzése fizetési alkalmazások indításakor</string>
     <string name="result_sms_header">Üzenetkezelési kockázatok észlelve</string>
@@ -4559,7 +4605,7 @@ Visszavonja most a hozzájárulását?"</string>
     <string name="sp_abnormal_scan_title">Problémamegoldás</string>
     <string name="sp_antispam_scan_summary">Védekezzen a csalás ellen</string>
     <string name="sp_antispam_scan_title">Tiltólista</string>
-    <string name="sp_app_install_protect_title">App installation protection</string>
+    <string name="sp_app_install_protect_title">Alkalmazástelepítési védelem</string>
     <string name="sp_background_risk_dialog_summary">, ellenőrizze és javítsa a fizetési problémákat.</string>
     <string name="sp_background_risk_dialog_summary_new">A jelenlegi fizetési környezet biztonsági kockázatot jelenthet. Javasoljuk, hogy tájékozódjon a részletekről.</string>
     <string name="sp_background_risk_dialog_summary_wifi_approve">Egy nyilvános Wi-Fi-hálózathoz van csatlakozva, amely veszélyes lehet. Győződjön meg róla, hogy fizetése biztonságos, mielőtt befejezné.</string>
@@ -5005,6 +5051,9 @@ A formázás eltávolítja a tartalmakat a(z) ^2 SD-kártyáról. A tartalmak el
     <string name="superpower_dialog_button_ok">OK</string>
     <string name="superpower_dialog_massage">Az Ultraerős akkumulátorkímélő korlátozza a legtöbb energiaigényes funkciót és csökkenti az készülék teljesítményét, hogy az alapvető funkciókat (pl. hívások, SMS és a hálózathoz való csatlakozás) a lehető leghosszabb ideig elérhetővé tegye. Bekapcsolja az Ultraerős akkumulátorkímélőt?</string>
     <string name="superpower_dialog_title">Ultraerős akkumulátorkímélő</string>
+    <string name="superpower_notification_low_temp_btn_txt">Bekapcsolás</string>
+    <string name="superpower_notification_low_temp_summary">A Hideg állóképességi mód jobban kíméli az akkumulátort, ha az Ultraerős akkumulátorkímélő funkció be van kapcsolva, és a környezeti hőmérséklet rendkívül alacsony</string>
+    <string name="superpower_notification_low_temp_title">Az Ultraerős akkumulátorkímélő bekapcsolása?</string>
     <string name="superpower_notification_new_title_new">Kevesebb mint %s akkumulátor-töltöttség maradt</string>
     <string name="superpower_notification_summary">Töltse fel a készüléket, vagy kapcsolja be az Ultraerős akkumulátorkímélőt</string>
     <string name="superpower_notification_time_12">MMMM dd., EEEE</string>
@@ -5012,6 +5061,7 @@ A formázás eltávolítja a tartalmakat a(z) ^2 SD-kártyáról. A tartalmak el
     <string name="superpower_notification_title_new">Kevesebb mint %s akkumulátor-töltöttség maradt</string>
     <string name="superpower_progress_content">Az Ultraerős akkumulátorkímélő bekapcsolása…</string>
     <string name="superpower_progress_left_time">%1$dó %2$dp</string>
+    <string name="superpower_progress_low_temp_content">Hideg állóképességi mód bekapcsolása…</string>
     <string name="superpower_progress_switch_home">Átváltás a Sötét témára</string>
     <string name="superpower_progress_title">Hátralévő idő</string>
     <string name="superpower_progress_turndown_brightness">A képernyő fényerejének csökkentése</string>
@@ -5049,11 +5099,11 @@ A formázás eltávolítja a tartalmakat a(z) ^2 SD-kártyáról. A tartalmak el
     <string name="system_permission_declare_agree">Elfogadás</string>
     <string name="system_permission_declare_analytics_declare">Örömmel vennénk, ha csatlakozna a Felhasználó Élményprogramunkhoz. Az alkalmazásnak csatlakoznia kell az internethez és a következő engedélyeket vagy funkciókat kell használnia a statisztikák begyűjtéséhez annak érdekében, hogy a szolgáltatásainkat javítani tudjuk. Kizárólag statisztikai célokból gyűjtünk adatokat és önt személyesen nem tudjuk beazonosítani a gyűjtött adatok alapján.</string>
     <string name="system_permission_declare_disagree">Elutasítás</string>
-    <string name="system_permission_declare_double_link">&lt;Data>A folytatás előtt olvassa el és fogadja el a &lt;a href=\"%1$s\">Felhasználói Szerződést&lt;/a> és az &lt;a href=\"%2$s\">Adatvédelmi irányelveket&lt;/a>.&lt;/Data></string>
+    <string name="system_permission_declare_double_link"><Data>A folytatás előtt olvassa el és fogadja el a &lt;a href=\"%1$s\">Felhasználói Szerződést&lt;/a> és az &lt;a href=\"%2$s\">Adatvédelmi irányelveket&lt;/a>.</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">Üdvözli Önt a következő: %1s! Ezzel az alkalmazással a következő funkciót használhatja: %2s.</string>
-    <string name="system_permission_declare_meanwhile_double_link">&lt;Data>A folytatás előtt olvassa el és fogadja el a &lt;a href=\"%1$s\">Felhasználói Szerződést&lt;/a> és az &lt;a href=\"%2$s\">Adatvédelmi irányelveket&lt;/a>.&lt;/Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data>A folytatás előtt olvassa el és fogadja el az &lt;a href=\"%1$s\">Adatvédelmi irányelveket&lt;/a>.&lt;/Data></string>
-    <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data>A folytatás előtt olvassa el és fogadja el a &lt;a href=\"%1$s\">Felhasználói Szerződést&lt;/a>.&lt;/Data></string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>A folytatás előtt olvassa el és fogadja el a &lt;a href=\"%1$s\">Felhasználói Szerződést&lt;/a> és az &lt;a href=\"%2$s\">Adatvédelmi irányelveket&lt;/a>.</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>A folytatás előtt olvassa el és fogadja el az &lt;a href=\"%1$s\">Adatvédelmi irányelveket&lt;/a>.</Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>A folytatás előtt olvassa el és fogadja el a &lt;a href=\"%1$s\">Felhasználói Szerződést&lt;/a>.</Data></string>
     <string name="system_permission_declare_no_say_no">Amennyiben nem adja meg az elvárt jogosultságokat vagy nem engedélyezi az adatgyűjtést, akkor ez az alkalmazás nem tud megfelelően működni.</string>
     <string name="system_permission_declare_no_say_no_analytics">Amennyiben nem szeretné megadni nekünk ezeket az engedélyeket, itt leiratkozhat: Beállítások > További beállítások > Adatvédelem > Felhasználói Élményprogram.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">Amennyiben nem adja meg az kívánt jogosultságokat vagy nem engedélyezi az adatgyűjtést, akkor ez az alkalmazás nem tud megfelelően működni.</string>
@@ -5061,13 +5111,13 @@ A formázás eltávolítja a tartalmakat a(z) ^2 SD-kártyáról. A tartalmak el
     <string name="system_permission_declare_privacy_declare">Az alkalmazásnak a normális működés érdekében csatlakoznia kell az internethez, és a következő engedélyekre van szüksége:</string>
     <string name="system_permission_declare_privacy_no_network">Az alkalmazásnak a normális működéshez a következő engedélyekre van szüksége:</string>
     <string name="system_permission_declare_privacy_no_permission">Az alkalmazásnak a normális működés érdekében csatlakoznia kell az internethez és a szükséges személyes adatokat kell begyűjtenie.</string>
-    <string name="system_permission_declare_privacy_policy">&lt;Data>A folytatás előtt olvassa el és fogadja el az &lt;a href=\"%1$s\">Adatvédelmi irányelveket&lt;/a>.&lt;/Data></string>
+    <string name="system_permission_declare_privacy_policy"><Data>A folytatás előtt olvassa el és fogadja el az &lt;a href=\"%1$s\">Adatvédelmi irányelveket&lt;/a>.</Data></string>
     <string name="system_permission_declare_revoke_system">Kiléphet az alkalmazásból.</string>
     <string name="system_permission_declare_revoke_uninstallable">Kijelentkezhet, eltávolíthatja ezt az alkalmazást, vagy visszavonhatja az engedélyeket és a jogosultságokat a Biztonság / Alkalmazáskezelés / Engedélykezelő / Engedélyek menüben.</string>
     <string name="system_permission_declare_title">Figyelem</string>
     <string name="system_permission_declare_use_network">Csatlakozás a hálózathoz</string>
     <string name="system_permission_declare_use_network_no_permission">Csatlakozás a hálózathoz</string>
-    <string name="system_permission_declare_user_agreement">&lt;Data>A folytatás előtt olvassa el és fogadja el a &lt;a href=\"%1$s\">Felhasználói Szerződést&lt;/a>.&lt;/Data></string>
+    <string name="system_permission_declare_user_agreement"><Data>A folytatás előtt olvassa el és fogadja el a &lt;a href=\"%1$s\">Felhasználói Szerződést&lt;/a>.</Data></string>
     <string name="system_permission_perm_answer_call">Híváskezdeményezés</string>
     <string name="system_permission_perm_optional">" (opcionális)"</string>
     <string name="system_permission_perm_read_mms">MMS-olvasás</string>
@@ -5453,8 +5503,7 @@ A hátralévő adat tartalmazza az előző hónapból áthozott adat mennyisége
     <string name="vb_fps_settings_tips">Ez a funkció a képernyő frissítési gyakoriságát a képkockasebességhez igazítja, amely kíméli az akkumulátort, és zökkenőmentessé teszi a lejátszást. A lebegő megjegyzések bekapcsolása kikapcsolja az automatikus frissítési gyakoriságot.</string>
     <string name="vb_immerse_voice">Immerzív hang</string>
     <string name="vb_movie_mode">Mozi mód</string>
-    <string name="vb_movie_power_hint">"A színház üzemmód magával ragadó élményt nyújt.
-A készülék felmelegedhet és több energiát fogyaszthat."</string>
+    <string name="vb_movie_power_hint">A színház üzemmód magával ragadó élményt nyújt.A készülék felmelegedhet és több energiát fogyaszthat.</string>
     <string name="vb_movie_subtitle">Magas teljesítményre van szüksége</string>
     <string name="vb_mv_style_close_toast">A stílus ki van kapcsolva</string>
     <string name="vb_power_performance_mode_conflict_toast">A funkció nem használható, ha a Teljesítmény mód be van kapcsolva</string>

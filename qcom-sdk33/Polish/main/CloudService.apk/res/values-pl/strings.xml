@@ -142,7 +142,7 @@
     <string name="device_activation_card_title">First activation</string>
     <string name="device_activation_page_title">Device activation</string>
     <string name="dialog_storage_full_title">Brak miejsca w Chmurze</string>
-    <string name="dialog_storage_low_content">Ulepsz swój pakiet pamięci, aby kontynuować synchronizacje elementów.</string>
+    <string name="dialog_storage_low_content">Zwiększ swój pakiet pamięci, aby kontynuować synchronizacje elementów.</string>
     <string name="dialog_storage_low_title">Brak miejsca w chmurze</string>
     <string name="dialog_storage_upgrade_later">Nie, dziękuję</string>
     <string name="dialog_storage_upgrade_now">Ulepsz</string>
@@ -188,9 +188,10 @@
     <string name="find_device_gdpr_prompt">Włączając Znajdź urządzenie wyrażasz zgodę na naszą <u><a href="app://com.miui.cloudservice.gdpr.license">Politykę Prywatności</a></u>. Wyłącz tę funkcję, jeśli chcesz wycofać swoją zgodę.</string>
     <string name="find_device_operation_failure_rpc">Nie udało się wykonać operacji ze względu na błąd RPC.</string>
     <string name="find_device_permissions_footer">Dotknij \"Przyznaj\", aby nadać uprawnienia, które wybrałeś.</string>
-    <string name="find_device_permissions_header">Witamy w Znajdź urządzenie! Ta aplikacja służy do lokalizowania, namierzania i zablokowywania urządzenia, gdy zostanie ono zgubione. Znajdź urządzenie wymaga następujących uprawnień:</string>
+    <string name="find_device_permissions_header">Witamy w Znajdź urządzenie! Aplikacja umożliwia lokalizowanie, śledzenie i blokowanie zagubionego urządzenia. Możesz także anonimowo pomóc innym użytkownikom zlokalizować ich urządzenia Xiaomi. Oto uprawnienia potrzebne do prawidłowego działania aplikacji:</string>
     <string name="find_device_service_title">Znajdź urządzenie</string>
-    <string name="find_device_status_summary">Zlokalizuj i zablokuj urządzenie, a także zdalnie usuń dane</string>
+    <string name="find_device_status_summary">"Włącz, aby zlokalizować i śledzić urządzenie lub zdalnie wyczyścić przechowywane na nim dane.
+Możesz także anonimowo pomóc innym użytkownikom zlokalizować ich urządzenia Xiaomi."</string>
     <string name="find_device_status_title_pad">Znajdź urządzenie</string>
     <string name="find_device_status_title_phone">Znajdź urządzenie</string>
     <string name="find_permission_location_summary">Do lokalizowania tego urządzenia</string>
@@ -413,7 +414,7 @@
     <string name="micloud_last_sync_canceled">Synchronizacja została anulowana. Spróbuj ponownie.</string>
     <string name="micloud_main_head_menu_cloud_backup">Kopie zapasowe</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Funkcja Znajdź urządzenie nie jest dostępna w Drugiej przestrzeni. Możesz z niej korzystać w Pierwszej przestrzeni.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">Usunięte elementy</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">Ostatnio usunięte elementy</string>
     <string name="micloud_main_network_error">Nie można połączyć z siecią</string>
     <string name="micloud_main_sync_mode_summary">Synchronizuje dane aplikacji w czasie rzeczywistym. Włączenie tej funkcji zwiększy zużycie baterii.</string>
     <string name="micloud_main_sync_mode_title">Szybka synchronizacja</string>
@@ -622,17 +623,29 @@ Upewnij się, że używasz powiązanego konta Xiaomi jako konta systemowego."</s
     <string name="noon">Południe</string>
     <string name="not_set">Nie ustawiono</string>
     <string name="noti_quota_button_text">Ulepsz</string>
-    <string name="noti_quota_full_sum">Ulepsz swój pakiet pamięci, aby kontynuować synchronizacje elementów.</string>
+    <string name="noti_quota_full_sum">Zwiększ swój pakiet pamięci, aby kontynuować synchronizacje elementów.</string>
     <string name="noti_quota_full_sum_without_button">Uzyskaj więcej miejsca w pamięci, aby kontynuować synchronizacje elementów.</string>
     <string name="noti_quota_full_title">&lt;font color=#F22424>Brak wolnego miejsca&lt;/font> w Chmurze</string>
     <string name="noti_quota_full_title_without_button">Brak miejsca w Chmurze</string>
-    <string name="noti_quota_low_sum">Ulepsz swój pakiet pamięci, aby kontynuować synchronizacje elementów.</string>
+    <string name="noti_quota_low_sum">Zwiększ swój pakiet pamięci, aby kontynuować synchronizacje elementów.</string>
     <string name="noti_quota_low_sum_without_button">Uzyskaj więcej miejsca w pamięci, aby kontynuować synchronizacje elementów.</string>
     <string name="noti_quota_low_title">Brak miejsca w Chmurze</string>
     <string name="noti_quota_low_title_with_storage">Pozostało &lt;font color=#F22424>mniej niż &lt;xliff:g id=remaining_storage_space example=0.5>%s&lt;/xliff:g> GB&lt;/font> wolnego miejsca w Chmurze</string>
     <string name="noti_quota_low_title_without_button">Za mało miejsca w Chmurze</string>
     <string name="notification_sync_fail_title">Nie udało się zsynchronizować haseł</string>
     <string name="notification_update_key_text">Zmieniono hasło menedżera haseł. Sprawdź nowe hasło.</string>
+    <string name="offline_find_action_open">Włącz</string>
+    <string name="offline_find_checkbox_pref_summary_1">Znajdź urządzenie nawet wtedy, gdy nie jest podłączone do sieci, i wyświetl lokalizację innych urządzeń offline. &lt;br/>&lt;font color=#0f84ff>Dowiedz się więcej&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">Znajdź urządzenie nawet wtedy, gdy jest wyłączone lub nie jest podłączone do sieci, i wyświetl lokalizację innych urządzeń offline. &lt;br/>&lt;font color=#0f84ff>Dowiedz się więcej&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">Lokalizacja offline</string>
+    <string name="offline_find_doing_disable">Wyłączanie lokalizacji offline…</string>
+    <string name="offline_find_doing_enable">Włączanie lokalizacji offline…</string>
+    <string name="offline_find_function">Lokalizacja offline</string>
+    <string name="offline_find_msg_to_open_1">Włącz lokalizację offline na urządzeniu, aby móc wyświetlać lokalizację innych urządzeń offline.</string>
+    <string name="offline_find_msg_to_open_2">Zweryfikuj to urządzenie jako zaufane i włącz lokalizację offline, aby móc wyświetlać lokalizację innych urządzeń offline.</string>
+    <string name="offline_find_msg_to_open_3">Aby zagwarantować bezpieczeństwo danych, przed włączeniem lokalizacji offline należy zweryfikować urządzenie jako zaufane.</string>
+    <string name="offline_find_title_to_open_1">Włącz lokalizację offline</string>
+    <string name="offline_find_title_to_open_2">Zweryfikuj to urządzenie</string>
     <string name="open_service_title">Włącz</string>
     <string name="pay_info_dialog_confirm_to_pay">Zapłać %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Wykorzystaj pozostałe Mi Monety: %s</string>
@@ -658,8 +671,8 @@ Informacje o lokalizacji mogą nie zostać zgłoszone, gdy połączenie sieciowe
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">Skopiowano „%1$s” do schowka.</string>
     <string name="privacy_and_agreement">Warunki użytkowania</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">Witamy w Znajdź urządzenie! Możesz używać tej usługi do lokalizowania, blokowania lub usuwania danych z urządzenia, jeśli zostanie utracone.</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">Witamy w Znajdź urządzenie! Możesz używać tej usługi do lokalizowania, blokowania lub usuwania danych z urządzenia, jeśli zostanie utracone.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">Witamy w Znajdź urządzenie! Aplikacja umożliwia lokalizowanie, śledzenie i blokowanie zagubionego urządzenia. Możesz także anonimowo pomóc innym użytkownikom zlokalizować ich urządzenia Xiaomi.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">Witamy w Znajdź urządzenie! Aplikacja umożliwia lokalizowanie, śledzenie i blokowanie zagubionego urządzenia. Możesz także anonimowo pomóc innym użytkownikom zlokalizować ich urządzenia Xiaomi.</string>
     <string name="privacy_dialog_sync_all_purpose_china">Witamy w usługach Chmury Xiaomi! Możesz używać Chmury Xiaomi do synchronizowania wiadomości, kontaktów, notatek, ustawień przeglądarki, zdjęć i filmów, ustawień sieci WLAN, nagrań, układu ekranu głównego, aplikacji, wydarzeń w kalendarzu, elementów listy blokowanych, historii połączeń i Panelu informacyjnego na wszystkich połączonych urządzeniach.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Witamy w usługach Chmury Xiaomi! Możesz używać Chmury Xiaomi do synchronizowania wiadomości, kontaktów, notatek, ustawień przeglądarki, zdjęć i filmów, ustawień sieci WLAN, nagrań, układu ekranu głównego, aplikacji, wydarzeń w kalendarzu, elementów listy blokowanych, historii połączeń i Panelu informacyjnego na wszystkich połączonych urządzeniach.</string>
     <string name="privacy_dialog_sync_all_purpose_pad">Witamy w usługach Chmury Xiaomi! Możesz używać tej aplikacji do synchronizowania wiadomości, kontaktów, notatek, elementów przeglądarki, albumów w chmurze, muzyki, kalendarza, listy blokowanych i historii połączeń z chmurą.</string>

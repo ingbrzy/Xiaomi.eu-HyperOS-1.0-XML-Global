@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">Спочатку увімкніть функцію \"Завжди активний екран\" у Налаштуваннях</string>
     <string name="apply_theme_with_ringtones">Застосовувати з мелодією</string>
     <string name="apply_wallpaper_after_three_theme">Зараз ви використовуєте сторонню тему. Якщо ви зміните шпалери на екрані блокування, це може призвести до відновлення стилю за замовчуванням для годинника Екрана блокування. Змінити шпалери?</string>
+    <string name="apply_wallpaper_dialog_title">Застосувати шпалери</string>
     <string name="apply_wallpaper_notice">Увага</string>
     <string name="apply_wallpaper_notice_cancel">Скасувати</string>
     <string name="apply_wallpaper_notice_content">"Тема, яка застосована в даний час, містить модуль екрана блокування, який можна налаштовувати та який може перешкоджати внесенню вами змін, пов'язаних з екраном блокування."</string>
     <string name="apply_wallpaper_notice_lockscreen">Поточна тема містить користувальницький екран блокування. Він буде замінений на екран блокування за замовчуванням, якщо ви встановите ці шпалери. Ви дійсно хочете встановити їх?</string>
     <string name="apply_wallpaper_notice_still_apply">Застосувати</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Зараз ви використовуєте набір шпалер. Якщо ви застосуєте нову тему, шпалери на екрані блокування та на робочому столі будуть замінені, а також буде відновлено попередній стиль активного екрана. Застосувати?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Зараз ви використовуєте Супершпалери. Якщо ви виберете нові шпалери, вони будуть застосовані як на робочому столі, так і на екрані блокування, а також буде відновлено попереднє значення параметра \"Завжди активний екран\". Застосувати шпалери?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">Зараз ви використовуєте набір шпалер. Якщо ви застосуєте нову тему, шпалери на екрані блокування та на робочому столі будуть замінені. Застосувати?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Зараз ви використовуєте Супершпалери. Якщо ви виберете нові шпалери, вони будуть застосовані як на робочому столі, так і на екрані блокування. Застосувати шпалери?</string>
     <string name="aqi_format">ІЯП %s</string>
     <string name="aqi_format_desc">Індекс якості повітря: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">Не вдалося підключитися до мережі. Перевірте налаштування та повторіть спробу.</string>
     <string name="card_retry">Повторити спробу</string>
     <string name="carefully_chosen_wallpaper">Вибір редактора</string>
+    <string name="carousel_no_set_wallpaper_effects">Неможливо встановити ефекти, коли увімкнено \"Карусель шпалер\"</string>
     <string name="change_host_hint">Змінити хост</string>
     <string name="change_wallpaper">Шпалери</string>
     <string name="channel_featured_page">Рекомендовані</string>
@@ -147,7 +151,12 @@
     <string name="clearable_edittext_clear_description">Очистити</string>
     <string name="close">Закрити</string>
     <string name="columbus_ad_flag_text">Реклама</string>
+    <string name="columbus_reward_style_access">Детальніше</string>
+    <string name="columbus_reward_style_close_cancel">Вийти</string>
+    <string name="columbus_reward_style_close_desc">Перегляньте відео, щоб отримати винагороду. Продовжити?</string>
+    <string name="columbus_reward_style_speed_confirm">Продовжити</string>
     <string name="columbus_skip_ad">Пропустити</string>
+    <string name="columbus_skip_ad_time">Пропустити (%d)</string>
     <string name="come_and_choose_wallpaper">Вибирайте із безлічі чудових шпалер</string>
     <string name="common_google_play_services_enable_button">Увімкнути</string>
     <string name="common_google_play_services_enable_text">Додаток %1$s не працюватиме, якщо не ввімкнути сервіси Google Play.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Ранок</string>
     <string name="editor_apply_message">"Ця функція використовується розробниками для налагодження. Тема за замовчуванням буде автоматично перезапущена через деякий час. Шлях до файлу поточної теми: "</string>
     <string name="editor_apply_toast">Вручну виберіть temp.mtz у кореневому каталозі</string>
+    <string name="effect_home">Ефекти на робочому столі</string>
+    <string name="effect_lock">Ефекти екрана блокування</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Введіть адресу ел. пошти</string>
     <string name="eras_ad">н. е.</string>
@@ -422,6 +433,7 @@
     <string name="later">Не зараз</string>
     <string name="latest_wallpaper">Нові</string>
     <string name="limit_discount">Обмежена пропозиція</string>
+    <string name="linked_wallpaper">Набори шпалери</string>
     <string name="live_wallpaper">Живі шпалери</string>
     <string name="live_wallpapers">Живі шпалери</string>
     <string name="loading">Секунду…</string>
@@ -650,14 +662,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Більше не показувати</string>
     <string name="not_set">Не налаштовано</string>
+    <string name="not_support_subtitle">"Зв'яжіться зі службою ІТ-підтримки вашої організації або змініть акаунт"</string>
+    <string name="not_support_title">Неможливо використовувати Теми під час використання робочого профілю</string>
     <string name="notifications_permission_confirm">Дозволити</string>
     <string name="notifications_permission_decline">Не дозволяти</string>
     <string name="notifications_permission_title">Дозволити додатку надсилати вам сповіщення?</string>
     <string name="notify_style">Ефекти сповіщення</string>
-    <string name="offline_notification_text">Натисніть, щоб відкрити оголошення</string>
-    <string name="offline_notification_title">Перегляньте оголошення, яке ви зберегли в режимі офлайн</string>
+    <string name="offline_dialog_image_description">Значок</string>
+    <string name="offline_dialog_text">"Дякуємо, що зацікавилися.
+Ми поділимося додатковою інформацією, щойно ви підключитеся до Інтернету."</string>
+    <string name="offline_notification_title">Ви знову в мережі! Продовжуйте перегляд із місця де зупинились</string>
+    <string name="offline_notification_title_with_advertiser">Ви знову в мережі! Продовжуйте знайомитися з компанією %s</string>
     <string name="offline_opt_in_confirm">OK</string>
-    <string name="offline_opt_in_confirmation">Ви отримаєте сповіщення з посиланням, коли знову будете в мережі</string>
     <string name="offline_opt_in_decline">Не потрібно</string>
     <string name="offline_opt_in_message">Ми надішлемо сповіщення з посиланням на сайт рекламодавця.</string>
     <string name="offline_opt_in_title">Відкрийте оголошення, коли знову будете в мережі.</string>
@@ -679,6 +695,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">Не пропустіть їх!</string>
     <string name="ota_theme_default_push_content2">Показати наші рекомендації</string>
     <string name="ota_theme_default_push_title">Нові теми на підході</string>
+    <string name="out_wallpaper_list">Шпалери зовнішнього екрана</string>
     <string name="password_toggle_content_description">Показувати пароль</string>
     <string name="pause_all">Призупинити все</string>
     <string name="pay_online">Оплата онлайн</string>
@@ -975,13 +992,12 @@ mm"</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="scroll_switch">"Проведіть для перемикання між об'єктами"</string>
-    <string name="sdcard_not_mounted_dialog_message">"Вставте SD-карту.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">SD-карта не знайдена</string>
     <string name="search_color">Колір</string>
     <string name="search_hint_header_text">Популярні</string>
     <string name="search_menu_title">Пошук</string>
     <string name="search_sort">Сортувати за</string>
+    <string name="search_update_guide_bubble">Нове</string>
+    <string name="search_update_guide_text">Спробуйте абсолютно нові функції пошуку</string>
     <string name="select_all">Вибрати все</string>
     <string name="selected_resource_file_invalid">Вибраний файл не підтримується</string>
     <string name="send">Надіслати</string>
@@ -1035,12 +1051,14 @@ mm"</string>
     <string name="system_aod_dialog_message">Увімкніть функцію \"Завжди активний екран\", щоб скористатися цією функцією.</string>
     <string name="system_aod_dialog_positive_button">Налаштування</string>
     <string name="system_aod_dialog_title">Завжди активний екран</string>
+    <string name="system_personalize_title">Персоналізація</string>
     <string name="system_phone">Виклики</string>
     <string name="system_precust">Предвстановлені</string>
     <string name="text_billing_info">Платіжна інформація</string>
     <string name="text_cancel_subscription_service">Скасувати цю підписку зараз?</string>
     <string name="text_content_update">Новий контент кожного дня</string>
     <string name="text_free_trial">Спробувати безкоштовно</string>
+    <string name="text_local_push_check">Перегляд</string>
     <string name="text_pay_monthly" formatted="false">Починаючи з %s, автоматично продовжується за %s/місяць до скасування</string>
     <string name="text_pay_weekly" formatted="false">Починаючи з %s, автоматично продовжується за %s/тиждень до скасування</string>
     <string name="text_pay_yearly" formatted="false">Починаючи з %s, автоматично продовжується за %s/рік до скасування</string>

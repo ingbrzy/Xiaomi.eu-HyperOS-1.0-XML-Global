@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">Schalte erst \"Immer eingeschaltetes Display\" in den Einstellungen ein</string>
     <string name="apply_theme_with_ringtones">Themenklingelton verwenden</string>
     <string name="apply_wallpaper_after_three_theme">Du verwendest gerade ein Thema eines Drittanbieters. Wenn du dein Sperrbildschirm-Hintergrundbild änderst, könnte dies bewirken, dass der Uhr-Stil des Sperrbildschirms auf die Standardeinstellung zurückgesetzt wird. Jetzt anwenden?</string>
+    <string name="apply_wallpaper_dialog_title">Hintergrundbild anwenden</string>
     <string name="apply_wallpaper_notice">Achtung</string>
     <string name="apply_wallpaper_notice_cancel">Abbruch</string>
     <string name="apply_wallpaper_notice_content">Das aktuell genutzte Thema enthält ein benutzerdefiniertes Sperrbildschirm-Modul, das dich daran hindern könnte, Anpassungen am Sperrbildschirm vorzunehmen.</string>
     <string name="apply_wallpaper_notice_lockscreen">Dein aktuelles Design enthält einen benutzerdefinierten Sperrbildschirm. Wir werden diesen mit den Standard-Sperrbildschirm ersetzen, wenn du diesen Hintergrund anwendest. Trotzdem anwenden?</string>
     <string name="apply_wallpaper_notice_still_apply">Anwenden</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Du verwendest jetzt ein Hintergrundbild-Set. Wenn du ein neues Thema anwendest, werden sowohl das Hintergrundbild des Sperrbildschirms als auch das Hintergrundbild des Startbildschirms ersetzt, und das immer eingeschaltetem Display wird auf den vorherigen Stil zurückgesetzt. Trotzdem anwenden?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Du verwendest momentan ein Super-Hintergrundbild. Wenn du ein neues Hintergrundbild auswählst, wird es auf deinen Start- und deinen Sperrbildschirm angewandt und dein immer eingeschaltetes Display wird auf die vorherigen Einstellungen zurückgesetzt. Jetzt anwenden?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">Du verwendest jetzt ein Hintergrundbild-Set. Wenn du ein neues Thema anwendest, werden sowohl das Hintergrundbild des Sperrbildschirms als auch das Hintergrundbild des Startbildschirms ersetzt. Trotzdem anwenden?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Du verwendest momentan ein Super-Hintergrundbild. Wenn du ein neues Hintergrundbild auswählst, wird es auf deinen Start- und deinen Sperrbildschirm angewandt. Jetzt einstellen?</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">Luftqualitätsindex: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">Es konnte keine Verbindung zum Netzwerk hergestellt werden. Überprüfe deine Netzwerkeinstellungen und wiederhole den Vorgang.</string>
     <string name="card_retry">Wiederholen</string>
     <string name="carefully_chosen_wallpaper">Editorauswahl</string>
+    <string name="carousel_no_set_wallpaper_effects">Effekte können nicht festgelegt werden, wenn das Hintergrundbild-Karussell an ist</string>
     <string name="change_host_hint">Host ändern</string>
     <string name="change_wallpaper">Hintergrund</string>
     <string name="channel_featured_page">Empfohlen</string>
@@ -147,7 +151,12 @@
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="close">Schließen</string>
     <string name="columbus_ad_flag_text">Werbung</string>
+    <string name="columbus_reward_style_access">Mehr erfahren</string>
+    <string name="columbus_reward_style_close_cancel">Verlassen</string>
+    <string name="columbus_reward_style_close_desc">Wenn du das Video zu Ende anschaust, erhältst du eine Prämie. Weiter ansehen?</string>
+    <string name="columbus_reward_style_speed_confirm">Fortfahren</string>
     <string name="columbus_skip_ad">Überspringen</string>
+    <string name="columbus_skip_ad_time">Überspringen (%d)</string>
     <string name="come_and_choose_wallpaper">Wähle aus Tausenden von großartigen Hintergrundbildern</string>
     <string name="common_google_play_services_enable_button">Aktivieren</string>
     <string name="common_google_play_services_enable_text">%1$s funktioniert erst nach der Aktivierung der Google Play-Dienste.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Morgen</string>
     <string name="editor_apply_message">"Diese Funktion wird von Designern zum Debuggen verwendet. Das Standardtheme wird nach einer Weile automatisch wiederhergestellt. Dateipfad des aktuellen Themes: "</string>
     <string name="editor_apply_toast">temp.mtz im Stammverzeichnis manuell auswählen</string>
+    <string name="effect_home">Startbildschirmeffekte</string>
+    <string name="effect_lock">Sperrbildschirmeffekte</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Gib eine E-Mail-Adresse ein</string>
     <string name="eras_ad">n. Chr.</string>
@@ -425,6 +436,7 @@
     <string name="later">Jetzt nicht</string>
     <string name="latest_wallpaper">Neu</string>
     <string name="limit_discount">Angebot für begrenzte Zeit</string>
+    <string name="linked_wallpaper">Hintergrundbild-Sets</string>
     <string name="live_wallpaper">Bewegte Hintergründe</string>
     <string name="live_wallpapers">Live Hintergründe</string>
     <string name="loading">Einen Moment…</string>
@@ -653,14 +665,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Nicht erneut anzeigen</string>
     <string name="not_set">Nicht festgelegt</string>
+    <string name="not_support_subtitle">Wende dich an den IT-Support deines Unternehmens oder wechsle das Konto</string>
+    <string name="not_support_title">Themen können nicht genutzt werden, wenn ein Arbeitsprofil verwendet wird</string>
     <string name="notifications_permission_confirm">Zulassen</string>
     <string name="notifications_permission_decline">Nicht zulassen</string>
     <string name="notifications_permission_title">App-Benachrichtigungen zulassen?</string>
     <string name="notify_style">Benachrichtigungseffekt</string>
-    <string name="offline_notification_text">Tippen, um die Werbung zu öffnen</string>
-    <string name="offline_notification_title">Werbung anzeigen, die du gespeichert hast, während du offline warst</string>
+    <string name="offline_dialog_image_description">Symbol</string>
+    <string name="offline_dialog_text">"Vielen Dank für dein Interesse.
+Du erhältst weitere Informationen, sobald du wieder online bist."</string>
+    <string name="offline_notification_title">Du bist wieder online! Machen wir da weiter, wo wir aufgehört haben</string>
+    <string name="offline_notification_title_with_advertiser">Du bist wieder online! Weitere Informationen zu %s</string>
     <string name="offline_opt_in_confirm">OK</string>
-    <string name="offline_opt_in_confirmation">Du bekommst eine Benachrichtigung mit dem Link, wenn du wieder online bist</string>
     <string name="offline_opt_in_decline">Nein danke</string>
     <string name="offline_opt_in_message">Wir senden dir eine Benachrichtigung mit einem Link zur Website des Werbetreibenden.</string>
     <string name="offline_opt_in_title">Werbung öffnen, wenn du wieder online bist.</string>
@@ -682,6 +698,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">Verpasse sie nicht!</string>
     <string name="ota_theme_default_push_content2">Sieh dir unsere Empfehlungen an</string>
     <string name="ota_theme_default_push_title">Neue Themen sind in Arbeit</string>
+    <string name="out_wallpaper_list">Hintergrundbild äußerer Bildschirm</string>
     <string name="password_toggle_content_description">Passwort anzeigen</string>
     <string name="pause_all">Alle anhalten</string>
     <string name="pay_online">Online-Zahlung</string>
@@ -978,13 +995,12 @@ mm"</string>
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">Sa</string>
     <string name="scroll_switch">Für Wechsel zwischen Elementen wischen</string>
-    <string name="sdcard_not_mounted_dialog_message">"Lege die SD Karte jetzt ein. 
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">Keine SD Karte gefunden</string>
     <string name="search_color">Farbe</string>
     <string name="search_hint_header_text">Beliebte Tags</string>
     <string name="search_menu_title">Suche</string>
     <string name="search_sort">Sortieren nach</string>
+    <string name="search_update_guide_bubble">Neu</string>
+    <string name="search_update_guide_text">Erlebe die völlig neuen Suchfunktionen</string>
     <string name="select_all">Alle auswählen</string>
     <string name="selected_resource_file_invalid">Ausgewählte Datei fehlerhaft.</string>
     <string name="send">Senden</string>
@@ -1038,12 +1054,14 @@ mm"</string>
     <string name="system_aod_dialog_message">Schalte \"Immer eingeschaltetes Display\" ein, um diese Funktion verwenden zu können.</string>
     <string name="system_aod_dialog_positive_button">Einstellungen</string>
     <string name="system_aod_dialog_title">Immer eingeschaltetes Display</string>
+    <string name="system_personalize_title">Personalisierung</string>
     <string name="system_phone">Anrufe</string>
     <string name="system_precust">Vorinstalliert</string>
     <string name="text_billing_info">Rechnungsinformationen</string>
     <string name="text_cancel_subscription_service">Dieses Abonnement jetzt kündigen?</string>
     <string name="text_content_update">Täglich neue Inhalte</string>
     <string name="text_free_trial">Kostenlos testen</string>
+    <string name="text_local_push_check">Anzeigen</string>
     <string name="text_pay_monthly" formatted="false">Ab %s, verlängert sich automatisch für %s/Monat bis zur Kündigung</string>
     <string name="text_pay_weekly" formatted="false">Ab %s, verlängert sich automatisch für %s/Woche bis zur Kündigung</string>
     <string name="text_pay_yearly" formatted="false">Ab %s, verlängert sich automatisch für %s/Jahr bis zur Kündigung</string>

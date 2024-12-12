@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">Encienda la Pantalla siempre activa en Ajustes primero</string>
     <string name="apply_theme_with_ringtones">Aplicar tonos del tema</string>
     <string name="apply_wallpaper_after_three_theme">Está usando un tema de terceros. Si cambia su fondo de Pantalla de bloqueo puede provocar que el estilo del reloj de la Pantalla de bloqueo se restaure al predeterminado. ¿Aplicar ahora?</string>
+    <string name="apply_wallpaper_dialog_title">Aplicar fondo de pantalla</string>
     <string name="apply_wallpaper_notice">Atención</string>
     <string name="apply_wallpaper_notice_cancel">Cancelar</string>
     <string name="apply_wallpaper_notice_content">El tema aplicado actualmente contiene un módulo de Pantalla de bloqueo personalizado que puede impedirle realizar ajustes relacionados con la Pantalla de bloqueo.</string>
     <string name="apply_wallpaper_notice_lockscreen">Su tema actual contiene una pantalla de bloqueo personalizada. Lo reemplazaremos con la pantalla de bloqueo predeterminada si aplica este fondo de pantalla. ¿Aplicar de todos modos?</string>
     <string name="apply_wallpaper_notice_still_apply">Aplicar</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Ahora está usando un set de fondos de pantalla. Si aplica un tema nuevo, se reemplazarán tanto los fondos de pantalla de la Pantalla de bloqueo como los de la Pantalla de inicio y la Pantalla siempre activa será restaurada al estilo anterior. ¿Aplicarlo de todas formas?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Está usando un Superfondo de panatalla. Si seleccionó un nuevo fondo, este aparecerá en su Pantalla de inicio y Pantalla de bloqueo, y los ajustes previos de la Pantalla siempre activa serán restaurados. ¿Aplicar ahora?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">Ahora está usando un set de fondos de pantalla. Si aplica un tema nuevo, se reemplazarán tanto los fondos de pantalla de la Pantalla de bloqueo como los de la Pantalla de inicio. ¿Aplicarlo de todas formas?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Está usando un Superfondo de pantalla. Si seleccionó un nuevo fondo de pantalla, este aparecerá en su Pantalla de inicio y Pantalla de bloqueo. ¿Aplicar ahora?</string>
     <string name="aqi_format">ICA %s</string>
     <string name="aqi_format_desc">Índice de calidad del aire: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">No se pudo conectar a la red. Compruebe sus ajustes de red y vuelva a intentarlo.</string>
     <string name="card_retry">Vuelva a intentarlo</string>
     <string name="carefully_chosen_wallpaper">Selección del editor</string>
+    <string name="carousel_no_set_wallpaper_effects">No se pueden establecer efectos cuando el Carrusel de fondos de pantalla está activado</string>
     <string name="change_host_hint">Cambiar host</string>
     <string name="change_wallpaper">Fondo de pantalla</string>
     <string name="channel_featured_page">Destacado</string>
@@ -147,7 +151,12 @@
     <string name="clearable_edittext_clear_description">Borrar</string>
     <string name="close">Cerrar</string>
     <string name="columbus_ad_flag_text">ANUNCIO</string>
+    <string name="columbus_reward_style_access">Saber más</string>
+    <string name="columbus_reward_style_close_cancel">Salir</string>
+    <string name="columbus_reward_style_close_desc">Termina de ver el video para obtener una recompensa. ¿Continuar viendo?</string>
+    <string name="columbus_reward_style_speed_confirm">Continuar</string>
     <string name="columbus_skip_ad">Saltar</string>
+    <string name="columbus_skip_ad_time">Saltar (%d)</string>
     <string name="come_and_choose_wallpaper">Elija de entre miles de fondos de pantalla increíbles</string>
     <string name="common_google_play_services_enable_button">Habilitar</string>
     <string name="common_google_play_services_enable_text">%1$s no funcionará a menos que habilites los servicios de Google Play.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Mañana</string>
     <string name="editor_apply_message">"Esta función la usan los diseñadores para depurar. El tema predeterminado se restaurará automáticamente en un momento. Ruta del archivo del tema actual: "</string>
     <string name="editor_apply_toast">Seleccione manualmente temp.mtz en el directorio raíz</string>
+    <string name="effect_home">Efectos de la Pantalla de inicio</string>
+    <string name="effect_lock">Efectos de la Pantalla de bloqueo</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Ingrese una dirección de correo electrónico</string>
     <string name="eras_ad">d.C</string>
@@ -422,6 +433,7 @@
     <string name="later">Ahora no</string>
     <string name="latest_wallpaper">Nuevo</string>
     <string name="limit_discount">Oferta limitada</string>
+    <string name="linked_wallpaper">Sets de fondos de pantalla</string>
     <string name="live_wallpaper">Fondo animado</string>
     <string name="live_wallpapers">Fondos de pantalla animados</string>
     <string name="loading">Un momento…</string>
@@ -650,14 +662,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">No volver a mostrar</string>
     <string name="not_set">Sin definir</string>
+    <string name="not_support_subtitle">Comuníquese con el departamento de TI de su organización o cambie de cuenta</string>
+    <string name="not_support_title">No se puede usar Temas con un perfil de trabajo</string>
     <string name="notifications_permission_confirm">Permitir</string>
     <string name="notifications_permission_decline">No permitir</string>
-    <string name="notifications_permission_title">¿Quieres permitir que la app te envíe notificaciones?</string>
+    <string name="notifications_permission_title">¿Permitir que la app te envíe notificaciones?</string>
     <string name="notify_style">Efectos con notificación</string>
-    <string name="offline_notification_text">Presiona para abrir el anuncio</string>
-    <string name="offline_notification_title">Mira el anuncio que guardaste cuando no tenías conexión</string>
+    <string name="offline_dialog_image_description">Ícono</string>
+    <string name="offline_dialog_text">"Gracias por tu interés.
+Te compartiremos más información cuando vuelvas a estar en línea."</string>
+    <string name="offline_notification_title">Estás en línea nuevamente. Retomemos desde donde lo dejamos</string>
+    <string name="offline_notification_title_with_advertiser">Estás en línea nuevamente. Sigue aprendiendo sobre %s</string>
     <string name="offline_opt_in_confirm">Aceptar</string>
-    <string name="offline_opt_in_confirmation">Recibirás una notificación con el vínculo cuando vuelvas a conectarte a Internet</string>
     <string name="offline_opt_in_decline">No, gracias</string>
     <string name="offline_opt_in_message">Te enviaremos una notificación con un vínculo al sitio del anunciante.</string>
     <string name="offline_opt_in_title">Abre el anuncio cuando vuelvas a conectarte a Internet</string>
@@ -679,6 +695,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">¡No se pierdas estos!</string>
     <string name="ota_theme_default_push_content2">Mire nuestras recomendaciones</string>
     <string name="ota_theme_default_push_title">Se avecinan nuevos temas</string>
+    <string name="out_wallpaper_list">Fondo de la pantalla exterior</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="pause_all">Pausar todo</string>
     <string name="pay_online">Pago en línea</string>
@@ -975,13 +992,12 @@ mm"</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sáb.</string>
     <string name="scroll_switch">Deslice para cambiar entre elementos</string>
-    <string name="sdcard_not_mounted_dialog_message">"Inserta una SD ahora.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">No se ha detectado tarjeta SD</string>
     <string name="search_color">Color</string>
     <string name="search_hint_header_text">Búsqueda rápida</string>
     <string name="search_menu_title">Buscar</string>
     <string name="search_sort">Ordenar por</string>
+    <string name="search_update_guide_bubble">Nuevo</string>
+    <string name="search_update_guide_text">Experimente las nuevas funciones de búsqueda</string>
     <string name="select_all">Seleccionar todo</string>
     <string name="selected_resource_file_invalid">No puede usarse el archivo de recurso seleccionado</string>
     <string name="send">Enviar</string>
@@ -1035,12 +1051,14 @@ mm"</string>
     <string name="system_aod_dialog_message">Active Pantalla siempre activa para poder usar esta función.</string>
     <string name="system_aod_dialog_positive_button">Configuración</string>
     <string name="system_aod_dialog_title">Pantalla siempre activa</string>
+    <string name="system_personalize_title">Personalización</string>
     <string name="system_phone">Llamadas</string>
     <string name="system_precust">Preinstalado</string>
     <string name="text_billing_info">Información de facturación</string>
     <string name="text_cancel_subscription_service">¿Cancelar ahora esta suscripción?</string>
     <string name="text_content_update">Nuevo contenido diario</string>
     <string name="text_free_trial">Probar gratis</string>
+    <string name="text_local_push_check">Ver</string>
     <string name="text_pay_monthly" formatted="false">A partir del %s, se renueva automáticamente por %s/mes hasta que se cancele</string>
     <string name="text_pay_weekly" formatted="false">A partir del %s, se renueva automáticamente por %s/semana hasta que se cancele</string>
     <string name="text_pay_yearly" formatted="false">A partir del %s, se renueva automáticamente por %s/año hasta que se cancele</string>

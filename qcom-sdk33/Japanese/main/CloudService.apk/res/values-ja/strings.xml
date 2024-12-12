@@ -188,9 +188,10 @@
     <string name="find_device_gdpr_prompt">\"デバイスを探す\"をオンにすると、<u><a href="app://com.miui.cloudservice.gdpr.license">プライバシーポリシー</a></u>に同意したことになります。同意を撤回したい場合は、この機能をオフにしてください。</string>
     <string name="find_device_operation_failure_rpc">RPCエラーにより操作を実行できませんでした。</string>
     <string name="find_device_permissions_footer">\"付与\"をタップして、選択したアクセス許可を付与します。</string>
-    <string name="find_device_permissions_header">\"デバイスを探す\"へようこそ！このアプリを使用すると、デバイスを紛失した場合に、デバイスの位置特定、追跡、ロックなどの操作を行うことができます。\"デバイスを探す\"には、次のアクセス許可が必要です。</string>
+    <string name="find_device_permissions_header">\"デバイスを探す\"へようこそ！このアプリを使用すると、デバイスを紛失した場合に、デバイスの位置特定、追跡、ロックなどの操作を行うことができます。また、匿名で他のユーザーの Xiaomi デバイスの位置特定を手伝うこともできます。このアプリが正常に動作するには、以下の権限が必要です。</string>
     <string name="find_device_service_title">デバイスを探す</string>
-    <string name="find_device_status_summary">リモートでデバイスの位置確認やロック、データの消去が可能になります</string>
+    <string name="find_device_status_summary">"オンにすると、デバイスの位置を特定して追跡したり、リモートでデータを消去したりできます。
+匿名で他のユーザーの Xiaomi デバイスの位置特定を手伝うこともできます。"</string>
     <string name="find_device_status_title_pad">デバイスを探す</string>
     <string name="find_device_status_title_phone">デバイスを探す</string>
     <string name="find_permission_location_summary">このデバイスの位置を特定するため</string>
@@ -413,7 +414,7 @@
     <string name="micloud_last_sync_canceled">同期がキャンセルされました。もう一度お試しください。</string>
     <string name="micloud_main_head_menu_cloud_backup">バックアップ</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">セカンド・スペースでは\"デバイスを探す\"を利用できません。ファースト・スペースでご利用ください。</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">削除したアイテム</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">最近削除したアイテム</string>
     <string name="micloud_main_network_error">ネットワークに接続できません</string>
     <string name="micloud_main_sync_mode_summary">アプリデータをリアルタイムで同期します。この機能をオンにすると、消費電力が増加します。</string>
     <string name="micloud_main_sync_mode_title">クイック同期</string>
@@ -633,6 +634,18 @@
     <string name="noti_quota_low_title_without_button">クラウドストレージが足りません</string>
     <string name="notification_sync_fail_title">パスワードを同期できませんでした</string>
     <string name="notification_update_key_text">パスワードマネージャーのパスコードが変更されました。新しいパスコードを認証してください。</string>
+    <string name="offline_find_action_open">オンにする</string>
+    <string name="offline_find_checkbox_pref_summary_1">ネットワークに接続していないときでもこのデバイスの位置を特定し、他のオフラインデバイスの位置を表示します。&lt;br/>&lt;font color=#0f84ff>もっと詳しく知る&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">電源がオフになっているときやネットワークに接続されていないときでもこのデバイスの位置を特定し、他のオフラインデバイスの位置を表示します。&lt;br/>&lt;font color=#0f84ff>もっと詳しく知る&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">オフライン位置情報</string>
+    <string name="offline_find_doing_disable">オフライン位置情報をオフにしています…</string>
+    <string name="offline_find_doing_enable">オフライン位置情報をオンにしています…</string>
+    <string name="offline_find_function">オフライン位置情報</string>
+    <string name="offline_find_msg_to_open_1">このデバイスでオフライン位置情報をオンにすると、他のオフラインデバイスの位置情報を表示できるようになります。</string>
+    <string name="offline_find_msg_to_open_2">このデバイスが信頼できるものであることを認証し、オフライン位置情報をオンにして、他のオフラインデバイスの位置を表示できるようにします。</string>
+    <string name="offline_find_msg_to_open_3">データのセキュリティを保護するために、オフライン位置情報をオンにする前に、このデバイスが信頼できるものであることを認証してください。</string>
+    <string name="offline_find_title_to_open_1">オフライン位置情報をオンにする</string>
+    <string name="offline_find_title_to_open_2">このデバイスを認証</string>
     <string name="open_service_title">オンにする</string>
     <string name="pay_info_dialog_confirm_to_pay">%sを支払う</string>
     <string name="pay_info_dialog_mibi_balance_prefix">残りのMi コインを使用：%s</string>
@@ -658,8 +671,8 @@
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">「%1$s」をクリップボードにコピーしました。</string>
     <string name="privacy_and_agreement">使用条件</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">\"デバイスを探す\"へようこそ！このサービスを使用すると、デバイスを紛失した際にデバイスの位置特定やロック、データの消去を実行できます。</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">\"デバイスを探す\"へようこそ！このサービスを使用すると、デバイスを紛失した際にデバイスの位置特定やロック、データの消去を実行できます。</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">\"デバイスを探す\"へようこそ！このアプリを使用すると、デバイスを紛失した場合に、デバイスの位置特定、追跡、ロックなどの操作を行うことができます。また、匿名で他のユーザーの Xiaomi デバイスの位置特定を手伝うこともできます。</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">\"デバイスを探す\"へようこそ！このアプリを使用すると、デバイスを紛失した場合に、デバイスの位置特定、追跡、ロックなどの操作を行うことができます。また、匿名で他のユーザーの Xiaomi デバイスの位置特定を手伝うこともできます。</string>
     <string name="privacy_dialog_sync_all_purpose_china">Xiaomi Cloud サービスへようこそ！Xiaomi Cloud を使用すると、接続されているすべてのデバイスで、メッセージ、連絡先、メモ、ブラウザー設定、写真とビデオ、WLAN設定、録音、ホーム画面のレイアウト、アプリ、カレンダーのイベント、ブロックリストのアイテム、通話履歴、アプリ保管庫を同期できます。</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Xiaomi Cloud サービスへようこそ！Xiaomi Cloud を使用すると、接続されているすべてのデバイスで、メッセージ、連絡先、メモ、ブラウザー設定、写真とビデオ、WLAN設定、録音、ホーム画面のレイアウト、アプリ、カレンダーのイベント、ブロックリストのアイテム、通話履歴、アプリ保管庫を同期できます。</string>
     <string name="privacy_dialog_sync_all_purpose_pad">Xiaomi Cloud サービスへようこそ！このアプリを使用すると、メッセージ、連絡先、メモ、ブラウザーアイテム、クラウドアルバム、音楽、カレンダー、ブロックリスト、通話履歴をクラウドに同期できます。</string>

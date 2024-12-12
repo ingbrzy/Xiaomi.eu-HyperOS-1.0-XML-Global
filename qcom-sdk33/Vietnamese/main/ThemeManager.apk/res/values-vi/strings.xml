@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">Bật Always-on display trong Cài đặt trước</string>
     <string name="apply_theme_with_ringtones">Sử dụng nhạc chuông chủ đề</string>
     <string name="apply_wallpaper_after_three_theme">Bạn hiện đang sử dụng chủ đề của bên thứ ba. Nếu bạn thay đổi hình nền Màn hình khóa, điều này có thể khiến kiểu đồng hồ trên Màn hình khóa khôi phục về mặc định. Áp dụng ngay?</string>
+    <string name="apply_wallpaper_dialog_title">Áp dụng hình nền</string>
     <string name="apply_wallpaper_notice">Chú ý</string>
     <string name="apply_wallpaper_notice_cancel">Hủy</string>
     <string name="apply_wallpaper_notice_content">Chủ đề hiện được áp dụng chứa mô-đun Màn hình khóa tùy chỉnh có thể ngăn bạn thực hiện các điều chỉnh liên quan đến Màn hình khóa.</string>
     <string name="apply_wallpaper_notice_lockscreen">Chủ đề hiện tại chứa Màn hình khóa tùy chỉnh. Chúng tôi sẽ thay thế bằng Màn hình khóa mặc định nếu bạn áp dụng hình nền này. Vẫn áp dụng?</string>
     <string name="apply_wallpaper_notice_still_apply">Áp dụng</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Bạn đang sử dụng một bộ hình nền. Nếu bạn áp dụng chủ đề mới, cả hình nền Màn hình khóa và Màn hình chính sẽ được thay thế và Always-on display sẽ được khôi phục về kiểu trước đó. Vẫn áp dụng?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Bạn hiện đang sử dụng Siêu hình nền. Nếu bạn chọn hình nền mới, hình nền đó sẽ được áp dụng cho cả Màn hình chính và Màn hình khóa, đồng thời Always-on display sẽ được khôi phục về cài đặt trước. Áp dụng ngay?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">Bạn đang sử dụng một bộ hình nền. Nếu bạn áp dụng chủ đề mới, cả hình nền Màn hình khóa và Màn hình chính sẽ được thay thế. Vẫn áp dụng?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Bạn hiện đang sử dụng Siêu hình nền. Nếu bạn chọn hình nền mới, hình nền đó sẽ được áp dụng cho cả Màn hình chính và Màn hình khóa. Áp dụng ngay?</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">Chỉ số chất lượng không khí: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">Không thể kết nối mạng. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
     <string name="card_retry">Hãy thử lại</string>
     <string name="carefully_chosen_wallpaper">Lựa chọn của biên tập viên</string>
+    <string name="carousel_no_set_wallpaper_effects">Không thể đặt hiệu ứng khi Khóa tạp chí đang bật</string>
     <string name="change_host_hint">Thay đổi máy chủ</string>
     <string name="change_wallpaper">Hình nền</string>
     <string name="channel_featured_page">Đặc sắc</string>
@@ -147,7 +151,12 @@
     <string name="clearable_edittext_clear_description">Xóa</string>
     <string name="close">Đóng</string>
     <string name="columbus_ad_flag_text">QC</string>
+    <string name="columbus_reward_style_access">Tìm hiểu thêm</string>
+    <string name="columbus_reward_style_close_cancel">Thoát</string>
+    <string name="columbus_reward_style_close_desc">Xem hết video để nhận phần thưởng. Tiếp tục xem?</string>
+    <string name="columbus_reward_style_speed_confirm">Tiếp tục</string>
     <string name="columbus_skip_ad">Bỏ qua</string>
+    <string name="columbus_skip_ad_time">Bỏ qua (%d)</string>
     <string name="come_and_choose_wallpaper">Chọn từ hàng nghìn hình nền tuyệt vời</string>
     <string name="common_google_play_services_enable_button">Bật</string>
     <string name="common_google_play_services_enable_text">%1$s sẽ không hoạt động nếu bạn không bật dịch vụ của Google Play.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Buổi sáng</string>
     <string name="editor_apply_message">"Tính năng này được sử dụng để gỡ lỗi bởi các nhà thiết kế. Chủ đề mặc định sẽ tự động được khôi phục sau một thời gian. Đường dẫn tập tin của chủ đề hiện tại: "</string>
     <string name="editor_apply_toast">Chọn thủ công temp.mtz trong thư mục gốc</string>
+    <string name="effect_home">Hiệu ứng Màn hình chính</string>
+    <string name="effect_lock">Hiệu ứng Màn hình khóa</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Nhập địa chỉ email</string>
     <string name="eras_ad">Sau Công Nguyên</string>
@@ -421,7 +432,8 @@
     <string name="last_choice">Được sử dụng lần cuối</string>
     <string name="later">Lần tới</string>
     <string name="latest_wallpaper">Mới</string>
-    <string name="limit_discount">Ưu đãi giới hạn</string>
+    <string name="limit_discount">Ưu đãi có hạn</string>
+    <string name="linked_wallpaper">Bộ hình nền</string>
     <string name="live_wallpaper">H.nền động</string>
     <string name="live_wallpapers">Hình nền động</string>
     <string name="loading">Vui lòng chờ…</string>
@@ -650,14 +662,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Không hiển thị lại</string>
     <string name="not_set">Chưa đặt</string>
+    <string name="not_support_subtitle">Liên hệ với hỗ trợ IT của tổ chức hoặc chuyển đổi tài khoản</string>
+    <string name="not_support_title">Không thể sử dụng Chủ đề khi sử dụng hồ sơ công việc</string>
     <string name="notifications_permission_confirm">Cho phép</string>
     <string name="notifications_permission_decline">Không cho phép</string>
     <string name="notifications_permission_title">Cho phép ứng dụng gửi thông báo cho bạn?</string>
     <string name="notify_style">Hiệu ứng thông báo</string>
-    <string name="offline_notification_text">Nhấn để mở quảng cáo</string>
-    <string name="offline_notification_title">Xem quảng cáo đã lưu khi bạn không có kết nối mạng</string>
+    <string name="offline_dialog_image_description">Biểu tượng</string>
+    <string name="offline_dialog_text">"Cảm ơn bạn đã quan tâm.
+Chúng tôi sẽ chia sẻ nhiều hơn khi bạn kết nối mạng trở lại."</string>
+    <string name="offline_notification_title">Bạn đã kết nối mạng trở lại! Hãy tiếp tục từ thời điểm chúng ta dừng lại lần trước</string>
+    <string name="offline_notification_title_with_advertiser">Bạn đã kết nối mạng trở lại! Tiếp tục tìm hiểu về %s</string>
     <string name="offline_opt_in_confirm">OK</string>
-    <string name="offline_opt_in_confirmation">Bạn sẽ nhận được thông báo kèm theo đường liên kết khi có kết nối mạng trở lại</string>
     <string name="offline_opt_in_decline">Để sau</string>
     <string name="offline_opt_in_message">Chúng tôi sẽ gửi thông báo cho bạn kèm theo đường liên kết đến trang web của nhà quảng cáo.</string>
     <string name="offline_opt_in_title">Mở quảng cáo khi bạn có kết nối mạng trở lại.</string>
@@ -679,6 +695,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">Đừng bỏ lỡ cơ hội khám phá chủ đề thú vị!</string>
     <string name="ota_theme_default_push_content2">Xem kiến nghị của chúng tôi</string>
     <string name="ota_theme_default_push_title">Chủ đề mới sắp ra mắt</string>
+    <string name="out_wallpaper_list">Hình nền màn hình ngoài</string>
     <string name="password_toggle_content_description">Hiển thị mật khẩu</string>
     <string name="pause_all">Tạm dừng tất cả</string>
     <string name="pay_online">Thanh toán trực tuyến</string>
@@ -975,13 +992,12 @@ mm"</string>
     <string name="saturday_short">Th 7</string>
     <string name="saturday_shortest">Th 7</string>
     <string name="scroll_switch">Trượt để chuyển giữa các mục</string>
-    <string name="sdcard_not_mounted_dialog_message">"Lắp thẻ SD bây giờ.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">Không tìm thấy thẻ SD</string>
     <string name="search_color">Màu sắc</string>
     <string name="search_hint_header_text">Từ khóa hot</string>
     <string name="search_menu_title">Tìm kiếm</string>
     <string name="search_sort">Sắp xếp theo</string>
+    <string name="search_update_guide_bubble">Mới</string>
+    <string name="search_update_guide_text">Trải nghiệm các tính năng tìm kiếm hoàn toàn mới</string>
     <string name="select_all">Chọn tất cả</string>
     <string name="selected_resource_file_invalid">Không thể sử dụng tập tin tài nguyên được chọn</string>
     <string name="send">Gửi</string>
@@ -1035,12 +1051,14 @@ mm"</string>
     <string name="system_aod_dialog_message">Bật Always-on display để có thể sử dụng tính năng này.</string>
     <string name="system_aod_dialog_positive_button">Cài đặt</string>
     <string name="system_aod_dialog_title">Always-on display</string>
+    <string name="system_personalize_title">Cá nhân</string>
     <string name="system_phone">Cuộc gọi</string>
     <string name="system_precust">Cài đặt sẵn</string>
     <string name="text_billing_info">Thông tin thanh toán</string>
     <string name="text_cancel_subscription_service">Hủy đăng ký này ngay?</string>
     <string name="text_content_update">Nội dung mới hàng ngày</string>
     <string name="text_free_trial">Thử miễn phí</string>
+    <string name="text_local_push_check">Xem</string>
     <string name="text_pay_monthly" formatted="false">Bắt đầu từ %s, tự động gia hạn với %s/tháng cho đến khi bị hủy</string>
     <string name="text_pay_weekly" formatted="false">Bắt đầu từ %s, tự động gia hạn với %s/tuần cho đến khi bị hủy</string>
     <string name="text_pay_yearly" formatted="false">Bắt đầu từ %s, tự động gia hạn với %s/năm cho đến khi bị hủy</string>

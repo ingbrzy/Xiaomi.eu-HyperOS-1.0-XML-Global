@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">قم أولاً بتشغيل ميزة الشاشة الدائمة من الإعدادات</string>
     <string name="apply_theme_with_ringtones">استخدام نغمات رنين الثيم</string>
     <string name="apply_wallpaper_after_three_theme">أنت تستخدم حاليا ثيم تم توفيره بواسطة جهة خارجية. بعد تغيير خلفية شاشة القفل، ستتم إعادة تعيين نمط ساعة شاشة القفل إلى الوضع الافتراضي. تعيينه الآن؟</string>
+    <string name="apply_wallpaper_dialog_title">تعيين الخلفية</string>
     <string name="apply_wallpaper_notice">تنبيه</string>
     <string name="apply_wallpaper_notice_cancel">إلغاء</string>
     <string name="apply_wallpaper_notice_content">يتضمن الثيم الحالي وحدة شاشة قفل مخصصة تمنعك من إجراء تعديلات على شاشة القفل.</string>
     <string name="apply_wallpaper_notice_lockscreen">يتضمن الثيم الذي تستخدمه حاليًا شاشة قفل مخصصة. سيؤدي تطبيق هذه الخلفية إلى تغيير شاشة القفل الافتراضية. هل ترغب في المتابعة؟</string>
     <string name="apply_wallpaper_notice_still_apply">تعيين</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">أنت تستخدم مجموعة خلفيات الشاشة الآن. إذا قمت بتعيين ثيم جديد، فسيتم استبدال خلفيات شاشة القفل والشاشة الرئيسية. وكذلك سيتم استعادة التنسيق السابق للشاشة الدائمة. هل تريد متابعة التعيين؟</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">أنت تستخدم حاليا خلفيات سوبر. بعد تحديد خلفية جديدة، سيتم استخدام خلفية الشاشة هذه على الشاشة الرئيسية وشاشة القفل، وستتم استعادة الشاشة الدائمة إلى إعداداتها السابقة. تعيينها الآن؟</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">أنت تستخدم مجموعة خلفيات الشاشة الآن. إذا قمت بتعيين ثيم جديد، فسيتم استبدال خلفيات شاشة القفل والشاشة الرئيسية. هل تريد متابعة التعيين؟</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">أنت تستخدم حاليا خلفيات سوبر. بعد تحديد خلفية جديدة، سيتم استخدام خلفية الشاشة هذه على الشاشة الرئيسية وشاشة القفل. تعيينها الآن؟</string>
     <string name="aqi_format">جودة الهواء %s</string>
     <string name="aqi_format_desc">مؤشر جودة الهواء: %s</string>
@@ -133,7 +136,8 @@
     <string name="card_loading">لحظة من فضلك…</string>
     <string name="card_no_network">تعذر الاتصال بالشبكة. تحقق من إعدادات الشبكة ثم حاول مرة أخرى.</string>
     <string name="card_retry">حاول مجددا</string>
-    <string name="carefully_chosen_wallpaper">توصيات المحرر</string>
+    <string name="carefully_chosen_wallpaper">مختارات المحرر</string>
+    <string name="carousel_no_set_wallpaper_effects">لا يمكن تعيين التأثيرات عند تشغيل خلفية كاروسيل</string>
     <string name="change_host_hint">تغيير المضيف</string>
     <string name="change_wallpaper">خلفية الشاشة</string>
     <string name="channel_featured_page">مميزة</string>
@@ -147,7 +151,12 @@
     <string name="clearable_edittext_clear_description">مسح</string>
     <string name="close">إغلاق</string>
     <string name="columbus_ad_flag_text">إعلان</string>
+    <string name="columbus_reward_style_access">معرفة المزيد</string>
+    <string name="columbus_reward_style_close_cancel">خروج</string>
+    <string name="columbus_reward_style_close_desc">أكمل مشاهدة الفيديو لتحصل على المكافأة. متابعة المشاهدة؟</string>
+    <string name="columbus_reward_style_speed_confirm">متابعة</string>
     <string name="columbus_skip_ad">تخطي</string>
+    <string name="columbus_skip_ad_time">تخطي (%d)</string>
     <string name="come_and_choose_wallpaper">تعال واختر من بين آلاف الخلفيات المذهلة</string>
     <string name="common_google_play_services_enable_button">تفعيل</string>
     <string name="common_google_play_services_enable_text">‏لن يعمل %1$s ما لم يتم تفعيل خدمات Google Play.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">فجر</string>
     <string name="editor_apply_message">"تستخدم هذه الميزة لتصحيح الأخطاء من قبل المصممين. سيتم استعادة المظهر الافتراضي تلقائيًا بعد قليل. مسار ملف الثيم الحالي: "</string>
     <string name="editor_apply_toast">حدد temp.mtz يدويًا في دليل الجذر</string>
+    <string name="effect_home">تأثيرات الشاشة الرئيسية</string>
+    <string name="effect_lock">تأثيرات شاشة القفل</string>
     <string name="empty" />
     <string name="enter_email_address_tips">أدخل عنوان البريد الإلكتروني</string>
     <string name="eras_ad">بعد الميلاد</string>
@@ -422,6 +433,7 @@
     <string name="later">ليس الان</string>
     <string name="latest_wallpaper">جديد</string>
     <string name="limit_discount">عرض لفترة محدودة</string>
+    <string name="linked_wallpaper">مجموعات خلفية الشاشة</string>
     <string name="live_wallpaper">خلفية شاشة متحركة</string>
     <string name="live_wallpapers">خلفيات شاشة متحركة</string>
     <string name="loading">لحظة من فضلك…</string>
@@ -650,14 +662,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">لا تظهر مرة اخرى</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
+    <string name="not_support_subtitle">اتصل بدعم تكنولوجيا المعلومات في مؤسستك أو قم بتبديل الحسابات</string>
+    <string name="not_support_title">لا يمكن استخدام الثيمات عند استخدام ملف تعريف العمل</string>
     <string name="notifications_permission_confirm">السماح</string>
     <string name="notifications_permission_decline">عدم السماح</string>
     <string name="notifications_permission_title">هل تريد السماح للتطبيق بإرسال إشعارات إليك؟</string>
     <string name="notify_style">تأثيرات الإشعارات</string>
-    <string name="offline_notification_text">انقر لفتح الإعلان</string>
-    <string name="offline_notification_title">عرض الإعلان الذي حفظته عند عدم الاتصال بالإنترنت</string>
+    <string name="offline_dialog_image_description">رمز</string>
+    <string name="offline_dialog_text">"‏نشكرك على اهتمامك.
+سنشارك المزيد من المعلومات بعد إعادة الاتصال بالإنترنت."</string>
+    <string name="offline_notification_title">تمت إعادة الاتصال بالإنترنت وبإمكانك الآن الاستئناف من حيث توقفت</string>
+    <string name="offline_notification_title_with_advertiser">تمت إعادة الاتصال بالإنترنت وبإمكانك الآن مواصلة التعرّف على \"%s\"</string>
     <string name="offline_opt_in_confirm">حسنًا</string>
-    <string name="offline_opt_in_confirmation">ستتلقّى إشعارًا يحتوي على الرابط عند إعادة الاتصال بالإنترنت.</string>
     <string name="offline_opt_in_decline">لا، شكرًا</string>
     <string name="offline_opt_in_message">سنرسل إليك إشعارًا يحتوي على رابط إلى الموقع الإلكتروني للمعلِن.</string>
     <string name="offline_opt_in_title">فتح العنوان عند إعادة الاتصال بالإنترنت</string>
@@ -679,6 +695,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">لا تفوت هذه الفرصة!</string>
     <string name="ota_theme_default_push_content2">عرض اقتراحاتنا لك</string>
     <string name="ota_theme_default_push_title">ثيمات جديدة قريبًا</string>
+    <string name="out_wallpaper_list">خلفيات الشاشة الخارجية</string>
     <string name="password_toggle_content_description">عرض كلمة المرور</string>
     <string name="pause_all">إيقاف مؤقت للكل</string>
     <string name="pay_online">دفع أونلاين</string>
@@ -975,13 +992,12 @@ mm"</string>
     <string name="saturday_short">السبت</string>
     <string name="saturday_shortest">السبت</string>
     <string name="scroll_switch">مرر للتبديل بين العناصر</string>
-    <string name="sdcard_not_mounted_dialog_message">"أدخل بطاقة SD الآن.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">لم يتم اكتشاف اي بطاقة SD</string>
     <string name="search_color">اللون</string>
     <string name="search_hint_header_text">كلمات رائجة</string>
     <string name="search_menu_title">البحث</string>
     <string name="search_sort">ترتيب حسب</string>
+    <string name="search_update_guide_bubble">جديد</string>
+    <string name="search_update_guide_text">استمتع بميزات البحث الجديدة كليًا</string>
     <string name="select_all">تحديد الكل</string>
     <string name="selected_resource_file_invalid">الملف المحدد غير صالح</string>
     <string name="send">مشاركة</string>
@@ -1035,12 +1051,14 @@ mm"</string>
     <string name="system_aod_dialog_message">قم بتشغيل الشاشة الدائمة لاستخدام هذه الميزة.</string>
     <string name="system_aod_dialog_positive_button">الإعدادات</string>
     <string name="system_aod_dialog_title">الشاشة الدائمة</string>
+    <string name="system_personalize_title">التخصيص</string>
     <string name="system_phone">المكالمات</string>
     <string name="system_precust">المثبتة</string>
     <string name="text_billing_info">معلومات الفواتير</string>
     <string name="text_cancel_subscription_service">هل ترغب في إلغاء هذا الاشتراك الآن؟</string>
     <string name="text_content_update">محتوى جديد يوميًا</string>
     <string name="text_free_trial">جرب مجانا</string>
+    <string name="text_local_push_check">عرض</string>
     <string name="text_pay_monthly" formatted="false">بدءًا من %s، سيتم تجديد الخطة بمبلغ %s شهريًا حتى يتم إلغاء الاشتراك</string>
     <string name="text_pay_weekly" formatted="false">بدءًا من %s، سيتم تجديد الخطة بمبلغ %s أسبوعيًا حتى يتم إلغاء الاشتراك</string>
     <string name="text_pay_yearly" formatted="false">بدءًا من %s، سيتم تجديد الخطة بمبلغ %s سنويًا حتى يتم إلغاء الاشتراك</string>

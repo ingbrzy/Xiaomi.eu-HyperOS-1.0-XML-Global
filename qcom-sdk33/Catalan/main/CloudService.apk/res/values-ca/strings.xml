@@ -188,9 +188,10 @@
     <string name="find_device_gdpr_prompt">En activar Troba dispositiu, accepteu la nostra <u><a href="app://com.miui.cloudservice.gdpr.license">Política de privadesa</a></u>. Desactiveu aquesta funció si voleu retirar el vostre consentiment.</string>
     <string name="find_device_operation_failure_rpc">"No s'ha pogut realitzar l'operació a causa de l'error RPC."</string>
     <string name="find_device_permissions_footer">Toqueu \"Concedir\" per concedir els permisos que heu seleccionat.</string>
-    <string name="find_device_permissions_header">Benvingut a Troba dispositiu! Pots utilitzar aquesta aplicació per localitzar, fer un seguiment i bloquejar el teu dispositiu quan el falti. Troba dispositiu requereix els permisos següents:</string>
+    <string name="find_device_permissions_header">Benvingut a Troba dispositiu! Podeu utilitzar aquesta aplicació per localitzar, fer un seguiment i bloquejar el vostre dispositiu quan el falti. També podeu ajudar altres persones a localitzar els seus dispositius Xiaomi de manera anònima. Aquesta aplicació requereix els permisos següents per funcionar amb normalitat:</string>
     <string name="find_device_service_title">Troba dispositiu</string>
-    <string name="find_device_status_summary">"Localitza i bloqueja el teu dispositiu, a més de permetre't eliminar-ne dades de forma remota"</string>
+    <string name="find_device_status_summary">"Activeu per localitzar i fer un seguiment del vostre dispositiu o esborrar-ne les dades de forma remota.
+També podeu ajudar altres persones a localitzar els vostres dispositius Xiaomi de manera anònima."</string>
     <string name="find_device_status_title_pad">Troba dispositiu</string>
     <string name="find_device_status_title_phone">Troba dispositiu</string>
     <string name="find_permission_location_summary">Per localitzar aquest dispositiu</string>
@@ -413,7 +414,7 @@
     <string name="micloud_last_sync_canceled">"S'ha cancel·lat la sincronització. Proveu-ho de nou."</string>
     <string name="micloud_main_head_menu_cloud_backup">Còpies de seguretat</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Troba dispositiu no està disponible al Segon espai. Podeu fer-la servir al Primer espai.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">"S'han eliminat els elements"</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">Elements suprimits fa poc</string>
     <string name="micloud_main_network_error">"No s'ha pogut connectar a la xarxa"</string>
     <string name="micloud_main_sync_mode_summary">"Sincronitza les dades de l'aplicació en temps real. El consum d’energia augmentarà quan aquesta funció estigui activada."</string>
     <string name="micloud_main_sync_mode_title">Sincronització ràpida</string>
@@ -633,6 +634,18 @@ Assegureu-vos que feu servir el Compte Xiaomi associat com a compte del sistema.
     <string name="noti_quota_low_title_without_button">"No hi ha prou espai d'emmagatzematge"</string>
     <string name="notification_sync_fail_title">"No s'han pogut sincronitzar les contrasenyes"</string>
     <string name="notification_update_key_text">"S'ha canviat la contrasenya del gestor de contrasenyes. Verifiqueu la nova contrasenya."</string>
+    <string name="offline_find_action_open">Activa</string>
+    <string name="offline_find_checkbox_pref_summary_1">"Localitzeu aquest dispositiu fins i tot quan no estigui connectat a la xarxa i visualitzeu la ubicació d'altres dispositius fora de línia. &lt;br/>&lt;font color=#0f84ff>Més informació&lt;/font>"</string>
+    <string name="offline_find_checkbox_pref_summary_2">"Localitzeu aquest dispositiu fins i tot quan estigui apagat o no estigui connectat a la xarxa i visualitzeu la ubicació d'altres dispositius fora de línia. &lt;br/>&lt;font color=#0f84ff>Més informació&lt;/font>"</string>
+    <string name="offline_find_checkbox_pref_title">Ubicació fora de línia</string>
+    <string name="offline_find_doing_disable">"S'està desactivant la ubicació fora de línia…"</string>
+    <string name="offline_find_doing_enable">"S'està activant la ubicació fora de línia…"</string>
+    <string name="offline_find_function">Ubicació fora de línia</string>
+    <string name="offline_find_msg_to_open_1">"Activeu la ubicació fora de línia en aquest dispositiu per poder veure la ubicació d'altres dispositius fora de línia."</string>
+    <string name="offline_find_msg_to_open_2">"Verifiqueu que aquest dispositiu sigui de confiança i activeu la ubicació fora de línia per poder veure la ubicació d'altres dispositius fora de línia."</string>
+    <string name="offline_find_msg_to_open_3">"Per protegir la seguretat de les vostres dades, verifiqueu que aquest dispositiu és de confiança abans d'activar la ubicació fora de línia."</string>
+    <string name="offline_find_title_to_open_1">Activa la ubicació fora de línia</string>
+    <string name="offline_find_title_to_open_2">Verifiqueu aquest dispositiu</string>
     <string name="open_service_title">Activa</string>
     <string name="pay_info_dialog_confirm_to_pay">Paga %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Utilitzeu els Crèdits Mi restants: %s</string>
@@ -658,8 +671,8 @@ Pot ser que la informació sobre la ubicació no es notifiqui quan la connexió 
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">"\"%1$s\" s'ha copiat al porta-retalls"</string>
     <string name="privacy_and_agreement">Termes i condicions</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">Benvingut a Troba dispositiu! Pots utilitzar aquest servei per localitzar, bloquejar o esborrar les dades del dispositiu si es perd.</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">Benvingut a Troba dispositiu! Pots utilitzar aquest servei per localitzar, bloquejar o esborrar les dades del dispositiu si es perd.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">Benvingut a Troba dispositiu! Podeu utilitzar aquesta aplicació per localitzar, fer un seguiment i bloquejar el vostre dispositiu quan el falti. També podeu ajudar altres persones a localitzar els seus dispositius Xiaomi de manera anònima.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">Benvingut a Troba dispositiu! Podeu utilitzar aquesta aplicació per localitzar, fer un seguiment i bloquejar el vostre dispositiu quan el falti. També podeu ajudar altres persones a localitzar els seus dispositius Xiaomi de manera anònima.</string>
     <string name="privacy_dialog_sync_all_purpose_china">"Benvingut als serveis del Núvol Xiaomi! Podeu utilitzar Núvol Xiaomi per sincronitzar els vostres missatges, els contactes, les notes, la configuració del navegador, les fotos i els vídeos, la configuració del WLAN, els enregistraments, el dissenys de la Pantalla d'inici, les aplicacions, els esdeveniments del calendari, els elements de la llista de bloqueig, l'historial de trucades i la Volta d'aplicacions de tots els dispositius connectats."</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">"Benvingut als serveis del Núvol Xiaomi! Podeu utilitzar Núvol Xiaomi per sincronitzar els vostres missatges, els contactes, les notes, la configuració del navegador, les fotos i els vídeos, la configuració del WLAN, els enregistraments, el dissenys de la Pantalla d'inici, les aplicacions, els esdeveniments del calendari, els elements de la llista de bloqueig, l'historial de trucades i la Volta d'aplicacions de tots els dispositius connectats."</string>
     <string name="privacy_dialog_sync_all_purpose_pad">Benvingut als Serveis del Núvol Xiaomi! Podeu utilitzar aquesta aplicació per sincronitzar els vostres missatges, contactes, notes, elements del navegador, àlbums al núvol, música, calendari, llista de bloqueig i historial de trucades al núvol.</string>
