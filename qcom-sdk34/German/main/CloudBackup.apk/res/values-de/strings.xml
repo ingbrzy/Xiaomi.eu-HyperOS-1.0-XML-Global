@@ -554,9 +554,13 @@ Netzwerkeinstellungen überprüfen und erneut versuchen."</string>
     <string name="session_failed_dist_no_space_btn_text">Speicher löschen</string>
     <string name="session_failed_get_installed_apps_denied_detail">Um eine automatische Sicherung durchführen zu können, erteile dieser App in den Einstellungen die Berechtigung, auf die Liste der auf deinem Gerät installierten Apps zuzugreifen, und wähle Immer zulassen.</string>
     <string name="session_failed_get_installed_apps_denied_title">Berechtigungen erforderlich</string>
+    <string name="session_failed_invalid_token_action">Anmelden</string>
+    <string name="session_failed_invalid_token_detail">Erneut anmelden</string>
+    <string name="session_failed_invalid_token_title">Ungültige Anmeldedaten</string>
     <string name="session_failed_no_server_response_title">Verbindung zum Server fehlgeschlagen.</string>
     <string name="session_failed_override_detail">Lokale Sicherung unterscheidet sich von der in der Xiaomi Cloud. Wenn du fortfährst, wird die aktuelle Sicherung die vorherige überschreiben. Jetzt überschreiben?</string>
     <string name="session_failed_override_title">Sicherung wird überschrieben</string>
+    <string name="session_failed_reason_invalid_token">Ungültige Anmeldedaten. Melde dich später an.</string>
     <string name="session_failed_restore_app_data_btn_text">Zurück</string>
     <string name="session_failed_restore_app_data_detail">Stelle vor dem Wiederherstellen von Elementen sicher, dass WeChat nicht auf dem Gerät installiert ist. Öffne oder benutze WeChat nicht, während die Daten wiederhergestellt werden.</string>
     <string name="session_failed_restore_app_data_title">WeChat deinstallieren</string>

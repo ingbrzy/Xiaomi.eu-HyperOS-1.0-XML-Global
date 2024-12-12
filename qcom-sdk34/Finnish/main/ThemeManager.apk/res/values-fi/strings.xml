@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">Ota Aina näytillä ensin käyttöön asetuksista</string>
     <string name="apply_theme_with_ringtones">Käytä teeman soittoääniä</string>
     <string name="apply_wallpaper_after_three_theme">Käytät tällä hetkellä kolmannen osapuolen teemaa. Jos vaihdat lukitusnäytön taustakuvan, tämä saattaa aiheuttaa sen, että lukitusnäytön kellotyyli palautuu oletusarvoon. Käytä nyt?</string>
+    <string name="apply_wallpaper_dialog_title">Käytä taustakuvaa</string>
     <string name="apply_wallpaper_notice">Huomio</string>
     <string name="apply_wallpaper_notice_cancel">Peruuta</string>
     <string name="apply_wallpaper_notice_content">Tällä hetkellä asetettu teema sisältää mukautetun lukitusnäytön moduulin, joka saattaa estää sinua tekemästä lukitusnäyttöön liittyviä muutoksia.</string>
     <string name="apply_wallpaper_notice_lockscreen">Nykyinen teema sisältää mukautetun lukitusnäytön. Korvaamme sen oletuslukitusnäytöllä, jos käytät tätä taustakuvaa. Käytetäänkö siitä huolimatta?</string>
     <string name="apply_wallpaper_notice_still_apply">Aseta</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Käytät nyt taustakuvasarjaa. Jos otat käyttöön uuden teeman, sekä lukitusnäytön että aloitusnäytön taustakuvat korvataan ja Aina näytillä -näyttö palautetaan edelliseen tyyliin. Otetaanko silti käyttöön?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Käytät tällä hetkellä supertaustakuvaa. Jos valitset uuden taustakuvan, sitä käytetään sekä aloitus- että lukitusnäytössäsi, ja Aina päällä oleva näyttö palautetaan aiempaan asetukseensa. Käytä nyt?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">Käytät nyt taustakuvasarjaa. Jos otat uuden teeman käyttöön, sekä lukitusnäytön että aloitusnäytön taustakuvat korvataan. Otetaanko silti käyttöön?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Käytät tällä hetkellä supertaustakuvaa. Jos valitset uuden taustakuvan, sitä käytetään sekä aloitus- että lukitusnäytössäsi. Käytä nyt?</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">Ilmanlaatuindeksi: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">Ei voitu yhdistää verkkoon. Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
     <string name="card_retry">Yritä uudelleen</string>
     <string name="carefully_chosen_wallpaper">Toimittajan valinnat</string>
+    <string name="carousel_no_set_wallpaper_effects">Ei voi asettaa tehosteita, kun Taustakuvakaruselli on päällä</string>
     <string name="change_host_hint">Vaihda isäntää</string>
     <string name="change_wallpaper">Taustakuva</string>
     <string name="channel_featured_page">Esittelyssä</string>
@@ -147,7 +151,12 @@
     <string name="clearable_edittext_clear_description">Tyhjennä</string>
     <string name="close">Sulje</string>
     <string name="columbus_ad_flag_text">MAINOS</string>
+    <string name="columbus_reward_style_access">Tutustu lisää</string>
+    <string name="columbus_reward_style_close_cancel">Poistu</string>
+    <string name="columbus_reward_style_close_desc">Katso video loppuun saadaksesi palkinnon. Jatketaanko katsomista?</string>
+    <string name="columbus_reward_style_speed_confirm">Jatka</string>
     <string name="columbus_skip_ad">Ohita</string>
+    <string name="columbus_skip_ad_time">Ohita (%d)</string>
     <string name="come_and_choose_wallpaper">Valitse tuhansista upeista taustakuvista</string>
     <string name="common_google_play_services_enable_button">Ota käyttöön</string>
     <string name="common_google_play_services_enable_text">%1$s ei toimi, ellet ota Google Play Palveluita käyttöön.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Aamu</string>
     <string name="editor_apply_message">"Suunnittelijat käyttävät tätä ominaisuutta virheenkorjaukseen. Oletusteema palautetaan automaattisesti hetken kuluttua. Nykyisen teeman tiedostopolku: "</string>
     <string name="editor_apply_toast">Valitse manuaalisesti temp.mtz juurihakemistosta</string>
+    <string name="effect_home">Aloitusnäytön tehosteet</string>
+    <string name="effect_lock">Lukitusnäytön tehosteet</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Syötä sähköpostiosoite</string>
     <string name="eras_ad">jKr.</string>
@@ -422,6 +433,7 @@
     <string name="later">Ei nyt</string>
     <string name="latest_wallpaper">Uutta</string>
     <string name="limit_discount">Rajoitettu tarjous</string>
+    <string name="linked_wallpaper">Taustakuvasarjat</string>
     <string name="live_wallpaper">Live-taustakuva</string>
     <string name="live_wallpapers">Live-taustakuvat</string>
     <string name="loading">Hetki vain…</string>
@@ -650,14 +662,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Älä näytä uudelleen</string>
     <string name="not_set">Ei asetettu</string>
+    <string name="not_support_subtitle">Ota yhteyttä organisaatiosi IT-tukeen tai vaihda tiliä</string>
+    <string name="not_support_title">En voi käyttää Teemoja käyttäessäni työprofiilia</string>
     <string name="notifications_permission_confirm">Salli</string>
     <string name="notifications_permission_decline">Älä salli</string>
     <string name="notifications_permission_title">Haluatko sallia sovellusilmoitukset?</string>
     <string name="notify_style">Ilmoitustehosteet</string>
-    <string name="offline_notification_text">Avaa mainos napauttamalla</string>
-    <string name="offline_notification_title">Katso mainos, jonka tallensit ollessasi offline-tilassa</string>
+    <string name="offline_dialog_image_description">Kuvake</string>
+    <string name="offline_dialog_text">"Kiitos kiinnostuksestasi.
+Saat lisätietoa, kun olet taas yhteydessä verkkoon."</string>
+    <string name="offline_notification_title">Olet taas yhteydessä verkkoon. Jatka siitä mihin jäit.</string>
+    <string name="offline_notification_title_with_advertiser">Olet taas yhteydessä verkkoon. Lue lisää: %s</string>
     <string name="offline_opt_in_confirm">OK</string>
-    <string name="offline_opt_in_confirmation">Saat ilmoituksen, jossa on linkki, kun olet taas yhteydessä verkkoon</string>
     <string name="offline_opt_in_decline">Ei kiitos</string>
     <string name="offline_opt_in_message">Lähetämme sinulle ilmoituksen, jossa on linkki mainostajan sivustolle.</string>
     <string name="offline_opt_in_title">Avaa mainos, kun olet taas yhteydessä verkkoon.</string>
@@ -679,6 +695,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">Älä missaa näitä!</string>
     <string name="ota_theme_default_push_content2">Katso suosituksemme</string>
     <string name="ota_theme_default_push_title">Uusia teemoja tulossa</string>
+    <string name="out_wallpaper_list">Ulkoisen näytön taustakuva</string>
     <string name="password_toggle_content_description">Näytä salasana</string>
     <string name="pause_all">Keskeytä kaikki</string>
     <string name="pay_online">Verkkomaksu</string>
@@ -975,13 +992,12 @@ mm"</string>
     <string name="saturday_short">La</string>
     <string name="saturday_shortest">La</string>
     <string name="scroll_switch">Pyyhkäise vaihtaaksesi kohteiden välillä</string>
-    <string name="sdcard_not_mounted_dialog_message">"Aseta SD-kortti nyt.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">SD-korttia ei havaittu</string>
     <string name="search_color">Väri</string>
     <string name="search_hint_header_text">Suositut hakusanat</string>
     <string name="search_menu_title">Haku</string>
     <string name="search_sort">Järjestä</string>
+    <string name="search_update_guide_bubble">Uutta</string>
+    <string name="search_update_guide_text">Koe upouudet hakuominaisuudet</string>
     <string name="select_all">Valitse kaikki</string>
     <string name="selected_resource_file_invalid">Valitun lähteen tiedostoa ei voi käyttää</string>
     <string name="send">Lähetä</string>
@@ -1035,12 +1051,14 @@ mm"</string>
     <string name="system_aod_dialog_message">Ota Aina näytössä käyttöön, jotta voit käyttää tätä ominaisuutta.</string>
     <string name="system_aod_dialog_positive_button">Asetukset</string>
     <string name="system_aod_dialog_title">Aina näytössä</string>
+    <string name="system_personalize_title">Personointi</string>
     <string name="system_phone">Puhelut</string>
     <string name="system_precust">Esiasennettu</string>
     <string name="text_billing_info">Laskutustiedot</string>
     <string name="text_cancel_subscription_service">Perutaanko tämä tilaus nyt?</string>
     <string name="text_content_update">Uutta sisältöä päivittäin</string>
     <string name="text_free_trial">Yritä ilmaiseksi</string>
+    <string name="text_local_push_check">Näytä</string>
     <string name="text_pay_monthly" formatted="false">%s alkaen uusitaan automaattisesti hintaan %s/kuukausi peruutukseen saakka</string>
     <string name="text_pay_weekly" formatted="false">%s alkaen uusitaan automaattisesti hintaan %s/viikko peruutukseen saakka</string>
     <string name="text_pay_yearly" formatted="false">%s alkaen uusitaan automaattisesti hintaan %s/vuosi peruutukseen saakka</string>

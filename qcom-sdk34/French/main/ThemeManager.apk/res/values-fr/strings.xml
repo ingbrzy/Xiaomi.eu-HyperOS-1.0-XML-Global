@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">"Activez d'abord Toujours afficher dans Paramètres"</string>
     <string name="apply_theme_with_ringtones">Appliquer le thème avec la sonnerie</string>
     <string name="apply_wallpaper_after_three_theme">"Vous utilisez actuellement un thème tiers. Si vous modifiez votre fond d'écran de Verrouillage, cela pourrait amener le style d'horloge de l'Écran de verrouillage à être restauré par défaut. Appliquer maintenant ?"</string>
+    <string name="apply_wallpaper_dialog_title">"Appliquer le fond d'écran"</string>
     <string name="apply_wallpaper_notice">Attention</string>
     <string name="apply_wallpaper_notice_cancel">Annuler</string>
     <string name="apply_wallpaper_notice_content">"Le thème actuellement appliqué contient un module d'écran de verrouillage personnalisé qui peut vous empêcher d'effectuer des ajustements liés à l'écran de verrouillage."</string>
     <string name="apply_wallpaper_notice_lockscreen">"Pendant le traitement de votre demande, nous nous réservons le droit d'annuler votre compte Mi sans votre consentement afin de se conformer à toute procédure légale ou de répondre à toute demande gouvernementale exécutoire, ou si votre compte est signalé par un autre utilisateur."</string>
     <string name="apply_wallpaper_notice_still_apply">Appliquer</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">"Vous utilisez une série de fonds d'écran maintenant. Si vous appliquez un nouveau thème, les fonds d'écran du Verrouillage et Accueil seront remplacés et Toujours afficher sera restauré au style précédent. Appliquer quand même ?"</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Vous utilisez actuellement un Super fonds d'écran. Si vous sélectionnez un nouveau fond d'écran, il sera appliqué à la fois à votre Accueil et les Écrans de verrouillage et Toujours afficher sera rétabli à son réglage précédent. Appliquer maintenant ?"</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">"Vous utilisez une série de fonds d'écran maintenant. Si vous appliquez un nouveau thème, les fonds d'écran du Verrouillage et Accueil seront remplacés. Appliquer quand même ?"</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">"Vous utilisez actuellement un Super fonds d'écran. Si vous sélectionnez un nouveau fond d'écran, il sera appliqué à la fois à votre Accueil et les Écrans de verrouillage. Appliquer maintenant ?"</string>
     <string name="aqi_format">IQA %s</string>
     <string name="aqi_format_desc">"Indice de la qualité de l'air : %s"</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">Impossible de se connecter au réseau. Vérifiez vos paramètres réseau, puis réessayez.</string>
     <string name="card_retry">Réessayer</string>
     <string name="carefully_chosen_wallpaper">"Les choix de l'éditeur"</string>
+    <string name="carousel_no_set_wallpaper_effects">"Impossible de définir les effets lorsque le Fond d'écran Carousel est activé"</string>
     <string name="change_host_hint">"Changer d'hôte"</string>
     <string name="change_wallpaper">"Fond d'écran"</string>
     <string name="channel_featured_page">Sélection</string>
@@ -146,8 +150,13 @@
     <string name="clear_text_end_icon_content_description">Effacer le texte</string>
     <string name="clearable_edittext_clear_description">Nettoyer</string>
     <string name="close">Fermer</string>
-    <string name="columbus_ad_flag_text">Pub</string>
+    <string name="columbus_ad_flag_text">PUB</string>
+    <string name="columbus_reward_style_access">En savoir plus</string>
+    <string name="columbus_reward_style_close_cancel">Quitter</string>
+    <string name="columbus_reward_style_close_desc">Terminez de regarder la vidéo pour obtenir une récompense. Continuer à regarder ?</string>
+    <string name="columbus_reward_style_speed_confirm">Continuer</string>
     <string name="columbus_skip_ad">Ignorer</string>
+    <string name="columbus_skip_ad_time">Ignorer (%d)</string>
     <string name="come_and_choose_wallpaper">"Choisissez parmi des milliers de fonds d'écran incroyables"</string>
     <string name="common_google_play_services_enable_button">Activer</string>
     <string name="common_google_play_services_enable_text">"%1$s ne fonctionnera pas tant que vous n'aurez pas activé les services Google Play."</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Matin</string>
     <string name="editor_apply_message">"Cette fonctionnalité est utilisée pour le débogage par les concepteurs. Le thème par défaut sera automatiquement restauré dans un certain temps. Chemin de fichier du thème courant : "</string>
     <string name="editor_apply_toast">Sélectionner manuellement temp.mtz dans le répertoire racine</string>
+    <string name="effect_home">"Effets de l'écran d'accueil"</string>
+    <string name="effect_lock">"Effets du Verrouillage d'écran"</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Entrer une adresse e-mail</string>
     <string name="eras_ad">EC</string>
@@ -425,6 +436,7 @@
     <string name="later">Pas maintenant</string>
     <string name="latest_wallpaper">Nouveau</string>
     <string name="limit_discount">Offre limitée</string>
+    <string name="linked_wallpaper">"Séries de fond d'écran"</string>
     <string name="live_wallpaper">Animé</string>
     <string name="live_wallpapers">"Fonds d'écran animé"</string>
     <string name="loading">Juste un instant…</string>
@@ -653,17 +665,21 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Ne plus afficher</string>
     <string name="not_set">Non définie</string>
+    <string name="not_support_subtitle">Contactez le support informatique de votre organisation ou changez de compte</string>
+    <string name="not_support_title">Impossible d’utiliser les thèmes lors de l’utilisation d’un profil professionnel</string>
     <string name="notifications_permission_confirm">Autoriser</string>
     <string name="notifications_permission_decline">Ne pas autoriser</string>
     <string name="notifications_permission_title">"Autoriser l'appli à vous envoyer des notifications ?"</string>
     <string name="notify_style">Effets de notification</string>
-    <string name="offline_notification_text">"Appuyez pour ouvrir l'annonce"</string>
-    <string name="offline_notification_title">"Afficher l'annonce que vous avez enregistrée lorsque vous n'aviez pas accès à Internet"</string>
+    <string name="offline_dialog_image_description">Icône</string>
+    <string name="offline_dialog_text">"Merci de votre intérêt.
+Nous partagerons plus d'informations quand vous serez de nouveau en ligne."</string>
+    <string name="offline_notification_title">Connexion Internet rétablie ! Reprenez là où vous vous êtes arrêté</string>
+    <string name="offline_notification_title_with_advertiser">Connexion Internet rétablie ! Continuez à découvrir %s</string>
     <string name="offline_opt_in_confirm">OK</string>
-    <string name="offline_opt_in_confirmation">Vous recevrez une notification contenant le lien lorsque vous serez à nouveau connecté à Internet</string>
     <string name="offline_opt_in_decline">Non, merci</string>
     <string name="offline_opt_in_message">"Nous vous enverrons une notification contenant un lien vers le site de l'annonceur."</string>
-    <string name="offline_opt_in_title">"Ouvrez l'annonce lorsque vous serez à nouveau connecté à Internet."</string>
+    <string name="offline_opt_in_title">"Ouvrez l'annonce lorsque vous serez à nouveau en ligne."</string>
     <string name="online_no_network">Impossible de se connecter au réseau</string>
     <string name="online_precust_abstract">Abstrait</string>
     <string name="online_precust_animal">Animal</string>
@@ -682,6 +698,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">Ne les ratez pas !</string>
     <string name="ota_theme_default_push_content2">Voir nos recommandations</string>
     <string name="ota_theme_default_push_title">De nouveaux thèmes sont en route</string>
+    <string name="out_wallpaper_list">"Fond d'écran extérieur"</string>
     <string name="password_toggle_content_description">Afficher le mot de passe</string>
     <string name="pause_all">Tout mettre en pause</string>
     <string name="pay_online">Paiement en ligne</string>
@@ -978,13 +995,12 @@ mm"</string>
     <string name="saturday_short">Sam</string>
     <string name="saturday_shortest">Sam</string>
     <string name="scroll_switch">Balayez pour basculer entre les éléments</string>
-    <string name="sdcard_not_mounted_dialog_message">"Insérez une carte SD maintenant.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">Aucune carte SD détectée</string>
     <string name="search_color">Couleur</string>
     <string name="search_hint_header_text">Mots clés</string>
     <string name="search_menu_title">Rechercher</string>
     <string name="search_sort">Trier par</string>
+    <string name="search_update_guide_bubble">Nouveau</string>
+    <string name="search_update_guide_text">Découvrez de nouvelles fonctionnalités de recherche</string>
     <string name="select_all">Tout sélectionner</string>
     <string name="selected_resource_file_invalid">Le fichier sélectionné est non valide.</string>
     <string name="send">Envoyer</string>
@@ -1038,12 +1054,14 @@ mm"</string>
     <string name="system_aod_dialog_message">Activez Toujours afficher pour pouvoir utiliser cette fonctionnalité.</string>
     <string name="system_aod_dialog_positive_button">Paramètres</string>
     <string name="system_aod_dialog_title">Toujours afficher</string>
+    <string name="system_personalize_title">Personnalisation</string>
     <string name="system_phone">Appels</string>
     <string name="system_precust">Préinstallé</string>
     <string name="text_billing_info">Informations de facturation</string>
     <string name="text_cancel_subscription_service">Annuler cet abonnement maintenant ?</string>
     <string name="text_content_update">Nouveau contenu hebdomadaire</string>
     <string name="text_free_trial">Essai gratuit</string>
+    <string name="text_local_push_check">Afficher</string>
     <string name="text_pay_monthly" formatted="false">"À partir de %s, se renouvelle automatiquement pour %s/mois jusqu'à annulation"</string>
     <string name="text_pay_weekly" formatted="false">"À partir de %s, se renouvelle automatiquement pour %s/semaine jusqu'à annulation"</string>
     <string name="text_pay_yearly" formatted="false">"À partir de %s, se renouvelle automatiquement pour %s/année jusqu'à annulation"</string>

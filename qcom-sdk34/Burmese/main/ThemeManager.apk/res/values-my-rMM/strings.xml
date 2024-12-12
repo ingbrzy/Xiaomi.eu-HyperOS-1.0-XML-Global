@@ -60,12 +60,15 @@
     <string name="apply_success_not_enable_aod">ဆက်တင်တွင် အမြဲပြသမျက်နှာပြင်ကို ဦးစွာဖွင့်ပါ</string>
     <string name="apply_theme_with_ringtones">သင်းမ်ဖုန်းမြည်သံများအသုံးပြုပါ</string>
     <string name="apply_wallpaper_after_three_theme">သင်သည်လက်ရှိတွင် ပြင်ပသင်း(မ်)တစ်ခု သုံးနေသည်။ သော့ခတ်မျက်နှာပြင်နောက်ခံပုံကို ပြောင်းပါက ၎င်းက သော့ခတ်မျက်နှာပြင် နာရီစတိုင်ကို မူလပါအတိုင်း ပြန်ထားလိုက်ပါမည်။ ယခုသုံးလိုသလား။</string>
+    <string name="apply_wallpaper_dialog_title">နောက်ခံပုံသုံးရန်</string>
     <string name="apply_wallpaper_notice">သတိပြုရန်</string>
     <string name="apply_wallpaper_notice_cancel">မလုပ်တော့ရန်</string>
     <string name="apply_wallpaper_notice_content">လက်ရှိသုံးထားသော အပြင်အဆင်တွင် စိတ်ကြိုက် သော့ချမျက်နှာပြင် မော်ဂျူးပါဝင်ပြီး ၎င်းက သင့်အား သော့ချမျက်နှာပြင်ဆိုင်ရာ ချိန်ညှိခြင်းများလုပ်ခြင်းမှ တားဆီးနိုင်သည်။</string>
     <string name="apply_wallpaper_notice_lockscreen">သင့်လက်ရှိအပြင်အဆင်တွင် စိတ်ကြိုက်သော့ခတ်မျက်နှာပြင်တစ်ခု ပါဝင်သည်။ ဤနောက်ခံပုံကို သုံးပါက ၎င်းကို မူရင်းသော့ခတ်မျက်နှာပြင်နှင့် အစားထိုးလိုက်ပါမည်။ မဖြစ်မနေ သုံးလိုသလား။</string>
     <string name="apply_wallpaper_notice_still_apply">သုံးရန်</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">သင်သည် နောက်ခံပုံအတွဲတစ်ခု သုံးနေသည်။ သင်း(မ်)အသစ်သုံးပါက သော့ခတ်မျက်နှာပြင်နှင့် ပင်မမျက်နှာပြင် နောက်ခံပုံနှစ်ခုလုံးကို အစားထိုးလိုက်မည်ဖြစ်ပြီး အမြဲပြသမျက်နှာပြင်ကို ယခင်စတိုင်အတိုင်း ပြန်ထားလိုက်ပါမည်။ မဖြစ်နေသုံးလိုသလား။</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">လက်ရှိတွင် စူပါ နောက်ခံပုံတစ်ခု သုံးနေသည်။ နောက်ခံပုံအသစ်ရွေးပါက ပင်မမျက်နှာပြင်နှင့် သော့ခတ်မျက်နှာပြင် နှစ်ခုစလုံးတွင် ၎င်းကိုသုံးပြီး အမြဲပြသမျက်နှာပြင်ကို ယခင်ဆက်တင်သို့ ပြန်ထားလိုက်ပါမည်။ ယခုသုံးလိုသလား။</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">သင်သည် နောက်ခံပုံအတွဲတစ်ခု သုံးနေသည်။ သင်း(မ်)အသစ်သုံးပါက သော့ခတ်မျက်နှာပြင်နှင့် ပင်မမျက်နှာပြင် နောက်ခံပုံနှစ်ခုလုံးကို အစားထိုးလိုက်ပါမည်။ မဖြစ်နေသုံးလိုသလား။</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">လက်ရှိတွင် စူပါ နောက်ခံပုံတစ်ခု သုံးနေသည်။ နောက်ခံပုံအသစ်ရွေးပါက ပင်မမျက်နှာပြင်နှင့် သော့ခတ်မျက်နှာပြင် နှစ်ခုစလုံးတွင် ၎င်းကိုသုံးပါမည်။ ယခုသုံးလိုသလား။</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">လေထုအရည်အသွေး အညွှန်း - %s</string>
@@ -106,6 +109,7 @@
     <string name="card_no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍မရနိုင်ခဲ့ပါ။ ကွန်ရက်ဆက်တင်များအား စစ်ဆေးပြီး ထပ်ကြိုးစားပါ။</string>
     <string name="card_retry">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="carefully_chosen_wallpaper">အယ်ဒီတာရွေးချယ်မှုများ</string>
+    <string name="carousel_no_set_wallpaper_effects">နောက်ခံပုံရဟတ်ဖွင့်ထားချိန် အထူးပြုလုပ်ချက်များ သတ်မှတ်မရပါ</string>
     <string name="change_host_hint">host ပြောင်း</string>
     <string name="change_wallpaper">ဖန်သားပြင်နောက်ခံပုံ</string>
     <string name="channel_featured_page">အထူးပြုလုပ်ချက်</string>
@@ -116,7 +120,12 @@
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
     <string name="close">ပိတ်ပါ</string>
     <string name="columbus_ad_flag_text">ကြော်ငြာ</string>
-    <string name="columbus_skip_ad">ကျော်သွား</string>
+    <string name="columbus_reward_style_access">ပိုမိုလေ့လာရန်</string>
+    <string name="columbus_reward_style_close_cancel">ထွက်ရန်</string>
+    <string name="columbus_reward_style_close_desc">ဆုအသစ်ရရန် ဗီဒီယိုကို ပြီးအောင်ကြည့်ပါ။ ဆက်ကြည့်လိုသလား။</string>
+    <string name="columbus_reward_style_speed_confirm">ဆက်ကြည့်ရန်</string>
+    <string name="columbus_skip_ad">ကျော်ရန်</string>
+    <string name="columbus_skip_ad_time">ကျော်ရန် (%d)</string>
     <string name="come_and_choose_wallpaper">အကောင်းဆုံးနောက်ခံပုံထောင်ချီထဲမှ ရွေးပါ</string>
     <string name="component_backup_preference_title">သင်းမ်အား အရန်သိမ်းပါ</string>
     <string name="component_category_finest_title">အထွေထွေ</string>
@@ -167,6 +176,8 @@
     <string name="early_morning">နံနက်</string>
     <string name="editor_apply_message">"ဤအင်္ဂါရပ်ကို ဒီဇိုင်နာများ ဒီဘာဂင်လုပ်ရန် သုံးပါသည်။ မူလသင်း(မ်)ကို မကြာမီ အလိုအလျောက် ပြန်ထားပါမည်။ လက်ရှိသင်း(မ်)၏ ဖိုင်လမ်းကြောင်း - "</string>
     <string name="editor_apply_toast">ပင်မလမ်းကြောင်းတွင် temp.mtz ကို လက်ဖြင့်ရွေးရန်</string>
+    <string name="effect_home">ပင်မမျက်နှာပြင်အထူးပြုလုပ်ချက်များ</string>
+    <string name="effect_lock">သော့ခတ်မျက်နှာပြင်အထူးပြုလုပ်ချက်များ</string>
     <string name="empty" />
     <string name="enter_email_address_tips">အီးမေး(လ်)လိပ်စာထည့်ပါ</string>
     <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
@@ -312,6 +323,7 @@
     <string name="later">မလုပ်သေးပါ</string>
     <string name="latest_wallpaper">အသစ်</string>
     <string name="limit_discount">ကမ်းလှမ်းမှုအကန့်အသတ်ရှိသည်</string>
+    <string name="linked_wallpaper">နောက်ခံပုံအတွဲများ</string>
     <string name="live_wallpaper">သက်ဝင်လှုပ်ရှားဖန်သားပြင်နောက်ခံပုံ</string>
     <string name="live_wallpapers">သက်ဝင်လှုပ်ရှားဖန်သားပြင်နောက်ခံပုံများ</string>
     <string name="loading">ခဏစောင့်ပါ…</string>
@@ -489,6 +501,8 @@ mm"</string>
     <string name="noon">မွန်းတည့်</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">ထပ်မပြပါနှင့်</string>
+    <string name="not_support_subtitle">သင့်အဖွဲ့အစည်း IT ကူညီရေးရာကို ဆက်သွယ်ပါ သို့မဟုတ် အကောင့်ပြောင်းပါ</string>
+    <string name="not_support_title">အလုပ်ပရိုဖိုင်သုံးချိန်၌ သင်း(မ်)သုံးမရပါ</string>
     <string name="notify_style">အသိပေးချက်အထူးပြုလုပ်ချက်များ</string>
     <string name="online_no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="online_precust_abstract">စိတ်ကူး</string>
@@ -508,6 +522,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">ဒါတွေကို မလွတ်ပါစေနှင့်။</string>
     <string name="ota_theme_default_push_content2">ကျွန်ုပ်တို့၏အကြံပြုချက်များကို ကြည့်ပါ</string>
     <string name="ota_theme_default_push_title">သင်း(မ်)အသစ် လာနေပါပြီ</string>
+    <string name="out_wallpaper_list">အပြင်မျက်နှာပြင် နောက်ခံပုံ</string>
     <string name="pause_all">အားလုံးရပ်ရန်</string>
     <string name="pay_online">အွန်လိုင်းငွေပေးချေမှု</string>
     <string name="payment_cancel_tip">ယခုထွက်လျှင် ငွေပေးချေမှု ပြီးမြောက်မည်မဟုတ်ပါ။ မဖြစ်မနေထွက်လိုသလား။</string>
@@ -795,12 +810,11 @@ mm"</string>
     <string name="saturday_short">စနေ</string>
     <string name="saturday_shortest">စနေ</string>
     <string name="scroll_switch">အိုင်တမ်အကြား ကူးပြောင်းရန် ပွတ်ဆွဲပါ</string>
-    <string name="sdcard_not_mounted_dialog_message">"SD ကဒ် ယခု ထည့်သွင်းပါ။
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">မည်သည့် SD ကဒ်ကိုမှ ရှာမတွေ့ပါ</string>
     <string name="search_color">အရောင်</string>
     <string name="search_hint_header_text">ပေါ်ပြူလာ စာလုံးများ</string>
     <string name="search_sort">မျိုးတူစုပါ</string>
+    <string name="search_update_guide_bubble">အသစ်</string>
+    <string name="search_update_guide_text">လုံးဝအသစ် ရှာဖွေရေးအင်္ဂါရပ်များကို စမ်းကြည့်ပါ</string>
     <string name="select_all">အားလုံးရွေးပါ</string>
     <string name="selected_resource_file_invalid">ရွေးချယ်ထားသောရင်းမြစ်ဖိုင်ကိုအသုံးပြုမရပါ</string>
     <string name="send">ပို့ပါ</string>
@@ -852,12 +866,14 @@ mm"</string>
     <string name="system_aod_dialog_message">ဤအင်္ဂါရပ်ကို သုံးနိုင်ရန် အမြဲပြသမျက်နှာပြင်ကို ဖွင့်ပါ</string>
     <string name="system_aod_dialog_positive_button">ဆက်တင်</string>
     <string name="system_aod_dialog_title">အမြဲပြသမျက်နှာပြင်</string>
+    <string name="system_personalize_title">စိတ်ကြိုက်ပြုလုပ်ခြင်း</string>
     <string name="system_phone">ခေါ်ဆိုမှုများ</string>
     <string name="system_precust">ကြိုတင်ထည့်သွင်းမည်</string>
     <string name="text_billing_info">ငွေတောင်းခံခြင်းအချက်အလက်များ</string>
     <string name="text_cancel_subscription_service">ဤစာရင်းသွင်းရယူမှုကို ယခုဖျက်သိမ်းလိုသလား။</string>
     <string name="text_content_update">နေ့စဉ် အကြောင်းအရာအသစ်</string>
     <string name="text_free_trial">အခမဲ့ စမ်းသုံးကြည့်ပါ</string>
+    <string name="text_local_push_check">ကြည့်ရန်</string>
     <string name="text_pay_monthly" formatted="false">%s မှစ၍ ဖျက်သိမ်းသည်အထိ %s/တစ်လနှင့် အလိုအလျောက်သက်တမ်းတိုးသည်</string>
     <string name="text_pay_weekly" formatted="false">%s မှစ၍ ဖျက်သိမ်းသည်အထိ %s/တစ်ပတ်နှင့် အလိုအလျောက်သက်တမ်းတိုးသည်</string>
     <string name="text_pay_yearly" formatted="false">%s မှစ၍ ဖျက်သိမ်းသည်အထိ %s/တစ်နှစ်နှင့် အလိုအလျောက်သက်တမ်းတိုးသည်</string>

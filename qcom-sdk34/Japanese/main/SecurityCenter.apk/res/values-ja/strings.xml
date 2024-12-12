@@ -188,6 +188,7 @@
     <string name="alert_back_milink_hangup_tips_content_vb">画面をオフにすると、アプリはキャストを中断することなくバックグラウンドで動作します。電源ボタンを押すと画面がオンに戻ります。</string>
     <string name="all_address_choose_hint">この地域のすべての番号</string>
     <string name="allow_all">すべて許可する</string>
+    <string name="allow_device_id_access">デバイスIDを使用できるアプリを選択</string>
     <string name="allow_onetime">1回のみ許可</string>
     <string name="already_close_gamebooster">ゲームターボはオフです</string>
     <string name="am">午前</string>
@@ -224,8 +225,8 @@
     <string name="antivirus_privacy_dialog_cloudscan">アプリの名前と詳細をアップロード</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">ウイルスをより効果的に検出して中和するために、アプリのパッケージ名とプロパティをアップロードして、クラウドエンジンを使ってスキャンします。</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
-    <string name="antivirus_privacy_dialog_summary">&lt;Data>この機能は、サードパーティのウイルス対策エンジンによって提供されています。詳細については、サードパーティの&lt;a href=\"%1$s\">ライセンス契約&lt;/a>をお読みください。&lt;/Data></string>
-    <string name="antivirus_privacy_dialog_summary_kddi">&lt;Data>セキュリティスキャンを実行した場合、あなたのデバイスに関する情報及びスキャンの結果に関する情報等が%1$sのサーバーにアップロードされ、各社の&lt;a href=\"%2$s\">プライバシーポリシー&lt;/a>に従って利用されます。&lt;br/>&lt;br/>セキュリティスキャンを実行する前に、%3$sのプライバシーポリシーを読んで同意してください。&lt;br/>&lt;br/>%4$sのサーバーにデータをアップロードすることに同意しない場合でも、ローカルに保存されているウイルス定義を使用したセキュリティスキャンを実行できます。その場合、あなたのデータはいかなるサーバーにもアップロードされることはありません。&lt;/Data></string>
+    <string name="antivirus_privacy_dialog_summary"><Data>この機能は、サードパーティのウイルス対策エンジンによって提供されています。詳細については、サードパーティの&lt;a href=\"%1$s\">ライセンス契約&lt;/a>をお読みください。</Data></string>
+    <string name="antivirus_privacy_dialog_summary_kddi"><Data>セキュリティスキャンを実行した場合、あなたのデバイスに関する情報及びスキャンの結果に関する情報等が%1$sのサーバーにアップロードされ、各社の&lt;a href=\"%2$s\">プライバシーポリシー&lt;/a>に従って利用されます。&lt;br/>&lt;br/>セキュリティスキャンを実行する前に、%3$sのプライバシーポリシーを読んで同意してください。&lt;br/>&lt;br/>%4$sのサーバーにデータをアップロードすることに同意しない場合でも、ローカルに保存されているウイルス定義を使用したセキュリティスキャンを実行できます。その場合、あなたのデータはいかなるサーバーにもアップロードされることはありません。</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">プライバシーポリシー</string>
     <string name="antivirus_privacy_dialog_title">プライバシーポリシー</string>
     <string name="antivirus_privacy_dialog_title_kddi">プライバシーポリシー</string>
@@ -935,6 +936,7 @@
     <string name="button_text_let_me_select">了解</string>
     <string name="button_text_next_step">次へ</string>
     <string name="button_text_next_step_timer">次のステップ (%d)</string>
+    <string name="button_text_once_accept">1回のみ許可</string>
     <string name="button_text_open_now">開く</string>
     <string name="button_text_reject">拒否</string>
     <string name="button_text_trust">このネットワークを信頼する</string>
@@ -1147,6 +1149,7 @@
     <string name="create_shortcut">ゲームターボのホーム画面ショートカットを作成する</string>
     <string name="cs_color_sense">色温度</string>
     <string name="cs_conversation_record_using">録音中</string>
+    <string name="cs_func_toast_bluetooth_headset">この機能を使用するには、Bluetooth イヤホンを切断してください</string>
     <string name="cs_func_toast_headset">この機能を使用するには、ヘッドセットとの接続を解除してください</string>
     <string name="cs_func_toast_light">この機能を使用するには、フロントカメラに切り替えてください</string>
     <string name="cs_func_toast_pickup">この機能を使用するには、ビデオ通話に切り替えてください</string>
@@ -1177,6 +1180,7 @@
     <string name="cs_tool_box_phone_guide_case_1">新しい通話ツールボックスで同時通訳やその他の機能をお試しください</string>
     <string name="cs_tool_box_phone_guide_case_2">新しい通話ツールボックスのさまざまな機能をお試しください</string>
     <string name="cs_voice_print">声紋を録音</string>
+    <string name="cs_voice_search">声紋</string>
     <string name="cs_vt_camera_toast_case1">現在のアプリでカメラを開く</string>
     <string name="cs_vt_camera_toast_case2">付近に互換性のあるデバイスがありません</string>
     <string name="cta_agree_desc">当社のサービスを利用できるようにするには、このアプリにインターネットへの接続を許可し、上記のアクセス許可を付与してください。</string>
@@ -1267,10 +1271,26 @@
     <string name="descx_quick_scan_preparation">お待ちください…</string>
     <string name="detail_app_button">アプリ情報</string>
     <string name="details_subtitle">使用状況の詳細</string>
+    <string name="device_id">パーソナライズされたおすすめ用のデバイスID</string>
+    <string name="device_id_app_manager_dialog_continue">停止しない</string>
+    <string name="device_id_app_manager_dialog_message">一部のアプリにアクティビティの追跡を許可しました。今すぐ追跡を停止できます。</string>
+    <string name="device_id_app_manager_dialog_stop">停止</string>
+    <string name="device_id_app_manager_switch_sub_title">この機能がオフの場合、すべての新しい追跡リクエストは自動的に拒否されます</string>
+    <string name="device_id_app_manager_switch_title">アプリによる追跡のリクエストを許可</string>
+    <string name="device_id_app_manager_tips">アプリは追跡識別子を使用して様々なアプリやウェブサイトでのアクティビティを追跡し、パーソナライズド広告のおすすめやその他の機能を提供できます</string>
+    <string name="device_id_app_manager_title">アプリの追跡を管理</string>
+    <string name="device_id_manager_tips">システムは、プライバシーを保護するために、デバイス識別子の代わりにリセット可能な追跡識別子 (OAID) をアプリに提供します。</string>
+    <string name="device_id_manager_title">追跡識別子を管理</string>
+    <string name="device_id_reset">追跡識別子をリセット</string>
+    <string name="device_id_reset_msg">リセット後、このデバイスに新しい識別子が関連付けられます。</string>
+    <string name="device_id_str">現在の追跡識別子: %s</string>
     <string name="device_manager_apply_step_1">このアプリのデバイス管理者をアクティブ化しますか？</string>
     <string name="device_manager_apply_step_2">"このアプリのデバイス管理者をアクティブ化すると、個人データの漏洩につながる可能性があります。
 デバイスのすべてのデータが消去され、ロック画面パスワードがリセットされる可能性があります。"</string>
     <string name="device_manager_apply_step_3">続行する前に、すべての可能性のあるリスクについて理解していることを確認してください。 今すぐこのアプリのデバイス管理者をアクティブ化しますか？</string>
+    <string name="device_oaid">仮想IDを管理</string>
+    <string name="device_oaid_desc">一意の識別子の代わりに、システムは仮想ID (OAID) をインストールされたアプリに提供します。アプリがユーザーの行動や好みを追跡することを防ぎ、プライバシーを保護します。</string>
+    <string name="device_oaid_title">仮想ID</string>
     <string name="dialog_app_roaming_message">%1$sはローミング時にモバイルデータを使用できません。ローミング中は、例外に追加したアプリだけがモバイルデータを使用できます。</string>
     <string name="dialog_app_roaming_title">%1$sはデータローミングを使用できません</string>
     <string name="dialog_change_package_type_summary">データプランの種類を変更すると、すべてのデータ使用量の設定（データ上限など）がデフォルトにリセットされます。今すぐデータプランの種類を変更しますか？</string>
@@ -1408,12 +1428,12 @@
     <string name="exit">終了</string>
     <string name="exit_dialog_exit">終了</string>
     <string name="exit_dialog_garbage_clean_message">ゴミの量が%sを超えています。クリーンアップしますか？</string>
-    <string name="exit_dialog_garbage_clean_message_new">&lt;Data>クリーナーは、&lt;font color=#0099ff>%s&lt;/font>のストレージ容量を解放することができます。今すぐクリーンアップしますか？&lt;/Data></string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>クリーナーは、&lt;font color=#0099ff>%s&lt;/font>のストレージ容量を解放することができます。今すぐクリーンアップしますか？</Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">クリーンアップ</string>
     <string name="exit_dialog_garbage_clean_title">ストレージ容量を解放</string>
     <string name="exit_dialog_homepage_optimise_message">デバイスのパフォーマンススコアは80点未満です。今すぐ最適化しますか？</string>
     <string name="exit_dialog_release_memory_positive_button">閉じる</string>
-    <string name="exit_dialog_release_memory_title_new">&lt;Data>デバイスを&lt;font color=#0099ff>%s&lt;/font>高速化&lt;/Data></string>
+    <string name="exit_dialog_release_memory_title_new"><Data>デバイスを&lt;font color=#0099ff>%s&lt;/font>高速化</Data></string>
     <string name="exit_dialog_release_storage_message">デバイスのストレージの80%以上が使用されています。使用しないアプリをアンインストールして容量を解放することをお勧めします。</string>
     <string name="exit_dialog_release_storage_message_new">デバイスのストレージの%s以上が使用されています。使用しないアプリをアンインストールして容量を解放することをお勧めします。</string>
     <string name="exit_dialog_release_storage_positive_button">容量を解放</string>
@@ -1730,7 +1750,7 @@
     <string name="game_wid_viewpoint_buttom">少し休憩しましょう。</string>
     <string name="gamebooster_confirm_dialog_negative_btn">同意しない</string>
     <string name="gamebooster_confirm_dialog_positive_btn">同意</string>
-    <string name="gamebooster_confirm_dialog_tip">&lt;Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Privacy Policy&lt;/a>&lt;/Data></string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Privacy Policy&lt;/a></Data></string>
     <string name="gamebooster_confirm_dialog_title">プライバシーポリシーに同意</string>
     <string name="gamebooster_dialog_recover">更新</string>
     <string name="gamebooster_dialog_start_booster">開始</string>
@@ -1859,8 +1879,8 @@
     <string name="gb_audition_play_instruction">イヤホンを使用すると効果的です</string>
     <string name="gb_award_noti_message">ゲームターボでGame for Peaceのバックグラウンドでのアップデートをオンにして報酬を獲得</string>
     <string name="gb_award_noti_title">Game for Peaceの報酬はこちら！</string>
-    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>システム全体で究極モードがオンになっている場合、ゲームターボでバランスモードに切り替えることはできません。セキュリティでバッテリー設定を変更できます。&lt;br>&lt;a href=\"#\">セキュリティを開く&lt;/a>&lt;/Data></string>
-    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>システム全体で究極モードがオンになっている場合、ゲームターボでバランスモードに切り替えることはできません。セキュリティでバッテリー設定を変更できます。&lt;br>&lt;a href=\"#\">セキュリティを開く&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>システム全体で究極モードがオンになっている場合、ゲームターボでバランスモードに切り替えることはできません。セキュリティでバッテリー設定を変更できます。&lt;br>&lt;a href=\"#\">セキュリティを開く&lt;/a></Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>システム全体で究極モードがオンになっている場合、ゲームターボでバランスモードに切り替えることはできません。セキュリティでバッテリー設定を変更できます。&lt;br>&lt;a href=\"#\">セキュリティを開く&lt;/a></Data></string>
     <string name="gb_bar_high">高</string>
     <string name="gb_bar_low">低</string>
     <string name="gb_bar_mid">中</string>
@@ -1988,7 +2008,7 @@
     <string name="gb_new_feature">新しい機能</string>
     <string name="gb_not_support_on_device">"This app can't be used on the outer screen"</string>
     <string name="gb_operat_frequently">操作回数が多すぎます</string>
-    <string name="gb_performace_guide_disable_desc">&lt;Data>システム全体のパフォーマンスモードがオンのとき、ゲームターボではバランスモードに切り替えることができません。バッテリーの設定は、セキュリティで変更できます。&lt;br>&lt;a href=\"#\">セキュリティを開く&lt;/a>&lt;/Data></string>
+    <string name="gb_performace_guide_disable_desc"><Data>システム全体のパフォーマンスモードがオンのとき、ゲームターボではバランスモードに切り替えることができません。バッテリーの設定は、セキュリティで変更できます。&lt;br>&lt;a href=\"#\">セキュリティを開く&lt;/a></Data></string>
     <string name="gb_performace_switch_toast">パフォーマンスモードに切り替えました。デバイスが発熱し、より多くの電力を消費する可能性があります。</string>
     <string name="gb_performace_tips_button">切り替える</string>
     <string name="gb_performace_tips_title">より快適な利用体験を得るにはパフォーマンスモードに切り替える</string>
@@ -2005,7 +2025,7 @@
     <string name="gb_predownload_dialog_cancel">今はしない</string>
     <string name="gb_predownload_dialog_checked">今後表示しない</string>
     <string name="gb_predownload_dialog_confirm">オンにする</string>
-    <string name="gb_predownload_dialog_message_china">&lt;Data>このゲームのアップデートコンテンツは、WLANに接続して画面をオフにすると、自動的にこのデバイスにダウンロードされます。そのため、新バージョンがリリースされるとすぐに利用を開始できるようになります。&lt;br>&lt;br>この機能を使用する前に、&lt;a href=\"%1$s\">バックグラウンドでのアップデートに関する声明&lt;/a>を読んで同意してください。&lt;/Data></string>
+    <string name="gb_predownload_dialog_message_china"><Data>このゲームのアップデートコンテンツは、WLANに接続して画面をオフにすると、自動的にこのデバイスにダウンロードされます。そのため、新バージョンがリリースされるとすぐに利用を開始できるようになります。&lt;br>&lt;br>この機能を使用する前に、&lt;a href=\"%1$s\">バックグラウンドでのアップデートに関する声明&lt;/a>を読んで同意してください。</Data></string>
     <string name="gb_predownload_dialog_title">バックグラウンドでのアップデートが利用可能になりました</string>
     <string name="gb_predownload_message_new">デバイス未使用時に対応するゲームを自動的にアップデートする</string>
     <string name="gb_predownload_noti_message">%2$1.2fGBのアップデートコンテンツがすでにこのデバイスに保存されています。新しいバージョンがリリースされたら、すぐに使用することができます。</string>
@@ -2182,7 +2202,7 @@
     <string name="gd_sidebar_edit_quick_title">ショートカット</string>
     <string name="gd_sidebar_long_press_tips">デバイスを縦に持った状態でインジケーターを長押しすると移動します</string>
     <string name="gd_splite_screen_tips">画面分割機能はフローティングウィンドウに対応していません</string>
-    <string name="gdpr_msg">&lt;Data>セキュリティリスクを検出してデータを保護するためには、デバイスに関する必要な情報を収集する必要があります。サービスを利用する前に、&lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">プライバシーポリシー&lt;/a>を読んで同意してください。このような情報の収集を許可しない場合でも、このアプリを使用することはできますが、一部の機能は利用できません。&lt;/Data></string>
+    <string name="gdpr_msg"><Data>セキュリティリスクを検出してデータを保護するためには、デバイスに関する必要な情報を収集する必要があります。サービスを利用する前に、&lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">プライバシーポリシー&lt;/a>を読んで同意してください。このような情報の収集を許可しない場合でも、このアプリを使用することはできますが、一部の機能は利用できません。</Data></string>
     <string name="get_detail_by_click">タップして詳細を表示</string>
     <string name="get_phone_num_fail">不明な電話番号</string>
     <string name="get_sys_info">情報を取得中…</string>
@@ -2289,11 +2309,11 @@
     <string name="gtb_dialog_btn_open">オンにする</string>
     <string name="gtb_dialog_hint_smart_5g">ゲームターボ > 設定 でこの機能のオンとオフを切り替えることができます。</string>
     <string name="gtb_dialog_privacy_speed_message">Xunyou ゲームブースターを利用しようとしています。このサービスでは、メンバーシップ期間を記録するために、Xiaomi アカウントIDを収集します。</string>
-    <string name="gtb_dialog_privacy_speed_tips">&lt;Data>Xunyou ゲームブースターの&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意しました。&lt;/Data></string>
-    <string name="gtb_dialog_privacy_speed_tips_new">"&lt;Data>I've read and agreed to the Xunyou Game Booster &lt;a href=\"%1$s\">Privacy Policy&lt;/a>.&lt;/Data>"</string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>Xunyou ゲームブースターの&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意しました。</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"I've read and agreed to the Xunyou Game Booster &lt;a href=\"%1$s\">Privacy Policy&lt;/a>."</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou ゲームブースター</string>
     <string name="gtb_dialog_privacy_voice_message">"You're about to use Xunyou Game Voice Changer. This service will collect your Xiaomi Account ID to record your membership duration."</string>
-    <string name="gtb_dialog_privacy_voice_tips">&lt;Data>Xunyou ゲームボイスチェンジャーの&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意しました。&lt;/Data></string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>Xunyou ゲームボイスチェンジャーの&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意しました。</Data></string>
     <string name="gtb_dialog_privacy_voice_title">Xunyou ゲームボイスチェンジャー</string>
     <string name="gtb_dialog_summary_smart_5g">ゲームターボが5Gネットワークを検出すると、デバイスを利用可能な最良のネットワークに接続して、ネットワークの遅延を軽減します。今すぐこの機能をオンにしますか？</string>
     <string name="gtb_dialog_title_smart_5g">5Gネットワークの最適化</string>
@@ -3061,9 +3081,12 @@
     <string name="numeric_recording_intro_header">パスワードを入力してください</string>
     <string name="numeric_retry_button_text">キャンセル</string>
     <string name="numeric_settings_help_how_to_record">PINの設定方法</string>
+    <string name="oaid_apps_summary">アプリ別にアクセスの許可または制限を設定する</string>
     <string name="oaid_apps_title">仮想IDを管理</string>
     <string name="oaid_reset_content_tip">ここで仮想IDをオフにすると、一部のアプリが正常に動作しなくなり、アプリデータの一部が失われたり、使用できなくなったりする可能性があります。</string>
     <string name="oaid_reset_final_tip">仮想IDをオフにしてもよろしいですか？</string>
+    <string name="oaid_string">"現在の仮想ID：
+%1s"</string>
     <string name="oaid_tips_content">仮想ID (OAID) は、ユーザーの行動を追跡し、広告をパーソナライズするために使用できます。仮想IDへのアクセスを許可するアプリを選択できます。アクセスを制限すると、おすすめの広告が表示されなくなったり、アプリが正常に動作しなくなったりする場合がありますのでご注意ください。</string>
     <string name="ok">OK</string>
     <string name="ok_button">OK</string>
@@ -3200,6 +3223,7 @@
     <string name="pc_batery_protection">バッテリー保護</string>
     <string name="pc_battery_charge_protect">充電保護</string>
     <string name="pc_battery_chart_loading">お待ちください…</string>
+    <string name="pc_battery_date_year_month_format">yyyy年M月</string>
     <string name="pc_battery_detail_curve_reference_now">現在</string>
     <string name="pc_battery_detail_device_item_title">バッテリー使用量の統計</string>
     <string name="pc_battery_health_revise_title">バッテリーの健康度情報を調整</string>
@@ -3232,7 +3256,7 @@
     <string name="pc_camera_printer_notify_subtitle">接続されました</string>
     <string name="pc_camera_printer_title">フォトプリンターキット</string>
     <string name="pc_category_charge_settings">充電設定</string>
-    <string name="pc_charge_mode_low_power_fast_speed">低電圧</string>
+    <string name="pc_charge_mode_low_power_fast_speed">高速化</string>
     <string name="pc_charge_mode_low_power_fast_speed_tips">デバイスが熱くなる可能性があります</string>
     <string name="pc_charge_mode_standard">標準</string>
     <string name="pc_charge_mode_topspeed">トップスピード</string>
@@ -3263,6 +3287,7 @@
     <string name="pc_continuity_open_save_mode_notifi_sumary">%1$sのバッテリー残量が%2$sを下回っています。バッテリーセーバーをオンにすると、%3$s%4$s使用を継続できます。</string>
     <string name="pc_continuity_open_save_mode_notifi_title">%sのバッテリー残量が少なくなっています</string>
     <string name="pc_current_power_mode">現在のモード</string>
+    <string name="pc_cycle_count_protect_title">周期</string>
     <string name="pc_emergency_call">緊急</string>
     <string name="pc_endurance_calculation">計算中…</string>
     <string name="pc_entered_extreme_mode">休止モードがオンになりました</string>
@@ -3294,11 +3319,16 @@
     <string name="pc_fast_charge_switch_toast_message">変更は次回の充電時に適用されます</string>
     <string name="pc_fast_charge_temp_remider">オンにすると、充電速度が自動的に調整されます。この機能は、Xiaomi 付属の充電器でのみ動作します。充電中にデバイスが熱くなる場合があります。</string>
     <string name="pc_fast_charge_title">充電速度のブースト</string>
+    <string name="pc_first_use_error_tips">計算中</string>
+    <string name="pc_first_use_protect_title">初回使用</string>
     <string name="pc_going_to_exit_extreme_mode">休止モードを終了しています</string>
     <string name="pc_going_to_exit_extreme_mode_summary">デバイスは充電中です。休止モードはオフになりました。</string>
     <string name="pc_going_to_extreme_mode">休止モードを起動中</string>
     <string name="pc_handle_battery_level">グリップ</string>
     <string name="pc_have_no_battery_issue">問題なし</string>
+    <string name="pc_health_charge_protect_notification_summary">バッテリーの劣化を抑えるためにバッテリー保護をオンにする</string>
+    <string name="pc_health_charge_protect_summary">バッテリー駆動時間を延ばすため、バッテリー残量が %1$s に達すると充電が停止します</string>
+    <string name="pc_health_charge_protect_title">バッテリー保護</string>
     <string name="pc_hide_more_power_rank_apps">非表示</string>
     <string name="pc_hidemode_normal">バランス</string>
     <string name="pc_hidemode_normal_title">バランス</string>
@@ -3337,6 +3367,8 @@
     <string name="pc_low_battery_fast_charge_summary">画面がオフでバッテリー残量が少ない場合は、付属の充電器を接続すると充電が速くなります。この機能により、デバイスが熱くなる可能性があります。</string>
     <string name="pc_low_temp_charge_summary">充電器を接続したまま、画面がオフになってからバッテリーが温まるまで待つと、正常に充電されます</string>
     <string name="pc_low_temp_charge_title">低温充電</string>
+    <string name="pc_low_temperature_extreme_endurance_summary">周囲温度が極端に低い場合、デバイスのパフォーマンスを制限してバッテリー駆動時間を延ばします</string>
+    <string name="pc_low_temperature_extreme_endurance_title">低温耐久モード</string>
     <string name="pc_main_activity_back">戻る</string>
     <string name="pc_main_battery_text_day">使用時間%1$s分延長、残り約%2$s日</string>
     <string name="pc_main_battery_text_day_hour">使用時間%1$s分延長、残り%2$s日%3$s時間</string>
@@ -3367,6 +3399,7 @@
     <string name="pc_power_mode_has_berserk">究極モードはオンです</string>
     <string name="pc_power_mode_has_performance">パフォーマンスモードはオンです</string>
     <string name="pc_power_save_settings_new">バッテリーセーバーの設定</string>
+    <string name="pc_production_date_protect_title">製造日</string>
     <string name="pc_remind_close_cover_to_charge_summary">充電前にデバイスを折りたたむと、より高速で安定した充電が可能です。</string>
     <string name="pc_remind_close_cover_to_charge_title">折りたたんで充電</string>
     <string name="pc_reminder_always_protect_summary">制限付き充電に切り替えてバッテリーの劣化を軽減します</string>
@@ -3412,6 +3445,8 @@
     <string name="pc_wait_device_cools_down">この機能を使用するには、デバイスの温度が下がるまでお待ちください。</string>
     <string name="pc_wireless_charge_adjust_position_summary">ワイヤレス充電器の上に置いてください</string>
     <string name="pc_wireless_charge_adjust_position_title">デバイスの充電を高速化</string>
+    <string name="pc_wireless_charge_notification_summary">ワイヤレス充電は有線充電よりもエネルギー効率が悪いです</string>
+    <string name="pc_wireless_charge_notification_title">ワイヤレス充電中</string>
     <string name="pc_wireless_charging_special_stand_summary1">ワイヤレス充電器に付属しているスタンドにデバイスを取り付けます。</string>
     <string name="pc_wireless_charging_special_stand_summary2">最高の充電パフォーマンスを得るには、ワイヤレス充電器に付属しているスタンドにデバイスを取り付けてください</string>
     <string name="pc_wireless_charging_special_stand_title">付属の充電スタンドを使用する</string>
@@ -3554,6 +3589,7 @@
     <string name="permission_instruction_write_contacts">この権限により、アプリは連絡先を追加、削除、編集できるようになります。</string>
     <string name="permission_instruction_write_settings">この権限により、アプリはシステム設定を変更できます。悪意のあるアプリは、この権限を使用してシステム構成を破壊し、デバイスの通常の使用に影響を与える可能性があります。</string>
     <string name="permission_legacy_storage">写真、ビデオ、オーディオ、ファイルへのアクセス</string>
+    <string name="permission_oaid_desc">%1$s が他のアプリやウェブサイトでのアクティビティを追跡することを許可しますか？</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">アプリは、連絡先の読み取り、通話履歴の表示、システム設定の変更、カメラやその他のデバイスリソースにアクセスする前に、ユーザーの許可を要求しません。この機能はアクセス許可設定でオンにできます。</string>
     <string name="permission_permission_control_closed_desc_dialog_title">アクセス許可マネージャー</string>
     <string name="permission_precise_location">正確な位置情報</string>
@@ -3737,8 +3773,8 @@
     <string name="power_center_surface_temp_low">低温</string>
     <string name="power_center_surface_temp_lower">やや低い</string>
     <string name="power_center_surface_temp_normal">正常</string>
-    <string name="power_center_time_to_boot">設定時刻に電源オン</string>
-    <string name="power_center_time_to_shutdown">設定時刻に電源オフ</string>
+    <string name="power_center_time_to_boot">時刻</string>
+    <string name="power_center_time_to_shutdown">時刻</string>
     <string name="power_center_title">バッテリー</string>
     <string name="power_center_unoffical_battery_button">正規サービスプロバイダーを探す</string>
     <string name="power_center_unoffical_battery_dialog">非純正バッテリーの警告</string>
@@ -4055,8 +4091,8 @@
     <string name="privacy_dialog_camera_message">プライバシーを保護するために、システムはアプリがバックグラウンドでカメラを使用することを許可していません。</string>
     <string name="privacy_dialog_camera_title">バックグラウンドでのカメラの使用を制限</string>
     <string name="privacy_dialog_content_part1">セキュリティへようこそ！このアプリは、デバイスのゴミやウイルスをチェックするだけでなく、アプリの管理、モバイルデータの使用量のコントロール、通話やメッセージのブロックなどを行うことができます。</string>
-    <string name="privacy_dialog_content_part2">&lt;Data>セキュリティアプリは、サービスの提供とその機能の改善に必要な個人情報を収集する必要があります。当社が収集した情報の取扱方法については、&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>をご覧ください。セキュリティアプリのプライバシーポリシーへの同意は、いつでも設定で撤回することができます。&lt;/Data></string>
-    <string name="privacy_dialog_content_part3">&lt;Data>セキュリティアプリの使用を開始する前に、&lt;a href=\"%2$s\">利用規約&lt;/a>と&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意してください。前述のサービスの利用に同意しない場合、このアプリの一部機能を使用できなくなります。ただし、基本的な機能は引き続き利用できます。&lt;/Data></string>
+    <string name="privacy_dialog_content_part2"><Data>セキュリティアプリは、サービスの提供とその機能の改善に必要な個人情報を収集する必要があります。当社が収集した情報の取扱方法については、&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>をご覧ください。セキュリティアプリのプライバシーポリシーへの同意は、いつでも設定で撤回することができます。</Data></string>
+    <string name="privacy_dialog_content_part3"><Data>セキュリティアプリの使用を開始する前に、&lt;a href=\"%2$s\">利用規約&lt;/a>と&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意してください。前述のサービスの利用に同意しない場合、このアプリの一部機能を使用できなくなります。ただし、基本的な機能は引き続き利用できます。</Data></string>
     <string name="privacy_dialog_danger_mission_message">Androidには複数のリスクの高い権限（例：プッシュ通知を送信する権限）があります。プライバシーを保護するために、システムはそのような動作を許可するかどうかを尋ね、制限オプションを提供します。</string>
     <string name="privacy_dialog_danger_mission_title">リスクの高い権限</string>
     <string name="privacy_dialog_feedback">フィードバック</string>
@@ -4162,7 +4198,7 @@
     <string name="privacy_revoke_dialog_title_cn">注意</string>
     <string name="privacy_revoke_failed_dialog_content">サーバーエラーが発生しました。1、2分待ってからもう一度お試しください。</string>
     <string name="privacy_revoke_failed_dialog_title">同意を撤回できませんでした</string>
-    <string name="privacy_revoke_tip_dialog_content">&lt;Data>新しいバージョンのプライバシーポリシーに同意しない限り、%1$sの利用を継続することはできません。更新された%2$sの&lt;a href=\"%3$s\">プライバシーポリシー&lt;/a>に今すぐ同意しますか？&lt;/Data></string>
+    <string name="privacy_revoke_tip_dialog_content"><Data>新しいバージョンのプライバシーポリシーに同意しない限り、%1$sの利用を継続することはできません。更新された%2$sの&lt;a href=\"%3$s\">プライバシーポリシー&lt;/a>に今すぐ同意しますか？</Data></string>
     <string name="privacy_revoke_tip_dialog_title">アプリを使用できません</string>
     <string name="privacy_revoke_title">同意の撤回</string>
     <string name="privacy_risk_app">リスクの高いアプリ</string>
@@ -4265,7 +4301,7 @@
     <string name="privacy_thumbnail_shield_top_tip">\"最近のタスク\"に表示されるアプリのプレビューを隠す</string>
     <string name="privacy_type_open">オン</string>
     <string name="privacy_update_dialog_content_1">%sのプライバシーポリシーが更新されました:</string>
-    <string name="privacy_update_dialog_content_2">&lt;Data>続ける前に、新しいバージョンの&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意してください。&lt;/Data></string>
+    <string name="privacy_update_dialog_content_2"><Data>続ける前に、新しいバージョンの&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意してください。</Data></string>
     <string name="privacy_update_dialog_title">プライバシーポリシーの更新</string>
     <string name="privacy_using_camera">カメラを使用中</string>
     <string name="privacy_using_location">位置情報にアクセス中</string>
@@ -4347,6 +4383,16 @@
     <string name="reset_data_dialog_message">このデバイスは、Xiaomi アカウントに関連付けられていません。パスワードの復元またはリセットができません。重要なアイテムをすべてバックアップし、ファクトリーリセットを実行してください。ファクトリーリセットでは、すべてのデータが完全に削除され、SDカードがフォーマットされます。</string>
     <string name="reset_data_dialog_ok">ファクトリーリセット</string>
     <string name="reset_data_title">パスワードを復元できません</string>
+    <string name="restore_device_id_content">パーソナライズされたおすすめはリセットされます</string>
+    <string name="restore_device_id_title">デバイスIDをリセット</string>
+    <string name="restore_dialog_content">現在のデバイスIDをリセットすると、パーソナライズされたおすすめもリセットされます。今すぐリセットしますか？</string>
+    <string name="restore_dialog_positive">リセット</string>
+    <string name="restore_dialog_title">注意</string>
+    <string name="restore_oaid_content">仮想IDをリセットして、行動と好みの記録を消去します</string>
+    <string name="restore_oaid_dialog_content">複数のアプリが仮想IDを使用しています。今すぐリセットすると、アプリデータの一部が失われたり、使用できなくなったりする可能性があります。仮想IDをリセットしてもよろしいですか？</string>
+    <string name="restore_oaid_positive">リセット</string>
+    <string name="restore_oaid_positive_step">リセット (%1$d)</string>
+    <string name="restore_oaid_title">仮想IDをリセット</string>
     <string name="result_autoscan_header">決済の監視</string>
     <string name="result_autoscan_info">決済アプリが起動すると自動的にシステム環境を監視します</string>
     <string name="result_sms_header">メッセージのリスクが検出されました</string>
@@ -5005,6 +5051,9 @@
     <string name="superpower_dialog_button_ok">OK</string>
     <string name="superpower_dialog_massage">ウルトラバッテリーセーバーは、基本的な機能（通話、SMS、ネットワーク接続など）をできるだけ長く利用できるようにするため、大部分の電力消費機能を制限し、デバイスのパフォーマンスを低下させます。ウルトラバッテリーセーバーをオンにしますか？</string>
     <string name="superpower_dialog_title">ウルトラバッテリーセーバー</string>
+    <string name="superpower_notification_low_temp_btn_txt">オンにする</string>
+    <string name="superpower_notification_low_temp_summary">低温耐久モードは、ウルトラバッテリーセーバーがオンで、周囲温度が極端に低い場合に、バッテリーをより節約することができます。</string>
+    <string name="superpower_notification_low_temp_title">ウルトラバッテリーセーバーをオンにしますか？</string>
     <string name="superpower_notification_new_title_new">バッテリー残量が%s未満です</string>
     <string name="superpower_notification_summary">デバイスを充電するか、ウルトラバッテリーセーバーをオンにしてください</string>
     <string name="superpower_notification_time_12">M月d日 EEEE</string>
@@ -5012,6 +5061,7 @@
     <string name="superpower_notification_title_new">バッテリー残量が%s未満です</string>
     <string name="superpower_progress_content">ウルトラバッテリーセーバーをオンにしています…</string>
     <string name="superpower_progress_left_time">%1$d時間%2$d分</string>
+    <string name="superpower_progress_low_temp_content">低温耐久モードをオンにしています…</string>
     <string name="superpower_progress_switch_home">ダークテーマに切り替える</string>
     <string name="superpower_progress_title">残り時間</string>
     <string name="superpower_progress_turndown_brightness">画面の明るさを下げる</string>
@@ -5049,11 +5099,11 @@
     <string name="system_permission_declare_agree">同意</string>
     <string name="system_permission_declare_analytics_declare">当社のユーザーエクスペリエンスプログラムにご登録ください。このアプリは、当社がご利用者に提供するサービスを改善するために、インターネットに接続し、以下の権限または機能を使用して統計を収集する必要があります。統計目的でのみデータを収集しており、収集したデータに基づいてご利用者を個人的に特定することはできません。</string>
     <string name="system_permission_declare_disagree">同意しない</string>
-    <string name="system_permission_declare_double_link">&lt;Data>続ける前に、&lt;a href=\"%1$s\">利用規約&lt;/a>と&lt;a href=\"%2$s\">プライバシーポリシー&lt;/a>を読んで同意してください。&lt;/Data></string>
+    <string name="system_permission_declare_double_link"><Data>続ける前に、&lt;a href=\"%1$s\">利用規約&lt;/a>と&lt;a href=\"%2$s\">プライバシーポリシー&lt;/a>を読んで同意してください。</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">%1sへようこそ！このアプリでは次の機能を使用できます。%2s。</string>
-    <string name="system_permission_declare_meanwhile_double_link">&lt;Data>続ける前に、&lt;a href=\"%1$s\">利用規約&lt;/a>と&lt;a href=\"%2$s\">プライバシーポリシー&lt;/a>を読んで同意してください。&lt;/Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data>続ける前に、&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意してください。&lt;/Data></string>
-    <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data>続ける前に、&lt;a href=\"%1$s\">利用規約&lt;/a>を読んで同意してください。&lt;/Data></string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>続ける前に、&lt;a href=\"%1$s\">利用規約&lt;/a>と&lt;a href=\"%2$s\">プライバシーポリシー&lt;/a>を読んで同意してください。</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>続ける前に、&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意してください。</Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>続ける前に、&lt;a href=\"%1$s\">利用規約&lt;/a>を読んで同意してください。</Data></string>
     <string name="system_permission_declare_no_say_no">必要なアクセス許可を付与しない、または当社によるデータの収集と使用を許可しない場合、このアプリは正常に動作しません。</string>
     <string name="system_permission_declare_no_say_no_analytics">これらのアクセス許可を付与したくない場合は、設定 > 追加設定 > プライバシー > ユーザーエクスペリエンスプログラム で登録を解除できます。</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">必要なアクセス許可を付与しない、または当社によるデータの収集と使用を許可しない場合、このアプリは正常に動作しません。</string>
@@ -5061,13 +5111,13 @@
     <string name="system_permission_declare_privacy_declare">このアプリはインターネットに接続する必要があり、正常に動作するためには以下の権限が必要です。</string>
     <string name="system_permission_declare_privacy_no_network">このアプリが正常に動作するには、以下のアクセス許可が必要です。</string>
     <string name="system_permission_declare_privacy_no_permission">このアプリは、インターネットに接続し、正常に動作するために必要な個人データを収集する必要があります。</string>
-    <string name="system_permission_declare_privacy_policy">&lt;Data>続ける前に、&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意してください。&lt;/Data></string>
+    <string name="system_permission_declare_privacy_policy"><Data>続ける前に、&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意してください。</Data></string>
     <string name="system_permission_declare_revoke_system">このアプリを終了できます。</string>
     <string name="system_permission_declare_revoke_uninstallable">サインアウトしてこのアプリをアンインストールするか、セキュリティ > アプリを管理 > アクセス許可 > アクセス許可 で承認を撤回することができます。</string>
     <string name="system_permission_declare_title">注意</string>
     <string name="system_permission_declare_use_network">ネットワークに接続</string>
     <string name="system_permission_declare_use_network_no_permission">ネットワークに接続</string>
-    <string name="system_permission_declare_user_agreement">&lt;Data>続ける前に、&lt;a href=\"%1$s\">利用規約&lt;/a>を読んで同意してください。&lt;/Data></string>
+    <string name="system_permission_declare_user_agreement"><Data>続ける前に、&lt;a href=\"%1$s\">利用規約&lt;/a>を読んで同意してください。</Data></string>
     <string name="system_permission_perm_answer_call">電話をかける</string>
     <string name="system_permission_perm_optional">" (任意)"</string>
     <string name="system_permission_perm_read_mms">MMSの読み取り</string>
@@ -5453,8 +5503,7 @@ Rolled over extra data"</string>
     <string name="vb_fps_settings_tips">動画のフレームレートに合わせて画面のリフレッシュレートを調整する機能で、バッテリーを節約してスムーズな再生を実現します。コメントをオンにすると、自動リフレッシュレートがオフになります。</string>
     <string name="vb_immerse_voice">イマーシブサウンド</string>
     <string name="vb_movie_mode">シアターモード</string>
-    <string name="vb_movie_power_hint">"シアターモードは、臨場感あふれる視聴体験を提供します。
-デバイスが発熱し、より多くの電力を消費する可能性があります。"</string>
+    <string name="vb_movie_power_hint">シアターモードは、臨場感あふれる視聴体験を提供します。デバイスが発熱し、より多くの電力を消費する可能性があります。</string>
     <string name="vb_movie_subtitle">高いパフォーマンスが必要</string>
     <string name="vb_mv_style_close_toast">スタイルはオフです</string>
     <string name="vb_power_performance_mode_conflict_toast">パフォーマンスモードがオンの場合、この機能は使用できません</string>

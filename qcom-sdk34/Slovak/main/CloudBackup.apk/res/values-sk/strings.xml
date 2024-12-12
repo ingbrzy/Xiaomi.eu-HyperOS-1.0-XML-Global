@@ -449,7 +449,7 @@ Poznámka: Nastavenie nainštalovaných aplikácií nebude zálohované v služb
     <string name="process_whole_recovery">Obnova \"%s\"</string>
     <string name="provision_back">Späť</string>
     <string name="provision_background_restore_more_data">Obnoviť viac položiek na pozadí</string>
-    <string name="provision_error_connect_msg">Otestujte sieť a skúste to znovu. Zálohy nie sú dostupné ak je zariadenie offline.</string>
+    <string name="provision_error_connect_msg">Otestujte sieť a skúste to znova. Zálohy nie sú dostupné ak je zariadenie offline.</string>
     <string name="provision_error_connect_title">Nie je možné pripojiť</string>
     <string name="provision_next">Ďalej</string>
     <string name="provision_restore_data">Obnovujú sa položky</string>
@@ -463,7 +463,7 @@ Poznámka: Nastavenie nainštalovaných aplikácií nebude zálohované v služb
     <string name="remove_again">Skúste to znovu</string>
     <string name="remove_task_in_process">Mazanie…</string>
     <string name="remove_task_unfinished">mazanie nie je dokončené</string>
-    <string name="remove_unfinished">Odstránenie, skúste to znovu neskôr</string>
+    <string name="remove_unfinished">Odstránenie, skúste to znova neskôr</string>
     <string name="repeat_recommend_wechat_backup_notification_content">Teraz môžete zálohovať dáta z Wechatu. Ťuknite pre podrobnosti.</string>
     <string name="repeat_recommend_wechat_backup_notification_title">Zálohovať dáta WeChatu</string>
     <string name="request_notification_permission_dialog_confirm">Rozumiem</string>
@@ -509,7 +509,7 @@ Skontrolujte nastavenia siete a skúste to znovu."</string>
     <string name="restore_task_cancelling">Ruší sa…</string>
     <string name="restore_task_in_process">Obnovenie…</string>
     <string name="restore_task_unfinished">Nepodarilo sa obnoviť</string>
-    <string name="restore_unfinished">Obnovuje sa, skúste to znovu neskôr</string>
+    <string name="restore_unfinished">Obnovuje sa, skúste to znova neskôr</string>
     <string name="restoring_app_data_title_no_progress">Obnovujú sa dáta z WeChatu…</string>
     <string name="restoring_data">Obnovujú sa dáta…</string>
     <string name="restoring_file_title_no_progress">Obnovujú sa aplikácie…</string>
@@ -554,9 +554,13 @@ Skontrolujte nastavenia siete a skúste to znovu."</string>
     <string name="session_failed_dist_no_space_btn_text">Vyčistiť úložisko</string>
     <string name="session_failed_get_installed_apps_denied_detail">Pre automatické zálohovanie prejdite do Nastavení, udeľte tejto aplikácii povolenie na prístup k zoznamu aplikácií nainštalovaných na vašom zariadení a zvoľte \"Vždy povoliť\".</string>
     <string name="session_failed_get_installed_apps_denied_title">Vyžadujú sa povolenia</string>
+    <string name="session_failed_invalid_token_action">Prihlásiť sa</string>
+    <string name="session_failed_invalid_token_detail">Prihláste sa znova</string>
+    <string name="session_failed_invalid_token_title">Neplatné prihlasovacie údaje</string>
     <string name="session_failed_no_server_response_title">Nepodarilo sa pripojiť k serveru.</string>
     <string name="session_failed_override_detail">Lokálna záloha je iná ako záloha v službe Xiaomi Cloud. Ak budete pokračovať, aktuálna záloha prepíše tú predchádzajúcu. Prepísať teraz?</string>
     <string name="session_failed_override_title">Prepisovanie zálohy</string>
+    <string name="session_failed_reason_invalid_token">Neplatné prihlasovacie údaje. Prihláste sa znova.</string>
     <string name="session_failed_restore_app_data_btn_text">Späť</string>
     <string name="session_failed_restore_app_data_detail">Pred obnovením položiek sa uistite, že na tomto zariadení nie je nainštalovaná aplikácia WeChat. Počas obnovy údajov neotvárajte ani nepoužívajte aplikáciu WeChat.</string>
     <string name="session_failed_restore_app_data_title">Odinštalovať WeChat</string>

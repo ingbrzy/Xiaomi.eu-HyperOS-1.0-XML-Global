@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">Tænd for Vises altid under Indstillinger først</string>
     <string name="apply_theme_with_ringtones">Brug temaringetoner</string>
     <string name="apply_wallpaper_after_three_theme">Du bruger i øjeblikket et tredjepartstema. Hvis du ændrer din baggrund på låseskærmen, kan dette medføre, at udseende af uret på låseskærmen gendannes til standard. Brug nu?</string>
+    <string name="apply_wallpaper_dialog_title">Anvend baggrund</string>
     <string name="apply_wallpaper_notice">Bemærk</string>
     <string name="apply_wallpaper_notice_cancel">Annuller</string>
     <string name="apply_wallpaper_notice_content">Nuværende anvendte tema indeholder tilpassede låseskærmsmoduler, der muligvis kan forhindre dig i at foretage låseskærmsrelaterede justeringer.</string>
     <string name="apply_wallpaper_notice_lockscreen">Dit nuværende tema indeholder en tilpasset låseskærm. Vi vil udskifte den med standardlåseskærmen, hvis du bruger denne baggrund. Brug alligevel?</string>
     <string name="apply_wallpaper_notice_still_apply">Anvend</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Du bruger et baggrundssæt lige nu. Hvis du anvender et nyt tema, erstattes baggrunde for både Låseskærm og Startskærm, og always-on-skærmen gendannes til den tidligere stil. Anvend alligevel?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Du bruger i øjeblikket en super-baggrund. Hvis du vælger en ny baggrund, vil den blive brugt på både din startskærm og din låseskærm, og \"Vis altid\" vil blive gendannet til den tidligere indstilling. Brug nu?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">Du bruger et baggrundssæt lige nu. Hvis du anvender et nyt tema, erstattes baggrunde for både Låseskærm og Startskærm. Anvend alligevel?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Du bruger i øjeblikket et super-baggrund. Hvis du vælger en ny baggrund, vil den blive brugt på både din startskærm og din låseskærm. Brug nu?</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">Luftkvalitetsindeks: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">Kunne ikke oprette forbindelse til netværket. Kontroller dine netværksindstillinger og prøv igen.</string>
     <string name="card_retry">Prøv igen</string>
     <string name="carefully_chosen_wallpaper">Redaktørens valg</string>
+    <string name="carousel_no_set_wallpaper_effects">Kan ikke indstill effekter, når baggrundskarussel er slået til</string>
     <string name="change_host_hint">Skift vært</string>
     <string name="change_wallpaper">Baggrund</string>
     <string name="channel_featured_page">Fremhævet</string>
@@ -146,8 +150,13 @@
     <string name="clear_text_end_icon_content_description">Ryd tekst</string>
     <string name="clearable_edittext_clear_description">Ryd</string>
     <string name="close">Luk</string>
-    <string name="columbus_ad_flag_text">Reklame</string>
+    <string name="columbus_ad_flag_text">REKLAME</string>
+    <string name="columbus_reward_style_access">Få mere at vide</string>
+    <string name="columbus_reward_style_close_cancel">Afslut</string>
+    <string name="columbus_reward_style_close_desc">Se videoen til ende for at få en belønning. Fortsæt med at se?</string>
+    <string name="columbus_reward_style_speed_confirm">Fortsæt</string>
     <string name="columbus_skip_ad">Spring over</string>
+    <string name="columbus_skip_ad_time">Spring (%d) over</string>
     <string name="come_and_choose_wallpaper">Vælg mellem tusindvis af fantastiske baggrunde</string>
     <string name="common_google_play_services_enable_button">Aktivér</string>
     <string name="common_google_play_services_enable_text">Du skal aktivere Google Play-tjenester, for at %1$s kan fungere.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Morgen</string>
     <string name="editor_apply_message">"Denne funktion bruges til fejlsøgning af designere. Standardtemaet vil automatisk blive gendannet efter et stykke tid. Filsti for det aktuelle tema: "</string>
     <string name="editor_apply_toast">Vælg temp.mtz i rodmappen manuelt</string>
+    <string name="effect_home">Startskærmseffekter</string>
+    <string name="effect_lock">Låsekærmseffekter</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Indtast en e-mailadresse</string>
     <string name="eras_ad">e.v.t.</string>
@@ -422,6 +433,7 @@
     <string name="later">Ikke nu</string>
     <string name="latest_wallpaper">Ny</string>
     <string name="limit_discount">Begrænset tilbud</string>
+    <string name="linked_wallpaper">Baggrundssæt</string>
     <string name="live_wallpaper">Online baggrund</string>
     <string name="live_wallpapers">Live baggrunde</string>
     <string name="loading">Lige et øjeblik…</string>
@@ -650,14 +662,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Vis ikke igen</string>
     <string name="not_set">Ikke angivet</string>
+    <string name="not_support_subtitle">Kontakt virksomhedens IT-support, eller skift konto</string>
+    <string name="not_support_title">Du kan ikke bruge Temaer, når du er på din arbejdsprofil</string>
     <string name="notifications_permission_confirm">Tillad</string>
     <string name="notifications_permission_decline">Tillad ikke</string>
     <string name="notifications_permission_title">Vil du tillade, at appen sender dig notifikationer?</string>
     <string name="notify_style">Notifikationseffekter</string>
-    <string name="offline_notification_text">Tryk for at åbne annoncen</string>
-    <string name="offline_notification_title">Se den annonce, du gemte, mens du var offline</string>
+    <string name="offline_dialog_image_description">Ikon</string>
+    <string name="offline_dialog_text">"Tak for din interesse.
+Vi deler mere, når du er online igen."</string>
+    <string name="offline_notification_title">Du er online igen Lad os fortsætte, hvor vi slap</string>
+    <string name="offline_notification_title_with_advertiser">Du er online igen Fortsæt med at få flere oplysninger om %s</string>
     <string name="offline_opt_in_confirm">OK</string>
-    <string name="offline_opt_in_confirmation">Du får en notifikation med linket, når du er online igen</string>
     <string name="offline_opt_in_decline">Nej tak</string>
     <string name="offline_opt_in_message">Vi sender dig en notifikation med et link til annoncørens website.</string>
     <string name="offline_opt_in_title">Åbn annoncen, når du er online igen.</string>
@@ -679,6 +695,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">Gå ikke glip af disse!</string>
     <string name="ota_theme_default_push_content2">Se vores anbefalinger</string>
     <string name="ota_theme_default_push_title">Nye temaer på vej</string>
+    <string name="out_wallpaper_list">Baggrundsbillede til yderskærm</string>
     <string name="password_toggle_content_description">Vis adgangskode</string>
     <string name="pause_all">Sæt alt på pause</string>
     <string name="pay_online">Onlinebetaling</string>
@@ -975,13 +992,12 @@ mm"</string>
     <string name="saturday_short">Lør</string>
     <string name="saturday_shortest">Lør</string>
     <string name="scroll_switch">Swipe for at skifte mellem elementer</string>
-    <string name="sdcard_not_mounted_dialog_message">"Indsæt SD-kort nu.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">Intet SD-kort registreret</string>
     <string name="search_color">Farve</string>
     <string name="search_hint_header_text">Populære ord</string>
     <string name="search_menu_title">Søg</string>
     <string name="search_sort">Sortér efter</string>
+    <string name="search_update_guide_bubble">Ny</string>
+    <string name="search_update_guide_text">Oplev helt nye søgefunktioner</string>
     <string name="select_all">Vælg alle</string>
     <string name="selected_resource_file_invalid">Kan ikke bruge den valgte ressourcefil</string>
     <string name="send">Send</string>
@@ -1035,12 +1051,14 @@ mm"</string>
     <string name="system_aod_dialog_message">Tænd for Vises altid for at kunne bruge denne funktion.</string>
     <string name="system_aod_dialog_positive_button">Indstillinger</string>
     <string name="system_aod_dialog_title">Vises altid</string>
+    <string name="system_personalize_title">Tilpasning</string>
     <string name="system_phone">Opkald</string>
     <string name="system_precust">Forudinstalleret</string>
     <string name="text_billing_info">Faktureringsoplysninger</string>
     <string name="text_cancel_subscription_service">Annuller dette abonnement nu?</string>
     <string name="text_content_update">Nyt indhold dagligt</string>
     <string name="text_free_trial">Prøv gratis</string>
+    <string name="text_local_push_check">Vis</string>
     <string name="text_pay_monthly" formatted="false">Med start fra %s, fornyer automatisk for %s pr. måned, indtil det annulleres</string>
     <string name="text_pay_weekly" formatted="false">Med start fra %s, fornyer automatisk for %s pr. uge, indtil det annulleres</string>
     <string name="text_pay_yearly" formatted="false">Med start fra %s, fornyer automatisk for %s pr. år, indtil det annulleres</string>

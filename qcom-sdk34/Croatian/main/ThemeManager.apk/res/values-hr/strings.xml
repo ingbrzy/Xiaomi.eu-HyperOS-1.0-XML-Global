@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">Uključite Uvijek uključen zaslon prvo u Postavkama</string>
     <string name="apply_theme_with_ringtones">Upotrijebi melodiju zvona teme</string>
     <string name="apply_wallpaper_after_three_theme">Trenutačno koristite temu treće strane. Ako promijenite pozadinu zaključanog zaslona, ​​to može uzrokovati vraćanje stila sata zaključanog zaslona na zadane vrijednosti. Primijeni sada?</string>
+    <string name="apply_wallpaper_dialog_title">Primijeni pozadine</string>
     <string name="apply_wallpaper_notice">Pažnja</string>
     <string name="apply_wallpaper_notice_cancel">Odustani</string>
     <string name="apply_wallpaper_notice_content">Trenutno primijenjena tema sadrži prilagođeni modul Zaključanog zaslona koji vam može onemogućiti podešavanja vezana uz Zaključani zaslon.</string>
     <string name="apply_wallpaper_notice_lockscreen">Vaša trenutna tema sadržava prilagođeni Zaključani zaslon. Zamijenit ćemo ju zadanim Zaključanim zaslonom ako primijenite ovu pozadinu. Svejedno primijeniti?</string>
     <string name="apply_wallpaper_notice_still_apply">Primijeni</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Sada koristite set pozadina. Ako primijenite novu temu, pozadine zaključanog i početnog zaslona bit će zamijenjene, a uvijek uključen zaslon vratit će se na prethodni stil. Svejedno primijeniti?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Trenutno koristite Super pozadinu. Ako odaberete novu pozadinu, ona će se primijeniti na početni i zaključani zaslon, Uvjek uključen zaslon će se vratiti na prethodnu postavku. Primijeni sada?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">Sada koristite set pozadina. Ako primijenite novu temu, pozadine zaključanog i početnog zaslona bit će zamijenjene. Svejedno primijeniti?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Trenutno koristite Super pozadinu. Ako odaberete novu pozadinu, ona će se primijeniti i na početni i na zaključani zaslon. Primijeni sada?</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">Pokazatelj kvalitete zraka: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">Ne mogu se povezati s mrežom. Provjerite mrežne postavke i pokušajte ponovno.</string>
     <string name="card_retry">Pokušaj ponovo</string>
     <string name="carefully_chosen_wallpaper">Urednikova preporuka</string>
+    <string name="carousel_no_set_wallpaper_effects">Nije moguće postaviti efekte kada je Rotirajuća pozadina uključena</string>
     <string name="change_host_hint">Promijeni domaćina</string>
     <string name="change_wallpaper">Slika pozadine</string>
     <string name="channel_featured_page">Istaknuto</string>
@@ -146,8 +150,13 @@
     <string name="clear_text_end_icon_content_description">Brisanje teksta</string>
     <string name="clearable_edittext_clear_description">Očisti</string>
     <string name="close">Zatvori</string>
-    <string name="columbus_ad_flag_text">OGLAS</string>
+    <string name="columbus_ad_flag_text">Oglas</string>
+    <string name="columbus_reward_style_access">Saznajte više</string>
+    <string name="columbus_reward_style_close_cancel">Izađi</string>
+    <string name="columbus_reward_style_close_desc">Završite gledanje videozapisa da biste osvojili nagradu. Nastaviti gledati?</string>
+    <string name="columbus_reward_style_speed_confirm">Nastavi</string>
     <string name="columbus_skip_ad">Preskoči</string>
+    <string name="columbus_skip_ad_time">Preskoči (%d)</string>
     <string name="come_and_choose_wallpaper">Birajte između tisuća nevjerojatnih pozadina</string>
     <string name="common_google_play_services_enable_button">Omogući</string>
     <string name="common_google_play_services_enable_text">%1$s neće funkcionirati ako ne omogućite usluge Google Playa.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Jutro</string>
     <string name="editor_apply_message">"Ovu značajku dizajneri koriste za otklanjanje pogrešaka. Zadana tema će se nakon nekog vremena automatski vratiti. Putanja datoteke trenutne teme: "</string>
     <string name="editor_apply_toast">Ručno odaberite temp.mtz u korijenskom direktoriju</string>
+    <string name="effect_home">Efekti početnog zaslona</string>
+    <string name="effect_lock">Efekti zaključanog zaslona</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Unesite adresu e-pošte</string>
     <string name="eras_ad">Po Kr.</string>
@@ -422,6 +433,7 @@
     <string name="later">Ne sada</string>
     <string name="latest_wallpaper">Novo</string>
     <string name="limit_discount">Ograničena ponuda</string>
+    <string name="linked_wallpaper">Setovi pozadine</string>
     <string name="live_wallpaper">Animirana pozadina</string>
     <string name="live_wallpapers">Animirana pozadina</string>
     <string name="loading">Pričekajte trenutak…</string>
@@ -650,14 +662,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Ne prikazuj ponovno</string>
     <string name="not_set">Nije postavljeno</string>
+    <string name="not_support_subtitle">Obratite se IT podršci svoje organizacije ili promijenite račun</string>
+    <string name="not_support_title">Ne možete koristiti teme kada koristite radni profil</string>
     <string name="notifications_permission_confirm">Dopusti</string>
     <string name="notifications_permission_decline">Ne dopuštaj</string>
     <string name="notifications_permission_title">Želite li dopustiti aplikaciji da vam šalje obavijesti?</string>
     <string name="notify_style">Efekti obavijesti</string>
-    <string name="offline_notification_text">Dodirnite za otvaranje oglasa</string>
-    <string name="offline_notification_title">Pogledajte oglas koji ste spremili dok ste bili offline</string>
+    <string name="offline_dialog_image_description">Ikona</string>
+    <string name="offline_dialog_text">"Zahvaljujemo na interesu.
+Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</string>
+    <string name="offline_notification_title">Ponovno ste online! Nastavimo tamo gdje smo stali</string>
+    <string name="offline_notification_title_with_advertiser">Ponovno ste online! Saznajte više o oglašivaču %s</string>
     <string name="offline_opt_in_confirm">U redu</string>
-    <string name="offline_opt_in_confirmation">Primit ćete obavijest s vezom kad se ponovo povežete s internetom</string>
     <string name="offline_opt_in_decline">Ne, hvala</string>
     <string name="offline_opt_in_message">Poslat ćemo vam obavijest s vezom do web-lokacije oglašivača.</string>
     <string name="offline_opt_in_title">Otvorite oglas kad se ponovo povežete s internetom.</string>
@@ -679,6 +695,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">Nemojte ih propustiti!</string>
     <string name="ota_theme_default_push_content2">Pogledajte naše preporuke</string>
     <string name="ota_theme_default_push_title">Nove teme stižu</string>
+    <string name="out_wallpaper_list">Pozadina vanjskog zaslona</string>
     <string name="password_toggle_content_description">Prikaži zaporku</string>
     <string name="pause_all">Pauziraj sve</string>
     <string name="pay_online">Online plaćanje</string>
@@ -975,13 +992,12 @@ mm"</string>
     <string name="saturday_short">Sub</string>
     <string name="saturday_shortest">Sub</string>
     <string name="scroll_switch">Prijeđite prstom da biste se prebacili između stavki</string>
-    <string name="sdcard_not_mounted_dialog_message">"Umetnite SD karticu.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">SD kartica nije prisutna</string>
     <string name="search_color">Boja</string>
     <string name="search_hint_header_text">Popularno</string>
     <string name="search_menu_title">Pretraži</string>
     <string name="search_sort">Poredaj po</string>
+    <string name="search_update_guide_bubble">Novo</string>
+    <string name="search_update_guide_text">Isprobajte najnovije značajke pretraživanja</string>
     <string name="select_all">Odaberi sve</string>
     <string name="selected_resource_file_invalid">Ne mogu koristiti odabrane resurse datoteke</string>
     <string name="send">Pošalji</string>
@@ -1035,12 +1051,14 @@ mm"</string>
     <string name="system_aod_dialog_message">Uključite Uvijek uključen zaslon kako biste mogli koristiti tu značajku.</string>
     <string name="system_aod_dialog_positive_button">Postavke</string>
     <string name="system_aod_dialog_title">Uvijek uključen zaslon</string>
+    <string name="system_personalize_title">Prilagođavanje</string>
     <string name="system_phone">Pozivi</string>
     <string name="system_precust">Predinstalirane</string>
     <string name="text_billing_info">Podaci o plaćanju</string>
     <string name="text_cancel_subscription_service">Otkazati ovu pretplatu sada?</string>
     <string name="text_content_update">Novi sadržaj svaki dan</string>
     <string name="text_free_trial">Isprobajte besplatno</string>
+    <string name="text_local_push_check">Pregled</string>
     <string name="text_pay_monthly" formatted="false">Počevši od %s, automatski se obnavlja %s/mjesečno do otkazivanja</string>
     <string name="text_pay_weekly" formatted="false">Počevši od %s, automatski se obnavlja %s/tjedno do otkazivanja</string>
     <string name="text_pay_yearly" formatted="false">Počevši od %s, automatski se obnavlja %s/godišnje do otkazivanja</string>

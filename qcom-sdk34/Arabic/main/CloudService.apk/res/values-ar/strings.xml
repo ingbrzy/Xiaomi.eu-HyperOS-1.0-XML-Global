@@ -188,9 +188,10 @@
     <string name="find_device_gdpr_prompt">بتشغيلك ميزة العثور على الجهاز، فإنك توافق على <u><a href="app://com.miui.cloudservice.gdpr.license">سياسة الخصوصية</a></u>. إذا رغبت في سحب موافقتك، فما عليك سوى إيقاف تشغيل الخدمة.</string>
     <string name="find_device_operation_failure_rpc">تعذر أداء العملية بسبب خطأ في RPC.</string>
     <string name="find_device_permissions_footer">انقر على \"منح\" لمنح الأذونات المحددة.</string>
-    <string name="find_device_permissions_header">مرحبا بك في العثور على الجهاز! يمكنك استخدام هذا التطبيق للعثور على جهازك أو تتبعه أو قفله في حال فقدانه. سيتحتاج هذا التطبيق إلى الأذونات التالية:</string>
+    <string name="find_device_permissions_header">مرحبًا بك في العثور على الجهاز! يمكنك استخدام هذا التطبيق لتحديد موقع جهازك وتعقبه وقفله عند فقدانه. كما يمكنك مساعدة الآخرين بشكل متخفي في تحديد موقع أجهزة Xiaomi الخاصة بهم. يتطلب هذا التطبيق الأذونات التالية ليعمل بشكل طبيعي:</string>
     <string name="find_device_service_title">العثور على الجهاز</string>
-    <string name="find_device_status_summary">تحديد موقع جهازك وقفلة ومحو جميع البيانات عن بُعد</string>
+    <string name="find_device_status_summary">"قم بتشغيله لتحديد موقع جهازك وتعقبه أو مسح بياناته عن بُعد.
+يمكنك أيضًا مساعدة الآخرين بشكل متخفي في تحديد موقع أجهزة Xiaomi الخاصة بهم."</string>
     <string name="find_device_status_title_pad">العثور على الجهاز</string>
     <string name="find_device_status_title_phone">العثور على الجهاز</string>
     <string name="find_permission_location_summary">لتحديد موقع هذا الجهاز</string>
@@ -413,7 +414,7 @@
     <string name="micloud_last_sync_canceled">تم إلغاء المزامنة. إعد المحاولة.</string>
     <string name="micloud_main_head_menu_cloud_backup">النسخ الاحتياطي</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">\"العثور على الجهاز\" غير متوفر في الواجهة الثانية. يمكنك استخدام هذه الميزة في الواجهة الاولى.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">العناصر المحذوفة</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">العناصر المحذوفة مؤخرا</string>
     <string name="micloud_main_network_error">يتعذر الاتصال بالشبكة</string>
     <string name="micloud_main_sync_mode_summary">مزامنة البيانات في الوقت الحقيقي. هذه الميزة سوف تزيد من استهلاك الطاقة.</string>
     <string name="micloud_main_sync_mode_title">مزامنة سريعة</string>
@@ -633,6 +634,18 @@
     <string name="noti_quota_low_title_without_button">لا يوجد مساحة Cloud كافية</string>
     <string name="notification_sync_fail_title">تعذرت مزامنة كلمات المرور</string>
     <string name="notification_update_key_text">تم تغيير رمز المرور لكلمة مرور المدير. تحقق من كلمة المرور الجديدة.</string>
+    <string name="offline_find_action_open">تشغيل</string>
+    <string name="offline_find_checkbox_pref_summary_1">حدد موقع هذا الجهاز حتى عندما لا يكون متصلاً بالإنترنت واعرض موقع الأجهزة الأخرى غير المتصلة بالإنترنت. &lt;br/>&lt;font color=#0f84ff>معرفة المزيد&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">تحديد موقع هذا الجهاز حتى عندما لا يكون متصل بالإنترنت وعرض موقع الأجهزة الأخرى غير المتصلة بالإنترنت. &lt;br/>&lt;font color=#0f84ff>معرفة المزيد&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">الموقع غير متصل بالإنترنت</string>
+    <string name="offline_find_doing_disable">جارٍ إيقاف العثور على الجهاز…</string>
+    <string name="offline_find_doing_enable">جارٍ تشغيل \"الموقع غير متصل بالإنترنت\"…</string>
+    <string name="offline_find_function">الموقع غير متصل بالإنترنت</string>
+    <string name="offline_find_msg_to_open_1">قم بتشغيل الموقع غير المتصل بالإنترنت على هذا الجهاز لتتمكن من عرض موقع الأجهزة الأخرى غير المتصلة بالإنترنت.</string>
+    <string name="offline_find_msg_to_open_2">تأكد من أن هذا الجهاز موثوق به وقم بتشغيل الموقع غير المتصل بالإنترنت لتتمكن من عرض موقع الأجهزة الأخرى غير المتصلة بالإنترنت.</string>
+    <string name="offline_find_msg_to_open_3">لحماية أمان بياناتك، تأكد من أن هذا الجهاز موثوق به قبل تشغيل ميزة \"الموقع غير متصل بالإنترنت\".</string>
+    <string name="offline_find_title_to_open_1">تشغيل \"الموقع غير متصل بالإنترنت\"</string>
+    <string name="offline_find_title_to_open_2">التحقق من هذا الجهاز</string>
     <string name="open_service_title">تشغيل</string>
     <string name="pay_info_dialog_confirm_to_pay">دفع %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">استخدام عملات Mi النقدية المتبقية: %s</string>
@@ -658,8 +671,8 @@
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="privacy_and_agreement">الأحكام والشروط</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">مرحبًا بك في \"العثور على الجهاز\"! يمكنك استخدام هذه الخدمة لتحديد موقع أو قفل جهازك أو حذف جميع البيانات عليه إذا فقدته.</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">مرحبًا بك في \"العثور على الجهاز\"! يمكنك استخدام هذه الخدمة لتحديد موقع أو قفل جهازك أو حذف جميع البيانات عليه إذا فقدته.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">مرحبًا بك في العثور على الجهاز! يمكنك استخدام هذا التطبيق لتحديد موقع جهازك وتعقبه وقفله عند فقدانه. كما يمكنك مساعدة الآخرين بشكل متخفي في تحديد موقع أجهزة Xiaomi الخاصة بهم.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">مرحبًا بك في العثور على الجهاز! يمكنك استخدام هذا التطبيق لتحديد موقع جهازك وتعقبه وقفله عند فقدانه. كما يمكنك مساعدة الآخرين بشكل متخفي في تحديد موقع أجهزة Xiaomi الخاصة بهم.</string>
     <string name="privacy_dialog_sync_all_purpose_china">مرحبًا بك في خدمات Xiaomi Cloud! يمكنك استخدام Xiaomi Cloud لمزامنة رسائلك وجهات اتصالك والملاحظات وإعدادات المتصفح والصور والفيديوهات وإعدادات Wi-Fi والتسجيلات وتنسيق الشاشة الرئيسية والتطبيقات وأحداث التقويم وعناصر قائمة الحظر وسجل المكالمات ومنصة التطبيقات عبر جميع الأجهزة المتصلة.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">مرحبا بك في خدمات Xiaomi Cloud! يمكنك استخدام Xiaomi Cloud لمزامنة رسائلك وجهات اتصالك والملاحظات وإعدادات المتصفح والصور والفيديوهات وإعدادات Wi-Fi والتسجيلات وتنسيق الشاشة الرئيسية والتطبيقات وأحداث التقويم وعناصر قائمة الحظر وسجل المكالمات ومنصة التطبيقات عبر جميع الأجهزة المتصلة.</string>
     <string name="privacy_dialog_sync_all_purpose_pad">مرحبا بك في خدمات Xiaomi Cloud! يمكنك استخدام هذا التطبيق لمزامنة رسائلك وجهات اتصالك والملاحظات وعناصر المتصفح وألبومات Cloud والموسيقى والتقويم وقائمة الحظر وسجل المكالمات إلى Cloud.</string>

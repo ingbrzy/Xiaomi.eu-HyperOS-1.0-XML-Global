@@ -554,9 +554,13 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="session_failed_dist_no_space_btn_text">Xóa bộ nhớ</string>
     <string name="session_failed_get_installed_apps_denied_detail">Để có thể sao lưu tự động, cấp quyền cho ứng dụng này trong Cài đặt để truy cập danh sách ứng dụng đã cài đặt trên thiết bị và chọn Luôn cho phép.</string>
     <string name="session_failed_get_installed_apps_denied_title">Yêu cầu quyền</string>
+    <string name="session_failed_invalid_token_action">Đăng nhập</string>
+    <string name="session_failed_invalid_token_detail">Đăng nhập lại</string>
+    <string name="session_failed_invalid_token_title">Chứng chỉ không hợp lệ</string>
     <string name="session_failed_no_server_response_title">Không thể kết nối đến máy chủ.</string>
     <string name="session_failed_override_detail">Sao lưu trên máy khác với sao lưu trên Xiaomi Cloud. Nếu bạn tiếp tục, sao lưu hiện tại sẽ ghi đè lên sao lưu trước đó. Ghi đè ngay?</string>
     <string name="session_failed_override_title">Ghi đè sao lưu</string>
+    <string name="session_failed_reason_invalid_token">Chứng chỉ đăng nhập không hợp lệ. Đăng nhập lại.</string>
     <string name="session_failed_restore_app_data_btn_text">Quay lại</string>
     <string name="session_failed_restore_app_data_detail">Đảm bảo WeChat không được cài đặt trên thiết bị này trước khi khôi phục các mục. Không mở hoặc sử dụng WeChat trong khi dữ liệu đang được khôi phục.</string>
     <string name="session_failed_restore_app_data_title">Gỡ cài đặt WeChat</string>

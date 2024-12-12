@@ -188,9 +188,10 @@
     <string name="find_device_gdpr_prompt">Genom att aktivera Hitta enhet godkänner vår <u><a href="app://com.miui.cloudservice.gdpr.license">Integritetspolicy</a></u>. Om du vill återta ditt samtycke inaktiverar du funktionen.</string>
     <string name="find_device_operation_failure_rpc">Kunde inte genomför åtgärden på grund av RPC-fel.</string>
     <string name="find_device_permissions_footer">Tryck på \"Bevilja\" för att bevilja de behörigheter du valt.</string>
-    <string name="find_device_permissions_header">Välkommen till Hitta enhet! Du kan använda denna app för att lokalisera, spåra, och låsa din enhet när den saknas. Hitta enhet kräver följande behörigheter:</string>
+    <string name="find_device_permissions_header">Välkommen till Hitta enhet! Du kan använda den här appen för att finna, spåra och låsa din enhet när den försvunnit. Du kan även, anonymt hjälpa andra att hitta sina Xiaomi-enheter. Den här appen kräver följande behörigheter för att fungera normalt:</string>
     <string name="find_device_service_title">Hitta enhet</string>
-    <string name="find_device_status_summary">Lokalisera och hitta din enhet såväl som fjärr-radera data</string>
+    <string name="find_device_status_summary">"Aktivera för att hitta och spåra din enhet, eller rensa dass data på avstånd.
+Du kan också anonymt hjälpa andra att hitta sina Xiaomi-enheter."</string>
     <string name="find_device_status_title_pad">Hitta enhet</string>
     <string name="find_device_status_title_phone">Hitta enhet</string>
     <string name="find_permission_location_summary">För att lokalisera denna enhet</string>
@@ -413,7 +414,7 @@
     <string name="micloud_last_sync_canceled">Synkning avbröts. Försök igen.</string>
     <string name="micloud_main_head_menu_cloud_backup">Säkerhetskopior</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Funktionen Hitta enhet är inte tillgänglig i det Sekundära utrymmet. Du kan använda den i Primära utrymmet.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">Papperskorg</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">Nyligen borttagna objekt</string>
     <string name="micloud_main_network_error">Kan inte ansluta till nätverket</string>
     <string name="micloud_main_sync_mode_summary">Synkronisera appdata i realtid. Strömkonsumtionen kommer att öka när den här funktionen är aktiverad.</string>
     <string name="micloud_main_sync_mode_title">Snabbsynkronisera</string>
@@ -633,6 +634,18 @@ Säkerställ att du använder de tillhörande Xiaomi-kontot som ditt systemkonto
     <string name="noti_quota_low_title_without_button">Inte tillräcklig molnlagring</string>
     <string name="notification_sync_fail_title">Det gick inte att synkronisera lösenorden</string>
     <string name="notification_update_key_text">Lösenordshanterarens lösenord ändrades. Verifiera det nya lösenordet.</string>
+    <string name="offline_find_action_open">Aktivera</string>
+    <string name="offline_find_checkbox_pref_summary_1">Hitta den här enheten när den inte är ansluten till nätverket och visa var andra enheter finns offline. &lt;br/>&lt;font color=#0f84ff>Läs mer&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">Hitta den här enheten till och med när den är avstängt, eller inte ansluten till nätverket, och visa var andra enheter finns offline. &lt;br/>&lt;font color=#0f84ff>Läs mer&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">Hitta offline</string>
+    <string name="offline_find_doing_disable">Avaktiverar Hitta offline…</string>
+    <string name="offline_find_doing_enable">Aktiverar Hitta offline…</string>
+    <string name="offline_find_function">Hitta offline</string>
+    <string name="offline_find_msg_to_open_1">Aktivera Hitta offline på den här enheten för att kunna visa platsen för andra enheter som är offline.</string>
+    <string name="offline_find_msg_to_open_2">Verifiera den här enheten som betrodd och aktivera Hitta offline, för att kunna visa platserna för andra enheter som är offline.</string>
+    <string name="offline_find_msg_to_open_3">För att skydda din datas säkerhet, ber vi dig verifiera den här enheten som betrodd innan du aktiverar Hitta offline.</string>
+    <string name="offline_find_title_to_open_1">Aktivera Hitta offline</string>
+    <string name="offline_find_title_to_open_2">Veriferia den här enheten</string>
     <string name="open_service_title">Aktivera</string>
     <string name="pay_info_dialog_confirm_to_pay">Betala %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Använd återstående Mi Mynt: %s</string>
@@ -658,8 +671,8 @@ Platsinfo kanske inte rapporteras när nätverksanslutningen är dålig."</strin
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">%1$s har kopierats till Urklipp.</string>
     <string name="privacy_and_agreement">Villkor</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">Välkommen till Find device! Du kan använda denna tjänst för att lokalisera, låsa eller radera data på din enhet om den tappats bort.</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">Välkommen till Hitta enhet! Du kan använda denna tjänst för att lokalisera, låsa eller radera data på din enhet om den tappats bort.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">Välkommen till Hitta enhet! Du kan använda den här appen att hitta, spåra och låsa din enhet när den är borta. Du kan även anonymt hjälpa andra att hitta sina Xiaomi-enheter.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">Välkommen till Hitta enhet! Du kan använda den här appen att hitta, spåra och låsa din enhet när den är borta. Du kan även anonymt hjälpa andra att hitta sina Xiaomi-enheter.</string>
     <string name="privacy_dialog_sync_all_purpose_china">Välkommen till Tjänster från Xiaomi Cloud! Du kan använda Xiaomi Cloud för att synkronisera dina meddelande, kontakter, anteckningar, webbläsarinställningar, foton och videor, WLAN-inställningar, inspelningar, utseende på Hemskärmen, appar, kalenderhändelser, poster i blockeringslistan, samtalshistorik, och App vault, över alla anslutna enheter.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Välkommen till Tjänster från Xiaomi Cloud! Du kan använda Xiaomi Cloud för att synkronisera dina meddelande, kontakter, anteckningar, webbläsarinställningar, foton och videor, WLAN-inställningar, inspelningar, utseende på Hemskärmen, appar, kalenderhändelser, poster i blockeringslistan, samtalshistorik, och App vault, över alla anslutna enheter.</string>
     <string name="privacy_dialog_sync_all_purpose_pad">Välkommen till Tjänster från Xiaomi Cloud! Du kan använda den här appen för att synkronisera dina meddelanden, kontakter, anteckningar, webbobjekt, molnalbum, musik, kalender, blockeringslista och samtalshistorik till molnet.</string>

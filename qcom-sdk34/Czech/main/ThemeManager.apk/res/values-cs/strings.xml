@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">Nejprve zapněte funkci Aktivní displej v Nastavení</string>
     <string name="apply_theme_with_ringtones">Použít vyzváněcí tón tématu</string>
     <string name="apply_wallpaper_after_three_theme">Aktuálně používáte téma poskytované třetí stranou. Po změně tapety Zamykací obrazovky bude styl hodin Zamykací obrazovky obnoven do výchozího stavu. Použít nyní?</string>
+    <string name="apply_wallpaper_dialog_title">Použít tapetu</string>
     <string name="apply_wallpaper_notice">Upozornění</string>
     <string name="apply_wallpaper_notice_cancel">Zrušit</string>
     <string name="apply_wallpaper_notice_content">Aktuální téma obsahuje přizpůsobený modul Zamykací obrazovky, který vám může bránit v provádění úprav Zamykací obrazovky.</string>
     <string name="apply_wallpaper_notice_lockscreen">Vaše aktuální téma obsahuje přizpůsobenou Zamykací obrazovku. Ta bude při použití této tapety nahrazena výchozím stylem Zamykací obrazovky. Přesto použít?</string>
     <string name="apply_wallpaper_notice_still_apply">Použít</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Nyní používáte sadu tapet. Pokud použijete nové téma, tapety na Zamykací obrazovce i na Domovské obrazovce budou nahrazeny a na Aktivním displeji bude obnoven předchozí styl. Použít i tak?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Aktuálně používáte Super tapety. Po vybrání nové tapety bude tato tapeta použita jak pro Domovskou tak Zamykací obrazovku a Aktivní displej bude obnoven do předchozího nastavení. Použít nyní?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">Nyní používáte sadu tapet. Pokud použijete nové téma, tapety na Zamykací obrazovce i na Domovské obrazovce budou nahrazeny. Použít i tak?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Aktuálně používáte Super tapety. Po vybrání nové tapety bude tato tapeta použita jak pro Domovskou tak Zamykací obrazovku. Použít nyní?</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">Index kvality ovzduší: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">Nelze se připojit k síti. Zkontrolujte nastavení sítě a zkuste to znovu.</string>
     <string name="card_retry">Opakovat</string>
     <string name="carefully_chosen_wallpaper">Doporučeno redakcí</string>
+    <string name="carousel_no_set_wallpaper_effects">Nelze nastavit efekty, když je zapnutá Denní tapeta</string>
     <string name="change_host_hint">Změnit hostitele</string>
     <string name="change_wallpaper">Tapeta</string>
     <string name="channel_featured_page">Doporučené</string>
@@ -147,7 +151,12 @@
     <string name="clearable_edittext_clear_description">Smazat</string>
     <string name="close">Zavřít</string>
     <string name="columbus_ad_flag_text">REKLAMA</string>
+    <string name="columbus_reward_style_access">Zjistit více</string>
+    <string name="columbus_reward_style_close_cancel">Ukončit</string>
+    <string name="columbus_reward_style_close_desc">Podívejte se na celé video a získejte odměnu. Pokračovat ve sledování?</string>
+    <string name="columbus_reward_style_speed_confirm">Pokračovat</string>
     <string name="columbus_skip_ad">Přeskočit</string>
+    <string name="columbus_skip_ad_time">Přeskočit (%d)</string>
     <string name="come_and_choose_wallpaper">Vyberte si některou ze stovek dechberoucích tapet</string>
     <string name="common_google_play_services_enable_button">Povolit</string>
     <string name="common_google_play_services_enable_text">Ke spuštění aplikace %1$s je třeba aktivovat služby Google Play.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Ráno</string>
     <string name="editor_apply_message">"Tato funkce je používána designéry při ladění (debugging). Výchozí téma bude za několik okamžiků obnoveno. Adresář aktuálního tématu: "</string>
     <string name="editor_apply_toast">Zvolte soubor temp.mtz v ROOT adresáři ručně</string>
+    <string name="effect_home">Efekty Domovské obrazovky</string>
+    <string name="effect_lock">Efekty Zamykací obrazovky</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Zadejte e-mailovou adresu</string>
     <string name="eras_ad">n.l.</string>
@@ -422,6 +433,7 @@
     <string name="later">Nyní ne</string>
     <string name="latest_wallpaper">Novinky</string>
     <string name="limit_discount">Limitovaná nabídka</string>
+    <string name="linked_wallpaper">Sety tapet</string>
     <string name="live_wallpaper">Živá tapeta</string>
     <string name="live_wallpapers">Živé tapety</string>
     <string name="loading">Ještě chvilku…</string>
@@ -650,14 +662,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Znovu nezobrazovat</string>
     <string name="not_set">Nenastaveno</string>
+    <string name="not_support_subtitle">Obraťte se na IT podporu ve vaší organizaci, nebo přepněte na jiný účet</string>
+    <string name="not_support_title">Témata nelze použít při současném používání pracovního profilu</string>
     <string name="notifications_permission_confirm">Povolit</string>
     <string name="notifications_permission_decline">Nepovolovat</string>
     <string name="notifications_permission_title">Chcete, aby vám aplikace zasílala oznámení?</string>
     <string name="notify_style">Efekty oznámení</string>
-    <string name="offline_notification_text">Klepnutím reklamu otevřete</string>
-    <string name="offline_notification_title">Zobrazte reklamu, kterou jste si uložili, když jste byli offline</string>
+    <string name="offline_dialog_image_description">Ikona</string>
+    <string name="offline_dialog_text">"Děkujeme za váš zájem.
+Až budete znovu online, sdělíme vám víc."</string>
+    <string name="offline_notification_title">Jste opět online. Můžete pokračovat tam, kde jste přestali.</string>
+    <string name="offline_notification_title_with_advertiser">Jste opět online. Můžete zjistit další informace na téma %s</string>
     <string name="offline_opt_in_confirm">OK</string>
-    <string name="offline_opt_in_confirmation">Až budete znovu online, dostanete oznámení s odkazem</string>
     <string name="offline_opt_in_decline">Ne, díky</string>
     <string name="offline_opt_in_message">Pošleme vám oznámení s odkazem na web inzerenta.</string>
     <string name="offline_opt_in_title">Reklama se otevře, až budete znovu online.</string>
@@ -679,6 +695,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">Nenechte si ujít nejčerstvější novinky!</string>
     <string name="ota_theme_default_push_content2">Podívejte se na naše doporučení</string>
     <string name="ota_theme_default_push_title">Blíží se nová témata</string>
+    <string name="out_wallpaper_list">Tapeta vnější obrazovky</string>
     <string name="password_toggle_content_description">Zobrazit heslo</string>
     <string name="pause_all">Pozastavit vše</string>
     <string name="pay_online">Online platba</string>
@@ -975,13 +992,12 @@ mm"</string>
     <string name="saturday_short">Sob</string>
     <string name="saturday_shortest">Sob</string>
     <string name="scroll_switch">Potáhněte prstem pro přepnutí mezi položkami</string>
-    <string name="sdcard_not_mounted_dialog_message">"Vložte SD kartu.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">Žádná SD karta</string>
     <string name="search_color">Barva</string>
     <string name="search_hint_header_text">Nejvyhledávanější</string>
     <string name="search_menu_title">Hledat</string>
     <string name="search_sort">Seřadit podle</string>
+    <string name="search_update_guide_bubble">Nové</string>
+    <string name="search_update_guide_text">Vyzkoušejte zcela nové funkce vyhledávání</string>
     <string name="select_all">Vybrat vše</string>
     <string name="selected_resource_file_invalid">Zvolený zdrojový soubor nelze použít</string>
     <string name="send">Odeslat</string>
@@ -1035,12 +1051,14 @@ mm"</string>
     <string name="system_aod_dialog_message">Pro využití této funkce zapněte Aktivní displej.</string>
     <string name="system_aod_dialog_positive_button">Nastavení</string>
     <string name="system_aod_dialog_title">Aktivní displej</string>
+    <string name="system_personalize_title">Přizpůsobení</string>
     <string name="system_phone">Hovory</string>
     <string name="system_precust">Předinstalované</string>
     <string name="text_billing_info">Fakturační údaje</string>
     <string name="text_cancel_subscription_service">Zrušit nyní toto předplatné?</string>
     <string name="text_content_update">Denně nový obsah</string>
     <string name="text_free_trial">Vyzkoušet zdarma</string>
+    <string name="text_local_push_check">Zobrazit</string>
     <string name="text_pay_monthly" formatted="false">Od %s se automaticky obnovuje za %s/měsíc, až dokud předplatné nezrušíte</string>
     <string name="text_pay_weekly" formatted="false">Od %s se automaticky obnovuje za %s/týden, až dokud předplatné nezrušíte</string>
     <string name="text_pay_yearly" formatted="false">Od %s se automaticky obnovuje za %s/rok, až dokud předplatné nezrušíte</string>

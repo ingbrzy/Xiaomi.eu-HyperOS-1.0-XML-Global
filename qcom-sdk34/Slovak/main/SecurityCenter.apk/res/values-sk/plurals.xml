@@ -531,16 +531,16 @@ Teraz môžete získať %d-dňovú skúšobnú verziu zadarmo!"</item>
         <item quantity="many">Na pozadí sa môže spustiť %d aplikácie</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
-        <item quantity="other">%d aplikácií nemá práva root</item>
-        <item quantity="one">%d aplikácia nemá práva root</item>
-        <item quantity="few">%d aplikácie nemajú práva root</item>
-        <item quantity="many">%d aplikácie nemá práva root</item>
+        <item quantity="other">%d aplikácií nemá prístup k root</item>
+        <item quantity="one">%d aplikácia nemá prístup k root</item>
+        <item quantity="few">%d aplikácie nemajú prístup k root</item>
+        <item quantity="many">%d aplikácie nemá prístup k root</item>
     </plurals>
     <plurals name="hints_get_root_enable_title">
-        <item quantity="other">%d aplikácií má práva root</item>
-        <item quantity="one">%d aplikácia má práva root</item>
-        <item quantity="few">%d aplikácie majú práva root</item>
-        <item quantity="many">%d aplikácie má práva root</item>
+        <item quantity="other">%d aplikácií má prístup k root</item>
+        <item quantity="one">%d aplikácia má prístup k root</item>
+        <item quantity="few">%d aplikácie majú prístup k root</item>
+        <item quantity="many">%d aplikácie má prístup k root</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d hrozieb,</item>
@@ -663,10 +663,10 @@ Teraz môžete získať %d-dňovú skúšobnú verziu zadarmo!"</item>
         <item quantity="many">Spojte najmenej %s bodov</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">"Počkajte %d sekúnd a skúste to znovu. "</item>
-        <item quantity="one">"Počkajte %d sekundu a skúste to znovu. "</item>
-        <item quantity="few">"Počkajte %d sekundy a skúste to znovu. "</item>
-        <item quantity="many">"Počkajte %d sekundy a skúste to znovu. "</item>
+        <item quantity="other">"Počkajte %d sekúnd a skúste to znova. "</item>
+        <item quantity="one">"Počkajte %d sek. a skúste to znova. "</item>
+        <item quantity="few">"Počkajte %d sekundy a skúste to znova. "</item>
+        <item quantity="many">"Počkajte %d sekundy a skúste to znova. "</item>
     </plurals>
     <plurals name="manual_white_list_header">
         <item quantity="other">%d výnimiek</item>
@@ -1294,7 +1294,7 @@ Teraz môžete získať %d-dňovú skúšobnú verziu zadarmo!"</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">Obnovenie do výrobných nastavení (%d sek.)</item>
-        <item quantity="one">Obnovenie do výrobných nastavení (%d sek.)</item>
+        <item quantity="one">Obnovenie do továrenských nastavení (%d sek.)</item>
         <item quantity="few">Obnovenie do výrobných nastavení (%d sek.)</item>
         <item quantity="many">Obnovenie do výrobných nastavení (%d sek.)</item>
     </plurals>
@@ -1413,10 +1413,10 @@ Teraz môžete získať %d-dňovú skúšobnú verziu zadarmo!"</item>
         <item quantity="many">&lt;Data>Aktualizovať &lt;font color=#F22424>%d&lt;/font> aplikácie&lt;/Data></item>
     </plurals>
     <plurals name="title_virus_clean">
-        <item quantity="other">Vyčistených %d vírusov</item>
-        <item quantity="one">Vyčistený %d vírus</item>
-        <item quantity="few">Vyčistené %d vírusy</item>
-        <item quantity="many">Vyčisteného %d vírusu</item>
+        <item quantity="other">Vymazaných %d vírusov</item>
+        <item quantity="one">Vymazaný %d vírus</item>
+        <item quantity="few">Vymazané %d vírusy</item>
+        <item quantity="many">Vymazaného %d vírusu</item>
     </plurals>
     <plurals name="title_virus_scan_model">
         <item quantity="other">%d vírusov alebo rizikových aplikácií</item>

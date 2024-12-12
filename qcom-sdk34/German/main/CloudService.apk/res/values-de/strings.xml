@@ -188,9 +188,10 @@
     <string name="find_device_gdpr_prompt">Mit dem Einschalten der Gerätesuche erklärst du dich mit unserer <u><a href="app://com.miui.cloudservice.gdpr.license">Datenschutzerklärung</a></u> einverstanden. Wenn du deine Zustimmung widerrufen möchtest, schalte diese Funktion aus.</string>
     <string name="find_device_operation_failure_rpc">Diese Operation konnte aufgrund eines RPC Fehlers nicht durchgeführt werden.</string>
     <string name="find_device_permissions_footer">Tippe auf \"Erteilen\", um die von dir ausgewählten Berechtigungen zu gewähren.</string>
-    <string name="find_device_permissions_header">Willkommen zur Gerätesuche! Du kannst diese App nutzen, um dein Gerät zu finden, zu verfolgen und zu sperren, wenn du es nicht finden kannst. Gerätesuche erfordert die folgenden Berechtigungen:</string>
+    <string name="find_device_permissions_header">Willkommen bei Gerätesuche! Du kannst diese App verwenden, um dein Gerät zu orten, zu verfolgen und zu sperren, wenn du es nicht finden kannst. Du kannst auch anderen anonym helfen, ihre Xiaomi-Geräte zu orten. Diese App benötigt die folgenden Berechtigungen, um normal zu funktionieren:</string>
     <string name="find_device_service_title">Gerätesuche</string>
-    <string name="find_device_status_summary">Orte und sperre dein Gerät und lösche Daten aus der Ferne</string>
+    <string name="find_device_status_summary">"Einschalten, um dein Gerät zu orten und zu verfolgen oder seine Daten aus der Ferne zu löschen.
+Du kannst auch anderen anonym helfen, ihre Xiaomi-Geräte zu finden."</string>
     <string name="find_device_status_title_pad">Gerätesuche</string>
     <string name="find_device_status_title_phone">Gerätesuche</string>
     <string name="find_permission_location_summary">Um dieses Gerät zu finden</string>
@@ -413,7 +414,7 @@
     <string name="micloud_last_sync_canceled">Synchronisation wurde abgebrochen. Erneut versuchen.</string>
     <string name="micloud_main_head_menu_cloud_backup">Backups</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Gerätesuche ist im Zweitprofil nicht verfügbar. Du kannst sie im Hauptprofil nutzen.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">Papierkorb</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">Kürzlich gelöschte Elemente</string>
     <string name="micloud_main_network_error">Netzwerkverbindung fehlgeschlagen</string>
     <string name="micloud_main_sync_mode_summary">Synchronisiere die App-Daten in Echtzeit. Der Stromverbrauch steigt, wenn diese Funktion an ist.</string>
     <string name="micloud_main_sync_mode_title">Schnelles synchronisieren</string>
@@ -633,6 +634,18 @@ Vergewissere dich, dass du das verbundene Xiaomi-Konto als dein System-Konto ver
     <string name="noti_quota_low_title_without_button">Nicht genug Speicherplatz in der Cloud</string>
     <string name="notification_sync_fail_title">Passwörter konnten nicht synchronisiert werden</string>
     <string name="notification_update_key_text">Passcode des Passwort-Managers wurde geändert. Bestätigen Sie den neuen Passcode.</string>
+    <string name="offline_find_action_open">Einschalten</string>
+    <string name="offline_find_checkbox_pref_summary_1">Orte dieses Gerät, auch wenn es nicht mit dem Netzwerk verbunden ist, und zeige den Standort anderer Offline-Geräte an. &lt;br/>&lt;font color=#0f84ff>Mehr erfahren&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">Orte dieses Gerät, auch wenn es ausgeschaltet oder nicht mit dem Netzwerk verbunden ist, und zeige den Standort anderer Offline-Geräte an. &lt;br/>&lt;font color=#0f84ff>Mehr erfahren&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">Offline-Standort</string>
+    <string name="offline_find_doing_disable">Offline-Standort wird ausgeschaltet…</string>
+    <string name="offline_find_doing_enable">Offline-Standort wird eingeschaltet…</string>
+    <string name="offline_find_function">Offline-Standort</string>
+    <string name="offline_find_msg_to_open_1">Offline-Standort auf diesem Gerät einschalten, um den Standort anderer Offline-Geräte anzeigen zu können.</string>
+    <string name="offline_find_msg_to_open_2">Verifiziere dieses Gerät als vertrauenswürdig und schalte Offline-Standort ein, um den Standort anderer Offline-Geräte anzeigen zu können.</string>
+    <string name="offline_find_msg_to_open_3">Um die Sicherheit deiner Daten zu gewährleisten, solltest du dieses Gerät als vertrauenswürdig einstufen, bevor du den Offline-Standort einschaltest.</string>
+    <string name="offline_find_title_to_open_1">Offline-Standort einschalten</string>
+    <string name="offline_find_title_to_open_2">Dieses Gerät verifizieren</string>
     <string name="open_service_title">Einschalten</string>
     <string name="pay_info_dialog_confirm_to_pay">%s bezahlen</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Verbleibende Mi Coins verwenden: %s</string>
@@ -658,8 +671,8 @@ Standortdaten werden bei schlechter Netzwerkverbindung möglicherweise nicht ges
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert.</string>
     <string name="privacy_and_agreement">Geschäftsbedingungen</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">Willkommen bei der Gerätesuche! Du kannst mit diesem Dienst dein Gerät orten, sperren oder die Daten löschen, wenn das Gerät verloren geht.</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">Willkommen bei der Gerätesuche! Du kannst mit diesem Dienst dein Gerät orten, sperren oder die Daten löschen, wenn das Gerät verloren geht.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">Willkommen bei Gerätesuche! Du kannst diese App verwenden, um dein Gerät zu orten, zu verfolgen und zu sperren, wenn du es nicht finden kannst. Du kannst auch anderen anonym helfen, ihre Xiaomi-Geräte zu orten.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">Willkommen bei Gerätesuche! Du kannst diese App verwenden, um dein Gerät zu orten, zu verfolgen und zu sperren, wenn du es nicht finden kannst. Du kannst auch anderen anonym helfen, ihre Xiaomi-Geräte zu orten.</string>
     <string name="privacy_dialog_sync_all_purpose_china">Willkommen bei den Xiaomi Cloud-Diensten! Du kannst mit der Xiaomi Cloud Folgendes unter allen verbundenen Geräten synchronisieren: Deine Nachrichten, Kontakte, Notizen, Browsereinstellungen, Fotos und Videos, WLAN-Einstellungen, Aufnahmen, Startbildschirm-Layout, Apps, Kalenderereignisse, Sperrliste-Elemente, Anrufverlauf und Info-Assistent.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Willkommen bei den Xiaomi Cloud-Diensten! Du kannst mit der Xiaomi Cloud Folgendes unter allen verbundenen Geräten synchronisieren: Deine Nachrichten, Kontakte, Notizen, Browsereinstellungen, Fotos und Videos, WLAN-Einstellungen, Aufnahmen, Startbildschirm-Layout, Apps, Kalenderereignisse, Sperrliste-Elemente, Anrufverlauf und Info-Assistent.</string>
     <string name="privacy_dialog_sync_all_purpose_pad">Willkommen bei den Xiaomi Cloud-Diensten! Mit dieser App kannst du Folgendes mit der Cloud synchronisieren: Deine Nachrichten, Kontakte, Notizen, Browser-Elemente, Cloud-Alben, Musik, Kalender, Sperrliste und Anrufverlauf.</string>

@@ -35,7 +35,7 @@
     <string name="HIPS_Perm_process_outgoing_calls">Доступ да тэлефона</string>
     <string name="HIPS_Perm_tencentControl">Атрымлівайце доступ да паведамленняў у праграмах сацсетак</string>
     <string name="HIPS_Perm_tencentControl_Desc">Атрымлівайце доступ да выяў і файлаў, захаваных з WeChat і QQ</string>
-    <string name="HIPS_Perm_use_sip_Desc">Выкарыстанне пратаколf ініцыявання сеансаў для струменевага відэа</string>
+    <string name="HIPS_Perm_use_sip_Desc">Выкарыстанне пратакола ініцыявання сеансаў для струменевага відэа</string>
     <string name="Phonepass">Дазволіць выклікі</string>
     <string name="SMS_and_MMS">SMS і MMS</string>
     <string name="SMSpass">Дазволіць SMS</string>
@@ -188,6 +188,7 @@
     <string name="alert_back_milink_hangup_tips_content_vb">Калі экран выключаны, праграма будзе працаваць у фоне, не перарываючы трансляцыю. Націсніце кнопку сілкавання, каб зноў ўключыць экран.</string>
     <string name="all_address_choose_hint">Усе нумары рэгіёну</string>
     <string name="allow_all">Дазволіць усё</string>
+    <string name="allow_device_id_access">Выберыце праграмы, якія могуць выкарыстоўваць ID прылады</string>
     <string name="allow_onetime">Дазволіць адзін раз</string>
     <string name="already_close_gamebooster">Паскарэнне гульняў адключана</string>
     <string name="am">AM</string>
@@ -204,7 +205,7 @@
     <string name="antispam_notification_setting_title">Апавяшчэнні</string>
     <string name="antispam_xpace_text">Пераключыцца ў першую прастору, каб усталяваць чорны спіс</string>
     <string name="antivirus_browser_check">Правяраць сайты ў Mi Браўзеры</string>
-    <string name="antivirus_browser_check_summary">Аўтаматычна правярайце сайты ў Mi Браўзэры і атрымлівайце папярэджання аб магчымых пагрозах</string>
+    <string name="antivirus_browser_check_summary">Аўтаматычна правярайце сайты ў Mi Браўзеры і атрымлівайце папярэджання аб магчымых пагрозах</string>
     <string name="antivirus_choose_engine">%s</string>
     <string name="antivirus_choose_engine_dialog_title">Выбраць сігнатуры</string>
     <string name="antivirus_choose_engine_settings">Налады вызначэнняў вірусаў</string>
@@ -224,8 +225,8 @@
     <string name="antivirus_privacy_dialog_cloudscan">Запампаваць назвы праграм і звесткі</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Для больш эфектыўнага выяўлення і нейтралізацыі вірусаў мы будзем загружаць імёны і ўласцівасці пакетаў праграм, каб сканаваць іх з дапамогай хмарнага рухавіка.</string>
     <string name="antivirus_privacy_dialog_ok">ОК</string>
-    <string name="antivirus_privacy_dialog_summary">&lt;Data>Гэтая функцыя забяспечваецца антывірусным рухавіком трэцяга боку. Прачытайце адпаведнае &lt;a href=\"%1$s\">Ліцэнзійнае пагадненне&lt;/a> трэцяга боку для атрымання больш падрабязнай інфармацыі.&lt;/Data></string>
-    <string name="antivirus_privacy_dialog_summary_kddi">&lt;Data>Пры выкананні пошуку ўразлівасцяў інфармацыя аб мадэлі прылады і вынікі сканавання будуць загружаныя на сервер %1$s, а таксама будуць выкарыстаныя ў адпаведнасці з адпаведнымі &lt;a href=\"%2$s\">ўмовамі і палажэннямі&lt;/a>.&lt;br/>&lt;br/>Перад запускам антывіруса азнаёмцеся і пагадзіцеся з умовамі і палажэннямі %3$s.&lt;br/>&lt;br/>Калі вы не згодныя загружаць дадзеныя на сервер %4$s, вы па-ранейшаму зможаце скарыстацца сігнатурамі вірусаў, размешчанымі на вашай прыладзе лакальна.&lt;/Data></string>
+    <string name="antivirus_privacy_dialog_summary"><Data>Гэтая функцыя забяспечваецца антывірусным рухавіком трэцяга боку. Прачытайце адпаведнае &lt;a href=\"%1$s\">Ліцэнзійнае пагадненне&lt;/a> трэцяга боку для атрымання больш падрабязнай інфармацыі.</Data></string>
+    <string name="antivirus_privacy_dialog_summary_kddi"><Data>Пры выкананні пошуку ўразлівасцяў інфармацыя аб мадэлі прылады і вынікі сканавання будуць загружаныя на сервер %1$s, а таксама будуць выкарыстаныя ў адпаведнасці з адпаведнымі &lt;a href=\"%2$s\">ўмовамі і палажэннямі&lt;/a>.&lt;br/>&lt;br/>Перад запускам антывіруса азнаёмцеся і пагадзіцеся з умовамі і палажэннямі %3$s.&lt;br/>&lt;br/>Калі вы не згодныя загружаць дадзеныя на сервер %4$s, вы па-ранейшаму зможаце скарыстацца сігнатурамі вірусаў, размешчанымі на вашай прыладзе лакальна.</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Палітыка прыватнасці</string>
     <string name="antivirus_privacy_dialog_title">Палітыка прыватнасці</string>
     <string name="antivirus_privacy_dialog_title_kddi">Умовы і палажэнні</string>
@@ -935,6 +936,7 @@
     <string name="button_text_let_me_select">Зразумела</string>
     <string name="button_text_next_step">Далей</string>
     <string name="button_text_next_step_timer">Наступны крок (%d)</string>
+    <string name="button_text_once_accept">Дазволіць адзін раз</string>
     <string name="button_text_open_now">Адкрыць</string>
     <string name="button_text_reject">Адхіліць</string>
     <string name="button_text_trust">Давяраць гэтай сетке</string>
@@ -1147,6 +1149,7 @@
     <string name="create_shortcut">Стварыць ярлык на Галоўным экране для Паскарэння гульняў</string>
     <string name="cs_color_sense">Каляровая тэмпература</string>
     <string name="cs_conversation_record_using">Запіс</string>
+    <string name="cs_func_toast_bluetooth_headset">Каб скарыстацца гэтай функцыяй, адключыце навушнікі Bluetooth</string>
     <string name="cs_func_toast_headset">Адключыце гарнітуру, каб выкарыстаць гэтую функцыю</string>
     <string name="cs_func_toast_light">Пераключыцеся на пярэднюю камеру, каб выкарыстаць гэтую функцыю</string>
     <string name="cs_func_toast_pickup">Пераключыцеся на відэавыклік, каб выкарыстаць гэтую функцыю</string>
@@ -1177,6 +1180,7 @@
     <string name="cs_tool_box_phone_guide_case_1">Паспрабуйце сінхронны пераклад і іншыя функцыі на новай Панэлі інструментаў выклікаў</string>
     <string name="cs_tool_box_phone_guide_case_2">Паспрабуйце шэраг функцый на новай Панэлі інструментаў выклікаў</string>
     <string name="cs_voice_print">Запісаць узор голасу</string>
+    <string name="cs_voice_search">Узор голасу</string>
     <string name="cs_vt_camera_toast_case1">Адкрыць камеру ў бягучай праграме</string>
     <string name="cs_vt_camera_toast_case2">Паблізу няма сумяшчальных прылад</string>
     <string name="cta_agree_desc">Каб мець магчымасць скарыстацца нашымі службамі, дазволіце гэтай праграме доступ да інтэрнэту, а таксама прадастаўце іншыя дазвалення з спісу ніжэй.</string>
@@ -1267,10 +1271,26 @@
     <string name="descx_quick_scan_preparation">Хвілінку…</string>
     <string name="detail_app_button">Звесткі пра праграму</string>
     <string name="details_subtitle">Падрабязнасці</string>
+    <string name="device_id">ID прылады для персанальных рэкамендацый</string>
+    <string name="device_id_app_manager_dialog_continue">Не спыняць</string>
+    <string name="device_id_app_manager_dialog_message">Вы дазволілі некаторым праграмам адсочваць вашыя дзеянні. Вы можаце спыніць адсочванне прама зараз.</string>
+    <string name="device_id_app_manager_dialog_stop">Спыніць</string>
+    <string name="device_id_app_manager_switch_sub_title">Калі гэтая функцыя адключаная, усе новыя запыты на адсочванне будуць аўтаматычна адхіляцца</string>
+    <string name="device_id_app_manager_switch_title">Дазволіць праграмам запытваць адсочванне</string>
+    <string name="device_id_app_manager_tips">Праграмы могуць адсочваць вашыя дзеянні ў розных іншых праграмах і на вэб-сайтах, выкарыстоўваючы ідэнтыфікатары адсочвання для прадастаўлення персаналізаванай рэкламы і іншых функцый</string>
+    <string name="device_id_app_manager_title">Кіраванне адсочваннем праграм</string>
+    <string name="device_id_manager_tips">Сістэма дае праграмам скіданыя ідэнтыфікатары адсочвання (OAID) замест ідэнтыфікатараў прылад для абароны вашай прыватнасці</string>
+    <string name="device_id_manager_title">Кіраванне ідэнтыфікатарам адсочвання</string>
+    <string name="device_id_reset">Скінуць ідэнтыфікатар адсочвання</string>
+    <string name="device_id_reset_msg">Пасля скіду з гэтай прыладай будзе злучаны новы ідэнтыфікатар.</string>
+    <string name="device_id_str">Бягучы ідэнтыфікатар адсочвання: %s</string>
     <string name="device_manager_apply_step_1">Актываваць адміністратара прылады?</string>
     <string name="device_manager_apply_step_2">"Актывацыя адміністратара прылады для гэтай праграмы можа прывесці да раскрыцця вашых асабістых дадзеных.
 Усе дадзеныя на вашай прыладзе могуць быць выдаленыя, а пароль блакавання экрана скінуты."</string>
     <string name="device_manager_apply_step_3">Перш чым працягнуць, пераканайцеся, што вы разумееце ўсе магчымыя рызыкі. Актываваць адміністратара прылады?</string>
+    <string name="device_oaid">Кіраванне віртуальным ID</string>
+    <string name="device_oaid_desc">Замест вашага унікальнага ідэнтыфікатара сістэма будзе прадастаўляць усталяваным праграмам віртуальны ідэнтыфікатар (OAID). Гэта дазволіць прадухіліць адсочванне вашых дзеянняў і пераваг праграмамі, а таксама дапаможа абараніць вашу прыватнасць.</string>
+    <string name="device_oaid_title">Віртуальны ID</string>
     <string name="dialog_app_roaming_message">%1$s не можа выкарыстоўваць мабільны інтэрнэт у роўмінгу. Толькі праграмы са спісу выняткаў могуць выкарыстоўваць мабільны інтэрнэт.</string>
     <string name="dialog_app_roaming_title">%1$s не можа карыстацца інтэрнэт-роўмінгам</string>
     <string name="dialog_change_package_type_summary">Змена тыпу тарыфнага плана прывядзе да скіду ўсіх налад перадачы дадзеных (напрыклад, лімітаў трафіку) да іх значэнняў па змаўчанні. Змяніць тып тарыфнага плану?</string>
@@ -1408,12 +1428,12 @@
     <string name="exit">Выхад</string>
     <string name="exit_dialog_exit">Выхад</string>
     <string name="exit_dialog_garbage_clean_message">Колькасць смецця на прыладзе больш за %s. Ачысціць смецце?</string>
-    <string name="exit_dialog_garbage_clean_message_new">&lt;Data>Ачыстка можа вызваліць &lt;font color=#0099ff>%s&lt;/font> месца ў сховішчы. Выканаць ачыстку?&lt;/Data></string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>Ачыстка можа вызваліць &lt;font color=#0099ff>%s&lt;/font> месца ў сховішчы. Выканаць ачыстку?</Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">Ачысціць</string>
     <string name="exit_dialog_garbage_clean_title">Вызваліць сховішча</string>
     <string name="exit_dialog_homepage_optimise_message">Індэкс прадукцыйнасці вашай прылады ніжэй, чым 80 балаў. Аптымізаваць зараз?</string>
     <string name="exit_dialog_release_memory_positive_button">Закрыць</string>
-    <string name="exit_dialog_release_memory_title_new">&lt;Data>Вы можаце паскорыць прыладу на &lt;font color=#0099ff>%s&lt;/font>&lt;/Data></string>
+    <string name="exit_dialog_release_memory_title_new"><Data>Вы можаце паскорыць прыладу на &lt;font color=#0099ff>%s&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">Больш за 80% сховішча на прыладзе занята. Вызваліце месца, выдаліўшы праграмы, якімі вы ніколі не карыстаецеся.</string>
     <string name="exit_dialog_release_storage_message_new">Больш за %s сховішча на прыладзе занята. Вызваліце месца, выдаліўшы праграмы, якімі вы ніколі не карыстаецеся.</string>
     <string name="exit_dialog_release_storage_positive_button">Вызваліць памяць</string>
@@ -1730,7 +1750,7 @@
     <string name="game_wid_viewpoint_buttom">Зрабіце кароткі перапынак.</string>
     <string name="gamebooster_confirm_dialog_negative_btn">Не згаджацца</string>
     <string name="gamebooster_confirm_dialog_positive_btn">Згадзіцца</string>
-    <string name="gamebooster_confirm_dialog_tip">&lt;Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Privacy Policy&lt;/a>&lt;/Data></string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Privacy Policy&lt;/a></Data></string>
     <string name="gamebooster_confirm_dialog_title">Пагадзіцеся з нашай Палітыкай прыватнасці</string>
     <string name="gamebooster_dialog_recover">Падоўжыць</string>
     <string name="gamebooster_dialog_start_booster">Пачаць</string>
@@ -1744,7 +1764,7 @@
     <string name="gamebooster_push_expiring_soon_title">Паскарэнне гульняў</string>
     <string name="gamebox_ai_accelerate">Ai-паскарэнне мабільнага інтэрнэту</string>
     <string name="gamebox_ai_accelerate_description">Прааналізуйце сеткавае асяроддзе, каб павялічыць хуткасць злучэння з мабільнай сеткай і зэканоміць мабільныя дадзеныя</string>
-    <string name="gamebox_ai_subtitle">Субцітры AI</string>
+    <string name="gamebox_ai_subtitle">AI-субтытры</string>
     <string name="gamebox_app_not_find">Праграма не знойдзена</string>
     <string name="gamebox_brightness">Яркасць</string>
     <string name="gamebox_browser_not_find">Спачатку усталюйце Mi Браўзер</string>
@@ -1859,8 +1879,8 @@
     <string name="gb_audition_play_instruction">Для найлепшага эфекту выкарыстоўвайце навушнікі</string>
     <string name="gb_award_noti_message">Уключыце фонавыя абнаўлення \"Гуляйце дзеля міру\" ў Паскарэнні гульняў, каб атрымліваць узнагароды</string>
     <string name="gb_award_noti_title">"З'явіліся ўзнагароды \"Гуляйце дзеля міру\"!"</string>
-    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Нможна пераключыцца на Збалансаваны рэжым у Паскарэнне гульняў, калі ўключаны агульнасістэмны Рэжым максімальнай прадукцыйнасці. Вы можаце змяніць налады батарэі ў раздзеле «Бяспека».&lt;br>&lt;a href=\"#\">Адкрыць «Бяспеку»&lt;/a>&lt;/Data></string>
-    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Немагчыма пераключыцца на Збалансаваны рэжым у Паскарэнні гульняў, калі ўключаны агульнасістэмны Рэжым максімальнай прадукцыйнасці. Вы можаце змяніць налады батарэі ў раздзеле «Бяспека». &lt;br>&lt;a href=\"#\">Адкрыць «Бяспеку»&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>Нможна пераключыцца на Збалансаваны рэжым у Паскарэнне гульняў, калі ўключаны агульнасістэмны Рэжым максімальнай прадукцыйнасці. Вы можаце змяніць налады батарэі ў раздзеле «Бяспека».&lt;br>&lt;a href=\"#\">Адкрыць «Бяспеку»&lt;/a></Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>Немагчыма пераключыцца на Збалансаваны рэжым у Паскарэнні гульняў, калі ўключаны агульнасістэмны Рэжым максімальнай прадукцыйнасці. Вы можаце змяніць налады батарэі ў раздзеле «Бяспека». &lt;br>&lt;a href=\"#\">Адкрыць «Бяспеку»&lt;/a></Data></string>
     <string name="gb_bar_high">Высокая</string>
     <string name="gb_bar_low">Нізкая</string>
     <string name="gb_bar_mid">Сярэдняя</string>
@@ -1988,7 +2008,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_new_feature">Новыя магчымасці</string>
     <string name="gb_not_support_on_device">"This app can't be used on the outer screen"</string>
     <string name="gb_operat_frequently">Не так хутка!</string>
-    <string name="gb_performace_guide_disable_desc">&lt;Data>Нельга актываваць Збалансаваны рэжым паскарэнне гульняў, калі ўключаны агульнасістэмны Рэжым прадукцыйнасці. Вы можаце змяніць параметры сілкавання ў праграмеБяспека.&lt;br>&lt;a href=\"#\">Адкрыць праграму Бяспека&lt;/a>&lt;/Data></string>
+    <string name="gb_performace_guide_disable_desc"><Data>Нельга актываваць Збалансаваны рэжым паскарэнне гульняў, калі ўключаны агульнасістэмны Рэжым прадукцыйнасці. Вы можаце змяніць параметры сілкавання ў праграмеБяспека.&lt;br>&lt;a href=\"#\">Адкрыць праграму Бяспека&lt;/a></Data></string>
     <string name="gb_performace_switch_toast">Пераключана ў Рэжым прадукцыйнасці. Ваша прылада можа награвацца і спажываць больш энергіі.</string>
     <string name="gb_performace_tips_button">Пераключыцца</string>
     <string name="gb_performace_tips_title">Пераключыцеся ў Рэжым прадукцыйнасці для большай зручнасці</string>
@@ -2005,7 +2025,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_predownload_dialog_cancel">Не, дзякуй</string>
     <string name="gb_predownload_dialog_checked">Не паказваць зноў</string>
     <string name="gb_predownload_dialog_confirm">Уключыць</string>
-    <string name="gb_predownload_dialog_message_china">&lt;Data>Абноўлены кантэнт для гэтай гульні можа быць загружаны на гэтую прыладу аўтаматычна пасля падлучэння да бесправадной сеткі і выключэння экрана. Такім чынам вы зможаце выкарыстоўваць новую версію, як толькі яна будзе выпушчаная.&lt;br>&lt;br>Азнаёмцеся і пагадзіцеся з &lt;a href=\"%1$s\">Заявай аб фонавых абнаўленнях&lt;/a> перад выкарыстаннем гэтай функцыі.&lt;/Data></string>
+    <string name="gb_predownload_dialog_message_china"><Data>Абноўлены кантэнт для гэтай гульні можа быць загружаны на гэтую прыладу аўтаматычна пасля падлучэння да бесправадной сеткі і выключэння экрана. Такім чынам вы зможаце выкарыстоўваць новую версію, як толькі яна будзе выпушчаная.&lt;br>&lt;br>Азнаёмцеся і пагадзіцеся з &lt;a href=\"%1$s\">Заявай аб фонавых абнаўленнях&lt;/a> перад выкарыстаннем гэтай функцыі.</Data></string>
     <string name="gb_predownload_dialog_title">Ужо даступныя фонавыя абнаўлення</string>
     <string name="gb_predownload_message_new">Абнаўляць сумяшчальныя гульні аўтаматычна, калі прылада не выкарыстоўваецца</string>
     <string name="gb_predownload_noti_message">%2$1.2f ГБ абноўленага кантэнту ўжо знаходзіцца на гэтай прыладзе. Вы зможаце выкарыстоўваць яго, як толькі будзе выпушчаная новая версія.</string>
@@ -2182,7 +2202,7 @@ Record sequences and use them anytime!"</string>
     <string name="gd_sidebar_edit_quick_title">Ярлыкі</string>
     <string name="gd_sidebar_long_press_tips">Націсніце і ўтрымлівайце індыкатар, каб перамясціць яго, і ў той жа час трымайце прыладу вертыкальна</string>
     <string name="gd_splite_screen_tips">Падзяленне экрана не падтрымлівае плаваючыя вокны</string>
-    <string name="gdpr_msg">&lt;Data>Каб атрымаць магчымасць выяўляць пагрозы бяспекі і абараняць вашыя дадзеныя, нам неабходна збіраць інфармацыю пра прыладу. Прачытайце і пагадзіцеся з нашей &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Палітыкай прыватнасці&lt;/a> перад выкарыстаннем нашай паслугі. Калі вы не дасце дазвол на збор такой інфармацыі, вы ўсё ж зможаце выкарыстоўваць гэтую праграму, але некаторыя яе функцыі будуць недаступныя.&lt;/Data></string>
+    <string name="gdpr_msg"><Data>Каб атрымаць магчымасць выяўляць пагрозы бяспекі і абараняць вашыя дадзеныя, нам неабходна збіраць інфармацыю пра прыладу. Прачытайце і пагадзіцеся з нашей &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Палітыкай прыватнасці&lt;/a> перад выкарыстаннем нашай паслугі. Калі вы не дасце дазвол на збор такой інфармацыі, вы ўсё ж зможаце выкарыстоўваць гэтую праграму, але некаторыя яе функцыі будуць недаступныя.</Data></string>
     <string name="get_detail_by_click">Націсніце, каб праглядзець падрабязнасці</string>
     <string name="get_phone_num_fail">Невядомы нумар тэлефона</string>
     <string name="get_sys_info">Атрыманне інфармацыі…</string>
@@ -2289,11 +2309,11 @@ Record sequences and use them anytime!"</string>
     <string name="gtb_dialog_btn_open">Уключыць</string>
     <string name="gtb_dialog_hint_smart_5g">Вы можаце ўключыць або выключыць гэтую функцыю ў раздзеле «Паскарэнне гульняў > Налады».</string>
     <string name="gtb_dialog_privacy_speed_message">Вы збіраецеся выкарыстоўваць Паскаральнік гульняў Xunyou. Гэтая служба будзе атрымліваць ваш ID Xiaomi Акаўнта для запісу працягласці сяброўства.</string>
-    <string name="gtb_dialog_privacy_speed_tips">&lt;Data>Прачытайце і прыміце &lt;a href=\"%1$s\">Палітыку прыватнасці&lt;/a> Паскаральніка гульняў Xunyou.&lt;/Data></string>
-    <string name="gtb_dialog_privacy_speed_tips_new">"&lt;Data>I've read and agreed to the Xunyou Game Booster &lt;a href=\"%1$s\">Privacy Policy&lt;/a>.&lt;/Data>"</string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>Прачытайце і прыміце &lt;a href=\"%1$s\">Палітыку прыватнасці&lt;/a> Паскаральніка гульняў Xunyou.</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"I've read and agreed to the Xunyou Game Booster &lt;a href=\"%1$s\">Privacy Policy&lt;/a>."</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Паскаральнік гульняў Xunyou</string>
     <string name="gtb_dialog_privacy_voice_message">Вы збіраецеся выкарыстаць Змену голаса у гульні Xunyou. Гэтая служба будзе атрымліваць ваш ID Xiaomi Акаўнта для запісу працягласці сяброўства.</string>
-    <string name="gtb_dialog_privacy_voice_tips">&lt;Data>Прачытайце і прыміце &lt;a href=\"%1$s\">Палітыку прыватнасці&lt;/a> Змены голаса ў гульні Xunyou.&lt;/Data></string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>Прачытайце і прыміце &lt;a href=\"%1$s\">Палітыку прыватнасці&lt;/a> Змены голаса ў гульні Xunyou.</Data></string>
     <string name="gtb_dialog_privacy_voice_title">Змена голаса ў гульні Xunyou</string>
     <string name="gtb_dialog_summary_smart_5g">Кожны раз, калі Паскарэнне гульняў выяўляе сетку 5G, яно можа падключыць прыладу да лепшай даступнай сеткі для памяншэння сеткавай затрымкі. Уключыць гэтую функцыю?</string>
     <string name="gtb_dialog_title_smart_5g">Аптымізацыя для сеткі 5G</string>
@@ -3061,9 +3081,12 @@ Record sequences and use them anytime!"</string>
     <string name="numeric_recording_intro_header">Увядзіце пароль</string>
     <string name="numeric_retry_button_text">Скасаваць</string>
     <string name="numeric_settings_help_how_to_record">Як задаць PIN-код</string>
+    <string name="oaid_apps_summary">Падаць ці забараніць доступ асобным праграмам</string>
     <string name="oaid_apps_title">Кіраванне віртуальным ID</string>
     <string name="oaid_reset_content_tip">Калі вы зараз выключыце віртуальны ID, некаторыя праграмы могуць працаваць няправільна, а некаторая частка дадзеных праграм можа быць страчана або стаць недаступнай.</string>
     <string name="oaid_reset_final_tip">Выключыць віртуальны ID?</string>
+    <string name="oaid_string">"Бягучы віртуальны ID:
+%1s"</string>
     <string name="oaid_tips_content">Віртуальныя ідэнтыфікатары (OAD) можна выкарыстоўваць для адсочвання вашых паводзінаў і персаналізацыі рэкламы для вас. Вы можаце выбраць праграмы, якія могуць атрымліваць доступ да вашага віртуальнай ідэнтыфікатару. Звярніце ўвагу, што калі вы абмежавалі доступ, рэкамендацыі па рэкламе могуць стаць неактуальнымі, а праграмы могуць перастаць працаваць нармальна.</string>
     <string name="ok">ОК</string>
     <string name="ok_button">OK</string>
@@ -3175,7 +3198,7 @@ Record sequences and use them anytime!"</string>
     <string name="packages_subtitle">Укладзеныя пакеты</string>
     <string name="passwordIncorrect">Няправільнае імя карыстальніка або пароль</string>
     <string name="password_forget_pattern_confirm">Зразумела</string>
-    <string name="password_forget_pattern_message">Па патрабаваннях бяспекі вы можаце скінуць пароль толькі пасля скіду наладаў. Націсніце для скіду.</string>
+    <string name="password_forget_pattern_message">Па патрабаваннях бяспекі вы можаце скінуць пароль толькі пасля скіду налад. Націсніце для скіду.</string>
     <string name="password_forget_pattern_message_none">Праграмы не абароненыя. Вы можаце скінуць пароль.</string>
     <string name="password_forget_pattern_reset">Скінуць</string>
     <string name="password_forget_pattern_title">Увага</string>
@@ -3200,6 +3223,7 @@ Record sequences and use them anytime!"</string>
     <string name="pc_batery_protection">Абарона батарэі</string>
     <string name="pc_battery_charge_protect">Абарона пры зарадцы</string>
     <string name="pc_battery_chart_loading">Хвілінку…</string>
+    <string name="pc_battery_date_year_month_format">MMM yyyy</string>
     <string name="pc_battery_detail_curve_reference_now">Зараз</string>
     <string name="pc_battery_detail_device_item_title">Статыстыка выкарыстання батарэі</string>
     <string name="pc_battery_health_revise_title">Калібраваць інфармацыю аб стане батарэі</string>
@@ -3232,7 +3256,7 @@ Record sequences and use them anytime!"</string>
     <string name="pc_camera_printer_notify_subtitle">Падключаны</string>
     <string name="pc_camera_printer_title">Камплект фотадрукаркі</string>
     <string name="pc_category_charge_settings">Налады зарадкі</string>
-    <string name="pc_charge_mode_low_power_fast_speed">Нізкае напружанне</string>
+    <string name="pc_charge_mode_low_power_fast_speed">Паскорыць</string>
     <string name="pc_charge_mode_low_power_fast_speed_tips">Прылада можа награвацца</string>
     <string name="pc_charge_mode_standard">Стандартны</string>
     <string name="pc_charge_mode_topspeed">Максімальная хуткасць</string>
@@ -3263,6 +3287,7 @@ Record sequences and use them anytime!"</string>
     <string name="pc_continuity_open_save_mode_notifi_sumary">Зарад батарэі %1$s ніжэй %2$s. Уключыце Эканомію зараду, каб дадаць %3$s %4$s.</string>
     <string name="pc_continuity_open_save_mode_notifi_title">Нізкі зарад батарэі %s</string>
     <string name="pc_current_power_mode">Бягучы рэжым</string>
+    <string name="pc_cycle_count_protect_title">Цыклы</string>
     <string name="pc_emergency_call">Надзвычайнае становішча</string>
     <string name="pc_endurance_calculation">Разлік…</string>
     <string name="pc_entered_extreme_mode">Рэжым гібернацыі ўключаны</string>
@@ -3294,11 +3319,16 @@ Record sequences and use them anytime!"</string>
     <string name="pc_fast_charge_switch_toast_message">Змены ўступяць у сілу падчас наступнай зарадкі гэтай прылады</string>
     <string name="pc_fast_charge_temp_remider">Уключыце, каб аўтаматычна рэгуляваць хуткасць зарадкі. Гэтая функцыя працуе толькі з зараднымі прыладамі, якія ўваходзяць у камплект пастаўкі Xiaomi. Ваша прылада можа награвацца падчас зарадкі.</string>
     <string name="pc_fast_charge_title">Паскорыць зарадку</string>
+    <string name="pc_first_use_error_tips">Ідзе падлік...</string>
+    <string name="pc_first_use_protect_title">Першае выкарыстанне</string>
     <string name="pc_going_to_exit_extreme_mode">Выхад з рэжыму гібернацыі...</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Ваша прылада зараджаецца. Рэжым гібернацыі выключаны.</string>
     <string name="pc_going_to_extreme_mode">Пераход у рэжым гібернацыі...</string>
     <string name="pc_handle_battery_level">Ручка</string>
     <string name="pc_have_no_battery_issue">Няма праблем</string>
+    <string name="pc_health_charge_protect_notification_summary">Уключыце абарону акумулятара, каб паменшыць яго старэнне</string>
+    <string name="pc_health_charge_protect_summary">Каб падоўжыць тэрмін службы акумулятара, прылада спыніць зарадку, калі ўзровень зарада батарэі дасягне %1$s</string>
+    <string name="pc_health_charge_protect_title">Абарона акумулятара</string>
     <string name="pc_hide_more_power_rank_apps">Схаваць</string>
     <string name="pc_hidemode_normal">Збалансаванае</string>
     <string name="pc_hidemode_normal_title">Збалансаванае</string>
@@ -3337,6 +3367,8 @@ Record sequences and use them anytime!"</string>
     <string name="pc_low_battery_fast_charge_summary">Падлучыце зарадную прыладу, якая ўваходзіць у камплект, каб паскорыць зарадку, калі экран выключаны і батарэя разраджана. Гэтая функцыя можа прывесці да нагрэву прылады.</string>
     <string name="pc_low_temp_charge_summary">Пакіньце зарадную прыладу падлучанай і пачакайце, пакуль батарэя нагрэецца пасля таго, як экран згасне, каб прылада зараджалася нармальна</string>
     <string name="pc_low_temp_charge_title">Зарадка пры нізкай тэмпературы</string>
+    <string name="pc_low_temperature_extreme_endurance_summary">Абмяжуйце прадукцыйнасць прылады, каб падоўжыць тэрмін службы акумулятара, калі тэмпература навакольнага асяроддзя вельмі нізкая</string>
+    <string name="pc_low_temperature_extreme_endurance_title">Рэжым устойлівасці да холаду</string>
     <string name="pc_main_activity_back">Назад</string>
     <string name="pc_main_battery_text_day">Дададзена %1$s хв., зарада хопіць прыкладна на %2$s д</string>
     <string name="pc_main_battery_text_day_hour">Дададзена %1$s хв., зарада хопіць прыкладна на %2$s д %3$s г</string>
@@ -3367,6 +3399,7 @@ Record sequences and use them anytime!"</string>
     <string name="pc_power_mode_has_berserk">Рэжым максімальнай прадукцыйнасці ўключаны</string>
     <string name="pc_power_mode_has_performance">Рэжым прадукцыйнасці ўключаны</string>
     <string name="pc_power_save_settings_new">Налады Эканоміі зараду</string>
+    <string name="pc_production_date_protect_title">Дата вырабу</string>
     <string name="pc_remind_close_cover_to_charge_summary">Складзіце прыладу перад зарадкай для больш хуткай і стабільнай зарадкі.</string>
     <string name="pc_remind_close_cover_to_charge_title">Складзіце для зарадкі</string>
     <string name="pc_reminder_always_protect_summary">Пераключыцеся на абмежаваную зарадку, каб паменшыць старэнне акумулятара</string>
@@ -3412,6 +3445,8 @@ Record sequences and use them anytime!"</string>
     <string name="pc_wait_device_cools_down">Пачакайце, пакуль ваша прылада астыне, каб выкарыстоўваць гэтую функцыю.</string>
     <string name="pc_wireless_charge_adjust_position_summary">Пастаўце яго на бесправадную зарадную прыладу</string>
     <string name="pc_wireless_charge_adjust_position_title">Зараджайце сваю прыладу хутчэй</string>
+    <string name="pc_wireless_charge_notification_summary">Бесправадная зарадка менш энергаэфектыўная, чым правадная</string>
+    <string name="pc_wireless_charge_notification_title">Ідзе бесправадная зарадка</string>
     <string name="pc_wireless_charging_special_stand_summary1">Размясціце сою прыладу на падстаўцы, якая ўваходзіць у камплект пастаўкі бесправадной зараднай прылады</string>
     <string name="pc_wireless_charging_special_stand_summary2">Размясціце сою прыладу на падстаўцы, якая ўваходзіць у камплект пастаўкі бесправадной зараднай прылады, для максімальнай эфектыўнасці зарадкі</string>
     <string name="pc_wireless_charging_special_stand_title">Выкарыстоўвайце прыкладзеную падстаўку для зарадкі</string>
@@ -3554,6 +3589,7 @@ Record sequences and use them anytime!"</string>
     <string name="permission_instruction_write_contacts">Пры наяўнасці гэтага дазволу праграмы могуць дадаваць, выдаляць і змяняць кантакты.</string>
     <string name="permission_instruction_write_settings">This permission allows apps to modify system settings. Malicious apps might use this permission temper with your system settings and affect the normal use of your device.</string>
     <string name="permission_legacy_storage">Доступ да фота, відэа, аўдыя і файлаў</string>
+    <string name="permission_oaid_desc">Дазволіць %1$s адсочваць вашыя дзеянні ў іншых праграмах і на вэб-сайтах?</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">Праграмы не будуць пытацца дазволу на доступ да дадзеных і функцый. Вы можаце ўключыць кіравання ў наладах дазволаў.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Кіраванне дазволамі</string>
     <string name="permission_precise_location">Дакладнае месцазнаходжанне</string>
@@ -3676,7 +3712,7 @@ Record sequences and use them anytime!"</string>
     <string name="power_center_night_charge_protection_summary">Для памяншэння старэнне батарэі ваша прылада вывучае вашыя штодзённыя звычкі выканання зарадкі прылады і памяншае непатрэбную бесперапынную зарадку</string>
     <string name="power_center_one_key_save">Аптымізаваць</string>
     <string name="power_center_ontime_boot">Уключэнне па раскладзе</string>
-    <string name="power_center_ontime_shutdown">Выключэнне па раскладзе</string>
+    <string name="power_center_ontime_shutdown">Адключэнне па раскладзе</string>
     <string name="power_center_optimize_title">Прапановы</string>
     <string name="power_center_power_save_summary_text">Падоўжыць астатні час працы ад батарэі на %1$d г %2$d хв</string>
     <string name="power_center_power_save_title_text">Эканомія энергіі</string>
@@ -3737,8 +3773,8 @@ Record sequences and use them anytime!"</string>
     <string name="power_center_surface_temp_low">Халодны</string>
     <string name="power_center_surface_temp_lower">Прахалодны</string>
     <string name="power_center_surface_temp_normal">Звычайны</string>
-    <string name="power_center_time_to_boot">Уключэнне па раскладзе</string>
-    <string name="power_center_time_to_shutdown">Выключэнне па раскладзе</string>
+    <string name="power_center_time_to_boot">Час</string>
+    <string name="power_center_time_to_shutdown">Час</string>
     <string name="power_center_title">Батарэя</string>
     <string name="power_center_unoffical_battery_button">Знайдзіце аўтарызаванага дастаўніка паслуг</string>
     <string name="power_center_unoffical_battery_dialog">Папярэджанне пра несанкцыянаванае выкарыстанне батарэі</string>
@@ -4055,8 +4091,8 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_dialog_camera_message">Каб абараніць вашу прыватнасць, сістэма не дазваляе праграмам выкарыстоўваць камеру ў фоне.</string>
     <string name="privacy_dialog_camera_title">Абмежаваць фонавае выкарыстанне камеры</string>
     <string name="privacy_dialog_content_part1">Сардэчна запрашаем у праграму «Бяспека»! Гэтая праграма правярае прыладу на наяўнасць смецця і вірусаў, а таксама дазваляе кіраваць праграмамі і выкарыстаннем мабільнага інтэрнэту, блакаваць выклікі і паведамленні, а таксама рабіць шмат іншага.</string>
-    <string name="privacy_dialog_content_part2">&lt;Data>Праграме «Бяспека» патрабуецца ажыццяўляць збор неабходнай асабістай інфармацыі, каб прадастаўляць вам свае паслугі і мець магчымасць паляпшаць свае функцыі. Вы можаце даведацца пра тое, як мы апрацоўваем інфармацыю, якую збіраем, у нашай &lt;a href=\"%1$s\">Палітыцы прыватнасці&lt;/a>. Вы можаце ў любы час адклікаць сваю згоду з Палітыкай прыватнасці «Бяспекі» ў Наладах.&lt;/Data></string>
-    <string name="privacy_dialog_content_part3">&lt;Data>Перад пачаткам выкарыстання праграмы «Бяспека» азнаёмцеся і пагадзіцеся з нашымі &lt;a href=\"%2$s\">Карыстальніцкім пагадненнем&lt;/a> і &lt;a href=\"%1$s\">Палітыкай прыватнасці&lt;/a>. Калі вы не згодныя з вышэйазначанымі дакументамі, вы не зможаце выкарыстоўваць некаторыя функцыі гэтай праграмы, аднак яе асноўныя функцыі застануцца даступнымі вам.&lt;/Data></string>
+    <string name="privacy_dialog_content_part2"><Data>Праграме «Бяспека» патрабуецца ажыццяўляць збор неабходнай асабістай інфармацыі, каб прадастаўляць вам свае паслугі і мець магчымасць паляпшаць свае функцыі. Вы можаце даведацца пра тое, як мы апрацоўваем інфармацыю, якую збіраем, у нашай &lt;a href=\"%1$s\">Палітыцы прыватнасці&lt;/a>. Вы можаце ў любы час адклікаць сваю згоду з Палітыкай прыватнасці «Бяспекі» ў Наладах.</Data></string>
+    <string name="privacy_dialog_content_part3"><Data>Перад пачаткам выкарыстання праграмы «Бяспека» азнаёмцеся і пагадзіцеся з нашымі &lt;a href=\"%2$s\">Карыстальніцкім пагадненнем&lt;/a> і &lt;a href=\"%1$s\">Палітыкай прыватнасці&lt;/a>. Калі вы не згодныя з вышэйазначанымі дакументамі, вы не зможаце выкарыстоўваць некаторыя функцыі гэтай праграмы, аднак яе асноўныя функцыі застануцца даступнымі вам.</Data></string>
     <string name="privacy_dialog_danger_mission_message">У Android ёсць некалькі дазволаў высокай рызыкі (напрыклад, дазвол на перадачу push-апавяшчэнняў). Для таго каб абараніць вашу прыватнасць, сістэма спытае, ці дазволены такія паводзіны, і адлюструе магчымасці забарон.</string>
     <string name="privacy_dialog_danger_mission_title">Дазвол высокай рызыкі</string>
     <string name="privacy_dialog_feedback">Водгук</string>
@@ -4162,7 +4198,7 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_revoke_dialog_title_cn">Увага</string>
     <string name="privacy_revoke_failed_dialog_content">Здарылася памылка на серверы. Пачакайце хвілінку ці дзве і паспрабуйце зноў.</string>
     <string name="privacy_revoke_failed_dialog_title">Не атрымалася адклікаць згоду</string>
-    <string name="privacy_revoke_tip_dialog_content">&lt;Data>Вы не зможаце працягнуць выкарыстанне %1$s, калі вы не пагодзіцеся з новай версіяй яе Палітыкі прыватнасці. Згадзіцца з абноўленай %2$s &lt;a href=\"%3$s\">Палітыкай прыватнасці&lt;/a> зараз?&lt;/Data></string>
+    <string name="privacy_revoke_tip_dialog_content"><Data>Вы не зможаце працягнуць выкарыстанне %1$s, калі вы не пагодзіцеся з новай версіяй яе Палітыкі прыватнасці. Згадзіцца з абноўленай %2$s &lt;a href=\"%3$s\">Палітыкай прыватнасці&lt;/a> зараз?</Data></string>
     <string name="privacy_revoke_tip_dialog_title">Немагчыма выкарыстоўваць праграму</string>
     <string name="privacy_revoke_title">Адкліканне згоды</string>
     <string name="privacy_risk_app">Рызыкоўныя праграмы</string>
@@ -4265,7 +4301,7 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_thumbnail_shield_top_tip">Папярэдні прагляд маскіроўкі для праграм, якія адлюстроўваюцца ў раздзеле «Нядаўнія»</string>
     <string name="privacy_type_open">Укл.</string>
     <string name="privacy_update_dialog_content_1">Палітыка прыватнасці %s была абноўлена:</string>
-    <string name="privacy_update_dialog_content_2">&lt;Data>Перад тым як працягнуць, прачытайце новую версію нашай &lt;a href=\"%1$s\">Палітыкі прыватнасці&lt;/a> і пагадзіцеся з ёю.&lt;/Data></string>
+    <string name="privacy_update_dialog_content_2"><Data>Перад тым як працягнуць, прачытайце новую версію нашай &lt;a href=\"%1$s\">Палітыкі прыватнасці&lt;/a> і пагадзіцеся з ёю.</Data></string>
     <string name="privacy_update_dialog_title">Абноўленая Палітыка прыватнасці</string>
     <string name="privacy_using_camera">Выкарыстанне камеры</string>
     <string name="privacy_using_location">Доступ да месцазнаходжання</string>
@@ -4347,6 +4383,16 @@ Record sequences and use them anytime!"</string>
     <string name="reset_data_dialog_message">Гэта прылада не звязана з вашым Xiaomi Акаўнтам. Немагчыма аднавіць або скінуць пароль. Стварыце рэзервную копію ўсіх важных дадзеных і выканайце скід да завадскіх налад. Пры гэтым усе дадзеныя будуць выдалены назаўжды, а ваша SD-карта будзе адфарматавана.</string>
     <string name="reset_data_dialog_ok">Скід налад</string>
     <string name="reset_data_title">Не ўдаецца аднавіць пароль</string>
+    <string name="restore_device_id_content">Персанальныя рэкамендацыі будуць скінутыя</string>
+    <string name="restore_device_id_title">Скінуць ID прылады</string>
+    <string name="restore_dialog_content">Скід бягучага ID прылады таксама скіне персанальныя рэкамендацыі. Скінуць зараз?</string>
+    <string name="restore_dialog_positive">Скінуць</string>
+    <string name="restore_dialog_title">Увага</string>
+    <string name="restore_oaid_content">Скід вашага віртуальнага ID для выдалення дадзеных аб вашых дзеяннях і перавагах</string>
+    <string name="restore_oaid_dialog_content">Некалькі праграм выкарыстаюць віртуальны ID. Калі вы скінеце яго зараз, частка дадзеных праграм могуць знікнуць або стаць непрыдатнай да выкарыстання. Скінуць віртуальны ID?</string>
+    <string name="restore_oaid_positive">Скід</string>
+    <string name="restore_oaid_positive_step">Скінуць (%1$d)</string>
+    <string name="restore_oaid_title">Скід віртуальнага ID</string>
     <string name="result_autoscan_header">Маніторынг плацяжоў</string>
     <string name="result_autoscan_info">Аўтаматычна маніторыць сістэмнае асяроддзе з пачаткам працы праграмы аплаты</string>
     <string name="result_sms_header">Знойдзены пагрозы для паведамленняў</string>
@@ -4687,7 +4733,7 @@ Record sequences and use them anytime!"</string>
     <string name="special_perm_intercept_significance_title">Доступ да інфармацыі пра прыладу</string>
     <string name="special_perm_intercept_system_msg">Усталеўка праграм, якія могуць утрымліваць вірусы ці як-небудзь інакш пагражаць сістэме</string>
     <string name="special_perm_intercept_system_title">Уплыў на стабільнасць і бяспеку сістэмы</string>
-    <string name="special_perm_intercept_title">"\"%s\" з'яўляецца канфідэнцыйным дазволам. Падаючы гэты дазвол, вы ставіце пад пагрозу прыватнасць асабістых дадзеных і захаванасць сваёй маёмасці. Спіс дзеянняў, даступных праграмам з гэтым дазволам:"</string>
+    <string name="special_perm_intercept_title">"\"%s\" з'яўляецца прыватным дазволам. Даючы гэты дазвол, вы ставіце пад пагрозу прыватнасць асабістых дадзеных і захаванасць сваёй маёмасці. Спіс дзеянняў, даступных праграмам з гэтым дазволам:"</string>
     <string name="special_perm_intercept_usb_title">"\"%s\" з'яўляецца канфідэнцыяльнай службай, прызначанай толькі для распрацоўнікаў. Уключыўшы гэтую службу, вы ставіце пад пагрозу канфідэнцыяльнасць асабістых дадзеных і захаванасць сваёй маёмасці. Вось, што можа адбыцца:"</string>
     <string name="special_perm_manager_msg">Дазваляць праграмам кіраваць вашай прыладай</string>
     <string name="special_perm_manager_title">Кіраванне прыладай</string>
@@ -5005,6 +5051,9 @@ Record sequences and use them anytime!"</string>
     <string name="superpower_dialog_button_ok">OK</string>
     <string name="superpower_dialog_massage">Ультра-эканомія энергіі абмяжоўвае большасць энергаёмістых функцый і зніжае прадукцыйнасць вашай прылады, каб зрабіць асноўныя функцыі (напрыклад, званкі, SMS і падлучэнне да сеткі) даступнымі як мага даўжэй. Уключыць яе?</string>
     <string name="superpower_dialog_title">Ультра-эканомія энергіі</string>
+    <string name="superpower_notification_low_temp_btn_txt">Уключыць</string>
+    <string name="superpower_notification_low_temp_summary">Рэжым устойлівасці да холаду дазваляе эканоміць больш зарада батарэі, калі ўключаная функцыя «Ультра-эканомія энергіі» і тэмпература навакольнага асяроддзя вельмі нізкая</string>
+    <string name="superpower_notification_low_temp_title">Уключыць Ультра-эканомію энергіі?</string>
     <string name="superpower_notification_new_title_new">Засталося менш %s зарада батарэі</string>
     <string name="superpower_notification_summary">Зарадзіце прылада або уключыце рэжым Ультра-эканомія энергіі</string>
     <string name="superpower_notification_time_12">EEEE, d MMMM</string>
@@ -5012,6 +5061,7 @@ Record sequences and use them anytime!"</string>
     <string name="superpower_notification_title_new">Засталося менш %s зарада батарэі</string>
     <string name="superpower_progress_content">Уключэнне Ультра-эканоміі…</string>
     <string name="superpower_progress_left_time">%1$d г %2$d хв.</string>
+    <string name="superpower_progress_low_temp_content">Уключэнне Рэжыму ўстойлівасці да холаду…</string>
     <string name="superpower_progress_switch_home">Пераключэнне на Цёмную тэму</string>
     <string name="superpower_progress_title">Рэшта часу</string>
     <string name="superpower_progress_turndown_brightness">Памяншэнне яркасці экрана</string>
@@ -5049,11 +5099,11 @@ Record sequences and use them anytime!"</string>
     <string name="system_permission_declare_agree">Згадзіцца</string>
     <string name="system_permission_declare_analytics_declare">Прапануем вам зарэгістравацца ў нашай Праграме паляпшэння якасці. Гэтай праграме трэба падлучыцца да Інтэрнэту і патрабуюцца наступныя дазвалення або функцыі для збору статыстыкі ў мэтах павышэння якасці паслуг, якія мы даем вам. Мы збіраем звесткі, таму што толькі для статыстычных мэтаў і не можам ідэнтыфікаваць асабіста вас на аснове дадзеных, якія мы збіраем.</string>
     <string name="system_permission_declare_disagree">Не згадзіцца</string>
-    <string name="system_permission_declare_double_link">&lt;Data>Перад тым як працягнуць, прачытайце нашы &lt;a href=\"%1$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a> і пагадзіцеся з імі.&lt;/Data></string>
+    <string name="system_permission_declare_double_link"><Data>Перад тым як працягнуць, прачытайце нашы &lt;a href=\"%1$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a> і пагадзіцеся з імі.</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">Сардэчна запрашаем у %1s! Гэтая праграма дазваляе выкарыстоўваць наступную функцыю: %2s.</string>
-    <string name="system_permission_declare_meanwhile_double_link">&lt;Data>Перад тым як працягнуць, прачытайце нашы &lt;a href=\"%1$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a> і пагадзіцеся з імі.&lt;/Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data>Перад тым як працягнуць, прачытайце нашу &lt;a href=\"%1$s\">Палітыку прыватнасці&lt;/a> і пагадзіцеся з ёю.&lt;/Data></string>
-    <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data>Перад тым як працягнуць, прачытайце наша &lt;a href=\"%1$s\">Карыстальніцкае пагадненне&lt;/a> і пагадзіцеся з ім.&lt;/Data></string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>Перад тым як працягнуць, прачытайце нашы &lt;a href=\"%1$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a> і пагадзіцеся з імі.</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Перад тым як працягнуць, прачытайце нашу &lt;a href=\"%1$s\">Палітыку прыватнасці&lt;/a> і пагадзіцеся з ёю.</Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>Перад тым як працягнуць, прачытайце наша &lt;a href=\"%1$s\">Карыстальніцкае пагадненне&lt;/a> і пагадзіцеся з ім.</Data></string>
     <string name="system_permission_declare_no_say_no">Калі вы вырашыце не даваць неабходныя дазволы ці не дазволіце нам збіраць і выкарыстоўваць вашы дадзеныя, гэтая прграма не зможа нармальна працаваць.</string>
     <string name="system_permission_declare_no_say_no_analytics">Калі вы не хочаце прадастаўляць гэтыя дазволы, вы можаце адмяніць рэгістрацыю ў раздзеле «Налады > Дадатковыя налады > Канфідэнцыяльнасць > Ппраграма карыстацкага вопыту.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">Калі вы вырашыце не даваць неабходныя дазволы ці не дазволіце нам збіраць і выкарыстоўваць вашы дадзеныя, гэтая праграма часткова не зможа працаваць.</string>
@@ -5061,13 +5111,13 @@ Record sequences and use them anytime!"</string>
     <string name="system_permission_declare_privacy_declare">Для правільнай працы гэтай праграме патрабуецца падлучэнне да інтэрнэту, а таксама наступныя дазволы:</string>
     <string name="system_permission_declare_privacy_no_network">Для нармальнай працы гэтай праграме неабходныя наступныя дазвалення:</string>
     <string name="system_permission_declare_privacy_no_permission">Для правільнай працы гэтай праграме патрабуецца падлучэнне да інтэрнэту, а таксама наступныя асабістыя дадзеныя.</string>
-    <string name="system_permission_declare_privacy_policy">&lt;Data>Перад тым як працягнуць, прачытайце нашу &lt;a href=\"%1$s\">Палітыку прыватнасці&lt;/a> і пагадзіцеся з ёю.&lt;/Data></string>
+    <string name="system_permission_declare_privacy_policy"><Data>Перад тым як працягнуць, прачытайце нашу &lt;a href=\"%1$s\">Палітыку прыватнасці&lt;/a> і пагадзіцеся з ёю.</Data></string>
     <string name="system_permission_declare_revoke_system">Вы можаце зачыніць гэтую праграму.</string>
     <string name="system_permission_declare_revoke_uninstallable">Вы можаце выйсці, выдаліць гэтую праграму ці адклікаць свой дазвол у раздзеле «Бяспека > Кіраванне праграмамі > Дазволы > Дазволы».</string>
     <string name="system_permission_declare_title">Увага</string>
     <string name="system_permission_declare_use_network">Падлучыцца да сеткі</string>
     <string name="system_permission_declare_use_network_no_permission">Падлучыцца да сеткі</string>
-    <string name="system_permission_declare_user_agreement">&lt;Data>Перад тым як працягнуць, прачытайце наша &lt;a href=\"%1$s\">Карыстальніцкае пагадненне&lt;/a> і пагадзіцеся з ім.&lt;/Data></string>
+    <string name="system_permission_declare_user_agreement"><Data>Перад тым як працягнуць, прачытайце наша &lt;a href=\"%1$s\">Карыстальніцкае пагадненне&lt;/a> і пагадзіцеся з ім.</Data></string>
     <string name="system_permission_perm_answer_call">Ажыццяўленне выклікаў</string>
     <string name="system_permission_perm_optional">" (не абавязкова)"</string>
     <string name="system_permission_perm_read_mms">Прачытаць MMS</string>
@@ -5453,8 +5503,7 @@ Rolled over extra data"</string>
     <string name="vb_fps_settings_tips">Гэтая функцыя настройвае частату абнаўлення экрана згодна частаце кадраў відэа, што эканоміць зарад батарэі і робіць прайграванне плыўным. Уключэнне каментароў, якія плаваюць, адключыць аўтаматычнае рэгуляванне частоты абнаўлення.</string>
     <string name="vb_immerse_voice">Гук з паглыбленнем</string>
     <string name="vb_movie_mode">Рэжым тэатра</string>
-    <string name="vb_movie_power_hint">"Рэжым \"Тэатр\" забяспечвае прагляд з эфектам паглыблення.
-Прылада можа награвацца і спажываць больш энергіі."</string>
+    <string name="vb_movie_power_hint">Рэжым \"Тэатр\" забяспечвае прагляд з эфектам паглыблення.Прылада можа награвацца і спажываць больш энергіі.</string>
     <string name="vb_movie_subtitle">Патрабуе высокай прадукцыйнасці</string>
     <string name="vb_mv_style_close_toast">Стыль адключаны</string>
     <string name="vb_power_performance_mode_conflict_toast">Немагчыма выкарыстоўваць гэтую функцыю, калі ўключаны Рэжым прадукцыйнасці</string>
@@ -5577,7 +5626,7 @@ Rolled over extra data"</string>
     <string name="virus_update_tips_title">Папярэджанне</string>
     <string name="virus_wait_network_dialog_message">Тэлефон не падлучаны да Wi-Fi. Выкарыстоўваць мабільны інтэрнэт?</string>
     <string name="vtb_ai_subtitle">Субцітры</string>
-    <string name="vtb_ai_subtitle_intl">Субцітры AI</string>
+    <string name="vtb_ai_subtitle_intl">AI-субтытры</string>
     <string name="vtb_func_desc">Пра гэту функцыю</string>
     <string name="vtb_func_display_style_desc0">"AI можа распазнаць людзей, жывёл, расліны, неба, будынкі і іншыя аб'екты, прадстаўленыя ў відэа, і дынамічна палепшыць іх."</string>
     <string name="vtb_func_display_style_desc1">Выбраныя эфекты не будуць прымяняцца да HDR-відэа на абраных прыладах.</string>

@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">Ενεργοποιήστε πρώτα την Πάντα ενεργή οθόνη στις Ρυθμίσεις</string>
     <string name="apply_theme_with_ringtones">Χρήση κουδουνισμάτων θεμάτων</string>
     <string name="apply_wallpaper_after_three_theme">Αυτήν τη στιγμή χρησιμοποιείτε ένα θέμα τρίτου μέρους. Εάν αλλάξετε την ταπετσαρία της Οθόνης κλειδώματος, μπορεί να προκληθεί η επαναφορά του στυλ ρολογιού της Οθόνης κλειδώματος στο προεπιλεγμένο στυλ. Εφαρμογή τώρα;</string>
+    <string name="apply_wallpaper_dialog_title">Εφαρμογή ταπετσαρίας</string>
     <string name="apply_wallpaper_notice">Προσοχή</string>
     <string name="apply_wallpaper_notice_cancel">Ακύρωση</string>
     <string name="apply_wallpaper_notice_content">Το θέμα που εφαρμόζεται αυτήν τη στιγμή περιέχει προσαρμοσμένη μονάδα Οθόνης κλειδώματος που μπορεί να σας εμποδίσει να κάνετε προσαρμογές που σχετίζονται με την Οθόνη κλειδώματος.</string>
     <string name="apply_wallpaper_notice_lockscreen">Το τρέχον θέμα σας περιέχει μια προσαρμοσμένη Οθόνη κλειδώματος. Θα το αντικαταστήσουμε με την προεπιλεγμένη Οθόνη κλειδώματος εάν εφαρμόσετε αυτήν την ταπετσαρία. Εφαρμογή ούτως ή άλλως;</string>
     <string name="apply_wallpaper_notice_still_apply">Εφαρμογή</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Χρησιμοποιείτε ένα σετ ταπετσαρίας τώρα. Εάν εφαρμόσετε ένα νέο θέμα, τόσο η Οθόνη κλειδώματος όσο και η ταπετσαρία της Αρχικής οθόνης θα αντικατασταθούν και η Πάντα ενεργή οθόνη θα επανέλθει στο προηγούμενο στυλ. Εφαρμογή ούτως ή άλλως;</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Αυτήν τη στιγμή χρησιμοποιείτε μια Σούπερ ταπετσαρία. Εάν επιλέξετε μια νέα ταπετσαρία, θα εφαρμοστεί τόσο στην Αρχική οθόνη όσο και στην Οθόνη κλειδώματος, και η Πάντα ενεργή οθόνη θα επανέλθει στην προηγούμενη ρύθμιση. Εφαρμογή τώρα;</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">Χρησιμοποιείτε ένα σετ ταπετσαρίας τώρα. Εάν εφαρμόσετε ένα νέο θέμα, τόσο η Οθόνη κλειδώματος όσο και η ταπετσαρία της Αρχικής οθόνης θα αντικατασταθούν. Εφαρμογή ούτως ή άλλως;</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Αυτήν τη στιγμή χρησιμοποιείτε μια Σούπερ ταπετσαρία. Εάν επιλέξετε μια νέα ταπετσαρία, θα εφαρμοστεί τόσο στην Αρχική οθόνη όσο και στην Οθόνη κλειδώματος. Εφαρμογή τώρα;</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">Δείκτης ποιότητας αέρα: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου και προσπαθήστε ξανά.</string>
     <string name="card_retry">Προσπαθήστε ξανά</string>
     <string name="carefully_chosen_wallpaper">Επιλογές συντάκτη</string>
+    <string name="carousel_no_set_wallpaper_effects">Δεν είναι δυνατός ο ορισμός εφέ όταν είναι ενεργοποιημένη η Ταπετσαρία Καρουζέλ</string>
     <string name="change_host_hint">Αλλαγή παρόχου</string>
     <string name="change_wallpaper">Ταπετσαρία</string>
     <string name="channel_featured_page">Προτεινόμενα</string>
@@ -147,7 +151,12 @@
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
     <string name="close">Κλείσιμο</string>
     <string name="columbus_ad_flag_text">Διαφήμιση</string>
+    <string name="columbus_reward_style_access">Μάθετε περισσότερα</string>
+    <string name="columbus_reward_style_close_cancel">Έξοδος</string>
+    <string name="columbus_reward_style_close_desc">Ολοκληρώστε την παρακολούθηση του βίντεο για να λάβετε μια ανταμοιβή. Συνέχεια παρακολούθησης;</string>
+    <string name="columbus_reward_style_speed_confirm">Συνέχεια</string>
     <string name="columbus_skip_ad">Παράλειψη</string>
+    <string name="columbus_skip_ad_time">Παράλειψη (%d)</string>
     <string name="come_and_choose_wallpaper">Επιλέξτε από χιλιάδες εκπληκτικές ταπετσαρίες</string>
     <string name="common_google_play_services_enable_button">Ενεργοποίηση</string>
     <string name="common_google_play_services_enable_text">Η εφαρμογή %1$s δεν θα λειτουργήσει εάν δεν έχετε ενεργοποιήσει τις υπηρεσίες Google Play.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Πρωί</string>
     <string name="editor_apply_message">"Αυτή η δυνατότητα χρησιμοποιείται για εντοπισμό σφαλμάτων από σχεδιαστές. Το προεπιλεγμένο θέμα θα αποκατασταθεί αυτόματα σε λίγο. Διαδρομή αρχείου του τρέχοντος θέματος: "</string>
     <string name="editor_apply_toast">Επιλέξτε χειροκίνητα temp.mtz στον ριζικό κατάλογο</string>
+    <string name="effect_home">Εφέ Αρχικής οθόνης</string>
+    <string name="effect_lock">Εφέ Οθόνης κλειδώματος</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Εισαγωγή διεύθυνσης email</string>
     <string name="eras_ad">μ.Χ.</string>
@@ -422,6 +433,7 @@
     <string name="later">Όχι τώρα</string>
     <string name="latest_wallpaper">Νέα</string>
     <string name="limit_discount">Περιορισμένη προσφορά</string>
+    <string name="linked_wallpaper">Σετ ταπετσαρίας</string>
     <string name="live_wallpaper">Ζωντανή ταπετσαρία</string>
     <string name="live_wallpapers">Ζωντανές ταπετσαρίες</string>
     <string name="loading">Περιμένετε μία στιγμή…</string>
@@ -650,14 +662,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Να μην εμφανιστεί ξανά</string>
     <string name="not_set">Δεν έχει οριστεί</string>
+    <string name="not_support_subtitle">Επικοινωνήστε με την υποστήριξη IT του οργανισμού σας ή αλλάξτε λογαριασμό</string>
+    <string name="not_support_title">Δεν είναι δυνατή η χρήση των Θεμάτων κατά τη χρήση προφίλ εργασίας</string>
     <string name="notifications_permission_confirm">Να επιτρέπεται</string>
     <string name="notifications_permission_decline">Να μην επιτρέπεται</string>
     <string name="notifications_permission_title">Να επιτρέπεται στην εφαρμογή να σας στέλνει ειδοποιήσεις;</string>
     <string name="notify_style">Εφέ ειδοποίησης</string>
-    <string name="offline_notification_text">Πατήστε για να ανοίξετε τη διαφήμιση.</string>
-    <string name="offline_notification_title">Δείτε τη διαφήμιση που αποθηκεύσατε ενώ ήσασταν εκτός σύνδεσης</string>
+    <string name="offline_dialog_image_description">Εικονίδιο</string>
+    <string name="offline_dialog_text">"Ευχαριστούμε για το ενδιαφέρον που δείχνετε.
+Θα σας δώσουμε περισσότερες πληροφορίες μόλις συνδεθείτε ξανά στο διαδίκτυο."</string>
+    <string name="offline_notification_title">Συνδεθήκατε ξανά στο διαδίκτυο! Ας συνεχίσουμε από εκεί που σταματήσαμε</string>
+    <string name="offline_notification_title_with_advertiser">Συνδεθήκατε ξανά στο διαδίκτυο! Μάθετε περισσότερα για τον διαφημιζόμενο %s</string>
     <string name="offline_opt_in_confirm">ΟΚ</string>
-    <string name="offline_opt_in_confirmation">Θα λάβετε μια ειδοποίηση με έναν σύνδεσμο όταν συνδεθείτε ξανά στο διαδίκτυο.</string>
     <string name="offline_opt_in_decline">Όχι</string>
     <string name="offline_opt_in_message">Θα σας στείλουμε μια ειδοποίηση με έναν σύνδεσμο στον ιστότοπο του διαφημιζόμενου.</string>
     <string name="offline_opt_in_title">Άνοιγμα της διαφήμισης όταν συνδεθείτε ξανά στο διαδίκτυο</string>
@@ -679,6 +695,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">Μην τα χάσετε αυτά!</string>
     <string name="ota_theme_default_push_content2">Δείτε τις συστάσεις μας</string>
     <string name="ota_theme_default_push_title">Έρχονται νέα θέματα</string>
+    <string name="out_wallpaper_list">Ταπετσαρία εξωτερικής οθόνης</string>
     <string name="password_toggle_content_description">Εμφάνιση κωδικού πρόσβασης</string>
     <string name="pause_all">Παύση όλων</string>
     <string name="pay_online">Διαδικτυακή πληρωμή</string>
@@ -975,13 +992,12 @@ mm"</string>
     <string name="saturday_short">Σαβ</string>
     <string name="saturday_shortest">Σαβ</string>
     <string name="scroll_switch">Σύρετε για εναλλαγή μεταξύ στοιχείων</string>
-    <string name="sdcard_not_mounted_dialog_message">"Εισαγωγή κάρτας SD τώρα.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">Δεν εντοπίστηκε κάρτα SIM</string>
     <string name="search_color">Χρώμα</string>
     <string name="search_hint_header_text">Δημοφιλείς λέξεις</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="search_sort">Ταξινόμηση κατά</string>
+    <string name="search_update_guide_bubble">Νέα</string>
+    <string name="search_update_guide_text">Ανακαλύψτε τις ολοκαίνουργιες δυνατότητες αναζήτησης</string>
     <string name="select_all">Επιλογή όλων</string>
     <string name="selected_resource_file_invalid">Αδυναμία χρήσης επιλεγμένου αρχείου πηγής</string>
     <string name="send">Αποστολή</string>
@@ -1035,12 +1051,14 @@ mm"</string>
     <string name="system_aod_dialog_message">Ενεργοποίηση Πάντα ενεργής οθόνης για χρήση αυτής της λειτουργίας.</string>
     <string name="system_aod_dialog_positive_button">Ρυθμίσεις</string>
     <string name="system_aod_dialog_title">Πάντα ενεργή οθόνη</string>
+    <string name="system_personalize_title">Εξατομίκευση</string>
     <string name="system_phone">Κλήσεις</string>
     <string name="system_precust">Προ-εγκατεστημένα</string>
     <string name="text_billing_info">Πληροφορίες χρέωσης</string>
     <string name="text_cancel_subscription_service">Ακύρωση αυτής της συνδρομής τώρα;</string>
     <string name="text_content_update">Νέο περιεχόμενο καθημερινά</string>
     <string name="text_free_trial">Δοκιμάστε δωρεάν</string>
+    <string name="text_local_push_check">Προβολή</string>
     <string name="text_pay_monthly" formatted="false">Από τις %s, ανανεώνεται αυτόματα για %s/μήνα έως ότου ακυρωθεί</string>
     <string name="text_pay_weekly" formatted="false">Από τις %s, ανανεώνεται αυτόματα για %s/εβδομάδα έως ότου ακυρωθεί</string>
     <string name="text_pay_yearly" formatted="false">Από τις %s, ανανεώνεται αυτόματα για %s/έτος έως ότου ακυρωθεί</string>

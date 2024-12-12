@@ -60,12 +60,15 @@
     <string name="apply_success_not_enable_aod">ابتدا نمایشگر همیشه روشن را در تنظیمات روشن کنید</string>
     <string name="apply_theme_with_ringtones">استفاده از صدای زنگ تم</string>
     <string name="apply_wallpaper_after_three_theme">شما در حال استفاده از تم سوم شخص هستید. در صورت تغییر تصویر زمینه صفحه قفل، ممکن است مدل ساعت صفحه قفل به پیش‌فرض بازنشانی شود. به‌کار برده شود؟</string>
+    <string name="apply_wallpaper_dialog_title">به‌کارگیری تصویر زمینه</string>
     <string name="apply_wallpaper_notice">توجه</string>
     <string name="apply_wallpaper_notice_cancel">لغو</string>
     <string name="apply_wallpaper_notice_content">تم به کار رفته کنونی دارای ماژول صفحه قفل شخصی‌سازی شده است که ممکن است از انجام تغییرات مربوط به قفل صفحه توسط شما جلوگیری کند.</string>
     <string name="apply_wallpaper_notice_lockscreen">تم کنونی شما دارای صفحه قفل سفارشی است. چنانچه این تصویر زمینه را به‌کار ببرید، ما آن را با صفحه قفل پیش‌فرض جابجا خواهیم کرد. در هر صورت به‌کار برده شود؟</string>
     <string name="apply_wallpaper_notice_still_apply">به‌کارگیری</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">شما در حال استفاده از یک مجموعه تصاویر زمینه هستید. با به‌کارگیری یک تم جدید، هر دوی تصاویر زمینه صفحه قفل و صفحه اصلی جایگزین شده و نمایشگر همیشه روشن به مدل پیشین بازیابی خواهد شد. در هر صورت به‌کار برده شود؟</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">شما درحال استفاده از تصاویر زمینه فوق‌العاده هستید. در صورت استفاده از تصویر زمینه جدید، در هردوی صفحه اصلی و صفحه قفل به‌کار برده شده و نمایشگر همیشه روشن به تنظمیات پیشین خود بازنشانی خواهد شد. به‌کار برده شود؟</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">شما در حال استفاده از یک مجموعه تصاویر زمینه هستید. با به‌کارگیری یک تم جدید، هر دوی تصاویر زمینه صفحه قفل و صفحه اصلی جایگزین خواهند شد. در هر صورت به‌کار برده شود؟</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">شما درحال استفاده از تصاویر زمینه فوق‌العاده هستید. در صورت استفاده از تصویر زمینه جدید، در هردوی صفحه اصلی و صفحه قفل به‌کار برده خواهد شد. به‌کار برده شود؟</string>
     <string name="aqi_format">شاخص کیفیت هوا %s</string>
     <string name="aqi_format_desc">شاخص کیفیت هوا: %s</string>
@@ -106,6 +109,7 @@
     <string name="card_no_network">به شبکه وصل نشد. تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید.</string>
     <string name="card_retry">تلاش دوباره</string>
     <string name="carefully_chosen_wallpaper">انتخاب سردبیر</string>
+    <string name="carousel_no_set_wallpaper_effects">هنگام روشن بودن تصاویر زمینه چرخشی جلوه‌ها تنظیم نمی‌شوند</string>
     <string name="change_host_hint">تغییر میزبان</string>
     <string name="change_wallpaper">تصویر زمینه</string>
     <string name="channel_featured_page">ویژه</string>
@@ -116,7 +120,12 @@
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
     <string name="close">بستن</string>
     <string name="columbus_ad_flag_text">آگهی</string>
-    <string name="columbus_skip_ad">رد شدن</string>
+    <string name="columbus_reward_style_access">جزئیات بیشتر</string>
+    <string name="columbus_reward_style_close_cancel">خروج</string>
+    <string name="columbus_reward_style_close_desc">برای دریافت جایزه، تماشای ویدئو را تمام کنید. به تماشا ادامه می‌دهید؟</string>
+    <string name="columbus_reward_style_speed_confirm">ادامه</string>
+    <string name="columbus_skip_ad">رد کردن</string>
+    <string name="columbus_skip_ad_time">رد کردن (%d)</string>
     <string name="come_and_choose_wallpaper">انتخاب بین هزاران تصویر زمینه شگفت انگيز</string>
     <string name="component_backup_preference_title">پپشتیبان‌گیری تم</string>
     <string name="component_category_finest_title">عمومی</string>
@@ -167,6 +176,8 @@
     <string name="early_morning">صبح</string>
     <string name="editor_apply_message">"این ویژگی برای عیب‌یابی توسط طراحان استفاده می‌شود. تم پیش‌فرض اندکی بعد به صورت خودکار بازیابی خواهد شد. مسیر فایل تم کنونی: "</string>
     <string name="editor_apply_toast">انتخاب دستی temp.mtz در پوشه روت</string>
+    <string name="effect_home">جلوه‌های صفحه اصلی</string>
+    <string name="effect_lock">جلوه‌های صفحه قفل</string>
     <string name="empty" />
     <string name="enter_email_address_tips">یک نشانی ایمیل وارد کنید</string>
     <string name="eras_ad">میلادی</string>
@@ -312,6 +323,7 @@
     <string name="later">اکنون نه</string>
     <string name="latest_wallpaper">جدید</string>
     <string name="limit_discount">پیشنهاد محدود</string>
+    <string name="linked_wallpaper">مجموعه‌های تصویر زمینه</string>
     <string name="live_wallpaper">تصویر زمینه زنده</string>
     <string name="live_wallpapers">تصاویر زمینه زنده</string>
     <string name="loading">چند لحظه صبر کنید…</string>
@@ -489,6 +501,8 @@ mm"</string>
     <string name="noon">ظهر</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">دوباره نمایش داده نشود</string>
+    <string name="not_support_subtitle">با پشتیبانی IT سازمانتان تماس بگیرید یا حساب را تغییر دهید</string>
+    <string name="not_support_title">هنگام استفاده از نمایه کاری نمی‌توان ازتم‌ها استفاده کرد</string>
     <string name="notify_style">جلوه‌های اعلان‌‌ها</string>
     <string name="online_no_network">نمی‌توان به شبکه متصل شد</string>
     <string name="online_precust_abstract">چکیده</string>
@@ -508,6 +522,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">این موارد را از دست ندهید!</string>
     <string name="ota_theme_default_push_content2">نمایش پیشنهادات ما</string>
     <string name="ota_theme_default_push_title">تم‌های جدید در راه</string>
+    <string name="out_wallpaper_list">تصویر زمینه نمایشگر بیرونی</string>
     <string name="pause_all">مکث همه</string>
     <string name="pay_online">پرداخت آنلاین</string>
     <string name="payment_cancel_tip">در صورت خروج، پرداخت شما کامل نخواهد شد. در هر صورت خارج می‌شوید؟</string>
@@ -795,12 +810,11 @@ mm"</string>
     <string name="saturday_short">شنبه</string>
     <string name="saturday_shortest">شنبه</string>
     <string name="scroll_switch">با انگشت روی صفحه کشیده تا بین موارد جابجا شوید</string>
-    <string name="sdcard_not_mounted_dialog_message">"کارت SD را هم اکنون وارد کنید.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">هیچ کارت SD شناسایی نشد</string>
     <string name="search_color">رنگ</string>
     <string name="search_hint_header_text">واژه‌های داغ</string>
     <string name="search_sort">چینش بر اساس</string>
+    <string name="search_update_guide_bubble">جدید</string>
+    <string name="search_update_guide_text">ویژگی‌های کاملاً جدید جستجو را تجربه کنید</string>
     <string name="select_all">انتخاب همه</string>
     <string name="selected_resource_file_invalid">نمی‌توان از فایل منبع انتخابی استفاده کرد</string>
     <string name="send">ارسال</string>
@@ -852,12 +866,14 @@ mm"</string>
     <string name="system_aod_dialog_message">برای امکان استفاده از این ویژگی نمایشگر همیشه روشن را روشن کنید.</string>
     <string name="system_aod_dialog_positive_button">تنظیمات</string>
     <string name="system_aod_dialog_title">نمایشگر همیشه روشن</string>
+    <string name="system_personalize_title">شخصی سازی</string>
     <string name="system_phone">تماس‌ها</string>
     <string name="system_precust">پیش نصب</string>
     <string name="text_billing_info">اطلاعات صدور صورت‌حساب</string>
     <string name="text_cancel_subscription_service">اکنون این اشتراک لغو شود؟</string>
     <string name="text_content_update">محتوای روزانه جدید</string>
     <string name="text_free_trial">رایگان امتحان کنید</string>
+    <string name="text_local_push_check">نمایش</string>
     <string name="text_pay_monthly" formatted="false">از %s، با %s/ماه به صورت خودکار تمدید می‌شود</string>
     <string name="text_pay_weekly" formatted="false">از %s، با %s/هفته به صورت خودکار تمدید می‌شود</string>
     <string name="text_pay_yearly" formatted="false">از %s، با %s/سال به صورت خودکار تمدید می‌شود</string>

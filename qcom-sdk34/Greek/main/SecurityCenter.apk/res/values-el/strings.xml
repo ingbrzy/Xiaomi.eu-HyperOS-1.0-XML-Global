@@ -188,6 +188,7 @@
     <string name="alert_back_milink_hangup_tips_content_vb">Όταν η οθόνη είναι απενεργοποιημένη, η εφαρμογή θα λειτουργεί στο παρασκήνιο χωρίς να διακόπτει τη διαδικασία μετάδοσης. Πατήστε το κουμπί Τροφοδοσίας για να επανενεργοποιήσετε την οθόνη.</string>
     <string name="all_address_choose_hint">Όλοι οι αριθμοί αυτής της περιοχής</string>
     <string name="allow_all">Αποδοχή όλων</string>
+    <string name="allow_device_id_access">Επιλέξτε τις εφαρμογές που θα μπορούν να χρησιμοποιούν το αναγνωριστικό συσκευής</string>
     <string name="allow_onetime">Να επιτραπεί μια φορά</string>
     <string name="already_close_gamebooster">Το Τούρμπο παιχνιδιού είναι ανενεργό</string>
     <string name="am">ΠΜ</string>
@@ -224,8 +225,8 @@
     <string name="antivirus_privacy_dialog_cloudscan">Μεταφόρτωση ονομάτων και λεπτομερειών εφαρμογών</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Για αποτελεσματικότερο εντοπισμό και εξουδετέρωση ιών, θα μεταφορτώσουμε τα ονόματα και τις ιδιότητες των πακέτων των εφαρμογών για να τα σαρώσετε με τη χρήση μηχανής σύννεφου.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
-    <string name="antivirus_privacy_dialog_summary">&lt;Data>Η λειτουργία αυτή υποστηρίζεται από μηχανή προστασίας από ιούς τρίτου μέρους. Για να μάθετε περισσότερα, διαβάστε την &lt;a href=\"%1$s\">Άδεια χρήσης&lt;/a> που παρέχει το τρίτο μέρος.&lt;/Data></string>
-    <string name="antivirus_privacy_dialog_summary_kddi">&lt;Data>Όταν εκτελείτε σάρωση ασφαλείας, το μοντέλο της συσκευής σας και τα αποτελέσματα σάρωσης θα μεταφορτωθούν σε διακομιστές %1$s και θα χρησιμοποιηθούν σύμφωνα με τους αντίστοιχους&lt;a href=\"%2$s\">όρους και προϋποθέσεις&lt;/a>.&lt;br/>&lt;br/>Διαβάστε και αποδεχτείτε τους όρους και τις προϋποθέσεις %3$s προτού εκτελέσετε σαρώσεις ασφαλείας.&lt;br/>&lt;br/>Εάν δεν συμφωνείτε να ανεβάσετε δεδομένα στους %4$s διακομιστές, μπορείτε ακόμα να χρησιμοποιήσετε τους ορισμούς ιών που είναι αποθηκευμένοι τοπικά στη συσκευή σας.&lt;/Data></string>
+    <string name="antivirus_privacy_dialog_summary"><Data>Η λειτουργία αυτή υποστηρίζεται από μηχανή προστασίας από ιούς τρίτου μέρους. Για να μάθετε περισσότερα, διαβάστε την &lt;a href=\"%1$s\">Άδεια χρήσης&lt;/a> που παρέχει το τρίτο μέρος.</Data></string>
+    <string name="antivirus_privacy_dialog_summary_kddi"><Data>Όταν εκτελείτε σάρωση ασφαλείας, το μοντέλο της συσκευής σας και τα αποτελέσματα σάρωσης θα μεταφορτωθούν σε διακομιστές %1$s και θα χρησιμοποιηθούν σύμφωνα με τους αντίστοιχους&lt;a href=\"%2$s\">όρους και προϋποθέσεις&lt;/a>.&lt;br/>&lt;br/>Διαβάστε και αποδεχτείτε τους όρους και τις προϋποθέσεις %3$s προτού εκτελέσετε σαρώσεις ασφαλείας.&lt;br/>&lt;br/>Εάν δεν συμφωνείτε να ανεβάσετε δεδομένα στους %4$s διακομιστές, μπορείτε ακόμα να χρησιμοποιήσετε τους ορισμούς ιών που είναι αποθηκευμένοι τοπικά στη συσκευή σας.</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Πολιτική Απορρήτου</string>
     <string name="antivirus_privacy_dialog_title">Πολιτική Απορρήτου</string>
     <string name="antivirus_privacy_dialog_title_kddi">Όροι και προϋποθέσεις</string>
@@ -935,6 +936,7 @@
     <string name="button_text_let_me_select">Κατανοητό</string>
     <string name="button_text_next_step">Επόμενο</string>
     <string name="button_text_next_step_timer">Επόμενο βήμα (%d)</string>
+    <string name="button_text_once_accept">Να επιτραπεί μια φορά</string>
     <string name="button_text_open_now">Άνοιγμα</string>
     <string name="button_text_reject">Απόρριψη</string>
     <string name="button_text_trust">Εμπιστοσύνη σε αυτό το δίκτυο</string>
@@ -1147,6 +1149,7 @@
     <string name="create_shortcut">Δημιουργία συντόμευσης Αρχικής οθόνης για το Τούρμπο παιχνιδιού</string>
     <string name="cs_color_sense">Θερμοκρασία χρώματος</string>
     <string name="cs_conversation_record_using">Ηχογράφηση</string>
+    <string name="cs_func_toast_bluetooth_headset">Αποσυνδέστε τα ακουστικά Bluetooth για να μπορείτε να χρησιμοποιήσετε αυτήν τη δυνατότητα</string>
     <string name="cs_func_toast_headset">Αποσυνδέστε τα ακουστικά σας για να μπορείτε να χρησιμοποιήσετε αυτήν τη δυνατότητα</string>
     <string name="cs_func_toast_light">Μεταβείτε στην μπροστινή κάμερα για να μπορείτε να χρησιμοποιήσετε αυτήν τη δυνατότητα</string>
     <string name="cs_func_toast_pickup">Μεταβείτε σε βιντεοκλήση για να μπορέσετε να χρησιμοποιήσετε αυτήν τη δυνατότητα</string>
@@ -1177,6 +1180,7 @@
     <string name="cs_tool_box_phone_guide_case_1">Δοκιμάστε την ταυτόχρονη διερμηνεία και άλλες δυνατότητες στη νέα εργαλειοθήκη κλήσης</string>
     <string name="cs_tool_box_phone_guide_case_2">Δοκιμάστε μια σειρά λειτουργιών στη νέα εργαλειοθήκη κλήσης</string>
     <string name="cs_voice_print">Ηχογράφηση φωνητικού αποτυπώματος</string>
+    <string name="cs_voice_search">Φωνητικό αποτύπωμα</string>
     <string name="cs_vt_camera_toast_case1">Ανοίξτε την κάμερα στην τρέχουσα εφαρμογή</string>
     <string name="cs_vt_camera_toast_case2">Δεν υπάρχουν συμβατές συσκευές κοντά</string>
     <string name="cta_agree_desc">Για να μπορείτε να χρησιμοποιείτε τις υπηρεσίες μας, επιτρέψτε σε αυτή την εφαρμογή να συνδεθεί στο ίντερνετ και παραχωρήστε τις άδειες που αναφέρονται πιο πάνω.</string>
@@ -1267,10 +1271,26 @@
     <string name="descx_quick_scan_preparation">Μια στιγμή…</string>
     <string name="detail_app_button">Πληροφορίες εφαρμογής</string>
     <string name="details_subtitle">Λεπτομέρειες χρήσης</string>
+    <string name="device_id">Αναγνωριστικό συσκευής για εξατομικευμένες προτάσεις</string>
+    <string name="device_id_app_manager_dialog_continue">Να μην διακοπεί</string>
+    <string name="device_id_app_manager_dialog_message">Επιτρέψατε σε ορισμένες εφαρμογές να παρακολουθούν τις δραστηριότητές σας. Μπορείτε να σταματήσετε την παρακολούθηση τώρα.</string>
+    <string name="device_id_app_manager_dialog_stop">Διακοπή</string>
+    <string name="device_id_app_manager_switch_sub_title">Όταν αυτή η λειτουργία είναι απενεργοποιημένη, όλα τα νέα αιτήματα παρακολούθησης θα απορρίπτονται αυτόματα</string>
+    <string name="device_id_app_manager_switch_title">Να επιτραπεί στις εφαρμογές να ζητούν παρακολούθηση</string>
+    <string name="device_id_app_manager_tips">Οι εφαρμογές μπορούν να παρακολουθούν τις δραστηριότητές σας σε διαφορετικές εφαρμογές και ιστότοπους χρησιμοποιώντας αναγνωριστικά παρακολούθησης για την παροχή εξατομικευμένων προτάσεων διαφημίσεων και άλλων λειτουργιών</string>
+    <string name="device_id_app_manager_title">Διαχείριση παρακολούθησης εφαρμογών</string>
+    <string name="device_id_manager_tips">Το σύστημα παρέχει αναγνωριστικά παρακολούθησης με δυνατότητα επαναφοράς (OAID) σε εφαρμογές αντί για αναγνωριστικά συσκευής για την προστασία του απορρήτου σας</string>
+    <string name="device_id_manager_title">Διαχείριση αναγνωριστικού παρακολούθησης</string>
+    <string name="device_id_reset">Επαναφορά αναγνωριστικού παρακολούθησης</string>
+    <string name="device_id_reset_msg">Μετά την επαναφορά, ένα νέο αναγνωριστικό θα συσχετιστεί με αυτήν τη συσκευή.</string>
+    <string name="device_id_str">Τρέχον αναγνωριστικό παρακολούθησης: %s</string>
     <string name="device_manager_apply_step_1">Ενεργοποίηση διαχειριστή συσκευής για αυτή την εφαρμογή;</string>
     <string name="device_manager_apply_step_2">"Η ενεργοποίηση του διαχειριστή συσκευής για αυτή την εφαρμογή ενδέχεται να οδηγήσει στην έκθεση των προσωπικών σας δεδομένων.
 Όλα τα δεδομένα στη συσκευή σας ενδέχεται να διαγραφούν και ο κωδικός πρόσβασης οθόνης κλειδώματος ενδέχεται να επαναφερθεί."</string>
     <string name="device_manager_apply_step_3">Βεβαιωθείτε ότι έχετε κατανοήσει όλους τους πιθανούς κινδύνους προτού προχωρήσετε. Ενεργοποίηση του διαχειριστή της συσκευής για αυτή την εφαρμογή τώρα;</string>
+    <string name="device_oaid">Διαχείριση εικονικού αναγνωριστικού</string>
+    <string name="device_oaid_desc">Αντί του μοναδικού σας αναγνωριστικού, το σύστημα θα παρέχει στις εγκατεστημένες εφαρμογές ένα εικονικό αναγνωριστικό (OAID). Αυτό αποτρέπει οι εφαρμογές να παρακολουθούν τη συμπεριφορά και τις προτιμήσεις σας και προστατεύει το απόρρητό σας.</string>
+    <string name="device_oaid_title">Εικονικό αναγνωριστικό</string>
     <string name="dialog_app_roaming_message">Το %1$s δεν μπορεί να χρησιμοποιήσει περιαγωγή δεδομένων. Όταν κάνετε περιαγωγή, μόνο εφαρμογές που έχουν προστεθεί στις εξαιρέσεις μπορούν να χρησιμοποιήσουν δεδομένα κινητής.</string>
     <string name="dialog_app_roaming_title">Το %1$s δεν μπορεί να χρησιμοποιήσει περιαγωγή δεδομένων</string>
     <string name="dialog_change_package_type_summary">Η αλλαγή του τύπου πλάνου δεδομένων θα επαναφέρει όλες τις ρυθμίσεις χρήσης δεδομένων (π.χ. όρια δεδομένων) στις προεπιλεγμένες τιμές τους. Αλλαγή τύπου σχεδίου δεδομένων τώρα;</string>
@@ -1410,12 +1430,12 @@
     <string name="exit">Έξοδος</string>
     <string name="exit_dialog_exit">Έξοδος</string>
     <string name="exit_dialog_garbage_clean_message">Η ποσότητα σκουπιδιών της συσκευής σας είναι περισσότερη από %s. Εκκαθάριση σκουπιδιών;</string>
-    <string name="exit_dialog_garbage_clean_message_new">&lt;Data>Η Εκκαθάριση μπορεί να απελευθερώσει έως &lt;font color=#0099ff>%s&lt;/font> χώρου αποθήκευσης. Εκκαθάριση τώρα;&lt;/Data></string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>Η Εκκαθάριση μπορεί να απελευθερώσει έως &lt;font color=#0099ff>%s&lt;/font> χώρου αποθήκευσης. Εκκαθάριση τώρα;</Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">Εκκαθάριση</string>
     <string name="exit_dialog_garbage_clean_title">Ελευθερώστε χώρο αποθήκευσης</string>
     <string name="exit_dialog_homepage_optimise_message">Το σκορ απόδοσης της συσκευής σας είναι χαμηλότερο απο 80 πόντους. Βελτιστοποίηση τώρα;</string>
     <string name="exit_dialog_release_memory_positive_button">Κλείσιμο</string>
-    <string name="exit_dialog_release_memory_title_new">&lt;Data>Επιταχύνετε τη συσκευή σας κατά &lt;font color=#0099ff>%s&lt;/font>&lt;/Data></string>
+    <string name="exit_dialog_release_memory_title_new"><Data>Επιταχύνετε τη συσκευή σας κατά &lt;font color=#0099ff>%s&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">Περισσότερο από το 80% του χώρου αποθήκευσης της συσκευής σας είναι κατειλλημένο. Ελευθερώστε χώρο μέσω της απεγκατάστασης εφαρμογών που δεν χρησιμοποιείτε ποτέ.</string>
     <string name="exit_dialog_release_storage_message_new">Περισσότερο από το %s του αποθηκευτικού χώρου της συσκευής σας είναι κατειλημμένος. Ελευθερώστε χώρο μέσω της απεγκατάστασης εφαρμογών που δεν χρησιμοποιείτε ποτέ.</string>
     <string name="exit_dialog_release_storage_positive_button">Ελευθερώστε χώρο</string>
@@ -1732,7 +1752,7 @@
     <string name="game_wid_viewpoint_buttom">Κάντε ένα μικρό διάλειμμα.</string>
     <string name="gamebooster_confirm_dialog_negative_btn">Απόρριψη</string>
     <string name="gamebooster_confirm_dialog_positive_btn">Αποδοχή</string>
-    <string name="gamebooster_confirm_dialog_tip">&lt;Data>&lt;br>&lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> Ενίσχυσης Παιχνιδιού Xunyou&lt;/Data></string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>&lt;br>&lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> Ενίσχυσης Παιχνιδιού Xunyou</Data></string>
     <string name="gamebooster_confirm_dialog_title">Αποδοχή στην Πολιτική Απορρήτου μας</string>
     <string name="gamebooster_dialog_recover">Ανανέωση</string>
     <string name="gamebooster_dialog_start_booster">Έναρξη</string>
@@ -1861,8 +1881,8 @@
     <string name="gb_audition_play_instruction">Χρησιμοποιήστε ακουστικά earphones για καλύτερο αποτέλεσμα</string>
     <string name="gb_award_noti_message">Ενεργοποιήστε τις ενημερώσεις παρασκηνίου του Game for Peace στο Τούρμπο παιχνιδιού για να λάβετε βραβεία</string>
     <string name="gb_award_noti_title">Τα βραβεία Game for Peace είναι εδώ!</string>
-    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Δεν είναι δυνατή η μετάβαση στην Ισορροπημένη λειτουργία στο Τούρμπο παιχνιδιού όταν είναι ενεργοποιημένη η Απόλυτη λειτουργία σε όλο το σύστημα. Μπορείτε να αλλάξετε τις ρυθμίσεις της μπαταρίας στην Ασφάλεια.&lt;br>&lt;a href=\"#\">Άνοιγμα Ασφάλειας&lt;/a>&lt;/Data></string>
-    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Δεν είναι δυνατή η μετάβαση στην Ισορροπημένη λειτουργία στο Τούρμπο παιχνιδιού όταν είναι ενεργοποιημένη η Απόλυτη λειτουργία σε όλο το σύστημα. Μπορείτε να αλλάξετε τις ρυθμίσεις της μπαταρίας στην Ασφάλεια. &lt;br>&lt;a href=\"#\">Άνοιγμα Ασφάλειας&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>Δεν είναι δυνατή η μετάβαση στην Ισορροπημένη λειτουργία στο Τούρμπο παιχνιδιού όταν είναι ενεργοποιημένη η Απόλυτη λειτουργία σε όλο το σύστημα. Μπορείτε να αλλάξετε τις ρυθμίσεις της μπαταρίας στην Ασφάλεια.&lt;br>&lt;a href=\"#\">Άνοιγμα Ασφάλειας&lt;/a></Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>Δεν είναι δυνατή η μετάβαση στην Ισορροπημένη λειτουργία στο Τούρμπο παιχνιδιού όταν είναι ενεργοποιημένη η Απόλυτη λειτουργία σε όλο το σύστημα. Μπορείτε να αλλάξετε τις ρυθμίσεις της μπαταρίας στην Ασφάλεια. &lt;br>&lt;a href=\"#\">Άνοιγμα Ασφάλειας&lt;/a></Data></string>
     <string name="gb_bar_high">Υψηλή</string>
     <string name="gb_bar_low">Χαμηλή</string>
     <string name="gb_bar_mid">Μέτρια</string>
@@ -1990,7 +2010,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="gb_new_feature">Νέα λειτουργία</string>
     <string name="gb_not_support_on_device">"This app can't be used on the outer screen"</string>
     <string name="gb_operat_frequently">Όχι τόσο γρήγορα!</string>
-    <string name="gb_performace_guide_disable_desc">&lt;Data>Δεν είναι δυνατή η μετάβαση στην Ισορροπημένη λειτουργία στο Τούρμπο Παιχνιδιού όταν είναι ενεργοποιημένη η Λειτουργία απόδοσης σε όλο το σύστημα. Μπορείτε να αλλάξετε τις ρυθμίσεις της μπαταρίας στην Ασφάλεια.&lt;br>&lt;a href=\"#\">Άνοιγμα Ασφάλειας&lt;/a>&lt;/Data></string>
+    <string name="gb_performace_guide_disable_desc"><Data>Δεν είναι δυνατή η μετάβαση στην Ισορροπημένη λειτουργία στο Τούρμπο Παιχνιδιού όταν είναι ενεργοποιημένη η Λειτουργία απόδοσης σε όλο το σύστημα. Μπορείτε να αλλάξετε τις ρυθμίσεις της μπαταρίας στην Ασφάλεια.&lt;br>&lt;a href=\"#\">Άνοιγμα Ασφάλειας&lt;/a></Data></string>
     <string name="gb_performace_switch_toast">Μετάβαση σε Λειτουργία απόδοσης. Η συσκευή σας ενδέχεται να θερμανθεί και να καταναλώσει περισσότερη ενέργεια.</string>
     <string name="gb_performace_tips_button">Διακόπτης</string>
     <string name="gb_performace_tips_title">Μεταβείτε στη Λειτουργία απόδοσης για καλύτερη εμπειρία</string>
@@ -2007,7 +2027,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="gb_predownload_dialog_cancel">Όχι ευχαριστώ</string>
     <string name="gb_predownload_dialog_checked">Να μην εμφανιστεί ξανά</string>
     <string name="gb_predownload_dialog_confirm">Ενεργοποίηση</string>
-    <string name="gb_predownload_dialog_message_china">"&lt;Data>Updated content for this game can be downloaded to this device automatically after you connect to WLAN and turn the screen off. Thus, you'll be able to use the new version as soon as it's released.&lt;br>&lt;br>Read and agree to the &lt;a href=\"%1$s\">Statement on background updates&lt;/a> before using this feature.&lt;/Data>"</string>
+    <string name="gb_predownload_dialog_message_china"><Data>"Updated content for this game can be downloaded to this device automatically after you connect to WLAN and turn the screen off. Thus, you'll be able to use the new version as soon as it's released.&lt;br>&lt;br>Read and agree to the &lt;a href=\"%1$s\">Statement on background updates&lt;/a> before using this feature."</Data></string>
     <string name="gb_predownload_dialog_title">Οι ενημερώσεις παρασκηνίου είναι διαθέσιμες τώρα</string>
     <string name="gb_predownload_message_new">Αυτόματη ενημέρωση συμβατών παιχνιδιών ενώ δεν χρησιμοποιείτε τη συσκευή</string>
     <string name="gb_predownload_noti_message">%2$1.2f GB ενημερωμένου περιεχομένου υπάρχει ήδη σε αυτήν τη συσκευή. Θα μπορείτε να το χρησιμοποιήσετε μόλις κυκλοφορήσει η νέα έκδοση.</string>
@@ -2291,11 +2311,11 @@ Xiaomi Gaming Cooler"</string>
     <string name="gtb_dialog_btn_open">Ενεργοποίηση</string>
     <string name="gtb_dialog_hint_smart_5g">Μπορείτε να ενεργοποιήστε ή απενεργοποιήστε αυτή τη λειτουργία αυτή στο Τούρμπο Παιχνιδιού > Ρυθμίσεις.</string>
     <string name="gtb_dialog_privacy_speed_message">Πρόκειται να χρησιμοποιήσετε την Ενίσχυση Παιχνιδιού Xunyou. Αυτή η υπηρεσία θα συλλέξει το ID Λογαριασμoύ Xiaomi για να καταγράψει τη διάρκεια της συνδρομής σας.</string>
-    <string name="gtb_dialog_privacy_speed_tips">&lt;Data>Έχω διαβάσει και αποδεχτεί την &lt;a href=\"%1$s\">Πολιτική Απορρήτου Ενίσχυσης Παιχνιδιού Xunyou.&lt;/a>&lt;/Data></string>
-    <string name="gtb_dialog_privacy_speed_tips_new">&lt;Data>Έχω διαβάσει και αποδεχτεί την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> Ενίσχυσης Παιχνιδιού Xunyou.&lt;/Data></string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>Έχω διαβάσει και αποδεχτεί την &lt;a href=\"%1$s\">Πολιτική Απορρήτου Ενίσχυσης Παιχνιδιού Xunyou.&lt;/a></Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>Έχω διαβάσει και αποδεχτεί την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> Ενίσχυσης Παιχνιδιού Xunyou.</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Ενίσχυση Παιχνιδιού Xunyou</string>
     <string name="gtb_dialog_privacy_voice_message">"You're about to use Xunyou Game Voice Changer. This service will collect your Xiaomi Account ID to record your membership duration."</string>
-    <string name="gtb_dialog_privacy_voice_tips">&lt;Data>Έχω διαβάσει και αποδεχτεί την &lt;a href=\"%1$s\">Πολιτική Απορρήτου Αλλαγής Φωνής Παιχνιδιού Xunyou.&lt;/a>&lt;/Data></string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>Έχω διαβάσει και αποδεχτεί την &lt;a href=\"%1$s\">Πολιτική Απορρήτου Αλλαγής Φωνής Παιχνιδιού Xunyou.&lt;/a></Data></string>
     <string name="gtb_dialog_privacy_voice_title">Αλλαγή Φωνής Παιχνιδιού Xunyou</string>
     <string name="gtb_dialog_summary_smart_5g">Όποτε το Τούρμπο Παιχνιδιού εντοπίζει δίκτυο 5G, μπορεί να συνδέσει τη συσκευής σας με το καλύτερο διαθέσιμο δίκτυο για να μειώσει την καθυστέρηση δικτύου. Ενεργοποίηση αυτής της λειτουργίας τώρα;</string>
     <string name="gtb_dialog_title_smart_5g">Βελτιστοποίηση δικτύου 5G</string>
@@ -3063,9 +3083,12 @@ to join our egg hunt!"</string>
     <string name="numeric_recording_intro_header">Εισαγωγή κωδικού πρόσβασης</string>
     <string name="numeric_retry_button_text">Ακύρωση</string>
     <string name="numeric_settings_help_how_to_record">Πως να ορίσετε PIN</string>
+    <string name="oaid_apps_summary">Επιτρέψτε ή περιορίστε την πρόσβαση για μεμονωμένες εφαρμογές</string>
     <string name="oaid_apps_title">Διαχείριση εικονικού αναγνωριστικού</string>
     <string name="oaid_reset_content_tip">Εάν απενεργοποιήσετε τώρα το εικονικό σας αναγνωριστικό, ορισμένες εφαρμογές μπορεί να σταματήσουν να λειτουργούν κανονικά και ένα μέρος των δεδομένων εφαρμογής μπορεί να χαθεί ή να γίνει άχρηστο.</string>
     <string name="oaid_reset_final_tip">"Απενεργοποίηση του εικονικού αναγνωριστικού παρ' όλα αυτά;"</string>
+    <string name="oaid_string">"Τρέχον εικονικό αναγνωριστικό:
+%1s"</string>
     <string name="oaid_tips_content">Τα Εικονικά Αναγνωριστικά (OAID) μπορούν να χρησιμοποιηθούν για την παρακολούθηση της συμπεριφοράς σας και την εξατομίκευση διαφημίσεων για εσάς. Μπορείτε να επιλέξετε ποιες εφαρμογές επιτρέπεται να έχουν πρόσβαση στο εικονικό σας αναγνωριστικό. Λάβετε υπόψη ότι εάν περιορίσετε την πρόσβαση, οι προτάσεις διαφημίσεων ενδέχεται να μην είναι σχετικές ή οι εφαρμογές να μην μπορούν να λειτουργήσουν κανονικά.</string>
     <string name="ok">OK</string>
     <string name="ok_button">OK</string>
@@ -3202,6 +3225,7 @@ to join our egg hunt!"</string>
     <string name="pc_batery_protection">Προστασία μπαταρίας</string>
     <string name="pc_battery_charge_protect">Προστασία φόρτισης</string>
     <string name="pc_battery_chart_loading">Μια στιγμή…</string>
+    <string name="pc_battery_date_year_month_format">MMM yyyy</string>
     <string name="pc_battery_detail_curve_reference_now">Τώρα</string>
     <string name="pc_battery_detail_device_item_title">Στατιστικά χρήσης μπαταρίας</string>
     <string name="pc_battery_health_revise_title">Βαθμονόμηση πληροφοριών για την υγεία της μπαταρίας</string>
@@ -3234,7 +3258,7 @@ to join our egg hunt!"</string>
     <string name="pc_camera_printer_notify_subtitle">Συνδέθηκε</string>
     <string name="pc_camera_printer_title">Σετ Εκτύπωσης Φωτογραφιών</string>
     <string name="pc_category_charge_settings">Ρυθμίσεις φόρτισης</string>
-    <string name="pc_charge_mode_low_power_fast_speed">Χαμηλή τάση</string>
+    <string name="pc_charge_mode_low_power_fast_speed">Επιτάχυνση</string>
     <string name="pc_charge_mode_low_power_fast_speed_tips">Η συσκευή μπορεί να θερμανθεί</string>
     <string name="pc_charge_mode_standard">Κανονική</string>
     <string name="pc_charge_mode_topspeed">Μέγιστη ταχύτητα</string>
@@ -3265,6 +3289,7 @@ to join our egg hunt!"</string>
     <string name="pc_continuity_open_save_mode_notifi_sumary">Η μπαταρία %1$s είναι χαμηλότερη από %2$s. Ενεργοποιήστε την Εξοικονόμηση μπαταρίας για προσθήκη %3$s %4$s.</string>
     <string name="pc_continuity_open_save_mode_notifi_title">Χαμηλή μπαταρία %s</string>
     <string name="pc_current_power_mode">Τρέχουσα λειτουργία</string>
+    <string name="pc_cycle_count_protect_title">Κύκλοι</string>
     <string name="pc_emergency_call">Έκτακτη ανάγκη</string>
     <string name="pc_endurance_calculation">Γίνεται υπολογισμός…</string>
     <string name="pc_entered_extreme_mode">Κατάσταση αδρανοποίησης ενεργή</string>
@@ -3296,11 +3321,16 @@ to join our egg hunt!"</string>
     <string name="pc_fast_charge_switch_toast_message">Οι αλλαγές θα εφαρμοστούν την επόμενη φορά που θα φορτίσετε αυτή τη συσκευή</string>
     <string name="pc_fast_charge_temp_remider">Ενεργοποιήστε για να ρυθμίσετε αυτόματα την ταχύτητα φόρτισης. Αυτή η δυνατότητα λειτουργεί μόνο με τους παρεχόμενους φορτιστές της Xiaomi. Η συσκευή σας ενδέχεται να θερμανθεί κατά τη φόρτιση.</string>
     <string name="pc_fast_charge_title">Ενίσχυση ταχύτητας φόρτισης</string>
+    <string name="pc_first_use_error_tips">Γίνεται υπολογισμός</string>
+    <string name="pc_first_use_protect_title">Πρώτη χρήση</string>
     <string name="pc_going_to_exit_extreme_mode">Έξοδος από την Κατάσταση αδρανοποίησης</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Η συσκευή σας φορτίζεται. Η Κατάσταση αδρανοποίησης είναι απενεργοποιημένη.</string>
     <string name="pc_going_to_extreme_mode">Είσοδος σε Κατάσταση αδρανοποίησης</string>
     <string name="pc_handle_battery_level">Λαβή</string>
     <string name="pc_have_no_battery_issue">Κανένα πρόβλημα</string>
+    <string name="pc_health_charge_protect_notification_summary">Ενεργοποιήστε την προστασία μπαταρίας για να μειώσετε τη γήρανση της μπαταρίας</string>
+    <string name="pc_health_charge_protect_summary">Για να παρατείνει τη διάρκεια ζωής της μπαταρίας, η συσκευή θα σταματήσει να φορτίζεται όταν το επίπεδο της μπαταρίας φτάσει στο %1$s</string>
+    <string name="pc_health_charge_protect_title">Προστασία μπαταρίας</string>
     <string name="pc_hide_more_power_rank_apps">Απόκρυψη</string>
     <string name="pc_hidemode_normal">Ισορροπημένη</string>
     <string name="pc_hidemode_normal_title">Ισορροπημένη</string>
@@ -3339,6 +3369,8 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="pc_low_battery_fast_charge_summary">Συνδέστε τον παρεχόμενο φορτιστή για να επιταχύνετε τη φόρτιση όταν η οθόνη είναι απενεργοποιημένη και η μπαταρία είναι χαμηλή. Αυτή η λειτουργία μπορεί να προκαλέσει τη θέρμανση της συσκευής σας.</string>
     <string name="pc_low_temp_charge_summary">Κρατήστε τον φορτιστή συνδεδεμένο και περιμένετε να ζεσταθεί η μπαταρία αφού σβήσει η οθόνη για να φορτιστεί κανονικά</string>
     <string name="pc_low_temp_charge_title">Φόρτιση χαμηλής θερμοκρασίας</string>
+    <string name="pc_low_temperature_extreme_endurance_summary">Περιορίστε την απόδοση της συσκευής για να παρατείνετε τη διάρκεια ζωής της μπαταρίας όταν η θερμοκρασία περιβάλλοντος είναι εξαιρετικά χαμηλή</string>
+    <string name="pc_low_temperature_extreme_endurance_title">Λειτουργία αντοχής στο κρύο</string>
     <string name="pc_main_activity_back">Πίσω</string>
     <string name="pc_main_battery_text_day">Προστέθηκε %1$sλ, περίπου %2$sμ απομένουν</string>
     <string name="pc_main_battery_text_day_hour">Προστέθηκε %1$sλ, περίπου %2$sμ %3$sω απομένουν</string>
@@ -3369,6 +3401,7 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="pc_power_mode_has_berserk">Απόλυτη λειτουργία ενεργή</string>
     <string name="pc_power_mode_has_performance">Η Λειτουργία απόδοσης είναι ενεργή</string>
     <string name="pc_power_save_settings_new">Ρυθμίσεις εξοικονόμησης μπαταρίας</string>
+    <string name="pc_production_date_protect_title">Ημερομηνία κατασκευής</string>
     <string name="pc_remind_close_cover_to_charge_summary">Διπλώστε τη συσκευή πριν τη φόρτιση για μια ταχύτερη και πιο σταθερή εμπειρία φόρτισης.</string>
     <string name="pc_remind_close_cover_to_charge_title">Διπλώστε για να φορτίσετε</string>
     <string name="pc_reminder_always_protect_summary">Κάντε εναλλαγή σε περιορισμένη φόρτιση για μείωση της γήρανσης της μπαταρίας</string>
@@ -3414,6 +3447,8 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="pc_wait_device_cools_down">Περιμένετε μέχρι να κρυώσει η συσκευή σας για να μπορέσετε να χρησιμοποιήσετε αυτήν τη λειτουργία.</string>
     <string name="pc_wireless_charge_adjust_position_summary">Βάλτε το στον ασύρματο φορτιστή</string>
     <string name="pc_wireless_charge_adjust_position_title">Φορτίστε τη συσκευή σας πιο γρήγορα</string>
+    <string name="pc_wireless_charge_notification_summary">Η ασύρματη φόρτιση είναι λιγότερο ενεργειακά αποδοτική από την ενσύρματη φόρτιση</string>
+    <string name="pc_wireless_charge_notification_title">Ασύρματη φόρτιση</string>
     <string name="pc_wireless_charging_special_stand_summary1">Εγκαταστήστε τη συσκευή σας στη βάση του ασύρματου φορτιστή σας</string>
     <string name="pc_wireless_charging_special_stand_summary2">Εγκαταστήστε τη συσκευή σας στη βάση που του ασύρματου φορτιστή σας για βέλτιστη απόδοση φόρτισης</string>
     <string name="pc_wireless_charging_special_stand_title">Χρησιμοποιήστε την παρεχόμενη βάση φόρτισης</string>
@@ -3556,6 +3591,7 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="permission_instruction_write_contacts">Αυτή η άδεια επιτρέπει στις εφαρμογές να προσθέτουν, να διαγράφουν και να επεξεργάζονται επαφές.</string>
     <string name="permission_instruction_write_settings">Αυτή η άδεια επιτρέπει στις εφαρμογές να τροποποιούν τις ρυθμίσεις συστήματος. Κακόβουλες εφαρμογές ενδέχεται να χρησιμοποιούν αυτήν την άδεια για να πειράξουν τις ρυθμίσεις του συστήματός σας και να επηρεάσουν την κανονική χρήση της συσκευής σας.</string>
     <string name="permission_legacy_storage">Πρόσβαση σε φωτογραφίες, βίντεο, ήχο και αρχεία</string>
+    <string name="permission_oaid_desc">Να επιτραπεί στο %1$s να παρακολουθεί τις δραστηριότητές σας σε άλλες εφαρμογές και ιστότοπους;</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">Οι εφαρμογές δεν θα ζητούν άδεια για ανάγνωση επαφών σας, προβολή ιστορικού κλήσεών σας, αλλαγή ρυθμίσεων συστήματος, ή πρόσβαση κάμερας και άλλων λειτουργιών συσκευής. Μπορείτε να το αλλάξετε αυτό στις Ρυθμίσεις Αδειών.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Διαχειριστής αδειών</string>
     <string name="permission_precise_location">Ακριβής τοποθεσία</string>
@@ -3677,8 +3713,8 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="power_center_night_charge_protection_setting">Δείτε περισσότερες επιλογές στην Ασφάλεια > Μπαταρία.</string>
     <string name="power_center_night_charge_protection_summary">Για να μειώσει τη γήρανση της μπαταρίας, το σύστημα μαθαίνει από την καθημερινή ρουτίνα φόρτισης προκειμένου να μειώσει την περιττή συνεχή φόρτιση</string>
     <string name="power_center_one_key_save">Βελτιστοποίηση</string>
-    <string name="power_center_ontime_boot">Χρόνος ενεργοποίησης</string>
-    <string name="power_center_ontime_shutdown">Χρόνος απενεργοποίησης</string>
+    <string name="power_center_ontime_boot">Προγραμματισμένη ενεργοποίηση</string>
+    <string name="power_center_ontime_shutdown">Προγραμματισμένη απενεργοποίηση</string>
     <string name="power_center_optimize_title">Προτάσεις</string>
     <string name="power_center_power_save_summary_text">Αύξηση υπόλοιπου χρόνου μέχρι και %1$dω %2$dλ</string>
     <string name="power_center_power_save_title_text">Εξοικονόμηση μπαταρίας</string>
@@ -3739,8 +3775,8 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="power_center_surface_temp_low">Κρύο</string>
     <string name="power_center_surface_temp_lower">Δροσιά</string>
     <string name="power_center_surface_temp_normal">Κανονική</string>
-    <string name="power_center_time_to_boot">Χρόνος ενεργοποίησης</string>
-    <string name="power_center_time_to_shutdown">Χρόνος απενεργοποίησης</string>
+    <string name="power_center_time_to_boot">Ώρα</string>
+    <string name="power_center_time_to_shutdown">Ώρα</string>
     <string name="power_center_title">Μπαταρία</string>
     <string name="power_center_unoffical_battery_button">Βρείτε έναν εξουσιοδοτημένο πάροχο υπηρεσιών</string>
     <string name="power_center_unoffical_battery_dialog">Μη εξουσιοδοτημένη προειδοποίηση μπαταρίας</string>
@@ -4057,8 +4093,8 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="privacy_dialog_camera_message">Για να προστατέψει το απόρρητό σας, το σύστημα δεν επιτρέπει στις εφαρμογές να χρησιμοποιούν την κάμερά σας στο παρασκήνιο.</string>
     <string name="privacy_dialog_camera_title">Περιορισμός της χρήσης κάμερας στο παρασκήνιο</string>
     <string name="privacy_dialog_content_part1">Καλώς ήλθατε στην Ασφάλεια! Αυτή η εφαρμογή ελέγχει τη συσκευή σας για απορρίμματα και ιούς, καθώς και σας επιτρέπει να διαχειρίζεστε εφαρμογές, να ελέγχετε τη χρήση δεδομένων κινητής τηλεφωνίας, να αποκλείετε κλήσεις και μηνύματα και άλλα.</string>
-    <string name="privacy_dialog_content_part2">&lt;Data>Η Ασφάλεια πρέπει να συλλέξει τις απαραίτητες προσωπικές πληροφορίες για να σας παρέχει τις υπηρεσίες της και να είναι σε θέση να βελτιώσει τις δυνατότητές της. Μπορείτε να μάθετε πώς χειριζόμαστε τις πληροφορίες που συλλέγουμε στην &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> μας. Μπορείτε να ανακαλέσετε τη συγκατάθεσή σας για την Πολιτική Απορρήτου της Ασφάλειας στις Ρυθμίσεις ανά πάσα στιγμή.&lt;/Data></string>
-    <string name="privacy_dialog_content_part3">&lt;Data>Διαβάστε και αποδεχτείτε τη &lt;a href=\"%2$s\"> Συμφωνία Χρήστη &lt;/a> και την &lt;a href=\"%1$s\"> Πολιτική Απορρήτου &lt;/a> πριν χρησιμοποιήσετε την Ασφάλεια. Εάν δεν συμφωνείτε να χρησιμοποιήσετε τις προαναφερθείσες υπηρεσίες, δεν θα μπορείτε να χρησιμοποιήσετε ορισμένες δυνατότητες αυτής της εφαρμογής. Ωστόσο, η βασική της λειτουργικότητα θα εξακολουθεί να είναι διαθέσιμη σε εσάς.&lt;/Data></string>
+    <string name="privacy_dialog_content_part2"><Data>Η Ασφάλεια πρέπει να συλλέξει τις απαραίτητες προσωπικές πληροφορίες για να σας παρέχει τις υπηρεσίες της και να είναι σε θέση να βελτιώσει τις δυνατότητές της. Μπορείτε να μάθετε πώς χειριζόμαστε τις πληροφορίες που συλλέγουμε στην &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> μας. Μπορείτε να ανακαλέσετε τη συγκατάθεσή σας για την Πολιτική Απορρήτου της Ασφάλειας στις Ρυθμίσεις ανά πάσα στιγμή.</Data></string>
+    <string name="privacy_dialog_content_part3"><Data>Διαβάστε και αποδεχτείτε τη &lt;a href=\"%2$s\"> Συμφωνία Χρήστη &lt;/a> και την &lt;a href=\"%1$s\"> Πολιτική Απορρήτου &lt;/a> πριν χρησιμοποιήσετε την Ασφάλεια. Εάν δεν συμφωνείτε να χρησιμοποιήσετε τις προαναφερθείσες υπηρεσίες, δεν θα μπορείτε να χρησιμοποιήσετε ορισμένες δυνατότητες αυτής της εφαρμογής. Ωστόσο, η βασική της λειτουργικότητα θα εξακολουθεί να είναι διαθέσιμη σε εσάς.</Data></string>
     <string name="privacy_dialog_danger_mission_message">Το Android έχει πολλαπλές άδειες υψηλού κινδύνου (π.χ. άδεια να σας αποστέλλονται ειδοποιήσεις push). Για την προστασία του απορρήτου σας, το σύστημα θα σας ρωτήσει εάν επιτρέπετε τέτοια συμπεριφορά και θα σας παρέχει επιλογές περιορισμού.</string>
     <string name="privacy_dialog_danger_mission_title">Άδειες υψηλού ρίσκου</string>
     <string name="privacy_dialog_feedback">Ανατροφοδότηση</string>
@@ -4163,7 +4199,7 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="privacy_revoke_dialog_title_cn">Προσοχή</string>
     <string name="privacy_revoke_failed_dialog_content">Παρουσιάστηκε σφάλμα διακομιστή. Περιμένετε ένα με δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="privacy_revoke_failed_dialog_title">Αδυναμία ανάκλησης συγκατάθεσης</string>
-    <string name="privacy_revoke_tip_dialog_content">&lt;Data>Δεν θα μπορείτε να συνεχίσετε τη χρήση της εφαρμογής %1$s εκτός εάν αποδεχτείτε τη νέα έκδοση Πολιτικής Απορρήτου της. Αποδοχή ενημερωμένης &lt;a href=\"%3$s\">Πολιτικής Απορρήτου&lt;/a> %2$s τώρα;&lt;/Data></string>
+    <string name="privacy_revoke_tip_dialog_content"><Data>Δεν θα μπορείτε να συνεχίσετε τη χρήση της εφαρμογής %1$s εκτός εάν αποδεχτείτε τη νέα έκδοση Πολιτικής Απορρήτου της. Αποδοχή ενημερωμένης &lt;a href=\"%3$s\">Πολιτικής Απορρήτου&lt;/a> %2$s τώρα;</Data></string>
     <string name="privacy_revoke_tip_dialog_title">Αδυναμία χρήσης εφαρμογής</string>
     <string name="privacy_revoke_title">Ανάκληση συγκατάθεσης</string>
     <string name="privacy_risk_app">Ριψοκίνδυνες εφαρμογές</string>
@@ -4266,7 +4302,7 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="privacy_thumbnail_shield_top_tip">Απόκρυψη προεπισκόπησης για εφαρμογές που εμφανίζονται στα Πρόσφατα</string>
     <string name="privacy_type_open">Ενεργοποιημένο</string>
     <string name="privacy_update_dialog_content_1">Πολιτική Απορρήτου %s ενημερώθηκε:</string>
-    <string name="privacy_update_dialog_content_2">&lt;Data>Διαβάστε και αποδεχτείτε τη νέα έκδοση της &lt;a href=\"%1$s\">Πολιτικής Απορρήτου&lt;/a> πριν συνεχίσετε.&lt;/Data></string>
+    <string name="privacy_update_dialog_content_2"><Data>Διαβάστε και αποδεχτείτε τη νέα έκδοση της &lt;a href=\"%1$s\">Πολιτικής Απορρήτου&lt;/a> πριν συνεχίσετε.</Data></string>
     <string name="privacy_update_dialog_title">Ενημερωμένη Πολιτική Απορρήτου</string>
     <string name="privacy_using_camera">Γίνεται χρήση κάμερας</string>
     <string name="privacy_using_location">Γίνεται πρόσβαση σε τοποθεσία</string>
@@ -4348,6 +4384,16 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="reset_data_dialog_message">Αυτή η συσκευή δεν συσχετίζεται με τον Λογαριασμό Xiaomi σας. Δεν είναι δυνατή η επαναφορά του κωδικού πρόσβασης. Δημιουργήστε αντίγραφα ασφαλείας όλων των σημαντικών αντικειμένων και πραγματοποιήστε επαναφορά εργοστασιακών ρυθμίσεων. Όλα τα δεδομένα θα διαγραφούν οριστικά και η κάρτα SD θα μορφοποιηθεί κατά την επαναφορά.</string>
     <string name="reset_data_dialog_ok">Επαναφορά εργοστασιακών ρυθμίσεων</string>
     <string name="reset_data_title">Αδυναμία επαναφοράς κωδικού</string>
+    <string name="restore_device_id_content">Οι εξατομικευμένες προτάσεις θα επαναφερθούν</string>
+    <string name="restore_device_id_title">Επαναφορά αναγνωριστικού συσκευής</string>
+    <string name="restore_dialog_content">Επαναφέροντας το τρέχον αναγνωριστικό συσκευής θα επαναφερθούν επίσης οι εξατομικευμένες προτάσεις. Επαναφορά τώρα;</string>
+    <string name="restore_dialog_positive">Επαναφορά</string>
+    <string name="restore_dialog_title">Προσοχή</string>
+    <string name="restore_oaid_content">Επαναφέρετε το εικονικό αναγνωριστικό σας για εκκαθάριση των εγγραφών της συμπεριφοράς και των προτιμήσεών σας</string>
+    <string name="restore_oaid_dialog_content">"Πολλαπλές εφαρμογές χρησιμοποιούν το εικονικό σας αναγνωριστικό. Εάν το επαναφέρετε τώρα, ένα μέρος των δεδομένων εφαρμογής μπορεί να χαθεί ή να γίνει άχρηστο. Επαναφορά του εικονικού αναγνωριστικού παρ' όλα αυτά;"</string>
+    <string name="restore_oaid_positive">Επαναφορά</string>
+    <string name="restore_oaid_positive_step">Επαναφορά (%1$d)</string>
+    <string name="restore_oaid_title">Επαναφορά εικονικού αναγνωριστικού</string>
     <string name="result_autoscan_header">Παρακολούθηση πληρωμής</string>
     <string name="result_autoscan_info">Αυτόματη παρακολούθηση περιβάλλοντος συστήματος όταν γίνεται εκκίνηση εφαρμογών πληρωμών</string>
     <string name="result_sms_header">Εντοπίστηκαν κίνδυνοι μηνυμάτων</string>
@@ -5006,6 +5052,9 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="superpower_dialog_button_ok">ΟΚ</string>
     <string name="superpower_dialog_massage">Η Εξαιρετική εξοικονόμηση μπαταρίας περιορίζει τις λειτουργίες που καταναλώνουν περισσότερη ενέργεια της συσκευής σας και μειώνει την απόδοση της συσκευής σας, ώστε να παραμείνουν διαθέσιμες όσο το δυνατόν περισσότερο οι βασικές λειτουργίες (π.χ. κλήσεις, SMS και σύνδεση στο δίκτυο). Ενεργοποίηση Εξαιρετικής εξοικονόμησης μπαταρίας;</string>
     <string name="superpower_dialog_title">Εξαιρετική εξοικονόμηση μπαταρίας</string>
+    <string name="superpower_notification_low_temp_btn_txt">Ενεργοποίηση</string>
+    <string name="superpower_notification_low_temp_summary">Η Λειτουργία αντοχής στο κρύο μπορεί να εξοικονομήσει περισσότερη μπαταρία όταν είναι ενεργοποιημένη η Ultra εξοικονόμηση μπαταρίας και η θερμοκρασία περιβάλλοντος είναι εξαιρετικά χαμηλή</string>
+    <string name="superpower_notification_low_temp_title">Ενεργοποίηση Ultra εξοικονόμηση μπαταρίας;</string>
     <string name="superpower_notification_new_title_new">Απομένει λιγότερο από %s μπαταρίας</string>
     <string name="superpower_notification_summary">Φορτίστε τη συσκευή σας ή ενεργοποιήστε την Ultra εξοικονόμηση μπαταρίας</string>
     <string name="superpower_notification_time_12">EEEE, d MMMM</string>
@@ -5013,6 +5062,7 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="superpower_notification_title_new">Απομένει λιγότερο από %s μπαταρίας</string>
     <string name="superpower_progress_content">Ενεργοποίηση Εξαιρετικής εξοικονόμησης μπαταρίας…</string>
     <string name="superpower_progress_left_time">%1$dω %2$dλ</string>
+    <string name="superpower_progress_low_temp_content">Ενεργοποίηση Λειτουργίας αντοχής στο κρύο…</string>
     <string name="superpower_progress_switch_home">Εναλλαγή σε Σκοτεινό θέμα</string>
     <string name="superpower_progress_title">Χρόνος που απομένει</string>
     <string name="superpower_progress_turndown_brightness">Μείωση φωτεινότητας οθόνης</string>
@@ -5050,11 +5100,11 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="system_permission_declare_agree">Αποδοχή</string>
     <string name="system_permission_declare_analytics_declare">Σας προσκαλούμε να εγγραφείτε στο Πρόγραμμα Εμπειρίας Χρήστη. Η εφαρμογή αυτή πρέπει να συνδεθεί στο ίντερνετ και να χρησιμοποιήσει τις ακόλουθες άδειες ή λειτουργίες για να συλλέξει στατιστικά στοιχεία, προκειμένου να βελτιώσουμε τις υπηρεσίες που σας προσφέρουμε. Συλλέγουμε δεδομένα εδώ μόνο για στατιστικούς σκοπούς και δεν μπορούμε να σας ταυτοποιήσουμε προσωπικά βάσει των δεδομένων που συλλέγουμε.</string>
     <string name="system_permission_declare_disagree">Διαφωνώ</string>
-    <string name="system_permission_declare_double_link">&lt;Data>Διαβάστε και αποδεχτείτε τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a> μας πριν συνεχίσετε.&lt;/Data></string>
+    <string name="system_permission_declare_double_link"><Data>Διαβάστε και αποδεχτείτε τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a> μας πριν συνεχίσετε.</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">Καλωσορίσατε στη %1s! Αυτή η εφαρμογή σας επιτρέπει να χρησιμοποιείτε την ακόλουθη λειτουργία: %2s.</string>
-    <string name="system_permission_declare_meanwhile_double_link">&lt;Data>Διαβάστε και αποδεχτείτε τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a> μας πριν συνεχίσετε.&lt;/Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data>Διαβάστε και αποδεχτείτε την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> μας πριν συνεχίσετε.&lt;/Data></string>
-    <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data>Διαβάστε και αποδεχτείτε τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> μας πριν συνεχίσετε.&lt;/Data></string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>Διαβάστε και αποδεχτείτε τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a> μας πριν συνεχίσετε.</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Διαβάστε και αποδεχτείτε την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> μας πριν συνεχίσετε.</Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>Διαβάστε και αποδεχτείτε τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> μας πριν συνεχίσετε.</Data></string>
     <string name="system_permission_declare_no_say_no">Εάν επιλέξετε να μην δώσετε την απαιτούμενη άδεια ή δεν μας επιτρέψετε να συλλέξουμε και χρησιμοποιήσουμε τα δεδομένα σας, αυτή η εφαρμογή δεν θα λειτουργεί κανονικά.</string>
     <string name="system_permission_declare_no_say_no_analytics">Εάν δεν θέλετε να χορηγήσετε αυτές τις άδειες, μπορείτε να καταργήσετε την εγγραφή σας στις Ρυθμίσεις > Πρόσθετες ρυθμίσεις > Απόρρητο > Πρόγραμμα Εμπειρίας Χρήστη.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">Εάν επιλέξετε να μην δώσετε την απαιτούμενη άδεια ή δεν μας επιτρέψετε να συλλέξουμε και χρησιμοποιήσουμε τα δεδομένα σας, αυτή η εφαρμογή δεν θα λειτουργεί εν μέρει.</string>
@@ -5062,13 +5112,13 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="system_permission_declare_privacy_declare">Η εφαρμογή αυτή πρέπει να συνδεθεί στο ίντερνετ και απαιτεί τις ακόλουθες άδειες για να λειτουργεί κανονικά:</string>
     <string name="system_permission_declare_privacy_no_network">Η εφαρμογή αυτή χρειάζεται τις παρακάτω άδειες για να λειτουργεί κανονικά:</string>
     <string name="system_permission_declare_privacy_no_permission">Η εφαρμογή αυτή πρέπει να συνδεθεί στο ίντερνετ και να συλλέξει τα απαιτούμενα προσωπικά δεδομένα για να λειτουργεί κανονικά.</string>
-    <string name="system_permission_declare_privacy_policy">&lt;Data>Διαβάστε και αποδεχτείτε την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> μας πριν συνεχίσετε.&lt;/Data></string>
+    <string name="system_permission_declare_privacy_policy"><Data>Διαβάστε και αποδεχτείτε την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> μας πριν συνεχίσετε.</Data></string>
     <string name="system_permission_declare_revoke_system">Μπορείτε να εξέλθετε από αυτή την εφαρμογή.</string>
     <string name="system_permission_declare_revoke_uninstallable">Μπορείτε να αποσυνδεθείτε, να απεγκαταστήσετε αυτή την εφαρμογή ή να ανακαλέσετε την εξουσιοδότησή σας στην Ασφάλεια > Διαχείριση εφαρμογών > Άδειες > Άδειες.</string>
     <string name="system_permission_declare_title">Προσοχή</string>
     <string name="system_permission_declare_use_network">Σύνδεση στο δίκτυο</string>
     <string name="system_permission_declare_use_network_no_permission">Σύνδεση στο δίκτυο</string>
-    <string name="system_permission_declare_user_agreement">&lt;Data>Διαβάστε και αποδεχτείτε τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> μας πριν συνεχίσετε.&lt;/Data></string>
+    <string name="system_permission_declare_user_agreement"><Data>Διαβάστε και αποδεχτείτε τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> μας πριν συνεχίσετε.</Data></string>
     <string name="system_permission_perm_answer_call">Πραγματοποίηση κλήσεων</string>
     <string name="system_permission_perm_optional">" (προαιρετικά)"</string>
     <string name="system_permission_perm_read_mms">Ανάγνωση ΜMS</string>
@@ -5454,8 +5504,7 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="vb_fps_settings_tips">Η λειτουργία αυτή προσαρμόζει τον ρυθμό ανανέωσης οθόνης σε ρυθμό καρέ βίντεο, ο οποίος εξοικονομεί μπαταρία και κάνει την αναπαραγωγή ομαλή. Η ενεργοποίηση αναδυόμενων σχολίων θα απενεργοποιήσει τον αυτόματο ρυθμό ανανέωσης.</string>
     <string name="vb_immerse_voice">Ήχος καθήλωσης</string>
     <string name="vb_movie_mode">Λειτουργία θεάτρου</string>
-    <string name="vb_movie_power_hint">"Η Λειτουργία θεάτρου παρέχει μια καθηλωτική εμπειρία θέασης.
-Η συσκευή σας ενδέχεται να θερμανθεί και να καταναλώσει περισσότερη ενέργεια."</string>
+    <string name="vb_movie_power_hint">Η Λειτουργία θεάτρου παρέχει μια καθηλωτική εμπειρία θέασης. Η συσκευή σας ενδέχεται να θερμανθεί και να καταναλώσει περισσότερη ενέργεια.</string>
     <string name="vb_movie_subtitle">Απαιτεί υψηλή απόδοση</string>
     <string name="vb_mv_style_close_toast">Στυλ ανενεργό</string>
     <string name="vb_power_performance_mode_conflict_toast">Δεν είναι δυνατή η χρήση αυτής της λειτουργίας όταν η Λειτουργία απόδοσης είναι ενεργοποιημένη</string>

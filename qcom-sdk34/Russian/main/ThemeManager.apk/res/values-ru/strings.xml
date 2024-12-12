@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">Сначала включите функцию \"Активный экран\" в Настройках</string>
     <string name="apply_theme_with_ringtones">Применять с мелодией</string>
     <string name="apply_wallpaper_after_three_theme">Сейчас вы используете стороннюю тему. Если вы измените обои экрана блокировки, это может привести к восстановлению стиля по умолчанию для часов Экрана блокировки. Изменить обои?</string>
+    <string name="apply_wallpaper_dialog_title">Применить обои</string>
     <string name="apply_wallpaper_notice">Внимание!</string>
     <string name="apply_wallpaper_notice_cancel">Отмена</string>
     <string name="apply_wallpaper_notice_content">Используемая тема содержит настроенный модуль экрана блокировки, который может помешать вам изменять настройки, связанные с экраном блокировки.</string>
     <string name="apply_wallpaper_notice_lockscreen">Текущая тема содержит пользовательский экран блокировки. Он будет заменен на экран блокировки по умолчанию, если вы установите эти обои. Вы действительно хотите установить их?</string>
     <string name="apply_wallpaper_notice_still_apply">Применить</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Сейчас вы используете набор обоев. Если вы примените новую тему, обои экрана блокировки и рабочего стола будут заменены, а также будет восстановлен предыдущий стиль активного экрана. Все равно применить?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Сейчас вы используете Суперобои. Если вы выберете новые обои, они будут применены как к главному экрану, так и к экрану блокировки, а также будет восстановлено предыдущее значение параметра «Активный экран». Применить обои?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">Сейчас вы используете набор обоев. Если вы примените новую тему, обои экрана блокировки и рабочего стола будут заменены. Все равно применить?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Сейчас вы используете Суперобои. Если вы выберете новые обои, они будут применены как к главному экрану, так и к экрану блокировки. Применить обои?</string>
     <string name="aqi_format">ИКВ %s</string>
     <string name="aqi_format_desc">Индекс качества воздуха: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>
     <string name="card_retry">Повторить</string>
     <string name="carefully_chosen_wallpaper">Выбор редакции</string>
+    <string name="carousel_no_set_wallpaper_effects">Невозможно установить эффекты, когда включена «Карусель обоев»</string>
     <string name="change_host_hint">Сменить хост</string>
     <string name="change_wallpaper">Обои</string>
     <string name="channel_featured_page">Рекомендуемое</string>
@@ -147,7 +151,12 @@
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
     <string name="columbus_ad_flag_text">Реклама</string>
+    <string name="columbus_reward_style_access">Подробнее</string>
+    <string name="columbus_reward_style_close_cancel">Выйти</string>
+    <string name="columbus_reward_style_close_desc">Закончите просмотр видео, чтобы получить награду. Продолжить просмотр?</string>
+    <string name="columbus_reward_style_speed_confirm">Продолжить</string>
     <string name="columbus_skip_ad">Пропустить</string>
+    <string name="columbus_skip_ad_time">Пропустить (%d)</string>
     <string name="come_and_choose_wallpaper">Выбирайте из тысяч красочных обоев</string>
     <string name="common_google_play_services_enable_button">Включить</string>
     <string name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Утро</string>
     <string name="editor_apply_message">"Эта функция используется дизайнерами для отладки. Через некоторое время тема по умолчанию будет восстановлена автоматически. Путь к файлу текущей темы: "</string>
     <string name="editor_apply_toast">Выберите temp.mtz в корневом каталоге вручную</string>
+    <string name="effect_home">Эффекты рабочего стола</string>
+    <string name="effect_lock">Эффекты экрана блокировки</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Введите адрес эл. почты</string>
     <string name="eras_ad">н. э.</string>
@@ -425,6 +436,7 @@
     <string name="later">Не сейчас</string>
     <string name="latest_wallpaper">Новое</string>
     <string name="limit_discount">Ограниченное предложение</string>
+    <string name="linked_wallpaper">Наборы обоев</string>
     <string name="live_wallpaper">Живые обои</string>
     <string name="live_wallpapers">Живые обои</string>
     <string name="loading">Секунду…</string>
@@ -653,14 +665,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s°, %2$s</string>
     <string name="not_prompt_again">Больше не показывать</string>
     <string name="not_set">Не указано</string>
+    <string name="not_support_subtitle">Свяжитесь со службой ИТ-поддержки вашей организации или смените аккаунт</string>
+    <string name="not_support_title">Невозможно использовать Темы при использовании рабочего профиля</string>
     <string name="notifications_permission_confirm">Разрешить</string>
     <string name="notifications_permission_decline">Запретить</string>
     <string name="notifications_permission_title">Разрешить приложению отправлять уведомления?</string>
     <string name="notify_style">Эффект уведомлений</string>
-    <string name="offline_notification_text">Чтобы открыть его, нажмите на уведомление.</string>
-    <string name="offline_notification_title">Вы хотели посмотреть объявление, когда были офлайн</string>
+    <string name="offline_dialog_image_description">Значок</string>
+    <string name="offline_dialog_text">"Благодарим за интерес к объявлению.
+Мы отправим вам больше информации, как только вы снова подключитесь к интернету."</string>
+    <string name="offline_notification_title">Вы подключились к интернету. Давайте продолжим с того момента, на котором остановились</string>
+    <string name="offline_notification_title_with_advertiser">Вы подключились к интернету. Узнайте больше о рекламодателе (%s)</string>
     <string name="offline_opt_in_confirm">ОК</string>
-    <string name="offline_opt_in_confirmation">Вы получите уведомление со ссылкой, когда появится подключение к Интернету.</string>
     <string name="offline_opt_in_decline">Нет, спасибо</string>
     <string name="offline_opt_in_message">Когда вы подключитесь к Интернету, мы отправим вам уведомление со ссылкой на сайт рекламодателя.</string>
     <string name="offline_opt_in_title">Посмотрите объявление, когда будете в Сети</string>
@@ -682,6 +698,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">Не пропустите!</string>
     <string name="ota_theme_default_push_content2">Ознакомьтесь с нашими рекомендациями</string>
     <string name="ota_theme_default_push_title">Новый темы уже в пути</string>
+    <string name="out_wallpaper_list">Обои внешнего экрана</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="pause_all">Остановить все</string>
     <string name="pay_online">Оплата онлайн</string>
@@ -978,13 +995,12 @@ mm"</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="scroll_switch">Проведите для переключения между элементами</string>
-    <string name="sdcard_not_mounted_dialog_message">"Вставьте SD-карту.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">SD-карта не обнаружена</string>
     <string name="search_color">Цвет</string>
     <string name="search_hint_header_text">Популярные</string>
     <string name="search_menu_title">Поиск</string>
     <string name="search_sort">Сортировка</string>
+    <string name="search_update_guide_bubble">Новое</string>
+    <string name="search_update_guide_text">Попробуйте совершенно новые функции поиска</string>
     <string name="select_all">Выбрать все</string>
     <string name="selected_resource_file_invalid">Выбранный файл не поддерживается</string>
     <string name="send">Отправить</string>
@@ -1038,12 +1054,14 @@ mm"</string>
     <string name="system_aod_dialog_message">Включите функцию \"Активный экран\", чтобы воспользоваться этой функцией.</string>
     <string name="system_aod_dialog_positive_button">Настройки</string>
     <string name="system_aod_dialog_title">Активный экран</string>
+    <string name="system_personalize_title">Персонализация</string>
     <string name="system_phone">Вызовы</string>
     <string name="system_precust">Предустановленные</string>
     <string name="text_billing_info">Платежная информация</string>
     <string name="text_cancel_subscription_service">Отменить эту подписку сейчас?</string>
     <string name="text_content_update">Новый контент каждый день</string>
     <string name="text_free_trial">Попробовать</string>
+    <string name="text_local_push_check">Просмотр</string>
     <string name="text_pay_monthly" formatted="false">Начиная с %s, автоматически продлевается за %s/месяц до отмены</string>
     <string name="text_pay_weekly" formatted="false">Начиная с %s, автоматически продлевается за %s/неделя до отмены</string>
     <string name="text_pay_yearly" formatted="false">Начиная с %s, автоматически продлевается за %s/год до отмены</string>

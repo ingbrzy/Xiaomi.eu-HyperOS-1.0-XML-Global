@@ -188,9 +188,10 @@
     <string name="find_device_gdpr_prompt">기기 찾기를 켜시면, 저희의 <u><a href="app://com.miui.cloudservice.gdpr.license">개인 정보 보호 정책</a></u>에 동의하시는 것입니다. 권한의 철회를 원하시는 경우, 해당 기능을 꺼주십시오.</string>
     <string name="find_device_operation_failure_rpc">RPC 오류로 작업을 실행할 수 없습니다.</string>
     <string name="find_device_permissions_footer">선택한 권한을 부여하시려면 \"권한 부여\"를 탭하십시오</string>
-    <string name="find_device_permissions_header">기기 찾기에 오신 것을 환영합니다! 이 앱으로 기기 분실 시에 위치 찾기, 기기 추적 및 기기 잠금 등을 하실 수 있습니다. 기기 찾기는 다음의 권한이 요구됩니다:</string>
+    <string name="find_device_permissions_header">기기 찾기에 오신 것을 환영합니다! 이 앱으로 기기 분실 시에 위치 찾기, 기기 추적 및 기기 잠금 등을 하실 수 있습니다. 익명으로 다른 사람이 Xiaomi 기기를 찾는 데 도움을 줄 수도 있습니다. 이 앱이 정상적으로 작동하려면 다음 권한이 필요합니다:</string>
     <string name="find_device_service_title">기기 찾기</string>
-    <string name="find_device_status_summary">원격으로 기기 찾기 및 잠금, 데이터 삭제</string>
+    <string name="find_device_status_summary">"기기를 찾아 추적하거나 원격으로 기기의 데이터를 지우려면 켜십시오.
+익명으로 다른 사람이 Xiaomi 기기를 찾는 데 도움을 줄 수도 있습니다."</string>
     <string name="find_device_status_title_pad">기기 찾기</string>
     <string name="find_device_status_title_phone">기기 찾기</string>
     <string name="find_permission_location_summary">기기의 위치를 특정하기 위해</string>
@@ -413,7 +414,7 @@
     <string name="micloud_last_sync_canceled">동기화 취소됨, 다시 시도하십시오.</string>
     <string name="micloud_main_head_menu_cloud_backup">백업</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">기기 찾기 기능은 보조 공간에서는 사용할 수 없습니다. 기본 공간에서 시도하십시오.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">삭제된 항목</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">최근 삭제된 항목</string>
     <string name="micloud_main_network_error">네트워크 연결 실패</string>
     <string name="micloud_main_sync_mode_summary">실시간으로 앱 데이터를 동기화합니다. 이 기능을 켜시면 전력 소모가 증가할 것입니다.</string>
     <string name="micloud_main_sync_mode_title">빠른 동기화</string>
@@ -633,6 +634,18 @@
     <string name="noti_quota_low_title_without_button">클라우드 저장 공간 부족</string>
     <string name="notification_sync_fail_title">비밀번호 동기화 실패</string>
     <string name="notification_update_key_text">비밀번호 매니저가 패스코드를 변경했습니다. 새 패스코드를 인증해 주십시오.</string>
+    <string name="offline_find_action_open">켜기</string>
+    <string name="offline_find_checkbox_pref_summary_1">네트워크에 연결되지 않았을 때에도 이 기기의 위치를 특정하고 다른 오프라인 기기의 위치를 ​​확인하십시오. &lt;br/>&lt;font color=#0f84ff>더 알아보기&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">네트워크에 연결되지 않았거나 전원이 꺼져 있을 시에도 이 기기의 위치를 특정하고 다른 오프라인 기기의 위치를 ​​확인하십시오. &lt;br/>&lt;font color=#0f84ff>더 알아보기&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">오프라인 위치</string>
+    <string name="offline_find_doing_disable">오프라인 위치 끄는 중…</string>
+    <string name="offline_find_doing_enable">오프라인 위치 켜는 중…</string>
+    <string name="offline_find_function">오프라인 위치</string>
+    <string name="offline_find_msg_to_open_1">다른 오프라인 기기의 위치를 볼 수 있도록 이 기기의 오프라인 위치를 켜십시오.</string>
+    <string name="offline_find_msg_to_open_2">이 기기를 신뢰할 수 있는 기기로 확인하고 오프라인 위치를 켜면 다른 오프라인 기기의 위치를 ​​확인할 수 있습니다.</string>
+    <string name="offline_find_msg_to_open_3">데이터 보안을 위해 오프라인 위치를 켜기 전에 이 기기가 신뢰할 수 있는 기기인지 확인하십시오.</string>
+    <string name="offline_find_title_to_open_1">오프라인 위치 켜기</string>
+    <string name="offline_find_title_to_open_2">이 기기 인증</string>
     <string name="open_service_title">켜기</string>
     <string name="pay_info_dialog_confirm_to_pay">%s 결제</string>
     <string name="pay_info_dialog_mibi_balance_prefix">남은 Mi 코인 사용: %s</string>
@@ -658,8 +671,8 @@
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">"'%1$s'이(가) 클립보드에 복사되었습니다."</string>
     <string name="privacy_and_agreement">이용 약관</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">기기 찾기에 오신 것을 환영합니다! 해당 서비스를 이용하여 기기 분실 시에 위치 찾기, 기기 잠금 또는 데이터 삭제 등을 하실 수 있습니다.</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">기기 찾기에 오신 것을 환영합니다! 해당 서비스를 이용하여 기기 분실 시에 위치 찾기, 기기 잠금 또는 데이터 삭제 등을 하실 수 있습니다.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">기기 찾기에 오신 것을 환영합니다! 이 앱으로 기기 분실 시에 위치 찾기, 기기 추적 및 기기 잠금 등을 하실 수 있습니다. 익명으로 다른 사람이 Xiaomi 기기를 찾는 데 도움을 줄 수도 있습니다.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">기기 찾기에 오신 것을 환영합니다! 이 앱으로 기기 분실 시에 위치 찾기, 기기 추적 및 기기 잠금 등을 하실 수 있습니다. 익명으로 다른 사람이 Xiaomi 기기를 찾는 데 도움을 줄 수도 있습니다.</string>
     <string name="privacy_dialog_sync_all_purpose_china">Xiaomi Cloud 서비스에 오신 것을 환영합니다! Xiaomi Cloud를 사용하여 메시지, 연락처, 메모, 브라우즈 설정, 사진, 동영상, Wi-Fi 설정, 녹음 파일, 홈 화면 레이아웃, 앱, 캘린더 일정, 차단 목록, 통화 기록 및 앱 보관함 등을 연결된 기기들에 동기화하실 수 있습니다.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Xiaomi Cloud 서비스에 오신 것을 환영합니다! Xiaomi Cloud를 사용하여 메시지, 연락처, 메모, 브라우즈 설정, 사진, 동영상, Wi-Fi 설정, 녹음 파일, 홈 화면 레이아웃, 앱, 캘린더 일정, 차단 목록, 통화 기록 및 앱 보관함 등을 연결된 기기들에 동기화하실 수 있습니다.</string>
     <string name="privacy_dialog_sync_all_purpose_pad">Xiaomi Cloud 서비스에 오신 것을 환영합니다! 이 앱을 사용하여 메시지, 연락처, 메모, 브라우저 항목, 클라우드 앨범, 음악, 캘린더, 차단 목록 및 통화 기록을 클라우드에 동기화하실 수 있습니다.</string>

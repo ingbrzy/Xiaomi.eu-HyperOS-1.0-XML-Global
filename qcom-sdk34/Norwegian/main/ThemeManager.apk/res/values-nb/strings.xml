@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">Aktiver alltid-på-visning i Innstillinger først</string>
     <string name="apply_theme_with_ringtones">Bruk tema-ringetoner</string>
     <string name="apply_wallpaper_after_three_theme">Du bruker for øyeblikket et tredjepartstema. Hvis du endrer bakgrunn på låseskjermen, kan det føre til at klokkestilen på låseskjermen blir gjenopprettet til standard. Bruke den nå?</string>
+    <string name="apply_wallpaper_dialog_title">Bruk bakgrunnsbilde</string>
     <string name="apply_wallpaper_notice">Merk</string>
     <string name="apply_wallpaper_notice_cancel">Avbryt</string>
     <string name="apply_wallpaper_notice_content">Temaet som brukes nå, inneholder en tilpasset låseskjermmodul som kan forhindre deg i å gjøre justeringer relatert til låseskjermen.</string>
     <string name="apply_wallpaper_notice_lockscreen">Det nåværende temaet ditt inneholder en tilpasset låseskjerm. Vi erstatter den med den standard låseskjermen hvis du tar i bruk denne bakgrunnen. Ta i bruk likevel?</string>
     <string name="apply_wallpaper_notice_still_apply">Bruk</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Du bruker et bakgrunnsbildesett nå. Hvis du bruker et nytt tema, vil både låseskjermen og bakgrunnsbildene på startskjermen bli erstattet, og Alltid-på-skjermen vil bli gjenopprettet til forrige stil. Bruke likevel?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Du bruker for øyeblikket en superbakgrunn. Hvis du velger en ny bakgrunn, blir den brukt på både start- og låseskjermen, og Alltid på-skjerm gjenopprettes til forrige innstilling. Bruke den nå?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">Du bruker et bakgrunnsbildesett nå. Hvis du bruker et nytt tema, vil både låseskjermen og bakgrunnsbildene på startskjermen bli erstattet. Bruke likevel?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Du bruker for øyeblikket en superbakgrunn. Hvis du velger en ny bakgrunn, blir den brukt på både start- og låseskjermen. Bruke den nå?</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">Luftkvalitetsindeks: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">Kunne ikke koble til nettverket. Sjekk nettverkstilkoblingene dine og prøv igjen.</string>
     <string name="card_retry">Prøv igjen</string>
     <string name="carefully_chosen_wallpaper">Redaktørens utvalgte</string>
+    <string name="carousel_no_set_wallpaper_effects">Kan ikke angi effekter når Bakgrunnsbildekarusell er aktivert</string>
     <string name="change_host_hint">Endre vert</string>
     <string name="change_wallpaper">Bakgrunn</string>
     <string name="channel_featured_page">Utvalgte</string>
@@ -147,7 +151,12 @@
     <string name="clearable_edittext_clear_description">Fjern</string>
     <string name="close">Lukk</string>
     <string name="columbus_ad_flag_text">ANNONSE</string>
+    <string name="columbus_reward_style_access">Les mer</string>
+    <string name="columbus_reward_style_close_cancel">Avslutt</string>
+    <string name="columbus_reward_style_close_desc">Se ferdig videoen for å få en belønning. Fortsette å se?</string>
+    <string name="columbus_reward_style_speed_confirm">Fortsett</string>
     <string name="columbus_skip_ad">Hopp over</string>
+    <string name="columbus_skip_ad_time">Hopp over (%d)</string>
     <string name="come_and_choose_wallpaper">Velg mellom flere tusen fantastiske bakgrunnsbilder</string>
     <string name="common_google_play_services_enable_button">Aktivér</string>
     <string name="common_google_play_services_enable_text">%1$s fungerer ikke med mindre du slår på Google Play-tjenester.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Morgen</string>
     <string name="editor_apply_message">"Denne funksjonen brukes av designere til feilsøking. Standardtemaet blir om litt automatisk gjenopprettet. Filbanen til nåværende tema: "</string>
     <string name="editor_apply_toast">Velgt temp.mtz manuelt i rotkatalogen</string>
+    <string name="effect_home">Startskjermeffekter</string>
+    <string name="effect_lock">Låseskjermeffekter</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Angi en e-postadresse</string>
     <string name="eras_ad">e.Kr.</string>
@@ -422,6 +433,7 @@
     <string name="later">Ikke nå</string>
     <string name="latest_wallpaper">Nye</string>
     <string name="limit_discount">Begrenset tilbud</string>
+    <string name="linked_wallpaper">Bakgrunnsbildesett</string>
     <string name="live_wallpaper">Livebakgrunn</string>
     <string name="live_wallpapers">Livebakgrunner</string>
     <string name="loading">Et øyeblikk…</string>
@@ -650,14 +662,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Ikke vis igjen</string>
     <string name="not_set">Ikke angitt</string>
+    <string name="not_support_subtitle">Kontakt organisasjonens IT-støtte eller bytt konto</string>
+    <string name="not_support_title">Kan ikke bruke Temaer når en jobbprofil brukes</string>
     <string name="notifications_permission_confirm">Tillat</string>
     <string name="notifications_permission_decline">Ikke tillat</string>
     <string name="notifications_permission_title">Vil du la appen sende deg varsler?</string>
     <string name="notify_style">Varslingseffekter</string>
-    <string name="offline_notification_text">Trykk for å åpne annonsen</string>
-    <string name="offline_notification_title">Se annonsen du lagret mens du var uten nett</string>
+    <string name="offline_dialog_image_description">Ikon</string>
+    <string name="offline_dialog_text">"Takk for interessen.
+Vi deler mer når du er på nettet igjen."</string>
+    <string name="offline_notification_title">Du er på nettet igjen. La oss fortsette der vi slapp</string>
+    <string name="offline_notification_title_with_advertiser">Du er på nettet igjen. Fortsett å lære om %s</string>
     <string name="offline_opt_in_confirm">OK</string>
-    <string name="offline_opt_in_confirmation">Du får et varsel med linken når du er på nettet igjen</string>
     <string name="offline_opt_in_decline">Nei takk</string>
     <string name="offline_opt_in_message">Vi sender deg et varsel med en link til annonsørnettstedet.</string>
     <string name="offline_opt_in_title">Åpne annonsen når du er på nettet igjen.</string>
@@ -679,6 +695,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">Ikke gå glipp av disse!</string>
     <string name="ota_theme_default_push_content2">Se anbefalingene våre</string>
     <string name="ota_theme_default_push_title">Nye temaer er på vei</string>
+    <string name="out_wallpaper_list">Bakgrunnsbilde på utvendig skjerm</string>
     <string name="password_toggle_content_description">Vis passordet</string>
     <string name="pause_all">Sett alle på pause</string>
     <string name="pay_online">Nettbetaling</string>
@@ -975,13 +992,12 @@ mm"</string>
     <string name="saturday_short">Lør</string>
     <string name="saturday_shortest">Lør</string>
     <string name="scroll_switch">Sveip for å veksle mellom elementer</string>
-    <string name="sdcard_not_mounted_dialog_message">"Sett inn SD-kort nå.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">Ikke noe SD-kort funnet</string>
     <string name="search_color">Farge</string>
     <string name="search_hint_header_text">Topp-ord</string>
     <string name="search_menu_title">Søk</string>
     <string name="search_sort">Sorter etter</string>
+    <string name="search_update_guide_bubble">Nye</string>
+    <string name="search_update_guide_text">Opplev helt nye søkefunksjoner</string>
     <string name="select_all">Velg alle</string>
     <string name="selected_resource_file_invalid">Kan ikke bruke den valgte ressursfilen</string>
     <string name="send">Send</string>
@@ -1035,12 +1051,14 @@ mm"</string>
     <string name="system_aod_dialog_message">Aktiver alltid-på-visning for å kunne bruke denne funksjonen.</string>
     <string name="system_aod_dialog_positive_button">Innstillinger</string>
     <string name="system_aod_dialog_title">Alltid-på-skjerm</string>
+    <string name="system_personalize_title">Persontilpasning</string>
     <string name="system_phone">Anrop</string>
     <string name="system_precust">Forhåndsinnstallert</string>
     <string name="text_billing_info">Faktureringsopplysninger</string>
     <string name="text_cancel_subscription_service">Avbryte dette abonnementet nå?</string>
     <string name="text_content_update">Nytt innhold hver dag</string>
     <string name="text_free_trial">Prøv gratis</string>
+    <string name="text_local_push_check">Vis</string>
     <string name="text_pay_monthly" formatted="false">Starter fra %s, fornyes automatisk for %s/måned frem til abonnementet avbrytes</string>
     <string name="text_pay_weekly" formatted="false">Starter fra %s, fornyes automatisk for %s/uke frem til abonnementet avbrytes</string>
     <string name="text_pay_yearly" formatted="false">Starter fra %s, fornyes automatisk for %s/år frem til abonnementet avbrytes</string>

@@ -554,9 +554,13 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="session_failed_dist_no_space_btn_text">Limpar armazenamento</string>
     <string name="session_failed_get_installed_apps_denied_detail">Para realizar backups automáticos, conceda a permissão de acesso à lista de apps instalados no seu dispositivo nas Configurações, e selecione Sempre permitir.</string>
     <string name="session_failed_get_installed_apps_denied_title">Permissões requeridas</string>
+    <string name="session_failed_invalid_token_action">Fazer login</string>
+    <string name="session_failed_invalid_token_detail">Faça o login novamente</string>
+    <string name="session_failed_invalid_token_title">Credenciais inválidas</string>
     <string name="session_failed_no_server_response_title">Não foi possível conectar-se ao servidor.</string>
     <string name="session_failed_override_detail">O backup local é diferente do presente na Xiaomi Cloud. Se você continuar, o backup atual substituirá o anterior. Sobrescrever agora?</string>
     <string name="session_failed_override_title">Sobrescrevendo backup</string>
+    <string name="session_failed_reason_invalid_token">Credenciais de login inválidas. Faça o login novamente.</string>
     <string name="session_failed_restore_app_data_btn_text">Voltar</string>
     <string name="session_failed_restore_app_data_detail">Certifique-se de que o WeChat não está instalado neste dispositivo antes de restaurar os itens. Não abra ou utilize o WeChat enquanto os dados estiverem sendo transferidos.</string>
     <string name="session_failed_restore_app_data_title">Desinstalar o WeChat</string>

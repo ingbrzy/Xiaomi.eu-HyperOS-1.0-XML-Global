@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">Първо включете Винаги включен дисплей от Настройките</string>
     <string name="apply_theme_with_ringtones">Използвай мелодиите на темата</string>
     <string name="apply_wallpaper_after_three_theme">В момента използвате тема от трета страна. Ако промените тапета си на Заключен екран, това може да повлияе на стила на часовника на Заключен екран, и той да се върне към първоначалните си настройки. Прилагане сега?</string>
+    <string name="apply_wallpaper_dialog_title">Приложи тапет</string>
     <string name="apply_wallpaper_notice">Внимание</string>
     <string name="apply_wallpaper_notice_cancel">Отказ</string>
     <string name="apply_wallpaper_notice_content">Настоящо приложената тема съдържа персонализиран модул за Заключен екран, който може да Ви попречи да правите промени свързани със Заключен екран.</string>
     <string name="apply_wallpaper_notice_lockscreen">Настоящата ви тема съдържа персонализиран Заключен екран. Ако приложите този тапет, той ще бъде заменен със Заключения екран по подразбиране.</string>
     <string name="apply_wallpaper_notice_still_apply">Приложи</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Сега използвате комплект тапети. Ако приложите нова тема, както тапетите на Заключения екран, така и на Началния екран ще бъдат заменени, а Винаги включен дисплей ще бъде възстановен до предишния стил. Желаете ли да я приложите?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">В момента използвате Супер тапет. Ако изберете нов тапет, той ще бъде приложен на Началния и Заключения екран, и Винаги включения дисплей ще се върне на предишните си настройки. Прилагане сега?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">Сега използвате комплект тапети. Ако приложите нова тема, както тапетите на Заключения екран, така и на Началния екран ще бъдат заменени. Желаете ли да я приложите?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">В момента използвате Супер тапет. Ако изберете нов тапет, той ще бъде приложен както на Началния, така и на Заключения екран. Прилагане сега?</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">Индекс за качество на въздуха: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">Не мога да се свържа с мрежата. Проверете настройките си и опитайте отново.</string>
     <string name="card_retry">Опитайте отново</string>
     <string name="carefully_chosen_wallpaper">Избор на редактора</string>
+    <string name="carousel_no_set_wallpaper_effects">Не можете да задавате ефекти когато са включени Сменящи се тапети</string>
     <string name="change_host_hint">Смяна на host</string>
     <string name="change_wallpaper">Тапет</string>
     <string name="channel_featured_page">Препоръчани</string>
@@ -147,7 +151,12 @@
     <string name="clearable_edittext_clear_description">Изчисти</string>
     <string name="close">Затвори</string>
     <string name="columbus_ad_flag_text">Реклама</string>
+    <string name="columbus_reward_style_access">Научете повече</string>
+    <string name="columbus_reward_style_close_cancel">Изход</string>
+    <string name="columbus_reward_style_close_desc">Завършете гледането на видеоклипа, за да получите награда. Желаете ли да продължите да гледате?</string>
+    <string name="columbus_reward_style_speed_confirm">Продължи</string>
     <string name="columbus_skip_ad">Пропусни</string>
+    <string name="columbus_skip_ad_time">Пропусни (%d)</string>
     <string name="come_and_choose_wallpaper">Изберете от хиляди невероятни тапети</string>
     <string name="common_google_play_services_enable_button">Активиране</string>
     <string name="common_google_play_services_enable_text">%1$s няма да работи, освен ако не активирате услугите за Google Play.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Сутрин</string>
     <string name="editor_apply_message">"Тази функция се използва за отстраняване на грешки от дизайнерите. Темата по подразбиране автоматично ще бъде възстановена след известно време. Път на файла на текущата тема: "</string>
     <string name="editor_apply_toast">Ръчно изберете temp.mtz в основната директория</string>
+    <string name="effect_home">Ефекти за Начален екран</string>
+    <string name="effect_lock">Ефекти на Заключен екран</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Въведете имейл адрес</string>
     <string name="eras_ad">н.е.</string>
@@ -422,6 +433,7 @@
     <string name="later">По-късно</string>
     <string name="latest_wallpaper">Нови</string>
     <string name="limit_discount">Лимитирана оферта</string>
+    <string name="linked_wallpaper">Комплекти тапети</string>
     <string name="live_wallpaper">Динамични тапети</string>
     <string name="live_wallpapers">Динамични тапети</string>
     <string name="loading">Момент…</string>
@@ -650,14 +662,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Не показвай отново</string>
     <string name="not_set">Не е зададено</string>
+    <string name="not_support_subtitle">Свържете се с IT поддръжката на Вашата организация или сменете профилите</string>
+    <string name="not_support_title">При използване на работен профил не могат да се използват Теми</string>
     <string name="notifications_permission_confirm">Разрешаване</string>
     <string name="notifications_permission_decline">Забраняване</string>
     <string name="notifications_permission_title">Разрешавате ли на приложението да ви изпраща известия?</string>
     <string name="notify_style">Ефекти на известията</string>
-    <string name="offline_notification_text">Докоснете, за да отворите рекламата</string>
-    <string name="offline_notification_title">Прегледайте рекламата, която запазихте, докато бяхте офлайн</string>
+    <string name="offline_dialog_image_description">Икона</string>
+    <string name="offline_dialog_text">"Благодарим за проявения интерес.
+Ще споделим още информация, когато отново сте онлайн."</string>
+    <string name="offline_notification_title">Отново сте онлайн! Да продължим оттам, откъдето прекъснахме</string>
+    <string name="offline_notification_title_with_advertiser">Отново сте онлайн! Продължете обучението за %s</string>
     <string name="offline_opt_in_confirm">ОК</string>
-    <string name="offline_opt_in_confirmation">Ще получите известие с връзката, когато отново сте онлайн</string>
     <string name="offline_opt_in_decline">Не</string>
     <string name="offline_opt_in_message">Ще ви изпратим известие с връзка към сайта на рекламодателя.</string>
     <string name="offline_opt_in_title">Отворете рекламата, когато отново сте онлайн.</string>
@@ -679,6 +695,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">Не пропускайте!</string>
     <string name="ota_theme_default_push_content2">Вижте нашите препоръки</string>
     <string name="ota_theme_default_push_title">Нови теми на път</string>
+    <string name="out_wallpaper_list">Тапет на външния екран</string>
     <string name="password_toggle_content_description">Показване на паролата</string>
     <string name="pause_all">Всички на пауза</string>
     <string name="pay_online">Онлайн плащане</string>
@@ -975,13 +992,12 @@ mm"</string>
     <string name="saturday_short">Сб.</string>
     <string name="saturday_shortest">Сб.</string>
     <string name="scroll_switch">Плъзнете, за да превключите между елементите</string>
-    <string name="sdcard_not_mounted_dialog_message">"Поставете SD карта.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">Не е открита SD карта</string>
     <string name="search_color">Цвят</string>
     <string name="search_hint_header_text">Горещи думи</string>
     <string name="search_menu_title">Търсене</string>
     <string name="search_sort">Сортиране по</string>
+    <string name="search_update_guide_bubble">Ново</string>
+    <string name="search_update_guide_text">Изпробвайте изцяло нови функции за търсене</string>
     <string name="select_all">Избери всички</string>
     <string name="selected_resource_file_invalid">Избраният файл не може да се използва</string>
     <string name="send">Изпращане</string>
@@ -1035,12 +1051,14 @@ mm"</string>
     <string name="system_aod_dialog_message">За да можете да използвате тази функция, включете Винаги включен дисплей.</string>
     <string name="system_aod_dialog_positive_button">Настройки</string>
     <string name="system_aod_dialog_title">Винаги включен дисплей</string>
+    <string name="system_personalize_title">Персонализация</string>
     <string name="system_phone">Обаждания</string>
     <string name="system_precust">Преинсталирани</string>
     <string name="text_billing_info">Информация за плащане</string>
     <string name="text_cancel_subscription_service">Желаете ли да прекратите този абонамент?</string>
     <string name="text_content_update">Ново съдържание ежедневно</string>
     <string name="text_free_trial">Тествайте безплатно</string>
+    <string name="text_local_push_check">Преглед</string>
     <string name="text_pay_monthly" formatted="false">Започвайки от %s, се подновява автоматично за %s/месец до отмяна</string>
     <string name="text_pay_weekly" formatted="false">Започвайки от %s, се подновява автоматично за %s/седмица до отмяна</string>
     <string name="text_pay_yearly" formatted="false">Започвайки от %s, се подновява автоматично за %s/година до отмяна</string>

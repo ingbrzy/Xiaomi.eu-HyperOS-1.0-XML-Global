@@ -188,9 +188,10 @@
     <string name="find_device_gdpr_prompt">Увімкнувши функцію Пошук пристрою, ви приймаєте нашу <u><a href="app://com.miui.cloudservice.gdpr.license">Політику конфіденційності</a></u>. Для відкликання дозволу вимкніть цю функцію.</string>
     <string name="find_device_operation_failure_rpc">Не вдалося виконати операцію через помилку RPC.</string>
     <string name="find_device_permissions_footer">Натисніть “Надати”, щоб надати вибрані дозволи.</string>
-    <string name="find_device_permissions_header">Ласкаво просимо до Пошуку пристрою! Використовуйте цю програму для пошуку і відстеження пристрою, а також його блокування в разі втрати. Пошуку пристрою потрібні наступні дозволи:</string>
+    <string name="find_device_permissions_header">Ласкаво просимо до програми \"Пошук пристрою\"! За допомогою цієї програми ви можете знаходити, відстежувати та блокувати свій пристрій, якщо його було втрачено. Ви також можете анонімно допомагати іншим користувачам знаходити свої пристрої Xiaomi. Для нормальної роботи цієї програми потрібні наступні дозволи:</string>
     <string name="find_device_service_title">Пошук пристрою</string>
-    <string name="find_device_status_summary">Знаходьте та блокуйте пристрій, а також видаляйте його дані звідки завгодно</string>
+    <string name="find_device_status_summary">"Увімкніть, щоб знайти та відстежити ваш пристрій або видалити його дані віддалено.
+Ви також можете анонімно допомогти іншим користувачам знайти свої пристрої Xiaomi."</string>
     <string name="find_device_status_title_pad">Пошук пристрою</string>
     <string name="find_device_status_title_phone">Пошук пристрою</string>
     <string name="find_permission_location_summary">Для визначення місцезнаходження пристрою</string>
@@ -276,7 +277,7 @@
     <string name="keybag_dialog_cancel">Скасувати</string>
     <string name="keybag_dialog_ok">ОК</string>
     <string name="keybag_install_by_passcode_prompt">Цей код захищає паролі, які збережені у хмарі. Ви вже налаштували його, коли активувати синхронізацію Менеджера паролів із хмарою.</string>
-    <string name="keybag_password_check_screen_lock">Введіть код блокування</string>
+    <string name="keybag_password_check_screen_lock">Введіть пароль блокування екрана</string>
     <string name="keybag_password_checking_screen_lock">Перевірка пароля…</string>
     <string name="keybag_password_confirm_prompt">Підтвердіть код доступу</string>
     <string name="keybag_password_create_prompt">Встановіть код Менеджера паролів</string>
@@ -287,12 +288,12 @@
     <string name="keybag_password_input_prompt">Введіть код доступу</string>
     <string name="keybag_password_length_prompt">Введіть принаймні %d цифр та літер</string>
     <string name="keybag_password_reset_tip">Після виконання скидання коду всі дані Менеджера паролів, які зберігаються у хмарі, будуть видалені. Виконати скидання?</string>
-    <string name="keybag_password_screen_lock_unknown">Не вдалося перевірити пароль блокування. Ви можете налаштувати код доступу.</string>
-    <string name="keybag_password_screen_lock_wrong">Неправильний код блокування</string>
+    <string name="keybag_password_screen_lock_unknown">Не вдалося перевірити пароль блокування екрана. Ви можете налаштувати код доступу.</string>
+    <string name="keybag_password_screen_lock_wrong">Неправильний пароль блокування екрана</string>
     <string name="keybag_password_too_short">Неприпустимий формат коду доступу</string>
     <string name="keybag_set_password_content">Для використання Менеджера паролів налаштуйте код доступу. Цей код дозволить вам підтвердити вашу особистість під час заміни пристрою.</string>
     <string name="keybag_set_password_negative">Налаштувати</string>
-    <string name="keybag_set_password_positive">Використовувати пароль блокування</string>
+    <string name="keybag_set_password_positive">Використовувати пароль блокування екрана</string>
     <string name="keybag_set_password_success_get">Зрозуміло</string>
     <string name="keybag_set_password_success_tip">"Налаштування завершено. Вам буде необхідно ввести код доступу на інших пристроях, щоб отримати доступ до зашифрованих об'єктів."</string>
     <string name="keybag_set_password_title">Попередження</string>
@@ -413,7 +414,7 @@
     <string name="micloud_last_sync_canceled">Синхронізацію було скасовано. Повторіть спробу.</string>
     <string name="micloud_main_head_menu_cloud_backup">Резервні копії</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Пошук пристрою недоступний із Другого простору. Ви можете скористатися цією функцією у Першому просторі.</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">"Видалені об'єкти"</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">"Нещодавно видалені об'єкти"</string>
     <string name="micloud_main_network_error">Інтернет недоступний</string>
     <string name="micloud_main_sync_mode_summary">Синхронізовувати дані в режимі реального часу. Ця функція збільшить споживання енергії.</string>
     <string name="micloud_main_sync_mode_title">Швидка синхронізація</string>
@@ -633,6 +634,18 @@
     <string name="noti_quota_low_title_without_button">"Недостатньо пам'яті у хмарному сховищі"</string>
     <string name="notification_sync_fail_title">Не вдалося синхронізувати паролі</string>
     <string name="notification_update_key_text">Код доступу до менеджера паролів було змінено. Підтвердіть новий код доступу.</string>
+    <string name="offline_find_action_open">Увімкнути</string>
+    <string name="offline_find_checkbox_pref_summary_1">Знаходьте цей пристрій, навіть якщо він не підключений до мережі, і перегляньте розташування інших пристроїв, які не підключені до мережі. &lt;br/>&lt;font color=#0f84ff>Подробнее&lt;/font></string>
+    <string name="offline_find_checkbox_pref_summary_2">Знаходьте цей пристрій, навіть якщо він вимкнений або не підключений до мережі, і перегляньте розташування інших пристроїв, які не підключені до мережі. &lt;br/>&lt;font color=#0f84ff>Подробнее&lt;/font></string>
+    <string name="offline_find_checkbox_pref_title">Автономне місцезнаходження</string>
+    <string name="offline_find_doing_disable">Вимкнення Автономного місцезнаходження…</string>
+    <string name="offline_find_doing_enable">Вимкнення визначення місцезнаходження без підключення до мережі…</string>
+    <string name="offline_find_function">Автономне місцезнаходження</string>
+    <string name="offline_find_msg_to_open_1">Увімкніть параметр \"Автономне місцезнаходження\" на цьому пристрої, щоб переглянути місцезнаходження інших пристроїв, які не підключені до мережі.</string>
+    <string name="offline_find_msg_to_open_2">Переконайтеся, що цей пристрій надійний, та увімкніть функцію \"Автономне місцезнаходження\", щоб переглянути місцезнаходження інших пристроїв, які не підключені до мережі.</string>
+    <string name="offline_find_msg_to_open_3">Щоб забезпечити безпеку ваших даних, переконайтеся, що цей пристрій є надійним, перш ніж увімкнути функцію \"Автономне місцезнаходження\".</string>
+    <string name="offline_find_title_to_open_1">Увімкнути Автономне місцезнаходження</string>
+    <string name="offline_find_title_to_open_2">Підтвердіть цей пристрій</string>
     <string name="open_service_title">Увімкнути</string>
     <string name="pay_info_dialog_confirm_to_pay">Сплатити %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Використати залишок Mi Coins: %s</string>
@@ -658,8 +671,8 @@
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">\"%1$s\": скопійовано в буфер обміну.</string>
     <string name="privacy_and_agreement">Правила та умови</string>
-    <string name="privacy_dialog_finddevice_all_purpose_pad">Ласкаво просимо до Пошуку пристрою! Ви можете використовувати цю послугу, щоб знайти, заблокувати або стерти дані на вашому пристрої, якщо його було втрачено.</string>
-    <string name="privacy_dialog_finddevice_all_purpose_phone">Ласкаво просимо до Пошуку пристрою! Ви можете використовувати цю послугу, щоб знайти, заблокувати або стерти дані на вашому пристрої, якщо його було втрачено.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_pad">Ласкаво просимо до програми \"Пошук пристрою\"! Ви можете використовувати цю програму для пошуку, відстеження та блокування пристрою після його втрати. Ви також можете анонімно допомагати іншим користувачам знаходити свої пристрої Xiaomi.</string>
+    <string name="privacy_dialog_finddevice_all_purpose_phone">Ласкаво просимо до програми \"Пошук пристрою\"! Ви можете використовувати цю програму для пошуку, відстеження та блокування пристрою після його втрати. Ви також можете анонімно допомагати іншим користувачам знаходити свої пристрої Xiaomi.</string>
     <string name="privacy_dialog_sync_all_purpose_china">Ласкаво просимо до послуг Xiaomi Cloud! Ви можете використовувати Xiaomi Cloud для синхронізації повідомлень, контактів, нотаток, налаштувань браузера, фотографій і відео, налаштувань WLAN, записів, макета робочого столу, програм, подій календаря, елементів списку блокування, історії викликів та стрічки віджетів на всіх підключених пристроях.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Ласкаво просимо до послуг Xiaomi Cloud! Ви можете використовувати Xiaomi Cloud для синхронізації повідомлень, контактів, нотаток, налаштувань браузера, фотографій і відео, налаштувань WLAN, записів, макета робочого столу, програм, подій календаря, елементів списку блокування, історії викликів та стрічки віджетів на всіх підключених пристроях.</string>
     <string name="privacy_dialog_sync_all_purpose_pad">"Ласкаво просимо до послуг Xiaomi Cloud! Ви можете використовувати цю програму для синхронізації повідомлень, контактів, нотаток, об'єктів браузера, хмарних альбомів, музики, календаря, списку заблокованих та історії викликів із хмарою."</string>

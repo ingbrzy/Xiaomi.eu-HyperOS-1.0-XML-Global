@@ -188,6 +188,7 @@
     <string name="alert_back_milink_hangup_tips_content_vb">Kun näyttö on pois päältä, sovellus toimii taustalla keskeyttämättä lähetysprosessia. Kytke näyttö takaisin päälle painamalla virtapainiketta.</string>
     <string name="all_address_choose_hint">Kaikki numerot tässä maakunnassa</string>
     <string name="allow_all">Salli kaikki</string>
+    <string name="allow_device_id_access">Valitse sovelluksia, jotka voivat käyttää laitteen tunnusta</string>
     <string name="allow_onetime">Salli kerran</string>
     <string name="already_close_gamebooster">Game Turbo ei ole käytössä</string>
     <string name="am">ap.</string>
@@ -224,8 +225,8 @@
     <string name="antivirus_privacy_dialog_cloudscan">Lähetä sovellusten nimet ja tiedot</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Virusten havaitsemiseksi ja neutraloimiseksi tehokkaammin lataamme sovelluspakettien nimet ja ominaisuudet skannataksesi ne pilvimoottorin avulla.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
-    <string name="antivirus_privacy_dialog_summary">&lt;Data>Tämän ominaisuuden tarjoaa kolmannen osapuolen antivirusmoottori. Tutustu lisää lukemalla &lt;a href=\"%1$s\">Lisenssisopimus&lt;/a>, jonka tarjoaa kolmas osapuoli.&lt;/Data></string>
-    <string name="antivirus_privacy_dialog_summary_kddi">&lt;Data>Kun suoritat tietoturvatarkistuksen, laitemallisi ja skannaustulokset ladataan %1$s-palvelimille ja niitä käytetään vastaavien &lt;a href=\"%2$s\">käyttöehtojen&lt;/a> mukaisesti.&lt;br/>&lt;br/>Lue ja hyväksy %3$s-käyttöehdot ennen tietoturvatarkistusten suorittamista.&lt;br/>&lt;br/>Jos et suostu lataamaan tietoja %4$s-palvelimille, voit silti käyttää laitteellesi paikallisesti tallennettuja virustunnisteita.&lt;/Data></string>
+    <string name="antivirus_privacy_dialog_summary"><Data>Tämän ominaisuuden tarjoaa kolmannen osapuolen antivirusmoottori. Tutustu lisää lukemalla &lt;a href=\"%1$s\">Lisenssisopimus&lt;/a>, jonka tarjoaa kolmas osapuoli.</Data></string>
+    <string name="antivirus_privacy_dialog_summary_kddi"><Data>Kun suoritat tietoturvatarkistuksen, laitemallisi ja skannaustulokset ladataan %1$s-palvelimille ja niitä käytetään vastaavien &lt;a href=\"%2$s\">käyttöehtojen&lt;/a> mukaisesti.&lt;br/>&lt;br/>Lue ja hyväksy %3$s-käyttöehdot ennen tietoturvatarkistusten suorittamista.&lt;br/>&lt;br/>Jos et suostu lataamaan tietoja %4$s-palvelimille, voit silti käyttää laitteellesi paikallisesti tallennettuja virustunnisteita.</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Tietosuojakäytäntö</string>
     <string name="antivirus_privacy_dialog_title">Tietosuojakäytäntö</string>
     <string name="antivirus_privacy_dialog_title_kddi">Käyttöehdot</string>
@@ -935,6 +936,7 @@ Jotkin tapahtumistasi eivät kuitenkaan ole vielä suoritettuja. Jos haluat peru
     <string name="button_text_let_me_select">Selvä</string>
     <string name="button_text_next_step">Seuraava</string>
     <string name="button_text_next_step_timer">Seuraava vaihe (%d)</string>
+    <string name="button_text_once_accept">Salli kerran</string>
     <string name="button_text_open_now">Avaa</string>
     <string name="button_text_reject">Hylkää</string>
     <string name="button_text_trust">Luota tähän verkkoon</string>
@@ -1147,6 +1149,7 @@ Jotkin tapahtumistasi eivät kuitenkaan ole vielä suoritettuja. Jos haluat peru
     <string name="create_shortcut">Luo aloitusnäytön pikavalinta Game Turbolle</string>
     <string name="cs_color_sense">Värilämpötila</string>
     <string name="cs_conversation_record_using">Nauhoitetaan</string>
+    <string name="cs_func_toast_bluetooth_headset">Irrota Bluetooth-korvakuulokkeet, jotta voit käyttää tätä ominaisuutta</string>
     <string name="cs_func_toast_headset">Irrota kuulokemikrofoni, jotta voit käyttää tätä ominaisuutta</string>
     <string name="cs_func_toast_light">Vaihda etukameraan, jotta voit käyttää tätä ominaisuutta</string>
     <string name="cs_func_toast_pickup">Vaihda videopuheluun, jotta voit käyttää tätä ominaisuutta</string>
@@ -1177,6 +1180,7 @@ Jotkin tapahtumistasi eivät kuitenkaan ole vielä suoritettuja. Jos haluat peru
     <string name="cs_tool_box_phone_guide_case_1">Kokeile simultaanitulkkausta ja muita ominaisuuksia uudessa puhelutyökalupakissa</string>
     <string name="cs_tool_box_phone_guide_case_2">Kokeile erilaisia ​​ominaisuuksia uudessa puhelutyökalupakissa</string>
     <string name="cs_voice_print">Nauhoita äänitulostus</string>
+    <string name="cs_voice_search">Äänitulostus</string>
     <string name="cs_vt_camera_toast_case1">Avaa kamera nykyisessä sovelluksessa</string>
     <string name="cs_vt_camera_toast_case2">Ei yhteensopivia laitteita lähellä</string>
     <string name="cta_agree_desc">Käyttääkseen palveluitamme, anna tämän sovelluksen muodostaa yhteys Internettiin ja myöntää yllä lueteltut käyttöoikeudet.</string>
@@ -1267,10 +1271,26 @@ Jotkin tapahtumistasi eivät kuitenkaan ole vielä suoritettuja. Jos haluat peru
     <string name="descx_quick_scan_preparation">Hetki vain…</string>
     <string name="detail_app_button">Sovellustiedot</string>
     <string name="details_subtitle">Käyttötiedot</string>
+    <string name="device_id">Laitteen tunnus yksilöllisille suosituksille</string>
+    <string name="device_id_app_manager_dialog_continue">Älä lopeta</string>
+    <string name="device_id_app_manager_dialog_message">Olet sallinut joidenkin sovellusten seurata toimintaasi. Voit lopettaa seurannan nyt.</string>
+    <string name="device_id_app_manager_dialog_stop">Lopeta</string>
+    <string name="device_id_app_manager_switch_sub_title">Kun tämä ominaisuus on pois päältä, kaikki uudet seurantapyynnöt hylätään automaattisesti</string>
+    <string name="device_id_app_manager_switch_title">Salli sovellusten pyytää seurantaa</string>
+    <string name="device_id_app_manager_tips">Sovellukset voivat seurata toimintaasi eri sovelluksissa ja verkkosivustoilla käyttämällä seurantatunnisteita tarjotakseen räätälöityjä mainossuosituksia ja muita ominaisuuksia.</string>
+    <string name="device_id_app_manager_title">Hallinnoi sovellusten seurantaa</string>
+    <string name="device_id_manager_tips">Järjestelmä tarjoaa sovelluksille nollattavissa olevat seurantatunnisteet (OAID) laitetunnisteiden sijaan yksityisyytesi suojaamiseksi</string>
+    <string name="device_id_manager_title">Hallinnoi seurantatunnistetta</string>
+    <string name="device_id_reset">Nollaa seurantatunniste</string>
+    <string name="device_id_reset_msg">Nollauksen jälkeen tähän laitteeseen liitetään uusi tunniste.</string>
+    <string name="device_id_str">Nykyinen seurantatunnus: %s</string>
     <string name="device_manager_apply_step_1">Aktivoi laitteen ylläpitäjä tälle sovellukselle?</string>
     <string name="device_manager_apply_step_2">"Laitteen ylläpitäjän aktivoiminen tälle sovellukselle voi aiheuttaa henkilötietojesi paljastumisvaaran.
 Kaikki laitteellasi olevat tiedot voidaan poistaa ja lukitusnäytön salasana vaihtaa."</string>
     <string name="device_manager_apply_step_3">Varmista, että ymmärrät kaikki mahdolliset riskit ennen kuin jatkat Aktivoidaanko laitteen ylläpitäjä tälle sovellukselle nyt?</string>
+    <string name="device_oaid">Hallinnoi virtuaalista tunnusta</string>
+    <string name="device_oaid_desc">Ainutlaatuisen tunnisteesi sijaan järjestelmä toimittaa virtuaalitunnuksen (OAID) asennetuille sovelluksille. Se estää sovelluksia seuraamasta käyttäytymistäsi ja mieltymyksiäsi sekä suojaa yksityisyyttäsi.</string>
+    <string name="device_oaid_title">Virtuaalitunnus</string>
     <string name="dialog_app_roaming_message">%1$s ei voi käyttää mobiilidataa verkkovierailun aikana. Kun olet verkkovierailussa, vain sovellukset, joille olet lisännyt poikkeuksiin, voivat käyttää mobiilidataa.</string>
     <string name="dialog_app_roaming_title">%1$s ei voi käyttää dataa verkkovierailussa</string>
     <string name="dialog_change_package_type_summary">Datasuunnitelman tyypin vaihtaminen asettaa kaikki datakäytön asetukset (esim. datakäytön rajat) oletusasetuksiin. Vaihda datasuunnitelman tyyppi nyt?</string>
@@ -1408,12 +1428,12 @@ Se lisätään poikkeuksiin, mutta aiemmin estetyt kohteet eivät näy puheluhis
     <string name="exit">Poistu</string>
     <string name="exit_dialog_exit">Poistu</string>
     <string name="exit_dialog_garbage_clean_message">Laitteellasi olevien roskien määrä on yli %s. Puhdista nyt?</string>
-    <string name="exit_dialog_garbage_clean_message_new">&lt;Data>Puhdistaja voi vapauttaa &lt;font color=#0099ff>%s&lt;/font> tallennustilaa. Puhdistetaanko nyt?&lt;/Data></string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>Puhdistaja voi vapauttaa &lt;font color=#0099ff>%s&lt;/font> tallennustilaa. Puhdistetaanko nyt?</Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">Puhdista</string>
     <string name="exit_dialog_garbage_clean_title">Vapauta tallennustilaa</string>
     <string name="exit_dialog_homepage_optimise_message">Laitteesi suorituskykypisteytys on alle 80. Optimoi nyt?</string>
     <string name="exit_dialog_release_memory_positive_button">Sulje</string>
-    <string name="exit_dialog_release_memory_title_new">&lt;Data>Nopeuta laitettasi &lt;font color=#0099ff>%s&lt;/font> verran&lt;/Data></string>
+    <string name="exit_dialog_release_memory_title_new"><Data>Nopeuta laitettasi &lt;font color=#0099ff>%s&lt;/font> verran</Data></string>
     <string name="exit_dialog_release_storage_message">Yli 80% laitteesi tallennustilasta on varattu. Vapauta tilaa poistamalla sovelluksia, joita et koskaan käytä.</string>
     <string name="exit_dialog_release_storage_message_new">Yli %s laitteesi tallennustilasta on varattu. Vapauta tilaa poistamalla sovelluksia, joita et koskaan käytä.</string>
     <string name="exit_dialog_release_storage_positive_button">Vapauta tilaa</string>
@@ -1730,7 +1750,7 @@ Se lisätään poikkeuksiin, mutta aiemmin estetyt kohteet eivät näy puheluhis
     <string name="game_wid_viewpoint_buttom">Pidä pieni paussi.</string>
     <string name="gamebooster_confirm_dialog_negative_btn">Älä hyväksy</string>
     <string name="gamebooster_confirm_dialog_positive_btn">Hyväksy</string>
-    <string name="gamebooster_confirm_dialog_tip">&lt;Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Privacy Policy&lt;/a>&lt;/Data></string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Privacy Policy&lt;/a></Data></string>
     <string name="gamebooster_confirm_dialog_title">Hyväksy meidän tietosuojakäytäntö</string>
     <string name="gamebooster_dialog_recover">Uusi</string>
     <string name="gamebooster_dialog_start_booster">Aloita</string>
@@ -1859,8 +1879,8 @@ Se lisätään poikkeuksiin, mutta aiemmin estetyt kohteet eivät näy puheluhis
     <string name="gb_audition_play_instruction">Käytä kuulokkeita parhaan vaikutuksen saamiseksi</string>
     <string name="gb_award_noti_message">Ota Game for Peace -taustapäivitykset käyttöön Game Turbossa saadaksesi palkintoja</string>
     <string name="gb_award_noti_title">Game for Peace -palkinnot ovat täällä!</string>
-    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>Ei voi vaihtaa Tasapainotettuun tilaan Game Turbossa, kun järjestelmälaajuinen Ääritila on päällä. Voit muuttaa akun asetuksia Tietoturvassa.&lt;br>&lt;a href=\"#\">Avaa Tietoturva&lt;/a>&lt;/Data></string>
-    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>Ei voi vaihtaa Tasapainotettuun tilaan Game Turbossa, kun järjestelmälaajuinen Ääritila on päällä. Voit muuttaa akun asetuksia Tietoturvassa.&lt;br>&lt;a href=\"#\">Avaa Tietoturva&lt;/a>&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>Ei voi vaihtaa Tasapainotettuun tilaan Game Turbossa, kun järjestelmälaajuinen Ääritila on päällä. Voit muuttaa akun asetuksia Tietoturvassa.&lt;br>&lt;a href=\"#\">Avaa Tietoturva&lt;/a></Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>Ei voi vaihtaa Tasapainotettuun tilaan Game Turbossa, kun järjestelmälaajuinen Ääritila on päällä. Voit muuttaa akun asetuksia Tietoturvassa.&lt;br>&lt;a href=\"#\">Avaa Tietoturva&lt;/a></Data></string>
     <string name="gb_bar_high">Korkea</string>
     <string name="gb_bar_low">Matala</string>
     <string name="gb_bar_mid">Keskitaso</string>
@@ -1988,7 +2008,7 @@ Tallenna sekvenssit ja käytä niitä milloin tahansa!"</string>
     <string name="gb_new_feature">Uusi ominaisuus</string>
     <string name="gb_not_support_on_device">"This app can't be used on the outer screen"</string>
     <string name="gb_operat_frequently">Ei niin nopeasti!</string>
-    <string name="gb_performace_guide_disable_desc">&lt;Data>Ei voi vaihtaa Tasapainotettuun tilaan Game Turbossa, kun järjestelmälaajuinen suorituskykytila on päällä. Voit muuttaa akun asetuksia Tietoturvassa.&lt;br>&lt;a href=\"#\">Avaa Tietoturva&lt;/a>&lt;/Data></string>
+    <string name="gb_performace_guide_disable_desc"><Data>Ei voi vaihtaa Tasapainotettuun tilaan Game Turbossa, kun järjestelmälaajuinen suorituskykytila on päällä. Voit muuttaa akun asetuksia Tietoturvassa.&lt;br>&lt;a href=\"#\">Avaa Tietoturva&lt;/a></Data></string>
     <string name="gb_performace_switch_toast">Vaihdettu suorituskykytilaan. Laitteesi saattaa lämmetä ja kuluttaa enemmän virtaa.</string>
     <string name="gb_performace_tips_button">Vaihda</string>
     <string name="gb_performace_tips_title">Vaihda suorituskykytilaan saadaksesi paremman kokemuksen</string>
@@ -2005,7 +2025,7 @@ mutta lisää myös virrankulutusta ja mahdollistaa laitteen ylikuumenemisen"</s
     <string name="gb_predownload_dialog_cancel">Ei kiitos</string>
     <string name="gb_predownload_dialog_checked">Älä näytä uudelleen</string>
     <string name="gb_predownload_dialog_confirm">Ota käyttöön</string>
-    <string name="gb_predownload_dialog_message_china">&lt;Data>Tämän pelin päivitetty sisältö voidaan ladata tähän laitteeseen automaattisesti, kun muodostat yhteyden WLAN-verkkoon ja sammutat näytön. Näin ollen voit käyttää uutta versiota heti, kun se on julkaistu.&lt;br>&lt;br>Lue ja hyväksy &lt;a href=\"%1$s\">taustapäivityksiä koskeva lausunto&lt;/a> ennen tämän ominaisuuden käyttöä.&lt;/Data></string>
+    <string name="gb_predownload_dialog_message_china"><Data>Tämän pelin päivitetty sisältö voidaan ladata tähän laitteeseen automaattisesti, kun muodostat yhteyden WLAN-verkkoon ja sammutat näytön. Näin ollen voit käyttää uutta versiota heti, kun se on julkaistu.&lt;br>&lt;br>Lue ja hyväksy &lt;a href=\"%1$s\">taustapäivityksiä koskeva lausunto&lt;/a> ennen tämän ominaisuuden käyttöä.</Data></string>
     <string name="gb_predownload_dialog_title">Taustapäivitykset ovat nyt saatavilla</string>
     <string name="gb_predownload_message_new">Päivitä yhteensopivat pelit automaattisesti, kun et käytä laitetta</string>
     <string name="gb_predownload_noti_message">%2$1.2f Gt päivitettyä sisältöä on jo tällä laitteella. Voit käyttää sitä heti, kun uusi versio on julkaistu.</string>
@@ -2182,7 +2202,7 @@ tärkeimmät hetket"</string>
     <string name="gd_sidebar_edit_quick_title">Pikavalinnat</string>
     <string name="gd_sidebar_long_press_tips">Pidä ilmaisinta painettuna liikuttaaksesi sitä samalla, kun pidät laitetta pystyasennossa</string>
     <string name="gd_splite_screen_tips">Jaettu näyttö ei tue kelluvia ikkunoita</string>
-    <string name="gdpr_msg">&lt;Data>Jotta voimme havaita tietoturvariskit ja suojata tietojasi, meidän on kerättävä tarvittava määrä tietoja laitteestasi. Lue ja hyväksy meidän &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Tietosuojakäytäntö&lt;/a> ennen palveluiden käyttämistä. Jos et anna meidän kerätä tällaisia tietoja, voit silti käyttää tätä sovellusta, mutta jotkut ominaisuudet eivät ole sinulle käytettävissä. &lt;/Data></string>
+    <string name="gdpr_msg"><Data>Jotta voimme havaita tietoturvariskit ja suojata tietojasi, meidän on kerättävä tarvittava määrä tietoja laitteestasi. Lue ja hyväksy meidän &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Tietosuojakäytäntö&lt;/a> ennen palveluiden käyttämistä. Jos et anna meidän kerätä tällaisia tietoja, voit silti käyttää tätä sovellusta, mutta jotkut ominaisuudet eivät ole sinulle käytettävissä. </Data></string>
     <string name="get_detail_by_click">Näytä tiedot napauttamalla</string>
     <string name="get_phone_num_fail">Tuntematon puhelinnumero</string>
     <string name="get_sys_info">Noudetaan tietoja…</string>
@@ -2289,11 +2309,11 @@ Pidä ilmaisinta painettuna siirtääksesi ikkunaa ympäriinsä."</string>
     <string name="gtb_dialog_btn_open">Käynnistä</string>
     <string name="gtb_dialog_hint_smart_5g">Voit kytkeä tämän ominaisuuden päälle ja pois kohdassa Game Turbo > Asetukset.</string>
     <string name="gtb_dialog_privacy_speed_message">Olet käyttämässä kohdetta Xunyou Game Booster. Tämä palvelu kerää Xiaomi-tilitunnuksesi tallentaaksesi jäsenyytesi keston.</string>
-    <string name="gtb_dialog_privacy_speed_tips">&lt;Data>Olen lukenut ja hyväksynyt Xunyou Game Booster -&lt;a href=\"%1$s\">tietosuojakäytännön.&lt;/a>&lt;/Data></string>
-    <string name="gtb_dialog_privacy_speed_tips_new">"&lt;Data>I've read and agreed to the Xunyou Game Booster &lt;a href=\"%1$s\">Privacy Policy&lt;/a>.&lt;/Data>"</string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>Olen lukenut ja hyväksynyt Xunyou Game Booster -&lt;a href=\"%1$s\">tietosuojakäytännön.&lt;/a></Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"I've read and agreed to the Xunyou Game Booster &lt;a href=\"%1$s\">Privacy Policy&lt;/a>."</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou Game Booster</string>
     <string name="gtb_dialog_privacy_voice_message">"You're about to use Xunyou Game Voice Changer. This service will collect your Xiaomi Account ID to record your membership duration."</string>
-    <string name="gtb_dialog_privacy_voice_tips">&lt;Data>Olen lukenut ja hyväksynyt Xunyou Game -äänenvaihtajan &lt;a href=\"%1$s\">tietosuojakäytännön.&lt;/a>&lt;/Data></string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>Olen lukenut ja hyväksynyt Xunyou Game -äänenvaihtajan &lt;a href=\"%1$s\">tietosuojakäytännön.&lt;/a></Data></string>
     <string name="gtb_dialog_privacy_voice_title">Xunyou Game -äänenvaihtaja</string>
     <string name="gtb_dialog_summary_smart_5g">Aina kun Game Turbo havaitsee 5G-verkon, se voi yhdistää laitteen parhaaseen käytettävissä olevaan verkkoon verkon viiveen vähentämiseksi. Ota tämä ominaisuus käyttöön nyt?</string>
     <string name="gtb_dialog_title_smart_5g">5G-verkon optimointi</string>
@@ -3061,9 +3081,12 @@ Kokeile käyttää toista Ethernet-kaapelia reitittimen liittämiseen. Jos epäi
     <string name="numeric_recording_intro_header">Anna salasana</string>
     <string name="numeric_retry_button_text">Peruuta</string>
     <string name="numeric_settings_help_how_to_record">Miten PIN-koodi asetetaan</string>
+    <string name="oaid_apps_summary">Salli tai rajoita yksittäisten sovellusten käyttöoikeuksia</string>
     <string name="oaid_apps_title">Hallinnoi virtuaalitunnusta</string>
     <string name="oaid_reset_content_tip">Jos poistat virtuaalitunnuksen käytöstä nyt, jotkut sovellukset saattavat lakata toimimasta kunnolla, osa sovellustiedoista saattaa kadota tai tulla käyttökelvottomiksi.</string>
     <string name="oaid_reset_final_tip">Poistetaanko virtuaalitunnus käytöstä?</string>
+    <string name="oaid_string">"Nykyinen virtuaalinen tunnus:
+%1s"</string>
     <string name="oaid_tips_content">Virtuaalitunnuksia (OAID) voidaan käyttää käyttäytymisen seuraamiseen ja mainosten mukauttamiseen puolestasi. Voit valita, mitkä sovellukset saavat käyttää virtuaalitunnustasi. Huomaa, että jos rajoitat pääsyä, mainossuositukset voivat olla merkityksettömiä tai sovellukset eivät välttämättä toimi normaalisti.</string>
     <string name="ok">OK</string>
     <string name="ok_button">OK</string>
@@ -3200,6 +3223,7 @@ Kokeile käyttää toista Ethernet-kaapelia reitittimen liittämiseen. Jos epäi
     <string name="pc_batery_protection">Akun suojaus</string>
     <string name="pc_battery_charge_protect">Lataussuojaus</string>
     <string name="pc_battery_chart_loading">Hetki vain…</string>
+    <string name="pc_battery_date_year_month_format">MMM yyyy</string>
     <string name="pc_battery_detail_curve_reference_now">Nyt</string>
     <string name="pc_battery_detail_device_item_title">Akunkäytön tilastot</string>
     <string name="pc_battery_health_revise_title">Kalibroi akun kuntotiedot</string>
@@ -3232,7 +3256,7 @@ Kokeile käyttää toista Ethernet-kaapelia reitittimen liittämiseen. Jos epäi
     <string name="pc_camera_printer_notify_subtitle">Yhdistetty</string>
     <string name="pc_camera_printer_title">Photo Printer Kit</string>
     <string name="pc_category_charge_settings">Latausasetukset</string>
-    <string name="pc_charge_mode_low_power_fast_speed">Alhainen jännite</string>
+    <string name="pc_charge_mode_low_power_fast_speed">Nopeuta</string>
     <string name="pc_charge_mode_low_power_fast_speed_tips">Laite saattaa kuumentua</string>
     <string name="pc_charge_mode_standard">Normaali</string>
     <string name="pc_charge_mode_topspeed">Huippunopeus</string>
@@ -3263,6 +3287,7 @@ Kokeile käyttää toista Ethernet-kaapelia reitittimen liittämiseen. Jos epäi
     <string name="pc_continuity_open_save_mode_notifi_sumary">Laitteen %1$s akku on alle %2$s. Ota Virransäästö käyttöön lisätäksesi %3$s %4$s.</string>
     <string name="pc_continuity_open_save_mode_notifi_title">Laitteen %s akku on vähissä</string>
     <string name="pc_current_power_mode">Nykyinen tila</string>
+    <string name="pc_cycle_count_protect_title">Syklit</string>
     <string name="pc_emergency_call">Hätä</string>
     <string name="pc_endurance_calculation">Lasketaan…</string>
     <string name="pc_entered_extreme_mode">Horrostila on käytössä</string>
@@ -3294,11 +3319,16 @@ Kokeile käyttää toista Ethernet-kaapelia reitittimen liittämiseen. Jos epäi
     <string name="pc_fast_charge_switch_toast_message">Muutokset otetaan käyttöön seuraavan kerran, kun lataat tätä laitetta</string>
     <string name="pc_fast_charge_temp_remider">Kytke virta säätämään latausnopeutta automaattisesti. Tämä ominaisuus toimii vain Xiaomin toimittamilla latureilla. Laitteesi saattaa kuumentua latauksen aikana.</string>
     <string name="pc_fast_charge_title">Nopeuta latausta</string>
+    <string name="pc_first_use_error_tips">Lasketaan</string>
+    <string name="pc_first_use_protect_title">Ensikäyttö</string>
     <string name="pc_going_to_exit_extreme_mode">Poistuminen horrostilasta</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Laitteesi latautuu. Horrostila on pois käytöstä.</string>
     <string name="pc_going_to_extreme_mode">Siirtyminen horrostilaan</string>
     <string name="pc_handle_battery_level">Kahva</string>
     <string name="pc_have_no_battery_issue">Ei ongelmia</string>
+    <string name="pc_health_charge_protect_notification_summary">Ota käyttöön akun suojaus estääksesi akun kulumista</string>
+    <string name="pc_health_charge_protect_summary">Akun käyttöiän pidentämiseksi laite lopettaa lataamisen, kun akun taso saavuttaa %1$s</string>
+    <string name="pc_health_charge_protect_title">Akun suojaus</string>
     <string name="pc_hide_more_power_rank_apps">Piilota</string>
     <string name="pc_hidemode_normal">Tasapainotettu</string>
     <string name="pc_hidemode_normal_title">Tasapainotettu</string>
@@ -3337,6 +3367,8 @@ ultravirransäästö"</string>
     <string name="pc_low_battery_fast_charge_summary">Liitä mukana toimitettuun laturiin nopeuttaaksesi latausta, kun näyttö on pois päältä ja akku on vähissä. Tämä ominaisuus voi saada laitteesi kuumenemaan.</string>
     <string name="pc_low_temp_charge_summary">Pidä laturi kytkettynä ja odota, että akku kuumenee, kun näyttö sammuu, jotta lataus alkaa normaalisti</string>
     <string name="pc_low_temp_charge_title">Lataus alhaisessa lämpötilassa</string>
+    <string name="pc_low_temperature_extreme_endurance_summary">Rajoita laitteen suorituskykyä akun käyttöiän pidentämiseksi, kun ympäröivä lämpötila on erittäin alhainen</string>
+    <string name="pc_low_temperature_extreme_endurance_title">Kylmänsietotila</string>
     <string name="pc_main_activity_back">Takaisin</string>
     <string name="pc_main_battery_text_day">Lisätty %1$smin, noin %2$spv jäljellä</string>
     <string name="pc_main_battery_text_day_hour">Lisätty %1$smin, noin %2$spv %3$st jäljellä</string>
@@ -3367,6 +3399,7 @@ ultravirransäästö"</string>
     <string name="pc_power_mode_has_berserk">Ultimate-tila on käytössä</string>
     <string name="pc_power_mode_has_performance">Suoritustila on käytössä</string>
     <string name="pc_power_save_settings_new">Virransäästöasetukset</string>
+    <string name="pc_production_date_protect_title">Valmistuspäivä</string>
     <string name="pc_remind_close_cover_to_charge_summary">Taita laite ennen lataamista nopeamman ja vakaamman latauskokemuksen saavuttamiseksi.</string>
     <string name="pc_remind_close_cover_to_charge_title">Taita ladataksesi</string>
     <string name="pc_reminder_always_protect_summary">Vaihda rajoitettuun lataukseen vähentääksesi akun ikääntymistä</string>
@@ -3412,6 +3445,8 @@ ultravirransäästö"</string>
     <string name="pc_wait_device_cools_down">Odota, kunnes laitteesi jäähtyy, jotta voit käyttää tätä ominaisuutta.</string>
     <string name="pc_wireless_charge_adjust_position_summary">Aseta se langattomaan laturiin</string>
     <string name="pc_wireless_charge_adjust_position_title">Lataa laitteesi nopeammin</string>
+    <string name="pc_wireless_charge_notification_summary">Langaton lataus on vähemmän energiatehokasta kuin langallinen lataus</string>
+    <string name="pc_wireless_charge_notification_title">Ladataan langattomasti</string>
     <string name="pc_wireless_charging_special_stand_summary1">Asenna laitteesi telineeseen, joka tuli langattoman laturin mukana</string>
     <string name="pc_wireless_charging_special_stand_summary2">Asenna laitteesi langattoman laturin mukana tulleeseen telineeseen parhaan lataustehon saavuttamiseksi</string>
     <string name="pc_wireless_charging_special_stand_title">Käytä mukana toimitettua lataustelinettä</string>
@@ -3554,6 +3589,7 @@ ultravirransäästö"</string>
     <string name="permission_instruction_write_contacts">Tämän luvan avulla sovellukset voivat lisätä, poistaa ja muokata yhteystietoja.</string>
     <string name="permission_instruction_write_settings">This permission allows apps to modify system settings. Malicious apps might use this permission temper with your system settings and affect the normal use of your device.</string>
     <string name="permission_legacy_storage">Käytä valokuvia, videoita, ääntä ja tiedostoja</string>
+    <string name="permission_oaid_desc">Saako %1$s seurata toimintaasi muissa sovelluksissa ja verkkosivustoilla?</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">Sovellukset eivät kysy lupaasi ennen yhteystietojen lukemista, puheluhistorian katsomista, järjestelmän asetuksien muuttamista tai pääsyä kameraan ja muihin laitteen resursseihin. Voit ottaa tämän toiminnon käyttöön Käyttöoikeudet-asetuksista.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Käyttöoikeuksien hallinta</string>
     <string name="permission_precise_location">Tarkka sijainti</string>
@@ -3675,8 +3711,8 @@ ultravirransäästö"</string>
     <string name="power_center_night_charge_protection_setting">Näytä lisää vaihtoehtoja kohdassa Tietoturva > Akku.</string>
     <string name="power_center_night_charge_protection_summary">Akun ikääntymisen vähentämiseksi laitteesi oppii päivittäisestä latausrutiinistasi tarpeettoman jatkuvan latauksen vähentämiseksi</string>
     <string name="power_center_one_key_save">Optimoi</string>
-    <string name="power_center_ontime_boot">Virta päällä</string>
-    <string name="power_center_ontime_shutdown">Virta pois päältä</string>
+    <string name="power_center_ontime_boot">Virta päällä ajoitettu</string>
+    <string name="power_center_ontime_shutdown">Virta pois ajoitettu</string>
     <string name="power_center_optimize_title">Ehdotukset</string>
     <string name="power_center_power_save_summary_text">Pidentää jäljellä olevaa kestoa jopa %1$dt %2$dmin</string>
     <string name="power_center_power_save_title_text">Virransäästö</string>
@@ -3737,8 +3773,8 @@ ultravirransäästö"</string>
     <string name="power_center_surface_temp_low">Kylmä</string>
     <string name="power_center_surface_temp_lower">Viileä</string>
     <string name="power_center_surface_temp_normal">Normaali</string>
-    <string name="power_center_time_to_boot">Virta päällä</string>
-    <string name="power_center_time_to_shutdown">Virta pois päältä</string>
+    <string name="power_center_time_to_boot">Aika</string>
+    <string name="power_center_time_to_shutdown">Aika</string>
     <string name="power_center_title">Akku</string>
     <string name="power_center_unoffical_battery_button">Etsi valtuutettu palveluntarjoaja</string>
     <string name="power_center_unoffical_battery_dialog">Luvattoman akun varoitus</string>
@@ -4055,8 +4091,8 @@ ultravirransäästö"</string>
     <string name="privacy_dialog_camera_message">Yksityisyyden suojaamiseksi järjestelmä ei salli sovellusten käyttää kameraasi taustalla.</string>
     <string name="privacy_dialog_camera_title">Rajoita taustakameran käyttöä</string>
     <string name="privacy_dialog_content_part1">Tervetuloa Tietoturvaan! Tämä sovellus tarkistaa laitteesi roskien ja virusten varalta sekä antaa sinun hallita sovelluksia, hallita mobiilidatan käyttöä, estää puheluita ja viestejä ja paljon muuta.</string>
-    <string name="privacy_dialog_content_part2">&lt;Data>Tietoturvan on kerättävä tarvittavat henkilökohtaiset tiedot tarjotakseen sinulle palvelujaan ja voidakseen parantaa ominaisuuksiaan. Voit tutustua siihen, miten käsittelemme keräämiämme tietoja &lt;a href=\"%1$s\">tietosuojakäytännöstä&lt;/a>. Voit milloin tahansa peruuttaa suostumuksesi Tietoturva-tietosuojakäytäntöön kohdassa Asetukset.&lt;/Data></string>
-    <string name="privacy_dialog_content_part3">&lt;Data>Lue ja hyväksy meidän &lt;a href=\"%2$s\">Käyttäjäsopimus&lt;/a> ja &lt;a href=\"%1$s\">Tietosuojakäytäntö&lt;/a> ennen Tietoturvan käyttöä. Jos et suostu käyttämään edellä mainittuja palveluita, et voi käyttää joitain tämän sovelluksen ominaisuuksia. Sen perustoiminnot ovat kuitenkin edelleen käytettävissäsi.&lt;/Data></string>
+    <string name="privacy_dialog_content_part2"><Data>Tietoturvan on kerättävä tarvittavat henkilökohtaiset tiedot tarjotakseen sinulle palvelujaan ja voidakseen parantaa ominaisuuksiaan. Voit tutustua siihen, miten käsittelemme keräämiämme tietoja &lt;a href=\"%1$s\">tietosuojakäytännöstä&lt;/a>. Voit milloin tahansa peruuttaa suostumuksesi Tietoturva-tietosuojakäytäntöön kohdassa Asetukset.</Data></string>
+    <string name="privacy_dialog_content_part3"><Data>Lue ja hyväksy meidän &lt;a href=\"%2$s\">Käyttäjäsopimus&lt;/a> ja &lt;a href=\"%1$s\">Tietosuojakäytäntö&lt;/a> ennen Tietoturvan käyttöä. Jos et suostu käyttämään edellä mainittuja palveluita, et voi käyttää joitain tämän sovelluksen ominaisuuksia. Sen perustoiminnot ovat kuitenkin edelleen käytettävissäsi.</Data></string>
     <string name="privacy_dialog_danger_mission_message">Androidilla on useita suuren riskin käyttöoikeuksia (esim. lupa lähettää sinulle push-ilmoituksia). Yksityisyyden suojaamiseksi järjestelmä kysyy, sallitaanko tällainen käyttäytyminen, ja antaa rajoitusvaihtoehtoja.</string>
     <string name="privacy_dialog_danger_mission_title">Suuren riskin käyttöoikeudet</string>
     <string name="privacy_dialog_feedback">Palaute</string>
@@ -4162,7 +4198,7 @@ Peruutetaanko suostumus nyt?"</string>
     <string name="privacy_revoke_dialog_title_cn">Huomio</string>
     <string name="privacy_revoke_failed_dialog_content">Tapahtui palvelinvirhe. Odota pari minuuttia ja yritä uudelleen.</string>
     <string name="privacy_revoke_failed_dialog_title">Suostumusta ei voitu peruuttaa</string>
-    <string name="privacy_revoke_tip_dialog_content">&lt;Data>Et voi jatkaa kohteen %1$s käyttöä, ellet hyväksy sen tietosuojakäytännön uutta versiota. Hyväksytkö päivitetyn %2$s-&lt;a href=\"%3$s\">tietosuojakäytännön&lt;/a> nyt?&lt;/Data></string>
+    <string name="privacy_revoke_tip_dialog_content"><Data>Et voi jatkaa kohteen %1$s käyttöä, ellet hyväksy sen tietosuojakäytännön uutta versiota. Hyväksytkö päivitetyn %2$s-&lt;a href=\"%3$s\">tietosuojakäytännön&lt;/a> nyt?</Data></string>
     <string name="privacy_revoke_tip_dialog_title">Sovellusta ei voi käyttää</string>
     <string name="privacy_revoke_title">Suostumuksen peruuttaminen</string>
     <string name="privacy_risk_app">Riskialttiita sovelluksia</string>
@@ -4265,7 +4301,7 @@ Peruutetaanko suostumus nyt?"</string>
     <string name="privacy_thumbnail_shield_top_tip">Peitä sovellusten esikatselut Viimeaikaisissa</string>
     <string name="privacy_type_open">Päällä</string>
     <string name="privacy_update_dialog_content_1">%s Tietosuojakäytäntö päivitettiin:</string>
-    <string name="privacy_update_dialog_content_2">&lt;Data>Lue ja hyväksy uusi versio &lt;a href=\"%1$s\">Tietosuojakäytännöstä&lt;/a> ennen kuin jatkat.&lt;/Data></string>
+    <string name="privacy_update_dialog_content_2"><Data>Lue ja hyväksy uusi versio &lt;a href=\"%1$s\">Tietosuojakäytännöstä&lt;/a> ennen kuin jatkat.</Data></string>
     <string name="privacy_update_dialog_title">Päivitetty tietosuojakäytäntö</string>
     <string name="privacy_using_camera">Kameran käyttäminen</string>
     <string name="privacy_using_location">Sijainnin käyttäminen</string>
@@ -4347,6 +4383,16 @@ Peruutetaanko suostumus nyt?"</string>
     <string name="reset_data_dialog_message">Tätä laitetta ei ole liitetty Xiaomi-tiliisi. Salasanaa ei voida nollata tai palauttaa. Varmuuskopioi tärkeät kohteet ja suorita tehdasasetusten palautus. Kaikki tiedot tullaan pysyvästi poistamaan, ja SD-korttisi alustetaan tehdasasetusten palautuksen yhteydessä.</string>
     <string name="reset_data_dialog_ok">Tehdasasetusten palautus</string>
     <string name="reset_data_title">Salasanaa ei voida palauttaa</string>
+    <string name="restore_device_id_content">Yksilölliset suositukset nollataan</string>
+    <string name="restore_device_id_title">Nollaa laitteen tunnus</string>
+    <string name="restore_dialog_content">Nykyisen laitteesi tunnuksen nollaaminen koskee myös yksilöllisiä suosituksia. Nollataanko nyt?</string>
+    <string name="restore_dialog_positive">Nollaa</string>
+    <string name="restore_dialog_title">Huomio</string>
+    <string name="restore_oaid_content">Nollaa virtuaalinen tunnuksesi tyhjentääksesi käyttäytymis- ja mieltymystietueesi</string>
+    <string name="restore_oaid_dialog_content">Useat sovellukset käyttävät virtuaalitunnustasi. Jos nollaat sen nyt, osa sovellustiedoista saattaa kadota tai tulla käyttökelvottomaksi. Nollataanko virtuaalitunnus joka tapauksessa?</string>
+    <string name="restore_oaid_positive">Nollaa</string>
+    <string name="restore_oaid_positive_step">Nollaa (%1$d)</string>
+    <string name="restore_oaid_title">Nollaa virtuaalinen tunnus</string>
     <string name="result_autoscan_header">Maksujen seuranta</string>
     <string name="result_autoscan_info">Seuraa automaattisesti järjestelmän ympäristöä, kun maksusovellus käynnistetään</string>
     <string name="result_sms_header">Viestintäriskejä havaittu</string>
@@ -5005,6 +5051,9 @@ Alustaminen poistaa nykyisen sisällön kohteesta ^2. Sisällön menettämisen v
     <string name="superpower_dialog_button_ok">OK</string>
     <string name="superpower_dialog_massage">Ultravirransäästö rajoittaa valtaosa akkua kuluttavia ominaisuuksia ja alentaa laitteesi suorituskykyä salliakseen perustoiminnot (esim. puhelut, tekstiviestit ja verkkoon yhdistäminen) toimimaan mahdollisimman kauan. Otetaanko ultravirransäästö käyttöön?</string>
     <string name="superpower_dialog_title">Ultravirransäästö</string>
+    <string name="superpower_notification_low_temp_btn_txt">Ota käyttöön</string>
+    <string name="superpower_notification_low_temp_summary">Kylmänsietotila voi säästää enemmän akkua, kun ultravirransäästö on päällä ja ympäröivä lämpötila on erittäin alhainen</string>
+    <string name="superpower_notification_low_temp_title">Ota ultravirransäästö käyttöön?</string>
     <string name="superpower_notification_new_title_new">Akkua on jäljellä alle %s</string>
     <string name="superpower_notification_summary">Lataa laite tai ota ultravirransäästö käyttöön</string>
     <string name="superpower_notification_time_12">EEEE d. MMMM</string>
@@ -5012,6 +5061,7 @@ Alustaminen poistaa nykyisen sisällön kohteesta ^2. Sisällön menettämisen v
     <string name="superpower_notification_title_new">Akkua on jäljellä alle %s</string>
     <string name="superpower_progress_content">Otetaan ultravirransäästö käyttöön…</string>
     <string name="superpower_progress_left_time">%1$dt %2$dm</string>
+    <string name="superpower_progress_low_temp_content">Otetaan kylmänsietotilaa käyttöön…</string>
     <string name="superpower_progress_switch_home">Vaihdetaan tummaan teemaan</string>
     <string name="superpower_progress_title">Jäljellä oleva aika</string>
     <string name="superpower_progress_turndown_brightness">Vähennetään näytön kirkkautta</string>
@@ -5049,11 +5099,11 @@ Alustaminen poistaa nykyisen sisällön kohteesta ^2. Sisällön menettämisen v
     <string name="system_permission_declare_agree">Hyväksy</string>
     <string name="system_permission_declare_analytics_declare">Kutsumme sinut ilmoittautumaan käyttäjäkokemusohjelmaamme. Tämän sovelluksen on oltava yhteydessä Internettiin ja käytettävä seuraavia käyttöoikeuksia tai ominaisuuksia tilastojen keräämiseen parantaaksemme sinulle tarjoamiamme palveluita. Keräämme tietoja täällä vain tilastollisiin tarkoituksiin, emmekä voi tunnistaa sinua henkilökohtaisesti kerättyjen tietojen perusteella.</string>
     <string name="system_permission_declare_disagree">Älä hyväksy</string>
-    <string name="system_permission_declare_double_link">&lt;Data>Lue ja hyväksy meidän &lt;a href=\"%1$s\">Käyttäjäsopimus&lt;/a> ja &lt;a href=\"%2$s\">Tietosuojakäytäntö&lt;/a> ennen kuin jatkat.&lt;/Data></string>
+    <string name="system_permission_declare_double_link"><Data>Lue ja hyväksy meidän &lt;a href=\"%1$s\">Käyttäjäsopimus&lt;/a> ja &lt;a href=\"%2$s\">Tietosuojakäytäntö&lt;/a> ennen kuin jatkat.</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">Tervetuloa %1s-sovellukseen! Tämä sovellus antaa sinun käyttää seuraavaa ominaisuutta: %2s.</string>
-    <string name="system_permission_declare_meanwhile_double_link">&lt;Data>Lue ja hyväksy meidän &lt;a href=\"%1$s\">Käyttäjäsopimus&lt;/a> ja &lt;a href=\"%2$s\">Tietosuojakäytäntö&lt;/a> ennen kuin jatkat.&lt;/Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data>Lue ja hyväksy meidän &lt;a href=\"%1$s\">Tietosuojakäytäntö&lt;/a> ennen kuin jatkat.&lt;/Data></string>
-    <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data>Lue ja hyväksy meidän &lt;a href=\"%1$s\">Käyttäjäsopimus&lt;/a> ennen kuin jatkat.&lt;/Data></string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>Lue ja hyväksy meidän &lt;a href=\"%1$s\">Käyttäjäsopimus&lt;/a> ja &lt;a href=\"%2$s\">Tietosuojakäytäntö&lt;/a> ennen kuin jatkat.</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Lue ja hyväksy meidän &lt;a href=\"%1$s\">Tietosuojakäytäntö&lt;/a> ennen kuin jatkat.</Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>Lue ja hyväksy meidän &lt;a href=\"%1$s\">Käyttäjäsopimus&lt;/a> ennen kuin jatkat.</Data></string>
     <string name="system_permission_declare_no_say_no">Jos valitset olla myöntämättä vaadittuja käyttölupia tai et salli meidän kerätä ja käyttää tietojasi, tämä sovellus ei tule toimimaan normaalisti.</string>
     <string name="system_permission_declare_no_say_no_analytics">Jos et halua myöntää näitä käyttöoikeuksia, voit poistaa rekisteröinnin kohdassa Asetukset > Lisäasetukset > Tietosuoja > Käyttäjäkokemusohjelma.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">Jos valitset olla myöntämättä vaadittuja käyttölupia tai et salli meidän kerätä ja käyttää tietojasi, tämä sovellus ei tule toimimaan normaalisti.</string>
@@ -5061,13 +5111,13 @@ Alustaminen poistaa nykyisen sisällön kohteesta ^2. Sisällön menettämisen v
     <string name="system_permission_declare_privacy_declare">Tämän sovelluksen on oltava yhteydessä Internetiin ja se tarvitsee seuraavat oikeudet toimiakseen normaalisti:</string>
     <string name="system_permission_declare_privacy_no_network">Tämä sovellus tarvitsee seuraavat käyttöoikeudet voidakseen toimia normaalisti:</string>
     <string name="system_permission_declare_privacy_no_permission">Tämän sovelluksen on oltava yhteydessä Internettiin ja kerättävä tarvittavat henkilötiedot voidakseen toimia normaalisti.</string>
-    <string name="system_permission_declare_privacy_policy">&lt;Data>Lue ja hyväksy meidän &lt;a href=\"%1$s\">Tietosuojakäytäntö&lt;/a> ennen kuin jatkat.&lt;/Data></string>
+    <string name="system_permission_declare_privacy_policy"><Data>Lue ja hyväksy meidän &lt;a href=\"%1$s\">Tietosuojakäytäntö&lt;/a> ennen kuin jatkat.</Data></string>
     <string name="system_permission_declare_revoke_system">Voit poistua tästä sovelluksesta.</string>
     <string name="system_permission_declare_revoke_uninstallable">Voit uloskirjautua, poistaa tämän sovelluksen tai peruuttaa valtuutuksiasi kohteessa Tietoturva > Hallitse sovelluksia > Käyttöoikeudet > Käyttöoikeudet.</string>
     <string name="system_permission_declare_title">Huomio</string>
     <string name="system_permission_declare_use_network">Yhdistä verkkoon</string>
     <string name="system_permission_declare_use_network_no_permission">Yhdistä verkkoon</string>
-    <string name="system_permission_declare_user_agreement">&lt;Data>Lue ja hyväksy meidän &lt;a href=\"%1$s\">Käyttäjäsopimus&lt;/a> ennen kuin jatkat.&lt;/Data></string>
+    <string name="system_permission_declare_user_agreement"><Data>Lue ja hyväksy meidän &lt;a href=\"%1$s\">Käyttäjäsopimus&lt;/a> ennen kuin jatkat.</Data></string>
     <string name="system_permission_perm_answer_call">Soita puheluita</string>
     <string name="system_permission_perm_optional">" (valinnainen)"</string>
     <string name="system_permission_perm_read_mms">Lue multimediaviesti</string>
@@ -5453,8 +5503,7 @@ Jäljellä oleva data sisältää datan, joka jäi viime kuukaudeltä yli."</str
     <string name="vb_fps_settings_tips">Tämä ominaisuus säätää näytön virkistystaajuuden videon kehysnopeuteen, mikä säästää akkua ja tekee toistosta sujuvaa. Kelluvien kommenttien ottaminen käyttöön poistaa automaattisen virkistystaajuuden.</string>
     <string name="vb_immerse_voice">Mukaansatempaava ääni</string>
     <string name="vb_movie_mode">Teatteritila</string>
-    <string name="vb_movie_power_hint">"Teatteritila tarjoaa mukaansatempaavan katselukokemuksen.
-Laitteesi saattaa lämmetä ja kuluttaa enemmän virtaa."</string>
+    <string name="vb_movie_power_hint">Teatteritila tarjoaa mukaansatempaavan katselukokemuksen. Laitteesi saattaa lämmetä ja kuluttaa enemmän virtaa.</string>
     <string name="vb_movie_subtitle">Vaatii korkeaa suorituskykyä</string>
     <string name="vb_mv_style_close_toast">Tyyli on pois päältä</string>
     <string name="vb_power_performance_mode_conflict_toast">Tätä ominaisuutta ei voi käyttää, kun suorituskykytila on päällä</string>

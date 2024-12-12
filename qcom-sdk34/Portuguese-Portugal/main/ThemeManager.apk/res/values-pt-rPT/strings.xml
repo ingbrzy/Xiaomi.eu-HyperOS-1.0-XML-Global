@@ -87,12 +87,15 @@
     <string name="apply_success_not_enable_aod">Ligue o Ecrã sempre ligado nas Definições primeiro</string>
     <string name="apply_theme_with_ringtones">Utilizar toques do tema</string>
     <string name="apply_wallpaper_after_three_theme">Está a utilizar um tema de terceiros no momento. Se alterar o seu plano de fundo do ecrã de bloqueio, isto poderá fazer com que o estilo do relógio do Ecrã de bloqueio seja restaurado para o predefinido. Aplicar agora?</string>
+    <string name="apply_wallpaper_dialog_title">Aplicar papel de parede</string>
     <string name="apply_wallpaper_notice">Atenção</string>
     <string name="apply_wallpaper_notice_cancel">Cancelar</string>
     <string name="apply_wallpaper_notice_content">O tema aplicado atualmente contém um módulo personalizado do Ecrã de bloqueio que pode impedir que faça ajustes relacionados ao Ecrã de bloqueio.</string>
     <string name="apply_wallpaper_notice_lockscreen">O seu tema atual possui um Ecrã de bloqueio personalizado. Nós o substituiremos com o Ecrã de bloqueio padrão se aplicar este papel de parede. Aplicar na mesma?</string>
     <string name="apply_wallpaper_notice_still_apply">Aplicar</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Está a utilizar um conjunto de papéis de parede agora. Se aplicar um novo tema, o papel de parede do Ecrã de bloqueio e do Ecrã inicial serao substituídos, e o Ecrã sempre ligado será reposto para o estilo anterior. Aplicar na mesma?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Está a utilizar um Super papel de parede no momento. Se selecionar um novo papel de parede, ele será aplicado tanto para o seu Ecrã inicial quanto para o Ecrã de bloqueio, e o Ecrã sempre ligado será restaurada para a definição anterior. Aplicar agora?</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">Está a utilizar um conjunto de papéis de parede agora. Se aplicar um novo tema, os papéis de parede do Ecrã de bloqueio e do Ecrã inicial serão substituídos. Aplicar na mesma?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Está a utilizar um Super papel de parede no momento. Se selecionar um novo papel de parede, ele será aplicado tanto para o seu Ecrã inicial quanto para o Ecrã de bloqueio. Aplicar agora?</string>
     <string name="aqi_format">IQA %s</string>
     <string name="aqi_format_desc">Índice de qualidade do ar: %s</string>
@@ -134,6 +137,7 @@
     <string name="card_no_network">Não foi possível ligar à rede. Verifique suas definições de rede e tente novamente.</string>
     <string name="card_retry">Tente novamente</string>
     <string name="carefully_chosen_wallpaper">Escolha dos editores</string>
+    <string name="carousel_no_set_wallpaper_effects">Não é possível selecionar efeitos quando o Carrossel de Papéis de parede está ligado</string>
     <string name="change_host_hint">Alterar host</string>
     <string name="change_wallpaper">Papel de parede</string>
     <string name="channel_featured_page">Destaque</string>
@@ -147,7 +151,12 @@
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
     <string name="columbus_ad_flag_text">Anúncio</string>
+    <string name="columbus_reward_style_access">Saiba mais</string>
+    <string name="columbus_reward_style_close_cancel">Sair</string>
+    <string name="columbus_reward_style_close_desc">Termine de assistir o vídeo para receber uma recompensa. Continuar a assistir?</string>
+    <string name="columbus_reward_style_speed_confirm">Continuar</string>
     <string name="columbus_skip_ad">Saltar</string>
+    <string name="columbus_skip_ad_time">Saltar (%d)</string>
     <string name="come_and_choose_wallpaper">Escolha entre milhares de papéis de parede incríveis</string>
     <string name="common_google_play_services_enable_button">Ativar</string>
     <string name="common_google_play_services_enable_text">O %1$s não funciona enquanto não ativar os serviços do Google Play.</string>
@@ -218,6 +227,8 @@
     <string name="early_morning">Manhã</string>
     <string name="editor_apply_message">"Esta funcionalidade é utilizada para depuração pelos designers. O tema predefinido será automaticamente definido por um momento. Caminho de ficheiro para o tema atual: "</string>
     <string name="editor_apply_toast">Selecione manualmente o temp.mtz no diretório raiz</string>
+    <string name="effect_home">Efeitos do Ecrã inicial</string>
+    <string name="effect_lock">Efeitos do Ecrã de bloqueio</string>
     <string name="empty" />
     <string name="enter_email_address_tips">Introduza um endereço de email</string>
     <string name="eras_ad">d.C</string>
@@ -422,6 +433,7 @@
     <string name="later">Agora não</string>
     <string name="latest_wallpaper">Novo</string>
     <string name="limit_discount">Oferta limitada</string>
+    <string name="linked_wallpaper">Conjuntos de papéis de parede</string>
     <string name="live_wallpaper">Animado</string>
     <string name="live_wallpapers">Papéis de parede animados</string>
     <string name="loading">Um momento…</string>
@@ -650,14 +662,18 @@ mm"</string>
     <string name="normal_temperature_format">%1$s°%2$s</string>
     <string name="not_prompt_again">Não voltar a mostrar</string>
     <string name="not_set">Não definido</string>
+    <string name="not_support_subtitle">Entre em contacto com o suporte de TI da sua organização ou troque de contas</string>
+    <string name="not_support_title">Não é possível utilizar Temas com um perfil de trabalho</string>
     <string name="notifications_permission_confirm">Permitir</string>
     <string name="notifications_permission_decline">Não permitir</string>
     <string name="notifications_permission_title">Permitir que a app lhe envie notificações?</string>
     <string name="notify_style">Efeito da notificação</string>
-    <string name="offline_notification_text">Toque para abrir o anúncio.</string>
-    <string name="offline_notification_title">Veja o anúncio que guardou quando estava offline</string>
+    <string name="offline_dialog_image_description">Ícone</string>
+    <string name="offline_dialog_text">"Agradecemos o seu interesse.
+Vamos partilhar mais informações quando estiver novamente online."</string>
+    <string name="offline_notification_title">Está novamente online! Continuemos a partir do ponto em que ficámos</string>
+    <string name="offline_notification_title_with_advertiser">Está novamente online! Continue a aprender sobre %s</string>
     <string name="offline_opt_in_confirm">OK</string>
-    <string name="offline_opt_in_confirmation">Receberá uma notificação com o link quando voltar a estar online.</string>
     <string name="offline_opt_in_decline">Não</string>
     <string name="offline_opt_in_message">Receberá uma notificação com um link para o site do anunciante.</string>
     <string name="offline_opt_in_title">Abra o anúncio quando voltar a estar online</string>
@@ -679,6 +695,7 @@ mm"</string>
     <string name="ota_theme_default_push_content">Não perca!</string>
     <string name="ota_theme_default_push_content2">Veja as nossas recomendações</string>
     <string name="ota_theme_default_push_title">Novos temas a caminho</string>
+    <string name="out_wallpaper_list">Papel de parede do ecrã externo</string>
     <string name="password_toggle_content_description">Mostrar palavra-passe</string>
     <string name="pause_all">Pausar tudo</string>
     <string name="pay_online">Pagamento online</string>
@@ -975,13 +992,12 @@ mm"</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
     <string name="scroll_switch">Deslizar para alternar entre itens</string>
-    <string name="sdcard_not_mounted_dialog_message">"Insira o cartão SD agora.
-"</string>
-    <string name="sdcard_not_mounted_dialog_title">Não foi detetado nenhum cartão SD</string>
     <string name="search_color">Cor</string>
     <string name="search_hint_header_text">Palavras populares</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="search_sort">Ordenar por</string>
+    <string name="search_update_guide_bubble">Novo</string>
+    <string name="search_update_guide_text">Aproveite as novas funcionalidades de pesquisa</string>
     <string name="select_all">Selecionar tudo</string>
     <string name="selected_resource_file_invalid">Não é possível utilizar o ficheiro de recurso selecionado</string>
     <string name="send">Enviar</string>
@@ -1035,12 +1051,14 @@ mm"</string>
     <string name="system_aod_dialog_message">Ligue o Ecrã sempre ligado para poder utilizar esta funcionalidade.</string>
     <string name="system_aod_dialog_positive_button">Definições</string>
     <string name="system_aod_dialog_title">Ecrã sempre ligado</string>
+    <string name="system_personalize_title">Personalização</string>
     <string name="system_phone">Chamadas</string>
     <string name="system_precust">Pré-instalados</string>
     <string name="text_billing_info">Informação de faturamento</string>
     <string name="text_cancel_subscription_service">Cancelar esta subscrição agora?</string>
     <string name="text_content_update">Novo conteúdo diariamente</string>
     <string name="text_free_trial">Testar gratuitamente</string>
+    <string name="text_local_push_check">Visualizar</string>
     <string name="text_pay_monthly" formatted="false">A partir de %s, renova automaticamente por %s/mês até ser cancelado</string>
     <string name="text_pay_weekly" formatted="false">A partir de %s, renova automaticamente por %s/semana até ser cancelado</string>
     <string name="text_pay_yearly" formatted="false">A partir de %s, renova automaticamente por %s/ano até ser cancelado</string>
