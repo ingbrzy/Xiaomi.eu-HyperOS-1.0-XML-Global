@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Додатки з цим дозволом мають доступ до всіх файлів на цьому пристрої</string>
+    <string name="role_dialer_request_description">Цей додаток отримає дозвіл надсилати вам сповіщення, а також йому буде надано дозволи \"Камера\", \"Контакти\", \"Мікрофон\", \"Телефон\" і \"SMS\"</string>
+    <string name="role_sms_request_description">Цей додаток отримає дозвіл надсилати вам сповіщення, а також йому буде надано дозволи \"Камера\", \"Контакти\", \"Файли\", \"Мікрофон\", \"Телефон\" і \"SMS\"</string>
+</resources>

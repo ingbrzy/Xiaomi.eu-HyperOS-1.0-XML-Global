@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">Autocompletar, controles de actividad y más</string>
+    <string name="advanced_privacy_title">Más parámetros de privacidad</string>
+    <string name="advanced_security_summary">Encriptación, credenciales y más</string>
+    <string name="advanced_security_title">Más parámetros de seguridad</string>
+    <string name="advanced_title">Más parámetros de configuración</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">Bloqueo de dispositivos</string>
+    <string name="lock_screen_summary_disabled">Aún no hay información</string>
+    <string name="lock_screen_title">Bloqueo de pantalla</string>
+    <string name="permission_manager_summary">Controla el acceso de las apps a tus datos</string>
+    <string name="permission_manager_title">Administrador de permisos</string>
+    <string name="permission_usage_summary">Muestra qué apps usaron permisos recientemente</string>
+    <string name="permission_usage_title">Panel de privacidad</string>
+    <string name="privacy_controls_summary">Controla el acceso del dispositivo al micrófono, la cámara y más</string>
+    <string name="privacy_controls_title">Controles de privacidad</string>
+    <string name="privacy_sources_summary">Panel, permisos, controles</string>
+    <string name="privacy_sources_title">Privacidad</string>
+    <string name="safetyCenterResourcesAppLabel">Recursos del Centro de seguridad</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">Automatikus kitöltés, tevékenységvezérlők és egyebek</string>
+    <string name="advanced_privacy_title">További adatvédelmi beállítások</string>
+    <string name="advanced_security_summary">Titkosítás, hitelesítési adatok és egyebek</string>
+    <string name="advanced_security_title">További biztonsági beállítások</string>
+    <string name="advanced_title">További beállítások</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">Eszközzár</string>
+    <string name="lock_screen_summary_disabled">Még nincsenek adatok</string>
+    <string name="lock_screen_title">Képernyőzár</string>
+    <string name="permission_manager_summary">Az adataihoz hozzáférő alkalmazások kezelése</string>
+    <string name="permission_manager_title">Engedélykezelő</string>
+    <string name="permission_usage_summary">Az engedélyeket a közelmúltban használó alkalmazások megjelenítése</string>
+    <string name="permission_usage_title">Adatvédelmi irányítópult</string>
+    <string name="privacy_controls_summary">Az eszköz mikrofonhoz, kamerához és egyebekhez való hozzáférésének vezérlése</string>
+    <string name="privacy_controls_title">Adatvédelmi beállítások</string>
+    <string name="privacy_sources_summary">Irányítópult, engedélyek, vezérlők</string>
+    <string name="privacy_sources_title">Adatvédelem</string>
+    <string name="safetyCenterResourcesAppLabel">Biztonsági központ erőforrásai</string>
+</resources>

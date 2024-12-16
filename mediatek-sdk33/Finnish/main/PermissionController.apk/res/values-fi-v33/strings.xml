@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Sovellukset, joilla on tämä lupa, saavat pääsyn kaikkiin laitteen tiedostoihin</string>
+    <string name="role_dialer_request_description">Sovellus saa luvan lähettää sinulle ilmoituksia ja pääsyn kameraan, yhteystietoihin, mikrofoniin, puhelimeen ja tekstiviesteihin</string>
+    <string name="role_sms_request_description">Sovellus saa luvan lähettää sinulle ilmoituksia ja pääsyn kameraan, yhteystietoihin, tiedostoihin, mikrofoniin, puhelimeen ja tekstiviesteihin</string>
+</resources>

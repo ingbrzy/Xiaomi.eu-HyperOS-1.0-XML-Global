@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Apps mit dieser Berechtigung dürfen auf alle Dateien auf diesem Gerät zugreifen</string>
+    <string name="role_dialer_request_description">Diese App erhält die Erlaubnis, dir Benachrichtigungen zu senden, und außerdem Zugriff auf Folgendes: Kamera, Kontakte, Mikrofon, Telefon und SMS</string>
+    <string name="role_sms_request_description">Diese App erhält die Erlaubnis, dir Benachrichtigungen zu senden, und außerdem Zugriff auf Folgendes: Kamera, Kontakte, Dateien, Mikrofon, Telefon und SMS</string>
+</resources>

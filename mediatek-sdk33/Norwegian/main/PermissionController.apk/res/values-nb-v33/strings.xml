@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Apper med denne tillatelsen kan bruke alle filer på denne enheten</string>
+    <string name="role_dialer_request_description">Denne appen får tillatelse til å sende deg varsler og får tilgang til kamera, kontakter, mikrofon, telefon og SMS</string>
+    <string name="role_sms_request_description">Denne appen får tillatelse til å sende deg varsler og kan bruke kamera, kontakter, filer, mikrofon, telefon og SMS</string>
+</resources>

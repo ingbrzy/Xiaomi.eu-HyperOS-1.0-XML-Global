@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">Avto doldurma, fəaliyyətə nəzarət və s.</string>
+    <string name="advanced_privacy_title">Digər məxfilik ayarları</string>
+    <string name="advanced_security_summary">Şifrələmə, giriş məlumatları və s.</string>
+    <string name="advanced_security_title">Digər güvənlik ayarları</string>
+    <string name="advanced_title">Digər ayarlar</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">Cihaz kilidi</string>
+    <string name="lock_screen_summary_disabled">Hələ ki, məlumat yoxdur</string>
+    <string name="lock_screen_title">Ekran kilidi</string>
+    <string name="permission_manager_summary">Tətbiqin datanıza girişinə nəzarət edin</string>
+    <string name="permission_manager_title">İcazə meneceri</string>
+    <string name="permission_usage_summary">Hansı tətbiqlərin bu yaxınlarda icazələri istifadə etdiyini göstərin</string>
+    <string name="permission_usage_title">Məxfilik paneli</string>
+    <string name="privacy_controls_summary">Mikrofona, kameraya və daha çoxuna cihaz girişini idarə edin</string>
+    <string name="privacy_controls_title">Məxfilik kontrolları</string>
+    <string name="privacy_sources_summary">İdarə paneli, icazələr, nəzarətlər</string>
+    <string name="privacy_sources_title">Məxfilik</string>
+    <string name="safetyCenterResourcesAppLabel">Təhlükəsizlik Mərkəzi Resursları</string>
+</resources>

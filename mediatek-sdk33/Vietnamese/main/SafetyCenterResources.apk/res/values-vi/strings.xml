@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">Các chế độ cài đặt tự động điền, kiểm soát hoạt động và nhiều chế độ khác</string>
+    <string name="advanced_privacy_title">Các chế độ cài đặt quyền riêng tư khác</string>
+    <string name="advanced_security_summary">Mã hoá, thông tin xác thực và các chế độ cài đặt khác</string>
+    <string name="advanced_security_title">Các chế độ cài đặt bảo mật khác</string>
+    <string name="advanced_title">Chế độ cài đặt khác</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">Khoá thiết bị</string>
+    <string name="lock_screen_summary_disabled">Chưa có thông tin</string>
+    <string name="lock_screen_title">Phương thức khoá màn hình</string>
+    <string name="permission_manager_summary">Kiểm soát quyền truy cập của ứng dụng vào dữ liệu</string>
+    <string name="permission_manager_title">Trình quản lý quyền</string>
+    <string name="permission_usage_summary">Cho biết ứng dụng nào sử dụng quyền trong thời gian gần đây</string>
+    <string name="permission_usage_title">Bảng tổng quan về quyền riêng tư</string>
+    <string name="privacy_controls_summary">Kiểm soát quyền truy cập của thiết bị vào micrô, máy ảnh và nhiều ứng dụng khác</string>
+    <string name="privacy_controls_title">Chế độ kiểm soát quyền riêng tư</string>
+    <string name="privacy_sources_summary">Trang tổng quan, quyền, quyền kiểm soát</string>
+    <string name="privacy_sources_title">Quyền riêng tư</string>
+    <string name="safetyCenterResourcesAppLabel">Tài nguyên của trung tâm an toàn</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Bu icazəsi olan tətbiqlər bu cihazdakı bütün fayllara giriş edə bilər</string>
+    <string name="role_dialer_request_description">Bu tətbiqə Sizə Bildirişlər göndərmək üçün icazə veriləcək və Kamera, Kontaktlar, Mikrofon, Telefon və SMS-ə giriş icazəsi veriləcək</string>
+    <string name="role_sms_request_description">"Bu tətbiqə Sizə Bildirişlər göndərmək üçün icazə veriləcək və Kamera, Kontaktlar, Fayllar, Mikrofon, Telefon və SMS'ə giriş icazəsi veriləcək"</string>
+</resources>

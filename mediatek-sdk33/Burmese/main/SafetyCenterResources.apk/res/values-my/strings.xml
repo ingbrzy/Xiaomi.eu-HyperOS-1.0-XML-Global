@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">အော်တိုဖြည့်၊ လုပ်ဆောင်ချက် ထိန်းချုပ်မှုများ စသည်</string>
+    <string name="advanced_privacy_title">နောက်ထပ် ကိုယ်ရေးအချက်အလက်လုံခြုံမှု ဆက်တင်များ</string>
+    <string name="advanced_security_summary">အသွင်ဝှက်ခြင်း၊ အထောက်အထားများ စသည်</string>
+    <string name="advanced_security_title">နောက်ထပ် လုံခြုံရေးဆက်တင်များ</string>
+    <string name="advanced_title">နောက်ထပ်ဆက်တင်များ</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">စက်ပစ္စည်းလော့ခ်ချခြင်း</string>
+    <string name="lock_screen_summary_disabled">အချက်အလက် မရှိသေးပါ</string>
+    <string name="lock_screen_title">ဖန်သားပြင်လော့ခ်</string>
+    <string name="permission_manager_summary">အက်ပ်၏ သင့်ဒေတာအသုံးပြုခွင့်ကို ထိန်းချုပ်သည်</string>
+    <string name="permission_manager_title">ခွင့်ပြုချက် မန်နေဂျာ</string>
+    <string name="permission_usage_summary">ခွင့်ပြုချက်များ မကြာသေးမီကသုံးထားသည့် အက်ပ်များကို ပြသည်</string>
+    <string name="permission_usage_title">ကိုယ်ရေးအချက်အလက်လုံခြုံမှု ဒက်ရှ်ဘုတ်</string>
+    <string name="privacy_controls_summary">မိုက်ခရိုဖုန်း၊ ကင်မရာ စသည်တို့ကို စက်ပစ္စည်းက ဝင်သုံးခွင့်အား ထိန်းချုပ်သည်</string>
+    <string name="privacy_controls_title">ကန့်သတ်ရန် ဆက်တင်များ</string>
+    <string name="privacy_sources_summary">ဒက်ရှ်ဘုတ်၊ ခွင့်ပြုချက်များ၊ သတ်မှတ်ချက်များ</string>
+    <string name="privacy_sources_title">ကန့်သတ်ဆက်တင်</string>
+    <string name="safetyCenterResourcesAppLabel">လုံခြုံရေးစင်တာ ရင်းမြစ်များ</string>
+</resources>

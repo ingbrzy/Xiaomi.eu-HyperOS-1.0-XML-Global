@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">Аўтазапаўненне, адсочванне дзеянняў і іншыя функцыі</string>
+    <string name="advanced_privacy_title">Іншыя налады прыватнасці</string>
+    <string name="advanced_security_summary">Шыфраванне, уліковыя даныя і іншыя звесткі</string>
+    <string name="advanced_security_title">Іншыя налады бяспекі</string>
+    <string name="advanced_title">Дадатковыя налады</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">Блакіроўка прылады</string>
+    <string name="lock_screen_summary_disabled">Пакуль няма інфармацыі</string>
+    <string name="lock_screen_title">Блакіроўка экрана</string>
+    <string name="permission_manager_summary">Кіраванне доступам праграм да вашых даных</string>
+    <string name="permission_manager_title">Менеджар дазволаў</string>
+    <string name="permission_usage_summary">Паказ праграм, якія нядаўна выкарыстоўвалі дазволы</string>
+    <string name="permission_usage_title">Панэль кіравання доступам</string>
+    <string name="privacy_controls_summary">Кіраванне доступам прылады да мікрафона, камеры і іншых функцый</string>
+    <string name="privacy_controls_title">Налады прыватнасці</string>
+    <string name="privacy_sources_summary">Панэль кіравання, дазволы, налады</string>
+    <string name="privacy_sources_title">Прыватнасць</string>
+    <string name="safetyCenterResourcesAppLabel">Рэсурсы Цэнтра бяспекі</string>
+</resources>

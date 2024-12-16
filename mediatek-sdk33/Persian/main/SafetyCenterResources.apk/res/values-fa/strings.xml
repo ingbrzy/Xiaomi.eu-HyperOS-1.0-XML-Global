@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">تکمیل خودکار، کنترل‌های فعالیت، و غیره</string>
+    <string name="advanced_privacy_title">تنظیمات حریم‌خصوصی بیشتر</string>
+    <string name="advanced_security_summary">رمزگذاری، اطلاعات کاربری، و غیره</string>
+    <string name="advanced_security_title">تنظیمات امنیتی بیشتر</string>
+    <string name="advanced_title">تنظیمات بیشتر</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">قفل دستگاه</string>
+    <string name="lock_screen_summary_disabled">هنوز اطلاعاتی دردسترس نیست</string>
+    <string name="lock_screen_title">قفل صفحه</string>
+    <string name="permission_manager_summary">کنترل دسترسی برنامه به داده‌های شما</string>
+    <string name="permission_manager_title">مدیر اجازه‌ها</string>
+    <string name="permission_usage_summary">نمایش برنامه‌هایی که اخیراً از اجازه‌ها استفاده کرده‌اند</string>
+    <string name="permission_usage_title">داشبورد حریم‌خصوصی</string>
+    <string name="privacy_controls_summary">کنترل دسترسی دستگاه به میکروفون، دوربین، و غیره</string>
+    <string name="privacy_controls_title">تنظیمات حریم‌خصوصی</string>
+    <string name="privacy_sources_summary">داشبورد، اجازه‌ها، کنترل‌ها</string>
+    <string name="privacy_sources_title">حریم‌خصوصی</string>
+    <string name="safetyCenterResourcesAppLabel">منابع مرکز ایمنی</string>
+</resources>

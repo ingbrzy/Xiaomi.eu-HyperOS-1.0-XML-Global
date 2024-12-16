@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Las aplicaciones que tienen este permiso pueden acceder a todos los archivos de este dispositivo</string>
+    <string name="role_dialer_request_description">Esta aplicación podrá enviarte notificaciones, y tendrá acceso a la cámara, a los contactos, al micrófono, al teléfono y a los SMS</string>
+    <string name="role_sms_request_description">Esta aplicación podrá enviarte notificaciones, y tendrá acceso a la cámara, a los contactos, a los archivos, al micrófono, al teléfono y a los SMS</string>
+</resources>

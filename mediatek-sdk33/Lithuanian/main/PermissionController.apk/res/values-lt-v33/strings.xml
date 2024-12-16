@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Programos, kurioms suteiktas šis leidimas, gali pasiekti visus failus šiame įrenginyje</string>
+    <string name="role_dialer_request_description">Šiai programai bus leista jums siųsti pranešimus ir suteikta prieiga prie Vaizdo kameros, Kontaktų, Mikrofono, Telefono ir SMS</string>
+    <string name="role_sms_request_description">Šiai programai bus leista jums siųsti pranešimus ir suteikta prieiga prie vaizdo kameros, Kontaktų, Failų, mikrofono, telefono ir SMS</string>
+</resources>

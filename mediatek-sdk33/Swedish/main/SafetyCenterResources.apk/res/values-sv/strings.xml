@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">Autofyll, aktivitetsinställningar med mera</string>
+    <string name="advanced_privacy_title">Fler integritetsinställningar</string>
+    <string name="advanced_security_summary">Kryptering, användaruppgifter med mera</string>
+    <string name="advanced_security_title">Fler säkerhetsinställningar</string>
+    <string name="advanced_title">Fler inställningar</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">Enhetslås</string>
+    <string name="lock_screen_summary_disabled">Ingen information än</string>
+    <string name="lock_screen_title">Skärmlås</string>
+    <string name="permission_manager_summary">Styr appåtkomst till din data</string>
+    <string name="permission_manager_title">Behörighetshantering</string>
+    <string name="permission_usage_summary">Visa vilka appar som nyligen har använt behörigheter</string>
+    <string name="permission_usage_title">Integritetsöversikt</string>
+    <string name="privacy_controls_summary">Styr enhetsåtkomst till mikrofon, kamera med mera</string>
+    <string name="privacy_controls_title">Integritetsinställningar</string>
+    <string name="privacy_sources_summary">Översikt, behörigheter, inställningar</string>
+    <string name="privacy_sources_title">Integritet</string>
+    <string name="safetyCenterResourcesAppLabel">Resurser i Säkerhetscenter</string>
+</resources>

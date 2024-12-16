@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Ứng dụng được cấp quyền này có thể truy cập tất cả các tệp trên thiết bị này</string>
+    <string name="role_dialer_request_description">Ứng dụng này sẽ được phép gửi Thông báo cũng như cấp quyền truy cập vào Máy ảnh, Danh bạ, Micrô, Điện thoại và tin nhắn SMS của bạn</string>
+    <string name="role_sms_request_description">Ứng dụng này sẽ được phép gửi Thông báo cũng như được cấp quyền truy cập vào Máy ảnh, Danh bạ, Tệp, Micrô, Điện thoại và tin nhắn SMS của bạn</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Aplikacije s tim dopuštenjem mogu pristupati svim datotekama na ovom uređaju</string>
+    <string name="role_dialer_request_description">Aplikacija će vam moći slati obavijesti i dobit će pristup vašoj kameri, kontaktima, mikrofonu, telefonu i SMS-ovima</string>
+    <string name="role_sms_request_description">Aplikacija će vam moći slati obavijesti i dobit će pristup vašoj kameri, kontaktima, datotekama, mikrofonu, telefonu i SMS-ovima</string>
+</resources>

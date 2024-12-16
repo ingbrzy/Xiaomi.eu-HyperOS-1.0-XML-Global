@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Приложения с этим разрешением могут получать доступ ко всем файлам на устройстве.</string>
+    <string name="role_dialer_request_description">Это приложение сможет отправлять вам уведомления. Ему будут предоставлены следующие разрешения: Камера, Контакты, Микрофон, Телефон и SMS.</string>
+    <string name="role_sms_request_description">Это приложение сможет отправлять вам уведомления и получит следующие разрешения: камера, контакты, файлы, микрофон, телефон и SMS.</string>
+</resources>

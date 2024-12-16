@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Apps med denne tilladelse har adgang til alle filer på denne enhed</string>
+    <string name="role_dialer_request_description">Denne app får tilladelse til at sende dig notifikationer og får adgang til Kamera, Kontakter, Mikrofon, Telefon, og Sms</string>
+    <string name="role_sms_request_description">Denne app får tilladelse til at sende dig notifikationer og får adgang til Kamera, Kontakter, Filer, Mikrofon, Telefon, og Sms</string>
+</resources>

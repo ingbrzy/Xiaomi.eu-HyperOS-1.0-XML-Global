@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Aplicațiile cu această permisiune pot accesa toate fișierele de pe dispozitiv</string>
+    <string name="role_dialer_request_description">Aplicația va putea să vă trimită notificări și va avea acces la Camera foto, Agendă, Microfon, Telefon și SMS</string>
+    <string name="role_sms_request_description">Aplicația va putea să vă trimită notificări și va avea acces la Camera foto, Agendă, Fișiere, Microfon, Telefon și SMS</string>
+</resources>

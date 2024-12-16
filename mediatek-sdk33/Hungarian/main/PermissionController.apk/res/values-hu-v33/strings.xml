@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Az ezzel az engedéllyel rendelkező alkalmazások hozzáférhetnek az ezen az eszközön lévő összes fájlhoz</string>
+    <string name="role_dialer_request_description">Az alkalmazás engedélyt kap értesítések küldésére, és hozzáférhet majd a következőkhöz: Kamera, Névjegyek, Mikrofon, Telefon és SMS.</string>
+    <string name="role_sms_request_description">Az alkalmazás engedélyt kap értesítések küldésére, és hozzáférhet majd a következőkhöz: Kamera, Címtár, Files, Mikrofon, Telefon és SMS.</string>
+</resources>
