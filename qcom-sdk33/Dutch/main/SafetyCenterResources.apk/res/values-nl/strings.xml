@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">Automatisch invullen, activiteitsopties en meer</string>
+    <string name="advanced_privacy_title">Meer privacyinstellingen</string>
+    <string name="advanced_security_summary">Versleuteling, inloggegevens en meer</string>
+    <string name="advanced_security_title">Meer beveiligingsinstellingen</string>
+    <string name="advanced_title">Meer instellingen</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">Apparaatvergrendeling</string>
+    <string name="lock_screen_summary_disabled">Nog geen informatie</string>
+    <string name="lock_screen_title">Schermvergrendeling</string>
+    <string name="permission_manager_summary">App-toegang tot je gegevens beheren</string>
+    <string name="permission_manager_title">Rechtenbeheer</string>
+    <string name="permission_usage_summary">Tonen welke apps onlangs rechten hebben gebruikt</string>
+    <string name="permission_usage_title">Privacydashboard</string>
+    <string name="privacy_controls_summary">Apparaattoegang tot de microfoon, camera en meer beheren</string>
+    <string name="privacy_controls_title">Privacyopties</string>
+    <string name="privacy_sources_summary">Dashboard, rechten, bedieningselementen</string>
+    <string name="privacy_sources_title">Privacy</string>
+    <string name="safetyCenterResourcesAppLabel">Bronnen voor Veiligheidscentrum</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">الملء التلقائي وعناصر التحكُّم في النشاط وغير ذلك</string>
+    <string name="advanced_privacy_title">المزيد من إعدادات الخصوصية</string>
+    <string name="advanced_security_summary">التشفير وبيانات الاعتماد وغير ذلك</string>
+    <string name="advanced_security_title">المزيد من إعدادات الأمان</string>
+    <string name="advanced_title">الإعدادات المتقدّمة</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">قفل الجهاز</string>
+    <string name="lock_screen_summary_disabled">ما مِن معلومات بعد.</string>
+    <string name="lock_screen_title">قفل الشاشة</string>
+    <string name="permission_manager_summary">التحكُّم في وصول التطبيقات إلى بياناتك</string>
+    <string name="permission_manager_title">مدير الأذونات</string>
+    <string name="permission_usage_summary">عرض التطبيقات التي استخدمت الأذونات مؤخرًا</string>
+    <string name="permission_usage_title">لوحة بيانات الخصوصية</string>
+    <string name="privacy_controls_summary">التحكُّم في وصول الجهاز إلى الميكروفون والكاميرا وغير ذلك</string>
+    <string name="privacy_controls_title">عناصر التحكّم في الخصوصية</string>
+    <string name="privacy_sources_summary">لوحة البيانات والأذونات وعناصر التحكّم</string>
+    <string name="privacy_sources_title">الخصوصية</string>
+    <string name="safetyCenterResourcesAppLabel">مَراجع مركز الأمان</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Appar med den här behörigheten får åtkomst till alla filer på enheten</string>
+    <string name="role_dialer_request_description">Appen får tillåtelse att skicka aviseringar och får åtkomst till behörigheterna Kamera, Kontakter, Mikrofon, Telefon och Sms</string>
+    <string name="role_sms_request_description">Appen får tillåtelse att skicka aviseringar och får åtkomst till behörigheterna Kamera, Kontakter, Filer, Mikrofon, Telefon och Sms</string>
+</resources>

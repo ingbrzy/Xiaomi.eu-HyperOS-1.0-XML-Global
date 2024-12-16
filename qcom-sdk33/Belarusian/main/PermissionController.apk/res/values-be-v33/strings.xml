@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Праграмы з такім дазволам могуць атрымліваць доступ да ўсіх файлаў на гэтай прыладзе</string>
+    <string name="role_dialer_request_description">Гэтай праграме будзе дазволена адпраўляць вам апавяшчэнні, і яна атрымае доступ да камеры, кантактаў, мікрафона, тэлефона і SMS</string>
+    <string name="role_sms_request_description">Гэтай праграме будзе дазволена адпраўляць вам апавяшчэнні, і яна атрымае доступ да камеры, кантактаў, файлаў, мікрафона, тэлефона і SMS</string>
+</resources>

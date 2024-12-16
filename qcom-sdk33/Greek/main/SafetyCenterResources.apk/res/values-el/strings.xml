@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">Αυτόματη συμπλήρωση, στοιχεία ελέγχου δραστηριότητας και περισσότερα</string>
+    <string name="advanced_privacy_title">Περισσότερες ρυθμίσεις απορρήτου</string>
+    <string name="advanced_security_summary">Κρυπτογράφηση, διαπιστευτήρια και περισσότερα</string>
+    <string name="advanced_security_title">Περισσότερες ρυθμίσεις ασφαλείας</string>
+    <string name="advanced_title">Περισσότερες ρυθμίσεις</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">Κλείδωμα συσκευής</string>
+    <string name="lock_screen_summary_disabled">Δεν υπάρχουν ακόμα πληροφορίες</string>
+    <string name="lock_screen_title">Κλείδωμα οθόνης</string>
+    <string name="permission_manager_summary">Έλεγχος πρόσβασης εφαρμογών στα δεδομένα</string>
+    <string name="permission_manager_title">Διαχείριση αδειών</string>
+    <string name="permission_usage_summary">Εμφάνιση των εφαρμογών που χρησιμοποίησαν πρόσφατα άδειες</string>
+    <string name="permission_usage_title">Πίνακας ελέγχου απορρήτου</string>
+    <string name="privacy_controls_summary">Ελέγξτε την πρόσβαση της συσκευής στο μικρόφωνο, την κάμερα και περισσότερα</string>
+    <string name="privacy_controls_title">Στοιχεία ελέγχου απορρήτου</string>
+    <string name="privacy_sources_summary">Πίνακας ελέγχου, άδειες, στοιχεία ελέγχου</string>
+    <string name="privacy_sources_title">Απόρρητο</string>
+    <string name="safetyCenterResourcesAppLabel">Πόροι Κέντρου ασφαλείας</string>
+</resources>

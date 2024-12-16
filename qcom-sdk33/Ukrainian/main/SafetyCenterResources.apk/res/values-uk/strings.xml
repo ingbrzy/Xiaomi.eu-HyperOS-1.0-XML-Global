@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">Автозаповнення, відстеження дій тощо</string>
+    <string name="advanced_privacy_title">Інші налаштування конфіденційності</string>
+    <string name="advanced_security_summary">Шифрування, облікові дані тощо</string>
+    <string name="advanced_security_title">Інші налаштування безпеки</string>
+    <string name="advanced_title">Інші налаштування</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">Блокування пристрою</string>
+    <string name="lock_screen_summary_disabled">Поки немає інформації</string>
+    <string name="lock_screen_title">Блокування екрана</string>
+    <string name="permission_manager_summary">Контролюйте доступ додатка до даних</string>
+    <string name="permission_manager_title">Диспетчер дозволів</string>
+    <string name="permission_usage_summary">Перегляньте, які додатки нещодавно використовували дозволи</string>
+    <string name="permission_usage_title">Панель керування дозволами</string>
+    <string name="privacy_controls_summary">Керуйте доступом пристроїв до мікрофона, камери тощо</string>
+    <string name="privacy_controls_title">Налаштування конфіденційності</string>
+    <string name="privacy_sources_summary">Панель керування, дозволи, параметри</string>
+    <string name="privacy_sources_title">Конфіденційність</string>
+    <string name="safetyCenterResourcesAppLabel">Ресурси Центру безпеки</string>
+</resources>

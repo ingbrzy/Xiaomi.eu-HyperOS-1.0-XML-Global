@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">Automatinis pildymas, veiklos valdikliai ir kt.</string>
+    <string name="advanced_privacy_title">Daugiau privatumo nustatymų</string>
+    <string name="advanced_security_summary">Šifruotė, prisijungimo duomenys ir kt.</string>
+    <string name="advanced_security_title">Daugiau saugos nustatymų</string>
+    <string name="advanced_title">Daugiau nustatymų</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">Įrenginių užraktai</string>
+    <string name="lock_screen_summary_disabled">Kol kas informacijos nėra</string>
+    <string name="lock_screen_title">Ekrano užraktas</string>
+    <string name="permission_manager_summary">Valdykite programų prieigą prie duomenų</string>
+    <string name="permission_manager_title">Leidimų tvarkytuvė</string>
+    <string name="permission_usage_summary">Rodyti, kurios programos neseniai naudojo leidimus</string>
+    <string name="permission_usage_title">Privatumo informacijos suvestinė</string>
+    <string name="privacy_controls_summary">Valdykite įrenginio prieigą prie mikrofono, kameros ir kt.</string>
+    <string name="privacy_controls_title">Privatumo valdikliai</string>
+    <string name="privacy_sources_summary">Informacijos suvestinė, leidimai, valdikliai</string>
+    <string name="privacy_sources_title">Privatumas</string>
+    <string name="safetyCenterResourcesAppLabel">Saugos centro šaltiniai</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">Автозаполнение, отслеживание действий и прочее</string>
+    <string name="advanced_privacy_title">Дополнительные настройки конфиденциальности</string>
+    <string name="advanced_security_summary">Шифрование, учетные данные и прочее</string>
+    <string name="advanced_security_title">Дополнительные настройки безопасности</string>
+    <string name="advanced_title">Дополнительные настройки</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">Блокировка устройства</string>
+    <string name="lock_screen_summary_disabled">Данных пока нет</string>
+    <string name="lock_screen_title">Блокировка экрана</string>
+    <string name="permission_manager_summary">Настройки доступа приложений к вашим данным</string>
+    <string name="permission_manager_title">Управление разрешениями</string>
+    <string name="permission_usage_summary">Посмотреть, какие приложения недавно использовали разрешения</string>
+    <string name="permission_usage_title">Панель управления разрешениями</string>
+    <string name="privacy_controls_summary">Настройки доступа к микрофону, камере и прочему</string>
+    <string name="privacy_controls_title">Настройки конфиденциальности</string>
+    <string name="privacy_sources_summary">Панель управления, параметры, разрешения</string>
+    <string name="privacy_sources_title">Конфиденциальность</string>
+    <string name="safetyCenterResourcesAppLabel">Ресурсы центра безопасности</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">Automatsko popunjavanje, kontrole aktivnosti i ostalo</string>
+    <string name="advanced_privacy_title">Više postavki privatnosti</string>
+    <string name="advanced_security_summary">Šifriranje, vjerodajnice i ostalo</string>
+    <string name="advanced_security_title">Više sigurnosnih postavki</string>
+    <string name="advanced_title">Više postavki</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">Zaključavanje uređaja</string>
+    <string name="lock_screen_summary_disabled">Još nema podataka</string>
+    <string name="lock_screen_title">Zaključavanje zaslona</string>
+    <string name="permission_manager_summary">Upravljajte pristupom aplikacija svojim podacima</string>
+    <string name="permission_manager_title">Upravitelj dopuštenja</string>
+    <string name="permission_usage_summary">Prikaži aplikacije koje su nedavno upotrebljavale dopuštenja</string>
+    <string name="permission_usage_title">Nadzorna ploča za privatnost</string>
+    <string name="privacy_controls_summary">Kontroliranje pristupanja uređaja mikrofonu, kameri i ostalome</string>
+    <string name="privacy_controls_title">Kontrole privatnosti</string>
+    <string name="privacy_sources_summary">Nadzorna ploča, dopuštenja, kontrole</string>
+    <string name="privacy_sources_title">Privatnost</string>
+    <string name="safetyCenterResourcesAppLabel">Resursi centra za sigurnost</string>
+</resources>

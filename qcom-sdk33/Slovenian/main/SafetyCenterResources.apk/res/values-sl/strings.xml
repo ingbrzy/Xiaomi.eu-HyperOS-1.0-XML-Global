@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">Samodejno izpolnjevanje, kontrolniki za dejavnost in drugo</string>
+    <string name="advanced_privacy_title">Več nastavitev zasebnosti</string>
+    <string name="advanced_security_summary">Šifriranje, poverilnice in drugo</string>
+    <string name="advanced_security_title">Več varnostnih nastavitev</string>
+    <string name="advanced_title">Več nastavitev</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">Zaklepanje naprave</string>
+    <string name="lock_screen_summary_disabled">Ni še nobenega podatka.</string>
+    <string name="lock_screen_title">Zaklepanje zaslona</string>
+    <string name="permission_manager_summary">Nadzorujte dostop aplikacij do podatkov.</string>
+    <string name="permission_manager_title">Upravitelj dovoljenj</string>
+    <string name="permission_usage_summary">Prikažite aplikacije, ki so pred kratkim uporabile dovoljenja.</string>
+    <string name="permission_usage_title">Nadzorna plošča za zasebnost</string>
+    <string name="privacy_controls_summary">Upravljajte dostop naprav do mikrofona, fotoaparata in drugega.</string>
+    <string name="privacy_controls_title">Nastavitve zasebnosti</string>
+    <string name="privacy_sources_summary">Nadzorna plošča, dovoljenja, kontrolniki</string>
+    <string name="privacy_sources_title">Zasebnost</string>
+    <string name="safetyCenterResourcesAppLabel">Viri varnostnega središča</string>
+</resources>

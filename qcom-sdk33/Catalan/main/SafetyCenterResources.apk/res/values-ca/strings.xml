@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">"Emplenament automàtic, controls d'activitat i més"</string>
+    <string name="advanced_privacy_title">Més opcions de configuració de privadesa</string>
+    <string name="advanced_security_summary">Encriptació, credencials i més</string>
+    <string name="advanced_security_title">Més opcions de configuració de seguretat</string>
+    <string name="advanced_title">Més opcions de configuració</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">Bloqueig de dispositius</string>
+    <string name="lock_screen_summary_disabled">Encara no hi ha informació</string>
+    <string name="lock_screen_title">Bloqueig de pantalla</string>
+    <string name="permission_manager_summary">"Controla l'accés de les aplicacions a les teves dades"</string>
+    <string name="permission_manager_title">Gestor de permisos</string>
+    <string name="permission_usage_summary">Mostra quines aplicacions han utilitzat permisos fa poc</string>
+    <string name="permission_usage_title">Tauler de privadesa</string>
+    <string name="privacy_controls_summary">"Controla l'accés del dispositiu al micròfon, la càmera i més"</string>
+    <string name="privacy_controls_title">Controls de privadesa</string>
+    <string name="privacy_sources_summary">Tauler, permisos, controls</string>
+    <string name="privacy_sources_title">Privadesa</string>
+    <string name="safetyCenterResourcesAppLabel">Recursos del Centre de seguretat</string>
+</resources>

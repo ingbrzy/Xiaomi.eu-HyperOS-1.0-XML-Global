@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">Autofyll, aktivitetslagring med mer</string>
+    <string name="advanced_privacy_title">Flere personverninnstillinger</string>
+    <string name="advanced_security_summary">Kryptering, legitimasjon med mer</string>
+    <string name="advanced_security_title">Flere sikkerhetsinnstillinger</string>
+    <string name="advanced_title">Flere innstillinger</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">Enhetslås</string>
+    <string name="lock_screen_summary_disabled">Ingen informasjon ennå</string>
+    <string name="lock_screen_title">Skjermlås</string>
+    <string name="permission_manager_summary">Kontroller apptilgang til dataene dine</string>
+    <string name="permission_manager_title">Tillatelseskontroll</string>
+    <string name="permission_usage_summary">Vis hvilke apper som nylig har brukt tillatelser</string>
+    <string name="permission_usage_title">Personvernoversikt</string>
+    <string name="privacy_controls_summary">Kontroller enhetstilgang til mikrofon, kamera med mer</string>
+    <string name="privacy_controls_title">Personverninnstillinger</string>
+    <string name="privacy_sources_summary">Oversikt, tillatelser, kontroller</string>
+    <string name="privacy_sources_title">Personvern</string>
+    <string name="safetyCenterResourcesAppLabel">Ressurser for sikkerhetssenteret</string>
+</resources>

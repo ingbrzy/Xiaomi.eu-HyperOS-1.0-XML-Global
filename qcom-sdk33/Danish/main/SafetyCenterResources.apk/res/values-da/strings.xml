@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">Autofyld, aktivitetsadministration og mere</string>
+    <string name="advanced_privacy_title">Flere privatlivsindstillinger</string>
+    <string name="advanced_security_summary">Kryptering, loginoplysninger og mere</string>
+    <string name="advanced_security_title">Flere sikkerhedsindstillinger</string>
+    <string name="advanced_title">Flere indstillinger</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">Enhedslås</string>
+    <string name="lock_screen_summary_disabled">Der er ingen oplysninger endnu</string>
+    <string name="lock_screen_title">Skærmlås</string>
+    <string name="permission_manager_summary">Administrer appadgang til dine data</string>
+    <string name="permission_manager_title">Tilladelsesadministrator</string>
+    <string name="permission_usage_summary">Vis, hvilke apps der har brugt tilladelser for nylig</string>
+    <string name="permission_usage_title">Privatlivspanel</string>
+    <string name="privacy_controls_summary">Styr enhedens adgang til mikrofonen, kameraet og mere</string>
+    <string name="privacy_controls_title">Privatlivsindstillinger</string>
+    <string name="privacy_sources_summary">Kontrolpanel, tilladelser, styringselementer</string>
+    <string name="privacy_sources_title">Privatliv</string>
+    <string name="safetyCenterResourcesAppLabel">Ressourcer i Sikkerhedscenter</string>
+</resources>

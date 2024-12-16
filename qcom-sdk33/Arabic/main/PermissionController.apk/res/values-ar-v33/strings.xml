@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">يمكن للتطبيقات التي لديها هذا الإذن الوصول إلى جميع الملفات على هذا الجهاز.</string>
+    <string name="role_dialer_request_description">سيُسمح لهذا التطبيق بإرسال إشعارات إليك، وسيُمنح إذن الوصول إلى الكاميرا وجهات الاتصال والميكروفون والهاتف والرسائل القصيرة.</string>
+    <string name="role_sms_request_description">سيُسمح لهذا التطبيق بإرسال إشعارات إليك، وسيُمنح إذن الوصول إلى الكاميرا وجهات الاتصال والملفات والميكروفون والهاتف والرسائل القصيرة.</string>
+</resources>

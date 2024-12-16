@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">מילוי אוטומטי, בקרת הפעילות בחשבון ועוד</string>
+    <string name="advanced_privacy_title">הגדרות פרטיות נוספות</string>
+    <string name="advanced_security_summary">הצפנה, פרטי כניסה ועוד</string>
+    <string name="advanced_security_title">הגדרות אבטחה נוספות</string>
+    <string name="advanced_title">הגדרות נוספות</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">נעילת מכשיר</string>
+    <string name="lock_screen_summary_disabled">אין עדיין פרטים</string>
+    <string name="lock_screen_title">נעילת מסך</string>
+    <string name="permission_manager_summary">שליטה בגישה של האפליקציה לנתונים שלך</string>
+    <string name="permission_manager_title">מנהל ההרשאות</string>
+    <string name="permission_usage_summary">אלו אפליקציות השתמשו בהרשאות לאחרונה</string>
+    <string name="permission_usage_title">מרכז הבקרה להגדרת הפרטיות</string>
+    <string name="privacy_controls_summary">שליטה בגישה של המכשיר למיקרופון, למצלמה ועוד</string>
+    <string name="privacy_controls_title">אמצעי בקרה על פרטיות</string>
+    <string name="privacy_sources_summary">מרכז הבקרה, הרשאות, אמצעי בקרה</string>
+    <string name="privacy_sources_title">פרטיות</string>
+    <string name="safetyCenterResourcesAppLabel">משאבים למרכז הבטיחות</string>
+</resources>

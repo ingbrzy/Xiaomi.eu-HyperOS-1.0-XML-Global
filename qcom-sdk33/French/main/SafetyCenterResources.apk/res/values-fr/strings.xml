@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">"Saisie automatique, commandes relatives à l'activité et bien plus"</string>
+    <string name="advanced_privacy_title">Autres paramètres de confidentialité</string>
+    <string name="advanced_security_summary">Chiffrement, identifiants et plus</string>
+    <string name="advanced_security_title">Autres paramètres de sécurité</string>
+    <string name="advanced_title">Plus de paramètres</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">"Verrouillage de l'appareil"</string>
+    <string name="lock_screen_summary_disabled">"Aucune info pour l'instant"</string>
+    <string name="lock_screen_title">"Verrouillage de l'écran"</string>
+    <string name="permission_manager_summary">"Contrôler l'accès des applis à vos données"</string>
+    <string name="permission_manager_title">"Gestionnaire d'autorisations"</string>
+    <string name="permission_usage_summary">Afficher les applis qui ont récemment utilisé des autorisations</string>
+    <string name="permission_usage_title">Tableau de bord Confidentialité</string>
+    <string name="privacy_controls_summary">"Contrôlez l'accès de l'appareil au micro, à l'appareil photo et bien plus"</string>
+    <string name="privacy_controls_title">Paramètres de confidentialité</string>
+    <string name="privacy_sources_summary">Tableau de bord, autorisations, commandes</string>
+    <string name="privacy_sources_title">Confidentialité</string>
+    <string name="safetyCenterResourcesAppLabel">Ressources du Centre de sécurité</string>
+</resources>

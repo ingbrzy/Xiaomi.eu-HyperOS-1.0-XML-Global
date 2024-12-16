@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Aplikacje z tym uprawnieniem mogą korzystać ze wszystkich plików na tym urządzeniu</string>
+    <string name="role_dialer_request_description">Ta aplikacja będzie mogła wysyłać Ci powiadomienia i będzie miała dostęp do aparatu, mikrofonu, kontaktów, telefonu i SMS-ów</string>
+    <string name="role_sms_request_description">Ta aplikacja będzie mogła wysyłać Ci powiadomienia i będzie miała dostęp do aparatu, mikrofonu, kontaktów, plików, telefonu i SMS-ów</string>
+</resources>

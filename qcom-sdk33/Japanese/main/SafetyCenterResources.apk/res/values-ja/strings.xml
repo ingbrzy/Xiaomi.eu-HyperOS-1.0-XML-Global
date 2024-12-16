@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">自動入力、アクティビティ管理など</string>
+    <string name="advanced_privacy_title">プライバシーの詳細設定</string>
+    <string name="advanced_security_summary">暗号化、認証情報など</string>
+    <string name="advanced_security_title">セキュリティの詳細設定</string>
+    <string name="advanced_title">詳細設定</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">デバイスのロック</string>
+    <string name="lock_screen_summary_disabled">まだ情報がありません</string>
+    <string name="lock_screen_title">画面ロック</string>
+    <string name="permission_manager_summary">アプリのデータアクセスを管理します</string>
+    <string name="permission_manager_title">権限マネージャー</string>
+    <string name="permission_usage_summary">権限を最近使用したアプリが表示されます</string>
+    <string name="permission_usage_title">プライバシー ダッシュボード</string>
+    <string name="privacy_controls_summary">マイク、カメラなどへのデバイス アクセスを管理します</string>
+    <string name="privacy_controls_title">プライバシー管理</string>
+    <string name="privacy_sources_summary">ダッシュボード、権限、管理</string>
+    <string name="privacy_sources_title">プライバシー</string>
+    <string name="safetyCenterResourcesAppLabel">セーフティ センターのリソース</string>
+</resources>

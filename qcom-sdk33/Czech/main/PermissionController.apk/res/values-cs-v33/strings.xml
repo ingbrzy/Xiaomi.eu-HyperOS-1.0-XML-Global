@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Aplikace s tímto oprávněním mají přístup ke všem souborům v tomto zařízení</string>
+    <string name="role_dialer_request_description">Tato aplikace vám bude moci zasílat oznámení a bude mít přístup k fotoaparátu, kontaktům, mikrofonu, telefonu a SMS</string>
+    <string name="role_sms_request_description">Tato aplikace vám bude moci zasílat oznámení a bude mít přístup k fotoaparátu, kontaktům, souborům, mikrofonu, telefonu a SMS</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Apps com esta permissão podem acessar todos os arquivos neste dispositivo.</string>
+    <string name="role_dialer_request_description">Este app terá permissão para enviar notificações e poderá acessar contatos, câmera, microfone, telefone e SMS</string>
+    <string name="role_sms_request_description">Este app vai poder enviar notificações e acessar contatos, câmera, arquivos, microfone, telefone e SMS</string>
+</resources>

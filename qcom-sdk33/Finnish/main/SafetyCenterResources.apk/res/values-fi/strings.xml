@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">Automaattinen täyttö, toimintojen hallinta ja muuta</string>
+    <string name="advanced_privacy_title">Lisää yksityisyysasetuksia</string>
+    <string name="advanced_security_summary">Salaus, kirjautumistiedot ja muuta</string>
+    <string name="advanced_security_title">Lisää tietoturva-asetuksia</string>
+    <string name="advanced_title">Lisää asetuksia</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">Laitteen lukitseminen</string>
+    <string name="lock_screen_summary_disabled">Ei vielä tietoja</string>
+    <string name="lock_screen_title">Näytön lukitus</string>
+    <string name="permission_manager_summary">Päätä sovelluksen pääsystä dataasi</string>
+    <string name="permission_manager_title">Lupien ylläpito</string>
+    <string name="permission_usage_summary">Näytä, mitkä sovellukset ovat käyttäneet lupia äskettäin</string>
+    <string name="permission_usage_title">Yksityisyydenhallintapaneeli</string>
+    <string name="privacy_controls_summary">Hallinnoi laitteiden pääsyä mikrofoniin, kameraan ja muihin</string>
+    <string name="privacy_controls_title">Tietosuojahallinta</string>
+    <string name="privacy_sources_summary">Hallintapaneeli, luvat ja asetukset</string>
+    <string name="privacy_sources_title">Tietosuoja</string>
+    <string name="safetyCenterResourcesAppLabel">Turvallisuuskeskuksen lisätietoja</string>
+</resources>

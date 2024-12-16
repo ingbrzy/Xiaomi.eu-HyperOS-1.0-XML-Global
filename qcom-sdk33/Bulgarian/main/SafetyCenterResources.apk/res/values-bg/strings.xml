@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">Автоматично попълване, контроли за активността и др.</string>
+    <string name="advanced_privacy_title">Още настройки за поверителност</string>
+    <string name="advanced_security_summary">Шифроване, идентификационни данни и др.</string>
+    <string name="advanced_security_title">Още настройки за сигурност</string>
+    <string name="advanced_title">Още настройки</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">Заключване на устройството</string>
+    <string name="lock_screen_summary_disabled">Още няма информация</string>
+    <string name="lock_screen_title">Заключване на екрана</string>
+    <string name="permission_manager_summary">Управлявайте достъпа на приложенията до данните ви</string>
+    <string name="permission_manager_title">Мениджър на разрешенията</string>
+    <string name="permission_usage_summary">Показване на приложенията, които наскоро са използвали разрешенията</string>
+    <string name="permission_usage_title">Табло за управление на поверителността</string>
+    <string name="privacy_controls_summary">Контролиране на достъпа на устройството до микрофона, камерата и др.</string>
+    <string name="privacy_controls_title">Контроли за поверителност</string>
+    <string name="privacy_sources_summary">Табло за управление, разрешения, контроли</string>
+    <string name="privacy_sources_title">Поверителност</string>
+    <string name="safetyCenterResourcesAppLabel">Ресурси на Центъра за безопасност</string>
+</resources>

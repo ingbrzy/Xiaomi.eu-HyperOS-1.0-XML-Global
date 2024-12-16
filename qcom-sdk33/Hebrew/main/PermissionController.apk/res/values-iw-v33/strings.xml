@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">לאפליקציות עם ההרשאה הזו יש גישה לקבצים במכשיר</string>
+    <string name="role_dialer_request_description">‏האפליקציה הזו תקבל הרשאה לשלוח לך התראות, וגם תקבל גישה למצלמה, לאנשי הקשר, למיקרופון, לטלפון ול-SMS</string>
+    <string name="role_sms_request_description">‏האפליקציה הזו תקבל הרשאה לשלוח לך התראות, וגם תקבל גישה למצלמה, לאנשי הקשר, לקבצים, למיקרופון, לטלפון ול-SMS</string>
+</resources>

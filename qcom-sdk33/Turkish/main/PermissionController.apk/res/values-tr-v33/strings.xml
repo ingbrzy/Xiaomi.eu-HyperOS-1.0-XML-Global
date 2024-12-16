@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Bu izne sahip uygulamalar bu cihazdaki tüm dosyalara erişebilir</string>
+    <string name="role_dialer_request_description">"Bu uygulamanın size bildirim göndermesine izin verilecek. Ayrıca Kamera, Kişiler, Mikrofon, Telefon ve SMS'inize erişebilecek"</string>
+    <string name="role_sms_request_description">"Bu uygulamanın size bildirim göndermesine izin verilecek. Ayrıca Kamera, Kişiler, Dosyalar, Mikrofon, Telefon ve SMS'inize erişebilecek"</string>
+</resources>

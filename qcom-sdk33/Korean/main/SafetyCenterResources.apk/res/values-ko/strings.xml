@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">자동 완성, 활동 제어 등</string>
+    <string name="advanced_privacy_title">기타 개인 정보 보호 설정</string>
+    <string name="advanced_security_summary">암호화, 사용자 인증 정보 등</string>
+    <string name="advanced_security_title">기타 보안 설정</string>
+    <string name="advanced_title">기타 설정</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">기기 잠금</string>
+    <string name="lock_screen_summary_disabled">아직 정보 없음</string>
+    <string name="lock_screen_title">화면 잠금</string>
+    <string name="permission_manager_summary">내 데이터에 대한 앱 액세스 제어</string>
+    <string name="permission_manager_title">권한 관리자</string>
+    <string name="permission_usage_summary">최근에 권한을 사용한 앱 표시</string>
+    <string name="permission_usage_title">개인 정보 대시보드</string>
+    <string name="privacy_controls_summary">마이크, 카메라 등에 대한 기기 액세스 제어</string>
+    <string name="privacy_controls_title">개인 정보 보호 설정</string>
+    <string name="privacy_sources_summary">대시보드, 권한, 제어</string>
+    <string name="privacy_sources_title">개인 정보 보호</string>
+    <string name="safetyCenterResourcesAppLabel">안전 센터 리소스</string>
+</resources>

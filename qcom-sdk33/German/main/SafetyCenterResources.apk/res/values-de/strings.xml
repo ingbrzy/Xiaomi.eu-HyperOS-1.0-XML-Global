@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_summary">Automatisches Ausfüllen, Aktivitätseinstellungen und mehr</string>
+    <string name="advanced_privacy_title">Weitere Datenschutzeinstellungen</string>
+    <string name="advanced_security_summary">Verschlüsselung, Anmeldedaten und mehr</string>
+    <string name="advanced_security_title">Weitere Sicher­heits­einstellungen</string>
+    <string name="advanced_title">Weitere Einstellungen</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">Gerätesperre</string>
+    <string name="lock_screen_summary_disabled">Noch keine Daten erhalten</string>
+    <string name="lock_screen_title">Displaysperre</string>
+    <string name="permission_manager_summary">App-Zugriff auf Daten festlegen</string>
+    <string name="permission_manager_title">Berechtigungsmanager</string>
+    <string name="permission_usage_summary">Anzeigen, welche Apps zuletzt Berechtigungen genutzt haben</string>
+    <string name="permission_usage_title">Privatsphäre­dashboard</string>
+    <string name="privacy_controls_summary">Gerätezugriff auf Mikrofon, Kamera und mehr festlegen</string>
+    <string name="privacy_controls_title">Datenschutzeinstellungen</string>
+    <string name="privacy_sources_summary">Dashboard, Berechtigungen, Einstellungen</string>
+    <string name="privacy_sources_title">Datenschutz</string>
+    <string name="safetyCenterResourcesAppLabel">Ressourcen für Sicherheitscenter</string>
+</resources>

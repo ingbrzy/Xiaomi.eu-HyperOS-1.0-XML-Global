@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">แอปที่มีสิทธิ์นี้จะเข้าถึงไฟล์ทั้งหมดในอุปกรณ์นี้ได้</string>
+    <string name="role_dialer_request_description">แอปนี้จะได้รับอนุญาตให้ส่งการแจ้งเตือนและมีสิทธิ์เข้าถึงกล้อง รายชื่อติดต่อ ไมโครโฟน โทรศัพท์ และ SMS</string>
+    <string name="role_sms_request_description">แอปนี้จะได้รับอนุญาตให้ส่งการแจ้งเตือนและมีสิทธิ์เข้าถึงกล้องถ่ายรูป รายชื่อติดต่อ ไฟล์ ไมโครโฟน โทรศัพท์ และ SMS</string>
+</resources>

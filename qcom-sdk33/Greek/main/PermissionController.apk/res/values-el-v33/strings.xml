@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Οι εφαρμογές με αυτήν την άδεια μπορούν να έχουν πρόσβαση σε όλα τα αρχεία αυτής της συσκευής</string>
+    <string name="role_dialer_request_description">Αυτή η εφαρμογή θα μπορεί να σας στέλνει ειδοποιήσεις και θα έχει πρόσβαση στην κάμερα, τις επαφές, το μικρόφωνο, το τηλέφωνο και τα SMS.</string>
+    <string name="role_sms_request_description">Αυτή η εφαρμογή θα μπορεί να σας στέλνει ειδοποιήσεις και θα έχει πρόσβαση στην κάμερα, τις επαφές, τα αρχεία, το μικρόφωνο, το τηλέφωνο και τα SMS.</string>
+</resources>
