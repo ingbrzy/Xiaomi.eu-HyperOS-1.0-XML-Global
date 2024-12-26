@@ -144,7 +144,7 @@
     <string name="daily_forecast_add_city_add">Sledi</string>
     <string name="daily_forecast_add_city_message">Sledite vremenu v %1$s za podrobnejšo napoved.</string>
     <string name="daily_forecast_add_city_title">Sledite vremenu v %1$s</string>
-    <string name="daily_forecast_detail_date">d/M</string>
+    <string name="daily_forecast_detail_date">d. M.</string>
     <string name="data_provided_by">Podatke delno zagotavlja</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -276,7 +276,7 @@
     <string name="friday_shortest">Pet</string>
     <string name="hourly_forcast_now">Zdaj</string>
     <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
-    <string name="hourly_forecast_date">d/M</string>
+    <string name="hourly_forecast_date">d. M.</string>
     <string name="index_item_experience_now">Namesti</string>
     <string name="indices_title_chance_of_rain">Možnost dežja</string>
     <string name="indices_title_feel">Realni občutek</string>
@@ -397,8 +397,8 @@
     <string name="privacy_grant_or_revoke_settings">Preklic soglasja</string>
     <string name="privacy_grant_success">Uspešno dovoljena avtorizacija</string>
     <string name="privacy_policy">Pravilnik o zasebnosti</string>
-    <string name="privacy_policy_msg"><Data>Ta aplikacija vsebuje naslednje funkcije:&lt;br/>• podatke o vremenu za vašo lokacijo&lt;br/>• vremensko napoved&lt;br/>• opozorila o vremenu&lt;br/>&lt;br/>Aplikacija Vreme mora zbirati potrebne osebne podatke, da vam lahko zagotovi osnovne storitve. Več o tem, kako ravnamo s podatki, ki jih zbiramo, si lahko ogledate v &lt;a href=\"%1$s\">Pravilniku o zasebnosti&lt;/a>. Pred uporabo aplikacije Vreme preberite in se strinjajte z &lt;a href=\"%2$s\">Uporabniškim dogovorom&lt;/a> in &lt;a href=\"%3$s\">Pravilnikom o zasebnosti&lt;/a>. V Nastavitvah lahko kadar koli prekličete vaše soglasje s Pravilnikom o zasebnosti aplikacije Vreme.</Data></string>
-    <string name="privacy_policy_msg_for_gp"><Data>Ta aplikacija vsebuje naslednje funkcije:&lt;br/>• podatke o vremenu za vašo lokacijo&lt;br/>• vremensko napoved&lt;br/>• opozorila o vremenu&lt;br/>&lt;br/>Aplikacija Vreme mora zbirati potrebne osebne podatke, vključno s podatki o lokaciji, da vam lahko zagotovi te funkcije tudi, ko je aplikacija zaprta ali ni v uporabi. Več o tem, kako ravnamo s podatki, ki jih zbiramo, si lahko ogledate v &lt;a href=\"%1$s\">Pravilniku o zasebnosti&lt;/a>. Pred uporabo aplikacije Vreme preberite in se strinjajte z &lt;a href=\"%2$s\">Uporabniškim dogovorom&lt;/a> in &lt;a href=\"%3$s\">Pravilnikom o zasebnosti&lt;/a>. V Nastavitvah lahko kadar koli prekličete vaše soglasje s Pravilnikom o zasebnosti aplikacije Vreme.</Data></string>
+    <string name="privacy_policy_msg">&lt;Data>Ta aplikacija vsebuje naslednje funkcije:&lt;br/>• podatke o vremenu za vašo lokacijo&lt;br/>• vremensko napoved&lt;br/>• opozorila o vremenu&lt;br/>&lt;br/>Aplikacija Vreme mora zbirati potrebne osebne podatke, da vam lahko zagotovi osnovne storitve. Več o tem, kako ravnamo s podatki, ki jih zbiramo, si lahko ogledate v &lt;a href=\"%1$s\">Pravilniku o zasebnosti&lt;/a>. Pred uporabo aplikacije Vreme preberite in se strinjajte z &lt;a href=\"%2$s\">Uporabniškim dogovorom&lt;/a> in &lt;a href=\"%3$s\">Pravilnikom o zasebnosti&lt;/a>. V Nastavitvah lahko kadar koli prekličete vaše soglasje s Pravilnikom o zasebnosti aplikacije Vreme.&lt;/Data></string>
+    <string name="privacy_policy_msg_for_gp">&lt;Data>Ta aplikacija vsebuje naslednje funkcije:&lt;br/>• podatke o vremenu za vašo lokacijo&lt;br/>• vremensko napoved&lt;br/>• opozorila o vremenu&lt;br/>&lt;br/>Aplikacija Vreme mora zbirati potrebne osebne podatke, vključno s podatki o lokaciji, da vam lahko zagotovi te funkcije tudi, ko je aplikacija zaprta ali ni v uporabi. Več o tem, kako ravnamo s podatki, ki jih zbiramo, si lahko ogledate v &lt;a href=\"%1$s\">Pravilniku o zasebnosti&lt;/a>. Pred uporabo aplikacije Vreme preberite in se strinjajte z &lt;a href=\"%2$s\">Uporabniškim dogovorom&lt;/a> in &lt;a href=\"%3$s\">Pravilnikom o zasebnosti&lt;/a>. V Nastavitvah lahko kadar koli prekličete vaše soglasje s Pravilnikom o zasebnosti aplikacije Vreme.&lt;/Data></string>
     <string name="privacy_revoke_success">Uspešno preklicana avtorizacija</string>
     <string name="privacy_settings">Pravilnik o zasebnosti</string>
     <string name="pull_fresh_updated">Uspešno posodobljeno</string>
