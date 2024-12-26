@@ -231,14 +231,14 @@
     </string-array>
     <string-array name="wind_unit_detail">
         <item>Κλίμακα μποφόρ</item>
-        <item>Χιλιόμετρα ανά ώρα (km/h)</item>
+        <item>Χιλιόμετρα ανά ώρα (χλμ/ώ)</item>
         <item>Μέτρα ανά δευτερόλεπτο (m/s)</item>
         <item>Μίλια ανά ώρα (mph)</item>
         <item>Κόμβος (kn)</item>
     </string-array>
     <string-array name="wind_unit_replace">
         <item>Ένταση%1$s</item>
-        <item>%1$skm/h</item>
+        <item>%1$sχλμ/ώ</item>
         <item>%1$sm/s</item>
         <item>%1$smph</item>
         <item>%1$skn</item>
