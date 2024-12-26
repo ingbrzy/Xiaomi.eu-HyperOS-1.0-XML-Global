@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="aqi_detail_title">
-        <item>Bueno</item>
+        <item>Buena</item>
         <item>Aceptable</item>
         <item>Moderada</item>
         <item>Insalubre</item>
         <item>Severa</item>
-        <item>Peligroso</item>
+        <item>Nociva</item>
     </string-array>
     <string-array name="aqi_title">
         <item>%1$s</item>
