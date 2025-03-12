@@ -2553,6 +2553,8 @@ Birinci sahə PIN-i ilə eyni uzunluqda olmalıdır."</string>
     <string name="login_action">Daxil ol</string>
     <string name="long_press_back_key">Geri düyməsinə uzun basın</string>
     <string name="long_press_buttom_key">Kilid ekranında Əsas ekran düyməsinə uzun basın</string>
+    <string name="long_press_editor_style_summary">Saatı və divar kağızını redaktə etmək üçün Kilid ekranını sıx və saxla</string>
+    <string name="long_press_editor_style_title">Redaktə etmək üçün sıx və saxla</string>
     <string name="long_press_home_key">Əsas ekran düyməsinə uzun basın</string>
     <string name="long_press_menu_key">Menyu düyməsinə uzun basın</string>
     <string name="long_press_menu_key_when_lock">Kilid ekranında Menyu düyməsinə uzun bas</string>

@@ -5119,6 +5119,8 @@ Connectez au moins 4 points."</string>
     <string name="login_action">Se connecter</string>
     <string name="long_press_back_key">Appui prolongé sur bouton Retour</string>
     <string name="long_press_buttom_key">"Appui prolongé sur le Menu de l'Écran de verrouillage"</string>
+    <string name="long_press_editor_style_summary">"Appuyez et maintenez l'écran de verrouillage pour modifier l'horloge et le fond d'écran"</string>
+    <string name="long_press_editor_style_title">Appuyer et maintenir pour modifier</string>
     <string name="long_press_home_key">"Appui prolongé sur le bouton d'alimentation"</string>
     <string name="long_press_menu_key">Appui prolongé sur bouton Menu</string>
     <string name="long_press_menu_key_when_lock">"Appui prolongé sur le Menu de l'Écran de verrouillage"</string>

@@ -5097,6 +5097,8 @@ Xiaomi Cloud
     <string name="login_action">Вписване</string>
     <string name="long_press_back_key">Дълго натискане на бутон Назад</string>
     <string name="long_press_buttom_key">Дълго натискане на бутон Начало при Заключен екран</string>
+    <string name="long_press_editor_style_summary">Натиснете и задръжте Заключения екран, за да редактирате часовника и тапета</string>
+    <string name="long_press_editor_style_title">Натиснете и задръжте, за да редактирате</string>
     <string name="long_press_home_key">Дълго натискане на бутон Начало</string>
     <string name="long_press_menu_key">Дълго натискане на бутон Меню</string>
     <string name="long_press_menu_key_when_lock">Дълго натискане на бутон Меню на Заключен екран</string>

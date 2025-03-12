@@ -590,7 +590,6 @@ Nepřijdete o žádná data aplikací."</string>
     <string name="apps_list_header_title_sms">Zkontrolovat aplikaci pro zprávy</string>
     <string name="apps_list_header_title_sms_access">Omezit přístup k ověřovacím kódům</string>
     <string name="ask_create_shortcut">Vytvořit zástupce na Domovské obrazovce?</string>
-    <string name="audio_optimization_summary">Vylepšení zvuků a snížení okolního šumu během konverzací</string>
     <string name="audio_optimization_summary_new">Optimalizuje kvalitu zvuku sluchátek při hraní a omezuje šum během hovorů</string>
     <string name="audio_optimization_title">Vylepšený zvuk</string>
     <string name="auto_atsk_condition_battery_level_text_down">Když baterie dosáhne %s</string>
@@ -1712,7 +1711,7 @@ Všechna data na vašem zařízení mohou být smazána a heslo Zamykací obrazo
 %3$d. Tato funkce je podporována pouze na území pevninské Číny.
 %4$d. Tato funkce funguje pouze v sítích 5G-SA."</string>
     <string name="function_shield_auto_bright">Vypnout automatický jas</string>
-    <string name="function_shield_eye_shield">Vypnout Čtecí režim</string>
+    <string name="function_shield_eye_shield">Vypnout Režim pro čtení</string>
     <string name="function_shield_pull_notification_bar">Neotvírat Oznamovací roletku</string>
     <string name="function_shield_settings_title">Zakázat následující funkce při hraní her</string>
     <string name="function_shield_summary">Zakázat vybrané systémové funkce při hraní her</string>
@@ -1769,7 +1768,6 @@ Všechna data na vašem zařízení mohou být smazána a heslo Zamykací obrazo
     <string name="gamebox_brightness">Jas</string>
     <string name="gamebox_browser_not_find">Nejprve nainstalujte Mi Prohlížeč</string>
     <string name="gamebox_bullet_chat">Zobrazení komentářů na obrazovce</string>
-    <string name="gamebox_cellular_network">Optimalizace mobilní sítě</string>
     <string name="gamebox_cellular_network_description">Automatický výběr nejlepší síťové cesty na základě latence hry</string>
     <string name="gamebox_collimator">Mířidlo</string>
     <string name="gamebox_display_1">Žádné</string>
@@ -1995,7 +1993,6 @@ Nahrajte a propojte sekvence podle svého gusta!"</string>
     <string name="gb_manual_record_dialog_del_video_message">Trvale odstranit vybraná videa?</string>
     <string name="gb_manual_video_record_title">Nahrávky</string>
     <string name="gb_margin_restrain">Ignorovat náhodný dotyk na okrajích</string>
-    <string name="gb_margin_restrain_description">Vaše zařízení bude méně citlivé na náhodné dotyky v oblasti okrajů.</string>
     <string name="gb_margin_restrain_seekbar">Oblast náhodných dotyků</string>
     <string name="gb_msg_completely_shielded">Skrýt zprávy</string>
     <string name="gb_msg_completely_shielded_summary">Skrýt</string>
@@ -2089,10 +2086,8 @@ zvýší také spotřebu energie a může způsobit přehřívání zařízení"
     <string name="gb_super_finger_up">Rychlá reakce na klepnutí</string>
     <string name="gb_super_finger_up_msg">Zrychlit odezvu na úrovni hardwaru</string>
     <string name="gb_super_follow_up">Sledování gest</string>
-    <string name="gb_super_follow_up_msg">Získejte lepší odezvu v reálném časem pomocí celého gesta</string>
     <string name="gb_super_motion">Vylepšené dotykové ovládání</string>
     <string name="gb_super_shake">Algoritmus stabilizace</string>
-    <string name="gb_super_shake_msg">Zvyšte odezvu na menší gesta pomocí vyhrazeného algoritmu</string>
     <string name="gb_turbo_collimator_subtitle">Nástroj pro míření</string>
     <string name="gb_turbo_macro_subtitle">Vaše herní triky na HD úrovni</string>
     <string name="gb_turbo_shoulder_subtitle">Nastavení herních ovladačů</string>
@@ -2174,7 +2169,6 @@ klíčové momenty vaší hry"</string>
     <string name="gd_setting_conversation">Nástroje konference</string>
     <string name="gd_setting_conversation_desc">Množství užitečných funkcí pro audio a video hovory v režimu celé obrazovky</string>
     <string name="gd_setting_dock_activity_title">Postranní sada nástrojů</string>
-    <string name="gd_setting_dock_call_summary">Funkce pro hlasové hovory a videohovory (např. doplňkové světlo)</string>
     <string name="gd_setting_dock_call_title">Sada nástrojů pro volání</string>
     <string name="gd_setting_dock_game_summary">Vylepšete zobrazení a výkon při hraní her</string>
     <string name="gd_setting_dock_game_summary_new">Vylepšete zobrazení a výkon při hraní her</string>
@@ -4175,7 +4169,7 @@ Ultra spořiče baterie"</string>
     <string name="privacy_pop_storage">Aplikace dnes získala přístup k úložišti</string>
     <string name="privacy_prompt_tc_sms_report_message">Vaše telefonní číslo a informace o operátorovi budou zašifrovány a nahrány na Xiaomi server pro aktualizaci informací o vaší spotřebě dat.</string>
     <string name="privacy_prompt_upload">Bezpečnostní upozornění</string>
-    <string name="privacy_protect_summary">Chraňte své osobní údaje</string>
+    <string name="privacy_protect_summary">Chraňte soukromé položky</string>
     <string name="privacy_protect_title">Ochrana soukromí</string>
     <string name="privacy_provision_back">Zpět</string>
     <string name="privacy_provision_more">Více o ochraně soukromí</string>
@@ -4779,15 +4773,11 @@ Odebrat souhlas nyní?"</string>
     <string name="st_antispam_mode_smart_sum">Blokovaná čísla přidaná vámi nebo čísla nahlášená jinými uživateli</string>
     <string name="st_antispam_title_anoy_incoming">Hovory z neznámých čísel</string>
     <string name="st_antispam_title_anoy_sms">Zprávy z neznámých čísel</string>
-    <string name="st_antispam_title_contact_incoming">Hovory ze seznamu kontaktů</string>
-    <string name="st_antispam_title_contact_sms">SMS od osob v seznamu kontaktů</string>
-    <string name="st_antispam_title_contactandanoy_group">Nastavení</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Skrytá čísla</string>
     <string name="st_antispam_title_service_sms">Upozornění služeb</string>
     <string name="st_antispam_title_whitelist">Výjimky</string>
     <string name="st_call_backsound_group">Zvuk blokování</string>
-    <string name="st_call_intercept_contacts">Blokovat hovory od kontaktů</string>
     <string name="st_call_intercept_forwarding">Blokovat přesměrované hovory</string>
     <string name="st_call_intercept_oversea">Blokovat hovory ze zahraničí</string>
     <string name="st_call_intercept_reported">Blokovat hovory z nahlášených čísel</string>
@@ -4797,9 +4787,8 @@ Odebrat souhlas nyní?"</string>
     <string name="st_call_settings">Blokované hovory</string>
     <string name="st_call_stranger_group">Blokovat hovory z neznámých čísel</string>
     <string name="st_confirm_dialog_btn_open">Blokovat</string>
-    <string name="st_confirm_dialog_summary_contact_call">Všechny hovory od kontaktů budou blokovány.</string>
     <string name="st_confirm_dialog_summary_oversea_call">AI hovory ze zahraničních tel. čísel budou blokovány.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Všechny hovory z neznámých čísel budou blokovány.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">Hovory z jakéhokoli čísla, které není ve vašich výjimkách nebo kontaktech, budou blokovány. Zapnout nyní?</string>
     <string name="st_filter_keywords_setting_summary1">SMS zprávy z neznámých čísel obsahující některé z těchto klíčových slov budou blokovány.</string>
     <string name="st_filter_keywords_setting_summary2">(Více klíčových slov oddělujte čárkou)</string>
     <string name="st_filter_keywords_setting_summary3">Zprávy z neznámých čísel obsahující některé z těchto klíčových slov budou povoleny.</string>
@@ -4811,7 +4800,6 @@ Odebrat souhlas nyní?"</string>
     <string name="st_message_SMSpass">Povolit SMS</string>
     <string name="st_message_phone_AntiSpam">Blokovat hovory</string>
     <string name="st_message_phonepass">Povolit hovory</string>
-    <string name="st_msg_intercept_contacts">Blokovat SMS od kontaktů</string>
     <string name="st_msg_keyword_black">Blokovaná klíčová slova</string>
     <string name="st_msg_keyword_group">Klíčová slova</string>
     <string name="st_msg_keyword_white">Výjimky z klíčových slov</string>
@@ -4825,11 +4813,11 @@ Odebrat souhlas nyní?"</string>
     <string name="st_sub_title_whiteblack_list_group">Blokované</string>
     <string name="st_sum_call_wait">Zvolená zpráva bude přehrána také u příchozích hovorů v případě zaneprázdnění linky.</string>
     <string name="st_summary_blacklist_numbers">Blokovat hovory a zprávy z konkrétních čísel a oblastí</string>
-    <string name="st_summary_blacklist_numbers_international">Blokovat hovory a zprávy z konkrétních čísel</string>
+    <string name="st_summary_blacklist_numbers_international">Blokovat hovory podle čísla nebo předvolby</string>
     <string name="st_summary_keywords_blacklist">Přidejte klíčová slova pro blokování zpráv</string>
     <string name="st_summary_special_numbers">Blokovat označená telefonní čísla</string>
     <string name="st_summary_whitelist_numbers">Povolit hovory a zprávy z konkrétních čísel a oblastí</string>
-    <string name="st_summary_whitelist_numbers_international">Povolit hovory a zprávy z konkrétních čísel</string>
+    <string name="st_summary_whitelist_numbers_international">Vždy povolit hovory podle čísla nebo předvolby</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Přidat do blokovaných</string>
@@ -4946,7 +4934,7 @@ Pro použití ^1, toto úložiště nejprve přidejte."</string>
 
 Pro využití ^1 s tímto zařízením, toto úložiště nejprve nastavte."</string>
     <string name="storage_fbo_clear">Obnovení úložiště</string>
-    <string name="storage_fbo_des">Vnitřní úložiště je fragmentováno, což může vaše zařízení výrazně zpomalit. Obnovení úložiště fyzicky uspořádá vaše soubory do nejmenšího počtu fragmentů a sníží tak zpoždění zařízení. Tato akce bude provedena automaticky v době, kdy zařízení nevyužíváte.</string>
+    <string name="storage_fbo_des">Vnitřní úložiště je fragmentováno, což může vaše zařízení výrazně zpomalit. Obnovení úložiště fyzicky uspořádá vaše soubory do nejmenšího počtu fragmentů a sníží tak zpomalení zařízení. Tato akce bude provedena automaticky v době, kdy zařízení nevyužíváte.</string>
     <string name="storage_fbo_number_tip">Zpracováno %1$s</string>
     <string name="storage_fbo_tools">Optimalizace úložiště</string>
     <string name="storage_file_delete_tip">Trvale smazat vybrané položky? Některé z těchto položek mohou být v případě potřeby systémem opětovně vytvořeny.</string>
@@ -5261,9 +5249,9 @@ Formátování vymaže veškerý obsah z ^2. Před zahájením formátování ul
     <string name="title_app_lock_disable">Zámek aplikací</string>
     <string name="title_app_update">Dostupné aktualizace</string>
     <string name="title_auto_update">Aktualizovat automaticky</string>
-    <string name="title_background_connection">%s nemůže využít připojení na pozadí?</string>
-    <string name="title_block_calls_from_cantacts">Zmeškané hovory z vašeho seznamu kontaktů?</string>
-    <string name="title_block_calls_from_strangers">Zmeškali jste důležitý hovor?</string>
+    <string name="title_background_connection">%s nemůže využít připojení na pozadí</string>
+    <string name="title_block_calls_from_cantacts">Zmeškané hovory z vašeho seznamu kontaktů</string>
+    <string name="title_block_calls_from_strangers">Zmeškali jste důležitý hovor</string>
     <string name="title_chain_start">Zakázat řetězové spuštění</string>
     <string name="title_cleaner_cloudscan">Skenování odpadu Cloudu</string>
     <string name="title_cloud_account">Xiaomi účet</string>
@@ -5280,8 +5268,8 @@ Formátování vymaže veškerý obsah z ^2. Před zahájením formátování ul
     <string name="title_dev_no">Možnosti pro vývojáře zapnuty</string>
     <string name="title_dev_yes">Možnosti pro vývojáře vypnuty</string>
     <string name="title_device_not_root">Nebyl udělen přístup k ROOTování</string>
-    <string name="title_do_not_disturb">Neslyšíte vyzvánění?</string>
-    <string name="title_eye_shield">Barvy displeje nevypadají v pořádku?</string>
+    <string name="title_do_not_disturb">Neslyšíte vyzvánění</string>
+    <string name="title_eye_shield">Barvy displeje nevypadají v pořádku</string>
     <string name="title_find_device">Najít zařízení</string>
     <string name="title_first_aid_kit">Vyřešit problémy</string>
     <string name="title_flow_notification">Upozornění na mobilní data</string>
@@ -5314,7 +5302,7 @@ Formátování vymaže veškerý obsah z ^2. Před zahájením formátování ul
     <string name="title_power_optimizer">Spořič baterie</string>
     <string name="title_realname_verify">Ověření identity</string>
     <string name="title_reply">Komentář</string>
-    <string name="title_restrict_data_usage">%s se nemůže připojit k internetu?</string>
+    <string name="title_restrict_data_usage">%s se nemůže připojit k internetu</string>
     <string name="title_safe_mode">Zapnout Bezpečný režim</string>
     <string name="title_show_notification">Widget v oznamovací roletce</string>
     <string name="title_system_auto_download">Automatické stahování aktualizací</string>
@@ -5631,7 +5619,7 @@ Funkci nelze využít, pokud je zapnutý Spořič baterie nebo Ultra spořič ba
     <string name="vtb_func_display_style_desc0">AI dokáže rozpoznat osoby, zvířata, rostliny, oblohu, budovy a spousty dalších objektů ve vašich videích a dynamicky je zvýraznit.</string>
     <string name="vtb_func_display_style_desc1">Vybrané efekty nebudou použity pro videa s rozlišením HDR na vybraných zařízeních.</string>
     <string name="vtb_func_display_style_desc2">Tyto efekty nemohou být použity na snímky obrazovky.</string>
-    <string name="vtb_func_frc_desc0">Funkce Zaostření pohybu snižuje rozmazání a vylepšuje detaily pohybujících se objektů. Použití této funkce zvyšuje spotřebu baterie.</string>
+    <string name="vtb_func_frc_desc0">Funkce Zaostření pohybu snižuje rozostření a vylepšuje detaily pohybujících se objektů. Použití této funkce zvyšuje spotřebu baterie.</string>
     <string name="vtb_func_frc_desc1">Zaostření pohybu nefunguje v následujících případech:</string>
     <string name="vtb_func_frc_desc2">Rozlišení vide je vyšší než 1080P</string>
     <string name="vtb_func_frc_desc3">Snímková frekvence je vyšší než 30fps</string>

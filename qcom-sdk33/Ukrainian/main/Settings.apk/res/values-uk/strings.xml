@@ -5099,6 +5099,8 @@ Xiaomi Cloud
     <string name="login_action">Вхід</string>
     <string name="long_press_back_key">Тривале натиснення кнопки \"Назад\"</string>
     <string name="long_press_buttom_key">Довге натиснення кнопки \"Додому\" на екрані блокування</string>
+    <string name="long_press_editor_style_summary">Натисніть і утримуйте Екран блокування, щоб змінити годинник і шпалери</string>
+    <string name="long_press_editor_style_title">Натисніть та утримуйте для редагування</string>
     <string name="long_press_home_key">Тривале натиснення кнопки \"Додому\"</string>
     <string name="long_press_menu_key">Тривале натиснення кнопки \"Меню\"</string>
     <string name="long_press_menu_key_when_lock">Довге натиснення кнопки \"Меню\" на екрані блокування</string>

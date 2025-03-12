@@ -5101,6 +5101,8 @@ Verbind minstens 4 punten."</string>
     <string name="login_action">Aanmelden</string>
     <string name="long_press_back_key">Houd de Terugknop lang ingedrukt</string>
     <string name="long_press_buttom_key">Houd de Home-knop lang ingedrukt op het Vergrendelscherm</string>
+    <string name="long_press_editor_style_summary">Houd het Vergrendelscherm ingedrukt om de klok en achtergrond te bewerken</string>
+    <string name="long_press_editor_style_title">Houd ingedrukt om te bewerken</string>
     <string name="long_press_home_key">Houd de Home-knop lang ingedrukt</string>
     <string name="long_press_menu_key">Houd de Menuknop lang ingedrukt</string>
     <string name="long_press_menu_key_when_lock">Houd de Menuknop lang ingedrukt op het Vergrendelscherm</string>

@@ -5101,6 +5101,8 @@ Conectați cel puțin 4 puncte."</string>
     <string name="login_action">Conectați-vă</string>
     <string name="long_press_back_key">Apăsați lung butonul Înapoi</string>
     <string name="long_press_buttom_key">Apăsați lung Acasă pe Ecranul de blocare</string>
+    <string name="long_press_editor_style_summary">Țineți apăsat Ecranul de blocare pentru a edita ceasul și imaginea de fundal</string>
+    <string name="long_press_editor_style_title">Țineți apăsat pentru a edita</string>
     <string name="long_press_home_key">Apăsați lung butonul Acasă</string>
     <string name="long_press_menu_key">Apăsați lung butonul Meniu</string>
     <string name="long_press_menu_key_when_lock">Apăsați lung pe Meniu pe Ecranul de blocare</string>

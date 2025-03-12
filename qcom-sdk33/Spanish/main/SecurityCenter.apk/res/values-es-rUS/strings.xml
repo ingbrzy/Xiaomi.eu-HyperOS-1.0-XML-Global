@@ -590,7 +590,6 @@ No perderá ningún dato de aplicación."</string>
     <string name="apps_list_header_title_sms">Revisar aplicación de mensajería</string>
     <string name="apps_list_header_title_sms_access">Restringir acceso a códigos de verificación</string>
     <string name="ask_create_shortcut">¿Crear acceso directo en la Pantalla de inicio?</string>
-    <string name="audio_optimization_summary">Mejora el audio y reduce el sonido ambiente en conversaciones</string>
     <string name="audio_optimization_summary_new">Optimiza la calidad del sonido de los audífonos mientras juegas y reduce el ruido durante las llamadas</string>
     <string name="audio_optimization_title">Audio mejorado</string>
     <string name="auto_atsk_condition_battery_level_text_down">Cuando la batería alcanza %s</string>
@@ -1183,6 +1182,7 @@ Sin embargo, algunas de sus transacciones aún no se han completado. Para poder 
     <string name="cs_voice_search">Huella de voz</string>
     <string name="cs_vt_camera_toast_case1">Abra la cámara en la aplicación actual</string>
     <string name="cs_vt_camera_toast_case2">No hay dispositivos compatibles cerca</string>
+    <string name="cta_HIPS_Perm_Location_Desc">Para proporcionar las funciones relevantes para su ubicación en el Centro de avisos, SOS de emergencia, Ahorro de batería de aplicaciones y el escáner de seguridad de pagos, así como los servicios de ubicación aproximada</string>
     <string name="cta_agree_desc">Para poder usar nuestros servicios permita a esta aplicación conectarse a internet y otorgue los permisos arriba mencionados.</string>
     <string name="cta_close_dialog_cancel">Cancelar</string>
     <string name="cta_close_dialog_content">Si restringe el acceso de Seguridad a internet y a la información de su ubicación, no podrá recibir alertas sísmicas, actualizar las definiciones de virus e información de la lista negra. Su dispositivo será menos seguro. ¿Restringir?</string>
@@ -1415,6 +1415,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="error_icon_content_description">Error</string>
     <string name="evening">Tarde</string>
     <string name="every_day">Todos los días</string>
+    <string name="ew_monitor_summary1">Use su dispositivo para detectar movimientos sísmicos.</string>
     <string name="examination_score_100">¡Todo parece estar bien!</string>
     <string name="examination_score_60_0">Analizar ahora</string>
     <string name="examination_score_80_100">Algunos elementos pueden optimizarse</string>
@@ -1769,7 +1770,6 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="gamebox_brightness">Brillo</string>
     <string name="gamebox_browser_not_find">Instale Navegador Mi primero</string>
     <string name="gamebox_bullet_chat">Comentarios en pantalla</string>
-    <string name="gamebox_cellular_network">Optimizar la red celular</string>
     <string name="gamebox_cellular_network_description">Selecciona automáticamente la mejor ruta de red según la latencia del juego</string>
     <string name="gamebox_collimator">Mira telescópica</string>
     <string name="gamebox_display_1">Ninguno</string>
@@ -1995,7 +1995,6 @@ Xiaomi Gaming Cooler"</string>
     <string name="gb_manual_record_dialog_del_video_message">¿Eliminar videos seleccionados permanentemente?</string>
     <string name="gb_manual_video_record_title">Grabaciones</string>
     <string name="gb_margin_restrain">Ignorar toques accidentales en los bordes</string>
-    <string name="gb_margin_restrain_description">Su dispositivo responderá menos a los toques accidentales en el área cercana a los bordes</string>
     <string name="gb_margin_restrain_seekbar">Área de toques accidentales</string>
     <string name="gb_msg_completely_shielded">Ocultar mensajes</string>
     <string name="gb_msg_completely_shielded_summary">Ocultar</string>
@@ -2089,10 +2088,8 @@ pero también aumenta el consumo de energía y permite que el dispositivo se sob
     <string name="gb_super_finger_up">Respuesta rápida a toques</string>
     <string name="gb_super_finger_up_msg">Acelere la respuesta de toques a nivel de hardware</string>
     <string name="gb_super_follow_up">Seguimiento de gestos</string>
-    <string name="gb_super_follow_up_msg">Obtenga una mejor respuesta en tiempo real durante todo el gesto</string>
     <string name="gb_super_motion">Controles táctiles mejorados</string>
     <string name="gb_super_shake">Algoritmo de estabilización</string>
-    <string name="gb_super_shake_msg">Haga que los gestos más pequeños respondan mejor utilizando un algoritmo dedicado</string>
     <string name="gb_turbo_collimator_subtitle">Usar dispositivo de puntería</string>
     <string name="gb_turbo_macro_subtitle">Realizar acciones de alto nivel</string>
     <string name="gb_turbo_shoulder_subtitle">Configurar controles de juego</string>
@@ -2174,7 +2171,6 @@ de sus sesiones de juego"</string>
     <string name="gd_setting_conversation">Herramientas de conferencia</string>
     <string name="gd_setting_conversation_desc">Proporciona una variedad de funciones para usar en llamadas de voz y video de pantalla completa</string>
     <string name="gd_setting_dock_activity_title">Caja de herramientas lateral</string>
-    <string name="gd_setting_dock_call_summary">Funciones para llamadas de voz y video (por ejemplo, luz de relleno)</string>
     <string name="gd_setting_dock_call_title">Caja de herramientas de llamadas</string>
     <string name="gd_setting_dock_game_summary">Mejore la visualización y el rendimiento mientras juega</string>
     <string name="gd_setting_dock_game_summary_new">Mejore la visualización y el rendimiento mientras juega</string>
@@ -3371,14 +3367,14 @@ el Ahorro de batería extremo"</string>
     <string name="pc_low_temperature_extreme_endurance_title">Modo resistencia al frío</string>
     <string name="pc_main_activity_back">Atrás</string>
     <string name="pc_main_battery_text_day">%1$s min agregados. Alrededor de %2$s d restantes</string>
-    <string name="pc_main_battery_text_day_hour">%1$s min agregados. Alrededor de %2$s d y %3$s h restantes</string>
+    <string name="pc_main_battery_text_day_hour">%1$s min agregados. Alrededor de %2$s d %3$s h restantes</string>
     <string name="pc_main_battery_text_hour">%1$s min agregados. Alrededor de %2$s h restantes</string>
-    <string name="pc_main_battery_text_hour_minute">%1$s min agregados. Alrededor de %2$s h y %3$s min restantes</string>
+    <string name="pc_main_battery_text_hour_minute">%1$s min agregados. Alrededor de %2$s h %3$s min restantes</string>
     <string name="pc_main_battery_text_minute">%1$s min agregados. Alrededor de %2$s min restantes</string>
     <string name="pc_main_power_manager_day_hour">%1$s d y %2$s h para carga total</string>
     <string name="pc_main_power_manager_hour_minute">%1$s h y %2$s min para carga total</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$s d y %2$s h restantes</string>
-    <string name="pc_main_sub_battery_text_hour_minute">%1$s h y %2$s min restantes</string>
+    <string name="pc_main_sub_battery_text_hour_minute">%1$s h %2$s min restantes</string>
     <string name="pc_more_battery_feature">Funciones adicionales</string>
     <string name="pc_more_power_rank_apps">Más aplicaciones</string>
     <string name="pc_night_charge_protect_summary">Ajuste la duración de la carga automáticamente para ralentizar el envejecimiento de la batería</string>
@@ -3430,7 +3426,7 @@ el Ahorro de batería extremo"</string>
     <string name="pc_smart_discharge_protect_notifi_summary">Para proteger la batería, la carga se detendrá automáticamente en un nivel seleccionado al usar aplicaciones de navegación</string>
     <string name="pc_smart_discharge_protect_notifi_summary2">Para proteger la batería, la carga se detendrá automáticamente en un nivel seleccionado al usar aplicaciones de navegación</string>
     <string name="pc_smart_discharge_protect_notifi_title">Autodesconexión durante la carga está activado</string>
-    <string name="pc_statistics_battery_last_hour_minute">%1$d h y %2$d min restantes</string>
+    <string name="pc_statistics_battery_last_hour_minute">%1$d h %2$d min restantes</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$d h y %2$d min desde la última carga</string>
     <string name="pc_statistics_battery_use_summary">%s desde la última carga</string>
     <string name="pc_statistics_battery_use_title">Uso de batería</string>
@@ -3804,7 +3800,7 @@ el Ahorro de batería extremo"</string>
     <string name="power_dialog_super_save_title">Ahorro de batería ultra</string>
     <string name="power_idle">Teléfono inactivo</string>
     <string name="power_main_battery_last_day_hour">%1$s d y %2$s h restantes</string>
-    <string name="power_main_battery_last_hour_minute">%1$s h y %2$s min restantes</string>
+    <string name="power_main_battery_last_hour_minute">%1$s h %2$s min restantes</string>
     <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s de tiempo en pantalla restante</string>
     <string name="power_main_open_last_hour_minute_screen_on">Active para agregar %1$s %2$s de tiempo en pantalla</string>
     <string name="power_ntc_dialog_btn_finish">Entendido</string>
@@ -4175,7 +4171,7 @@ el Ahorro de batería extremo"</string>
     <string name="privacy_pop_storage">Hoy se accedió al almacenamiento</string>
     <string name="privacy_prompt_tc_sms_report_message">Su número telefónico y los detalles de la operadora serán encriptados y cargados a los servidores Mi para actualizar la información de su uso de datos.</string>
     <string name="privacy_prompt_upload">Subir</string>
-    <string name="privacy_protect_summary">Proteja su información personal</string>
+    <string name="privacy_protect_summary">Proteja los elementos privados</string>
     <string name="privacy_protect_title">Protección de privacidad</string>
     <string name="privacy_provision_back">Atrás</string>
     <string name="privacy_provision_more">Aprender más acerca de la protección de privacidad</string>
@@ -4779,15 +4775,11 @@ Debido a que %2$s brinda sus servicios en función de la recopilación de la inf
     <string name="st_antispam_mode_smart_sum">Bloquear números que ha añadido manualmente y números que hayan sido reportados por otros usuarios</string>
     <string name="st_antispam_title_anoy_incoming">Llamadas de desconocidos</string>
     <string name="st_antispam_title_anoy_sms">Mensajes de desconocidos</string>
-    <string name="st_antispam_title_contact_incoming">Llamadas de Contactos</string>
-    <string name="st_antispam_title_contact_sms">Mensajes de Contactos</string>
-    <string name="st_antispam_title_contactandanoy_group">Configuración</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Números privados</string>
     <string name="st_antispam_title_service_sms">Notificaciones de servicio</string>
     <string name="st_antispam_title_whitelist">Excepciones</string>
     <string name="st_call_backsound_group">Sonido de Lista negra</string>
-    <string name="st_call_intercept_contacts">Bloquear llamadas de contactos</string>
     <string name="st_call_intercept_forwarding">Bloquear llamadas desviadas</string>
     <string name="st_call_intercept_oversea">Bloquear llamadas desde el extranjero</string>
     <string name="st_call_intercept_reported">Bloquear llamadas de números reportados</string>
@@ -4797,9 +4789,8 @@ Debido a que %2$s brinda sus servicios en función de la recopilación de la inf
     <string name="st_call_settings">Lista negra de llamadas</string>
     <string name="st_call_stranger_group">Bloquear llamadas de desconocidos</string>
     <string name="st_confirm_dialog_btn_open">Bloquear</string>
-    <string name="st_confirm_dialog_summary_contact_call">Todas las llamadas de contactos serán bloqueadas.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Se bloquearán todas las llamadas de números de teléfono extranjeros.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Todas las llamadas de desconocidos serán bloqueadas.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">Se bloquearán las llamadas de cualquier número que no esté en sus excepciones o en sus contactos. ¿Activar ahora?</string>
     <string name="st_filter_keywords_setting_summary1">Serán bloqueados los mensajes enviados desde números desconocidos que contengan las palabras de esta lista.</string>
     <string name="st_filter_keywords_setting_summary2">(Use una coma para separar múltiples palabras clave)</string>
     <string name="st_filter_keywords_setting_summary3">Se permitirán los mensajes de números desconocidos que contengan las palabras en esta lista.</string>
@@ -4811,7 +4802,6 @@ Debido a que %2$s brinda sus servicios en función de la recopilación de la inf
     <string name="st_message_SMSpass">Permitir SMS</string>
     <string name="st_message_phone_AntiSpam">Bloquear llamadas</string>
     <string name="st_message_phonepass">Permitir llamadas</string>
-    <string name="st_msg_intercept_contacts">Bloquear SMS de contactos</string>
     <string name="st_msg_keyword_black">Lista negra de palabras clave</string>
     <string name="st_msg_keyword_group">Palabras clave</string>
     <string name="st_msg_keyword_white">Excepciones de palabras clave</string>
@@ -4825,11 +4815,11 @@ Debido a que %2$s brinda sus servicios en función de la recopilación de la inf
     <string name="st_sub_title_whiteblack_list_group">Lista negra</string>
     <string name="st_sum_call_wait">Su mensaje de ausencia también será tomado como un señal de ocupado para las llamadas entrantes.</string>
     <string name="st_summary_blacklist_numbers">Bloquear llamadas y mensajes de números y áreas específicos</string>
-    <string name="st_summary_blacklist_numbers_international">Bloquear llamadas y mensajes de números específicos</string>
+    <string name="st_summary_blacklist_numbers_international">Bloquear llamadas según número o prefijo</string>
     <string name="st_summary_keywords_blacklist">Agregar palabras clave para bloquear mensajes</string>
     <string name="st_summary_special_numbers">Bloquear números telefónicos marcados</string>
     <string name="st_summary_whitelist_numbers">Permitir llamadas y mensajes de números y áreas específicos</string>
-    <string name="st_summary_whitelist_numbers_international">Permitir llamadas y mensajes de números específicos</string>
+    <string name="st_summary_whitelist_numbers_international">Permitir llamadas basadas en un número o prefijo</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Añadir a la lista negra</string>
@@ -5261,9 +5251,9 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="title_app_lock_disable">Bloquear aplicaciones</string>
     <string name="title_app_update">Actualizaciones disponibles</string>
     <string name="title_auto_update">Actualizar automáticamente</string>
-    <string name="title_background_connection">¿No puede usar %s en segundo plano?</string>
-    <string name="title_block_calls_from_cantacts">¿Llamadas perdidas de sus contactos?</string>
-    <string name="title_block_calls_from_strangers">¿Llamadas perdidas importantes?</string>
+    <string name="title_background_connection">No se puede usar %s en segundo plano</string>
+    <string name="title_block_calls_from_cantacts">Llamadas perdidas de tus contactos</string>
+    <string name="title_block_calls_from_strangers">Lllamadas perdidas importantes</string>
     <string name="title_chain_start">Restringir inicio en cadena</string>
     <string name="title_cleaner_cloudscan">Escanear papelera en la Nube</string>
     <string name="title_cloud_account">Cuenta Mi</string>
@@ -5280,8 +5270,8 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="title_dev_no">Opciones de desarrollador activadas</string>
     <string name="title_dev_yes">Opciones de desarrollador desactivadas</string>
     <string name="title_device_not_root">Acceso a raíz no fue concedido</string>
-    <string name="title_do_not_disturb">¿No puede escuchar su tono de llamada?</string>
-    <string name="title_eye_shield">¿El color de la pantalla no se ve bien?</string>
+    <string name="title_do_not_disturb">No se escucha su tono de llamada</string>
+    <string name="title_eye_shield">El color de la pantalla no parece el correcto</string>
     <string name="title_find_device">Encontrar dispositivo</string>
     <string name="title_first_aid_kit">Resolver problemas</string>
     <string name="title_flow_notification">Notificaciones de datos móviles</string>
@@ -5314,7 +5304,7 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="title_power_optimizer">Ahorro de batería</string>
     <string name="title_realname_verify">Verificación de ID</string>
     <string name="title_reply">Comentario</string>
-    <string name="title_restrict_data_usage">¿%s no puede conectarse a internet?</string>
+    <string name="title_restrict_data_usage">%s no se puede conectar a internet</string>
     <string name="title_safe_mode">Activar Modo seguro</string>
     <string name="title_show_notification">Widget del panel de notificaciones</string>
     <string name="title_system_auto_download">Las actualizaciones se descargarán automáticamente</string>

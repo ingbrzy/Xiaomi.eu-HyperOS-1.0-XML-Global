@@ -5101,6 +5101,8 @@ Xiaomi Cloud
     <string name="login_action">تسجيل الدخول</string>
     <string name="long_press_back_key">اضغط مطولاً على زر الرجوع</string>
     <string name="long_press_buttom_key">الضغط مطولاً على زر الصفحة الرئيسية من شاشة القفل</string>
+    <string name="long_press_editor_style_summary">اضغط مطولا على قفل الشاشة لتعديل الساعة وخلفيات الشاشة</string>
+    <string name="long_press_editor_style_title">اضغط مطولا للتعديل</string>
     <string name="long_press_home_key">اضغط مطولاً على زر الشاشة الرئيسية</string>
     <string name="long_press_menu_key">اضغط مطولاً على زر القائمة</string>
     <string name="long_press_menu_key_when_lock">الضغط مطولاً على زر القائمة في شاشة القفل</string>

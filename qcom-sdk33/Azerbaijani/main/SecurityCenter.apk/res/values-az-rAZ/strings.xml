@@ -563,7 +563,6 @@ Heç bir tətbiq məlumatını itirməyəcəksiniz."</string>
     <string name="apps_list_header_title_sms">Mesajlaşma tətbiqini yoxla</string>
     <string name="apps_list_header_title_sms_access">Təsdiqləmə kodları üçün müraciəti məhdudlaşdır</string>
     <string name="ask_create_shortcut">Əsas ekran qısayolu yaradılsın?</string>
-    <string name="audio_optimization_summary">Söhbətlərdə ətraf səs-küyü azaldın və səsi təkmilləşdirin</string>
     <string name="audio_optimization_summary_new">Oyun zamanı qulaqlıqların səs keyfiyyətini optimallaşdırın və zəng zamanı küyü azaldın</string>
     <string name="audio_optimization_title">Təkmilləşdirilmiş səs</string>
     <string name="auto_atsk_condition_battery_level_text_down">Batareya %s çatdıqda</string>
@@ -1664,7 +1663,6 @@ Nömrə istisnalara əlavə ediləcək, amma əvvəlcədən əngəllənmiş elem
     <string name="gamebox_brightness">Parlaqlıq</string>
     <string name="gamebox_browser_not_find">Əvvəlcə Mi Brauzer quraşdırın</string>
     <string name="gamebox_bullet_chat">Ekrandakı şərhlər</string>
-    <string name="gamebox_cellular_network">Mobil şəbəkəni optimallaşdırın</string>
     <string name="gamebox_cellular_network_description">Oyun gecikməsinə əsaslanaraq avtomatik olaraq ən yaxşı şəbəkə yolunu seçin</string>
     <string name="gamebox_collimator">Nişangah</string>
     <string name="gamebox_display_1">Yoxdur</string>
@@ -1890,7 +1888,6 @@ Ardıcıllığı yazın və istədiyiniz zaman istifadə edin!"</string>
     <string name="gb_manual_record_dialog_del_video_message">Seçilmiş videolar həmişəlik silinsin?</string>
     <string name="gb_manual_video_record_title">Qeydlər</string>
     <string name="gb_margin_restrain">Kənarlarda təsadüfi toxunuşu nəzərə almayın</string>
-    <string name="gb_margin_restrain_description">Cihazınız kənarlara yaxın ərazidə təsadüfi toxunmağa daha az reaksiya verəcək</string>
     <string name="gb_margin_restrain_seekbar">Təsadüfən toxunma sahəsi</string>
     <string name="gb_msg_completely_shielded">Mesajları gizlət</string>
     <string name="gb_msg_completely_shielded_summary">Gizlət</string>
@@ -1984,10 +1981,8 @@ həm də enerji istehlakını artırır və cihazınızın həddindən artıq is
     <string name="gb_super_finger_up">Sürətli toxunma cavabı</string>
     <string name="gb_super_finger_up_msg">Avadanlıq səviyyəsində tap cavabını sürətləndirin</string>
     <string name="gb_super_follow_up">Jest izləmə</string>
-    <string name="gb_super_follow_up_msg">Bütün jest boyu daha yaxşı real vaxt cavabı alın</string>
     <string name="gb_super_motion">Təkmilləşdirilmiş toxunma idarə etmələri</string>
     <string name="gb_super_shake">Stabilləşdirmə alqoritmi</string>
-    <string name="gb_super_shake_msg">Xüsusi alqoritmdən istifadə edərək kiçik jestləri daha həssas edin</string>
     <string name="gb_turbo_collimator_subtitle">Nişan aləti istifadə edin</string>
     <string name="gb_turbo_macro_subtitle">Yüksək səviyyəli hərəkətlər edin</string>
     <string name="gb_turbo_shoulder_subtitle">Oyun nəzarətlərini qurun</string>
@@ -2069,7 +2064,6 @@ və Səs dəyişdiricimizi kəşf et!"</string>
     <string name="gd_setting_conversation">Konfrans alətləri</string>
     <string name="gd_setting_conversation_desc">Tam ekranlı səs və video zənglərdə istifadə üçün müxtəlif funksiyalar təqdim edir</string>
     <string name="gd_setting_dock_activity_title">Yan alət qutusu</string>
-    <string name="gd_setting_dock_call_summary">Səs və video zənglər üçün funksiyalar (məs. İşıq doldurma)</string>
     <string name="gd_setting_dock_call_title">Zəng alət qutusu</string>
     <string name="gd_setting_dock_game_summary">Oyunlar oynayarkən ekranı və performansı təkmilləşdir</string>
     <string name="gd_setting_dock_game_summary_new">Oyunlar oynayarkən ekranı və performansı təkmilləşdir</string>
@@ -4021,7 +4015,7 @@ qənaət söndürülür"</string>
     <string name="privacy_pop_storage">Bugün yaddaşa müraciət edildi</string>
     <string name="privacy_prompt_tc_sms_report_message">Telefon nömrəniz və operator detallarınız məlumat istifadəsi məlumatınızı yeniləmək üçün şifrlənəcək və Mi serverlərinə yüklənəcək.</string>
     <string name="privacy_prompt_upload">Yüklə</string>
-    <string name="privacy_protect_summary">Şəxsi məlumatlarınızı qoruyun</string>
+    <string name="privacy_protect_summary">Şəxsi əşyaları qoruyun</string>
     <string name="privacy_protect_title">Gizlilik qoruması</string>
     <string name="privacy_provision_back">Geri</string>
     <string name="privacy_provision_more">Gizlilik qorunması haqqında daha çox məlumat əldə edin</string>
@@ -4624,15 +4618,11 @@ Razılıq indi geri çəkilsin?"</string>
     <string name="st_antispam_mode_smart_sum">Əlavə etdiyiniz və digər istifadəçilər tərəfindən bildirilmiş nömrələri əngəllə</string>
     <string name="st_antispam_title_anoy_incoming">Yadlardan gələn zənglər</string>
     <string name="st_antispam_title_anoy_sms">Yadlardan gələn mesajlar</string>
-    <string name="st_antispam_title_contact_incoming">Kontaktlardan gələn zənglər</string>
-    <string name="st_antispam_title_contact_sms">Kontaktlardan gələn mesajlar</string>
-    <string name="st_antispam_title_contactandanoy_group">Tənzimləmələr</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Xüsusi nömrələr</string>
     <string name="st_antispam_title_service_sms">Xidmət bildirişləri</string>
     <string name="st_antispam_title_whitelist">İstisnalar</string>
     <string name="st_call_backsound_group">Əngəlli siyahısı səsi</string>
-    <string name="st_call_intercept_contacts">Kontaktlardan gələn zəngləri əngəllə</string>
     <string name="st_call_intercept_forwarding">Yönləndirilmiş zəngləri əngəllə</string>
     <string name="st_call_intercept_oversea">Xaricdən gələn zəngləri əngəllə</string>
     <string name="st_call_intercept_reported">Bildirilmiş nömrələrdən gələn zəngləri əngəllə</string>
@@ -4642,9 +4632,8 @@ Razılıq indi geri çəkilsin?"</string>
     <string name="st_call_settings">Əngəlli zəng siyahısı</string>
     <string name="st_call_stranger_group">Yadlardan gələn zəngləri əngəllə</string>
     <string name="st_confirm_dialog_btn_open">Əngəllə</string>
-    <string name="st_confirm_dialog_summary_contact_call">Kontaktlardan gələn bütün zənglər əngəllənəcək.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Xarici telefon nömrələrindən gələn bütün zənglər əngəllənəcək.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Yadlardan gələn bütün zənglər əngəllənəcək.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">İstisnalarda və ya kontaktlarda olmayan hər hansı nömrədən olan zəng bloklanacaq. İndi aktiv edilsin?</string>
     <string name="st_filter_keywords_setting_summary1">Bu siyahıdakı sözləri saxlayan naməlum nömrələrdən gələn mesajlar əngəllənəcək.</string>
     <string name="st_filter_keywords_setting_summary2">(Çoxlu açar sözlərini ayırmaq üçün vergül istifadə edin)</string>
     <string name="st_filter_keywords_setting_summary3">Bu siyahıdakı sözləri saxlayan naməlum nömrələrdən gələn mesajlara icazə verilir.</string>
@@ -4656,7 +4645,6 @@ Razılıq indi geri çəkilsin?"</string>
     <string name="st_message_SMSpass">SMS-lərə icazə ver</string>
     <string name="st_message_phone_AntiSpam">Zəngləri əngəllə</string>
     <string name="st_message_phonepass">Zənglərə icazə ver</string>
-    <string name="st_msg_intercept_contacts">Kontaktlardan gələn SMS-ləri əngəllə</string>
     <string name="st_msg_keyword_black">Əngəlli açar söz siyahısı</string>
     <string name="st_msg_keyword_group">Açar sözlər</string>
     <string name="st_msg_keyword_white">Açar söz istisnaları</string>
@@ -4670,11 +4658,11 @@ Razılıq indi geri çəkilsin?"</string>
     <string name="st_sub_title_whiteblack_list_group">Əngəlli siyahısı</string>
     <string name="st_sum_call_wait">Kənarda mesajınız eyni zamanda gələn zənglər üçün məşğul siqnalı kimi oynadılacaq.</string>
     <string name="st_summary_blacklist_numbers">Xüsusi nömrə və ərazilərdən gələn zəng və mesajları əngəlləyin</string>
-    <string name="st_summary_blacklist_numbers_international">Xüsusi nömrələrdən gələn zəng və mesajları əngəlləyin</string>
+    <string name="st_summary_blacklist_numbers_international">Nömrə və ya prefiksə əsasən zəngləri bloklayın</string>
     <string name="st_summary_keywords_blacklist">Mesajları əngəlləmək üçün açar sözlər əlavə edin</string>
     <string name="st_summary_special_numbers">İşarələnmiş telefon nömrələrini əngəlləyin</string>
     <string name="st_summary_whitelist_numbers">Xüsusi nömrə və ərazilərdən gələn zəng və mesajlara icazə verin</string>
-    <string name="st_summary_whitelist_numbers_international">Xüsusi nömrələrdən gələn zəng və mesajlara icazə verin</string>
+    <string name="st_summary_whitelist_numbers_international">Nömrə və ya prefiksə əsasən zənglərə icazə verin</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Əngəlli siyahısına əlavə et</string>
@@ -4899,8 +4887,8 @@ Formatlama ^2 mövcud məzmunu silir. Məzmunu itirməmək üçün onu başqa bi
     <string name="superpower_notification_low_temp_title">Ultra batareya qənaəti aktiv edilsin?</string>
     <string name="superpower_notification_new_title_new">%s səviyyəsindən daha az batareya qalır</string>
     <string name="superpower_notification_summary">Cihazınıza enerji yığın və ya Ultra batareya qənaətini açın</string>
-    <string name="superpower_notification_time_12">d MMMM, EEEE</string>
-    <string name="superpower_notification_time_24">d MMMM, EEEE</string>
+    <string name="superpower_notification_time_12">EEEE, d MMMM</string>
+    <string name="superpower_notification_time_24">EEEE, d MMMM</string>
     <string name="superpower_notification_title_new">%s səviyyəsindən daha az batareya qalır</string>
     <string name="superpower_progress_content">Ultra batareya qənaəti açılır…</string>
     <string name="superpower_progress_left_time">%1$dh %2$ddəq</string>
@@ -5104,9 +5092,9 @@ Formatlama ^2 mövcud məzmunu silir. Məzmunu itirməmək üçün onu başqa bi
     <string name="title_app_lock_disable">Tətbiqləri kilidlə</string>
     <string name="title_app_update">Yeniləmələr mövcuddur</string>
     <string name="title_auto_update">Avtomatik olaraq yenilə</string>
-    <string name="title_background_connection">%s arxa planda istifadə edə bilmirsiniz?</string>
-    <string name="title_block_calls_from_cantacts">Kontaktlarınızdan gələn zənglər buraxılsın?</string>
-    <string name="title_block_calls_from_strangers">Vacib zəngləri buraxırsınız?</string>
+    <string name="title_background_connection">%s arxa planda istifadə edə bilmirsiniz</string>
+    <string name="title_block_calls_from_cantacts">Kontaktlarınızdan gələn zənglər buraxılsın</string>
+    <string name="title_block_calls_from_strangers">Vacib zəngləri buraxırsınız</string>
     <string name="title_chain_start">Zəncirvari başlatmanı məhdudlaşdır</string>
     <string name="title_cleaner_cloudscan">Cloud zibil qutusu analizi</string>
     <string name="title_cloud_account">Xiaomi Hesabı</string>
@@ -5123,8 +5111,8 @@ Formatlama ^2 mövcud məzmunu silir. Məzmunu itirməmək üçün onu başqa bi
     <string name="title_dev_no">Tərtibatçı seçimləri açıqdır</string>
     <string name="title_dev_yes">Tərtibatçı seçimləri bağlıdır</string>
     <string name="title_device_not_root">Root müraciətinə icazə verilmədi</string>
-    <string name="title_do_not_disturb">Zəng səsini eşidə bilmirsiniz?</string>
-    <string name="title_eye_shield">Ekran rəngi doğru görsənmir?</string>
+    <string name="title_do_not_disturb">Zəng səsini eşidə bilmirsiniz</string>
+    <string name="title_eye_shield">Ekran rəngi doğru görsənmir</string>
     <string name="title_find_device">Cihazı tap</string>
     <string name="title_first_aid_kit">Problemləri həll et</string>
     <string name="title_flow_notification">Mobil internet bildirişi</string>
@@ -5157,7 +5145,7 @@ Formatlama ^2 mövcud məzmunu silir. Məzmunu itirməmək üçün onu başqa bi
     <string name="title_power_optimizer">Batareya qənaəti</string>
     <string name="title_realname_verify">Şəxsiyyət təsdiqləmə</string>
     <string name="title_reply">Şərh</string>
-    <string name="title_restrict_data_usage">%s internetə qoşula bilmir?</string>
+    <string name="title_restrict_data_usage">%s internetə qoşula bilmir</string>
     <string name="title_safe_mode">Təhlükəsiz rejimi açın</string>
     <string name="title_show_notification">Bildiriş paneli vidjeti</string>
     <string name="title_system_auto_download">Yeniləmələr avtomatik olaraq endiriləcək</string>

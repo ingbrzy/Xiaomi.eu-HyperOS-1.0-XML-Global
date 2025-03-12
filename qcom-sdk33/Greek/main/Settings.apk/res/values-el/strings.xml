@@ -5101,6 +5101,8 @@ Xiaomi Cloud
     <string name="login_action">Σύνδεση</string>
     <string name="long_press_back_key">Πατήστε παρατεταμένα το κουμπί Πίσω</string>
     <string name="long_press_buttom_key">Παρατεταμένο πάτημα Αρχικής στην Οθόνη κλειδώματος</string>
+    <string name="long_press_editor_style_summary">Πατήστε παρατεταμένα την Οθόνη κλειδώματος για να επεξεργαστείτε το ρολόι και την ταπετσαρία</string>
+    <string name="long_press_editor_style_title">Πατήστε παρατεταμένα για επεξεργασία</string>
     <string name="long_press_home_key">Πατήστε παρατεταμένα το κουμπί Αρχικής</string>
     <string name="long_press_menu_key">Πατήστε παρατεταμένα το κουμπί Μενού</string>
     <string name="long_press_menu_key_when_lock">Παρατεταμένο πάτημα Μενού στην Οθόνη κλειδώματος</string>

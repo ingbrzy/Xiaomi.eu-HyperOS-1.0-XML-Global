@@ -2553,6 +2553,8 @@ Xiaomi Cloud
     <string name="login_action">היכנס</string>
     <string name="long_press_back_key">"לחיצה ארוכה על לחצן ה'חזרה'"</string>
     <string name="long_press_buttom_key">"לחיצה ארוכה על 'בית' ב'מסך הנעילה'"</string>
+    <string name="long_press_editor_style_summary">יש ללחוץ לחיצה ממושכת על מסך נעילה לעריכת השעון והטפט</string>
+    <string name="long_press_editor_style_title">לעריכה יש ללחוץ לחיצה ממושכת</string>
     <string name="long_press_home_key">"לחיצה ארוכה על לחצן ה'בית'"</string>
     <string name="long_press_menu_key">"לחיצה ארוכה על לחצן ה'תפריט'"</string>
     <string name="long_press_menu_key_when_lock">"לחיצה ארוכה על 'תפריט' ב'מסך הנעילה'"</string>

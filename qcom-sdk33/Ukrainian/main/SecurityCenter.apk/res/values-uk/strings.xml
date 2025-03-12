@@ -590,7 +590,6 @@
     <string name="apps_list_header_title_sms">Перевірити програму для повідомлень</string>
     <string name="apps_list_header_title_sms_access">Обмежити доступ до кодів підтвердження</string>
     <string name="ask_create_shortcut">Створити ярлик на робочому столі?</string>
-    <string name="audio_optimization_summary">Покращувати аудіо та зменшувати шуми під час розмов</string>
     <string name="audio_optimization_summary_new">Оптимізовуйте якість звуку в навушниках під час ігор та зменшуйте рівень шуму під час викликів</string>
     <string name="audio_optimization_title">Покращений звук</string>
     <string name="auto_atsk_condition_battery_level_text_down">Коли заряд батареї досягне %s</string>
@@ -1769,7 +1768,6 @@
     <string name="gamebox_brightness">Яскравість</string>
     <string name="gamebox_browser_not_find">Встановіть Мі Браузер</string>
     <string name="gamebox_bullet_chat">Коментарі на екрані</string>
-    <string name="gamebox_cellular_network">Оптимізувати мобільну мережу</string>
     <string name="gamebox_cellular_network_description">Автоматично вибирати нвйкращий мережевий шлях з урахуванням затримки в грі</string>
     <string name="gamebox_collimator">Приціл</string>
     <string name="gamebox_display_1">Нічого</string>
@@ -1995,7 +1993,6 @@ Xiaomi Gaming Cooler"</string>
     <string name="gb_manual_record_dialog_del_video_message">Видалити вибрані відео назавжди?</string>
     <string name="gb_manual_video_record_title">Записи</string>
     <string name="gb_margin_restrain">Ігнорувати випадкові натиснення поруч з краями пристрою</string>
-    <string name="gb_margin_restrain_description">Пристрій буде менше реагувати на випадкові торкання поруч із краями екрана</string>
     <string name="gb_margin_restrain_seekbar">Зона випадкового дотику</string>
     <string name="gb_msg_completely_shielded">Приховати повідомлення</string>
     <string name="gb_msg_completely_shielded_summary">Приховати</string>
@@ -2089,10 +2086,8 @@ Xiaomi Gaming Cooler"</string>
     <string name="gb_super_finger_up">Швидкий відгук на натиснення</string>
     <string name="gb_super_finger_up_msg">Прискорення відгуку на апаратному рівні</string>
     <string name="gb_super_follow_up">Відстеження жестів</string>
-    <string name="gb_super_follow_up_msg">Найкращий час реакції на жест у реальному часі</string>
     <string name="gb_super_motion">Покращене сенсорне управління</string>
     <string name="gb_super_shake">Алгоритм стабілізації</string>
-    <string name="gb_super_shake_msg">Спеціальний алгоритм дозволяє покращити відгук на невеликі жести</string>
     <string name="gb_turbo_collimator_subtitle">Скористайтеся пристроєм для прицілювання</string>
     <string name="gb_turbo_macro_subtitle">Виконання першокласних дій</string>
     <string name="gb_turbo_shoulder_subtitle">Налаштування елементів керування</string>
@@ -2174,7 +2169,6 @@ Xiaomi Gaming Cooler"</string>
     <string name="gd_setting_conversation">Інструменти для конференцій</string>
     <string name="gd_setting_conversation_desc">Широкий набір функцій для використання під час повноекранних аудіо- та відеовикликів.</string>
     <string name="gd_setting_dock_activity_title">Бічна панель інструментів</string>
-    <string name="gd_setting_dock_call_summary">Функції для голосових та відеодзвінків (наприклад, освітлення)</string>
     <string name="gd_setting_dock_call_title">Панель інструментів для викликів</string>
     <string name="gd_setting_dock_game_summary">Покращте відображення та продуктивність під час гри</string>
     <string name="gd_setting_dock_game_summary_new">Покращте відображення та продуктивність під час гри</string>
@@ -4175,7 +4169,7 @@ to join our egg hunt!"</string>
     <string name="privacy_pop_storage">"Отримала доступ до пам'яті сьогодні"</string>
     <string name="privacy_prompt_tc_sms_report_message">Ваш номер телефону та інформація про оператора будуть завантажені на наш сервер, щоб оновити інформацію про трафік.</string>
     <string name="privacy_prompt_upload">Завантажити</string>
-    <string name="privacy_protect_summary">Захистіть вашу особисту інформацію</string>
+    <string name="privacy_protect_summary">Захистити конфіденційні дані</string>
     <string name="privacy_protect_title">Захист конфіденційності</string>
     <string name="privacy_provision_back">Назад</string>
     <string name="privacy_provision_more">Дізнайтеся більше про захист конфіденційності</string>
@@ -4779,15 +4773,11 @@ to join our egg hunt!"</string>
     <string name="st_antispam_mode_smart_sum">Блокувати чорний список та номери, відмічені користувачами</string>
     <string name="st_antispam_title_anoy_incoming">Виклики від незнайомців</string>
     <string name="st_antispam_title_anoy_sms">Повідомлення від незнайомців</string>
-    <string name="st_antispam_title_contact_incoming">Виклики від контактів</string>
-    <string name="st_antispam_title_contact_sms">Повідомлення від контактів</string>
-    <string name="st_antispam_title_contactandanoy_group">Налаштування</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Приховані номери</string>
     <string name="st_antispam_title_service_sms">Служба сповіщень</string>
     <string name="st_antispam_title_whitelist">Білий список</string>
     <string name="st_call_backsound_group">Мелодія чорного списку</string>
-    <string name="st_call_intercept_contacts">Блокувати виклики від контактів</string>
     <string name="st_call_intercept_forwarding">Блокувати переадресовані виклики</string>
     <string name="st_call_intercept_oversea">Блокувати виклики з-за кордону</string>
     <string name="st_call_intercept_reported">Блокувати виклики з відмічених номерів</string>
@@ -4797,9 +4787,8 @@ to join our egg hunt!"</string>
     <string name="st_call_settings">Чорний список викликів</string>
     <string name="st_call_stranger_group">Блокувати виклики від незнайомців</string>
     <string name="st_confirm_dialog_btn_open">Заблокувати</string>
-    <string name="st_confirm_dialog_summary_contact_call">Всі виклики від контактів будуть заблоковані.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Всі виклики від іноземних номерів будуть заблоковані.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Всі виклики від незнайомців будуть заблоковані.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">Дзвінки з будь-якого номера, який не входить до ваших винятків або контактів, будуть заблоковані. Увімкнути?</string>
     <string name="st_filter_keywords_setting_summary1">Повідомлення, що містять ключові слова, будуть заблоковані.</string>
     <string name="st_filter_keywords_setting_summary2">(Ви можете додати декілька ключових слів через кому)</string>
     <string name="st_filter_keywords_setting_summary3">Повідомлення від невідомих номерів, які містять ключові слова, будуть дозволені.</string>
@@ -4811,7 +4800,6 @@ to join our egg hunt!"</string>
     <string name="st_message_SMSpass">Дозволити SMS</string>
     <string name="st_message_phone_AntiSpam">Блокувати виклики</string>
     <string name="st_message_phonepass">Дозволити виклики</string>
-    <string name="st_msg_intercept_contacts">Блокувати SMS від контактів</string>
     <string name="st_msg_keyword_black">Чорний список за ключовим словом</string>
     <string name="st_msg_keyword_group">Ключові слова</string>
     <string name="st_msg_keyword_white">Білий список ключових слів</string>
@@ -4825,11 +4813,11 @@ to join our egg hunt!"</string>
     <string name="st_sub_title_whiteblack_list_group">Чорний список</string>
     <string name="st_sum_call_wait">Сигнал про відсутність також буде відтворюватися як сигнал \"Зайнято\".</string>
     <string name="st_summary_blacklist_numbers">Блокувати дзвінки та повідомлення з певних номерів та регіонів</string>
-    <string name="st_summary_blacklist_numbers_international">Блокувати виклики та повідомлення з певних номерів</string>
+    <string name="st_summary_blacklist_numbers_international">Блокувати виклики з урахуванням номера або префікса</string>
     <string name="st_summary_keywords_blacklist">Додати ключові слова для блокування повідомлень</string>
     <string name="st_summary_special_numbers">Заблокувати відмічені телефонні номери</string>
     <string name="st_summary_whitelist_numbers">Дозволити дзвінки та повідомлення з певних номерів та регіонів</string>
-    <string name="st_summary_whitelist_numbers_international">Дозволити виклики та повідомлення з певних номерів</string>
+    <string name="st_summary_whitelist_numbers_international">Дозволяти виклики з урахуванням номера або префікса</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Додати до чорного списку</string>
@@ -5261,9 +5249,9 @@ to join our egg hunt!"</string>
     <string name="title_app_lock_disable">Захист програм</string>
     <string name="title_app_update">Доступні оновлення</string>
     <string name="title_auto_update">Автооновлення</string>
-    <string name="title_background_connection">Не можете використовувати %s у фоновому режимі?</string>
-    <string name="title_block_calls_from_cantacts">Пропускаєте дзвінки від контактів?</string>
-    <string name="title_block_calls_from_strangers">Пропускаєте важливі дзвінки?</string>
+    <string name="title_background_connection">Не можете використовувати %s у фоновому режимі</string>
+    <string name="title_block_calls_from_cantacts">Пропускаєте дзвінки від контактів</string>
+    <string name="title_block_calls_from_strangers">Пропускаєте важливі дзвінки</string>
     <string name="title_chain_start">Обмежити взаємний запуск</string>
     <string name="title_cleaner_cloudscan">Сканування смітника у Xiaomi Cloud</string>
     <string name="title_cloud_account">Xiaomi акаунт</string>
@@ -5280,8 +5268,8 @@ to join our egg hunt!"</string>
     <string name="title_dev_no">Режим для розробників увімкнено</string>
     <string name="title_dev_yes">Режим для розробників вимкнено</string>
     <string name="title_device_not_root">ROOT-доступ не наданий</string>
-    <string name="title_do_not_disturb">Не чуєте дзвінок?</string>
-    <string name="title_eye_shield">Колір екрана виглядає не так?</string>
+    <string name="title_do_not_disturb">Не чуєте дзвінок</string>
+    <string name="title_eye_shield">Колір екрана виглядає не так</string>
     <string name="title_find_device">Пошук пристрою</string>
     <string name="title_first_aid_kit">Вирішення проблем</string>
     <string name="title_flow_notification">Сповіщення про мобільний інтернет</string>
@@ -5314,7 +5302,7 @@ to join our egg hunt!"</string>
     <string name="title_power_optimizer">Економія енергії</string>
     <string name="title_realname_verify">Перевірка ID</string>
     <string name="title_reply">Коментар</string>
-    <string name="title_restrict_data_usage">%s не може підключитися до інтернету?</string>
+    <string name="title_restrict_data_usage">%s не може підключитися до інтернету</string>
     <string name="title_safe_mode">Увімкнути безпечний режим</string>
     <string name="title_show_notification">Віджет панелі сповіщень</string>
     <string name="title_system_auto_download">Автоматичне завантаження оновлень увімкнено</string>

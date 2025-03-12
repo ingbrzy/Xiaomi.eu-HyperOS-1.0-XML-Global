@@ -5101,6 +5101,8 @@ Connecta almenys 4 punts."</string>
     <string name="login_action">Inicia la sessió</string>
     <string name="long_press_back_key">Premeu prolongadament el botó Enrere</string>
     <string name="long_press_buttom_key">"Premeu prolongadament el botó d'Inici a la pantalla de bloqueig"</string>
+    <string name="long_press_editor_style_summary">Premeu prolongadament la Pantalla de bloqueig per editar el rellotge i el fons de pantalla</string>
+    <string name="long_press_editor_style_title">Premeu prolongadament per editar</string>
     <string name="long_press_home_key">"Premeu prologadament el botó d'Inici"</string>
     <string name="long_press_menu_key">"Premeu prolongadament el botó d'Inici"</string>
     <string name="long_press_menu_key_when_lock">Pulsació llarga al botó menú a la Pantalla de bloqueig</string>

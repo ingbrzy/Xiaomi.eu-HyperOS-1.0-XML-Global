@@ -590,7 +590,6 @@ Neprídete o žiadne údaje aplikácií."</string>
     <string name="apps_list_header_title_sms">Skontrolovať apl. správ</string>
     <string name="apps_list_header_title_sms_access">Zakázať prístup k overovacím kódom</string>
     <string name="ask_create_shortcut">Vytvoriť odkaz na Domovskú obrazovku?</string>
-    <string name="audio_optimization_summary">Zlepšite zvuk a obmedzte okolitý hluk v konverzáciách</string>
     <string name="audio_optimization_summary_new">Optimalizujte kvalitu zvuku slúchadiel pri hraní hier a znížte šum počas hovorov</string>
     <string name="audio_optimization_title">Vylepšený zvuk</string>
     <string name="auto_atsk_condition_battery_level_text_down">Keď batéria dosiahne %s</string>
@@ -908,8 +907,8 @@ Niektoré z vašich transakcií však ešte nie sú dokončené. Ak chcete odvol
     <string name="btn_text_stop">Zastaviť</string>
     <string name="bubble_app_empty_page">Na tomto zariadení neboli nájdené aplikácie podporujúce funkciu konverzačnej bubliny</string>
     <string name="bubble_app_manage">Spravovať konverzačné bubliny</string>
-    <string name="bubble_mode_barrage_switch_tips">Zapnite, ak chcete zobrazovať bubliny konverzácií pre minimalizované aplikácie ako komentáre na obrazovke</string>
-    <string name="bubble_mode_barrage_tips">Bubliny konverzácie pre minimalizované aplikácie sa zobrazia ako komentáre na obrazovke</string>
+    <string name="bubble_mode_barrage_switch_tips">Zapnite, ak chcete zobrazovať konverzačné bubliny pre minimalizované aplikácie ako komentáre na obrazovke</string>
+    <string name="bubble_mode_barrage_tips">Konverzačné bubliny pre minimalizované aplikácie sa zobrazia ako komentáre na obrazovke</string>
     <string name="bubble_notification">Konverzačné bubliny</string>
     <string name="bubble_notification_switch">Zobraziť konverzačné bubliny</string>
     <string name="bubble_notification_switch_desc">Keď je aplikácia správ v plávajúcom okne skrytá na okraji obrazovky, zobraziť prichádzajúce správy v bublinách</string>
@@ -1172,7 +1171,7 @@ Niektoré z vašich transakcií však ešte nie sú dokončené. Ak chcete odvol
     <string name="cs_privacy_camera_global_settings_title">Súkromie hovorov</string>
     <string name="cs_screen_translation_title">Preklad obrazovky</string>
     <string name="cs_simultaneous_interpretation_title">Prekladanie</string>
-    <string name="cs_title_pickup">Redukcia hluku</string>
+    <string name="cs_title_pickup">Redukcia šumu</string>
     <string name="cs_title_smart_subtitle">Prepis konverzácie</string>
     <string name="cs_title_ultraclear">Režim Ultra HD</string>
     <string name="cs_tool_box_max_screen_guide_case_1">Vyskúšajte simultánne tlmočenie a ďalšie nástroje pre konferenčné hovory v novom paneli nástrojov hovorov</string>
@@ -1768,7 +1767,6 @@ Bude pridané do výnimiek, no predošlé blokované položky sa nezobrazia v hi
     <string name="gamebox_brightness">Jas</string>
     <string name="gamebox_browser_not_find">Najskôr nainštalujte Mi Prehliadač</string>
     <string name="gamebox_bullet_chat">Komentáre na obrazovke</string>
-    <string name="gamebox_cellular_network">Optimalizovať mobilnú sieť</string>
     <string name="gamebox_cellular_network_description">Automaticky vybrať najlepšiu sieťovú cestu na základe latencie hry</string>
     <string name="gamebox_collimator">Zamierenie</string>
     <string name="gamebox_display_1">Žiadne</string>
@@ -1994,7 +1992,6 @@ Nahrávajte sekvencie a kedykoľvek ich použite!"</string>
     <string name="gb_manual_record_dialog_del_video_message">Vymazať vybrané videá natrvalo?</string>
     <string name="gb_manual_video_record_title">Nahrávky</string>
     <string name="gb_margin_restrain">Ignorovať náhodné dotyky pri okrajoch</string>
-    <string name="gb_margin_restrain_description">Vaše zariadenie bude menej citlivé na náhodné dotyky v oblasti okrajov.</string>
     <string name="gb_margin_restrain_seekbar">Oblasť náhodných dotykov</string>
     <string name="gb_msg_completely_shielded">Skryť správy</string>
     <string name="gb_msg_completely_shielded_summary">Skryť</string>
@@ -2088,10 +2085,8 @@ ale tiež zvyšuje spotrebu energie a môže spôsobiť prehrievanie vášho zar
     <string name="gb_super_finger_up">Rýchla reakcia na ťuknutie</string>
     <string name="gb_super_finger_up_msg">Zrýchlite dotykovú odozvu na hardvérovej úrovni</string>
     <string name="gb_super_follow_up">Sledovanie gest</string>
-    <string name="gb_super_follow_up_msg">Získajte lepšiu odozvu v reálnom časom pomocou celého gesta</string>
     <string name="gb_super_motion">Vylepšené dotykové ovládanie</string>
     <string name="gb_super_shake">Stabilizačný algoritmus</string>
-    <string name="gb_super_shake_msg">Zvýšte odozvu na menšie gestá pomocou určeného algoritmu</string>
     <string name="gb_turbo_collimator_subtitle">Použiť zameriavacie zariadenie</string>
     <string name="gb_turbo_macro_subtitle">Vykonať špičkové akcie</string>
     <string name="gb_turbo_shoulder_subtitle">Nastaviť ovládanie</string>
@@ -2173,7 +2168,6 @@ hrania vašich hier"</string>
     <string name="gd_setting_conversation">Konferenčné nástroje</string>
     <string name="gd_setting_conversation_desc">Poskytuje množstvo funkcií pre audio a video hovory na celú obrazovku</string>
     <string name="gd_setting_dock_activity_title">Bočný panel nástrojov</string>
-    <string name="gd_setting_dock_call_summary">Funkcie pre hlasové hovory a videohovory (napr. doplnkové svetlo)</string>
     <string name="gd_setting_dock_call_title">Panel nástrojov pre volanie</string>
     <string name="gd_setting_dock_game_summary">Vylepšite zobrazenie a výkon pri hraní hier</string>
     <string name="gd_setting_dock_game_summary_new">Vylepšite zobrazenie a výkon pri hraní hier</string>
@@ -2206,7 +2200,7 @@ hrania vašich hier"</string>
     <string name="get_phone_num_fail">Neznáme telefónne číslo</string>
     <string name="get_sys_info">Získavanie informácií…</string>
     <string name="gigabyteShort">GB</string>
-    <string name="global_dock_guide_desc_pad">Pridržaním indikátora presuniete okno</string>
+    <string name="global_dock_guide_desc_pad">Stlačte a podržte indikátor pre presunutie okna</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Ťuknite na aplikáciu na bočnom paneli pre otvorenie plávajúceho okna.
 · Presuňte aplikáciu do stredu obrazovky pre jej otvorenie v plávajúcom okne alebo na kraj obrazovky pre jej otvorenie pomocou funkcie Rozdelená obrazovka.
 · Stlačte a podržte prst na indikátore pre presunutie okna."</string>
@@ -4169,7 +4163,7 @@ ultra šetrenia batérie"</string>
     <string name="privacy_pop_storage">Prístup k úložisku dnes</string>
     <string name="privacy_prompt_tc_sms_report_message">Vaše telefónne číslo a podrobnosti o operátorovi budú odoslané na Mi servery pre aktualizáciu vašej spotreby dát.</string>
     <string name="privacy_prompt_upload">Bezpečnostné upozornenie</string>
-    <string name="privacy_protect_summary">Chráňte si svoje súkromné údaje</string>
+    <string name="privacy_protect_summary">Ochrana súkromných položiek</string>
     <string name="privacy_protect_title">Ochrana súkromia</string>
     <string name="privacy_provision_back">Späť</string>
     <string name="privacy_provision_more">Zistite viac o ochrane súkromia</string>
@@ -4773,15 +4767,11 @@ Odvolať váš súhlas teraz?"</string>
     <string name="st_antispam_mode_smart_sum">Čierna listina a blokovať niektoré neznáme čísla</string>
     <string name="st_antispam_title_anoy_incoming">Neznáme hovory</string>
     <string name="st_antispam_title_anoy_sms">Neznáme SMS</string>
-    <string name="st_antispam_title_contact_incoming">Hovory od kontaktov</string>
-    <string name="st_antispam_title_contact_sms">SMS od kontaktov</string>
-    <string name="st_antispam_title_contactandanoy_group">Nastavenia</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Skryté čísla</string>
     <string name="st_antispam_title_service_sms">Upozornenia Služieb</string>
     <string name="st_antispam_title_whitelist">Výnimky</string>
     <string name="st_call_backsound_group">Zvuk zoznamu blokovaných</string>
-    <string name="st_call_intercept_contacts">Blokovať hovory od kontaktov</string>
     <string name="st_call_intercept_forwarding">Blokovať presmerované hovory</string>
     <string name="st_call_intercept_oversea">Blokovať hovory zo zahraničia</string>
     <string name="st_call_intercept_reported">Blokovať hovory z nahlásených čísel</string>
@@ -4791,9 +4781,8 @@ Odvolať váš súhlas teraz?"</string>
     <string name="st_call_settings">Blokované hovory</string>
     <string name="st_call_stranger_group">Blokovať hovory od neznámych ľudí</string>
     <string name="st_confirm_dialog_btn_open">Blokovať</string>
-    <string name="st_confirm_dialog_summary_contact_call">Všetky hovory od kontaktov budú zablokované.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Všetky hovory zo zahraničných čísel budú blokované.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Všetky hovory od neznámych ľudí budú zablokované.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">Hovory z akéhokoľvek čísla, ktoré nie je vo vašich výnimkách alebo kontaktoch, budú blokované. Zapnúť teraz?</string>
     <string name="st_filter_keywords_setting_summary1">SMS správy z neznámeho čísla a obsahujúce niektoré z kľúčových slov, budú blokované.</string>
     <string name="st_filter_keywords_setting_summary2">(Použite čiarku pre oddenie viacerých kľúčových slóv)</string>
     <string name="st_filter_keywords_setting_summary3">Správy z neznámych čísel obsahujúce niektoré z týchto kľúčových slov budú povolené.</string>
@@ -4805,7 +4794,6 @@ Odvolať váš súhlas teraz?"</string>
     <string name="st_message_SMSpass">Povoliť SMS</string>
     <string name="st_message_phone_AntiSpam">Otravný Hovor</string>
     <string name="st_message_phonepass">Hovory</string>
-    <string name="st_msg_intercept_contacts">Blokovať SMS od kontaktov</string>
     <string name="st_msg_keyword_black">Blokované kľúčové slová</string>
     <string name="st_msg_keyword_group">Kľúčové slová</string>
     <string name="st_msg_keyword_white">Výnimky kľúčových slov</string>
@@ -4819,11 +4807,11 @@ Odvolať váš súhlas teraz?"</string>
     <string name="st_sub_title_whiteblack_list_group">Zoznam blokovaných</string>
     <string name="st_sum_call_wait">Ak váš tón čakajúceho hovoru nie je štandardný, môže to zmiasť volajúceho účastníka</string>
     <string name="st_summary_blacklist_numbers">Blokovať hovory a SMS pomocou čísla a smerového čísla</string>
-    <string name="st_summary_blacklist_numbers_international">Blokovať hovory a správy z týchto čísel</string>
+    <string name="st_summary_blacklist_numbers_international">Blokovať hovory na základe čísla alebo predvoľby</string>
     <string name="st_summary_keywords_blacklist">Pridať slová pre blokovanie SMS</string>
     <string name="st_summary_special_numbers">Blokovať označené čísla</string>
     <string name="st_summary_whitelist_numbers">Povoliť hovory a SMS z určitých čísiel a krajín</string>
-    <string name="st_summary_whitelist_numbers_international">Povoliť hovory a správy z týchto čísel</string>
+    <string name="st_summary_whitelist_numbers_international">Povoliť hovory na základe čísla alebo predvoľby</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Pridať medzi blokované</string>
@@ -5255,9 +5243,9 @@ Formátovanie vymaže existujúci obsah na ^2 karte. Aby ste sa vyhli strate úd
     <string name="title_app_lock_disable">Zamknúť aplikácie</string>
     <string name="title_app_update">Dostupné aktualizácie</string>
     <string name="title_auto_update">Aktualizovať automaticky</string>
-    <string name="title_background_connection">Nedá sa použiť %s na pozadí?</string>
-    <string name="title_block_calls_from_cantacts">Zmeškané hovory od vašich kontaktov?</string>
-    <string name="title_block_calls_from_strangers">Zmeškané dôležité hovory?</string>
+    <string name="title_background_connection">%s nie je možné použiť na pozadí</string>
+    <string name="title_block_calls_from_cantacts">Zmeškané hovory od vašich kontaktov</string>
+    <string name="title_block_calls_from_strangers">Zmeškané dôležité hovory</string>
     <string name="title_chain_start">Zakázať reťazové spustenie</string>
     <string name="title_cleaner_cloudscan">Cloudová kontrola odpadu</string>
     <string name="title_cloud_account">Xiaomi konto</string>
@@ -5274,8 +5262,8 @@ Formátovanie vymaže existujúci obsah na ^2 karte. Aby ste sa vyhli strate úd
     <string name="title_dev_no">Možnosti pre vývojárov zapnuté</string>
     <string name="title_dev_yes">Možnosti pre vývojárov vypnuté</string>
     <string name="title_device_not_root">Prístup k root nebol udelený</string>
-    <string name="title_do_not_disturb">Nepočujete tón zvonenia?</string>
-    <string name="title_eye_shield">Farba displeja nevyzerá dobre?</string>
+    <string name="title_do_not_disturb">Nie je počuť zvonenie</string>
+    <string name="title_eye_shield">Farba displeja nevyzerá dobre</string>
     <string name="title_find_device">Vyhľadať zariadenie</string>
     <string name="title_first_aid_kit">Riešenie problémov</string>
     <string name="title_flow_notification">Upozornenie mobilných dát</string>
@@ -5308,7 +5296,7 @@ Formátovanie vymaže existujúci obsah na ^2 karte. Aby ste sa vyhli strate úd
     <string name="title_power_optimizer">Šetrenie batérie</string>
     <string name="title_realname_verify">Overenie ID</string>
     <string name="title_reply">Komentovať</string>
-    <string name="title_restrict_data_usage">%s nedá sa pripojiť na internet?</string>
+    <string name="title_restrict_data_usage">%s nie je možné pripojiť na internet</string>
     <string name="title_safe_mode">Povoliť Bezpečný režim</string>
     <string name="title_show_notification">Widget notifikačnej roletky</string>
     <string name="title_system_auto_download">Aktualizácie sa sťahujú automaticky</string>

@@ -563,7 +563,6 @@
     <string name="apps_list_header_title_sms">בדוק את יישום ההודעות</string>
     <string name="apps_list_header_title_sms_access">הגבל גישה לקודי אימות</string>
     <string name="ask_create_shortcut">"האם ליצור קיצור דרך ב'מסך הבית'?"</string>
-    <string name="audio_optimization_summary">שפר את השמע וצמצם את רעשי הרקע בזמן שיחה</string>
     <string name="audio_optimization_summary_new">למטב את איכות השמע של האוזניות במשחקים ולהפחית את הרעשים בשיחות</string>
     <string name="audio_optimization_title">שיפור השמע</string>
     <string name="auto_atsk_condition_battery_level_text_down">כאשר רמת טעינת הסוללה יורדת ל- %s</string>
@@ -1664,7 +1663,6 @@
     <string name="gamebox_brightness">בהירות</string>
     <string name="gamebox_browser_not_find">ראשית התקן את דפדפן Mi</string>
     <string name="gamebox_bullet_chat">הערות על המסך</string>
-    <string name="gamebox_cellular_network">מיטוב הרשת הסלולרית</string>
     <string name="gamebox_cellular_network_description">בחירה אוטומטית של מסלול הרשת הטוב ביותר בהתבסס על ההשהיה במשחק</string>
     <string name="gamebox_collimator">כוונת</string>
     <string name="gamebox_display_1">ללא</string>
@@ -1890,7 +1888,6 @@ Record sequences and use them anytime!"</string>
     <string name="gb_manual_record_dialog_del_video_message">למחוק את הסרטונים שנבחרו לצמיתות?</string>
     <string name="gb_manual_video_record_title">הקלטות</string>
     <string name="gb_margin_restrain">להתעלם ממגע מקרי בשוליים</string>
-    <string name="gb_margin_restrain_description">המכשיר שלך יהיה פחות רגיש למגע מקרי באזור השוליים</string>
     <string name="gb_margin_restrain_seekbar">אזור מגע מקרי</string>
     <string name="gb_msg_completely_shielded">הסתרת הודעות</string>
     <string name="gb_msg_completely_shielded_summary">הסתרה</string>
@@ -1984,10 +1981,8 @@ Record sequences and use them anytime!"</string>
     <string name="gb_super_finger_up">תגובה מהירה להקשה</string>
     <string name="gb_super_finger_up_msg">האצת התגובה להקשה ברמת הקושחה</string>
     <string name="gb_super_follow_up">ניטור מחוות</string>
-    <string name="gb_super_follow_up_msg">קבלו תגובה טובה יותר בזמן אמת באמצעות המחווה המלאה</string>
     <string name="gb_super_motion">אפשרויות בקרת מגע משודרגת</string>
     <string name="gb_super_shake">אלגוריתם ייצוב</string>
-    <string name="gb_super_shake_msg">שיפור התגובה למחוות קטנות יותר באמצעות שימוש באלגוריתם ייעודי</string>
     <string name="gb_turbo_collimator_subtitle">השתמש במכשיר כיוון</string>
     <string name="gb_turbo_macro_subtitle">בצע פעולות מורכבות</string>
     <string name="gb_turbo_shoulder_subtitle">הגדרת בקרת משחקים</string>
@@ -2069,7 +2064,6 @@ Record sequences and use them anytime!"</string>
     <string name="gd_setting_conversation">כלי ועידה</string>
     <string name="gd_setting_conversation_desc">מספקים מגוון תכונות שימושיות לשיחות שמע ווידאו במסך מלא</string>
     <string name="gd_setting_dock_activity_title">ארגז כלים צדדי</string>
-    <string name="gd_setting_dock_call_summary">מאפיינים עבור שיחות קוליות ושיחות וידאו (למשל, מילוי אור)</string>
     <string name="gd_setting_dock_call_title">ארגז כלים לשיחות</string>
     <string name="gd_setting_dock_game_summary">לשפר את התצוגה והביצועים במשחקים</string>
     <string name="gd_setting_dock_game_summary_new">לשפר את התצוגה והביצועים במשחקים</string>
@@ -4021,7 +4015,7 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_pop_storage">קיבלה גישה לאחסון היום</string>
     <string name="privacy_prompt_tc_sms_report_message">מספר הטלפון שלך ופרטי ספק הרשת יוצפנו ויועלו לשרתי Mi על מנת לעדכן את פרטי השימוש שלך בנתונים.</string>
     <string name="privacy_prompt_upload">העלה</string>
-    <string name="privacy_protect_summary">הגן על הפרטים האישיים שלך</string>
+    <string name="privacy_protect_summary">הגנה על תוכן פרטי</string>
     <string name="privacy_protect_title">הגנת פרטיות</string>
     <string name="privacy_provision_back">הקודם</string>
     <string name="privacy_provision_more">למידע נוסף אודות הגנת פרטיות</string>
@@ -4624,15 +4618,11 @@ Record sequences and use them anytime!"</string>
     <string name="st_antispam_mode_smart_sum">חסום מספרים שהוספת באופן ידני ומספרים שדווחו על ידי משתמשים אחרים</string>
     <string name="st_antispam_title_anoy_incoming">שיחות מזרים</string>
     <string name="st_antispam_title_anoy_sms">הודעות מזרים</string>
-    <string name="st_antispam_title_contact_incoming">שיחות מאנשי קשר</string>
-    <string name="st_antispam_title_contact_sms">הודעות מאנשי קשר</string>
-    <string name="st_antispam_title_contactandanoy_group">הגדרות</string>
     <string name="st_antispam_title_mms">הודעת מולטימדיה (MMS)</string>
     <string name="st_antispam_title_null_incoming">מספרים חסויים</string>
     <string name="st_antispam_title_service_sms">התראות שירות</string>
     <string name="st_antispam_title_whitelist">חריגים</string>
     <string name="st_call_backsound_group">צליל רשימת החסומים</string>
-    <string name="st_call_intercept_contacts">חסום שיחות מאנשי קשר</string>
     <string name="st_call_intercept_forwarding">חסום שיחות שהופנו</string>
     <string name="st_call_intercept_oversea">חסום שיחות מחו\"ל</string>
     <string name="st_call_intercept_reported">חסום שיחות ממספרים שדווחו</string>
@@ -4642,9 +4632,8 @@ Record sequences and use them anytime!"</string>
     <string name="st_call_settings">רשימת שיחות חסומות</string>
     <string name="st_call_stranger_group">חסום שיחות מזרים</string>
     <string name="st_confirm_dialog_btn_open">חסימה</string>
-    <string name="st_confirm_dialog_summary_contact_call">כל השיחות מאנשי קשר יחסמו.</string>
     <string name="st_confirm_dialog_summary_oversea_call">כל השיחות ממספרי טלפון מחו\"ל ייחסמו.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">כל השיחות מזרים יחסמו.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">שיחות מכל מספר שלא נמצא ברשימת החריגים או ברשימת אנשי הקשר ייחסמו. להפעיל עכשיו?</string>
     <string name="st_filter_keywords_setting_summary1">הודעות ממספרים חסויים המכילות מילים מרשימה זו יחסמו.</string>
     <string name="st_filter_keywords_setting_summary2">(השתמש בפיסוק על מנת להפריד בין מילות המפתח השונות)</string>
     <string name="st_filter_keywords_setting_summary3">קבלת הודעות ממספרים חסויים המכילות מילים מרשימה זו תתאפשר.</string>
@@ -4656,7 +4645,6 @@ Record sequences and use them anytime!"</string>
     <string name="st_message_SMSpass">אפשר מסרונים</string>
     <string name="st_message_phone_AntiSpam">חסום שיחות</string>
     <string name="st_message_phonepass">אפשר שיחות</string>
-    <string name="st_msg_intercept_contacts">חסום מסרונים מאנשי קשר</string>
     <string name="st_msg_keyword_black">רשימת מילות מפתח חסומות</string>
     <string name="st_msg_keyword_group">מילות מפתח</string>
     <string name="st_msg_keyword_white">רשימת מילות מפתח חריגות</string>
@@ -4670,11 +4658,11 @@ Record sequences and use them anytime!"</string>
     <string name="st_sub_title_whiteblack_list_group">רשימת החסומים</string>
     <string name="st_sum_call_wait">"הודעת ה'לא זמין' שלך תושמע גם כצליל 'תפוס' עבור שיחות נכנסות."</string>
     <string name="st_summary_blacklist_numbers">חסום קבלת שיחות והודעות ממספרים ואזורים מסויימים</string>
-    <string name="st_summary_blacklist_numbers_international">חסום קבלת שיחות והודעות ממספרים מסויימים</string>
+    <string name="st_summary_blacklist_numbers_international">לחסום שיחות בהתבסס על מספר או קידומת</string>
     <string name="st_summary_keywords_blacklist">הוסף מילות מפתח לחסימת הודעות</string>
     <string name="st_summary_special_numbers">חסום מספרי טלפון המסומנים בדגל</string>
     <string name="st_summary_whitelist_numbers">אפשר קבלת שיחות והודעות ממספרים ואזורים מסויימים</string>
-    <string name="st_summary_whitelist_numbers_international">אפשר קבלת שיחות והודעות ממספרים מסויימים</string>
+    <string name="st_summary_whitelist_numbers_international">לאפשר שיחות בהתבסס על מספר או קידומת</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">הוספה לרשימת החסומים</string>
@@ -5104,9 +5092,9 @@ Record sequences and use them anytime!"</string>
     <string name="title_app_lock_disable">נעילת יישומים</string>
     <string name="title_app_update">קיימים עדכונים זמינים</string>
     <string name="title_auto_update">עדכן באופן אוטומטי</string>
-    <string name="title_background_connection">לא מצליח להשתמש ב-%s ברקע?</string>
-    <string name="title_block_calls_from_cantacts">מפספס שיחות מאנשי הקשר שלך?</string>
-    <string name="title_block_calls_from_strangers">מפספס שיחות חשובות?</string>
+    <string name="title_background_connection">לא מצליח להשתמש ב-%s ברקע</string>
+    <string name="title_block_calls_from_cantacts">מפספס שיחות מאנשי הקשר שלך</string>
+    <string name="title_block_calls_from_strangers">מפספס שיחות חשובות</string>
     <string name="title_chain_start">הגבל הפעלת שרשרת</string>
     <string name="title_cleaner_cloudscan">סריקת אשפה בענן</string>
     <string name="title_cloud_account">חשבון Xiaomi</string>
@@ -5123,8 +5111,8 @@ Record sequences and use them anytime!"</string>
     <string name="title_dev_no">"'אפשרויות מפתח' מופעל"</string>
     <string name="title_dev_yes">"'אפשרויות מפתח' כבוי"</string>
     <string name="title_device_not_root">לא הוענקו הרשאות Root</string>
-    <string name="title_do_not_disturb">לא מצליח לשמוע את הצלצול שלך?</string>
-    <string name="title_eye_shield">צבע המסך נראה לא תקין?</string>
+    <string name="title_do_not_disturb">לא מצליח לשמוע את הצלצול שלך</string>
+    <string name="title_eye_shield">צבע המסך נראה לא תקין</string>
     <string name="title_find_device">איתור המכשיר</string>
     <string name="title_first_aid_kit">פתור בעיות</string>
     <string name="title_flow_notification">התראת נתונים סלולריים</string>
@@ -5157,7 +5145,7 @@ Record sequences and use them anytime!"</string>
     <string name="title_power_optimizer">חסכון בסוללה</string>
     <string name="title_realname_verify">אימות מזהה</string>
     <string name="title_reply">רשום הערה</string>
-    <string name="title_restrict_data_usage">%s לא מצליח להתחבר לאינטרנט?</string>
+    <string name="title_restrict_data_usage">%s לא מצליח להתחבר לאינטרנט</string>
     <string name="title_safe_mode">להפעיל מצב בטוח</string>
     <string name="title_show_notification">"ווידג'ט לוח ההתראות"</string>
     <string name="title_system_auto_download">עדכונים ירדו באופן אוטומטי</string>
