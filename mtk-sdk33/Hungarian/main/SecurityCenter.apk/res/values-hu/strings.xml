@@ -272,7 +272,7 @@
     <string name="app_behavior_desc_other_perm_allowed">Legutóbbi tevékenység: %s</string>
     <string name="app_behavior_desc_other_perm_denied">Tevékenység az utolsó %d órán belül</string>
     <string name="app_behavior_door">Alkalmazás-magatartás nyilvántartások</string>
-    <string name="app_behavior_header_time">MMMM. dd.</string>
+    <string name="app_behavior_header_time">MMMM. d.</string>
     <string name="app_behavior_key_audio">Hangrögzítés</string>
     <string name="app_behavior_key_camera">Képkészítés</string>
     <string name="app_behavior_key_location">Tartózkodási hely</string>
@@ -590,7 +590,6 @@ beállításait. Alkalmazásadatait nem fogja elveszteni."</string>
     <string name="apps_list_header_title_sms">Üzenet alkalmazás ellenőrzése</string>
     <string name="apps_list_header_title_sms_access">Ellenőrző kódhozzáférések korlátozása</string>
     <string name="ask_create_shortcut">Létrehoz egy parancsikont a Kezdőképernyőn?</string>
-    <string name="audio_optimization_summary">A beszélgetések során növeli a hangot és csökkenti a környezeti zajt</string>
     <string name="audio_optimization_summary_new">A fülhallgatók hangminőségének optimalizálása játék közben és a zaj csökkentése hívások közben</string>
     <string name="audio_optimization_title">Javított hang</string>
     <string name="auto_atsk_condition_battery_level_text_down">Amikor az akkumulátor eléri a %s-ot</string>
@@ -1746,7 +1745,7 @@ A szám a kivételek közé kerül, de a korábban letiltott számok nem látsza
 (Készüléke felmelegedik és több áramot fogyaszt)"</string>
     <string name="game_setting">Játék beállítások</string>
     <string name="game_video_net_data">Mobiladat-kapcsolat</string>
-    <string name="game_video_network_eror">Nem sikerült kapcsolódni a hálózathoz. Ellenőrizze a beállításokat és próbálja újra.</string>
+    <string name="game_video_network_eror">Nem tud csatlakozni a hálózathoz. Ellenőrizze a beállításokat, próbálja újra.</string>
     <string name="game_wid_viewpoint_buttom">Vegyen egy kis szünetet.</string>
     <string name="gamebooster_confirm_dialog_negative_btn">Elutasítom</string>
     <string name="gamebooster_confirm_dialog_positive_btn">Elfogadom</string>
@@ -1769,7 +1768,6 @@ A szám a kivételek közé kerül, de a korábban letiltott számok nem látsza
     <string name="gamebox_brightness">Fényerő</string>
     <string name="gamebox_browser_not_find">Előbb a Mi Böngészőt telepítse</string>
     <string name="gamebox_bullet_chat">Képernyőn megjelenő megjegyzések</string>
-    <string name="gamebox_cellular_network">Mobilhálózat optimalizálása</string>
     <string name="gamebox_cellular_network_description">Automatikusan kiválasztja a legjobb hálózati útvonalat a játék késleltetése alapján</string>
     <string name="gamebox_collimator">Irányzórés</string>
     <string name="gamebox_display_1">Nincs</string>
@@ -1995,7 +1993,6 @@ Record sequences and use them anytime!"</string>
     <string name="gb_manual_record_dialog_del_video_message">Végleg törli a kiválasztott videókat?</string>
     <string name="gb_manual_video_record_title">Hangfelvételek</string>
     <string name="gb_margin_restrain">Kerülje a szélek véletlen megérintését</string>
-    <string name="gb_margin_restrain_description">Készüléke kevésbé fog reagálni a véletlenszerű érintésekre a szélek körül</string>
     <string name="gb_margin_restrain_seekbar">Véletlenszerű érintést érintő terület</string>
     <string name="gb_msg_completely_shielded">Üzenetek elrejtése</string>
     <string name="gb_msg_completely_shielded_summary">Elrejtés</string>
@@ -2089,10 +2086,8 @@ de növeli az energiafogyasztást és lehetővé teszi a készülék túlmeleged
     <string name="gb_super_finger_up">Gyors koppintás válasz</string>
     <string name="gb_super_finger_up_msg">Gyorsítsa fel a koppintási reakciót hardveres szinten</string>
     <string name="gb_super_follow_up">Kézmozdulat nyomkövetés</string>
-    <string name="gb_super_follow_up_msg">Jobb valós idejű válaszadás a teljes kézmozdulat során</string>
     <string name="gb_super_motion">Kiterjesztett érintésvezérlés</string>
     <string name="gb_super_shake">Stabilizációs algoritmus</string>
-    <string name="gb_super_shake_msg">A dedikált algoritmus segítségével a kisebb kézmozdulatokat érzékenyebbé teheti</string>
     <string name="gb_turbo_collimator_subtitle">Használjon célzóeszközt</string>
     <string name="gb_turbo_macro_subtitle">Végezzen magas szintű műveleteket</string>
     <string name="gb_turbo_shoulder_subtitle">Játékvezérlők beállítása</string>
@@ -2174,7 +2169,6 @@ fontos pillanatait"</string>
     <string name="gd_setting_conversation">Konferencia-eszköztár</string>
     <string name="gd_setting_conversation_desc">Számos funkciót biztosít a teljes képernyős audio- és videohívásokhoz</string>
     <string name="gd_setting_dock_activity_title">Oldalsó eszköztár</string>
-    <string name="gd_setting_dock_call_summary">Funkciók hang- és videohívásokhoz (pl. kitöltőfény)</string>
     <string name="gd_setting_dock_call_title">Hívás-eszköztár</string>
     <string name="gd_setting_dock_game_summary">Növelje a kijelzőt és a teljesítményt játék közben</string>
     <string name="gd_setting_dock_game_summary_new">Növelje a kijelzőt és a teljesítményt játék közben</string>
@@ -2234,7 +2228,7 @@ Az ablak mozgatásához nyomja hosszan a jelzőt."</string>
     <string name="google_base_app_install_choice">Az alkalmazás a Google Szolgáltatások Keretrendszer meglétét igényli a megfelelő működéshez. Letölti és telepíti ezt?</string>
     <string name="google_base_app_installed">Sikeresen telepítve</string>
     <string name="google_base_app_installing">Telepítés…</string>
-    <string name="google_base_app_network_anomaly">Nem sikerült kapcsolódni a hálózathoz. Ellenőrizze a beállításokat és próbálja újra.</string>
+    <string name="google_base_app_network_anomaly">Nem tud csatlakozni a hálózathoz. Ellenőrizze a beállításokat, próbálja újra.</string>
     <string name="google_base_app_timeout">A munkamenet lejárt. Várjon egy-két percet, és próbálkozzon újra.</string>
     <string name="google_base_app_title">Google-szolgáltatások telepítése</string>
     <string name="google_base_app_toast">A Google Services Framework telepítés alatt áll a háttérben. Várjon egy-két percet, és próbálkozzon újra.</string>
@@ -3327,7 +3321,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="pc_handle_battery_level">Tartó</string>
     <string name="pc_have_no_battery_issue">Nincs probléma</string>
     <string name="pc_health_charge_protect_notification_summary">Kapcsolja be az akkumulátorvédelmet, hogy mérsékelje az akkumulátor öregedését</string>
-    <string name="pc_health_charge_protect_summary">Az akkumulátor élettartamának meghosszabbítása érdekében a készülék leállítja a töltést, ha az akkumulátor szintje eléri a(z) %1$s értéket.</string>
+    <string name="pc_health_charge_protect_summary">Az akkumulátor élettartamának meghosszabbítása érdekében a készülék leállítja a töltést, ha az akkumulátor szintje eléri a %1$s értéket.</string>
     <string name="pc_health_charge_protect_title">Akkumulátorvédelem</string>
     <string name="pc_hide_more_power_rank_apps">Elrejtés</string>
     <string name="pc_hidemode_normal">Kiegyensúlyozott</string>
@@ -4175,7 +4169,7 @@ Ultraerős akkumulátorkímélő"</string>
     <string name="privacy_pop_storage">Tárhelyhez való hozzáférés a mai napon</string>
     <string name="privacy_prompt_tc_sms_report_message">A telefonszáma és szolgáltatójának adatai fel lesznek töltve a Xiaomi szerverére az adatforgalmi adatok lekéréséhez.</string>
     <string name="privacy_prompt_upload">Feltöltés</string>
-    <string name="privacy_protect_summary">Védje személyes adatait</string>
+    <string name="privacy_protect_summary">Személyes elemek védelme</string>
     <string name="privacy_protect_title">Adatvédelem</string>
     <string name="privacy_provision_back">Vissza</string>
     <string name="privacy_provision_more">További információk az adatvédelemről</string>
@@ -4779,15 +4773,11 @@ Visszavonja most a hozzájárulását?"</string>
     <string name="st_antispam_mode_smart_sum">Azoknak a számoknak a letiltása, amiket Ön hozzáadott, illetve amiket más felhasználók jelentettek be</string>
     <string name="st_antispam_title_anoy_incoming">Ismeretlen számokról érkezett hívások</string>
     <string name="st_antispam_title_anoy_sms">Ismeretlen számokról érkezett üzenetek</string>
-    <string name="st_antispam_title_contact_incoming">Névjegyzékben megtalálható számokról érkezett hívások</string>
-    <string name="st_antispam_title_contact_sms">Névjegyzékben megtalálható számokról érkezett üzenetek</string>
-    <string name="st_antispam_title_contactandanoy_group">Beállítások</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Magántelefonszámok</string>
     <string name="st_antispam_title_service_sms">Szolgáltatói értesítések</string>
     <string name="st_antispam_title_whitelist">Kivételek</string>
     <string name="st_call_backsound_group">Tiltólista hangja</string>
-    <string name="st_call_intercept_contacts">Ismerőstől érkező hívások tiltása</string>
     <string name="st_call_intercept_forwarding">Átirányított hívások tiltása</string>
     <string name="st_call_intercept_oversea">Külföldről érkező hívások tiltása</string>
     <string name="st_call_intercept_reported">Bejelentett számról érkező hívások tiltása</string>
@@ -4797,9 +4787,8 @@ Visszavonja most a hozzájárulását?"</string>
     <string name="st_call_settings">Hívás-tiltólista</string>
     <string name="st_call_stranger_group">Ismeretlentől érkező hívások tiltása</string>
     <string name="st_confirm_dialog_btn_open">Letiltás</string>
-    <string name="st_confirm_dialog_summary_contact_call">Az összes ismerőstől érkező hívás tiltva lesz.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Minden külföldi telefonszámról érkező hívást letiltunk.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Az összes ismeretlentől érkező hívás tiltva lesz.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">Minden olyan számról érkező hívás letiltása, amely nem szerepel a kivételek között vagy a névjegyzékben. Bekapcsolja most?</string>
     <string name="st_filter_keywords_setting_summary1">A magántelefonszámokról érkező, az alábbi kulcsszavakat tartalmazó üzenetek a tiltólistára kerülnek.</string>
     <string name="st_filter_keywords_setting_summary2">(Használjon vesszőt a kulcsszavak elválasztásához)</string>
     <string name="st_filter_keywords_setting_summary3">Az alábbi kulcsszavakat tartalmazó, ismeretlen telefonszámról érkező üzenetek engedélyezettek lesznek.</string>
@@ -4811,7 +4800,6 @@ Visszavonja most a hozzájárulását?"</string>
     <string name="st_message_SMSpass">SMS engedélyezése</string>
     <string name="st_message_phone_AntiSpam">Hívások elutasítása</string>
     <string name="st_message_phonepass">Hívások engedélyezése</string>
-    <string name="st_msg_intercept_contacts">Ismerőstől érkező SMS-ek tiltása</string>
     <string name="st_msg_keyword_black">Kulcsszavas tiltólista</string>
     <string name="st_msg_keyword_group">Kulcsszavak</string>
     <string name="st_msg_keyword_white">Kulcsszavas kivétellista</string>
@@ -4825,11 +4813,11 @@ Visszavonja most a hozzájárulását?"</string>
     <string name="st_sub_title_whiteblack_list_group">Tiltólista</string>
     <string name="st_sum_call_wait">Ez a foglalt jelzés lesz használatban beérkező hívásokhoz is.</string>
     <string name="st_summary_blacklist_numbers">Hívások és üzenetek letiltása bizonyos számokról és körzetekből</string>
-    <string name="st_summary_blacklist_numbers_international">Hívások és üzenetek tiltása bizonyos számokról</string>
+    <string name="st_summary_blacklist_numbers_international">Hívások letiltása szám vagy előhívószám alapján</string>
     <string name="st_summary_keywords_blacklist">Kulcsszavak hozzáadása üzenetek letiltására</string>
     <string name="st_summary_special_numbers">Már bejelentett telefonszámok tiltása</string>
     <string name="st_summary_whitelist_numbers">Hívások és üzenetek engedélyezése bizonyos számokról és körzetekből</string>
-    <string name="st_summary_whitelist_numbers_international">Hívások és üzenetek engedélyezése bizonyos számokról</string>
+    <string name="st_summary_whitelist_numbers_international">Hívások engedélyezése szám vagy előhívószám alapján</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Hozzáadás a tiltólistához</string>
@@ -5261,9 +5249,9 @@ A formázás eltávolítja a tartalmakat a(z) ^2 SD-kártyáról. A tartalmak el
     <string name="title_app_lock_disable">Alkalmazások zárolása</string>
     <string name="title_app_update">Elérhető frissítések</string>
     <string name="title_auto_update">Automatikus frissítés</string>
-    <string name="title_background_connection">%s nem képes a háttérben működni?</string>
-    <string name="title_block_calls_from_cantacts">Elmulasztott hívásokat a névjegyeiből ismert számokról?</string>
-    <string name="title_block_calls_from_strangers">Fontos hívásokat mulasztott el?</string>
+    <string name="title_background_connection">%s nem képes a háttérben működni</string>
+    <string name="title_block_calls_from_cantacts">Elmulasztott hívásokat a névjegyeiből ismert számokról</string>
+    <string name="title_block_calls_from_strangers">Fontos hívásokat mulasztott el</string>
     <string name="title_chain_start">Láncindulás korlátozása</string>
     <string name="title_cleaner_cloudscan">Felhő-alapú szemétkeresés</string>
     <string name="title_cloud_account">Xiaomi Fiók</string>
@@ -5280,8 +5268,8 @@ A formázás eltávolítja a tartalmakat a(z) ^2 SD-kártyáról. A tartalmak el
     <string name="title_dev_no">Fejlesztői beállítások bekapcsolva</string>
     <string name="title_dev_yes">Fejlesztői beállítások kikapcsolva</string>
     <string name="title_device_not_root">Root jogosultság nincs megadva</string>
-    <string name="title_do_not_disturb">Nem hallja a csengőhangot?</string>
-    <string name="title_eye_shield">A képernyő színei nem látszanak helyesnek?</string>
+    <string name="title_do_not_disturb">Nem hallja a csengőhangot</string>
+    <string name="title_eye_shield">A képernyő színei nem látszanak helyesnek</string>
     <string name="title_find_device">Készülékkeresés</string>
     <string name="title_first_aid_kit">Problémamegoldás</string>
     <string name="title_flow_notification">Mobiladat-kapcsolat értesítés</string>
@@ -5314,7 +5302,7 @@ A formázás eltávolítja a tartalmakat a(z) ^2 SD-kártyáról. A tartalmak el
     <string name="title_power_optimizer">Akkumulátorkímélő</string>
     <string name="title_realname_verify">Azonosító-ellenőrzés</string>
     <string name="title_reply">Hozzászólás</string>
-    <string name="title_restrict_data_usage">%s nem tud az internetre kapcsolódni?</string>
+    <string name="title_restrict_data_usage">%s nem tud az internetre kapcsolódni</string>
     <string name="title_safe_mode">Biztonságos mód bekapcsolása</string>
     <string name="title_show_notification">Widget az értesítési felületen</string>
     <string name="title_system_auto_download">A frissítések automatikusan le lesznek töltve</string>

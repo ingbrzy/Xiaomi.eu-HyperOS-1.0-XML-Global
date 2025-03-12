@@ -590,7 +590,6 @@ Nu veți pierde niciun fel de date despre aplicații."</string>
     <string name="apps_list_header_title_sms">Verifică aplicația de mesagerie</string>
     <string name="apps_list_header_title_sms_access">Restricționează accesul la codurile de verificare</string>
     <string name="ask_create_shortcut">Creați o comandă rapidă pe Ecranul principal?</string>
-    <string name="audio_optimization_summary">Îmbunătățiți sunetul și reduceți zgomotul ambiental în conversație</string>
     <string name="audio_optimization_summary_new">Optimizați calitatea sunetului căștilor în timpul jocului și reduceți zgomotul în timpul apelurilor</string>
     <string name="audio_optimization_title">Audio îmbunătățit</string>
     <string name="auto_atsk_condition_battery_level_text_down">Atunci când bateria ajunge la %s</string>
@@ -1769,7 +1768,6 @@ Va fi adăugat la excepții, dar elementele blocate anterior nu vor apărea în 
     <string name="gamebox_brightness">Luminozitate</string>
     <string name="gamebox_browser_not_find">Instalați mai întâi Mi Browser</string>
     <string name="gamebox_bullet_chat">Comentarii pe ecran</string>
-    <string name="gamebox_cellular_network">Optimizați rețeaua celulară</string>
     <string name="gamebox_cellular_network_description">Selectați automat cea mai bună cale de rețea pe baza latenței jocului</string>
     <string name="gamebox_collimator">Vizor</string>
     <string name="gamebox_display_1">Niciunul</string>
@@ -1995,7 +1993,6 @@ Xiaomi Gaming Cooler"</string>
     <string name="gb_manual_record_dialog_del_video_message">Ștergeți videoclipurile selectate permanent?</string>
     <string name="gb_manual_video_record_title">Înregistrări</string>
     <string name="gb_margin_restrain">Ignorați atingerea accidentală pe margini</string>
-    <string name="gb_margin_restrain_description">Dispozitivul dvs. va răspunde mai puțin la atingerea accidentală în zona din apropierea marginilor</string>
     <string name="gb_margin_restrain_seekbar">Zona de atingere accidentală</string>
     <string name="gb_msg_completely_shielded">Ascunde mesaje</string>
     <string name="gb_msg_completely_shielded_summary">Ascunde</string>
@@ -2089,10 +2086,8 @@ dar crește și consumul de energie și permite supraîncălzirea dispozitivului
     <string name="gb_super_finger_up">Răspuns rapid la atingere</string>
     <string name="gb_super_finger_up_msg">Accelerați răspunsul la atingere la nivel hardware</string>
     <string name="gb_super_follow_up">Urmărirea gesturilor</string>
-    <string name="gb_super_follow_up_msg">Obțineți un răspuns mai bun în timp real pe tot parcursul gestului</string>
     <string name="gb_super_motion">Controale de atingere îmbunătățite</string>
     <string name="gb_super_shake">Algoritm de stabilizare</string>
-    <string name="gb_super_shake_msg">Faceți gesturile mai mici mai receptive folosind algoritmul dedicat</string>
     <string name="gb_turbo_collimator_subtitle">Utilizați dispozitivul de vizare</string>
     <string name="gb_turbo_macro_subtitle">Efectuați acțiuni la nivel înalt</string>
     <string name="gb_turbo_shoulder_subtitle">Configurați controale de joc</string>
@@ -2174,7 +2169,6 @@ ale sesiunilor dvs. de joc"</string>
     <string name="gd_setting_conversation">Instrumente de conferință</string>
     <string name="gd_setting_conversation_desc">Oferă o varietate de funcții pentru utilizare în apelurile audio și video pe ecran complet</string>
     <string name="gd_setting_dock_activity_title">Instrumente bara laterală</string>
-    <string name="gd_setting_dock_call_summary">Funcții pentru apeluri vocale și video (de exemplu: lumină de umplere)</string>
     <string name="gd_setting_dock_call_title">Instrumente pentru apeluri</string>
     <string name="gd_setting_dock_game_summary">Îmbunătățiți afișarea și performanța în timp ce jucați jocuri</string>
     <string name="gd_setting_dock_game_summary_new">Îmbunătățește afișarea și performanța în timp ce jucați jocuri</string>
@@ -4131,7 +4125,7 @@ Economizator baterie ultra"</string>
     <string name="privacy_guide_permission_guide_text">Puteți primi o alertă în bara de stare atunci când aplicațiile vă accesează locația, înregistrează audio sau fac fotografii.</string>
     <string name="privacy_hide_other_permissions">Ascundeți alte permisiuni</string>
     <string name="privacy_informed_title">Statistici</string>
-    <string name="privacy_input_mode">Intrare sigură</string>
+    <string name="privacy_input_mode">Intrare securizată</string>
     <string name="privacy_input_model_tips">Intrarea securizată este activată. Tastatura dvs. nu poate afișa ferestre pop-up sau accesa contacte, informații despre locație și istoricul apelurilor.</string>
     <string name="privacy_lab_empty">Nicio funcție aici încă</string>
     <string name="privacy_location_info_summary">Gestionați accesul la locația dvs.</string>
@@ -4173,7 +4167,7 @@ Economizator baterie ultra"</string>
     <string name="privacy_pop_storage">S-a accesat stocare astăzi</string>
     <string name="privacy_prompt_tc_sms_report_message">Numărul de telefon al dvs. și detaliile despre operator vor fi criptate și încărcate la serverele Mi, cu scopul de a actualiza informațiile despre utilizarea traficului.</string>
     <string name="privacy_prompt_upload">Încărcați</string>
-    <string name="privacy_protect_summary">Protejați-vă informațiile personale</string>
+    <string name="privacy_protect_summary">Protejează elementele private</string>
     <string name="privacy_protect_title">Protecție confidențialitate</string>
     <string name="privacy_provision_back">Înapoi</string>
     <string name="privacy_provision_more">Aflați mai multe despre protejarea confidențialități</string>
@@ -4777,15 +4771,11 @@ Vă retrageți consimțământul acum?"</string>
     <string name="st_antispam_mode_smart_sum">Blochează numerele ce le-ați adăugat manual și numerele care au fost raportate de către alți utilizatori</string>
     <string name="st_antispam_title_anoy_incoming">Apeluri de la necunoscuți</string>
     <string name="st_antispam_title_anoy_sms">Mesaje de la necunoscuți</string>
-    <string name="st_antispam_title_contact_incoming">Apeluri de la Contacte</string>
-    <string name="st_antispam_title_contact_sms">Mesaje de la Contacte</string>
-    <string name="st_antispam_title_contactandanoy_group">Setări</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Numere private</string>
     <string name="st_antispam_title_service_sms">Notificări serviciu</string>
     <string name="st_antispam_title_whitelist">Excepții</string>
     <string name="st_call_backsound_group">Lista neagră sunete</string>
-    <string name="st_call_intercept_contacts">Blocați apelurile de la contacte</string>
     <string name="st_call_intercept_forwarding">Blochează apeluri redirecționate</string>
     <string name="st_call_intercept_oversea">Blocați apelurile din străinătate</string>
     <string name="st_call_intercept_reported">Blochează apelurile de la numere raportate</string>
@@ -4795,9 +4785,8 @@ Vă retrageți consimțământul acum?"</string>
     <string name="st_call_settings">Lista neagră apeluri</string>
     <string name="st_call_stranger_group">Blocați apelurile de la străini</string>
     <string name="st_confirm_dialog_btn_open">Blochează</string>
-    <string name="st_confirm_dialog_summary_contact_call">Toate apelurile de la contacte vor fi blocate.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Toate apelurile de la numerele de telefon străine vor fi blocate.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Toate apelurile de la străini vor fi blocate.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">Apelurile de la orice număr care nu se află în excepțiile dvs. sau în agenda dvs. vor fi blocate. Activați acum?</string>
     <string name="st_filter_keywords_setting_summary1">Mesajele de la numere necunoscute care conțin cuvintele din această listă vor fi blocate.</string>
     <string name="st_filter_keywords_setting_summary2">(Utilizați o virgulă pentru a separa mai multe cuvinte cheie)</string>
     <string name="st_filter_keywords_setting_summary3">Mesajele de la numere necunoscute care conțin cuvintele din această listă nu vor fi blocate.</string>
@@ -4809,7 +4798,6 @@ Vă retrageți consimțământul acum?"</string>
     <string name="st_message_SMSpass">Permiteți SMS</string>
     <string name="st_message_phone_AntiSpam">Blochează apeluri</string>
     <string name="st_message_phonepass">Permiteți apeluri</string>
-    <string name="st_msg_intercept_contacts">Blocați SMS de la contacte</string>
     <string name="st_msg_keyword_black">Lista neagră cuvinte cheie</string>
     <string name="st_msg_keyword_group">Cuvinte cheie</string>
     <string name="st_msg_keyword_white">Excepții cuvinte cheie</string>
@@ -4823,11 +4811,11 @@ Vă retrageți consimțământul acum?"</string>
     <string name="st_sub_title_whiteblack_list_group">Lista neagră</string>
     <string name="st_sum_call_wait">Mesajul nu sunt prezent va fi redat ca semnal ocupat pentru toate apelurile de intrare.</string>
     <string name="st_summary_blacklist_numbers">Blochează apelurile și mesajele de la numere specifice și zone</string>
-    <string name="st_summary_blacklist_numbers_international">Blochează apeluri și mesaje de la numere specifice</string>
+    <string name="st_summary_blacklist_numbers_international">Blocarea apelurilor în funcție de număr sau prefix</string>
     <string name="st_summary_keywords_blacklist">Adăugați cuvinte cheie pentru a bloca mesajele</string>
     <string name="st_summary_special_numbers">Blochează numerele de telefon raportate</string>
     <string name="st_summary_whitelist_numbers">Permite apeluri și mesaje de la numere specifice și zone</string>
-    <string name="st_summary_whitelist_numbers_international">Permite apeluri și mesaje de la numere specifice</string>
+    <string name="st_summary_whitelist_numbers_international">Permite apelurilor în funcție de număr sau prefix</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Adaugă la lista neagră</string>
@@ -5259,9 +5247,9 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="title_app_lock_disable">Aplicații blocate</string>
     <string name="title_app_update">Actualizare disponibilă</string>
     <string name="title_auto_update">Actualizați automat</string>
-    <string name="title_background_connection">Nu se poate utiliza %s în fundal?</string>
-    <string name="title_block_calls_from_cantacts">Apeluri pierdute de la persoanele dvs. de contact?</string>
-    <string name="title_block_calls_from_strangers">Ați pierdut apeluri importante?</string>
+    <string name="title_background_connection">Nu se poate utiliza %s în fundal</string>
+    <string name="title_block_calls_from_cantacts">Apeluri pierdute de la persoanele dvs. de contact</string>
+    <string name="title_block_calls_from_strangers">Ați pierdut apeluri importante</string>
     <string name="title_chain_start">Restricționare pornire lanț</string>
     <string name="title_cleaner_cloudscan">Scanare coș de gunoi în Cloud</string>
     <string name="title_cloud_account">Cont Xiaomi</string>
@@ -5278,8 +5266,8 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="title_dev_no">Setări pentru dezvoltatori activat</string>
     <string name="title_dev_yes">Setări pentru dezvoltatori dezactivat</string>
     <string name="title_device_not_root">Accesul la sursă nu a fost acordat</string>
-    <string name="title_do_not_disturb">Nu se aude tonul dvs. de apel?</string>
-    <string name="title_eye_shield">Culoarea ecranului nu arată bine?</string>
+    <string name="title_do_not_disturb">Nu se aude tonul dvs. de apel</string>
+    <string name="title_eye_shield">Culoarea ecranului nu arată bine</string>
     <string name="title_find_device">Găsește dispozitiv</string>
     <string name="title_first_aid_kit">Rezolvă probleme</string>
     <string name="title_flow_notification">Notificări date mobile</string>
@@ -5312,7 +5300,7 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="title_power_optimizer">Economizator baterie</string>
     <string name="title_realname_verify">Verificare ID</string>
     <string name="title_reply">Comentariu</string>
-    <string name="title_restrict_data_usage">%s nu se poate conecta la internet?</string>
+    <string name="title_restrict_data_usage">%s nu se poate conecta la internet</string>
     <string name="title_safe_mode">Activează Mod sigur</string>
     <string name="title_show_notification">Panoul de notificări widget</string>
     <string name="title_system_auto_download">Actualizările se vor descărca automat</string>
@@ -5499,7 +5487,7 @@ Datele rămase includ datele care au fost raportate din luna precedentă."</stri
     <string name="vb_dult_effect">3D LUT vision</string>
     <string name="vb_fps_settings">Rata de reîmprospătare automată</string>
     <string name="vb_fps_settings_tips">Această funcție ajustează rata de reîmprospătare a ecranului la rata cadrelor video, ceea ce economisește bateria și facilitează redarea. Activarea comentariilor flotante va dezactiva rata de reîmprospătare automată.</string>
-    <string name="vb_immerse_voice">Sunet captivant</string>
+    <string name="vb_immerse_voice">Sunet imersiv</string>
     <string name="vb_movie_mode">Mod teatru</string>
     <string name="vb_movie_power_hint">Modul teatru oferă o experiență de vizionare captivantă. Dispozitivul dvs. se poate încălzi și consuma mai multă energie.</string>
     <string name="vb_movie_subtitle">Necesită performanță ridicată</string>
@@ -5532,7 +5520,7 @@ Pornirea unuia îl va dezactiva pe celălalt."</string>
     <string name="vb_video_effects_3d">Sunet surround</string>
     <string name="vb_video_effects_3d_summary">Sporiți profunzimea reproducerii sunetului pentru căști și difuzoare</string>
     <string name="vb_video_effects_3d_summary_headset">Creșteți senzația de imersiune și de învăluire atunci când ascultați sunetul în căști</string>
-    <string name="vb_video_effects_3d_surround">Sunet virtual captivant</string>
+    <string name="vb_video_effects_3d_surround">Sunet imersiv virtual</string>
     <string name="vb_video_effects_display_style">Stil</string>
     <string name="vb_video_effects_dolby">Dolby Atmos</string>
     <string name="vb_video_effects_dolby_dialog_enhancer">Dialog îmbunătățit</string>
@@ -5540,7 +5528,7 @@ Pornirea unuia îl va dezactiva pe celălalt."</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos este pornit</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Stereo extins</string>
     <string name="vb_video_effects_dolby_tips">Dialogul îmbunătățit și stereo extins nu vor funcționa când sunetul captivant este activat</string>
-    <string name="vb_video_effects_immersion_sound">Sunet captivant</string>
+    <string name="vb_video_effects_immersion_sound">Sunet imersiv</string>
     <string name="vb_video_effects_immersion_sound_summary">Experimentați imersiunea și senzația de spațiu atunci când sunetul suportat este redat prin căști</string>
     <string name="vb_video_effects_immersion_sound_summary_new">Experimentați imersiunea și senzația de spațiu atunci când este redat sunetul acceptat</string>
     <string name="vb_video_effects_liquid_summary">Îmbunătățiți claritatea dialogului în videoclipuri</string>

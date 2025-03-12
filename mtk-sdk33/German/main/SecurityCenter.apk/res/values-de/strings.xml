@@ -590,7 +590,6 @@ Du verlierst keine App-Daten."</string>
     <string name="apps_list_header_title_sms">SMS-App überprüfen</string>
     <string name="apps_list_header_title_sms_access">Zugriff auf Bestätigungscodes einschränken</string>
     <string name="ask_create_shortcut">Startbildschirmverknüpfung erstellen?</string>
-    <string name="audio_optimization_summary">Verbessere den Klang und reduziere Umgebungsgeräusche in Gesprächen</string>
     <string name="audio_optimization_summary_new">Optimiert die Klangqualität der Kopfhörer beim Spielen und reduziert Geräusche beim Telefonieren</string>
     <string name="audio_optimization_title">Optimiertes Audio</string>
     <string name="auto_atsk_condition_battery_level_text_down">Wenn Akku %s erreicht</string>
@@ -1183,6 +1182,7 @@ Jedoch sind einige deiner Transaktionen noch nicht abgeschlossen. Um deine Zusti
     <string name="cs_voice_search">Voiceprint</string>
     <string name="cs_vt_camera_toast_case1">Kamera in der aktuellen App öffnen</string>
     <string name="cs_vt_camera_toast_case2">Keine kompatiblen Geräte in der Nähe</string>
+    <string name="cta_HIPS_Perm_Location_Desc">Um die für deinen Standort relevanten Funktionen in Warnungszentrum, Notfall-SOS, App-Energiesparmodus, Zahlungssicherheitsscanner und ungefähren Standortdienst zur Verfügung zu stellen</string>
     <string name="cta_agree_desc">Um unsere Services nutzen zu können, erlaube dieser App, sich mit dem Internet zu verbinden und erteile die oben aufgeführten Berechtigungen.</string>
     <string name="cta_close_dialog_cancel">Abbrechen</string>
     <string name="cta_close_dialog_content">Wenn du den Zugriff von Security auf das Internet und die Standortinformation einschränkst, kannst du keine Erdbebenwarnungen erhalten, keine Virusdefinitionen und Sperrlisteninformationen aktualisieren. Dein Gerät wird weniger sicher werden. Trotzdem einschränken?</string>
@@ -1415,6 +1415,7 @@ Alle Daten auf deinem Gerät werden möglicherweise gelöscht und dein Passwort 
     <string name="error_icon_content_description">Fehler</string>
     <string name="evening">Nachmittag</string>
     <string name="every_day">Täglich</string>
+    <string name="ew_monitor_summary1">Verwende dein Gerät zur seismischen Überwachung.</string>
     <string name="examination_score_100">Alles sieht gut aus!</string>
     <string name="examination_score_60_0">Jetzt scannen</string>
     <string name="examination_score_80_100">Es kann optimiert werden</string>
@@ -1769,7 +1770,6 @@ Alle Daten auf deinem Gerät werden möglicherweise gelöscht und dein Passwort 
     <string name="gamebox_brightness">Helligkeit</string>
     <string name="gamebox_browser_not_find">Mi Browser zuerst installieren</string>
     <string name="gamebox_bullet_chat">On-Screen-Kommentare</string>
-    <string name="gamebox_cellular_network">Optimierung des mobilen Netzwerks</string>
     <string name="gamebox_cellular_network_description">Automatische Auswahl des besten Netzwerkpfads auf der Grundlage der Spiel-Latenzzeit</string>
     <string name="gamebox_collimator">Visier</string>
     <string name="gamebox_display_1">Keine</string>
@@ -1995,7 +1995,6 @@ Record sequences and use them anytime!"</string>
     <string name="gb_manual_record_dialog_del_video_message">Ausgewählte Videos dauerhaft löschen?</string>
     <string name="gb_manual_video_record_title">Aufnahmen</string>
     <string name="gb_margin_restrain">Ignorieren von versehentlichen Berührungen an den Rändern</string>
-    <string name="gb_margin_restrain_description">Dein Gerät wird weniger auf versehentliche Berührungen an den Rändern reagieren</string>
     <string name="gb_margin_restrain_seekbar">Bereich für versehentliche Berührungen</string>
     <string name="gb_msg_completely_shielded">Nachrichten ausblenden</string>
     <string name="gb_msg_completely_shielded_summary">Ausblenden</string>
@@ -2089,10 +2088,8 @@ erhöht aber auch den Stromverbrauch und lässt Ihr Gerät überhitzen."</string
     <string name="gb_super_finger_up">Schnelle Tipp-Antwort</string>
     <string name="gb_super_finger_up_msg">Beschleunige die Tipp-Reaktion auf Hardware-Ebene</string>
     <string name="gb_super_follow_up">Gestenverfolgung</string>
-    <string name="gb_super_follow_up_msg">Bessere Echtzeit-Reaktion während der gesamten Geste</string>
     <string name="gb_super_motion">Verbesserte Berührungssteuerung</string>
     <string name="gb_super_shake">Stabilisierungsalgorithmus</string>
-    <string name="gb_super_shake_msg">Kleinere Gesten durch den speziellen Algorithmus reaktionsschneller machen</string>
     <string name="gb_turbo_collimator_subtitle">Zielgerät verwenden</string>
     <string name="gb_turbo_macro_subtitle">Führe anspruchsvolle Aktionen aus</string>
     <string name="gb_turbo_shoulder_subtitle">Spielkontrollen einstellen</string>
@@ -2174,7 +2171,6 @@ deiner Spiele-Sitzung auf"</string>
     <string name="gd_setting_conversation">Konferenz-Tools</string>
     <string name="gd_setting_conversation_desc">Bietet eine Vielzahl von Funktionen zur Verwendung in Vollbild-Audio- und Videoanrufen</string>
     <string name="gd_setting_dock_activity_title">Seitliche Toolbox</string>
-    <string name="gd_setting_dock_call_summary">Funktionen für Sprach- und Videoanrufe (z. B. Fülllicht)</string>
     <string name="gd_setting_dock_call_title">Anruf-Toolbox</string>
     <string name="gd_setting_dock_game_summary">Verbessere die Anzeige und Leistung beim Spielen.</string>
     <string name="gd_setting_dock_game_summary_new">Verbessere die Anzeige und Leistung beim Spielen von Spielen.</string>
@@ -4175,7 +4171,7 @@ wird ausgeschaltet"</string>
     <string name="privacy_pop_storage">Hat heute auf den Speicher zugegriffen</string>
     <string name="privacy_prompt_tc_sms_report_message">Deine Telefonnummer sowie die Anbieterdetails werden verschlüsselt auf die Mi Server hochgeladen um Infos zum Datenverbrauch zu aktualisieren.</string>
     <string name="privacy_prompt_upload">Hochladen</string>
-    <string name="privacy_protect_summary">Schütze deine persönlichen Daten</string>
+    <string name="privacy_protect_summary">Private Elemente schützen</string>
     <string name="privacy_protect_title">Datenschutz</string>
     <string name="privacy_provision_back">Zurück</string>
     <string name="privacy_provision_more">Mehr über Datenschutz erfahren</string>
@@ -4779,15 +4775,11 @@ Zustimmung jetzt widerrufen?"</string>
     <string name="st_antispam_mode_smart_sum">Nummern sperren, die manuell hinzugefügt wurden sowie Nummern, die von anderen Benutzern gemeldet wurden</string>
     <string name="st_antispam_title_anoy_incoming">Anrufe von Fremden</string>
     <string name="st_antispam_title_anoy_sms">Nachrichten von Fremden</string>
-    <string name="st_antispam_title_contact_incoming">Anrufe von Kontakten</string>
-    <string name="st_antispam_title_contact_sms">Nachrichten von Kontakten</string>
-    <string name="st_antispam_title_contactandanoy_group">Einstellungen</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Private Nummern</string>
     <string name="st_antispam_title_service_sms">Dienstbenachrichtigungen</string>
     <string name="st_antispam_title_whitelist">Ausnahmen</string>
     <string name="st_call_backsound_group">Sperrlistenton</string>
-    <string name="st_call_intercept_contacts">Anrufe von Kontakten blockieren</string>
     <string name="st_call_intercept_forwarding">Weitergeleitete Anrufe blockieren</string>
     <string name="st_call_intercept_oversea">Anrufe aus dem Ausland blockieren</string>
     <string name="st_call_intercept_reported">Anrufe von gemeldeten Nummern blockieren</string>
@@ -4797,9 +4789,8 @@ Zustimmung jetzt widerrufen?"</string>
     <string name="st_call_settings">Anrufsperrliste</string>
     <string name="st_call_stranger_group">Anrufe von Fremden blockieren</string>
     <string name="st_confirm_dialog_btn_open">Blockieren</string>
-    <string name="st_confirm_dialog_summary_contact_call">Alle Anrufe von Kontakten werden blockiert.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Alle Anrufe von ausländischen Telefonnumern werden blockiert.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Alle Anrufe von Fremden werden blockiert.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">Anrufe von Nummern, die nicht zu deinen Ausnahmen gehören oder in deinen Kontakten sind, werden blockiert. Jetzt einschalten?</string>
     <string name="st_filter_keywords_setting_summary1">Nachrichten vom unbekannten Nummern, die Wörter in dieser Liste enthalten, werden gesperrt.</string>
     <string name="st_filter_keywords_setting_summary2">(Komma verwenden, um mehrere Schlüsselwörter voneinander zu trennen)</string>
     <string name="st_filter_keywords_setting_summary3">Nachrichten von unbekannten Nummern mit Wörtern aus dieser Liste werden erlaubt.</string>
@@ -4811,7 +4802,6 @@ Zustimmung jetzt widerrufen?"</string>
     <string name="st_message_SMSpass">SMS zulassen</string>
     <string name="st_message_phone_AntiSpam">Anrufe sperren</string>
     <string name="st_message_phonepass">Anrufe erlauben</string>
-    <string name="st_msg_intercept_contacts">SMS von Kontakten blockieren</string>
     <string name="st_msg_keyword_black">Schlüsselwortsperrliste</string>
     <string name="st_msg_keyword_group">Schlüsselwörter</string>
     <string name="st_msg_keyword_white">Schlüsselwortausnahmen</string>
@@ -4825,11 +4815,11 @@ Zustimmung jetzt widerrufen?"</string>
     <string name="st_sub_title_whiteblack_list_group">Sperrliste</string>
     <string name="st_sum_call_wait">Deine Abwesenheitsnachricht wird auch abgespielt wenn belegt ist.</string>
     <string name="st_summary_blacklist_numbers">Anrufe und Nachrichten von bestimmten Nummern und Orten sperren</string>
-    <string name="st_summary_blacklist_numbers_international">Anrufe und Nachrichten von bestimmten Nummern sperren</string>
+    <string name="st_summary_blacklist_numbers_international">Anrufe blockieren, basierend auf Nummer oder Vorwahl</string>
     <string name="st_summary_keywords_blacklist">Schlüsselwörter zu gesperrten Nachrichten hinzufügen</string>
     <string name="st_summary_special_numbers">Block flagged phone numbers</string>
     <string name="st_summary_whitelist_numbers">Anrufe und Nachrichten von bestimmten Nummern und Orten erlauben</string>
-    <string name="st_summary_whitelist_numbers_international">Anrufe und Nachrichten von bestimmten Nummern erlauben</string>
+    <string name="st_summary_whitelist_numbers_international">Anrufe erlauben, basierend auf Nummer oder Vorwahl</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Zur Sperrliste hinzufügen</string>
@@ -5261,9 +5251,9 @@ Das Formatieren wird existierende Inhalte auf ^2 löschen. Um den Verlust von In
     <string name="title_app_lock_disable">Apps sperren</string>
     <string name="title_app_update">Update verfügbar</string>
     <string name="title_auto_update">Autom. aktualisieren</string>
-    <string name="title_background_connection">%s kann nicht im Hintergrund geöffnet werden?</string>
-    <string name="title_block_calls_from_cantacts">Anrufe deiner Kontakte verpasst?</string>
-    <string name="title_block_calls_from_strangers">Wichtige Anrufe verpasst?</string>
+    <string name="title_background_connection">%s kann nicht im Hintergrund geöffnet werden</string>
+    <string name="title_block_calls_from_cantacts">Anrufe deiner Kontakte verpasst</string>
+    <string name="title_block_calls_from_strangers">Wichtige Anrufe verpasst</string>
     <string name="title_chain_start">Kettenstart einschränken</string>
     <string name="title_cleaner_cloudscan">Cloud Datenmüllscan</string>
     <string name="title_cloud_account">Xiaomi-Konto</string>
@@ -5280,8 +5270,8 @@ Das Formatieren wird existierende Inhalte auf ^2 löschen. Um den Verlust von In
     <string name="title_dev_no">Entwickleroptionen an</string>
     <string name="title_dev_yes">Entwickleroptionen aus</string>
     <string name="title_device_not_root">Root-Zugriff wurde nicht gewährt</string>
-    <string name="title_do_not_disturb">Du kannst deinen Klingelton nicht hören?</string>
-    <string name="title_eye_shield">Bildschirmfarben sehen komisch aus?</string>
+    <string name="title_do_not_disturb">Du kannst deinen Klingelton nicht hören</string>
+    <string name="title_eye_shield">Bildschirmfarben sehen komisch aus</string>
     <string name="title_find_device">Gerätesuche</string>
     <string name="title_first_aid_kit">Probleme lösen</string>
     <string name="title_flow_notification">Mobile Daten Benachrichtigung</string>
@@ -5314,7 +5304,7 @@ Das Formatieren wird existierende Inhalte auf ^2 löschen. Um den Verlust von In
     <string name="title_power_optimizer">Energiesparmodus</string>
     <string name="title_realname_verify">ID Bestätigung</string>
     <string name="title_reply">Kommentar</string>
-    <string name="title_restrict_data_usage">%s kann sich nicht mit dem Internet verbinden?</string>
+    <string name="title_restrict_data_usage">%s kann sich nicht mit dem Internet verbinden</string>
     <string name="title_safe_mode">Sicheren Modus einschalten</string>
     <string name="title_show_notification">Widget-Benachrichtigungsleiste</string>
     <string name="title_system_auto_download">Aktualisierungen werden automatisch heruntergeladen</string>

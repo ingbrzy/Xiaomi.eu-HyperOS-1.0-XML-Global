@@ -590,7 +590,6 @@
     <string name="apps_list_header_title_sms">메시지 앱 확인</string>
     <string name="apps_list_header_title_sms_access">인증 코드로의 접근 제한</string>
     <string name="ask_create_shortcut">홈 화면 바로 가기를 생성하시겠습니까?</string>
-    <string name="audio_optimization_summary">주변 소음 감소 및 오디오 강화</string>
     <string name="audio_optimization_summary_new">게임 중 이어폰 음질을 최적화하고 통화 중 소음 감소</string>
     <string name="audio_optimization_title">오디오 강화</string>
     <string name="auto_atsk_condition_battery_level_text_down">배터리가 %s에 도달했울 때</string>
@@ -1183,6 +1182,7 @@
     <string name="cs_voice_search">성문</string>
     <string name="cs_vt_camera_toast_case1">현재 앱에서 카메라 열기</string>
     <string name="cs_vt_camera_toast_case2">근처에 호환되는 기기 없음</string>
+    <string name="cta_HIPS_Perm_Location_Desc">경보 센터, SOS 긴급구조, 앱 배터리 절약, 결제 보안 스캐너 및 대략적인 위치 서비스에서 위치와 관련된 기능을 제공하기 위해</string>
     <string name="cta_agree_desc">서비스 사용을 위해, 해당 앱을 인터넷에 연결하고 위에 나열된 권한을 허용하십시오.</string>
     <string name="cta_close_dialog_cancel">취소</string>
     <string name="cta_close_dialog_content">보안 앱의 인터넷 및 위치 정보 접근을 제한하신 경우, 재난 경고, 바이러스 정의 업데이트, 차단 목록 정보를 수신할 수 없게 됩니다. 기기의 보안이 약화될 것입니다. 그래도 제한하시겠습니까?</string>
@@ -1415,6 +1415,7 @@
     <string name="error_icon_content_description">오류</string>
     <string name="evening">오후</string>
     <string name="every_day">매일</string>
+    <string name="ew_monitor_summary1">지진 모니터링에 기기를 사용하십시오.</string>
     <string name="examination_score_100">모두 좋아 보입니다!</string>
     <string name="examination_score_60_0">지금 스캔</string>
     <string name="examination_score_80_100">일부 항목 최적화 가능</string>
@@ -1769,7 +1770,6 @@
     <string name="gamebox_brightness">밝기</string>
     <string name="gamebox_browser_not_find">먼저 Mi 브라우저 설치</string>
     <string name="gamebox_bullet_chat">화면 댓글</string>
-    <string name="gamebox_cellular_network">셀룰러 네트워크 최적화</string>
     <string name="gamebox_cellular_network_description">게임 지연 시간을 기반으로 최적의 네트워크 경로를 자동으로 선택</string>
     <string name="gamebox_collimator">조준경</string>
     <string name="gamebox_display_1">없음</string>
@@ -1995,7 +1995,6 @@
     <string name="gb_manual_record_dialog_del_video_message">선택한 동영상을 영구적으로 삭제하시겠습니까?</string>
     <string name="gb_manual_video_record_title">녹화</string>
     <string name="gb_margin_restrain">가장자리 터치 오류 무시</string>
-    <string name="gb_margin_restrain_description">가장자리 근처 영역을 실수로 터치해도 더 적게 반응</string>
     <string name="gb_margin_restrain_seekbar">우발적인 터치 영역</string>
     <string name="gb_msg_completely_shielded">메시지 숨기기</string>
     <string name="gb_msg_completely_shielded_summary">숨기기</string>
@@ -2089,10 +2088,8 @@
     <string name="gb_super_finger_up">빠른 탭 응답</string>
     <string name="gb_super_finger_up_msg">하드웨어 레벨의 탭 응답 속도 향상</string>
     <string name="gb_super_follow_up">제스처 추적</string>
-    <string name="gb_super_follow_up_msg">제스처 전반에 걸쳐 실시간으로 더 나은 응답 획득</string>
     <string name="gb_super_motion">터치 제어 향상</string>
     <string name="gb_super_shake">안정화 알고리즘</string>
-    <string name="gb_super_shake_msg">전용 알고리즘으로 작은 제스처의 응답성 향상</string>
     <string name="gb_turbo_collimator_subtitle">조준경 지원</string>
     <string name="gb_turbo_macro_subtitle">높은 수준의 조작 실현</string>
     <string name="gb_turbo_shoulder_subtitle">게이밍 조작키 설정</string>
@@ -2174,7 +2171,6 @@
     <string name="gd_setting_conversation">회의 도구</string>
     <string name="gd_setting_conversation_desc">전체화면 음성 및 영화 통화에서 사용할 수 있는 다양한 기능 제공</string>
     <string name="gd_setting_dock_activity_title">측면 도구상자</string>
-    <string name="gd_setting_dock_call_summary">음성 및 영상 통화를 위한 기능 (예: 필라이트)</string>
     <string name="gd_setting_dock_call_title">통화 도구상자</string>
     <string name="gd_setting_dock_game_summary">게임을 플레이하는 동안 디스플레이와 성능을 향상시키십시오</string>
     <string name="gd_setting_dock_game_summary_new">게임을 플레이하는 동안 디스플레이와 성능 향상</string>
@@ -4175,7 +4171,7 @@ SMS 전송"</string>
     <string name="privacy_pop_storage">오늘 저장소 접근됨</string>
     <string name="privacy_prompt_tc_sms_report_message">데이터 사용량 정보를 업데이트하기 위하여 전화번호와 통신사 세부사항가 암호화되어 Mi의 서버에 업로드됩니다.</string>
     <string name="privacy_prompt_upload">업로드</string>
-    <string name="privacy_protect_summary">개인 정보 보호</string>
+    <string name="privacy_protect_summary">비공개 항목 보호</string>
     <string name="privacy_protect_title">개인 정보 보호</string>
     <string name="privacy_provision_back">뒤로</string>
     <string name="privacy_provision_more">개인 정보 보호 더 알아보기</string>
@@ -4779,15 +4775,11 @@ SMS 전송"</string>
     <string name="st_antispam_mode_smart_sum">직접 추가한 번호 및 다른 사용자가 신고한 번호 차단</string>
     <string name="st_antispam_title_anoy_incoming">수상한 사람으로부터 온 통화</string>
     <string name="st_antispam_title_anoy_sms">수상한 사람으로부터 온 메시지</string>
-    <string name="st_antispam_title_contact_incoming">연락처에서 온 통화</string>
-    <string name="st_antispam_title_contact_sms">연락처에서 온 메시지</string>
-    <string name="st_antispam_title_contactandanoy_group">설정</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">발신 번호 표시 제한 번호</string>
     <string name="st_antispam_title_service_sms">서비스 알림</string>
     <string name="st_antispam_title_whitelist">예외 목록</string>
     <string name="st_call_backsound_group">차단 목록 소리</string>
-    <string name="st_call_intercept_contacts">연락처에서 통화 차단</string>
     <string name="st_call_intercept_forwarding">착신전환된 통화 차단</string>
     <string name="st_call_intercept_oversea">해외 통화 차단</string>
     <string name="st_call_intercept_reported">신고된 번호로부터 걸려 오는 통화 차단</string>
@@ -4797,9 +4789,8 @@ SMS 전송"</string>
     <string name="st_call_settings">통화 차단 목록</string>
     <string name="st_call_stranger_group">모르는 사람으로부터 온 통화 차단</string>
     <string name="st_confirm_dialog_btn_open">차단</string>
-    <string name="st_confirm_dialog_summary_contact_call">연락처로부터의 모든 통화는 차단될 것입니다.</string>
     <string name="st_confirm_dialog_summary_oversea_call">외국 전화번호로부터의 모든 통화가 차단될 것입니다.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">모르는 사람으로부터의 모든 통화는 차단될 것입니다.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">예외 또는 연락처에 없는 번호에서 걸려오는 전화는 차단됩니다. 지금 켜시겠습니까?</string>
     <string name="st_filter_keywords_setting_summary1">이 목록에 있는 단어를 포함한 알 수 없는 번호에서 온 메시지는 차단됩니다.</string>
     <string name="st_filter_keywords_setting_summary2">(쉼표를 사용하여 여러 키워드 구분)</string>
     <string name="st_filter_keywords_setting_summary3">이 목록에 있는 단어를 포함한 알 수 없는 번호에서 온 메시지가 허용됩니다.</string>
@@ -4811,7 +4802,6 @@ SMS 전송"</string>
     <string name="st_message_SMSpass">SMS 허용</string>
     <string name="st_message_phone_AntiSpam">통화 차단</string>
     <string name="st_message_phonepass">통화 허용</string>
-    <string name="st_msg_intercept_contacts">연락처에서 SMS 차단</string>
     <string name="st_msg_keyword_black">키워드 차단 목록</string>
     <string name="st_msg_keyword_group">키워드</string>
     <string name="st_msg_keyword_white">키워드 예외 항목</string>
@@ -4825,11 +4815,11 @@ SMS 전송"</string>
     <string name="st_sub_title_whiteblack_list_group">차단 목록</string>
     <string name="st_sum_call_wait">차단 목록에 대한 음성 답변이 수신 전화에 대한 통화중음으로 재생될 것입니다.</string>
     <string name="st_summary_blacklist_numbers">특정 번호 및 지역의 메시지와 통화를 차단</string>
-    <string name="st_summary_blacklist_numbers_international">특정 번호에서 온 메시지와 전화를 차단하기</string>
+    <string name="st_summary_blacklist_numbers_international">번호 또는 접두사 기반 통화 차단</string>
     <string name="st_summary_keywords_blacklist">메시지 차단을 위해 키워드 추가하기</string>
     <string name="st_summary_special_numbers">차단된 전화 번호</string>
     <string name="st_summary_whitelist_numbers">특정 번호 및 지역의 메시지와 통화를 허용</string>
-    <string name="st_summary_whitelist_numbers_international">특정 번호에서 온 메시지와 전화를 허용하기</string>
+    <string name="st_summary_whitelist_numbers_international">번호 또는 접두사 기반 통화 허용</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">차단 목록에 추가</string>
@@ -5261,9 +5251,9 @@ SMS 전송"</string>
     <string name="title_app_lock_disable">앱 잠금</string>
     <string name="title_app_update">업데이트 사용 가능</string>
     <string name="title_auto_update">자동으로 업데이트</string>
-    <string name="title_background_connection">백그라운드에서 %s을 사용하실 수 없습니까?</string>
-    <string name="title_block_calls_from_cantacts">연락을 종종 놓치지 않으십니까?</string>
-    <string name="title_block_calls_from_strangers">중요한 전화를 놓치셨습니까?</string>
+    <string name="title_background_connection">백그라운드에서 %s 사용 불가</string>
+    <string name="title_block_calls_from_cantacts">연락처에서 걸려온 부재중 전화</string>
+    <string name="title_block_calls_from_strangers">중요한 전화 누락</string>
     <string name="title_chain_start">연속 실행 제한</string>
     <string name="title_cleaner_cloudscan">클라우드 쓰레기 스캔</string>
     <string name="title_cloud_account">Xiaomi 계정</string>
@@ -5280,8 +5270,8 @@ SMS 전송"</string>
     <string name="title_dev_no">개발자 옵션 켜짐</string>
     <string name="title_dev_yes">개발자 옵션 꺼짐</string>
     <string name="title_device_not_root">루트권한 없음</string>
-    <string name="title_do_not_disturb">벨소리를 듣지 못하셨습니까?</string>
-    <string name="title_eye_shield">화면 색상이 이상하십니까?</string>
+    <string name="title_do_not_disturb">벨소리를 들을 수 없음</string>
+    <string name="title_eye_shield">화면의 색상이 올바르지 않음</string>
     <string name="title_find_device">기기 찾기</string>
     <string name="title_first_aid_kit">문제 해결</string>
     <string name="title_flow_notification">모바일 데이터 알림</string>
@@ -5314,7 +5304,7 @@ SMS 전송"</string>
     <string name="title_power_optimizer">배터리 절약</string>
     <string name="title_realname_verify">ID 인증</string>
     <string name="title_reply">댓글</string>
-    <string name="title_restrict_data_usage">%s을(를) 인터넷에 연결하실 수 없습니까?</string>
+    <string name="title_restrict_data_usage">%s 인터넷 연결 실패</string>
     <string name="title_safe_mode">보안 모드 켜기</string>
     <string name="title_show_notification">알림 바 위젯</string>
     <string name="title_system_auto_download">업데이트가 자동으로 다운로드됩니다.</string>

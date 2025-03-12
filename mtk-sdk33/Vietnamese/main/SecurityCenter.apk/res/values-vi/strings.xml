@@ -572,7 +572,7 @@ Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="apps_item_scan_risk_summary_uninstalled">APK | Rủi ro</string>
     <string name="apps_item_scan_virus_summary_installed">Đã cài đặt | Virus</string>
     <string name="apps_item_scan_virus_summary_uninstalled">APK | Virus</string>
-    <string name="apps_item_sign_dialog_content">Chữ ký của \"%s\" khác với phiên bản trên Chợ Ứng dụng. Xóa ứng dụng này và cài đặt phiên bản chính thức? Chú ý: cài đặt ứng dụng có chữ ký khác nhau có thể dẫn đến tình trạng mất dữ liệu ứng dụng.</string>
+    <string name="apps_item_sign_dialog_content">Chữ ký của \"%s\" khác với phiên bản trên Chợ ứng dụng. Xóa ứng dụng này và cài đặt phiên bản chính thức? Chú ý: cài đặt ứng dụng có chữ ký khác nhau có thể dẫn đến tình trạng mất dữ liệu ứng dụng.</string>
     <string name="apps_item_sign_dialog_title">Cài đặt ứng dụng chính thức</string>
     <string name="apps_item_sign_install_button_text">Thay thế</string>
     <string name="apps_item_sms_default_set_success">Đặt thành công</string>
@@ -590,7 +590,6 @@ Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="apps_list_header_title_sms">Kiểm tra ứng dụng tin nhắn</string>
     <string name="apps_list_header_title_sms_access">Giới hạn truy cập vào mã xác minh</string>
     <string name="ask_create_shortcut">Tạo lối tắt Màn hình chính?</string>
-    <string name="audio_optimization_summary">Tăng cường âm thanh và giảm tiếng ồn xung quanh trong các cuộc hội thoại</string>
     <string name="audio_optimization_summary_new">Tối ưu chất lượng âm thanh của tai nghe khi chơi game và giảm tiếng ồn khi gọi</string>
     <string name="audio_optimization_title">Tăng cường âm thanh</string>
     <string name="auto_atsk_condition_battery_level_text_down">Khi pin đạt đến %s</string>
@@ -670,7 +669,7 @@ Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="auto_task_operation_sync">Đồng bộ</string>
     <string name="auto_task_operation_vibration">Rung</string>
     <string name="auto_task_operation_wifi">Wi-Fi</string>
-    <string name="auto_task_result_summary_text">Đặt nhiệm vụ tự động cho Tiết kiệm Pin</string>
+    <string name="auto_task_result_summary_text">Đặt nhiệm vụ tự động cho Tiết kiệm pin</string>
     <string name="autostart_now_tip">"Đã chặn \"%1$s\" mở \"%2$s\" "</string>
     <string name="back_app_name">Quay lại Khóa ứng dụng</string>
     <string name="back_description_securitycenter">Quay lại</string>
@@ -1769,7 +1768,6 @@ Nó sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị ch�
     <string name="gamebox_brightness">Độ sáng</string>
     <string name="gamebox_browser_not_find">Cài đặt Trình duyệt Mi trước</string>
     <string name="gamebox_bullet_chat">Bình luận trên màn hình</string>
-    <string name="gamebox_cellular_network">Tối ưu mạng di động</string>
     <string name="gamebox_cellular_network_description">Tự động chọn đường dẫn mạng tốt nhất dựa trên độ trễ của trò chơi</string>
     <string name="gamebox_collimator">Ống ngắm</string>
     <string name="gamebox_display_1">Không</string>
@@ -1988,14 +1986,13 @@ Ghi lại các chuỗi và sử dụng bất cứ lúc nào!"</string>
     <string name="gb_get_gift_right_now">Check in ngay</string>
     <string name="gb_global_settings">Cài đặt chung</string>
     <string name="gb_gpu_driver_btn_update">Kiểm tra cập nhật</string>
-    <string name="gb_gpu_driver_update">Cập nhật Trình điều khiển GPU</string>
+    <string name="gb_gpu_driver_update">Trình cập nhật Trình điều khiển GPU</string>
     <string name="gb_gpu_driver_update_app">Cập nhật</string>
     <string name="gb_gpu_driver_update_app_tips">Phiên bản hiện tại đã được cập nhật</string>
     <string name="gb_have_signed">Đã check in hôm nay</string>
     <string name="gb_manual_record_dialog_del_video_message">Xóa vĩnh viễn video đã chọn?</string>
     <string name="gb_manual_video_record_title">Ghi âm</string>
     <string name="gb_margin_restrain">Bỏ qua chạm vô tình trên các cạnh</string>
-    <string name="gb_margin_restrain_description">Thiết bị của bạn sẽ ít phản hồi hơn khi chạm vô tình vào khu vực gần các cạnh</string>
     <string name="gb_margin_restrain_seekbar">Khu vực chạm vô tình</string>
     <string name="gb_msg_completely_shielded">Ẩn tin nhắn</string>
     <string name="gb_msg_completely_shielded_summary">Ẩn</string>
@@ -2089,10 +2086,8 @@ nhưng cũng làm tăng mức tiêu thụ điện năng và làm cho thiết b�
     <string name="gb_super_finger_up">Phản hồi chạm nhanh</string>
     <string name="gb_super_finger_up_msg">Tăng tốc độ phản hồi chạm ở cấp phần cứng</string>
     <string name="gb_super_follow_up">Theo dõi cử chỉ</string>
-    <string name="gb_super_follow_up_msg">Nhận được phản hồi thời gian thực tốt hơn trong suốt toàn bộ cử chỉ</string>
     <string name="gb_super_motion">Tối ưu điều khiển cảm ứng</string>
     <string name="gb_super_shake">Thuật toán chống rung</string>
-    <string name="gb_super_shake_msg">Giúp cử chỉ nhỏ hơn phản ứng nhanh hơn thông qua thuật toán chuyên dụng</string>
     <string name="gb_turbo_collimator_subtitle">Sử dụng thiết bị ngắm mục tiêu</string>
     <string name="gb_turbo_macro_subtitle">Thực hiện thao tác đỉnh cao</string>
     <string name="gb_turbo_shoulder_subtitle">Cài đặt bộ điều khiển trò chơi</string>
@@ -2174,7 +2169,6 @@ quan trọng khi chơi game"</string>
     <string name="gd_setting_conversation">Công cụ hội nghị</string>
     <string name="gd_setting_conversation_desc">Cung cấp nhiều tính năng khác nhau để sử dụng cuộc gọi âm thanh và video toàn màn hình</string>
     <string name="gd_setting_dock_activity_title">Hộp công cụ bên</string>
-    <string name="gd_setting_dock_call_summary">Các tính năng dành cho cuộc gọi thoại và video (ví dụ: tăng sáng)</string>
     <string name="gd_setting_dock_call_title">Hộp công cụ gọi</string>
     <string name="gd_setting_dock_game_summary">Tăng cường hiển thị và hiệu suất khi chơi game</string>
     <string name="gd_setting_dock_game_summary_new">Tăng cường hiển thị và hiệu suất khi chơi game</string>
@@ -2263,7 +2257,7 @@ Bấm và giữ biểu tượng để di chuyển cửa sổ xung quanh."</strin
     <string name="gs_advanced_setting_summary">Cài đặt cho trò chơi cá nhân</string>
     <string name="gs_advanced_setting_title">Cài đặt bổ sung</string>
     <string name="gs_anto_clean_memory_whitelist">Bộ nhớ ngoại lệ</string>
-    <string name="gs_app_back_self_start">Tiết kiệm Pin</string>
+    <string name="gs_app_back_self_start">Tiết kiệm pin</string>
     <string name="gs_auto_clean_memory">Xóa bộ nhớ đệm</string>
     <string name="gs_auto_clean_memory_detail">Xóa bộ nhớ đệm tự động để tối ưu trò chơi</string>
     <string name="gs_autobooster_dialog_message">Nếu bạn đang sử dụng tăng tốc Xunyou, hãy mở trò chơi trên trang được chỉ định.</string>
@@ -2392,7 +2386,7 @@ to join our egg hunt!"</string>
     <string name="handle_title_privacy">Riêng tư &amp; bảo mật</string>
     <string name="handle_title_system">Sử dụng pin hệ thống</string>
     <string name="hide_mode_app_background_setting_text">Tiết kiệm pin ứng dụng</string>
-    <string name="hide_mode_result_summary_text">Tùy chỉnh cài đặt Tiết kiệm Pin cho ứng dụng cá nhân</string>
+    <string name="hide_mode_result_summary_text">Tùy chỉnh cài đặt Tiết kiệm pin cho ứng dụng cá nhân</string>
     <string name="hide_mode_summary_text">Quản lý hoạt động nền ứng dụng để tiết kiệm pin</string>
     <string name="hide_system_app">Ẩn ứng dụng hệ thống</string>
     <string name="hint_antispam_mode_edit">Tùy chỉnh chế độ</string>
@@ -3027,7 +3021,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="notification_link_cleaner_4000">Xóa rác QQ</string>
     <string name="notification_link_optimizemanage_1011_new">%s bộ nhớ đã bị chiếm dụng. Xóa ngay.</string>
     <string name="notification_low_battery_need_charge">Kết nối bộ sạc</string>
-    <string name="notification_low_battery_open_save_mode">Bật tiết kiệm Pin</string>
+    <string name="notification_low_battery_open_save_mode">Bật tiết kiệm pin</string>
     <string name="notification_low_battery_title">Pin còn lại ít hơn %s</string>
     <string name="notification_low_memory_button_text">Sửa</string>
     <string name="notification_low_memory_hint">Rác làm chậm thiết bị của bạn</string>
@@ -3731,7 +3725,7 @@ Tiết kiệm pin tối ưu"</string>
     <string name="power_center_scan_item_title_brightness">Điều chỉnh độ sáng màn hình</string>
     <string name="power_center_scan_item_title_clean_memory">Xóa bộ nhớ</string>
     <string name="power_center_scan_item_title_hide">Quản lý sử dụng pin</string>
-    <string name="power_center_scan_item_title_power_saver">Bật Tiết kiệm Pin</string>
+    <string name="power_center_scan_item_title_power_saver">Bật Tiết kiệm pin</string>
     <string name="power_center_scan_item_title_running_app">Ứng dụng đang chạy trong nền</string>
     <string name="power_center_scan_result_safe">Không tìm thấy vấn đề pin</string>
     <string name="power_center_speed_mode_dialog_text">Chế độ siêu cấp tăng hiệu suất của thiết bị bằng cách tăng mức tiêu thụ điện năng và làm cho thiết bị nóng lên. Tránh sử dụng chế độ siêu cấp trong thời gian dài.</string>
@@ -3852,7 +3846,7 @@ Tiết kiệm pin tối ưu"</string>
     <string name="power_optimize_enable_now_button">Bật</string>
     <string name="power_optimize_gps_summary">Giới hạn quyền truy cập vị trí cho tất cả ứng dụng</string>
     <string name="power_optimize_loading">Đang tải</string>
-    <string name="power_optimize_open_hide_mode">Bật Tiết kiệm Pin</string>
+    <string name="power_optimize_open_hide_mode">Bật Tiết kiệm pin</string>
     <string name="power_optimize_power_save_extend_time">Thêm %s</string>
     <string name="power_optimize_power_save_extend_time_new" formatted="false">Kéo dài khoảng %1s %2s</string>
     <string name="power_optimize_power_save_summary">Bật Tiết kiệm pin để áp dụng đa tối ưu hệ thống hạn chế hoạt động nền</string>
@@ -3873,13 +3867,13 @@ Tiết kiệm pin tối ưu"</string>
     <string name="power_save_mode_auto_exit_title">Tắt khi sạc</string>
     <string name="power_save_mode_close_aod_display_summary">Tắt Luôn luôn hiển thị khi Tiết kiệm pin bật</string>
     <string name="power_save_mode_close_aod_display_title">Tắt Luôn luôn hiển thị</string>
-    <string name="power_save_mode_close_notification_screenon_summary">Làm việc khi Tiết kiệm Pin bật</string>
+    <string name="power_save_mode_close_notification_screenon_summary">Làm việc khi Tiết kiệm pin bật</string>
     <string name="power_save_mode_close_notification_screenon_title">Không sáng màn hình khi có thông báo</string>
-    <string name="power_save_mode_close_warn_text">Tiết kiệm Pin giới hạn hoạt động nền và đồng bộ. Nếu bạn chọn sử dụng khi thiết bị được sạc, một vài tính năng có thể không làm việc bình thường. Bật tiết kiệm pin khi thiết bị được sạc?</string>
-    <string name="power_save_mode_close_warn_title">Tiết kiệm Pin</string>
-    <string name="power_save_mode_close_xiaoai_wakeup_summary">Làm việc khi Tiết kiệm Pin bật</string>
+    <string name="power_save_mode_close_warn_text">Tiết kiệm pin giới hạn hoạt động nền và đồng bộ. Nếu bạn chọn sử dụng khi thiết bị được sạc, một vài tính năng có thể không làm việc bình thường. Bật tiết kiệm pin khi thiết bị được sạc?</string>
+    <string name="power_save_mode_close_warn_title">Tiết kiệm pin</string>
+    <string name="power_save_mode_close_xiaoai_wakeup_summary">Làm việc khi Tiết kiệm pin bật</string>
     <string name="power_save_mode_close_xiaoai_wakeup_title">Không kích hoạt Mi AI bằng giọng nói</string>
-    <string name="power_save_mode_enable">Tiết kiệm Pin</string>
+    <string name="power_save_mode_enable">Tiết kiệm pin</string>
     <string name="power_save_mode_end_time">Kết thúc</string>
     <string name="power_save_mode_ontime_enabled">Hẹn giờ bật tắt chế độ tiết kiệm pin</string>
     <string name="power_save_mode_other_optimization">Tùy chọn tối ưu</string>
@@ -3905,9 +3899,9 @@ Tiết kiệm pin tối ưu"</string>
     <string name="power_save_ps_freeze">Đóng băng các ứng dụng chạy nền</string>
     <string name="power_save_ps_limit">Giới hạn hoạt động của các ứng dụng hệ thống</string>
     <string name="power_save_settings">Cài đặt pin</string>
-    <string name="power_save_started_summary_text">Tiết kiệm Pin đang bật. Tính nằng này làm hạn chế hoạt động nền ứng dụng, dừng đồng bộ và hạn chế tối đa hiệu ứng hình ảnh.</string>
-    <string name="power_save_summary_text">Bật Tiết kiệm Pin để giảm hoạt động nền ứng dụng, dừng đồng bộ, và hạn chế tối đa hiệu ứng hình ảnh.</string>
-    <string name="power_save_title_text">Tiết kiệm Pin</string>
+    <string name="power_save_started_summary_text">Tiết kiệm pin đang bật. Tính nằng này làm hạn chế hoạt động nền ứng dụng, dừng đồng bộ và hạn chế tối đa hiệu ứng hình ảnh.</string>
+    <string name="power_save_summary_text">Bật Tiết kiệm pin để giảm hoạt động nền ứng dụng, dừng đồng bộ, và hạn chế tối đa hiệu ứng hình ảnh.</string>
+    <string name="power_save_title_text">Tiết kiệm pin</string>
     <string name="power_screen">Màn hình</string>
     <string name="power_setting_background_app_save_summary">Giới hạn hoạt động ứng dụng trong nền mà không ảnh hưởng đến tính năng</string>
     <string name="power_setting_background_app_save_title">Tiết kiệm pin trong nền</string>
@@ -4176,7 +4170,7 @@ Tiết kiệm pin tối ưu"</string>
     <string name="privacy_pop_storage">Đã truy cập lưu trữ hôm nay</string>
     <string name="privacy_prompt_tc_sms_report_message">Chi tiết số điện và nhà cung cấp của bạn sẽ được mã hóa và tải lên máy chủ của Mi để cập nhật thông tin sử dụng dữ liệu của bạn.</string>
     <string name="privacy_prompt_upload">Tải lên</string>
-    <string name="privacy_protect_summary">Bảo vệ thông tin cá nhân của bạn</string>
+    <string name="privacy_protect_summary">Bảo vệ các mục riêng tư</string>
     <string name="privacy_protect_title">Bảo vệ cá nhân</string>
     <string name="privacy_provision_back">Quay lại</string>
     <string name="privacy_provision_more">Tìm hiểu thêm về bảo vệ cá nhân</string>
@@ -4750,8 +4744,8 @@ Rút lại chấp thuận ngay?"</string>
     <string name="special_perm_virtual_title">Quản lý ID ảo</string>
     <string name="special_perm_vr_msg">Cho phép ứng dụng sử dụng trợ lý VR</string>
     <string name="special_perm_vr_title">Sử dụng trợ lý VR</string>
-    <string name="special_perm_window_msg">Cho phép ứng dụng hiển thị các mục trong Chế độ ảnh trong ảnh</string>
-    <string name="special_perm_window_title">Hiển thị các mục trong Chế độ ảnh trong ảnh</string>
+    <string name="special_perm_window_msg">Cho phép ứng dụng hiển thị các mục trong Chế độ PiP</string>
+    <string name="special_perm_window_title">Hiển thị các mục trong Chế độ PiP</string>
     <string name="sponsored_sec_fb">Tài trợ</string>
     <string name="ss_activity_main_support_text">Được hỗ trợ bởi %s</string>
     <string name="st_antispam_black_adress_add">Thêm vị trí</string>
@@ -4780,15 +4774,11 @@ Rút lại chấp thuận ngay?"</string>
     <string name="st_antispam_mode_smart_sum">Chặn số bạn thêm thủ công và số được báo cáo bởi người dùng khác</string>
     <string name="st_antispam_title_anoy_incoming">Cuộc gọi từ người lạ</string>
     <string name="st_antispam_title_anoy_sms">Tin nhắn từ người lạ</string>
-    <string name="st_antispam_title_contact_incoming">Cuộc gọi từ Liên hệ</string>
-    <string name="st_antispam_title_contact_sms">Tin nhắn từ Liên hệ</string>
-    <string name="st_antispam_title_contactandanoy_group">Cài đặt</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Số cá nhân</string>
     <string name="st_antispam_title_service_sms">Thông báo dịch vụ</string>
     <string name="st_antispam_title_whitelist">Danh sách ngoại lệ</string>
     <string name="st_call_backsound_group">Chặn âm thanh</string>
-    <string name="st_call_intercept_contacts">Chặn cuộc gọi từ liên hệ</string>
     <string name="st_call_intercept_forwarding">Chặn cuộc gọi được chuyển tiếp</string>
     <string name="st_call_intercept_oversea">Chặn cuộc gọi từ nước ngoài</string>
     <string name="st_call_intercept_reported">Chặn cuộc gọi từ số đã báo cáo</string>
@@ -4798,9 +4788,8 @@ Rút lại chấp thuận ngay?"</string>
     <string name="st_call_settings">Chặn cuộc gọi</string>
     <string name="st_call_stranger_group">Chặn cuộc gọi từ người lạ</string>
     <string name="st_confirm_dialog_btn_open">Chặn</string>
-    <string name="st_confirm_dialog_summary_contact_call">Tất cả cuộc gọi từ liên hệ sẽ bị chặn.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Tất cả các cuộc gọi từ số điện thoại nước ngoài sẽ bị chặn.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Tất cả cuộc gọi từ người lạ sẽ bị chặn.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">Các cuộc gọi từ bất kỳ số nào không nằm trong liên hệ hoặc danh sách ngoại lệ của bạn sẽ bị chặn. Bật ngay?</string>
     <string name="st_filter_keywords_setting_summary1">Tin nhắn từ những số không xác định có chứa những từ trong danh sách sẽ bị chặn.</string>
     <string name="st_filter_keywords_setting_summary2">(Sử dụng dấu phẩy để phân cách nhiều từ khóa)</string>
     <string name="st_filter_keywords_setting_summary3">Tin nhắn từ số không xác định có chứa các từ trong danh sách này sẽ được cho phép.</string>
@@ -4812,7 +4801,6 @@ Rút lại chấp thuận ngay?"</string>
     <string name="st_message_SMSpass">Cho phép SMS</string>
     <string name="st_message_phone_AntiSpam">Chặn cuộc gọi</string>
     <string name="st_message_phonepass">Cho phép cuộc gọi</string>
-    <string name="st_msg_intercept_contacts">Chặn SMS từ liên hệ</string>
     <string name="st_msg_keyword_black">Chặn theo từ khóa</string>
     <string name="st_msg_keyword_group">Từ khóa</string>
     <string name="st_msg_keyword_white">Từ khóa danh sách ngoại lệ</string>
@@ -4826,11 +4814,11 @@ Rút lại chấp thuận ngay?"</string>
     <string name="st_sub_title_whiteblack_list_group">Danh sách chặn</string>
     <string name="st_sum_call_wait">Khi bạn đang thực hiện cuộc gọi, cuộc gọi đến từ bên thứ ba sẽ nhận được thông báo bận.</string>
     <string name="st_summary_blacklist_numbers">Chặn cuộc gọi và tin nhắn từ số điện thoại và khu vực cụ thể</string>
-    <string name="st_summary_blacklist_numbers_international">Chặn cuộc gọi và tin nhắn từ số điện thoại cụ thể</string>
+    <string name="st_summary_blacklist_numbers_international">Chặn cuộc gọi theo số hoặc tiền tố</string>
     <string name="st_summary_keywords_blacklist">Thêm từ khóa để chặn tin nhắn</string>
     <string name="st_summary_special_numbers">Chặn số điện thoại đã đánh dấu</string>
     <string name="st_summary_whitelist_numbers">Cho phép cuộc gọi và tin nhắn từ số điện thoại và khu vực cụ thể</string>
-    <string name="st_summary_whitelist_numbers_international">Cho phép cuộc gọi và tin nhắn từ số điện thoại cụ thể</string>
+    <string name="st_summary_whitelist_numbers_international">Cho phép cuộc gọi theo số hoặc tiền tố</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Thêm vào danh sách chặn</string>
@@ -5262,9 +5250,9 @@ Rút lại chấp thuận ngay?"</string>
     <string name="title_app_lock_disable">Khóa ứng dụng</string>
     <string name="title_app_update">Tìm thấy phiên bản mới</string>
     <string name="title_auto_update">Cập nhật tự động</string>
-    <string name="title_background_connection">Không thể sử dụng %s trong nền?</string>
-    <string name="title_block_calls_from_cantacts">Cuộc gọi nhỡ từ liên hệ?</string>
-    <string name="title_block_calls_from_strangers">Bỏ lỡ cuộc gọi quan trọng?</string>
+    <string name="title_background_connection">Không thể sử dụng %s trong nền</string>
+    <string name="title_block_calls_from_cantacts">Cuộc gọi nhỡ từ liên hệ</string>
+    <string name="title_block_calls_from_strangers">Bỏ lỡ cuộc gọi quan trọng</string>
     <string name="title_chain_start">Chặn khởi chạy dây chuyền</string>
     <string name="title_cleaner_cloudscan">Quét rác đám mây</string>
     <string name="title_cloud_account">Tài khoản Xiaomi</string>
@@ -5281,8 +5269,8 @@ Rút lại chấp thuận ngay?"</string>
     <string name="title_dev_no">Tùy chọn nhà phát triển bật</string>
     <string name="title_dev_yes">Tùy chọn nhà phát triển tắt</string>
     <string name="title_device_not_root">Chưa kích hoạt quyền truy cập root</string>
-    <string name="title_do_not_disturb">Không thể nghe nhạc chuông của bạn?</string>
-    <string name="title_eye_shield">Màu sắc màn hình không đúng?</string>
+    <string name="title_do_not_disturb">Không thể nghe nhạc chuông của bạn</string>
+    <string name="title_eye_shield">Màu sắc màn hình không đúng</string>
     <string name="title_find_device">Tìm thiết bị</string>
     <string name="title_first_aid_kit">Giải quyết vấn đề</string>
     <string name="title_flow_notification">Thông báo dữ liệu di động</string>
@@ -5315,7 +5303,7 @@ Rút lại chấp thuận ngay?"</string>
     <string name="title_power_optimizer">Tiết kiệm pin</string>
     <string name="title_realname_verify">Xác minh ID</string>
     <string name="title_reply">Bình luận</string>
-    <string name="title_restrict_data_usage">%s không thể kết nối Internet?</string>
+    <string name="title_restrict_data_usage">%s không thể kết nối internet</string>
     <string name="title_safe_mode">Bật Chế độ an toàn</string>
     <string name="title_show_notification">Tiện ích thanh thông báo</string>
     <string name="title_system_auto_download">Bản cập nhật sẽ tải xuống tự động</string>

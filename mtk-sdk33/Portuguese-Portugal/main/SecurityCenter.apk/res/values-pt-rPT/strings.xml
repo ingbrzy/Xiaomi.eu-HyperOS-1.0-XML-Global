@@ -590,7 +590,6 @@ Não irá perder nenhum dado da aplicação."</string>
     <string name="apps_list_header_title_sms">Verificar a aplicação de mensagens</string>
     <string name="apps_list_header_title_sms_access">Restringir acesso a códigos de verificação</string>
     <string name="ask_create_shortcut">Criar atalho no Ecrã inicial?</string>
-    <string name="audio_optimization_summary">Aprimorar áudio e reduzir ruído ambiente em conversas</string>
     <string name="audio_optimization_summary_new">Otimizar qualidade sonora dos auriculares durante jogos e reduzir ruídos durante chamadas</string>
     <string name="audio_optimization_title">Áudio aprimorado</string>
     <string name="auto_atsk_condition_battery_level_text_down">Quando a bateria chegar a %s</string>
@@ -1183,6 +1182,7 @@ No entanto, algumas das suas transações ainda não foram concluídas. Para pod
     <string name="cs_voice_search">Impressão de voz</string>
     <string name="cs_vt_camera_toast_case1">Abrir a câmara na aplicação atual</string>
     <string name="cs_vt_camera_toast_case2">Sem dispositivos compatíveis por perto</string>
+    <string name="cta_HIPS_Perm_Location_Desc">Para fornecer as funcionalidades relevantes à sua localização no Centro de Alerta, SOS de Emergência, Poupança de bateria da aplicação, verificação de segurança de pagamentos e serviço de localização aproximada</string>
     <string name="cta_agree_desc">Para poder utilizar os nossos serviços, permita que esta aplicação se ligue à Internet e conceda as permissões listadas acima.</string>
     <string name="cta_close_dialog_cancel">Cancelar</string>
     <string name="cta_close_dialog_content">Se restringir o acesso da aplicação Segurança à Internet e informações de localização, não poderá receber alertas de terramotos, atualizar definições do antivírus e informações da lista de bloqueio. O seu dispositivo ficará menos seguro. Restringir na mesma?</string>
@@ -1329,8 +1329,8 @@ Todos os dados no dispositivo podem ser apagados e a palavra-passe do Ecrã de b
     <string name="dlg_add_white">Novas chamadas e mensagens dos números adicionados às exceções vão ser exibidos no histórico de chamadas e caixa de entrada de Mensagens. No entanto, itens bloqueados anteriormente não vão aparecer lá. Adicionar os números selecionados às exceções?</string>
     <string name="dlg_antispam_mode_delete_message">Não é possível recuperar regras depois de terem sido eliminadas.</string>
     <string name="dlg_antispam_mode_delete_title">Eliminar regras?</string>
-    <string name="dlg_antispam_using_mode_delete_message">Eliminar as regras que está a utilizar atualmente e voltar para as regras predefinidas da lista de bloqueio?</string>
-    <string name="dlg_antispam_using_mode_international_delete_message">Eliminar as regras que está a utilizar atualmente e voltar para as regras predefinidas da lista de bloqueio?</string>
+    <string name="dlg_antispam_using_mode_delete_message">Eliminar as regras que estás a utilizar atualmente e voltar para as regras predefinidas da lista de bloqueio?</string>
+    <string name="dlg_antispam_using_mode_international_delete_message">Eliminar as regras que estás a utilizar atualmente e voltar para as regras predefinidas da lista de bloqueio?</string>
     <string name="dlg_black_address_antispam_message">Adicionar esta localização à lista de bloqueio?</string>
     <string name="dlg_black_antispam_hint">Lista de bloqueio</string>
     <string name="dlg_black_antispam_message">Adicionar este número à Lista de bloqueio?</string>
@@ -1415,6 +1415,7 @@ Será adicionado às exceções, mas os itens bloqueados anteriormente não vão
     <string name="error_icon_content_description">Erro</string>
     <string name="evening">Tarde</string>
     <string name="every_day">Diariamente</string>
+    <string name="ew_monitor_summary1">Use o seu dispositivo para a monitorização sísmica.</string>
     <string name="examination_score_100">Parece estar tudo bem!</string>
     <string name="examination_score_60_0">Verificar agora</string>
     <string name="examination_score_80_100">Alguns itens podem ser otimizados</string>
@@ -1697,11 +1698,11 @@ Será adicionado às exceções, mas os itens bloqueados anteriormente não vão
     <string name="function_auto_reject_title">Recusar chamadas VoLTE para cartões SIM sem serviço de dados</string>
     <string name="function_close">Desligado</string>
     <string name="function_gwsd_detail">"Sobre esta funcionalidade:
-1. Quando está a utilizar os dados móveis em um SIM de dados ou em um SIM normal ligado a uma rede VoLTE, a ligação não vai ser interrompida por chamadas recebidas até que atenda a chamada.
+1. Quando estás a utilizar os dados móveis em um SIM de dados ou em um SIM normal ligado a uma rede VoLTE, a ligação não vai ser interrompida por chamadas recebidas até que atenda a chamada.
 2. Quando esta funcionalidade está ligada, a outra pessoa não vai ouvir o tom de chamada a não ser que esteja a utilizar um cartão SIM normal. Chamadas recebidas vão ser rejeitadas automaticamente após 7-10 segundos de inatividade.
 3. Cartões SIM de dados fornecidos pela China Mobile e China Unicom são suportados. Cartões SIM normais fornecidos pela China Mobile, China Unicom e China Telecom são suportados."</string>
     <string name="function_gwsd_detail_new">"Sobre esta funcionalidade:
-%1$d. Quando está a utilizar os dados móveis em um SIM de dados ou em um SIM comum ligado à uma rede VoLTE, a ligação não será interrompida por chamadas recebidas até que a atenda.
+%1$d. Quando estás a utilizar os dados móveis em um SIM de dados ou em um SIM comum ligado à uma rede VoLTE, a ligação não será interrompida por chamadas recebidas até que a atenda.
 %2$d. Quando esta funcionalidade está ligada, a outra pessoa não conseguirá ouvir sons ringback a não ser que estejas a utilizar um cartão SIM comum. As chamadas recebidas serão rejeitadas automaticamente após %3$d-%4$d segundos de inatividade.
 %5$d. Cartões SIM de dados fornecidos pela China Mobile e China Unicom são suportados. Cartões sim comuns fornecidos pela China Mobile, China Unicom e China Telecom são suportados."</string>
     <string name="function_gwsd_title">Não permitir que chamadas recebidas interrompam a ligação de dados do SIM</string>
@@ -1769,7 +1770,6 @@ Será adicionado às exceções, mas os itens bloqueados anteriormente não vão
     <string name="gamebox_brightness">Brilho</string>
     <string name="gamebox_browser_not_find">Instale o Navegador Mi primeiro</string>
     <string name="gamebox_bullet_chat">Comentários no ecrã</string>
-    <string name="gamebox_cellular_network">Otimizar rede móvel</string>
     <string name="gamebox_cellular_network_description">Selecionar automaticamente o melhor caminho de rede com base na latência do jogo</string>
     <string name="gamebox_collimator">Mira</string>
     <string name="gamebox_display_1">Nenhum</string>
@@ -1995,7 +1995,6 @@ Grave sequências e utilize-as a qualquer momento!"</string>
     <string name="gb_manual_record_dialog_del_video_message">Eliminar vídeos selecionados permanentemente?</string>
     <string name="gb_manual_video_record_title">Gravações</string>
     <string name="gb_margin_restrain">Ignorar toques acidentais nas bordas</string>
-    <string name="gb_margin_restrain_description">O seu dispositivo será menos responsivo a toques acidentais na área próxima às bordas</string>
     <string name="gb_margin_restrain_seekbar">Área de toque acidental</string>
     <string name="gb_msg_completely_shielded">Ocultar mensagens</string>
     <string name="gb_msg_completely_shielded_summary">Ocultar</string>
@@ -2089,10 +2088,8 @@ mas também aumenta o consumo de energia e permite que seu dispositivo superaque
     <string name="gb_super_finger_up">Resposta a toques rápidos</string>
     <string name="gb_super_finger_up_msg">Acelerar resposta do toque em nível de hardware</string>
     <string name="gb_super_follow_up">Rastreamento de gestos</string>
-    <string name="gb_super_follow_up_msg">Obtenha uma resposta melhor em tempo real durante todo o gesto</string>
     <string name="gb_super_motion">Controlos por toque aprimorados</string>
     <string name="gb_super_shake">Algoritmo de estabilização</string>
-    <string name="gb_super_shake_msg">Torne os gestos menores mais responsivos utilizando o algoritmo dedicado</string>
     <string name="gb_turbo_collimator_subtitle">Utilizar dispositivo de mira</string>
     <string name="gb_turbo_macro_subtitle">Execute ações de alto nível</string>
     <string name="gb_turbo_shoulder_subtitle">Definir controlos para jogo</string>
@@ -2174,7 +2171,6 @@ das suas sessões de jogos"</string>
     <string name="gd_setting_conversation">Ferramentas de conferência</string>
     <string name="gd_setting_conversation_desc">Fornece uma variedade de recursos para uso em chamadas de áudio e vídeo em ecrã inteiro</string>
     <string name="gd_setting_dock_activity_title">Caixa de ferramentas lateral</string>
-    <string name="gd_setting_dock_call_summary">Funcionalidades para chamadas de voz e vídeo (ex.: luz de preenchimento)</string>
     <string name="gd_setting_dock_call_title">Caixa de ferramentas de chamada</string>
     <string name="gd_setting_dock_game_summary">Aprimorar o ecrã e o desempenho durante jogos</string>
     <string name="gd_setting_dock_game_summary_new">Aprimorar o ecrã e o desempenho durante jogos</string>
@@ -3166,7 +3162,7 @@ Tente utilizar outro cabo Ethernet para ligar o seu router. Se suspeitar que há
     <string name="optimize_result_toast_system_default_settings">As definições predefinidas foram repostas</string>
     <string name="optimize_result_toast_system_no_item_selected">Sem itens selecionados</string>
     <string name="optional_permissions">Permissões opcionais</string>
-    <string name="optional_permissions_desc">Estas permissões são exigidas quando está a utilizar funcionalidades adicionais.</string>
+    <string name="optional_permissions_desc">Estas permissões são exigidas quando estás a utilizar funcionalidades adicionais.</string>
     <string name="optmizingbar_optimize_done">Otimizado</string>
     <string name="optmizingbar_ready">A otimizar…</string>
     <string name="optmizingbar_stop_optmize">Parar</string>
@@ -4175,7 +4171,7 @@ a Ultra poupança de bateria"</string>
     <string name="privacy_pop_storage">Acedeu ao armazenamento hoje</string>
     <string name="privacy_prompt_tc_sms_report_message">O seu número de telefone e detalhes da operadora vão ser encriptados e enviados para os servidores Mi para obter mais informações sobre a utilização de dados.</string>
     <string name="privacy_prompt_upload">Enviar</string>
-    <string name="privacy_protect_summary">Proteja as suas informações pessoais</string>
+    <string name="privacy_protect_summary">Proteger itens privados</string>
     <string name="privacy_protect_title">Proteção de Privacidade</string>
     <string name="privacy_provision_back">Anterior</string>
     <string name="privacy_provision_more">Saiba mais sobre a proteção de privacidade</string>
@@ -4555,11 +4551,11 @@ Retirar o consentimento agora?"</string>
     <string name="shutdown_cancel_reminder_detail">O dispositivo não desligou porque estava no decorrer de uma chamada</string>
     <string name="shutdown_cancel_reminder_detail2">Parece que está a jogar. O desligamento programado foi cancelado.</string>
     <string name="signal_exception_4g_bad_rsrq">A recepção atual do sinal está ruim. A velocidade da ligação pode ser baixa.</string>
-    <string name="signal_exception_none_4g_5g_network">Está a utilizar as redes móveis 2G/3G. A velocidade da ligação pode ser baixa.</string>
+    <string name="signal_exception_none_4g_5g_network">Estás a utilizar as redes móveis 2G/3G. A velocidade da ligação pode ser baixa.</string>
     <string name="signal_exception_summary">Não é possível ligar à rede nesta área.</string>
     <string name="signal_exception_title">Testar potência do sinal</string>
     <string name="signed_rule">Regras</string>
-    <string name="sim_location_error_dialog_message">O SIM que está a utilizar é de %1$s. Isto é diferente da localização que introduziu manualmente (%2$s). Alterar a localização do SIM para %3$s?</string>
+    <string name="sim_location_error_dialog_message">O SIM que estás a utilizar é de %1$s. Isto é diferente da localização que introduziu manualmente (%2$s). Alterar a localização do SIM para %3$s?</string>
     <string name="sim_location_error_notify_message">Toque para alterar localização do SIM.</string>
     <string name="sim_location_error_notify_title">Erro no cartão SIM</string>
     <string name="sim_lock_guide_button">Definições</string>
@@ -4779,15 +4775,11 @@ Retirar o consentimento agora?"</string>
     <string name="st_antispam_mode_smart_sum">Bloquear números que adicionou manualmente e números que têm sido reportados por outros utilizadores</string>
     <string name="st_antispam_title_anoy_incoming">Chamadas de desconhecidos</string>
     <string name="st_antispam_title_anoy_sms">Mensagens de desconhecidos</string>
-    <string name="st_antispam_title_contact_incoming">Chamadas dos Contactos</string>
-    <string name="st_antispam_title_contact_sms">Mensagens dos Contactos</string>
-    <string name="st_antispam_title_contactandanoy_group">Definições</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Números privados</string>
     <string name="st_antispam_title_service_sms">Notificações de serviço</string>
     <string name="st_antispam_title_whitelist">Exceções</string>
     <string name="st_call_backsound_group">Toque da lista de bloqueio</string>
-    <string name="st_call_intercept_contacts">Bloquear chamadas de contactos</string>
     <string name="st_call_intercept_forwarding">Bloquear chamadas reencaminhadas</string>
     <string name="st_call_intercept_oversea">Bloquear chamadas internacionais</string>
     <string name="st_call_intercept_reported">Bloquear chamadas de números reportados</string>
@@ -4797,9 +4789,8 @@ Retirar o consentimento agora?"</string>
     <string name="st_call_settings">Lista de bloqueio de chamadas</string>
     <string name="st_call_stranger_group">Bloquear chamadas de desconhecidos</string>
     <string name="st_confirm_dialog_btn_open">Bloquear</string>
-    <string name="st_confirm_dialog_summary_contact_call">Todas as chamadas de contactos serão bloqueadas.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Todas as chamadas de números de telefones internacionais vão ser bloqueadas.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Todas as chamadas de desconhecidos serão bloqueadas.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">As chamadas de qualquer número que não esteja nas suas excepções ou nos seus contactos serão bloqueadas. Ligar agora?</string>
     <string name="st_filter_keywords_setting_summary1">Mensagens de números desconhecidos que contenham as palavras desta lista serão bloqueadas.</string>
     <string name="st_filter_keywords_setting_summary2">(Utilize uma vírgula para separar múltiplas palavras-chave)</string>
     <string name="st_filter_keywords_setting_summary3">Mensagens de números desconhecidos que contenham as palavras desta lista serão permitidas.</string>
@@ -4811,7 +4802,6 @@ Retirar o consentimento agora?"</string>
     <string name="st_message_SMSpass">Permitir SMS</string>
     <string name="st_message_phone_AntiSpam">Bloquear chamadas</string>
     <string name="st_message_phonepass">Permitir chamadas</string>
-    <string name="st_msg_intercept_contacts">Bloquear SMS de contactos</string>
     <string name="st_msg_keyword_black">Lista de bloqueio por palavra-chave</string>
     <string name="st_msg_keyword_group">Palavras-chave</string>
     <string name="st_msg_keyword_white">Exceções por palavra-chave</string>
@@ -4825,11 +4815,11 @@ Retirar o consentimento agora?"</string>
     <string name="st_sub_title_whiteblack_list_group">Lista de bloqueio</string>
     <string name="st_sum_call_wait">A sua mensagem de ausência também vai ser ouvida como sinal de ocupado para as chamadas recebidas.</string>
     <string name="st_summary_blacklist_numbers">Bloquear chamadas e mensagens de números e áreas específicas</string>
-    <string name="st_summary_blacklist_numbers_international">Bloquear chamadas e mensagens de números específicos</string>
+    <string name="st_summary_blacklist_numbers_international">Bloquear chamadas com base no número ou prefixo</string>
     <string name="st_summary_keywords_blacklist">Adicionar palavras-chave para bloquear mensagens</string>
     <string name="st_summary_special_numbers">Bloquear números de telefone marcados</string>
     <string name="st_summary_whitelist_numbers">Permitir chamadas e mensagens de números e áreas específicas</string>
-    <string name="st_summary_whitelist_numbers_international">Permitir chamadas e mensagens de números específicos</string>
+    <string name="st_summary_whitelist_numbers_international">Permitir chamadas com base em um número ou prefixo</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Adicionar à Lista de bloqueio</string>
@@ -5013,7 +5003,7 @@ A formatação vai apagar o conteúdo existente no ^2. Para evitar a perda de da
     <string name="summary_data_flow">Controle a utilização de dados móveis para evitar gastos desnecessários</string>
     <string name="summary_default_app">%s não está definida como aplicação de sistema predefinida</string>
     <string name="summary_dev">Evitar Malware e proteger dados pessoais</string>
-    <string name="summary_do_not_disturb">Está a utilizar o Modo Não incomodar.</string>
+    <string name="summary_do_not_disturb">Estás a utilizar o Modo Não incomodar.</string>
     <string name="summary_eye_shield">Desligar o Modo de leitura para voltar às definições predefinidas.</string>
     <string name="summary_find_device">Localizar e bloquear o seu dispositivo em qualquer lugar</string>
     <string name="summary_first_aid_kit">Resolver os problemas no seu dispositivo agora</string>
@@ -5261,9 +5251,9 @@ A formatação vai apagar o conteúdo existente no ^2. Para evitar a perda de da
     <string name="title_app_lock_disable">Bloquear aplicações</string>
     <string name="title_app_update">Atualizações disponíveis</string>
     <string name="title_auto_update">Atualizar automaticamente</string>
-    <string name="title_background_connection">Não pode utilizar %s em segundo plano?</string>
-    <string name="title_block_calls_from_cantacts">Perdeu chamadas dos seus contactos?</string>
-    <string name="title_block_calls_from_strangers">Perdeu uma chamada importante?</string>
+    <string name="title_background_connection">Não pode utilizar %s em segundo plano</string>
+    <string name="title_block_calls_from_cantacts">Perdeu chamadas dos seus contactos</string>
+    <string name="title_block_calls_from_strangers">Perdeu uma chamada importante</string>
     <string name="title_chain_start">Restringir início sequencial</string>
     <string name="title_cleaner_cloudscan">Verificação de lixo na nuvem</string>
     <string name="title_cloud_account">Conta Xiaomi</string>
@@ -5280,8 +5270,8 @@ A formatação vai apagar o conteúdo existente no ^2. Para evitar a perda de da
     <string name="title_dev_no">Opções do programador ligadas</string>
     <string name="title_dev_yes">Opções do programador desligadas</string>
     <string name="title_device_not_root">Acesso root não concedido</string>
-    <string name="title_do_not_disturb">Não consegue ouvir o toque do telemóvel?</string>
-    <string name="title_eye_shield">A cor do ecrã parece incorreta?</string>
+    <string name="title_do_not_disturb">Não consegue ouvir o toque do telemóvel</string>
+    <string name="title_eye_shield">A cor do ecrã parece incorreta</string>
     <string name="title_find_device">Localizar dispositivo</string>
     <string name="title_first_aid_kit">Resolver problemas</string>
     <string name="title_flow_notification">Notificação de dados móveis</string>
@@ -5314,7 +5304,7 @@ A formatação vai apagar o conteúdo existente no ^2. Para evitar a perda de da
     <string name="title_power_optimizer">Poupança de bateria</string>
     <string name="title_realname_verify">Verificação de ID</string>
     <string name="title_reply">Comentar</string>
-    <string name="title_restrict_data_usage">%s não consegue ligar-se à Internet?</string>
+    <string name="title_restrict_data_usage">%s não consegue ligar-se à Internet</string>
     <string name="title_safe_mode">Ligar o Modo seguro</string>
     <string name="title_show_notification">Widget na Área de notificações</string>
     <string name="title_system_auto_download">As atualizações serão transferidas automaticamente</string>

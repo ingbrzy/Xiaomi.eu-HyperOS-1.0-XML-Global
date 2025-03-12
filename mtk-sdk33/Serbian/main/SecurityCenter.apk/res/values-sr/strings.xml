@@ -590,7 +590,6 @@
     <string name="apps_list_header_title_sms">Проверите апликацију за слање порука</string>
     <string name="apps_list_header_title_sms_access">Ограничи приступ кодовима за потврду</string>
     <string name="ask_create_shortcut">Креирати пречицу на Почетном екрану?</string>
-    <string name="audio_optimization_summary">Побољшајте звук и смањите шум током разговора</string>
     <string name="audio_optimization_summary_new">Оптимизујте квалитет звука слушалица током играња и смањите буку током позива</string>
     <string name="audio_optimization_title">Побољшан звук</string>
     <string name="auto_atsk_condition_battery_level_text_down">Када батерија достигне %s</string>
@@ -1769,7 +1768,6 @@
     <string name="gamebox_brightness">Светлина</string>
     <string name="gamebox_browser_not_find">Прво инсталирај Mi Прегледач</string>
     <string name="gamebox_bullet_chat">Коментари на екрану</string>
-    <string name="gamebox_cellular_network">Оптимизујте мобилну мрежу</string>
     <string name="gamebox_cellular_network_description">Аутоматски изаберите најбољу мрежну путању на основу кашњења игре</string>
     <string name="gamebox_collimator">Нишан</string>
     <string name="gamebox_display_1">Ништа</string>
@@ -1995,7 +1993,6 @@ Xiaomi Gaming Cooler"</string>
     <string name="gb_manual_record_dialog_del_video_message">Трајно обрисати изабране видео снимке?</string>
     <string name="gb_manual_video_record_title">Снимци</string>
     <string name="gb_margin_restrain">Занемари случајне додире на ивицама</string>
-    <string name="gb_margin_restrain_description">Уређај ће мање реаговати на случајни додир у области близу ивица</string>
     <string name="gb_margin_restrain_seekbar">Област случајног додира</string>
     <string name="gb_msg_completely_shielded">Сакриј поруке</string>
     <string name="gb_msg_completely_shielded_summary">Сакриј</string>
@@ -2089,10 +2086,8 @@ Xiaomi Gaming Cooler"</string>
     <string name="gb_super_finger_up">Брз одговор на додир</string>
     <string name="gb_super_finger_up_msg">Убрзајте одговор на додир на хардверском нивоу</string>
     <string name="gb_super_follow_up">Праћење покрета</string>
-    <string name="gb_super_follow_up_msg">Добијте бољи одговор у реалном времену током целог покрета</string>
     <string name="gb_super_motion">Побољшане контроле додира</string>
     <string name="gb_super_shake">Алгоритам стабилизације</string>
-    <string name="gb_super_shake_msg">Учините мање покрете осетљивијим помоћу наменског алгоритма</string>
     <string name="gb_turbo_collimator_subtitle">Користите уређај за циљање</string>
     <string name="gb_turbo_macro_subtitle">Извршите радње на високом нивоу</string>
     <string name="gb_turbo_shoulder_subtitle">Подеси гејминг контроле</string>
@@ -2174,7 +2169,6 @@ Xiaomi Gaming Cooler"</string>
     <string name="gd_setting_conversation">Конференцијски алати</string>
     <string name="gd_setting_conversation_desc">Пружа низ функција за коришћење у аудио и видео позивима преко целог екрана</string>
     <string name="gd_setting_dock_activity_title">Бочна кутија за алат</string>
-    <string name="gd_setting_dock_call_summary">Функције за гласовне и видео позиве (нпр. осветљење)</string>
     <string name="gd_setting_dock_call_title">Позивни алат</string>
     <string name="gd_setting_dock_game_summary">Побољшајте приказ и перформансе док играте игрице</string>
     <string name="gd_setting_dock_game_summary_new">Побољшајте приказ и перформансе док играте игрице</string>
@@ -4175,7 +4169,7 @@ to join our egg hunt!"</string>
     <string name="privacy_pop_storage">Данашњи приступ складишту</string>
     <string name="privacy_prompt_tc_sms_report_message">Ваш број телефона и детаљи оператора ће бити шифровани и послати на Mi серверe да бисте добили више информација о куповини података.</string>
     <string name="privacy_prompt_upload">Отпреми</string>
-    <string name="privacy_protect_summary">Заштитите личне податке</string>
+    <string name="privacy_protect_summary">Заштитите приватне ставке</string>
     <string name="privacy_protect_title">Заштита приватности</string>
     <string name="privacy_provision_back">Назад</string>
     <string name="privacy_provision_more">Сазнајте више о заштити приватности</string>
@@ -4779,15 +4773,11 @@ to join our egg hunt!"</string>
     <string name="st_antispam_mode_smart_sum">Блокирај бројеве које сте додали ручно и бројеве пријављене од стране других корисника</string>
     <string name="st_antispam_title_anoy_incoming">Позиве од странаца</string>
     <string name="st_antispam_title_anoy_sms">Поруке од странаца</string>
-    <string name="st_antispam_title_contact_incoming">Позиве из контаката</string>
-    <string name="st_antispam_title_contact_sms">Поруке из Контаката</string>
-    <string name="st_antispam_title_contactandanoy_group">Подешавања</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Приватни бројеви</string>
     <string name="st_antispam_title_service_sms">Обавештења услуге</string>
     <string name="st_antispam_title_whitelist">Изузеци</string>
     <string name="st_call_backsound_group">Звук листе блокираних</string>
-    <string name="st_call_intercept_contacts">Блокирај позиве од контаката</string>
     <string name="st_call_intercept_forwarding">Блокирај прослеђене позиве</string>
     <string name="st_call_intercept_oversea">Блокирај позиве из иностранства</string>
     <string name="st_call_intercept_reported">Блокирај позиве из пријављених бројева</string>
@@ -4797,9 +4787,8 @@ to join our egg hunt!"</string>
     <string name="st_call_settings">Листа блокираних позива</string>
     <string name="st_call_stranger_group">Блокирај позиве од странаца</string>
     <string name="st_confirm_dialog_btn_open">Блокирај</string>
-    <string name="st_confirm_dialog_summary_contact_call">Сви позиви од контаката биће блокирани.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Сви позиви са иностраних бројева ће бити блокираних.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Сви позиви од странаца биће блокирани.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">Позиви са било ког броја који није у вашим изузецима или у вашим контактима ће бити блокирани. Укључити сада?</string>
     <string name="st_filter_keywords_setting_summary1">Поруке из непознатих бројева које садрже речи у овом списку биће блокиране.</string>
     <string name="st_filter_keywords_setting_summary2">(Користите запету за одвајање више кључних речи)</string>
     <string name="st_filter_keywords_setting_summary3">Поруке из непознатих бројева које садрже речи у овом списку биће дозвољене.</string>
@@ -4811,7 +4800,6 @@ to join our egg hunt!"</string>
     <string name="st_message_SMSpass">Дозволи SMS</string>
     <string name="st_message_phone_AntiSpam">Блокирај позиве</string>
     <string name="st_message_phonepass">Дозволи позиве</string>
-    <string name="st_msg_intercept_contacts">Блокирај SMS од контаката</string>
     <string name="st_msg_keyword_black">Листа блокираних кључних речи</string>
     <string name="st_msg_keyword_group">Кључне речи</string>
     <string name="st_msg_keyword_white">Изузеци кључних речи</string>
@@ -4825,11 +4813,11 @@ to join our egg hunt!"</string>
     <string name="st_sub_title_whiteblack_list_group">Листа блокираних</string>
     <string name="st_sum_call_wait">Ваша порука \"Одсутан сам\" ће се репродуковати као заузет сигнал за долазне позиве.</string>
     <string name="st_summary_blacklist_numbers">Блокирај позиве и поруке из засебних бројева и подручја</string>
-    <string name="st_summary_blacklist_numbers_international">Блокирај позиве и поруке из засебних бројева</string>
+    <string name="st_summary_blacklist_numbers_international">Блокирајте позиве на основу броја или префикса</string>
     <string name="st_summary_keywords_blacklist">Додајте кључне речи за блокирање порука</string>
     <string name="st_summary_special_numbers">Блокирај означене бројеве телефона</string>
     <string name="st_summary_whitelist_numbers">Дозволи позиве и поруке из засебних бројева и подручја</string>
-    <string name="st_summary_whitelist_numbers_international">Дозволи позиве и поруке из засебних бројева</string>
+    <string name="st_summary_whitelist_numbers_international">Дозволите позиве на основу броја или префикса</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Додај на листу блокираних</string>
@@ -5261,9 +5249,9 @@ to join our egg hunt!"</string>
     <string name="title_app_lock_disable">Закључај апликације</string>
     <string name="title_app_update">Доступна су ажурирања</string>
     <string name="title_auto_update">Ажурирај аутоматски</string>
-    <string name="title_background_connection">Није могуће користити %s у позадини?</string>
-    <string name="title_block_calls_from_cantacts">Пропустили сте позиве од ваших контаката?</string>
-    <string name="title_block_calls_from_strangers">Пропустили сте важне позиве?</string>
+    <string name="title_background_connection">Не може се користити %s у позадини</string>
+    <string name="title_block_calls_from_cantacts">Пропустили сте позиве од ваших контаката</string>
+    <string name="title_block_calls_from_strangers">Пропустили сте важне позиве</string>
     <string name="title_chain_start">Ограничи ланчано покретање</string>
     <string name="title_cleaner_cloudscan">Скенирање смећа cloud-а</string>
     <string name="title_cloud_account">Xiaomi Налог</string>
@@ -5280,8 +5268,8 @@ to join our egg hunt!"</string>
     <string name="title_dev_no">Опције програмера укључене</string>
     <string name="title_dev_yes">Опције програмера искључене</string>
     <string name="title_device_not_root">Root приступ није одобрен</string>
-    <string name="title_do_not_disturb">Не можете да чујете вашу мелодију звона?</string>
-    <string name="title_eye_shield">Боја екрана не изгледа исправна?</string>
+    <string name="title_do_not_disturb">Не можете да чујете вашу мелодију звона</string>
+    <string name="title_eye_shield">Боја екрана не изгледа исправно</string>
     <string name="title_find_device">Пронађи уређај</string>
     <string name="title_first_aid_kit">Решавање проблема</string>
     <string name="title_flow_notification">Обавештење мобилних података</string>
@@ -5314,7 +5302,7 @@ to join our egg hunt!"</string>
     <string name="title_power_optimizer">Уштеда батерије</string>
     <string name="title_realname_verify">Провера ID</string>
     <string name="title_reply">Коментар</string>
-    <string name="title_restrict_data_usage">%s не може да се повеже на интернет?</string>
+    <string name="title_restrict_data_usage">%s не може да се повеже на интернет</string>
     <string name="title_safe_mode">Укључи Безбедни режим</string>
     <string name="title_show_notification">Виџет Панела обавештења</string>
     <string name="title_system_auto_download">Ажурирања ће се преузети аутоматски</string>

@@ -590,7 +590,6 @@ Nećete izgubiti podatke aplikacija."</string>
     <string name="apps_list_header_title_sms">Provjeri aplikaciju za slanje poruka</string>
     <string name="apps_list_header_title_sms_access">Ograniči pristup kodovima potvrde</string>
     <string name="ask_create_shortcut">Izraditi prečicu Početnog zaslona?</string>
-    <string name="audio_optimization_summary">Poboljšajte zvuk i smanjite okolnu buku u razgovorima</string>
     <string name="audio_optimization_summary_new">Optimizirajte kvalitetu zvuka slušalica tijekom igranja i smanjite buku tijekom poziva</string>
     <string name="audio_optimization_title">Poboljšani zvuk</string>
     <string name="auto_atsk_condition_battery_level_text_down">Kada baterija dosegne %s</string>
@@ -1770,7 +1769,6 @@ Biti će dodani u iznimke, ali prethodno blokirane stavke neće se prikazivati u
     <string name="gamebox_brightness">Osvjetljenje</string>
     <string name="gamebox_browser_not_find">Instaliraj Mi Browser prvo</string>
     <string name="gamebox_bullet_chat">Komentari na zaslonu</string>
-    <string name="gamebox_cellular_network">Optimiziraj mobilnu mrežu</string>
     <string name="gamebox_cellular_network_description">Automatski odaberi najbolji mrežni put na osnovu brzine igre</string>
     <string name="gamebox_collimator">Nišan</string>
     <string name="gamebox_display_1">Ništa</string>
@@ -1996,7 +1994,6 @@ Record sequences and use them anytime!"</string>
     <string name="gb_manual_record_dialog_del_video_message">Trajno izbrisati odabrane videozapise?</string>
     <string name="gb_manual_video_record_title">Snimke</string>
     <string name="gb_margin_restrain">Zanemari slučajan dodir po rubovima</string>
-    <string name="gb_margin_restrain_description">Vaš će uređaj manje reagirati na slučajni dodir u području blizu rubova</string>
     <string name="gb_margin_restrain_seekbar">Područje slučajnog dodira</string>
     <string name="gb_msg_completely_shielded">Sakrij poruke</string>
     <string name="gb_msg_completely_shielded_summary">Sakrijte</string>
@@ -2090,10 +2087,8 @@ ali isto tako povećava i potrošnju baterije, te može doći do pregrijavanja u
     <string name="gb_super_finger_up">Brz odgovor na dodir</string>
     <string name="gb_super_finger_up_msg">Ubrzajte odziv na dodir na hardverskoj razini</string>
     <string name="gb_super_follow_up">Praćenje pokreta</string>
-    <string name="gb_super_follow_up_msg">Dobijte bolji odgovor u stvarnom vremenu tijekom cijelog pokreta</string>
     <string name="gb_super_motion">Poboljšane kontrole dodira</string>
     <string name="gb_super_shake">Algoritam stabilizacije</string>
-    <string name="gb_super_shake_msg">Učinite manje pokrete osjetljivijima pomoću namjenskog algoritma</string>
     <string name="gb_turbo_collimator_subtitle">Koristite uređaj za ciljanje</string>
     <string name="gb_turbo_macro_subtitle">Izvodite radnje na visokom nivou</string>
     <string name="gb_turbo_shoulder_subtitle">Postavi gejmerske kontrole</string>
@@ -2175,7 +2170,6 @@ svojih gejmerskih sesija"</string>
     <string name="gd_setting_conversation">Konferencijski alati</string>
     <string name="gd_setting_conversation_desc">Pruža niz značajki za korištenje u audio i video pozivima preko cijelog zaslona</string>
     <string name="gd_setting_dock_activity_title">Bočna kutija za alat</string>
-    <string name="gd_setting_dock_call_summary">Značajke za glasovne i video pozive (npr. dopunsko svjetlo)</string>
     <string name="gd_setting_dock_call_title">Pozivni alati</string>
     <string name="gd_setting_dock_game_summary">Poboljšajte prikaz i performanse tijekom igranja igara</string>
     <string name="gd_setting_dock_game_summary_new">Poboljšajte prikaz i performanse tijekom igranja igara</string>
@@ -4176,7 +4170,7 @@ Ultra štednje baterije"</string>
     <string name="privacy_pop_storage">Pristup pohrani danas</string>
     <string name="privacy_prompt_tc_sms_report_message">Vaš broj telefona i pojedinosti mobilnog operatera će biti šifrirani i učitani na Mi poslužitelje kako bi se ažurirale informacije uporabe podataka.</string>
     <string name="privacy_prompt_upload">Pošalji</string>
-    <string name="privacy_protect_summary">Zaštitite svoje osobne podatke</string>
+    <string name="privacy_protect_summary">Zaštitite privatne stavke</string>
     <string name="privacy_protect_title">Zaštita privatnosti</string>
     <string name="privacy_provision_back">Natrag</string>
     <string name="privacy_provision_more">Saznajte više o zaštiti privatnosti</string>
@@ -4780,15 +4774,11 @@ Povući suglasnost odmah?"</string>
     <string name="st_antispam_mode_smart_sum">Blokirati brojeve koje ste dodali ručno i brojeve koji su prijavljeni od strane drugih korisnika</string>
     <string name="st_antispam_title_anoy_incoming">Pozivi od stranaca</string>
     <string name="st_antispam_title_anoy_sms">SMS od stranaca</string>
-    <string name="st_antispam_title_contact_incoming">Pozivi od kontakata</string>
-    <string name="st_antispam_title_contact_sms">SMS od kontakata</string>
-    <string name="st_antispam_title_contactandanoy_group">Postavke</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Privatan brojevi</string>
     <string name="st_antispam_title_service_sms">Usluga obavijesti</string>
     <string name="st_antispam_title_whitelist">Iznimke</string>
     <string name="st_call_backsound_group">Zvuk Liste blokiranih</string>
-    <string name="st_call_intercept_contacts">Blokirajte pozive od kontakata</string>
     <string name="st_call_intercept_forwarding">Blokiraj prosljeđene pozive</string>
     <string name="st_call_intercept_oversea">Blokiraj pozive iz inozemstva</string>
     <string name="st_call_intercept_reported">Blokiraj pozive sa prijavljenih brojeva</string>
@@ -4798,9 +4788,8 @@ Povući suglasnost odmah?"</string>
     <string name="st_call_settings">Lista blokiranih poziva</string>
     <string name="st_call_stranger_group">Blokiraj pozive od stranaca</string>
     <string name="st_confirm_dialog_btn_open">Blokiraj</string>
-    <string name="st_confirm_dialog_summary_contact_call">Svi pozivi kontakata bit će blokirani.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Al pozivi sa stranih brojeva telefona bit će blokirani.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Svi pozivi stranaca bit će blokirani.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">Pozivi s bilo kojeg broja koji nije u vašim iznimkama ili u vašim kontaktima bit će blokirani. Uključiti sada?</string>
     <string name="st_filter_keywords_setting_summary1">SMS od nepoznatih brojeva koje sadrže ključnu riječ bit će blokirane.</string>
     <string name="st_filter_keywords_setting_summary2">(Pomoću zareza razdvojite više ključnih riječi)</string>
     <string name="st_filter_keywords_setting_summary3">Poruke sa nepoznatih brojeva koji sadrže riječi na ovom popisu bit će dopuštene.</string>
@@ -4812,7 +4801,6 @@ Povući suglasnost odmah?"</string>
     <string name="st_message_SMSpass">Dopusti SMS</string>
     <string name="st_message_phone_AntiSpam">Blokiraj pozive</string>
     <string name="st_message_phonepass">Dopusti pozive</string>
-    <string name="st_msg_intercept_contacts">Blokiraj SMS od kontakata</string>
     <string name="st_msg_keyword_black">Lista blokiranih ključnih riječi</string>
     <string name="st_msg_keyword_group">Ključne riječi</string>
     <string name="st_msg_keyword_white">Iznimke ključnih riječi</string>
@@ -4826,11 +4814,11 @@ Povući suglasnost odmah?"</string>
     <string name="st_sub_title_whiteblack_list_group">Lista blokiranih</string>
     <string name="st_sum_call_wait">Vaša poruka \"Odsutan sam\" će se reproducirati kao zauzet signal za dolazne pozive.</string>
     <string name="st_summary_blacklist_numbers">Blokiraj pozive i poruke iz određenih brojeva i područja</string>
-    <string name="st_summary_blacklist_numbers_international">Blokiraj pozive i poruke iz određenih brojeva</string>
+    <string name="st_summary_blacklist_numbers_international">Blokirajte pozive na temelju broja ili prefiksa</string>
     <string name="st_summary_keywords_blacklist">Dodajte ključne riječi da biste blokirali poruke</string>
     <string name="st_summary_special_numbers">Blokiraj označene brojeve telefona</string>
     <string name="st_summary_whitelist_numbers">Dopusti pozive i poruke iz određenih brojeva i područja</string>
-    <string name="st_summary_whitelist_numbers_international">Dopusti pozive i poruke iz određenih brojeva</string>
+    <string name="st_summary_whitelist_numbers_international">Dopustite pozive na temelju broja ili prefiksa</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Dodajte na listu blokiranih</string>
@@ -5262,9 +5250,9 @@ Za korištenje ^1 na ovom uređaju, prvo ju morate postaviti."</string>
     <string name="title_app_lock_disable">Zaklj. aplikacija</string>
     <string name="title_app_update">Dostupna ažuriranja</string>
     <string name="title_auto_update">Ažuriraj automatski</string>
-    <string name="title_background_connection">Ne možete koristiti %s u pozadini?</string>
-    <string name="title_block_calls_from_cantacts">Propušteni pozivi iz vaših kontakata?</string>
-    <string name="title_block_calls_from_strangers">Nedostaju važni pozivi?</string>
+    <string name="title_background_connection">Ne možete koristiti %s u pozadini</string>
+    <string name="title_block_calls_from_cantacts">Propušteni pozivi iz vaših kontakata</string>
+    <string name="title_block_calls_from_strangers">Nedostaju važni pozivi</string>
     <string name="title_chain_start">Ograniči lančano pokretanje</string>
     <string name="title_cleaner_cloudscan">Skeniraj cloud smeće</string>
     <string name="title_cloud_account">Xiaomi Račun</string>
@@ -5281,8 +5269,8 @@ Za korištenje ^1 na ovom uređaju, prvo ju morate postaviti."</string>
     <string name="title_dev_no">Opcije Raz. programera uključene</string>
     <string name="title_dev_yes">Opcije Raz. programera isključene</string>
     <string name="title_device_not_root">ROOT pristup nije odobren</string>
-    <string name="title_do_not_disturb">Ne čujete zvuk zvona?</string>
-    <string name="title_eye_shield">Boja zaslona ne izgleda dobro?</string>
+    <string name="title_do_not_disturb">Ne čujete zvuk zvona</string>
+    <string name="title_eye_shield">Boja zaslona ne izgleda dobro</string>
     <string name="title_find_device">Pronađi uređaj</string>
     <string name="title_first_aid_kit">Riješite probleme</string>
     <string name="title_flow_notification">Obavijest Mobilnih podataka</string>
@@ -5315,7 +5303,7 @@ Za korištenje ^1 na ovom uređaju, prvo ju morate postaviti."</string>
     <string name="title_power_optimizer">Štednja baterije</string>
     <string name="title_realname_verify">ID Provjera</string>
     <string name="title_reply">Komentiraj</string>
-    <string name="title_restrict_data_usage">%s ne možete se spojiti na internet?</string>
+    <string name="title_restrict_data_usage">%s ne možete se spojiti na internet</string>
     <string name="title_safe_mode">Uključi Sigurni način</string>
     <string name="title_show_notification">Widget panela obavijesti</string>
     <string name="title_system_auto_download">Ažuriranja će se preuzeti automatski</string>
