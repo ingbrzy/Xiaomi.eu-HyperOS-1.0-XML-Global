@@ -590,7 +590,6 @@ Non perderai alcun dato applicazione."</string>
     <string name="apps_list_header_title_sms">"Controlla l'applicazione messaggi"</string>
     <string name="apps_list_header_title_sms_access">"Limita l'accesso ai codici di verifica"</string>
     <string name="ask_create_shortcut">Creare un collegamento sulla schermata Home?</string>
-    <string name="audio_optimization_summary">"Migliora l'audio e riduce il rumore ambientale nelle conversazioni"</string>
     <string name="audio_optimization_summary_new">Ottimizza la qualità del suono degli auricolari durante il gioco e riduce il rumore durante le chiamate</string>
     <string name="audio_optimization_title">Audio migliorato</string>
     <string name="auto_atsk_condition_battery_level_text_down">Quando il livello batteria raggiunge %s</string>
@@ -620,9 +619,9 @@ Non perderai alcun dato applicazione."</string>
     <string name="auto_task_condition_time_pick_title">Imposta il timer</string>
     <string name="auto_task_condition_time_text">A %s</string>
     <string name="auto_task_dialog_button_close">Fatto</string>
-    <string name="auto_task_edit_abandon_change">Annullare le modifiche?</string>
+    <string name="auto_task_edit_abandon_change">Eliminare le modifiche?</string>
     <string name="auto_task_edit_activity_title">Le mie operazioni automatiche</string>
-    <string name="auto_task_edit_adandon_button_text">Annulla</string>
+    <string name="auto_task_edit_adandon_button_text">Elimina</string>
     <string name="auto_task_edit_choose_condition_title">Seleziona condizione</string>
     <string name="auto_task_edit_choose_new_operation">Aggiungi azione</string>
     <string name="auto_task_edit_choose_operation_title">Seleziona azione</string>
@@ -1769,7 +1768,6 @@ Verrà aggiunto alle eccezioni, ma gli elementi bloccati in precedenza non appar
     <string name="gamebox_brightness">Luminosità</string>
     <string name="gamebox_browser_not_find">Installa prima Mi Browser</string>
     <string name="gamebox_bullet_chat">Commenti sullo schermo</string>
-    <string name="gamebox_cellular_network">Ottimizza la rete cellulare</string>
     <string name="gamebox_cellular_network_description">Seleziona automaticamente il percorso di rete migliore in base alla latenza del gioco</string>
     <string name="gamebox_collimator">Mirino</string>
     <string name="gamebox_display_1">Nessuno</string>
@@ -1995,7 +1993,6 @@ Record sequences and use them anytime!"</string>
     <string name="gb_manual_record_dialog_del_video_message">Eliminare definitivamente i video selezionati?</string>
     <string name="gb_manual_video_record_title">Registrazioni</string>
     <string name="gb_margin_restrain">Ignora il tocco accidentale sui bordi</string>
-    <string name="gb_margin_restrain_description">"Il tuo dispositivo sarà meno reattivo al tocco accidentale nell'area vicina ai bordi."</string>
     <string name="gb_margin_restrain_seekbar">Area di contatto accidentale</string>
     <string name="gb_msg_completely_shielded">Nascondi messaggi</string>
     <string name="gb_msg_completely_shielded_summary">Nascondi</string>
@@ -2089,10 +2086,8 @@ ma aumenta anche il consumo energetico e può surriscaldare il dispositivo"</str
     <string name="gb_super_finger_up">Risposta rapida al tocco</string>
     <string name="gb_super_finger_up_msg">Accelera la risposta del tocco a livello hardware</string>
     <string name="gb_super_follow_up">Tracciamento dei gesti</string>
-    <string name="gb_super_follow_up_msg">"Ottieni una migliore risposta in tempo reale durante l'intero gesto"</string>
     <string name="gb_super_motion">Controlli touch migliorati</string>
     <string name="gb_super_shake">Algoritmo di stabilizzazione</string>
-    <string name="gb_super_shake_msg">"Rendi i gesti più piccoli più reattivi utilizzando l'algoritmo dedicato"</string>
     <string name="gb_turbo_collimator_subtitle">Usa il mirino di precisione</string>
     <string name="gb_turbo_macro_subtitle">Esegui azioni di alto livello</string>
     <string name="gb_turbo_shoulder_subtitle">Configura i controlli di gioco</string>
@@ -2174,7 +2169,6 @@ delle tue sessioni di gioco"</string>
     <string name="gd_setting_conversation">Strumenti conferenza</string>
     <string name="gd_setting_conversation_desc">Fornisce diverse funzionalità da utilizzare nelle chiamate audio e video a schermo intero</string>
     <string name="gd_setting_dock_activity_title">Strumenti secondari</string>
-    <string name="gd_setting_dock_call_summary">Funzioni vocali e per videochiamate (es. luce di riempimento)</string>
     <string name="gd_setting_dock_call_title">Strumenti di chiamata</string>
     <string name="gd_setting_dock_game_summary">Migliora la visualizzazione e le prestazioni mentre giochi</string>
     <string name="gd_setting_dock_game_summary_new">Migliora la visualizzazione e le prestazioni mentre giochi</string>
@@ -3368,7 +3362,7 @@ Super risparmio energetico"</string>
     <string name="pc_low_temp_charge_summary">Tieni il caricabatterie collegato e aspetta che la batteria si scaldi dopo che lo schermo si è spento per caricarsi normalmente.</string>
     <string name="pc_low_temp_charge_title">Ricarica a bassa temperatura</string>
     <string name="pc_low_temperature_extreme_endurance_summary">Limita le prestazioni del dispositivo per prolungare la durata della batteria quando la temperatura ambiente è estremamente bassa</string>
-    <string name="pc_low_temperature_extreme_endurance_title">Modalità Cold Endurance</string>
+    <string name="pc_low_temperature_extreme_endurance_title">Modalità freddo estremo</string>
     <string name="pc_main_activity_back">Indietro</string>
     <string name="pc_main_battery_text_day">Aggiunti %1$s m, circa %2$s g rimanenti</string>
     <string name="pc_main_battery_text_day_hour">Aggiunti %1$s m, circa %2$s g %3$s o rimanenti</string>
@@ -3792,7 +3786,7 @@ Super risparmio energetico"</string>
     <string name="power_consume_rank_software">Applicazioni</string>
     <string name="power_consume_rank_title">Consumo</string>
     <string name="power_consume_software_total_format">Applicazioni: %s</string>
-    <string name="power_customize_giveup_change">Annullare le modifiche?</string>
+    <string name="power_customize_giveup_change">Eliminare le modifiche?</string>
     <string name="power_dailog_night_charge_protection_done">Ho capito</string>
     <string name="power_dailog_night_charge_protection_summary">Sembra che la batteria sia completamente carica per la maggior parte del tempo, il che potrebbe accelerarne il deterioramento. La ricarica ottimizzata è stata attivata per evitare tali problemi.</string>
     <string name="power_dailog_night_charge_protection_summary_new">"Sembra che tu tenga spesso la batteria di questo dispositivo completamente carica, il che può accelerarne l'invecchiamento. La protezione per la ricarica notturna è stata attivata per regolare automaticamente la durata della ricarica e preservare la longevità della batteria."</string>
@@ -4175,7 +4169,7 @@ Super risparmio energetico"</string>
     <string name="privacy_pop_storage">"Ha effettuato l'accesso all'archiviazione oggi"</string>
     <string name="privacy_prompt_tc_sms_report_message">"Il tuo numero di telefono ed i dettagli sul tuo operatore saranno criptati e caricati sui server Mi per aggiornare le tue informazioni sull'utilizzo dati."</string>
     <string name="privacy_prompt_upload">Carica</string>
-    <string name="privacy_protect_summary">Proteggi le tue informazioni personali</string>
+    <string name="privacy_protect_summary">Proteggi gli elementi privati</string>
     <string name="privacy_protect_title">Protezione della privacy</string>
     <string name="privacy_provision_back">Indietro</string>
     <string name="privacy_provision_more">Ulteriori informazioni sulla protezione della privacy</string>
@@ -4779,15 +4773,11 @@ Revocare il consenso?"</string>
     <string name="st_antispam_mode_smart_sum">Blocca i numeri che hai aggiunto manualmente e i numeri segnalati da altri utenti</string>
     <string name="st_antispam_title_anoy_incoming">Chiamate da sconosciuti</string>
     <string name="st_antispam_title_anoy_sms">Messaggi da sconosciuti</string>
-    <string name="st_antispam_title_contact_incoming">Chiamate da contatti</string>
-    <string name="st_antispam_title_contact_sms">Messaggi da contatti</string>
-    <string name="st_antispam_title_contactandanoy_group">Impostazioni</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Numeri privati</string>
     <string name="st_antispam_title_service_sms">Notifiche del servizio</string>
     <string name="st_antispam_title_whitelist">Eccezioni</string>
     <string name="st_call_backsound_group">Suono lista blocchi</string>
-    <string name="st_call_intercept_contacts">Blocca le chiamate dai contatti</string>
     <string name="st_call_intercept_forwarding">Blocca le chiamate inoltrate</string>
     <string name="st_call_intercept_oversea">"Blocca le chiamate dall'estero"</string>
     <string name="st_call_intercept_reported">Blocca le chiamate dai numeri segnalati</string>
@@ -4797,9 +4787,8 @@ Revocare il consenso?"</string>
     <string name="st_call_settings">Lista blocchi chiamate</string>
     <string name="st_call_stranger_group">Blocca le chiamate dagli sconosciuti</string>
     <string name="st_confirm_dialog_btn_open">Blocca</string>
-    <string name="st_confirm_dialog_summary_contact_call">Verranno bloccate tutte le chiamate dai contatti.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Verranno bloccate tutte le chiamate dai numeri stranieri.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Verranno bloccate tutte le chiamate dagli sconosciuti.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">Le chiamate da qualsiasi numero non presente nelle tue eccezioni o nei tuoi contatti saranno bloccate. Attivare ora?</string>
     <string name="st_filter_keywords_setting_summary1">I messaggi da numeri sconosciuti che contengono le parole nella lista verranno bloccati.</string>
     <string name="st_filter_keywords_setting_summary2">(Usa la virgola per separare le parole chiave)</string>
     <string name="st_filter_keywords_setting_summary3">I messaggi dai numeri sconosciuti che contengono le parole nella lista non verranno bloccati.</string>
@@ -4811,7 +4800,6 @@ Revocare il consenso?"</string>
     <string name="st_message_SMSpass">Consenti SMS</string>
     <string name="st_message_phone_AntiSpam">Blocca chiamate</string>
     <string name="st_message_phonepass">Consenti chiamate</string>
-    <string name="st_msg_intercept_contacts">Blocca SMS dai contatti</string>
     <string name="st_msg_keyword_black">Lista blocchi per parole chiave</string>
     <string name="st_msg_keyword_group">Parole chiave</string>
     <string name="st_msg_keyword_white">Eccezioni per parole chiave</string>
@@ -4825,11 +4813,11 @@ Revocare il consenso?"</string>
     <string name="st_sub_title_whiteblack_list_group">Lista blocchi</string>
     <string name="st_sum_call_wait">"Il tuo messaggio d'assenza verrà anch'esso riprodotto come segnale occupato per le chiamate in arrivo."</string>
     <string name="st_summary_blacklist_numbers">Blocca chiamate e messaggi da numeri e località specifiche</string>
-    <string name="st_summary_blacklist_numbers_international">Blocca chiamate e messaggi da numeri specifici</string>
+    <string name="st_summary_blacklist_numbers_international">Blocca le chiamate in base al numero o al prefisso</string>
     <string name="st_summary_keywords_blacklist">Aggiungi parole chiave per bloccare i messaggi</string>
     <string name="st_summary_special_numbers">Blocca i numeri di telefono segnalati</string>
     <string name="st_summary_whitelist_numbers">Consenti chiamate e messaggi da numeri e località specifiche</string>
-    <string name="st_summary_whitelist_numbers_international">Consenti chiamate e messaggi da numeri specifici</string>
+    <string name="st_summary_whitelist_numbers_international">Consenti le chiamate in base al numero o al prefisso</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Aggiungi alla lista blocchi</string>
@@ -5052,7 +5040,7 @@ La formattazione eliminerà i contenuti sulla ^2. Per evitare di perdere contenu
     <string name="superpower_dialog_massage">Super risparmio energetico limita la maggior parte delle funzionalità che consumano energia e diminuisce le prestazioni del dispositivo in modo da lasciare disponibili le funzionalità di base (ad esempio chiamate, SMS e connessione alla rete) il più a lungo possibile. Attivare Super risparmio energetico?</string>
     <string name="superpower_dialog_title">Super risparmio energetico</string>
     <string name="superpower_notification_low_temp_btn_txt">Attiva</string>
-    <string name="superpower_notification_low_temp_summary">La Modalità Cold Endurance consente di risparmiare più batteria quando il Super risparmio energetico è attivo e la temperatura ambiente è estremamente bassa.</string>
+    <string name="superpower_notification_low_temp_summary">La Modalità freddo estremo consente di risparmiare più batteria quando il Super risparmio energetico è attivo e la temperatura ambiente è estremamente bassa</string>
     <string name="superpower_notification_low_temp_title">Attiva Super risparmio energetico?</string>
     <string name="superpower_notification_new_title_new">Meno del %s di batteria rimanente</string>
     <string name="superpower_notification_summary">Carica il dispositivo o attiva Super risparmio energetico</string>
@@ -5061,7 +5049,7 @@ La formattazione eliminerà i contenuti sulla ^2. Per evitare di perdere contenu
     <string name="superpower_notification_title_new">Meno del %s di batteria rimanente</string>
     <string name="superpower_progress_content">Attivazione Super risparmio energetico…</string>
     <string name="superpower_progress_left_time">%1$do %2$dm</string>
-    <string name="superpower_progress_low_temp_content">Disattivare la modalità Cold endurance…</string>
+    <string name="superpower_progress_low_temp_content">Attivazione Modalità freddo estremo…</string>
     <string name="superpower_progress_switch_home">Passa al tema Scuro</string>
     <string name="superpower_progress_title">Tempo rimanente</string>
     <string name="superpower_progress_turndown_brightness">Riduzione della luminosità dello schermo</string>
@@ -5261,9 +5249,9 @@ La formattazione eliminerà i contenuti sulla ^2. Per evitare di perdere contenu
     <string name="title_app_lock_disable">Blocco app</string>
     <string name="title_app_update">Aggiornamenti disponibili</string>
     <string name="title_auto_update">Aggiorna automaticamente</string>
-    <string name="title_background_connection">Impossibile usare %s in background?</string>
-    <string name="title_block_calls_from_cantacts">Hai perso una chiamata da un tuo contatto?</string>
-    <string name="title_block_calls_from_strangers">Non ricevi chiamate importanti?</string>
+    <string name="title_background_connection">Impossibile usare %s in background</string>
+    <string name="title_block_calls_from_cantacts">Hai perso una chiamata da un tuo contatto</string>
+    <string name="title_block_calls_from_strangers">Non ricevi chiamate importanti</string>
     <string name="title_chain_start">"Limita l'avvio a catena"</string>
     <string name="title_cleaner_cloudscan">Scansione cestino cloud</string>
     <string name="title_cloud_account">Xiaomi Account</string>
@@ -5280,8 +5268,8 @@ La formattazione eliminerà i contenuti sulla ^2. Per evitare di perdere contenu
     <string name="title_dev_no">Opzioni sviluppatore attivate</string>
     <string name="title_dev_yes">Opzioni svilippatore disattivate</string>
     <string name="title_device_not_root">Accesso root non concesso</string>
-    <string name="title_do_not_disturb">Non senti la tua suoneria?</string>
-    <string name="title_eye_shield">I colori dello schermo sembrano strani?</string>
+    <string name="title_do_not_disturb">Non senti la tua suoneria</string>
+    <string name="title_eye_shield">I colori dello schermo sembrano strani</string>
     <string name="title_find_device">Trova dispositivo</string>
     <string name="title_first_aid_kit">Risolvi i problemi</string>
     <string name="title_flow_notification">Notifica dati mobili</string>
@@ -5314,7 +5302,7 @@ La formattazione eliminerà i contenuti sulla ^2. Per evitare di perdere contenu
     <string name="title_power_optimizer">Risparmio energetico</string>
     <string name="title_realname_verify">Verifica ID</string>
     <string name="title_reply">Commenta</string>
-    <string name="title_restrict_data_usage">%s non riesce a connettersi a internet?</string>
+    <string name="title_restrict_data_usage">%s non riesce a connettersi a internet</string>
     <string name="title_safe_mode">Attiva la modalità sicura</string>
     <string name="title_show_notification">Widget area delle notifiche</string>
     <string name="title_system_auto_download">Gli aggiornamenti verranno scaricati automaticamente</string>
@@ -5502,8 +5490,8 @@ I dati rimanenti includono dati che sono stati riportati dal mese precedente."</
     <string name="vb_fps_settings">Frequenza di aggiornamento automatica</string>
     <string name="vb_fps_settings_tips">Questa funzionalità regola la frequenza di aggiornamento dello schermo sulla frequenza dei fotogrammi del video, risparmiando batteria e rendendo la riproduzione fluida. Attivare i commenti mobili disattiverà questa funzionalità.</string>
     <string name="vb_immerse_voice">Suono avvolgente</string>
-    <string name="vb_movie_mode">Modalità Cinema</string>
-    <string name="vb_movie_power_hint">"La modalità Cinema offre un'esperienza visiva coinvolgente.Il tuo dispositivo potrebbe surriscaldarsi e consumare più energia."</string>
+    <string name="vb_movie_mode">Modalità cinema</string>
+    <string name="vb_movie_power_hint">"La modalità cinema offre un'esperienza visiva coinvolgente.Il tuo dispositivo potrebbe surriscaldarsi e consumare più energia."</string>
     <string name="vb_movie_subtitle">Richiede prestazioni elevate</string>
     <string name="vb_mv_style_close_toast">La funzione Stile è disattivata</string>
     <string name="vb_power_performance_mode_conflict_toast">Non è possibile utilizzare questa funzione quando è attiva la Modalità prestazioni</string>
@@ -5515,7 +5503,7 @@ I dati rimanenti includono dati che sono stati riportati dal mese precedente."</
     <string name="vb_quick_func_screening">Proietta</string>
     <string name="vb_settings">Impostazioni</string>
     <string name="vb_super_power_save_mode_conflict_toast">Non è possibile utilizzare questa funzionalità quando è attivo il Super risparmio energetico</string>
-    <string name="vb_theatre_switch_guide">Tocca per passare alla modalità Cinema</string>
+    <string name="vb_theatre_switch_guide">Tocca per passare alla modalità cinema</string>
     <string name="vb_ve_settings_ai_stronger">AI</string>
     <string name="vb_ve_settings_display_style_tips">*Questi effetti sono applicati a tutto lo schermo</string>
     <string name="vb_ve_settings_display_style_tips_new">"*Gli effetti verranno applicati solo all'area di riproduzione video"</string>

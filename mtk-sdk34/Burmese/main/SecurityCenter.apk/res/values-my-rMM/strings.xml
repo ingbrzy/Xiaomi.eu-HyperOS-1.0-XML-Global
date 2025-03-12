@@ -404,7 +404,7 @@
     <string name="app_manager_restricted_settings_title">ကန့်သတ်ဆက်တင်ခွင့်ပြုရန်</string>
     <string name="app_manager_search_prompt">ရလဒ်များ ရှာမတွေ့ပါသလား? အက်ပ်အားလုံးမှ ရလဒ်များကို ပြပါ အား စမ်းကြည့်ပါ။</string>
     <string name="app_manager_share_apk">မျှဝေရန်</string>
-    <string name="app_manager_shortcut_manager">ပင်မမျက်နှာပြင်ရှော့ကတ်များ စီမံခန့်ခွဲရန်</string>
+    <string name="app_manager_shortcut_manager">ပင်မမျက်နှာပြင်ရှော့ကဒ်များ စီမံခန့်ခွဲရန်</string>
     <string name="app_manager_show_all_apps">အက်ပ်အားလုံး ပြပါ။</string>
     <string name="app_manager_show_all_apps_opened">အက်ပ်အားလုံးမှ ရလဒ်များကို ပြပါ…</string>
     <string name="app_manager_show_detail_infos">အားလုံးကို ကြည့်ပါ</string>
@@ -563,7 +563,6 @@
     <string name="apps_list_header_title_sms">မက်ဆေ့(ချ်)ပို့ခြင်းအက်ပ်ကို စစ်ဆေးပါ</string>
     <string name="apps_list_header_title_sms_access">အတည်ပြုကုဒ်များကို ဝင်ရောက်အသုံးပြုခွင့်ကို ကန့်သတ်ရန်</string>
     <string name="ask_create_shortcut">ပင်မမျက်နှာပြင် ရှော့ကဒ် ဖန်တီးမလား?</string>
-    <string name="audio_optimization_summary">စကားပြောဆိုရာတွင် အော်ဒီယို တိုးမြှင့်၍ ပတ်ဝန်းကျင် ဆူညံသံအား လျော့ချမည်</string>
     <string name="audio_optimization_summary_new">ဂိမ်းကစားစဉ် နားကြပ်အသံအရည်အသွေးကို အဆင့်မြှင့်ပြီး ဖုန်းပြောစဉ် ဆူညံသံလျှော့ပါ</string>
     <string name="audio_optimization_title">အော်ဒီယို တိုးမြှင့်</string>
     <string name="auto_atsk_condition_battery_level_text_down">ဘက်ထရီ %s ရောက်ရှိချိန်</string>
@@ -625,7 +624,7 @@
     <string name="auto_task_notify_task_exit_task">လုပ်ငန်းကို ပယ်ဖျက်ပါ</string>
     <string name="auto_task_operation_airplane_mode">လေယာဉ်မုဒ်</string>
     <string name="auto_task_operation_auto_brightness">အလိုအလျောက်အလင်းတင်ခြင်း</string>
-    <string name="auto_task_operation_bluetooth">ဘလူးတုသ်</string>
+    <string name="auto_task_operation_bluetooth">ဘလူးတု</string>
     <string name="auto_task_operation_brightness">မျက်နှာပြင်တောက်ပမှု</string>
     <string name="auto_task_operation_close">ပိတ်</string>
     <string name="auto_task_operation_close_string">%s ပိတ်</string>
@@ -1665,7 +1664,6 @@
     <string name="gamebox_brightness">တောက်ပမှု</string>
     <string name="gamebox_browser_not_find">Mi ဘရောက်ဇာအား ဦးစွာ ထည့်သွင်းပါ</string>
     <string name="gamebox_bullet_chat">မျက်နှာပြင်ပေါ် မှတ်ချက်များ</string>
-    <string name="gamebox_cellular_network">ဆယ်လူလာကွန်ရက် အဆင့်မြှင့်ပေးသည်</string>
     <string name="gamebox_cellular_network_description">ဂိမ်းနှောင့်နှေးမှုကိုလိုက်ပြီး အကောင်းဆုံးကွန်ရက်လမ်းကို အလိုအလျောက်ရွေးပေးသည်</string>
     <string name="gamebox_collimator">မြင်ကွင်းချိန်စက်</string>
     <string name="gamebox_display_1">မရှိ</string>
@@ -1891,7 +1889,6 @@ Record sequences and use them anytime!"</string>
     <string name="gb_manual_record_dialog_del_video_message">ရွေးထားသော ဗီဒီယိုများကို အပြီးဖျက်လိုသလား။</string>
     <string name="gb_manual_video_record_title">မှတ်တမ်းတင်ထားသောအရာများ</string>
     <string name="gb_margin_restrain">အစွန်းများတွင် မတော်တဆထိမိလျှင် လစ်လျူရှုပေးပါ</string>
-    <string name="gb_margin_restrain_description">အစွန်းများအနီးတွင် မတော်တဆထိမိခြင်းအတွက် စက်က တုံ့ပြန်မှုနည်းပါမည်</string>
     <string name="gb_margin_restrain_seekbar">မတော်တဆထိမိခြင်းဧရိယာ</string>
     <string name="gb_msg_completely_shielded">ကွယ်ဝှက်ထားသော မက်ဆေ့(ချ်)များ</string>
     <string name="gb_msg_completely_shielded_summary">ဝှက်ထားပါ</string>
@@ -1985,10 +1982,8 @@ Record sequences and use them anytime!"</string>
     <string name="gb_super_finger_up">အမြန်တို့တုံ့ပြန်မှု</string>
     <string name="gb_super_finger_up_msg">ဟာ့(ဒ်)ဝဲအဆင့်တွင် တို့ထိတုံ့ပြန်မှုကို အရှိန်မြှင့်ပါ</string>
     <string name="gb_super_follow_up">လက်ဟန်ခြေဟန် ခြေရာခံခြင်း</string>
-    <string name="gb_super_follow_up_msg">လက်ဟန်ခြေဟန်တစ်လျှောက်လုံးတွင် အချိန်နှင့်တစ်ပြေးညီ တုံ့ပြန်မှုများ ပိုရယူပါ</string>
     <string name="gb_super_motion">ပိုကောင်းသော တို့ထိစနစ် ထိန်းချုပ်မှုများ</string>
     <string name="gb_super_shake">တည်ငြိမ်မှုအယ်လဂိုရီသမ်</string>
-    <string name="gb_super_shake_msg">လက်ဟန်ခြေဟန်အသေးစားများအတွက် သီးသန့်အယ်ဂိုရီသမ်သုံးပြီး တုံ့ပြန်မှုပိုကောင်းအောင်လုပ်ပါ</string>
     <string name="gb_turbo_collimator_subtitle">အထောက်အကူစက်သုံးရန်</string>
     <string name="gb_turbo_macro_subtitle">အဆင့်မြင့်လုပ်ဆောင်ချက်များ ဆောင်ရွက်ရန်</string>
     <string name="gb_turbo_shoulder_subtitle">ဂိမ်းထိန်းချုပ်စနစ်များ သတ်မှတ်ရန်</string>
@@ -2063,13 +2058,12 @@ Record sequences and use them anytime!"</string>
     <string name="gb_xunyou_gift_type_two">Xunyou ၂ ရက်စာ အရှိန်မြှင့်ခြင်း</string>
     <string name="gb_xunyou_gift_type_two_new">Xunyou %d- ရက် စွမ်းအားမြှင့်စနစ်</string>
     <string name="gd_app_edit_done">ပြီးပါပြီ</string>
-    <string name="gd_app_edit_title_new">မျောလွင့်အကွက်ရှော့ကတ်များကို တည်းဖြတ်ရန်</string>
+    <string name="gd_app_edit_title_new">မျောလွင့်အကွက်ရှော့ကဒ်များကို တည်းဖြတ်ရန်</string>
     <string name="gd_dock_shortcut_fullscreen">မျက်နှာပြင်အပြည့်</string>
     <string name="gd_dock_shortcut_splitescreen">မျက်နှာပြင်ခွဲ</string>
     <string name="gd_setting_conversation">ကွန်ဖရင့်ကိရိယာများ</string>
     <string name="gd_setting_conversation_desc">အသံနှင့် ဗီဒီယိုခေါ်ဆိုမှုများကို မျက်နှာပြင်အပြည့်သုံးနိုင်ရန် အင်္ဂါရပ်အမျိုးမျိုး ပံ့ပိုးသည်</string>
     <string name="gd_setting_dock_activity_title">ဘေးတန်းကိရိယာပုံး</string>
-    <string name="gd_setting_dock_call_summary">အသံနှင့် ဗီဒီယိုခေါ်ဆိုမှုများအတွက် အင်္ဂါရပ်များ (ဥပမာ - အလင်းဖြည့်စနစ်)</string>
     <string name="gd_setting_dock_call_title">ဖုန်းခေါ် ကိရိယာပုံး</string>
     <string name="gd_setting_dock_game_summary">ဂိမ်းကစားစဉ် ပြသမှုနှင့် လုပ်ဆောင်ရည်ကို အဆင့်မြှင့်ပါ</string>
     <string name="gd_setting_dock_game_summary_new">ဂိမ်းကစားစဉ် ပြသမှုနှင့် လုပ်ဆောင်ရည်ကို အဆင့်မြှင့်ပါ</string>
@@ -2094,7 +2088,7 @@ Record sequences and use them anytime!"</string>
     <string name="gd_sidebar_edit_all_title">အက်(ပ်)အားလုံး</string>
     <string name="gd_sidebar_edit_btn_close">ဖုံးထားရန်</string>
     <string name="gd_sidebar_edit_btn_expand">အခြားအရာများ</string>
-    <string name="gd_sidebar_edit_quick_title">ရှော့ကတ်များ</string>
+    <string name="gd_sidebar_edit_quick_title">ရှော့ကဒ်များ</string>
     <string name="gd_sidebar_long_press_tips">စက်ကို ထောင်လိုက်ကိုင်ထားစဉ် အညွှန်းခလုတ်ကိုရွှေ့ရန် ထိပြီး ဖိထားပါ။</string>
     <string name="gd_splite_screen_tips">မျက်နှာပြင်ခွဲခြင်းသည် မျောလွင့် အကွက်များအား ထည့်သွင်းထောက်ပံ့ထားခြင်း မရှိပါ</string>
     <string name="gdpr_msg"><Data>လုံခြုံရေး အန္တရာယ်များကို ရှာဖွေဖော်ထုတ်ရန်နှင့် သင့်ဒေတာကို ကာကွယ်ရန်အတွက် သင့်စက်နှင့်သက်ဆိုင်သည့် လိုအပ်သော အချက်အလက်ပမာဏတစ်ခုကို ကျွန်ုပ်တို့စုဆောင်းရန် လိုအပ်ပါသည်။ ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုများကို အသုံးမပြုမီ ကျွန်ုပ်တို့၏ &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">ကိုယ်ရေးကိုယ်တာ မူဝါဒ&lt;/a>ကို ဖတ်ရှု၍ သဘောတူပေးပါ။ ဤသို့သော အချက်အလက်စုဆောင်းခွင့်အား ကျွန်ုပ်တို့ထံ သင်ပေးအပ်ခြင်းမပြုလျှင် ဤအက်ပ်ကို အသုံးပြုနိုင်ဦးမည်ဖြစ်သော်လည်း အချို့သော အင်္ဂါရပ်များကို သင်အသုံးပြုနိုင်မည် မဟုတ်ပါ။ </Data></string>
@@ -2156,7 +2150,7 @@ Record sequences and use them anytime!"</string>
     <string name="group_sms">မက်ဆေ့(ချ်)</string>
     <string name="group_sport_healthy">ကျန်းမာရေးနှင့် လှုပ်ရှားမှု</string>
     <string name="gs_advanced_setting_summary">ဂိမ်း တစ်ခုချင်းစီအတွက် ဆက်တင်</string>
-    <string name="gs_advanced_setting_title">ဖြည့်စွက်ဆက်တင်များ</string>
+    <string name="gs_advanced_setting_title">ထပ်ဆောင်းဆက်တင်များ</string>
     <string name="gs_anto_clean_memory_whitelist">မှတ်ဉာဏ် ခြွင်းချက်များ</string>
     <string name="gs_app_back_self_start">ဘက်ထရီချွေတာသူ</string>
     <string name="gs_auto_clean_memory">ကက်ချ်ကို ရှင်းလင်းမည်</string>
@@ -2177,7 +2171,7 @@ Record sequences and use them anytime!"</string>
     <string name="gs_game_performance">စွမ်းဆောင်ရည်</string>
     <string name="gs_game_record_intro_tips">*ဂိမ်းကစားကာလအား ရိုက်ကူးခြင်းကို တွဲသုံးနိုင်သည့် သတ်မှတ်ဂိမ်းအချို့တွင်သာ ပြုလုပ်နိုင်သည်</string>
     <string name="gs_game_shortcut">ပိုမိုချောမွေ့သောဂိမ်းကစားခြင်းကို ခံစားကြည့်ပါ</string>
-    <string name="gs_gamebox">ဂိမ်း ရှော့ကဒ်များ</string>
+    <string name="gs_gamebox">ဂိမ်းရှော့ကဒ်များ</string>
     <string name="gs_gamebox_detail">ကြည့်ရှုရန် မျက်နှာပြင်၏ အထက်ပိုင်းမှ ပွတ်ဆွဲပါ</string>
     <string name="gs_gamebox_slip">မျက်နှာပြင်အား အောက်သို့ ဆွဲပါ</string>
     <string name="gs_only_self_start_for_list">ဂိမ်းကစားမှုတွင် ဘက်ထရီအား ချွေတာရန် နောက်ခံလုပ်ငန်းစဉ်များအား ကန့်သတ်ပါ</string>
@@ -2349,16 +2343,16 @@ Record sequences and use them anytime!"</string>
     <string name="intl_perm_intro_message">ဒေတာပေါက်ကြားမှုများကို ရှောင်ရှားနိုင်စေရန်အတွက် ခွင့်ပြုချက်ဆက်တင်များကို ချိန်ညှိရန် ထိနှိပ်ပါ</string>
     <string name="intl_perm_notification_content">ခွင့်ပြုချက်ဆက်တင်များကို ချိန်ညှိပါ</string>
     <string name="intl_perm_notification_title">သင်၏ကိုယ်ရေးကိုယ်တာကို ကာကွယ်ပါ</string>
-    <string name="intl_perm_privacy_control_calendar">ဤအက်ပ်ကို သင်အသုံးပြုနေစဉ်အချိန်အတွင်းတွင်သာ ပြက္ကဒိန်အိုင်တမ်များကို ဤအက်ပ်က ဝင်သုံးခြင်း သို့မဟုတ် ပြင်ဆင်ခြင်းများ ပြုလုပ်နိုင်ပါသည်</string>
-    <string name="intl_perm_privacy_control_calllog">ဤအက်ပ်ကို သင်အသုံးပြုနေစဉ်အချိန်အတွင်းတွင်သာ ဖုန်းခေါ်ဆိုမှုမှတ်တမ်းကို ဤအက်ပ်က ဝင်သုံးခြင်း သို့မဟုတ် ပြင်ဆင်ခြင်းများ ပြုလုပ်နိုင်ပါသည်</string>
-    <string name="intl_perm_privacy_control_camera">ဤအက်ပ်ကို သင်အသုံးပြုနေစဉ်အချိန်အတွင်းတွင်သာ ဓာတ်ပုံများ ရိုက်ကူးခြင်း သို့မဟုတ် ဗီဒီယိုမှတ်တမ်းတင်ခြင်းကို ဤအက်ပ်က ပြုလုပ်နိုင်ပါသည်</string>
-    <string name="intl_perm_privacy_control_contact">ဤအက်ပ်ကို သင်အသုံးပြုနေစဉ်အချိန်အတွင်းတွင်သာ အဆက်အသွယ်များကို ဤအက်ပ်က ဝင်သုံးခြင်း သို့မဟုတ် ပြင်ဆင်ခြင်းများ ပြုလုပ်နိုင်ပါသည်</string>
+    <string name="intl_perm_privacy_control_calendar">ဤအက်(ပ်)ကို သင်အသုံးပြုနေစဉ်အချိန်အတွင်းတွင်သာ ပြက္ကဒိန်အိုင်တမ်များကို ဤအက်(ပ်)က ဝင်သုံးခြင်း သို့မဟုတ် ပြင်ဆင်ခြင်းများ ပြုလုပ်နိုင်ပါသည်</string>
+    <string name="intl_perm_privacy_control_calllog">ဤအက်(ပ်)ကို သင်အသုံးပြုနေစဉ်အချိန်အတွင်းတွင်သာ ဖုန်းခေါ်ဆိုမှုမှတ်တမ်းကို ဤအက်(ပ်)က ဝင်သုံးခြင်း သို့မဟုတ် ပြင်ဆင်ခြင်းများ ပြုလုပ်နိုင်ပါသည်</string>
+    <string name="intl_perm_privacy_control_camera">ဤအက်(ပ်)ကို သင်အသုံးပြုနေစဉ်အချိန်အတွင်းတွင်သာ ဓာတ်ပုံများ ရိုက်ကူးခြင်း သို့မဟုတ် ဗီဒီယိုမှတ်တမ်းတင်ခြင်းကို ဤအက်(ပ်)က ပြုလုပ်နိုင်ပါသည်</string>
+    <string name="intl_perm_privacy_control_contact">ဤအက်(ပ်)ကို သင်အသုံးပြုနေစဉ်အချိန်အတွင်းတွင်သာ အဆက်အသွယ်များကို ဤအက်(ပ်)က ဝင်သုံးခြင်း သို့မဟုတ် ပြင်ဆင်ခြင်းများ ပြုလုပ်နိုင်ပါသည်</string>
     <string name="intl_perm_privacy_control_data">ကိုယ်ရေးကိုယ်တာ ထိန်းချုပ်မှု</string>
     <string name="intl_perm_privacy_control_message">အက်ပ်များကိုအသုံးပြုခွင့်ပေးမည့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို ထိန်းချုပ်ပါ</string>
-    <string name="intl_perm_privacy_control_microphone">ဤအက်ပ်ကို သင်အသုံးပြုနေစဉ်အချိန်အတွင်းတွင်သာ အော်ဒီယိုမှတ်တမ်းတင်တင်ခြင်းကို ဤအက်ပ်က ပြုလုပ်နိုင်ပါသည်</string>
+    <string name="intl_perm_privacy_control_microphone">ဤအက်(ပ်)ကို သင်အသုံးပြုနေစဉ်အချိန်အတွင်းတွင်သာ အော်ဒီယိုမှတ်တမ်းတင်တင်ခြင်းကို ဤအက်(ပ်)က ပြုလုပ်နိုင်ပါသည်</string>
     <string name="intl_perm_privacy_control_notification_message">အက်ပ်များကိုအသုံးပြုခွင့်ပေးမည့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို ထိန်းချုပ်ပါ</string>
     <string name="intl_perm_privacy_control_notification_title">သင်၏ကိုယ်ရေးအချက်အလက်အား ကာကွယ်ပါ</string>
-    <string name="intl_perm_privacy_control_storage">ဤအက်ပ်ကို သင်အသုံးပြုနေစဉ်အချိန်အတွင်းတွင်သာ အတွင်းသိုလှောင်ခန်းမှ အိုင်တမ်များကို ဤအက်ပ်က ဝင်သုံးခြင်း သို့မဟုတ် ပြင်ဆင်ခြင်းများ ပြုလုပ်နိုင်ပါသည်</string>
+    <string name="intl_perm_privacy_control_storage">ဤအက်(ပ်)ကို သင်အသုံးပြုနေစဉ်အချိန်အတွင်းတွင်သာ အတွင်းသိုလှောင်ခန်းမှ အိုင်တမ်များကို ဤအက်(ပ်)က ဝင်သုံးခြင်း သို့မဟုတ် ပြင်ဆင်ခြင်းများ ပြုလုပ်နိုင်ပါသည်</string>
     <string name="intl_perm_privacy_control_title">ကိုယ်ရေးကိုယ်တာ ထိန်းချုပ်မှု</string>
     <string name="invalid_charger">USB မှ အားသွင်းမရပါ။ စက်နှင့်အတူပါသော အားသွင်းကြိုးကိုသုံးပါ။</string>
     <string name="invisible_mode_close_summary_compact">လက်ရှိစနစ်ဗားရှင်းတွင် အက်(ပ်)အားလုံးအတွက် ကင်မရာ၊ တည်နေရာနှင့် မိုက်ခရိုဖုန်းခွင့်ပြုချက်များကို တစ်ပြိုင်တည်းဖွင့်ရန်သာ ပံ့ပိုးသည်။ ခွင့်ပြုချက်တစ်ခုကို ဖွင့်ပါက အားလုံးပွင့်ပါမည်။</string>
@@ -3340,7 +3334,7 @@ Record sequences and use them anytime!"</string>
     <string name="permission_action_always">အမြဲခွင့်ပြုရန်</string>
     <string name="permission_action_desc">ကိုယ်ရေးကိုယ်တာကို ကာကွယ်ရန်အတွက် ခွင့်ပြုချက်များပေးသော်လည်း မက်ဆေ့(ချ်)အလွတ်များ အက်(ပ်)သို့ ပြန်ပို့ရန်</string>
     <string name="permission_action_desc_always">ဤခွင့်ပြုချက်များကို အချိန်မရွေး သုံးနိုင်ပါသည်</string>
-    <string name="permission_action_desc_foreground">ဤအက်ပ်ကို သင်အသုံးပြုနေစဉ် အချိန်အတွင်း၌သာ ဤခွင့်ပြုချက်ကို အသုံးပြုနိုင်ပါသည်</string>
+    <string name="permission_action_desc_foreground">ဤအက်(ပ်)ကို သင်အသုံးပြုနေစဉ် အချိန်အတွင်း၌သာ ဤခွင့်ပြုချက်ကို အသုံးပြုနိုင်ပါသည်</string>
     <string name="permission_action_desc_prompt">သင်ခွင့်ပြုထားသောအချိန်တွင်သာ ဤခွင့်ပြုချက်ကို အသုံးပြုနိုင်ပါသည်</string>
     <string name="permission_action_desc_reject">ဤခွင့်ပြုချက်ကို အသုံးမပြနိုင်ပါ</string>
     <string name="permission_action_foreground">အက်(ပ်)သုံးနေစဉ်</string>
@@ -3491,7 +3485,7 @@ Record sequences and use them anytime!"</string>
     <string name="power_analysis_consume_title">ဘက်ထရီသုံးခြင်း</string>
     <string name="power_analysis_suggestion_need_optimize">ဘက်ထရီအသုံးပြုမှုဆိုင်ရာ ပြဿနားအား ထောက်လှမ်းမိခဲ့သည်</string>
     <string name="power_autorun_apps_empty">အလိုအလျောက်စအက်(ပ်)များ မရှိပါ</string>
-    <string name="power_bluetooth">ဘလူးတုသ်</string>
+    <string name="power_bluetooth">ဘလူးတု</string>
     <string name="power_btn_analyze">ဘက်ထရီအသုံးပြုမှုအား ခွဲခြားစိတ်ဖြာပါ</string>
     <string name="power_cell">ပါဝါအရန်သင့်</string>
     <string name="power_center_5g_save_close_detail">5G ဘက်ထရီ ချွေတာရေးသည် 5G ကွန်ရက်ကို မထိခိုက်စေဘဲ ဓာတ်ခဲသက်တမ်းကို တာရှည်ခံစေသည်။ မဖြစ်မနေ ပိတ်လိုပါသလား။</string>
@@ -4020,7 +4014,7 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_pop_storage">ယနေ့ သိုလှောင်ခန်းကို ဖတ်ထားသည်</string>
     <string name="privacy_prompt_tc_sms_report_message">သင့်ဒေတာသုံးစွဲမှုအခြေနေအား ပိုမိုသိရှိစေရန် သင့်ဖုန်းနံပါတ်နှင့် ဖုန်းလိုင်းဝန်ဆောင်မှုဌာန၏ အချက်အလက် များကို ကုဒ်ဖွဲ့ပြီး Mi ဆာဗာဆီသို့ လုဒ်တင်လိမ့်မည်။</string>
     <string name="privacy_prompt_upload">လုဒ်တင်ပါ</string>
-    <string name="privacy_protect_summary">သင့်ကိုယ်ရေးအချက်အလက်များကို ကာကွယ်ပါ</string>
+    <string name="privacy_protect_summary">တစ်ကိုယ်ရေအကြောင်းအရာများကို ကာကွယ်ရန်</string>
     <string name="privacy_protect_title">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု အကာအကွယ်</string>
     <string name="privacy_provision_back">နောက်သို့</string>
     <string name="privacy_provision_more">ကိုယ်ရေးကိုယ်တာကာကွယ်ရေးအကြောင်း ပိုမိုလေ့လာရန်</string>
@@ -4126,7 +4120,7 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_search_keyword_1">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု</string>
     <string name="privacy_search_keyword_2">အက်(ပ်)များကို ဖုံးထားပါ</string>
     <string name="privacy_search_keyword_3">သင်္ကေတများကို ဖုံးထားပါ</string>
-    <string name="privacy_search_keyword_4">ပင်မမျက်နှာပြင် ရှော့ကတ်များကို ဖုံးထားပါ</string>
+    <string name="privacy_search_keyword_4">ပင်မမျက်နှာပြင် ရှော့ကဒ်များကို ဖုံးထားပါ</string>
     <string name="privacy_search_keyword_5">တစ်ကိုယ်ရေသုံးအက်(ပ်)များ</string>
     <string name="privacy_search_keyword_6">ဖုံးထားရန်</string>
     <string name="privacy_show_other_permissions">အခြားခွင့်ပြုချက်များ ပြသမည်</string>
@@ -4186,7 +4180,7 @@ Record sequences and use them anytime!"</string>
     <string name="read_and_write_clipboard">အကြောင်းအရာများကို ကလစ်ဘုတ်တွင် ဖတ်ရန်နှင့် သိမ်းရန်</string>
     <string name="read_clipboard_ai_action_desc">ဝင်ခွင့် ဖွင့်ထားချိန် သို့မဟုတ် ကန့်သတ်ထားချိန်တိုင်းတွင် အသိပေးချက်များ ရယူပါ</string>
     <string name="read_clipboard_ai_close_no">မလုပ်သေးပါ</string>
-    <string name="read_clipboard_ai_close_tip">က်(ပ်)များက ကလစ်ဘုတ်ကို ဖတ်ချိန်တွင် သင့်ထံအသိပေးချက် ရောက်တော့မည်မဟုတ်ပါ။ အက်(ပ်)ကို သင်သုံးနေချိန်၌သာ ၎င်းတို့အား ဤခွင့်ပြုချက်ကို သုံးခွင့်ပြုပါမည်။ ခွင့်ပြုချက်များကို ချိန်လိုသလား။</string>
+    <string name="read_clipboard_ai_close_tip">အက်(ပ်)များက ကလစ်ဘုတ်ကို ဖတ်ချိန်တွင် သင့်ထံအသိပေးချက် ရောက်တော့မည်မဟုတ်ပါ။ အက်(ပ်)ကို သင်သုံးနေချိန်၌သာ ၎င်းတို့အား ဤခွင့်ပြုချက်ကို သုံးခွင့်ပြုပါမည်။ ခွင့်ပြုချက်များကို ချိန်လိုသလား။</string>
     <string name="read_clipboard_ai_close_yes">ချိန်ရန်</string>
     <string name="read_clipboard_op_content">ဝင်ခွင့် ဖွင့်ထားချိန် သို့မဟုတ် ကန့်သတ်ထားချိန်တိုင်းတွင် အသိပေးချက်များ ရယူပါ</string>
     <string name="read_clipboard_op_title">အက်(ပ်)များက အကြောင်းအရာများကို ကလစ်ဘုတ်တွင် ဖတ်ချိန်တွင် အသိပေးပါ</string>
@@ -4624,15 +4618,11 @@ Record sequences and use them anytime!"</string>
     <string name="st_antispam_mode_smart_sum">သင်ကိုယ်တိုင် ရွေးချယ်ပြီး ထည့်ထားသည့် နံပါတ်များနှင့် အခြားအသုံးပြုသူများမှ အစီရင်ခံထားသည့် နံပါတ်များကို ဘလော့လုပ်ပါ။</string>
     <string name="st_antispam_title_anoy_incoming">သူစိမ်းများထံမှ ဖုန်းခေါ်ဆိုမှုများ</string>
     <string name="st_antispam_title_anoy_sms">သူစိမ်းများထံမှ မက်ဆေ့(ချ်)များ</string>
-    <string name="st_antispam_title_contact_incoming">အဆက်အသွယ်များမှ ဖုန်းခေါ်ဆိုမှုများ</string>
-    <string name="st_antispam_title_contact_sms">အဆက်အသွယ်များမှ မက်ဆေ့(ချ်)များ</string>
-    <string name="st_antispam_title_contactandanoy_group">ဆက်တင်များ</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">သီးသန့်နံပါတ်များ</string>
     <string name="st_antispam_title_service_sms">ဝန်ဆောင်မှု အသိပေးချက်များ</string>
     <string name="st_antispam_title_whitelist">ခြွင်းချက်များ</string>
     <string name="st_call_backsound_group">ဘလော့စာရင်းအသံ</string>
-    <string name="st_call_intercept_contacts">အဆက်အသွယ်မှ ဖုန်းခေါ်ဆိုမှု ကိုဘလော့လုပ်မည်</string>
     <string name="st_call_intercept_forwarding">လိုင်းလွှဲပေးသော ခေါ်ဆိုမှုများကို ဘလော့လုပ်မည်</string>
     <string name="st_call_intercept_oversea">ပြည်ပမှ ဖုန်းခေါ်ဆိုမှု ကိုဘလော့လုပ်မည်</string>
     <string name="st_call_intercept_reported">သတင်းပို့ထားသောနံပါတ်များမှ ခေါ်ဆိုမှုများကို ဘလော့လုပ်မည်</string>
@@ -4642,9 +4632,8 @@ Record sequences and use them anytime!"</string>
     <string name="st_call_settings">ဖုန်းခေါ်ဆိုမှု ဘလော့စာရင်း</string>
     <string name="st_call_stranger_group">သူစိမ်းမှ ဖုန်းခေါ်ဆိုမှု ကိုဘလော့လုပ်မည်</string>
     <string name="st_confirm_dialog_btn_open">ဘလော့လုပ်ရန်</string>
-    <string name="st_confirm_dialog_summary_contact_call">အဆက်အသွယ်မှ ဖုန်းခေါ်ဆိုမှုအားလုံး ကိုဘလော့လုပ်မည်</string>
     <string name="st_confirm_dialog_summary_oversea_call">မသိသော ဖုန်းနံပါတ်များမှ ခေါ်ဆိုမှုအားလုံးကို ဘလော့လုပ်ပါမည်။</string>
-    <string name="st_confirm_dialog_summary_stranger_call">သူစိမ်းမှ ဖုန်းခေါ်ဆိုမှုအားလုံး ကိုဘလော့လုပ်မည်</string>
+    <string name="st_confirm_dialog_summary_stranger_call">ခြွင်းချက် သို့မဟုတ် အဆက်အသွယ်မှ မဟုတ်သော နံပါတ်များမှ ခေါ်ဆိုမှုမှန်သမျှ ဘလော့လုပ်ပါမည်။ ယခုဖွင့်လိုသလား။</string>
     <string name="st_filter_keywords_setting_summary1">အမည်မသိသော ဖုန်းနံပါတ်မှပေးပို့လာသော မက်ဆေ့(ချ်)ထဲတွင် ဤစာရင်းရှိ စာလုံးပါရှိနေပါက ဘလော့လုပ်ထားလိမ့်မည်။</string>
     <string name="st_filter_keywords_setting_summary2">(များပြားလှသော အဓိကစာလုံးများကို သီးခြားခွဲထုတ်ရန် ကော်မာကို အသုံးပြုပါ)</string>
     <string name="st_filter_keywords_setting_summary3">အမည်မသိသော ဖုန်းနံပါတ်မှ ပေးပို့လာသော မက်ဆေ့ချ်တွင် ဤစာရင်းရှိ စာလုံးပါရှိနေပါက မက်ဆေ့(ချ်)ဝင်ခွင့်ပြုမည်။</string>
@@ -4656,7 +4645,6 @@ Record sequences and use them anytime!"</string>
     <string name="st_message_SMSpass">SMSခွင့်ပြုမည်</string>
     <string name="st_message_phone_AntiSpam">ဖုန်းခေါ်ဆိုမှုများကိုဘလော့လုပ်ပါ</string>
     <string name="st_message_phonepass">ခေါ်ဆိုမှုများခွင့်ပြု</string>
-    <string name="st_msg_intercept_contacts">အဆက်အသွယ်မှ SMS ကိုဘလော့လုပ်မည်</string>
     <string name="st_msg_keyword_black">အဓိကစာလုံး ဘလော့စာရင်း</string>
     <string name="st_msg_keyword_group">အဓိကစာလုံးများ</string>
     <string name="st_msg_keyword_white">အဓိကစာလုံး ခြွင်းချက်များ</string>
@@ -4670,11 +4658,11 @@ Record sequences and use them anytime!"</string>
     <string name="st_sub_title_whiteblack_list_group">ဘလော့စာရင်း</string>
     <string name="st_sum_call_wait">မအားလပ်သည့်အချိန်များတွင် မည်သည့်ခေါ်ဆိုမှုမျိုးကိုမဆို မအားလပ်သည့်ပါ ဟုတုန့်ပြန်မက်ဆေ့(ချ်) ပေးပို့ပါလိမ့်မည်။</string>
     <string name="st_summary_blacklist_numbers">ဖုန်းနံပါတ်နှင့် ဧရိယာကိုသုံးပြီး ခေါ်ဆိုမှုနှင့် မက်ဆေ့(ချ်)များအား ဘလော့လုပ်ပါ</string>
-    <string name="st_summary_blacklist_numbers_international">အထူးနံပါတ်များမှ မက်ဆေ့(ချ်)များနှင့် ခေါ်ဆိုမှုများအား ပိတ်ဆို့ပါ</string>
+    <string name="st_summary_blacklist_numbers_international">ဖုန်းခေါ်ဆိုမှုများကို နံပါတ် သို့မဟုတ် ရှေ့ဂဏန်း အခြေခံပြီး ဘလော့လုပ်ရန်</string>
     <string name="st_summary_keywords_blacklist">မက်ဆေ့(ချ်)များအား ဘလော့လုပ်ရန် ကီးစကားလုံးများ ပေါင်းထည့်ပါ</string>
     <string name="st_summary_special_numbers">မှတ်သားထားသော ဖုန်းနံပါတ်များအား ဘလော့လုပ်ပါ</string>
     <string name="st_summary_whitelist_numbers">ဖုန်းနံပါတ်နှင့် ဧရိယာကိုသုံးပြီး ခေါ်ဆိုမှုနှင့် မက်ဆေ့(ချ်)များအား ခွင့်ပြုပါ</string>
-    <string name="st_summary_whitelist_numbers_international">အထူးနံပါတ်များမှ မက်ဆေ့(ချ်)များနှင့် ခေါ်ဆိုမှုများအား ခွင့်ပြုပါ</string>
+    <string name="st_summary_whitelist_numbers_international">ဖုန်းခေါ်ဆိုမှုများကို နံပါတ် သို့မဟုတ် ရှေ့ဂဏန်း အခြေခံပြီး ခွင့်ပြုရန်</string>
     <string name="st_tab_title">%1$s (ဆင်းမ်%2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">ဘလော့စာရင်းသို့ ထည့်ပါ</string>
@@ -4708,7 +4696,7 @@ Record sequences and use them anytime!"</string>
     <string name="st_title_not_sim">မရှိသော</string>
     <string name="st_title_open_antispam">ဘလော့စာရင်း</string>
     <string name="st_title_other_group">အခြား</string>
-    <string name="st_title_settings_other_group">နောက်ထပ် ဆက်တင်များ</string>
+    <string name="st_title_settings_other_group">ထပ်ဆောင်းဆက်တင်များ</string>
     <string name="st_title_show_antispam_notification">ဘလော့လုပ်ထားသော အသိပေးချက်စာရင်း</string>
     <string name="st_title_sim_card">%1$s - ဆင်းမ်%2$s</string>
     <string name="st_title_whitelist_numbers">ခြွင်းချက်များ</string>
@@ -4798,7 +4786,7 @@ Record sequences and use them anytime!"</string>
     <string name="storage_file_list_btn">%1$s ကို ဖျက်ရန်</string>
     <string name="storage_file_list_form_default">SD ကတ်</string>
     <string name="storage_file_list_from">%s မှ</string>
-    <string name="storage_fob_date_format">MM/dd</string>
+    <string name="storage_fob_date_format">dd/MM</string>
     <string name="storage_format_failure">%1$s ကို ဖောမတ်ချ၍ မရခဲ့ပါ</string>
     <string name="storage_format_success">%1$s ကို အောင်မြင်စွာ ဖောမတ်ချခဲ့ပါသည်</string>
     <string name="storage_item_apk_name">APK များ</string>
@@ -4920,7 +4908,7 @@ Record sequences and use them anytime!"</string>
     <string name="superpower_settins_autoenter_title">အလိုအလျောက်ဖွင့်ရန်</string>
     <string name="superpower_settins_autoleave_summary_new">ဓာတ်ခဲအား %s ရှိလျှင် Ultra ဓာတ်ခဲချွေတာစနစ်ကို အလိုအလျောက်ပိတ်ရန်</string>
     <string name="superpower_settins_autoleave_title">အလိုအလျောက်ပိတ်ရန်</string>
-    <string name="superpower_settins_other">ထပ်ဆောင်းဆက်တင်များထပ်ဆောင်းဆက်တင်များ</string>
+    <string name="superpower_settins_other">ထပ်ဆောင်းဆက်တင်များ</string>
     <string name="superpower_settins_switch_summary">အခြေခံလုပ်ဆောင်ချက် (ဥပမာ - ဖုန်းခေါ်ဆိုမှုများ၊ SMS နှင့် ရွေးထားသော အက်(ပ်)များ) ကို ကြာနိုင်သမျှ ကြာကြာထိန်းသိမ်းထားနိုင်ရန် ဓာတ်ခဲအကုန်အမြန်ဆုံးအင်္ဂါရပ်များကို ကန့်သတ်သည်</string>
     <string name="support_game_booster_tips">အရှိန်မြှင့်တင်ခြင်း &amp; ဂိမ်းကစားမှု ကောင်းမွန်စေခြင်း</string>
     <string name="sys_app_prot_cracked_confirm">နားလည်ပါပြီ</string>
@@ -5104,9 +5092,9 @@ Record sequences and use them anytime!"</string>
     <string name="title_app_lock_disable">အက်ပ်အားသော့ခတ်</string>
     <string name="title_app_update">အသစ်မွမ်းမံ ရှိနေပါသည်</string>
     <string name="title_auto_update">အလိုအလျောက် အပ်ဒိတ်လုပ်ပါ</string>
-    <string name="title_background_connection">နောက်ခံတွင် %sအား သုံး၍မရပါသလား?</string>
-    <string name="title_block_calls_from_cantacts">အဆက်အသွယ်များမှ ခေါ်ဆိုမှုများကို လွဲချော်သွားပါသလား?</string>
-    <string name="title_block_calls_from_strangers">အရေးကြီးသော ခေါ်ဆိုမှုများကို လွဲချော်သွားပါသလား?</string>
+    <string name="title_background_connection">နောက်ခံတွင် %s ကို သုံးမရပါ</string>
+    <string name="title_block_calls_from_cantacts">အဆက်အသွယ်များမှ လွတ်သွားသောခေါ်ဆိုမှုများ</string>
+    <string name="title_block_calls_from_strangers">လွတ်သွားသော အရေးကြီးသောခေါ်ဆိုမှုများ</string>
     <string name="title_chain_start">ချတ်တွဲစတင်မှုကို ကန့်သတ်ပါ</string>
     <string name="title_cleaner_cloudscan">ဗိုင်းရပ်စ်စကန်ဖတ်ခြင်း</string>
     <string name="title_cloud_account">Xiaomi အကောင့်</string>
@@ -5123,8 +5111,8 @@ Record sequences and use them anytime!"</string>
     <string name="title_dev_no">ထုတ်လုပ်သူ ရွေးစရာများ ဖွင့်</string>
     <string name="title_dev_yes">ထုတ်လုပ်သူ ရွေးစရာများ ပိတ်</string>
     <string name="title_device_not_root">Root သို့ဝင်ရောက်ခြင်း ခွင့်မပြုပါ</string>
-    <string name="title_do_not_disturb">ဖုန်းမြည်သံကို မကြားရပါသလား?</string>
-    <string name="title_eye_shield">မျက်နှာပြင်အရောင် ကြည့်ရတာ ပုံမှန်မဟုတ်ပါသလား?</string>
+    <string name="title_do_not_disturb">ဖုန်းမြည်သံမကြားရပါ</string>
+    <string name="title_eye_shield">မျက်နှာပြင်အရောင် မမှန်ပါ</string>
     <string name="title_find_device">စက်ကို ရှာပါ</string>
     <string name="title_first_aid_kit">ပြဿနာ ဖြေရှင်းမည်</string>
     <string name="title_flow_notification">မိုဘိုင်းဒေတာချိတ်ဆက်မှုအသိပေးချက်</string>
@@ -5157,7 +5145,7 @@ Record sequences and use them anytime!"</string>
     <string name="title_power_optimizer">ဘက်ထရီချွေတာသူ</string>
     <string name="title_realname_verify">ID အတည်ပြုခြင်း</string>
     <string name="title_reply">မှတ်ချက်</string>
-    <string name="title_restrict_data_usage">%s သည် အင်တာနက်သို့ ချိတ်ဆက်၍ မရပါသလား?</string>
+    <string name="title_restrict_data_usage">%s က အင်တာနက်ချိတ်မရပါ</string>
     <string name="title_safe_mode">လုံခြုံရေးမုဒ် ဖွင့်ရန်</string>
     <string name="title_show_notification">အသိပေးချက်ရှိတ် ဝစ်ဂတ်</string>
     <string name="title_system_auto_download">အပ်ဒိတ်များကို အလိုလျောက်ဒေါင်းလုဒ်လုပ်မည်။</string>

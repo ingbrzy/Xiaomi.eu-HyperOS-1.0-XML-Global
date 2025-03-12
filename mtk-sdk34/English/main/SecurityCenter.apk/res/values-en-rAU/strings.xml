@@ -587,7 +587,6 @@ You will not lose any app data."</string>
     <string name="apps_list_header_title_sms">Check messaging app</string>
     <string name="apps_list_header_title_sms_access">Restrict access to verification codes</string>
     <string name="ask_create_shortcut">Create a Home screen shortcut?</string>
-    <string name="audio_optimization_summary">Enhance audio and reduce ambient noise in conversations</string>
     <string name="audio_optimization_summary_new">Optimise earphones sound quality while gaming and reduce noise during calls</string>
     <string name="audio_optimization_title">Enhanced audio</string>
     <string name="auto_atsk_condition_battery_level_text_down">When battery reaches %s</string>
@@ -1258,7 +1257,7 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
 All data on your device might be erased and your Lock screen password might be reset."</string>
     <string name="device_manager_apply_step_3">Make sure you understand all the possible risks before you proceed. Activate device administrator for this app now?</string>
     <string name="device_oaid">Manage virtual ID</string>
-    <string name="device_oaid_desc">Instead of your unique identifier, the system will provide a virtual ID (OAID) to installed apps. It prevents apps from tracking your behavior and preferences and protects your privacy.</string>
+    <string name="device_oaid_desc">Instead of your unique identifier, the system will provide a virtual ID (OAID) to installed apps. It prevents apps from tracking your behaviour and preferences and protects your privacy.</string>
     <string name="device_oaid_title">Virtual ID</string>
     <string name="dialog_app_roaming_message">"%1$s can't use mobile data when roaming. When you're roaming, only apps you've added to exceptions can use mobile data."</string>
     <string name="dialog_app_roaming_title">"%1$s can't use data roaming"</string>
@@ -1727,7 +1726,6 @@ It will be added to exceptions, but previously blocked items won't appear in cal
     <string name="gamebox_brightness">Brightness</string>
     <string name="gamebox_browser_not_find">Install Mi Browser first</string>
     <string name="gamebox_bullet_chat">On-screen comments</string>
-    <string name="gamebox_cellular_network">Optimise cellular network</string>
     <string name="gamebox_cellular_network_description">Automatically select the best network path based on game latency</string>
     <string name="gamebox_collimator">Sight</string>
     <string name="gamebox_display_1">None</string>
@@ -1953,7 +1951,6 @@ Record sequences and use them anytime!"</string>
     <string name="gb_manual_record_dialog_del_video_message">Delete selected videos permanently?</string>
     <string name="gb_manual_video_record_title">Recordings</string>
     <string name="gb_margin_restrain">Ignore accidental touch on the edges</string>
-    <string name="gb_margin_restrain_description">Your device will be less responsive to accidental touch in the area near the edges</string>
     <string name="gb_margin_restrain_seekbar">Accidental touch area</string>
     <string name="gb_msg_completely_shielded">Hide messages</string>
     <string name="gb_msg_completely_shielded_summary">Hide</string>
@@ -2047,10 +2044,8 @@ but also increases power consumption and allows your device to overheat"</string
     <string name="gb_super_finger_up">Fast tap response</string>
     <string name="gb_super_finger_up_msg">Speed up tap response at the hardware level</string>
     <string name="gb_super_follow_up">Gesture tracking</string>
-    <string name="gb_super_follow_up_msg">Get better real-time response throughout the whole gesture</string>
     <string name="gb_super_motion">Enhanced touch controls</string>
     <string name="gb_super_shake">Stabilisation algorithm</string>
-    <string name="gb_super_shake_msg">Make smaller gestures more responsive using the dedicated algorithm</string>
     <string name="gb_turbo_collimator_subtitle">Use aiming device</string>
     <string name="gb_turbo_macro_subtitle">Perform high-level actions</string>
     <string name="gb_turbo_shoulder_subtitle">Set up gaming controls</string>
@@ -2132,7 +2127,6 @@ of your gaming sessions"</string>
     <string name="gd_setting_conversation">Conference tools</string>
     <string name="gd_setting_conversation_desc">Provides a variety of features for use in full-screen audio and video calls</string>
     <string name="gd_setting_dock_activity_title">Side toolbox</string>
-    <string name="gd_setting_dock_call_summary">Features for voice and video calls (e.g. fill light)</string>
     <string name="gd_setting_dock_call_title">Call toolbox</string>
     <string name="gd_setting_dock_game_summary">Enhance display and performance while playing games</string>
     <string name="gd_setting_dock_game_summary_new">Enhance display and performance while playing games</string>
@@ -4021,7 +4015,7 @@ Ultra battery saver"</string>
     <string name="privacy_pop_storage">Accessed storage today</string>
     <string name="privacy_prompt_tc_sms_report_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers in order to update your data usage info."</string>
     <string name="privacy_prompt_upload">Upload</string>
-    <string name="privacy_protect_summary">Protect your personal info</string>
+    <string name="privacy_protect_summary">Protect private items</string>
     <string name="privacy_protect_title">Privacy protection</string>
     <string name="privacy_provision_back">Back</string>
     <string name="privacy_provision_more">Learn more about privacy protection</string>
@@ -4234,7 +4228,7 @@ Withdraw consent now?"</string>
     <string name="restore_dialog_content">Resetting your current device ID will also reset personalised recommendations. Reset now?</string>
     <string name="restore_dialog_positive">Reset</string>
     <string name="restore_dialog_title">Attention</string>
-    <string name="restore_oaid_content">Reset your virtual ID to clear your behavior and preference records</string>
+    <string name="restore_oaid_content">Reset your virtual ID to clear your behaviour and preference records</string>
     <string name="restore_oaid_dialog_content">Multiple apps are using your virtual ID. If you reset it now, a part of your app data might be lost or become unusable. Reset virtual ID anyway?</string>
     <string name="restore_oaid_positive">Reset</string>
     <string name="restore_oaid_positive_step">Reset (%1$d)</string>
@@ -4621,15 +4615,11 @@ Withdraw consent now?"</string>
     <string name="st_antispam_mode_smart_sum">"Block numbers you've added manually and numbers that have been reported by other users"</string>
     <string name="st_antispam_title_anoy_incoming">Calls from strangers</string>
     <string name="st_antispam_title_anoy_sms">Messages from strangers</string>
-    <string name="st_antispam_title_contact_incoming">Calls from Contacts</string>
-    <string name="st_antispam_title_contact_sms">Messages from Contacts</string>
-    <string name="st_antispam_title_contactandanoy_group">Settings</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Private numbers</string>
     <string name="st_antispam_title_service_sms">Service notifications</string>
     <string name="st_antispam_title_whitelist">Exceptions</string>
     <string name="st_call_backsound_group">Blocklist sound</string>
-    <string name="st_call_intercept_contacts">Block calls from contacts</string>
     <string name="st_call_intercept_forwarding">Block forwarded calls</string>
     <string name="st_call_intercept_oversea">Block calls from abroad</string>
     <string name="st_call_intercept_reported">Block calls from reported numbers</string>
@@ -4639,9 +4629,8 @@ Withdraw consent now?"</string>
     <string name="st_call_settings">Call blocklist</string>
     <string name="st_call_stranger_group">Block calls from strangers</string>
     <string name="st_confirm_dialog_btn_open">Block</string>
-    <string name="st_confirm_dialog_summary_contact_call">All calls from contacts will be blocked.</string>
     <string name="st_confirm_dialog_summary_oversea_call">All calls from foreign phone numbers will be blocked.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">All calls from strangers will be blocked.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">"Calls from any number that's not on your exceptions or in your contacts will be blocked. Turn on now?"</string>
     <string name="st_filter_keywords_setting_summary1">Messages from unknown numbers that contain the words in this list will be blocked.</string>
     <string name="st_filter_keywords_setting_summary2">(Use a comma to separate multiple keywords)</string>
     <string name="st_filter_keywords_setting_summary3">Messages from unknown numbers that contain the words in this list will be allowed in.</string>
@@ -4653,7 +4642,6 @@ Withdraw consent now?"</string>
     <string name="st_message_SMSpass">Allow SMS</string>
     <string name="st_message_phone_AntiSpam">Block calls</string>
     <string name="st_message_phonepass">Allow calls</string>
-    <string name="st_msg_intercept_contacts">Block SMS from contacts</string>
     <string name="st_msg_keyword_black">Keyword blocklist</string>
     <string name="st_msg_keyword_group">Keywords</string>
     <string name="st_msg_keyword_white">Keyword exceptions</string>
@@ -4667,11 +4655,11 @@ Withdraw consent now?"</string>
     <string name="st_sub_title_whiteblack_list_group">Blocklist</string>
     <string name="st_sum_call_wait">Your away message will also be played as a busy signal for incoming calls.</string>
     <string name="st_summary_blacklist_numbers">Block calls and messages from specific numbers and areas</string>
-    <string name="st_summary_blacklist_numbers_international">Block calls and messages from specific numbers</string>
+    <string name="st_summary_blacklist_numbers_international">Block calls based on number or prefix</string>
     <string name="st_summary_keywords_blacklist">Add keywords to block messages</string>
     <string name="st_summary_special_numbers">Block flagged phone numbers</string>
     <string name="st_summary_whitelist_numbers">Allow calls and messages from specific numbers and areas</string>
-    <string name="st_summary_whitelist_numbers_international">Allow calls and messages from specific numbers</string>
+    <string name="st_summary_whitelist_numbers_international">Allow calls based on number or prefix</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Add to blocklist</string>
@@ -5054,9 +5042,9 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="title_app_lock_disable">Lock apps</string>
     <string name="title_app_update">Updates available</string>
     <string name="title_auto_update">Update automatically</string>
-    <string name="title_background_connection">"Can't use %s in the background?"</string>
-    <string name="title_block_calls_from_cantacts">Miss calls from your contacts?</string>
-    <string name="title_block_calls_from_strangers">Miss important calls?</string>
+    <string name="title_background_connection">"Can't use %s in the background"</string>
+    <string name="title_block_calls_from_cantacts">Miss calls from your contacts</string>
+    <string name="title_block_calls_from_strangers">Miss important calls</string>
     <string name="title_chain_start">Restrict chain start</string>
     <string name="title_cleaner_cloudscan">Cloud trash scan</string>
     <string name="title_cloud_account">Xiaomi Account</string>
@@ -5073,8 +5061,8 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="title_dev_no">Developer options on</string>
     <string name="title_dev_yes">Developer options off</string>
     <string name="title_device_not_root">"Root access wasn't granted"</string>
-    <string name="title_do_not_disturb">"Can't hear your ringtone?"</string>
-    <string name="title_eye_shield">"Screen colour doesn't look right?"</string>
+    <string name="title_do_not_disturb">"Can't hear your ringtone"</string>
+    <string name="title_eye_shield">"Screen color doesn't look right"</string>
     <string name="title_find_device">Find device</string>
     <string name="title_first_aid_kit">Solve problems</string>
     <string name="title_flow_notification">Mobile data notification</string>
@@ -5107,7 +5095,7 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="title_power_optimizer">Battery saver</string>
     <string name="title_realname_verify">ID verification</string>
     <string name="title_reply">Comment</string>
-    <string name="title_restrict_data_usage">"%s can't connect to the internet?"</string>
+    <string name="title_restrict_data_usage">"%s can't connect to the internet"</string>
     <string name="title_safe_mode">Turn on Secure mode</string>
     <string name="title_show_notification">Notification shade widget</string>
     <string name="title_system_auto_download">Updates will be downloaded automatically</string>

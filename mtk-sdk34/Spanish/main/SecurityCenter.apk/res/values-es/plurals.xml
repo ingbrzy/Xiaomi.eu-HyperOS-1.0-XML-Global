@@ -85,8 +85,8 @@
         <item quantity="one">¿Desinstalar %d aplicación?</item>
     </plurals>
     <plurals name="app_manager_updater_title">
-        <item quantity="other">%d aplicaciones actualizadas</item>
-        <item quantity="one">%d aplicación actualizada</item>
+        <item quantity="other">Actualiza %d aplicaciones</item>
+        <item quantity="one">Actualiza %d aplicación</item>
     </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Usado hace %d días</item>
@@ -336,17 +336,9 @@ para obtener un prueba gratuita de %d día!"</item>
         <item quantity="other">%d aplicaciones no pueden iniciarse automáticamente</item>
         <item quantity="one">%d aplicación no puede iniciarse automáticamente</item>
     </plurals>
-    <plurals name="hints_auto_start_disable_title_global">
-        <item quantity="other">%d aplicaciones no tienen permitido iniciarse en segundo plano</item>
-        <item quantity="one">%d aplicación no tiene permitido iniciarse en segundo plano</item>
-    </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d aplicaciones pueden iniciarse automáticamente</item>
         <item quantity="one">%d aplicación puede iniciarse automáticamente</item>
-    </plurals>
-    <plurals name="hints_auto_start_enable_title_global">
-        <item quantity="other">%d aplicaciones pueden iniciarse en segundo plano</item>
-        <item quantity="one">%d aplicación puede iniciarse en segundo plano</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
         <item quantity="other">%d aplicaciones no tienen acceso raíz</item>

@@ -590,7 +590,6 @@
     <string name="apps_list_header_title_sms">Έλεγχος εφαρμογής μηνυμάτων</string>
     <string name="apps_list_header_title_sms_access">Περιορισμός πρόσβασης σε κωδικούς επαλήθευσης</string>
     <string name="ask_create_shortcut">Δημιουργία συντόμευσης Αρχικής οθόνης;</string>
-    <string name="audio_optimization_summary">Ενίσχυση ήχου και μείωση θορύβου περιβάλλοντος στις συζητήσεις</string>
     <string name="audio_optimization_summary_new">Βελτιστοποίηση ποιότητας ήχου ακουστικών κατά το παιχνίδι και μείωση θορύβου κατά τη διάρκεια κλήσεων</string>
     <string name="audio_optimization_title">Ενίσχυση ήχου</string>
     <string name="auto_atsk_condition_battery_level_text_down">Όταν η μπαταρία φτάσει %s</string>
@@ -1005,7 +1004,7 @@
     <string name="cd_back">Πίσω</string>
     <string name="cellular_data_auto_check">Αυτόματος έλεγχος</string>
     <string name="cellular_package_daily_input">Εισαγωγή</string>
-    <string name="cetus_invisible_mode">Ινκόγκνιτο</string>
+    <string name="cetus_invisible_mode">Ανώνυμη λειτουργία</string>
     <string name="cetus_invisible_mode_description_card">Αναστολή αδειών</string>
     <string name="cetus_invisible_mode_description_switch">Ενεργοποιήστε για αναστολή αδειών μικροφώνου, κάμερας και τοποθεσίας για όλες τις εφαρμογές</string>
     <string name="cetus_invisible_mode_warn_all">Είστε σε ανώνυμη λειτουργία. Οι άδειες μικροφώνου, κάμερας και υπηρεσίες τοποθεσίας έχουν απενεργοποιηθεί.</string>
@@ -1771,7 +1770,6 @@
     <string name="gamebox_brightness">Φωτεινότητα</string>
     <string name="gamebox_browser_not_find">Εγκατάσταση Προγράμματος περιήγησης Mi πρώτα</string>
     <string name="gamebox_bullet_chat">Σχόλια στην οθόνη</string>
-    <string name="gamebox_cellular_network">Βελτιστοποίηση δικτύου κινητής τηλεφωνίας</string>
     <string name="gamebox_cellular_network_description">Επιλέξτε αυτόματα την καλύτερη διαδρομή δικτύου με βάση την καθυστέρηση του παιχνιδιού</string>
     <string name="gamebox_collimator">Συσκευή sight</string>
     <string name="gamebox_display_1">Κανένα</string>
@@ -1997,7 +1995,6 @@ Xiaomi Gaming Cooler"</string>
     <string name="gb_manual_record_dialog_del_video_message">Οριστική διαγραφή επιλεγμένων βίντεο;</string>
     <string name="gb_manual_video_record_title">Εγγραφές</string>
     <string name="gb_margin_restrain">Να αγνοηθεί το τυχαίο άγγιγμα στις άκρες</string>
-    <string name="gb_margin_restrain_description">Η συσκευή σας θα ανταποκρίνεται λιγότερο σε ακούσια αφή στην περιοχή κοντά στις άκρες</string>
     <string name="gb_margin_restrain_seekbar">Περιοχή ακούσιας αφής</string>
     <string name="gb_msg_completely_shielded">Απόκρυψη μηνυμάτων</string>
     <string name="gb_msg_completely_shielded_summary">Απόκρυψη</string>
@@ -2091,10 +2088,8 @@ Xiaomi Gaming Cooler"</string>
     <string name="gb_super_finger_up">Γρήγορη απόκριση</string>
     <string name="gb_super_finger_up_msg">Επιταχύνετε την απόκριση πατήματος σε επίπεδο υλισμικού</string>
     <string name="gb_super_follow_up">Παρακολούθηση χειρονομιών</string>
-    <string name="gb_super_follow_up_msg">Λάβετε καλύτερη απόκριση σε πραγματικό χρόνο σε όλη τη διάρκεια της χειρονομίας</string>
     <string name="gb_super_motion">Βελτιωμένα χειριστήρια αφής</string>
     <string name="gb_super_shake">Αλγόριθμος σταθεροποίησης</string>
-    <string name="gb_super_shake_msg">Κάντε τις μικρότερες χειρονομίες πιο ανταποκρίσιμες χρησιμοποιώντας τον αποκλειστικό αλγόριθμο</string>
     <string name="gb_turbo_collimator_subtitle">Χρησιμοποιήστε τη συσκευή στόχευσης</string>
     <string name="gb_turbo_macro_subtitle">Εκτελέστε ενέργειες υψηλού επιπέδου</string>
     <string name="gb_turbo_shoulder_subtitle">Ρύθμιση χειριστηρίων παιχνιδιού</string>
@@ -2176,7 +2171,6 @@ Xiaomi Gaming Cooler"</string>
     <string name="gd_setting_conversation">Εργαλεία συνδιάσκεψης</string>
     <string name="gd_setting_conversation_desc">Παρέχει μια ποικιλία λειτουργιών για χρήση σε κλήσεις ήχου και βίντεο πλήρους οθόνης</string>
     <string name="gd_setting_dock_activity_title">Πλαϊνή εργαλειοθήκη</string>
-    <string name="gd_setting_dock_call_summary">Λειτουργίες για φωνητικές κλήσεις και βιντεοκλήσεις (π.χ. συμπλήρωση φωτός)</string>
     <string name="gd_setting_dock_call_title">Εργαλειοθήκη κλήσεων</string>
     <string name="gd_setting_dock_game_summary">Βελτιώστε την οθόνη και την απόδοση κατά την αναπαραγωγή παιχνιδιών</string>
     <string name="gd_setting_dock_game_summary_new">Βελτιώστε την οθόνη και την απόδοση κατά την αναπαραγωγή παιχνιδιών</string>
@@ -2204,7 +2198,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="gd_sidebar_edit_quick_title">Συντομεύσεις</string>
     <string name="gd_sidebar_long_press_tips">Πατήστε παρατεταμένα την ένδειξη για να την μετακινήσετε ενώ κρατάτε τη συσκευή κατακόρυφα</string>
     <string name="gd_splite_screen_tips">Η Διαίρεση οθόνης δεν υποστηρίζει αναδυόμενα παράθυρα</string>
-    <string name="gdpr_msg">&lt;Data>Για να μπορέσουμε να εντοπίσουμε τους κινδύνους ασφαλείας και να προστατεύσουμε τα δεδομένα σας, πρέπει να συλλέξουμε τον απαραίτητο αριθμό πληροφοριών σχετικά με τη συσκευή σας. Διαβάστε και συμφωνήστε με την &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Πολιτική Απορρήτου&lt;/a> μας, πριν χρησιμοποιήσετε τις υπηρεσίες μας. Σε περίπτωση που δεν μας επιτρέψετε να συλλέξουμε αυτές τις πληροφορίες, θα εξακολουθείτε να μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή, αλλά ορισμένες δυνατότητες δεν θα είναι διαθέσιμες σε εσάς. &lt;/Data></string>
+    <string name="gdpr_msg"><Data>Για να μπορέσουμε να εντοπίσουμε τους κινδύνους ασφαλείας και να προστατεύσουμε τα δεδομένα σας, πρέπει να συλλέξουμε τον απαραίτητο αριθμό πληροφοριών σχετικά με τη συσκευή σας. Διαβάστε και συμφωνήστε με την &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Πολιτική Απορρήτου&lt;/a> μας, πριν χρησιμοποιήσετε τις υπηρεσίες μας. Σε περίπτωση που δεν μας επιτρέψετε να συλλέξουμε αυτές τις πληροφορίες, θα εξακολουθείτε να μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή, αλλά ορισμένες δυνατότητες δεν θα είναι διαθέσιμες σε εσάς. </Data></string>
     <string name="get_detail_by_click">Πατήστε για προβολή λεπτομερειών</string>
     <string name="get_phone_num_fail">Άγνωστος αριθμός τηλεφώνου</string>
     <string name="get_sys_info">Γίνεται λήψη πληροφοριών…</string>
@@ -3552,7 +3546,7 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="permission_instruction_notification_adjustment">Αυτή η άδεια επιτρέπει στις εφαρμογές να παρέχουν πιο εξατομικευμένες και διαφοροποιημένες προσαρμοστικές ειδοποιήσεις.</string>
     <string name="permission_instruction_ongoing_notification">Αυτή η άδεια επιτρέπει στις εφαρμογές να δημιουργούν μόνιμες συντομεύσεις στην Μπάρα ειδοποιήσεων, κάτι που μπορεί να σας εμποδίσει να δείτε τακτικές ειδοποιήσεις.</string>
     <string name="permission_instruction_package_usage_stat">Αυτή η άδεια επιτρέπει στις εφαρμογές να παρακολουθούν τη συμπεριφορά άλλων εφαρμογών στη συσκευή σας και να λαμβάνουν τις πληροφορίες που ενδέχεται να περιλαμβάνουν τις ρυθμίσεις της εταιρείας κινητής τηλεφωνίας και της γλώσσας σας. Αυτή είναι μια άδεια υψηλού κινδύνου. Η συσκευή σας ενδέχεται να παρακολουθείται και η ασφάλεια των προσωπικών σας στοιχείων ενδέχεται επίσης να κινδυνεύει.</string>
-    <string name="permission_instruction_picture_in_picture">Αυτή η άδεια επιτρέπει στις εφαρμογές να προβάλλουν αντικείμενα στην Αρχική οθόνη ή σε άλλες εφαρμογές μέσω διεπαφής από εικόνα σε εικόνα.</string>
+    <string name="permission_instruction_picture_in_picture">Αυτή η άδεια επιτρέπει στις εφαρμογές να προβάλλουν αντικείμενα στην Αρχική οθόνη ή σε άλλες εφαρμογές μέσω διεπαφής picture-in-picture.</string>
     <string name="permission_instruction_popup_window">Αυτή η άδεια επιτρέπει στις εφαρμογές να εμφανίζουν κυμαινόμενα παράθυρα σε οποιαδήποτε άλλη διεπαφή στη συσκευή σας, κάτι που μπορεί να επηρεάσει την κανονική χρήση άλλων εφαρμογών. Κακόβουλες εφαρμογές ενδέχεται να χρησιμοποιούν αυτήν την άδεια για να διαβάσουν ή να συλλέξουν ιδιωτικές πληροφορίες (π.χ. κωδικούς πρόσβασης) μέσω διαφανών αιωρουμένων παραθύρων.</string>
     <string name="permission_instruction_read_appplication_list">Αυτή η άδεια επιτρέπει στις εφαρμογές να έχουν πρόσβαση στις πληροφορίες σχετικά με όλες τις εφαρμογές που είναι εγκατεστημένες στη συσκευή σας. Κακόβουλες εφαρμογές ενδέχεται να χρησιμοποιούν αυτήν την άδεια για να αναλύσουν τις προσωπικές σας προτιμήσεις.</string>
     <string name="permission_instruction_read_calllog">Αυτή η άδεια επιτρέπει στις εφαρμογές να έχουν πρόσβαση στο ιστορικό κλήσεων.</string>
@@ -3929,7 +3923,7 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="power_settings_lock_screen_saver_title">Ρυθμίσεις οθόνης κλειδώματος</string>
     <string name="power_settings_number">Ποσοστό</string>
     <string name="power_settings_saver_title">Εξοικονόμηση ενέργειας</string>
-    <string name="power_settings_shape">Γραφικός</string>
+    <string name="power_settings_shape">Γραφική</string>
     <string name="power_settings_title">Ρυθμίσεις</string>
     <string name="power_settings_top">Μπάρα κορυφής</string>
     <string name="power_superpower_title_systemui_highpower">Χρόνος που απομένει</string>
@@ -4177,7 +4171,7 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="privacy_pop_storage">Απέκτησε πρόσβαση στον αποθηκευτικό χώρο σήμερα</string>
     <string name="privacy_prompt_tc_sms_report_message">Ο αριθμός τηλεφώνου και οι πληροφορίες παρόχου σας θα κρυπτογραφηθούν και θα μεταφορτωθούν στους Mi διακομιστές για την ενημέρωση των πληροφοριών χρήσης δεδομένων κινητής σας.</string>
     <string name="privacy_prompt_upload">Μεταφόρτωση</string>
-    <string name="privacy_protect_summary">Προστατέψτε τα προσωπικά σας δεδομένα</string>
+    <string name="privacy_protect_summary">Προστασία προσωπικών αντικειμένων</string>
     <string name="privacy_protect_title">Προστασία απορρήτου</string>
     <string name="privacy_provision_back">Πίσω</string>
     <string name="privacy_provision_more">Μάθετε περισσότερα για την προστασία απορρήτου</string>
@@ -4780,15 +4774,11 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="st_antispam_mode_smart_sum">Αποκλεισμός αριθμών που έχετε προσθέσει μόνοι σας και αριθμών που έχουν αναφερθεί από άλλους χρήστες</string>
     <string name="st_antispam_title_anoy_incoming">Κλήσεις από αγνώστους</string>
     <string name="st_antispam_title_anoy_sms">Μηνύματα από αγνώστους</string>
-    <string name="st_antispam_title_contact_incoming">Κλήσεις από Επαφές</string>
-    <string name="st_antispam_title_contact_sms">Μηνύματα από Επαφές</string>
-    <string name="st_antispam_title_contactandanoy_group">Ρυθμίσεις</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Απόρρητοι αριθμοί</string>
     <string name="st_antispam_title_service_sms">Ειδοποιήσεις υπηρεσιών</string>
     <string name="st_antispam_title_whitelist">Εξαιρέσεις</string>
     <string name="st_call_backsound_group">Ήχος λίστας αποκλεισμού</string>
-    <string name="st_call_intercept_contacts">Αποκλεισμός κλήσεων από επαφές</string>
     <string name="st_call_intercept_forwarding">Αποκλεισμός προωθημένων κλήσεων</string>
     <string name="st_call_intercept_oversea">Αποκλεισμός κλήσεων από εξωτερικό</string>
     <string name="st_call_intercept_reported">Αποκλεισμός κλήσεων από αναφερόμενους αριθμούς</string>
@@ -4798,9 +4788,8 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="st_call_settings">Λίστα αποκλεισμού κλήσεων</string>
     <string name="st_call_stranger_group">Αποκλεισμός κλήσεων από αγνώστους</string>
     <string name="st_confirm_dialog_btn_open">Αποκλεισμός</string>
-    <string name="st_confirm_dialog_summary_contact_call">Όλες οι κλήσεις από επαφές θα μπλοκαριστούν.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Όλες οι κλήσεις από αλλοδαπούς αριθμούς τηλεφώνου θα αποκλειστούν.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Όλες οι κλήσεις από αγνώστους θα μπλοκαριστούν.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">Οι κλήσεις από οποιονδήποτε αριθμό που δεν περιλαμβάνεται στις εξαιρέσεις ή στις επαφές σας θα αποκλειστούν. Ενεργοποίηση τώρα;</string>
     <string name="st_filter_keywords_setting_summary1">Αποκλεισμός μηνύματων από άγνωστους αριθμούς που εμπεριέχουν τις λέξεις αυτής της λίστας.</string>
     <string name="st_filter_keywords_setting_summary2">(Χρησιμοποιείστε κόμμα για να διαχωρίσετε πολλαπλές λέξεις-κλειδιά)</string>
     <string name="st_filter_keywords_setting_summary3">Θα επιτρέπονται μηνύματα από άγνωστους αριθμούς που εμπεριέχουν τις λέξεις αυτής της λίστας.</string>
@@ -4812,7 +4801,6 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="st_message_SMSpass">Να επιτρέπονται SMS</string>
     <string name="st_message_phone_AntiSpam">Αποκλεισμός κλήσεων</string>
     <string name="st_message_phonepass">Να επιτρέπονται κλήσεις</string>
-    <string name="st_msg_intercept_contacts">Αποκλεισμός SMS από επαφές</string>
     <string name="st_msg_keyword_black">Λίστα αποκλεισμού λέξεων-κλειδιών</string>
     <string name="st_msg_keyword_group">Λέξεις-κλειδιά</string>
     <string name="st_msg_keyword_white">Εξαιρέσεις λέξεων-κλειδιών</string>
@@ -4826,11 +4814,11 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="st_sub_title_whiteblack_list_group">Λίστα αποκλεισμού</string>
     <string name="st_sum_call_wait">Το μήνυμα απουσίας σας θα αναπαράγεται και ως σήμα κατελειμμένου για εισερχόμενες κλήσεις.</string>
     <string name="st_summary_blacklist_numbers">Αποκλεισμός κλήσεων και μηνυμάτων από συγκεκριμένους αριθμούς και περιοχές</string>
-    <string name="st_summary_blacklist_numbers_international">Αποκλεισμός κλήσεων και μηνυμάτων από συγκεκριμένους αριθμούς</string>
+    <string name="st_summary_blacklist_numbers_international">Αποκλεισμός κλήσεων με βάση τον αριθμό ή το πρόθεμα</string>
     <string name="st_summary_keywords_blacklist">Προσθέστε λέξεις κλειδιά για να αποκλείσετε μηνύματα</string>
     <string name="st_summary_special_numbers">Αποκλεισμός επισημασμένων αριθμών</string>
     <string name="st_summary_whitelist_numbers">Αποδοχή κλήσεων και μηνυμάτων από συγκεκριμένους αριθμούς και περιοχές</string>
-    <string name="st_summary_whitelist_numbers_international">Αποδοχή κλήσεων και μηνυμάτων από συγκεκριμένους αριθμούς</string>
+    <string name="st_summary_whitelist_numbers_international">Να επιτραπούν κλήσεις με βάση τον αριθμό ή το πρόθεμα</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Προσθήκη στη λίστα αποκλεισμού</string>
@@ -5262,9 +5250,9 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="title_app_lock_disable">Κλείδωμα εφαρμογών</string>
     <string name="title_app_update">Διαθέσιμες ενημερώσεις</string>
     <string name="title_auto_update">Αυτόματη ενημέρωση</string>
-    <string name="title_background_connection">Αδυναμία χρήσης %s στο παρασκήνιο;</string>
-    <string name="title_block_calls_from_cantacts">Έχετε αναπάντητες κλήσεις από τις επαφές σας;</string>
-    <string name="title_block_calls_from_strangers">Έχετε σημαντικές αναπάντητες κλήσεις;</string>
+    <string name="title_background_connection">Αδυναμία χρήσης %s στο παρασκήνιο</string>
+    <string name="title_block_calls_from_cantacts">Αναπάντητες κλήσεις από τις επαφές σας</string>
+    <string name="title_block_calls_from_strangers">Σημαντικές αναπάντητες κλήσεις</string>
     <string name="title_chain_start">Περιορισμός αλυσιδωτής εκκίνησης</string>
     <string name="title_cleaner_cloudscan">Σάρωση σκουπιδιών για ιούς</string>
     <string name="title_cloud_account">Λογαριασμός Xiaomi</string>
@@ -5281,8 +5269,8 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="title_dev_no">Επιλογές προγραμματιστών ενεργές</string>
     <string name="title_dev_yes">Επιλογές προγραμματιστών ανενεργές</string>
     <string name="title_device_not_root">Δεν έγινε αποδοχή για πρόσβαση root</string>
-    <string name="title_do_not_disturb">Δεν μπορείτε να ακούσετε το κουδούνισμά σας;</string>
-    <string name="title_eye_shield">Υπάρχει πρόβλημα με το χρώμα της οθόνης;</string>
+    <string name="title_do_not_disturb">Δεν μπορείτε να ακούσετε το κουδούνισμά σας</string>
+    <string name="title_eye_shield">Υπάρχει πρόβλημα με το χρώμα της οθόνης</string>
     <string name="title_find_device">Εύρεση συσκευής</string>
     <string name="title_first_aid_kit">Επίλυση προβλημάτων</string>
     <string name="title_flow_notification">Ειδοποίηση κινητών δεδομένων</string>
@@ -5315,7 +5303,7 @@ Ultra εξοικονόμησης μπαταρίας"</string>
     <string name="title_power_optimizer">Εξοικονόμηση μπαταρίας</string>
     <string name="title_realname_verify">Επαλήθευση ID</string>
     <string name="title_reply">Σχολιάστε</string>
-    <string name="title_restrict_data_usage">Αδυναμία σύνδεσης του %s στο Ίντερνετ;</string>
+    <string name="title_restrict_data_usage">Αδυναμία σύνδεσης του %s στο διαδίκτυο</string>
     <string name="title_safe_mode">Ενεργοποίηση Ασφαλούς λειτουργίας</string>
     <string name="title_show_notification">Widget πίνακα ειδοποιήσεων</string>
     <string name="title_system_auto_download">Θα γίνει αυτόματη λήψη ενημερώσεων</string>

@@ -590,7 +590,6 @@
     <string name="apps_list_header_title_sms">Праверце прыладу Паведамленні</string>
     <string name="apps_list_header_title_sms_access">Абмежаваць доступ да кодаў верыфікацыі</string>
     <string name="ask_create_shortcut">Стварыць ярлык на працоўным стале?</string>
-    <string name="audio_optimization_summary">Паляпшаць гук і памяншаць знешні шум пры гутарках</string>
     <string name="audio_optimization_summary_new">Аптымізаваць якасць гуку ў навушніках падчас гульняў і паменшыць шум падчас выклікаў</string>
     <string name="audio_optimization_title">Паляпшэнне гуку</string>
     <string name="auto_atsk_condition_battery_level_text_down">Калі разрад батарэі дасягне %s</string>
@@ -1769,7 +1768,6 @@
     <string name="gamebox_brightness">Яркасць</string>
     <string name="gamebox_browser_not_find">Спачатку усталюйце Mi Браўзер</string>
     <string name="gamebox_bullet_chat">Каментары на экране</string>
-    <string name="gamebox_cellular_network">Аптымізаваць сотавую сетку</string>
     <string name="gamebox_cellular_network_description">Аўтаматычна выбіраць лепшы сеткавы шлях з улікам затрымкі ў гульні</string>
     <string name="gamebox_collimator">Прыцэл</string>
     <string name="gamebox_display_1">Няма</string>
@@ -1995,7 +1993,6 @@ Record sequences and use them anytime!"</string>
     <string name="gb_manual_record_dialog_del_video_message">Выдаліць выбраныя відэа назаўсёды?</string>
     <string name="gb_manual_video_record_title">Запісы</string>
     <string name="gb_margin_restrain">Ігнараваць выпадковы дотык да бакоў</string>
-    <string name="gb_margin_restrain_description">Ваша прылада будзе менш рэагаваць на выпадковае дакрананне ў вобласці па краях</string>
     <string name="gb_margin_restrain_seekbar">Зона выпадковага дотыку</string>
     <string name="gb_msg_completely_shielded">Схаваць паведамленні</string>
     <string name="gb_msg_completely_shielded_summary">Схаваць</string>
@@ -2089,10 +2086,8 @@ Record sequences and use them anytime!"</string>
     <string name="gb_super_finger_up">Хуткі адказ на націск</string>
     <string name="gb_super_finger_up_msg">Паскорце рэакцыю на націск на апаратным узроўні</string>
     <string name="gb_super_follow_up">Адсочванне жэстаў</string>
-    <string name="gb_super_follow_up_msg">Атрымайце лепшы водгук у рэальным часе на працягу ўсяго жэсту</string>
     <string name="gb_super_motion">Палепшанае сэнсарнае кіраванне</string>
     <string name="gb_super_shake">Алгарытм стабілізацыі</string>
-    <string name="gb_super_shake_msg">Зрабіце невялікія жэсты больш спагаднымі, выкарыстоўваючы спецыяльны алгарытм</string>
     <string name="gb_turbo_collimator_subtitle">Выкарыстоўваць прыладу прыцэльвання</string>
     <string name="gb_turbo_macro_subtitle">Выканайце дзеянні высокага ўзроўню</string>
     <string name="gb_turbo_shoulder_subtitle">Наладзьце кіраванне гульнёй</string>
@@ -2174,7 +2169,6 @@ Record sequences and use them anytime!"</string>
     <string name="gd_setting_conversation">Інструменты канферэнцыі</string>
     <string name="gd_setting_conversation_desc">Дае мноства функцый для выкарыстання ў поўнаэкранных аўдыё- і відэавыкліках.</string>
     <string name="gd_setting_dock_activity_title">Бакавая панэль інструментаў</string>
-    <string name="gd_setting_dock_call_summary">Функцыі для галасавых і відэазвыклікаў (напрыклад, Высвятленне»)</string>
     <string name="gd_setting_dock_call_title">Панэль інструментаў выклікаў</string>
     <string name="gd_setting_dock_game_summary">Палепшыце адлюстраванне і прадукцыйнасць падчас гульняў</string>
     <string name="gd_setting_dock_game_summary_new">Палепшыце адлюстраванне і прадукцыйнасць падчас гульняў</string>
@@ -3528,7 +3522,7 @@ Record sequences and use them anytime!"</string>
     <string name="permission_instruction_auto_start">This permission allows apps to autostart without your confirmation. Giving this permission to multiple apps may slow down your device. Malicious apps use this permission to collect your personal information without you knowing it.</string>
     <string name="permission_instruction_background_start">This permission allows apps to display pop-ups without your confirmation. These pop-ups might cover your screen completely affecting normal use.</string>
     <string name="permission_instruction_bluetooth_admin">This permission allows apps to turn Bluetooth on and off without your confirmation.</string>
-    <string name="permission_instruction_body_sensors">Праграмы з такім дазволам могуць атрымліваць доступ да даных датчыка аб вашых жыццёва важных паказчыках (напрыклад, пульс)</string>
+    <string name="permission_instruction_body_sensors">Праграмы з такім дазволам могуць атрымліваць доступ да дадзеных датчыка аб вашых жыццёва важных паказчыках (напрыклад, пульс)</string>
     <string name="permission_instruction_call_phone">"This permission allows apps to make unsolicited calls, which may generate additional fees. Note that this permission doesn't allow apps to call emergency phone numbers. Malicious apps might use this permission to make paid calls without your consent."</string>
     <string name="permission_instruction_camera">This permission allows apps to use the camera for taking photos or recording videos.</string>
     <string name="permission_instruction_change_wifi_state">This permission allows apps to turn Wi-Fi on and off without your confirmation.</string>
@@ -4075,7 +4069,7 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_apps_tutorial_prompt_pagetwo">"Развядзіце два пальцы на экране. З'явіцца паведамленне з просьбай увесці пароль аховы праграм."</string>
     <string name="privacy_danger_permission_status_summary">Кіруйце праграмамі, якія запытваюць канфідэнцыйныя дазволы</string>
     <string name="privacy_danger_permission_status_title">Канфідэнцыйныя дзеянні</string>
-    <string name="privacy_danger_permission_summary">Адсочвайце, як праграмы выкарыстоўвалі вашыя дазвалення</string>
+    <string name="privacy_danger_permission_summary">Адсочвайце, як праграмы выкарыстоўвалі вашыя дазволы</string>
     <string name="privacy_danger_permission_title">Апавяшчэнні аб дазволах</string>
     <string name="privacy_danger_permission_warning">Дазвол высокай рызыкі</string>
     <string name="privacy_declare_dialog_title">Умовы выкарыстання</string>
@@ -4151,7 +4145,7 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_notification_title_camera_mic">%1s выкарыстоўвае камеру і мікрафон у фоне</string>
     <string name="privacy_notification_title_mic">%1s выкарыстоўвае мікрафон у фоне</string>
     <string name="privacy_other_permission_manage_summary">Кіраванне іншымі дазваленнямі, звязанымі з прыватнасцю</string>
-    <string name="privacy_other_permission_manage_title">Іншыя дазвалення</string>
+    <string name="privacy_other_permission_manage_title">Іншыя дазволы</string>
     <string name="privacy_permission_call">Атрыманне доступу да гісторыі вызаваў або яе змена</string>
     <string name="privacy_permission_call_title">Абараніць выклікі</string>
     <string name="privacy_permission_camera_title">Абмежаваць фонавае выкарыстанне камеры</string>
@@ -4175,7 +4169,7 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_pop_storage">Атрымлівала доступ да памяці сёння</string>
     <string name="privacy_prompt_tc_sms_report_message">Ваш нумар тэлефона і дадзеныя аператара будуць зашыфраваныя і запампаваны на серверы Mi для абнаўлення статыстыкі трафіка.</string>
     <string name="privacy_prompt_upload">Запампаваць</string>
-    <string name="privacy_protect_summary">Абараніце вашы асабістыя дадзеныя</string>
+    <string name="privacy_protect_summary">Абараніць прыватныя дадзеныя</string>
     <string name="privacy_protect_title">Абарона прыватнасці</string>
     <string name="privacy_provision_back">Назад</string>
     <string name="privacy_provision_more">Даведайцеся больш падрабязна пра абарону прыватнасці</string>
@@ -4287,7 +4281,7 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_show_other_permissions">Паказаць іншыя дазволы</string>
     <string name="privacy_show_password">Паказаць паролі</string>
     <string name="privacy_show_password_summary">Пакідаць паролі бачнымі на працягу кароткага прамежку часу</string>
-    <string name="privacy_special_permission_summary">Адсочвайце, як праграмы выкарыстоўвалі вашыя канфідэнцыйныя дазвалення</string>
+    <string name="privacy_special_permission_summary">Адсочвайце, як праграмы выкарыстоўвалі вашыя канфідэнцыйныя дазволы</string>
     <string name="privacy_special_permission_title">Спецыяльныя дазвалення</string>
     <string name="privacy_summary">Даведайцеся больш падрабязна пра абарону прыватнасці</string>
     <string name="privacy_thumbnail_blur_category_financial">Фінансы</string>
@@ -4779,15 +4773,11 @@ Record sequences and use them anytime!"</string>
     <string name="st_antispam_mode_smart_sum">Блакаваць нумары, дададзеныя ўручную, і нумары, адзначаныя іншымі карыстальнікамі</string>
     <string name="st_antispam_title_anoy_incoming">Выклікі ад незнаёмых</string>
     <string name="st_antispam_title_anoy_sms">Паведамленні ад незнаёмых</string>
-    <string name="st_antispam_title_contact_incoming">Выклікі ад кантактаў</string>
-    <string name="st_antispam_title_contact_sms">Паведамленні ад кантактаў</string>
-    <string name="st_antispam_title_contactandanoy_group">Налады</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Схаваныя нумары</string>
     <string name="st_antispam_title_service_sms">Сэрвісныя паведамленні</string>
     <string name="st_antispam_title_whitelist">Белы спіс</string>
     <string name="st_call_backsound_group">Гук блакавання</string>
-    <string name="st_call_intercept_contacts">Блакаваць выклікі ад кантактаў</string>
     <string name="st_call_intercept_forwarding">Блакаваць пераадрасаваныя званкі</string>
     <string name="st_call_intercept_oversea">Блакаваць выклікі з-за мяжы</string>
     <string name="st_call_intercept_reported">Блакаваць выклікі з адзначаных нумароў</string>
@@ -4797,9 +4787,8 @@ Record sequences and use them anytime!"</string>
     <string name="st_call_settings">Чорны спіс выклікаў</string>
     <string name="st_call_stranger_group">Блакаваць выклікі ад незнаёмцаў</string>
     <string name="st_confirm_dialog_btn_open">Блакаваць</string>
-    <string name="st_confirm_dialog_summary_contact_call">Усе выклікі ад кантактаў будуць заблакаваныя.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Усе выклікі з замежных тэлефонных нумароў будуць заблякаваныя.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Усе выклікі ад незнаёмцаў будуць заблакаваныя.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">Выклікі з любога нумара, які не ўваходзіць у вашыя выключэнні ці кантакты, будуць заблакаваныя. Уключыць?</string>
     <string name="st_filter_keywords_setting_summary1">SMS ад невядомых нумароў з наступнымі ключавымі словамі будуць заблакаваныя.</string>
     <string name="st_filter_keywords_setting_summary2">(Паміж ключавымі словамі стаўце коску)</string>
     <string name="st_filter_keywords_setting_summary3">SMS ад невядомых нумароў з наступнымі ключавымі словамі будуць дазволеныя.</string>
@@ -4811,7 +4800,6 @@ Record sequences and use them anytime!"</string>
     <string name="st_message_SMSpass">Дазволіць SMS</string>
     <string name="st_message_phone_AntiSpam">Блакаваць выклікі</string>
     <string name="st_message_phonepass">Дазволіць выклікі</string>
-    <string name="st_msg_intercept_contacts">Блакаваць SMS ад кантактаў</string>
     <string name="st_msg_keyword_black">Чорны спіс ключавых словаў</string>
     <string name="st_msg_keyword_group">Ключавыя словы</string>
     <string name="st_msg_keyword_white">Белы спіс ключавых словаў</string>
@@ -4825,11 +4813,11 @@ Record sequences and use them anytime!"</string>
     <string name="st_sub_title_whiteblack_list_group">Чорны спіс</string>
     <string name="st_sum_call_wait">Сігнал пры блакіроўцы таксама будзе прайгравацца як сігнал \"Занята\".</string>
     <string name="st_summary_blacklist_numbers">Блакаваць званкі і паведамленні ад пэўных нумароў і рэгіёнаў</string>
-    <string name="st_summary_blacklist_numbers_international">Блакаваць выклікі і паведамленні з пэўных нумароў</string>
+    <string name="st_summary_blacklist_numbers_international">Блакаваць выклікі з улікам нумара ці прэфікса</string>
     <string name="st_summary_keywords_blacklist">Дадаванне ключавых слоў для блакавання паведамленняў</string>
     <string name="st_summary_special_numbers">Блакаваць адзначаныя тэлефонныя нумары</string>
     <string name="st_summary_whitelist_numbers">Дазволіць выклікі і паведамленні ад пэўных нумароў і рэгіёнаў</string>
-    <string name="st_summary_whitelist_numbers_international">Дазволіць выклікі і паведамленні з пэўных нумароў</string>
+    <string name="st_summary_whitelist_numbers_international">Дазволіць выклікі з улікам нумара ці прэфікса</string>
     <string name="st_tab_title">%1$s (SIM%2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Дадаць у чорны спіс</string>
@@ -5261,9 +5249,9 @@ Record sequences and use them anytime!"</string>
     <string name="title_app_lock_disable">Замацаваныя праграмы</string>
     <string name="title_app_update">Даступнае абнаўленне</string>
     <string name="title_auto_update">Аўтаматычнае абнаўленне</string>
-    <string name="title_background_connection">Не можаце карыстаць %s у фоне?</string>
-    <string name="title_block_calls_from_cantacts">Прапускаеце выклікі ад кантактаў?</string>
-    <string name="title_block_calls_from_strangers">Прапускаеце важныя выклікі?</string>
+    <string name="title_background_connection">Не можаце карыстаць %s у фоне</string>
+    <string name="title_block_calls_from_cantacts">Прапускаеце выклікі ад кантактаў</string>
+    <string name="title_block_calls_from_strangers">Прапускаеце важныя выклікі</string>
     <string name="title_chain_start">Узаемны запуск абмежаваны</string>
     <string name="title_cleaner_cloudscan">Воблачная праверка смецця</string>
     <string name="title_cloud_account">Xiaomi Акаўнт</string>
@@ -5280,8 +5268,8 @@ Record sequences and use them anytime!"</string>
     <string name="title_dev_no">Рэжым распрацоўшчыка ўключаны</string>
     <string name="title_dev_yes">Рэжым распрацоўшчыка адключаны</string>
     <string name="title_device_not_root">Root-доступ не дазволены</string>
-    <string name="title_do_not_disturb">Вы не чуеце ваш званок?</string>
-    <string name="title_eye_shield">Колер экрана выглядае не так?</string>
+    <string name="title_do_not_disturb">Вы не чуеце ваш званок</string>
+    <string name="title_eye_shield">Колер экрана выглядае не так</string>
     <string name="title_find_device">Пошук прылады</string>
     <string name="title_first_aid_kit">Вырашэнне праблем</string>
     <string name="title_flow_notification">Апавяшчэнне аб мабільным трафіка</string>
@@ -5314,7 +5302,7 @@ Record sequences and use them anytime!"</string>
     <string name="title_power_optimizer">Эканомія зараду</string>
     <string name="title_realname_verify">ID праверка</string>
     <string name="title_reply">Водгук</string>
-    <string name="title_restrict_data_usage">%s не можа падлучыцца да інтэрнэту?</string>
+    <string name="title_restrict_data_usage">%s не можа падлучыцца да інтэрнэту</string>
     <string name="title_safe_mode">Уключыць Бяспечны рэжым</string>
     <string name="title_show_notification">Віджэт панэлі апавяшчэнняў</string>
     <string name="title_system_auto_download">Аўтаматычная спампоўка абнаўленняў уключана</string>
