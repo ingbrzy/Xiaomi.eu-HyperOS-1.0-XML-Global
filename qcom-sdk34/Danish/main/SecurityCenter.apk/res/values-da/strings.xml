@@ -590,7 +590,6 @@ Du vil ikke miste nogen appdata."</string>
     <string name="apps_list_header_title_sms">Kontrollér besked-app</string>
     <string name="apps_list_header_title_sms_access">Begræns adgang for verifikationskoder</string>
     <string name="ask_create_shortcut">Opret en genvej til startskærm?</string>
-    <string name="audio_optimization_summary">Forbedr lyd og reducér omgivende støj under samtaler</string>
     <string name="audio_optimization_summary_new">Optimer lydkvaliteten i dine høretelefoner, når du spiller, og reducer støj under opkald.</string>
     <string name="audio_optimization_title">Forbedret lyd</string>
     <string name="auto_atsk_condition_battery_level_text_down">Når batteriet når %s</string>
@@ -1769,7 +1768,6 @@ Det vil blive føjet til undtagelser, men tidligere blokerede elementer vil ikke
     <string name="gamebox_brightness">Lysstyrke</string>
     <string name="gamebox_browser_not_find">Installer Mi Browser først</string>
     <string name="gamebox_bullet_chat">Kommentarer på skærmen</string>
-    <string name="gamebox_cellular_network">Optimér mobilnetværket</string>
     <string name="gamebox_cellular_network_description">Vælg automatisk den bedste netværkssti, baseret på spil-latens</string>
     <string name="gamebox_collimator">Sigte</string>
     <string name="gamebox_display_1">Ingen</string>
@@ -1995,7 +1993,6 @@ Record sequences and use them anytime!"</string>
     <string name="gb_manual_record_dialog_del_video_message">Slet valgte videoer permanent?</string>
     <string name="gb_manual_video_record_title">Optagelser</string>
     <string name="gb_margin_restrain">Ignorér, at kanterne berøres ved et uheld</string>
-    <string name="gb_margin_restrain_description">Din enhed vil reagere mindre overfor utilsigtet berøring i området nær kanterne</string>
     <string name="gb_margin_restrain_seekbar">Område med utilsigtet berøring</string>
     <string name="gb_msg_completely_shielded">Skjul beskeder</string>
     <string name="gb_msg_completely_shielded_summary">Skjul</string>
@@ -2089,10 +2086,8 @@ men øger også strømforbruget og bevirker, at din enhed kan blive overophedet"
     <string name="gb_super_finger_up">Respons ved hurtigt tryk</string>
     <string name="gb_super_finger_up_msg">Gør trykrespons hurtigere på hardwareniveau</string>
     <string name="gb_super_follow_up">Sporing af fagter</string>
-    <string name="gb_super_follow_up_msg">Få bedre realtidsrespons gennem håndbevægelsen vedrørende fagter</string>
     <string name="gb_super_motion">Forbedrede berøringskontroller</string>
     <string name="gb_super_shake">Stabiliseringsalgoritme</string>
-    <string name="gb_super_shake_msg">Gør mindre bevægelser mere responderede ved hjælp af den dedikerede algoritme</string>
     <string name="gb_turbo_collimator_subtitle">Sigt med enheden</string>
     <string name="gb_turbo_macro_subtitle">Udfør højniveau-handlinger</string>
     <string name="gb_turbo_shoulder_subtitle">Opsæt spilkontroller</string>
@@ -2174,7 +2169,6 @@ af dine spillesessioner"</string>
     <string name="gd_setting_conversation">Konferenceværktøjer</string>
     <string name="gd_setting_conversation_desc">Har en række funktioner til lyd- og videoopkald med fuld skærm</string>
     <string name="gd_setting_dock_activity_title">Panelværktøj</string>
-    <string name="gd_setting_dock_call_summary">Funktioner til stemme- og videoopkald (f.eks. fill light)</string>
     <string name="gd_setting_dock_call_title">Værktøjskasse til opkald</string>
     <string name="gd_setting_dock_game_summary">Forbedr skærm og ydeevne, mens du spiller spil</string>
     <string name="gd_setting_dock_game_summary_new">Forbedr skærm og ydeevne, mens du spiller spil</string>
@@ -4175,7 +4169,7 @@ slås fra"</string>
     <string name="privacy_pop_storage">Har fået adgang til lager i dag</string>
     <string name="privacy_prompt_tc_sms_report_message">Dit telefonnummer og info om teleudbyder krypteres og uploades til Mi-servere, for at kunne opdatere dataforbrugs-info.</string>
     <string name="privacy_prompt_upload">Upload</string>
-    <string name="privacy_protect_summary">Beskyt dine personlige oplysninger</string>
+    <string name="privacy_protect_summary">Beskyt private elementer</string>
     <string name="privacy_protect_title">Beskyttelse af personlige oplysninger</string>
     <string name="privacy_provision_back">Bagside</string>
     <string name="privacy_provision_more">Få mere at vide om beskyttelse af privatlivet</string>
@@ -4779,15 +4773,11 @@ Tilbagetræk samtykke nu?"</string>
     <string name="st_antispam_mode_smart_sum">Blokerede numre, som du har tilføjet manuelt, og numre, der er blevet anmeldt af andre brugere</string>
     <string name="st_antispam_title_anoy_incoming">Opkald fra fremmede</string>
     <string name="st_antispam_title_anoy_sms">Beskeder fra fremmede</string>
-    <string name="st_antispam_title_contact_incoming">Opkald fra kontakter</string>
-    <string name="st_antispam_title_contact_sms">Beskeder fra kontakter</string>
-    <string name="st_antispam_title_contactandanoy_group">Indstillinger</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Private numre</string>
     <string name="st_antispam_title_service_sms">Servicenotifikationer</string>
     <string name="st_antispam_title_whitelist">Undtagelser</string>
     <string name="st_call_backsound_group">Blokeringsliste lyde</string>
-    <string name="st_call_intercept_contacts">Blokér opkald fra kontakter</string>
     <string name="st_call_intercept_forwarding">Blokér viderestillede opkald</string>
     <string name="st_call_intercept_oversea">Blokér opkald fra udlandet</string>
     <string name="st_call_intercept_reported">Blokér opkald fra anmeldte numre</string>
@@ -4797,9 +4787,8 @@ Tilbagetræk samtykke nu?"</string>
     <string name="st_call_settings">Blokeringsliste for opkald</string>
     <string name="st_call_stranger_group">Blokér opkald fra fremmede</string>
     <string name="st_confirm_dialog_btn_open">Blokér</string>
-    <string name="st_confirm_dialog_summary_contact_call">Alle opkald fra kontakter vil blive blokeret.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Alle opkald fra ukendte telefonnumre vil blive blokeret.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Alle opkald fra fremmede vil blive blokeret.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">Opkald fra numre, der ikke er på din undtagelsesliste eller i dine kontakter, blokerees. Slå til nu?</string>
     <string name="st_filter_keywords_setting_summary1">Beskeder fra ukendte numre, der indeholder ordene i denne liste, vil blive blokeret.</string>
     <string name="st_filter_keywords_setting_summary2">(Brug et komma til at adskille flere nøgleord)</string>
     <string name="st_filter_keywords_setting_summary3">Beskeder fra ukendte numre, der indeholder ordene i denne liste, vil blive tilladt.</string>
@@ -4811,7 +4800,6 @@ Tilbagetræk samtykke nu?"</string>
     <string name="st_message_SMSpass">Tillad SMS</string>
     <string name="st_message_phone_AntiSpam">Blokér opkald</string>
     <string name="st_message_phonepass">Tillad opkald</string>
-    <string name="st_msg_intercept_contacts">Blokér SMS fra kontakter</string>
     <string name="st_msg_keyword_black">Nøgleord-blokeringsliste</string>
     <string name="st_msg_keyword_group">Nøgleord</string>
     <string name="st_msg_keyword_white">Nøgleord-undtagelser</string>
@@ -4825,11 +4813,11 @@ Tilbagetræk samtykke nu?"</string>
     <string name="st_sub_title_whiteblack_list_group">Blokeringsliste</string>
     <string name="st_sum_call_wait">Din Ikke til stede-besked vil også blive afspillet som et optaget-signal for indkommende opkald.</string>
     <string name="st_summary_blacklist_numbers">Blokér opkald og beskeder fra specifikke numre og områder</string>
-    <string name="st_summary_blacklist_numbers_international">Blokér opkald og beskeder fra specifikke numre</string>
+    <string name="st_summary_blacklist_numbers_international">Bloker opkald baseret på nummer eller præfiks</string>
     <string name="st_summary_keywords_blacklist">Tilføj nøgleord for at blokere beskeder</string>
     <string name="st_summary_special_numbers">Blokér markerede telefonnumre</string>
     <string name="st_summary_whitelist_numbers">Tillad opkald og beskeder fra specifikke numre og områder</string>
-    <string name="st_summary_whitelist_numbers_international">Tillad opkald og beskeder fra specifikke numre</string>
+    <string name="st_summary_whitelist_numbers_international">Tillad opkald baseret på nummer eller præfiks</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Føj til blokeringsliste</string>
@@ -5261,9 +5249,9 @@ Formatering vil slette eksisterende indhold på ^2. For at undgå at miste indho
     <string name="title_app_lock_disable">Lås apps</string>
     <string name="title_app_update">Opdateringer tilgængelig</string>
     <string name="title_auto_update">Opdater automatisk</string>
-    <string name="title_background_connection">Kan ikke bruge %s i baggrunden?</string>
-    <string name="title_block_calls_from_cantacts">Mistede et opkald fra dine kontakter?</string>
-    <string name="title_block_calls_from_strangers">Mister vigtige opkald?</string>
+    <string name="title_background_connection">Kan ikke bruge %s i baggrunden</string>
+    <string name="title_block_calls_from_cantacts">Mistede et opkald fra dine kontakter</string>
+    <string name="title_block_calls_from_strangers">Mister vigtige opkald</string>
     <string name="title_chain_start">Begræns kædestart</string>
     <string name="title_cleaner_cloudscan">Scanning af cloud-papirkurv</string>
     <string name="title_cloud_account">Xiaomi-konto</string>
@@ -5280,8 +5268,8 @@ Formatering vil slette eksisterende indhold på ^2. For at undgå at miste indho
     <string name="title_dev_no">Udviklermuligheder slået til</string>
     <string name="title_dev_yes">Udviklermuligheder slået fra</string>
     <string name="title_device_not_root">Der blev givet rodadgang</string>
-    <string name="title_do_not_disturb">Kan ikke høre din ringetone?</string>
-    <string name="title_eye_shield">Skærmfarve ser ikke rigtig ud?</string>
+    <string name="title_do_not_disturb">Kan ikke høre din ringetone</string>
+    <string name="title_eye_shield">Skærmfarve ser ikke rigtig ud</string>
     <string name="title_find_device">Find enhed</string>
     <string name="title_first_aid_kit">Løs problemer</string>
     <string name="title_flow_notification">Besked om mobildata</string>
@@ -5314,7 +5302,7 @@ Formatering vil slette eksisterende indhold på ^2. For at undgå at miste indho
     <string name="title_power_optimizer">Batteribesparer</string>
     <string name="title_realname_verify">ID-verifikation</string>
     <string name="title_reply">Kommentar</string>
-    <string name="title_restrict_data_usage">%s kan ikke tilslutte til nettet?</string>
+    <string name="title_restrict_data_usage">%s kan ikke tilslutte til nettet</string>
     <string name="title_safe_mode">Aktivér sikker tilstand</string>
     <string name="title_show_notification">Notifikationsskygge-widget</string>
     <string name="title_system_auto_download">Opdateringer vil blive downloadet automatisk</string>

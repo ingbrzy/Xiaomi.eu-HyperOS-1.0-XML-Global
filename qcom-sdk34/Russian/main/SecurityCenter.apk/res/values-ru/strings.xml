@@ -590,7 +590,6 @@
     <string name="apps_list_header_title_sms">Приложение обмена сообщениями</string>
     <string name="apps_list_header_title_sms_access">Доступ к кодам подтверждения</string>
     <string name="ask_create_shortcut">Создать ярлык на рабочем столе?</string>
-    <string name="audio_optimization_summary">Улучшать звук в играх и уменьшать шум при разговорах.</string>
     <string name="audio_optimization_summary_new">Оптимизировать качество звука в наушниках во время игр и уменьшать шум во время вызовов</string>
     <string name="audio_optimization_title">Улучшение звука</string>
     <string name="auto_atsk_condition_battery_level_text_down">Когда батарея разрядится до %s</string>
@@ -1769,7 +1768,6 @@
     <string name="gamebox_brightness">Яркость</string>
     <string name="gamebox_browser_not_find">Установите Mi Браузер</string>
     <string name="gamebox_bullet_chat">Комментарии на экране</string>
-    <string name="gamebox_cellular_network">Оптимизация сотовой сети</string>
     <string name="gamebox_cellular_network_description">Автоматически выбирать наилучший сетевой канал в зависимости от задержки в игре.</string>
     <string name="gamebox_collimator">Прицел</string>
     <string name="gamebox_display_1">Нет</string>
@@ -1995,7 +1993,6 @@ Record sequences and use them anytime!"</string>
     <string name="gb_manual_record_dialog_del_video_message">Удалить выбранные видео навсегда?</string>
     <string name="gb_manual_video_record_title">Записи</string>
     <string name="gb_margin_restrain">Игнорировать случайные нажатия рядом с краями экрана</string>
-    <string name="gb_margin_restrain_description">Ваше устройство станет хуже реагировать на случайные прикосновения рядом с краями.</string>
     <string name="gb_margin_restrain_seekbar">Область случайных нажатий</string>
     <string name="gb_msg_completely_shielded">Скрыть сообщения</string>
     <string name="gb_msg_completely_shielded_summary">Скрыть</string>
@@ -2089,10 +2086,8 @@ Record sequences and use them anytime!"</string>
     <string name="gb_super_finger_up">Быстрый отклик на нажатия</string>
     <string name="gb_super_finger_up_msg">Ускорение отклика на аппаратном уровне</string>
     <string name="gb_super_follow_up">Отслеживание жестов</string>
-    <string name="gb_super_follow_up_msg">Лучшее время отклика на жест в реальном времени</string>
     <string name="gb_super_motion">Улучшенное сенсорное управление</string>
     <string name="gb_super_shake">Алгоритм стабилизации</string>
-    <string name="gb_super_shake_msg">Специальный алгоритм позволяет улучшить отзывчивость на мелкие жесты</string>
     <string name="gb_turbo_collimator_subtitle">Воспользуйтесь устройством для прицеливания</string>
     <string name="gb_turbo_macro_subtitle">Выполнение высококлассных действий</string>
     <string name="gb_turbo_shoulder_subtitle">Настройка элементов управления</string>
@@ -2174,7 +2169,6 @@ Record sequences and use them anytime!"</string>
     <string name="gd_setting_conversation">Инструменты для конференций</string>
     <string name="gd_setting_conversation_desc">Широкий набор функций для использования во время полноэкранных аудио- и видеовызовов.</string>
     <string name="gd_setting_dock_activity_title">Боковые инструменты</string>
-    <string name="gd_setting_dock_call_summary">Функции для голосовых и видеозвонков (например, осветление)</string>
     <string name="gd_setting_dock_call_title">Вызов инструментов</string>
     <string name="gd_setting_dock_game_summary">Улучшите отображение и производительность во время игр</string>
     <string name="gd_setting_dock_game_summary_new">Улучшите отображение и производительность во время игр</string>
@@ -3198,7 +3192,7 @@ to join our egg hunt!"</string>
     <string name="packages_subtitle">Зависимости</string>
     <string name="passwordIncorrect">Неверное имя пользователя или пароль</string>
     <string name="password_forget_pattern_confirm">Понятно</string>
-    <string name="password_forget_pattern_message">По соображениям безопасности вы можете сбросить пароль только после сброса настроек. Нажмите для сброса.</string>
+    <string name="password_forget_pattern_message">По соображениям безопасности вы можете сбросить пароль только после сброса настроек. Нажмите \"Понятно\", чтобы сбросить.</string>
     <string name="password_forget_pattern_message_none">Приложения не защищены. Вы можете сбросить свой пароль.</string>
     <string name="password_forget_pattern_reset">Сбросить</string>
     <string name="password_forget_pattern_title">Внимание!</string>
@@ -3349,7 +3343,7 @@ to join our egg hunt!"</string>
     <string name="pc_is_exiting_super_power">"Выключение
 ультраэкономии энергии"</string>
     <string name="pc_keywords_fast_charge">Быстрая зарядка</string>
-    <string name="pc_keywords_low_power_consumption_save">Экономия</string>
+    <string name="pc_keywords_low_power_consumption_save">Экономия энергии</string>
     <string name="pc_keywords_low_power_mode">Режим пониженного энергопотребления</string>
     <string name="pc_keywords_navigation_discharge">Прекращение зарядки во время навигации</string>
     <string name="pc_keywords_night_mode">Ночной режим</string>
@@ -4175,7 +4169,7 @@ to join our egg hunt!"</string>
     <string name="privacy_pop_storage">Сегодня получало доступ к памяти устройства</string>
     <string name="privacy_prompt_tc_sms_report_message">Ваш номер телефона и данные оператора будут зашифрованы и загружены на серверы Mi для обновления статистики трафика.</string>
     <string name="privacy_prompt_upload">Отправить</string>
-    <string name="privacy_protect_summary">Защитите личные данные</string>
+    <string name="privacy_protect_summary">Защитить конфиденциальные данне</string>
     <string name="privacy_protect_title">Защита конфиденциальности</string>
     <string name="privacy_provision_back">Назад</string>
     <string name="privacy_provision_more">Подробнее о защите конфиденциальности</string>
@@ -4779,15 +4773,11 @@ to join our egg hunt!"</string>
     <string name="st_antispam_mode_smart_sum">Блокировать вызовы и сообщения с номеров из черного списка и отмеченных пользователями.</string>
     <string name="st_antispam_title_anoy_incoming">Вызовы от незнакомых</string>
     <string name="st_antispam_title_anoy_sms">SMS от незнакомых</string>
-    <string name="st_antispam_title_contact_incoming">Вызовы от контактов</string>
-    <string name="st_antispam_title_contact_sms">SMS от контактов</string>
-    <string name="st_antispam_title_contactandanoy_group">Настройки</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Скрытые номера</string>
     <string name="st_antispam_title_service_sms">Сервисные сообщения</string>
     <string name="st_antispam_title_whitelist">Белый список</string>
     <string name="st_call_backsound_group">Сообщение об отсутствии</string>
-    <string name="st_call_intercept_contacts">Блокировать вызовы от контактов</string>
     <string name="st_call_intercept_forwarding">Блокировать переадресованные вызовы</string>
     <string name="st_call_intercept_oversea">Блокировать вызовы из-за границы</string>
     <string name="st_call_intercept_reported">Блокировать вызовы с отмеченных номеров</string>
@@ -4797,9 +4787,8 @@ to join our egg hunt!"</string>
     <string name="st_call_settings">Блокировка вызовов</string>
     <string name="st_call_stranger_group">Вызовы от незнакомых</string>
     <string name="st_confirm_dialog_btn_open">Заблокировать</string>
-    <string name="st_confirm_dialog_summary_contact_call">Все вызовы от контактов будут заблокированы.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Все вызовы с иностранных номеров будут заблокированы.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Все вызовы от незнакомых будут заблокированы.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">Вызовы с любого номера, который не входит в ваши исключения или контакты, будут заблокированы. Включить?</string>
     <string name="st_filter_keywords_setting_summary1">Сообщения с неизвестных номеров, содержащие ключевые слова, будут заблокированы.</string>
     <string name="st_filter_keywords_setting_summary2">(Вы можете добавить несколько слов через запятую)</string>
     <string name="st_filter_keywords_setting_summary3">Сообщения с неизвестных номеров, содержащие ключевые слова, будут разрешены.</string>
@@ -4811,7 +4800,6 @@ to join our egg hunt!"</string>
     <string name="st_message_SMSpass">Разрешить SMS</string>
     <string name="st_message_phone_AntiSpam">Блокировать вызовы</string>
     <string name="st_message_phonepass">Разрешить вызовы</string>
-    <string name="st_msg_intercept_contacts">Блокировать SMS от контактов</string>
     <string name="st_msg_keyword_black">Черный список</string>
     <string name="st_msg_keyword_group">Ключевые слова</string>
     <string name="st_msg_keyword_white">Белый список</string>
@@ -4825,11 +4813,11 @@ to join our egg hunt!"</string>
     <string name="st_sub_title_whiteblack_list_group">Списки блокировки</string>
     <string name="st_sum_call_wait">Сообщение об отсутствии также будет воспроизводиться как сигнал \"Занято\"</string>
     <string name="st_summary_blacklist_numbers">Блокировать вызовы и сообщения с определенных номеров и регионов.</string>
-    <string name="st_summary_blacklist_numbers_international">Блокировать вызовы и сообщения с определенных номеров.</string>
+    <string name="st_summary_blacklist_numbers_international">Блокировать вызовы с учетом номера или префикса</string>
     <string name="st_summary_keywords_blacklist">Блокировать сообщения, содержащие указанные ключевые слова</string>
     <string name="st_summary_special_numbers">Блокировать отмеченные номера</string>
     <string name="st_summary_whitelist_numbers">Разрешать вызовы и сообщения только с определенных номеров и регионов</string>
-    <string name="st_summary_whitelist_numbers_international">Разрешать вызовы и сообщения только с определенных номеров</string>
+    <string name="st_summary_whitelist_numbers_international">Разрешить вызовы с учетом номера или префикса</string>
     <string name="st_tab_title">%1$s (SIM%2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">В черный список</string>
@@ -5261,9 +5249,9 @@ to join our egg hunt!"</string>
     <string name="title_app_lock_disable">Защита приложений</string>
     <string name="title_app_update">Доступны обновления</string>
     <string name="title_auto_update">Обновлять автоматически</string>
-    <string name="title_background_connection">%s не работает в фоновом режиме?</string>
-    <string name="title_block_calls_from_cantacts">Пропускаете звонки от контактов?</string>
-    <string name="title_block_calls_from_strangers">Пропускаете важные звонки?</string>
+    <string name="title_background_connection">%s не работает в фоновом режиме</string>
+    <string name="title_block_calls_from_cantacts">Пропускаете звонки от контактов</string>
+    <string name="title_block_calls_from_strangers">Пропускаете важные звонки</string>
     <string name="title_chain_start">Взаимный запуск ограничен</string>
     <string name="title_cleaner_cloudscan">Облачная проверка мусора</string>
     <string name="title_cloud_account">Аккаунт Xiaomi</string>
@@ -5280,8 +5268,8 @@ to join our egg hunt!"</string>
     <string name="title_dev_no">Режим разработчика включен</string>
     <string name="title_dev_yes">Режим разработчика отключен</string>
     <string name="title_device_not_root">ROOT доступ не разрешен</string>
-    <string name="title_do_not_disturb">Не слышите звонков?</string>
-    <string name="title_eye_shield">Цвета на экране выглядят неправильно?</string>
+    <string name="title_do_not_disturb">Не слышите звонков</string>
+    <string name="title_eye_shield">Цвета на экране выглядят неправильно</string>
     <string name="title_find_device">Поиск устройства</string>
     <string name="title_first_aid_kit">Решение проблем</string>
     <string name="title_flow_notification">Уведомления о трафике</string>
@@ -5314,7 +5302,7 @@ to join our egg hunt!"</string>
     <string name="title_power_optimizer">Экономия энергии</string>
     <string name="title_realname_verify">Проверка ID</string>
     <string name="title_reply">Отзыв</string>
-    <string name="title_restrict_data_usage">%s не может подключиться к интернету?</string>
+    <string name="title_restrict_data_usage">%s не может подключиться к интернету</string>
     <string name="title_safe_mode">Включить безопасный режим</string>
     <string name="title_show_notification">Виджет в шторке уведомлений</string>
     <string name="title_system_auto_download">Автозагрузка обновлений включена</string>

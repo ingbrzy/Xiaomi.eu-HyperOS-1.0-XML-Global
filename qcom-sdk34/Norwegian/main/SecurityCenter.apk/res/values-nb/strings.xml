@@ -590,7 +590,6 @@ Du mister ikke noe appdata."</string>
     <string name="apps_list_header_title_sms">Sjekk meldingsapp</string>
     <string name="apps_list_header_title_sms_access">Begrens tilgang til bekreftelseskoder</string>
     <string name="ask_create_shortcut">Lage en snarvei til Hjem-skjerm?</string>
-    <string name="audio_optimization_summary">Forbedre lyden og reduser bakgrunnsstøy under samtaler</string>
     <string name="audio_optimization_summary_new">Optimaliser hodetelefonenes lydkvalitet mens du spiller, og reduser støy under samtaler</string>
     <string name="audio_optimization_title">Forbedret lyd</string>
     <string name="auto_atsk_condition_battery_level_text_down">Når batteriet når %s</string>
@@ -1769,7 +1768,6 @@ Det blir lagt til unntak, men elementer som allerede er blitt blokkert vises ikk
     <string name="gamebox_brightness">Lysstyrke</string>
     <string name="gamebox_browser_not_find">Installer Mi Nettleser først</string>
     <string name="gamebox_bullet_chat">Kommentarer på skjermen</string>
-    <string name="gamebox_cellular_network">Optimaliser mobilnettverk</string>
     <string name="gamebox_cellular_network_description">Velg automatisk den beste nettverksbanen basert på spillatens</string>
     <string name="gamebox_collimator">Sikte</string>
     <string name="gamebox_display_1">Ingen</string>
@@ -1995,7 +1993,6 @@ Record sequences and use them anytime!"</string>
     <string name="gb_manual_record_dialog_del_video_message">Slette valgte videoer permanent?</string>
     <string name="gb_manual_video_record_title">Opptak</string>
     <string name="gb_margin_restrain">Ignorer utilsiktet berøring i kantene</string>
-    <string name="gb_margin_restrain_description">Enheten vil respondere mindre på utilsiktet berøring i områdene nær kantene</string>
     <string name="gb_margin_restrain_seekbar">Utilsiktet berøringsområde</string>
     <string name="gb_msg_completely_shielded">Skjul meldinger</string>
     <string name="gb_msg_completely_shielded_summary">Skjul</string>
@@ -2089,10 +2086,8 @@ men øker også strømforbruket og kan føre til at enheten overopphetes"</strin
     <string name="gb_super_finger_up">Respons ved hurtigtrykk</string>
     <string name="gb_super_finger_up_msg">Gjør trykkresponsen raskere på maskinvarenivå</string>
     <string name="gb_super_follow_up">Bevegelsessporing</string>
-    <string name="gb_super_follow_up_msg">Bedre sanntidsrespons gjennom hele bevegelsen</string>
     <string name="gb_super_motion">Forbedrede berøringskontroller</string>
     <string name="gb_super_shake">Stabiliseringsalgoritme</string>
-    <string name="gb_super_shake_msg">Gjør mindre bevegelser mer responsive ved hjelp av den dedikerte algoritmen</string>
     <string name="gb_turbo_collimator_subtitle">Bruk enhet for sikting</string>
     <string name="gb_turbo_macro_subtitle">Utfør handlinger på høyt nivå</string>
     <string name="gb_turbo_shoulder_subtitle">Konfigurer spillkontroller</string>
@@ -2174,7 +2169,6 @@ i spilløktene dine"</string>
     <string name="gd_setting_conversation">Konferanseverktøy</string>
     <string name="gd_setting_conversation_desc">Har flere funksjoner til bruk med lyd- og videoanrop i fullskjerm</string>
     <string name="gd_setting_dock_activity_title">Sideverktøykasse</string>
-    <string name="gd_setting_dock_call_summary">Funksjoner for tale- og videosamtaler (f.eks. fyllys)</string>
     <string name="gd_setting_dock_call_title">Anropsverktøykasse</string>
     <string name="gd_setting_dock_game_summary">Forbedre skjerm og ytelse når du spiller spill</string>
     <string name="gd_setting_dock_game_summary_new">Forbedre skjerm og ytelse når du spiller spill</string>
@@ -3267,7 +3261,7 @@ Prøv å bruke en annen ethernet-kabel for å koble til ruteren din. Hvis du mis
     <string name="pc_charge_protection_wireless_charge">Trådløs lading</string>
     <string name="pc_charge_protection_wireless_charge_mode">Trådløs lademodus</string>
     <string name="pc_charge_protection_wireless_reverse_charge">Omvendt trådløs lading</string>
-    <string name="pc_charge_protection_wireless_reverse_charge_limit_desc">Deaktiver reversert trådløs lading når denne enhetens batterinivå er lavere enn %1$s</string>
+    <string name="pc_charge_protection_wireless_reverse_charge_limit_desc">Deaktiver omvendt trådløs lading når denne enhetens batterinivå er lavere enn %1$s</string>
     <string name="pc_charge_protection_wireless_reverse_charge_limit_title">Ladegrense</string>
     <string name="pc_charge_wireless_charge_mode_silence_title">Stillemodustid</string>
     <string name="pc_charge_wireless_charge_select_silence">Stille</string>
@@ -4175,7 +4169,7 @@ Ultrabatterisparer"</string>
     <string name="privacy_pop_storage">Fikk tilgang til lagring i dag</string>
     <string name="privacy_prompt_tc_sms_report_message">Telefonnummeret ditt vil krypteres, og detaljer som leverandøren vil krypteres og lastes opp til Mis servere for å oppdatere databruksinformasjonen din.</string>
     <string name="privacy_prompt_upload">Last opp</string>
-    <string name="privacy_protect_summary">Beskytt den personlige informasjonen din</string>
+    <string name="privacy_protect_summary">Beskytt private elementer</string>
     <string name="privacy_protect_title">Personvernbeskyttelse</string>
     <string name="privacy_provision_back">Tilbake</string>
     <string name="privacy_provision_more">Finn ut mer om personvern</string>
@@ -4779,15 +4773,11 @@ Trekke tilbake samtykket nå?"</string>
     <string name="st_antispam_mode_smart_sum">Blokker numre du har lagt til manuelt, og numre som har blitt rapportert av andre brukere</string>
     <string name="st_antispam_title_anoy_incoming">Anrop fra fremmede</string>
     <string name="st_antispam_title_anoy_sms">Meldinger fra fremmede</string>
-    <string name="st_antispam_title_contact_incoming">Anrop fra kontakter</string>
-    <string name="st_antispam_title_contact_sms">Meldinger fra kontakter</string>
-    <string name="st_antispam_title_contactandanoy_group">Innstillinger</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Private numre</string>
     <string name="st_antispam_title_service_sms">Tjenestevarsler</string>
     <string name="st_antispam_title_whitelist">Unntak</string>
     <string name="st_call_backsound_group">Blokkeringsliste-lyd</string>
-    <string name="st_call_intercept_contacts">Blokker anrop fra kontakter</string>
     <string name="st_call_intercept_forwarding">Blokker videresendte anrop</string>
     <string name="st_call_intercept_oversea">Blokker anrop fra utlandet</string>
     <string name="st_call_intercept_reported">Blokker anrop fra rapporterte numre</string>
@@ -4797,9 +4787,8 @@ Trekke tilbake samtykket nå?"</string>
     <string name="st_call_settings">Anrop-blokkeringsliste</string>
     <string name="st_call_stranger_group">Blokker anrop fra fremmede</string>
     <string name="st_confirm_dialog_btn_open">Blokkér</string>
-    <string name="st_confirm_dialog_summary_contact_call">Alle anrop fra kontakter blir blokkert.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Alle samtaler fra utenlandske telefonnummer vil bli blokkert.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Alle anrop fra fremmede blir blokkert.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">Anrop fra numre som ikke finnes på unntakslisten eller i kontaktene dine, blokkeres. Aktivere nå?</string>
     <string name="st_filter_keywords_setting_summary1">Meldinger fra ukjente numre som inneholder ordene på denne listen blir blokkert.</string>
     <string name="st_filter_keywords_setting_summary2">(Bruk komme for å skille flere nøkkelord)</string>
     <string name="st_filter_keywords_setting_summary3">Meldinger fra ukjente numre som inneholder ordene på denne listen blir tillatt.</string>
@@ -4811,7 +4800,6 @@ Trekke tilbake samtykket nå?"</string>
     <string name="st_message_SMSpass">Tillat SMS</string>
     <string name="st_message_phone_AntiSpam">Blokker anrop</string>
     <string name="st_message_phonepass">Tillat anrop</string>
-    <string name="st_msg_intercept_contacts">Blokker SMS fra kontakter</string>
     <string name="st_msg_keyword_black">Nøkkelord-blokkeringsliste</string>
     <string name="st_msg_keyword_group">Nøkkelord</string>
     <string name="st_msg_keyword_white">Nøkkelord-unntak</string>
@@ -4825,11 +4813,11 @@ Trekke tilbake samtykket nå?"</string>
     <string name="st_sub_title_whiteblack_list_group">Blokkeringsliste</string>
     <string name="st_sum_call_wait">Fraværsmeldingen din spilles også som opptattsignal for innkommende anrop.</string>
     <string name="st_summary_blacklist_numbers">Blokker anrop og meldinger fra spesifikke numre og områder</string>
-    <string name="st_summary_blacklist_numbers_international">Blokker anrop og meldinger fra spesifikke numre</string>
+    <string name="st_summary_blacklist_numbers_international">Blokker anrop basert på nummer eller retningsnummer</string>
     <string name="st_summary_keywords_blacklist">Legg til nøkkelord for å blokkere meldinger</string>
     <string name="st_summary_special_numbers">Blokker numre som er blitt flagget</string>
     <string name="st_summary_whitelist_numbers">Tillat anrop og meldinger fra spesifikke numre og områder</string>
-    <string name="st_summary_whitelist_numbers_international">Tillat anrop og meldinger fra spesifikke numre</string>
+    <string name="st_summary_whitelist_numbers_international">Tillat anrop basert på nummer eller retningsnummer</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Legg til blokkeringsliste</string>
@@ -5261,9 +5249,9 @@ Formatering vil slette alt eksisterende innhold på ^2. For å unngå å miste i
     <string name="title_app_lock_disable">Lås apper</string>
     <string name="title_app_update">Oppdateringer tilgjengelig</string>
     <string name="title_auto_update">Oppdater automatisk</string>
-    <string name="title_background_connection">Kan ikke bruke %s i bakgrunnen?</string>
-    <string name="title_block_calls_from_cantacts">Unngå anrop fra kontakter?</string>
-    <string name="title_block_calls_from_strangers">Unngå viktige anrop?</string>
+    <string name="title_background_connection">Kan ikke bruke %s i bakgrunnen</string>
+    <string name="title_block_calls_from_cantacts">Unngå anrop fra kontakter</string>
+    <string name="title_block_calls_from_strangers">Unngå viktige anrop</string>
     <string name="title_chain_start">Begrens kjedestart</string>
     <string name="title_cleaner_cloudscan">Cloud søppel-skanning</string>
     <string name="title_cloud_account">Mi-konto</string>
@@ -5280,8 +5268,8 @@ Formatering vil slette alt eksisterende innhold på ^2. For å unngå å miste i
     <string name="title_dev_no">Utvikleralternativer er slått på</string>
     <string name="title_dev_yes">Utvikleralternativer av</string>
     <string name="title_device_not_root">Rottilgang ble ikke gitt</string>
-    <string name="title_do_not_disturb">Hører du ikke ringetonen din?</string>
-    <string name="title_eye_shield">Ser ikke skjermfargen riktig ut?</string>
+    <string name="title_do_not_disturb">Hører du ikke ringetonen din</string>
+    <string name="title_eye_shield">Ser ikke skjermfargen riktig ut</string>
     <string name="title_find_device">Finn enhet</string>
     <string name="title_first_aid_kit">Løs problemer</string>
     <string name="title_flow_notification">Mobildatavarsling</string>
@@ -5314,7 +5302,7 @@ Formatering vil slette alt eksisterende innhold på ^2. For å unngå å miste i
     <string name="title_power_optimizer">Batterisparer</string>
     <string name="title_realname_verify">ID-bekreftelse</string>
     <string name="title_reply">Kommenter</string>
-    <string name="title_restrict_data_usage">%s kan ikke koble til Internett?</string>
+    <string name="title_restrict_data_usage">%s kan ikke koble til Internett</string>
     <string name="title_safe_mode">Aktiver sikker modus</string>
     <string name="title_show_notification">Meldingsskygge-widget</string>
     <string name="title_system_auto_download">Oppdateringer lastes ned automatisk</string>

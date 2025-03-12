@@ -590,7 +590,6 @@
     <string name="apps_list_header_title_sms">التحقق من تطبيق الرسائل</string>
     <string name="apps_list_header_title_sms_access">تقييد الوصول إلى رموز التحقق</string>
     <string name="ask_create_shortcut">إنشاء اختصار في الشاشة الرئيسية؟</string>
-    <string name="audio_optimization_summary">تحسين الصوت وتقليل الضوضاء في المكالمات</string>
     <string name="audio_optimization_summary_new">تحسين جودة صوت سماعات الأذن وتقليل الضوضاء أثناء المكالمات</string>
     <string name="audio_optimization_title">محسن الصوت</string>
     <string name="auto_atsk_condition_battery_level_text_down">عند وصول البطارية إلى %s</string>
@@ -1183,6 +1182,7 @@
     <string name="cs_voice_search">بصمة الصوت</string>
     <string name="cs_vt_camera_toast_case1">افتح الكاميرا في التطبيق الحالي</string>
     <string name="cs_vt_camera_toast_case2">لا توجد أجهزة متوافقة قريبة</string>
+    <string name="cta_HIPS_Perm_Location_Desc">لتوفير الميزات ذات الصلة بموقعك في مركز التحذير و طوارئ SOS وموفر بطارية التطبيق والماسح الضوئي لأمان الدفع وخدمة الموقع التقريبي</string>
     <string name="cta_agree_desc">لاستخدام خدماتنا، اسمح للتطبيق بالاتصال بالإنترنت ومنح الأذونات أعلاه.</string>
     <string name="cta_close_dialog_cancel">إلغاء</string>
     <string name="cta_close_dialog_content">إذا قمت بتقييد وصول تطبيق \"الحماية\" إلى الإنترنت و معلومات موقعك، فلن تتمكن من تلقي تحذيرات الزلازل، وتحديث تعريفات الفيروسات، ومعلومات قائمة الحظر. سيصبح جهازك أقل أمانًا. تقييد على أي حال؟</string>
@@ -1415,6 +1415,7 @@
     <string name="error_icon_content_description">خطأ</string>
     <string name="evening">عصر</string>
     <string name="every_day">كل يوم</string>
+    <string name="ew_monitor_summary1">استخدم جهازك لرصد الزلازل.</string>
     <string name="examination_score_100">يبدو كل شيء جيداً!</string>
     <string name="examination_score_60_0">افحص الآن</string>
     <string name="examination_score_80_100">يمكن تحسين بعض العناصر</string>
@@ -1769,7 +1770,6 @@
     <string name="gamebox_brightness">السطوع</string>
     <string name="gamebox_browser_not_find">قم بتثبيت متصفح Mi أولاً</string>
     <string name="gamebox_bullet_chat">تعليقات على الشاشة</string>
-    <string name="gamebox_cellular_network">تحسين الشبكة الخلوية</string>
     <string name="gamebox_cellular_network_description">تحديد مسار الشبكة الأفضل تلقائيًا بناءً على زمن استجابة اللعبة</string>
     <string name="gamebox_collimator">سكوب</string>
     <string name="gamebox_display_1">بدون</string>
@@ -1839,7 +1839,7 @@
     <string name="gb_adv_touch_custom_title">تخصيص</string>
     <string name="gb_adv_touch_mode_pro_tips">* هذا الوضع مخصص للاعبين المحترفين. قد لا يكون هذا الوضع مناسب للاعبين العاديين.</string>
     <string name="gb_adv_touch_mode_select_title">الإيماءات</string>
-    <string name="gb_adv_touch_pro_title">وضع برو</string>
+    <string name="gb_adv_touch_pro_title">الوضع الاحترافي</string>
     <string name="gb_advance_settings_edge_gear1">لا شيء</string>
     <string name="gb_advance_settings_edge_gear2">صغير</string>
     <string name="gb_advance_settings_edge_gear3">متوسط</string>
@@ -1995,7 +1995,6 @@ Record sequences and use them anytime!"</string>
     <string name="gb_manual_record_dialog_del_video_message">حذف الفيديوهات المحددة بشكل دائم؟</string>
     <string name="gb_manual_video_record_title">التسجيلات</string>
     <string name="gb_margin_restrain">تجاهل اللمس العرضي على الحواف</string>
-    <string name="gb_margin_restrain_description">تقليل احتمالية استجابة الجهاز عند لمس حافة الجهاز عن طريق الخطأ</string>
     <string name="gb_margin_restrain_seekbar">مناطق اللمس العرضي</string>
     <string name="gb_msg_completely_shielded">إخفاء الرسائل</string>
     <string name="gb_msg_completely_shielded_summary">مخفي</string>
@@ -2089,10 +2088,8 @@ Record sequences and use them anytime!"</string>
     <string name="gb_super_finger_up">استجابة سريعة للنقر</string>
     <string name="gb_super_finger_up_msg">تسريع استجابة النقر على مستوى الأجهزة</string>
     <string name="gb_super_follow_up">تتبع الإيماءة</string>
-    <string name="gb_super_follow_up_msg">احصل على استجابة أفضل في الوقت الحقيقي طوال الإيماءة بأكملها</string>
     <string name="gb_super_motion">تحسين عناصر التحكم باللمس</string>
     <string name="gb_super_shake">خوارزمية الاستقرار</string>
-    <string name="gb_super_shake_msg">اجعل الإيماءات الصغيرة أكثر استجابة باستخدام الخوارزمية المخصصة</string>
     <string name="gb_turbo_collimator_subtitle">استخدام جهاز التصويب</string>
     <string name="gb_turbo_macro_subtitle">تنفيذ إجراءات عالية المستوى</string>
     <string name="gb_turbo_shoulder_subtitle">إعدادات تحكم اللعبة</string>
@@ -2174,7 +2171,6 @@ Record sequences and use them anytime!"</string>
     <string name="gd_setting_conversation">أدوات الاجتماع</string>
     <string name="gd_setting_conversation_desc">مجموعة كبيرة من الميزات للاستخدام أثناء مكالمات الصوت والفيديو في وضع ملء الشاشة.</string>
     <string name="gd_setting_dock_activity_title">صندوق أدوات جانبي</string>
-    <string name="gd_setting_dock_call_summary">ميزات للمكالمات الصوتية ومكالمات الفيديو (مثل ملء الضوء)</string>
     <string name="gd_setting_dock_call_title">صندوق أدوات الاتصال</string>
     <string name="gd_setting_dock_game_summary">تحسين العرض والأداء أثناء اللعب</string>
     <string name="gd_setting_dock_game_summary_new">تحسين العرض والأداء أثناء اللعب</string>
@@ -4092,7 +4088,7 @@ to join our egg hunt!"</string>
     <string name="privacy_dialog_camera_title">تقييد استخدام الكاميرا في الخلفية</string>
     <string name="privacy_dialog_content_part1">مرحبًا بك في الحماية! يمكن لهذا التطبيق فحص جهازك للبحث عن فيروسات وتنظيف مجلد المهملات وإدارة التطبيقات واستخدام بيانات الهاتف وحظر المكالمات والرسائل واكثر من ذلك.</string>
     <string name="privacy_dialog_content_part2"><Data> يحتاج تطبيق الحماية إلى جمع البيانات الشخصية الضرورية لتزويدك بخدماته وتحسين ميزاته. يمكنك التعرف على كيفية تعاملنا مع البيانات التي نجمعها في &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a>. يمكنك سحب الموافقة على سياسة خصوصية الحماية في أي وقت من الإعدادات.</Data></string>
-    <string name="privacy_dialog_content_part3">&lt;Data>يجب أن تقرأ وتوافق على &lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> قبل استخدام الحماية. أذا كنت لا توافق على الخدمات المذكورة أعلاه. فلن تعمل بعض الميزات بشكل صحيح ولكنها لن تؤثر على استخدامك للوظائف الأساسية لهذا التطبيق.&lt;/Data></string>
+    <string name="privacy_dialog_content_part3"><Data>يجب أن تقرأ وتوافق على &lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> قبل استخدام الحماية. أذا كنت لا توافق على الخدمات المذكورة أعلاه. فلن تعمل بعض الميزات بشكل صحيح ولكنها لن تؤثر على استخدامك للوظائف الأساسية لهذا التطبيق.</Data></string>
     <string name="privacy_dialog_danger_mission_message">يحتوي Android على العديد من الأذونات عالية المخاطر (مثل الاذونات التي تسمح بإرسال إشعارات الدفع) التي قد تؤثر على خصوصيتك. ولذلك يوفر لك النظام خيار السماح او تقييد مثل هذه السلوكيات.</string>
     <string name="privacy_dialog_danger_mission_title">أذونات عالية المخاطر</string>
     <string name="privacy_dialog_feedback">التعليقات</string>
@@ -4175,7 +4171,7 @@ to join our egg hunt!"</string>
     <string name="privacy_pop_storage">وصل إلى التخزين اليوم</string>
     <string name="privacy_prompt_tc_sms_report_message">سيتم تشفير رقم هاتفك وتفاصيل شركة الاتصالات الخاصة بك و رفعها الى خوادم Mi لتحديث معلومات استخدام البيانات الخاصة بك.</string>
     <string name="privacy_prompt_upload">تحميل</string>
-    <string name="privacy_protect_summary">احمي معلوماتك الشخصية</string>
+    <string name="privacy_protect_summary">حماية العناصر الخاصة</string>
     <string name="privacy_protect_title">حماية الخصوصية</string>
     <string name="privacy_provision_back">رجوع</string>
     <string name="privacy_provision_more">المزيد عن حماية الخصوصية</string>
@@ -4779,15 +4775,11 @@ to join our egg hunt!"</string>
     <string name="st_antispam_mode_smart_sum">حظر الأرقام التي أضفتها يدوياً والأرقام التي تم الإبلاغ عنها من قبل مستخدمين آخرين</string>
     <string name="st_antispam_title_anoy_incoming">المكالمات من الغرباء</string>
     <string name="st_antispam_title_anoy_sms">الرسائل من الغرباء</string>
-    <string name="st_antispam_title_contact_incoming">المكالمات من جهات الاتصال</string>
-    <string name="st_antispam_title_contact_sms">الرسائل من جهات الاتصال</string>
-    <string name="st_antispam_title_contactandanoy_group">الاعدادت</string>
     <string name="st_antispam_title_mms">رسائل وسائط متعددة (MMS)</string>
     <string name="st_antispam_title_null_incoming">الأرقام الخاصة</string>
     <string name="st_antispam_title_service_sms">إشعارات الخدمة</string>
     <string name="st_antispam_title_whitelist">الاستثناءات</string>
     <string name="st_call_backsound_group">صوت قائمة الحظر</string>
-    <string name="st_call_intercept_contacts">حظر المكالمات من جهات الإتصال</string>
     <string name="st_call_intercept_forwarding">حظر المكالمات المعاد توجيهها</string>
     <string name="st_call_intercept_oversea">حظر المكالمات من الخارج</string>
     <string name="st_call_intercept_reported">حظر المكالمات الواردة من الأرقام المبلغ عنها</string>
@@ -4797,9 +4789,8 @@ to join our egg hunt!"</string>
     <string name="st_call_settings">قائمة حظر المكالمات</string>
     <string name="st_call_stranger_group">حظر المكالمات من الغرباء</string>
     <string name="st_confirm_dialog_btn_open">حظر</string>
-    <string name="st_confirm_dialog_summary_contact_call">سيتم حظر جميع المكالمات من جهات الإتصال.</string>
     <string name="st_confirm_dialog_summary_oversea_call">سيتم حظر جميع المكالمات من أرقام الهواتف غير محلية.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">سيتم حظر جميع المكالمات من الغرياء.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">سيتم حظر جميع أرقام المكالمات الغير موجودة في الاستثناءات أو جهات الاتصال الخاصة بك. هل ترغب في تشغيل ذلك الآن؟</string>
     <string name="st_filter_keywords_setting_summary1">سيتم حظر الرسائل الواردة من الأرقام المجهولة التي تحتوي على الكلمات الموجودة في هذه القائمة.</string>
     <string name="st_filter_keywords_setting_summary2">(استخدام فاصلة لفصل الكلمات المفتاحية المتعددة)</string>
     <string name="st_filter_keywords_setting_summary3">سيتم سيتم السماح بالرسائل الواردة من الأرقام المجهولة التي تحتوي على الكلمات الموجودة في هذه القائمة.</string>
@@ -4811,7 +4802,6 @@ to join our egg hunt!"</string>
     <string name="st_message_SMSpass">السماح SMS</string>
     <string name="st_message_phone_AntiSpam">حظر المكالمات</string>
     <string name="st_message_phonepass">السماح بالمكالمات</string>
-    <string name="st_msg_intercept_contacts">حظر الرسائل من جهات الإتصال</string>
     <string name="st_msg_keyword_black">قائمة حظر الكلمات المفتاحية</string>
     <string name="st_msg_keyword_group">الكلمات المفتاحية</string>
     <string name="st_msg_keyword_white">إستثناءات الكلمات المفتاحية</string>
@@ -4825,11 +4815,11 @@ to join our egg hunt!"</string>
     <string name="st_sub_title_whiteblack_list_group">قائمة الحظر</string>
     <string name="st_sum_call_wait">سيتم عرض رسائل الغياب أيضًا كإشارة مشغول للمكالمات الواردة.</string>
     <string name="st_summary_blacklist_numbers">حظر المكالمات والرسائل من أرقام ومناطق محددة</string>
-    <string name="st_summary_blacklist_numbers_international">حظر المكالمات والرسائل من أرقام محددة</string>
+    <string name="st_summary_blacklist_numbers_international">حظر المكالمات بناءً على الرقم أو البادئة</string>
     <string name="st_summary_keywords_blacklist">إضافة كلمات مفتاحية لحظر الرسائل</string>
     <string name="st_summary_special_numbers">حظر ارقام الهاتف التي تم الابلاغ عنها</string>
     <string name="st_summary_whitelist_numbers">السماح للمكالمات والرسائل من أرقام ومناطق محددة</string>
-    <string name="st_summary_whitelist_numbers_international">السماح للمكالمات والرسائل من أرقام محددة</string>
+    <string name="st_summary_whitelist_numbers_international">السماح بالمكالمات بناءً على الرقم أو البادئة</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">إضافة إلى قائمة الحظر</string>
@@ -5101,11 +5091,11 @@ to join our egg hunt!"</string>
     <string name="system_permission_declare_agree">أوافق</string>
     <string name="system_permission_declare_analytics_declare">يسعدنا دعوتك للمشاركة في برنامج تجربة المستخدم لدينا. يحتاج هذا التطبيق إلى الاتصال بالإنترنت ومنحه الأذونات أو الوظائف التالية حتى نتمكن من تحسين الخدمات التي نقدمها لك. يتم جمع هذه البيانات لأغراض إحصائية فقط. ولن نتمكن من استخدام هذه البيانات لتحديد هويتك الشخصية.</string>
     <string name="system_permission_declare_disagree">غير موافق</string>
-    <string name="system_permission_declare_double_link"><Data>يرجى قراءة والموافقة على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> قبل المتابعة.</Data></string>
+    <string name="system_permission_declare_double_link"><Data>يرجى القراءة والموافقة على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> قبل المتابعة.</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">مرحبا بك في %1s! يسمح لك هذا التطبيق بإستخدام الميزات التالية: %2s.</string>
     <string name="system_permission_declare_meanwhile_double_link"><Data>يرجى قراءة والموافقة على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> قبل المتابعة.</Data></string>
     <string name="system_permission_declare_meanwhile_privacy_policy"><Data>يرجى قراءة والموافقة على &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> قبل المتابعة.</Data></string>
-    <string name="system_permission_declare_meanwhile_user_agreement"><Data>يرجى قراءة والموافقة على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> قبل المتابعة.</Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>يرجى القراءة والموافقة على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> قبل المتابعة.</Data></string>
     <string name="system_permission_declare_no_say_no">إذا قررت عدم منح الأذونات اللازمة أو عدم السماح لنا بجمع بياناتك واستخدامها، فلن يعمل هذا التطبيق بشكل صحيح.</string>
     <string name="system_permission_declare_no_say_no_analytics">إذا كنت لا ترغب في منح هذه الأذونات، فيمكنك إلغاء التسجيل من الإعدادات > الإعدادات الإضافية > الخصوصية > برنامج تجربة المستخدم.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">إذا قررت عدم منح الأذونات اللازمة أو عدم السماح لنا بجمع بياناتك واستخدامها، فلن يعمل هذا التطبيق بشكل صحيح.</string>
@@ -5119,7 +5109,7 @@ to join our egg hunt!"</string>
     <string name="system_permission_declare_title">تنبيه</string>
     <string name="system_permission_declare_use_network">الإتصال بالشبكة</string>
     <string name="system_permission_declare_use_network_no_permission">الإتصال بالشبكة</string>
-    <string name="system_permission_declare_user_agreement"><Data>يرجى قراءة والموافقة على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> قبل المتابعة.</Data></string>
+    <string name="system_permission_declare_user_agreement"><Data>يرجى القراءة والموافقة على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> قبل المتابعة.</Data></string>
     <string name="system_permission_perm_answer_call">إجراء مكالمات</string>
     <string name="system_permission_perm_optional">" (اختياري)"</string>
     <string name="system_permission_perm_read_mms">قراءة رسائل وسائط متعددة</string>
@@ -5263,9 +5253,9 @@ to join our egg hunt!"</string>
     <string name="title_app_lock_disable">قفل التطبيقات</string>
     <string name="title_app_update">التحديثات المتاحة</string>
     <string name="title_auto_update">التحديث تلقائياً</string>
-    <string name="title_background_connection">لا يمكن استخدام %s في الخلفية؟</string>
-    <string name="title_block_calls_from_cantacts">لا يمكنك الرد على مكالمات من جهات اتصالك؟</string>
-    <string name="title_block_calls_from_strangers">لا يمكنك الرد على المكالمات المهمة؟</string>
+    <string name="title_background_connection">لا يمكن استخدام %s في الخلفية</string>
+    <string name="title_block_calls_from_cantacts">المكالمات الفائتة من جهات اتصالك</string>
+    <string name="title_block_calls_from_strangers">تفوت المكالمات المهمة</string>
     <string name="title_chain_start">تقييد بدء السلسلة</string>
     <string name="title_cleaner_cloudscan">فحص مهملات Cloud</string>
     <string name="title_cloud_account">حساب Mi</string>
@@ -5282,8 +5272,8 @@ to join our egg hunt!"</string>
     <string name="title_dev_no">تشغيل خيارات المطور</string>
     <string name="title_dev_yes">إيقاف خيارات المطور</string>
     <string name="title_device_not_root">لم يتم السماح بالوصول للجذر</string>
-    <string name="title_do_not_disturb">لا يمكن سماع نغمة الرنين؟</string>
-    <string name="title_eye_shield">لا تبدو الوان الشاشة صحيحة؟</string>
+    <string name="title_do_not_disturb">لا يمكن سماع نغمة الرنين</string>
+    <string name="title_eye_shield">لا تبدو الوان الشاشة صحيحة</string>
     <string name="title_find_device">العثور على الجهاز</string>
     <string name="title_first_aid_kit">حل المشاكل</string>
     <string name="title_flow_notification">إشعار بيانات الهاتف الهاتف</string>
@@ -5316,7 +5306,7 @@ to join our egg hunt!"</string>
     <string name="title_power_optimizer">موفر البطارية</string>
     <string name="title_realname_verify">التحقق من الهوية</string>
     <string name="title_reply">تعليق</string>
-    <string name="title_restrict_data_usage">لا يمكن لتطبيق %s الإتصال بالإنترنت؟</string>
+    <string name="title_restrict_data_usage">لا يمكن لـ %s الإتصال بالإنترنت</string>
     <string name="title_safe_mode">تشغيل الوضع الآمن</string>
     <string name="title_show_notification">مركز إشعارات التطبيقات المصغرة</string>
     <string name="title_system_auto_download">التحديثات سيتم تنزيلها تلقائيا</string>

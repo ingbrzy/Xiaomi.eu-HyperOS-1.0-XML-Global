@@ -590,7 +590,6 @@
     <string name="apps_list_header_title_sms">ตรวจสอบแอปข้อความ</string>
     <string name="apps_list_header_title_sms_access">จำกัดการเข้าถึงรหัสยืนยัน</string>
     <string name="ask_create_shortcut">สร้างปุ่มลัดหน้าจอหลักหรือไม่?</string>
-    <string name="audio_optimization_summary">ปรับปรุงเสียงและลดเสียงรบกวนรอบในการสนทนา</string>
     <string name="audio_optimization_summary_new">ปรับคุณภาพเสียงของหูฟังให้เหมาะสมขณะเล่นเกมและลดเสียงรบกวนระหว่างการโทร</string>
     <string name="audio_optimization_title">ปรับปรุงระบบเสียง</string>
     <string name="auto_atsk_condition_battery_level_text_down">เมื่อแบตเตอรี่อยู่ในระดับ %s</string>
@@ -1183,6 +1182,7 @@
     <string name="cs_voice_search">พิมพ์เสียง</string>
     <string name="cs_vt_camera_toast_case1">เปิดกล้องในแอปปัจจุบัน</string>
     <string name="cs_vt_camera_toast_case2">ไม่มีอุปกรณ์ที่รองรับในบริเวณใกล้เคียง</string>
+    <string name="cta_HIPS_Perm_Location_Desc">สำหรับการให้บริการคุณสมบัติที่เกี่ยวข้องกับตำแหน่งของคุณในศูนย์แจ้งเตือน, SOS ฉุกเฉิน, ตัวประหยัดแบตเตอรี่ของแอป, ตัวสแกนความปลอดภัยในการชำระเงิน และบริการตำแหน่งโดยประมาณ</string>
     <string name="cta_agree_desc">เพื่อให้สามารถใช้บริการของเราอนุญาตให้แอปนี้เชื่อมต่อกับอินเทอร์เน็ตและให้อนุญาตตามที่ระบุข้างต้น</string>
     <string name="cta_close_dialog_cancel">ยกเลิก </string>
     <string name="cta_close_dialog_content">หากคุณจำกัดการเข้าถึงอินเทอร์เน็ตและข้อมูลตำแหน่งพิกัดของ ความปลอดภัย คุณจะไม่สามารถรับคำเตือนแผ่นดินไหว อัปเดตฐานข้อมูลไวรัสและข้อมูลรายการบล็อก อุปกรณ์ของคุณจะปลอดภัยน้อยลง ยืนยันจำกัด?</string>
@@ -1415,6 +1415,7 @@
     <string name="error_icon_content_description">ข้อผิดพลาด</string>
     <string name="evening">บ่าย</string>
     <string name="every_day">ทุกวัน</string>
+    <string name="ew_monitor_summary1">ใช้อุปกรณ์ของคุณเพื่อการตรวจจับแผ่นดินไหว</string>
     <string name="examination_score_100">ไม่พบสิ่งผิดปกติ!</string>
     <string name="examination_score_60_0">สแกนทันที</string>
     <string name="examination_score_80_100">ยังปรับแต่งเล็กน้อยให้ดีขึ้นได้อีก</string>
@@ -1769,7 +1770,6 @@
     <string name="gamebox_brightness">ความสว่าง</string>
     <string name="gamebox_browser_not_find">ติดตั้ง Mi เบราว์เซอร์ก่อน</string>
     <string name="gamebox_bullet_chat">ความคิดเห็นบนหน้าจอ</string>
-    <string name="gamebox_cellular_network">เพิ่มประสิทธิภาพเครือข่ายโทรศัพท์มือถือ</string>
     <string name="gamebox_cellular_network_description">เลือกเส้นทางเครือข่ายที่ดีที่สุดโดยอัตโนมัติโดยอิงตามความหน่วงของเกม</string>
     <string name="gamebox_collimator">ศูนย์เล็ง</string>
     <string name="gamebox_display_1">ไม่ตั้ง</string>
@@ -1995,7 +1995,6 @@ Xiaomi Gaming Cooler"</string>
     <string name="gb_manual_record_dialog_del_video_message">ลบไฟล์ที่เลือกไว้อย่างถาวร?</string>
     <string name="gb_manual_video_record_title">กำลังบันทึกเสียง</string>
     <string name="gb_margin_restrain">ละเว้นการสัมผัสที่ขอบโดยไม่ตั้งใจ</string>
-    <string name="gb_margin_restrain_description">อุปกรณ์ของคุณจะตอบสนองต่อการสัมผัสโดยไม่ตั้งใจในบริเวณใกล้ขอบน้อยลง</string>
     <string name="gb_margin_restrain_seekbar">พื้นที่สัมผัสโดยไม่ได้ตั้งใจ</string>
     <string name="gb_msg_completely_shielded">ซ่อนข้อความ</string>
     <string name="gb_msg_completely_shielded_summary">ซ่อน</string>
@@ -2089,10 +2088,8 @@ Xiaomi Gaming Cooler"</string>
     <string name="gb_super_finger_up">ตอบสนองการแตะอย่างรวดเร็ว</string>
     <string name="gb_super_finger_up_msg">เร่งความเร็วการตอบสนองการแตะในระดับฮาร์ดแวร์</string>
     <string name="gb_super_follow_up">การติดตามท่าทาง</string>
-    <string name="gb_super_follow_up_msg">รับการตอบสนองแบบเรียลไทม์ที่ดีขึ้นตลอดทั้งท่าทาง</string>
     <string name="gb_super_motion">ระบบควบคุมแบบสัมผัสที่ได้รับการปรับปรุง</string>
     <string name="gb_super_shake">อัลกอริธึมการรักษาเสถียรภาพ</string>
-    <string name="gb_super_shake_msg">ทำให้ท่าทางสัมผัสเล็กๆ ตอบสนองได้ดีขึ้นโดยใช้อัลกอริธึมเฉพาะ</string>
     <string name="gb_turbo_collimator_subtitle">ใช้อุปกรณ์ช่วยเล็ง</string>
     <string name="gb_turbo_macro_subtitle">ดำเนินการระดับสูง</string>
     <string name="gb_turbo_shoulder_subtitle">ตั้งค่าการควบคุมการเล่นเกม</string>
@@ -2174,7 +2171,6 @@ Xiaomi Gaming Cooler"</string>
     <string name="gd_setting_conversation">เครื่องมือการประชุม</string>
     <string name="gd_setting_conversation_desc">มีคุณสมบัติที่หลากหลายสำหรับใช้ในการสนทนาทางเสียงและวิดีโอแบบเต็มหน้าจอ</string>
     <string name="gd_setting_dock_activity_title">กล่องเครื่องมือด้านข้าง</string>
-    <string name="gd_setting_dock_call_summary">คุณสมบัติสำหรับการโทรด้วยเสียงและวิดีโอ (เช่น ไฟเสริม)</string>
     <string name="gd_setting_dock_call_title">กล่องเครื่องมือโทร</string>
     <string name="gd_setting_dock_game_summary">ปรับปรุงการแสดงผลและประสิทธิภาพในขณะที่เล่นเกม</string>
     <string name="gd_setting_dock_game_summary_new">ปรับปรุงการแสดงผลและประสิทธิภาพในขณะที่เล่นเกม</string>
@@ -4175,7 +4171,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="privacy_pop_storage">ได้เข้าถึงที่จัดเก็บข้อมูลวันนี้</string>
     <string name="privacy_prompt_tc_sms_report_message">หมายเลขโทรศัพท์ของคุณและข้อมูลจากผู้ให้บริการจะทำการเข้ารหัสและอัปโหลดไปยังเซิร์ฟเวอร์ของ Mi เพื่ออัปเดตสถิติการใช้งานข้อมูลมือถือของคุณ</string>
     <string name="privacy_prompt_upload">อัปโหลด</string>
-    <string name="privacy_protect_summary">ป้องกันข้อมูลส่วนตัวของคุณ</string>
+    <string name="privacy_protect_summary">ปกป้องรายการส่วนตัว</string>
     <string name="privacy_protect_title">ปกป้องความเป็นส่วนตัว</string>
     <string name="privacy_provision_back">ย้อนกลับ</string>
     <string name="privacy_provision_more">เรียนรู้การปกป้องความเป็นส่วนตัวเพิ่มเติม</string>
@@ -4779,15 +4775,11 @@ Xiaomi Gaming Cooler"</string>
     <string name="st_antispam_mode_smart_sum">บล็อกทั้งเลขหมายที่คุณกำหนดไว้ในรายการบล็อกและเลขหมายที่รายงานโดยผู้ใช้ท่านอื่น</string>
     <string name="st_antispam_title_anoy_incoming">สายเรียกเข้าจากเลขหมายที่ไม่รู้จัก</string>
     <string name="st_antispam_title_anoy_sms">ข้อความจากเลขหมายที่ไม่รู้จัก</string>
-    <string name="st_antispam_title_contact_incoming">สายเรียกจากผู้ติดต่อ</string>
-    <string name="st_antispam_title_contact_sms">ข้อความที่ส่งโดยผู้ติดต่อ</string>
-    <string name="st_antispam_title_contactandanoy_group">การตั้งค่า</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">เลขหมายส่วนตัว</string>
     <string name="st_antispam_title_service_sms">แจ้งเตือนบริการ</string>
     <string name="st_antispam_title_whitelist">รายการยกเว้น</string>
     <string name="st_call_backsound_group">รายการบล็อกเสียง</string>
-    <string name="st_call_intercept_contacts">บล็อกการโทรจากผู้ติดต่อ</string>
     <string name="st_call_intercept_forwarding">บล็อกสายที่ถูกโอนมา</string>
     <string name="st_call_intercept_oversea">บล็อกการโทรจากผู้ติดต่อต่างประเทศ</string>
     <string name="st_call_intercept_reported">ต้องการบล็อกสายเรียกเข้าที่มีผู้รายงานไว้</string>
@@ -4797,9 +4789,8 @@ Xiaomi Gaming Cooler"</string>
     <string name="st_call_settings">รายการบล็อกสายเรียกเข้า</string>
     <string name="st_call_stranger_group">บล็อกการโทรจากสายแปลกหน้า</string>
     <string name="st_confirm_dialog_btn_open">บล็อก</string>
-    <string name="st_confirm_dialog_summary_contact_call">การโทรทั้งหมดจากผู้ติดต่อจะถูกบล็อก</string>
     <string name="st_confirm_dialog_summary_oversea_call">การโทรทั้งหมดจากหมายเลขโทรศัพท์ต่างประเทศจะถูกปิดกั้น</string>
-    <string name="st_confirm_dialog_summary_stranger_call">การโทรจากสายแปลกหน้าจะถูกบล็อก</string>
+    <string name="st_confirm_dialog_summary_stranger_call">สายเรียกเข้าจากหมายเลขที่ไม่อยู่ในข้อยกเว้นหรือรายชื่อติดต่อของคุณจะถูกบล็อค เปิดใช้งานตอนนี้เลยไหม?</string>
     <string name="st_filter_keywords_setting_summary1">ข้อความจากเลขหมายที่ไม่รู้จักที่มีข้อความที่กำหนดไว้ในรายการนี้จะถูกบล็อกตามที่คุณต้องการ</string>
     <string name="st_filter_keywords_setting_summary2">(ใช้เครื่องหมายจุลภาคเพื่อคั่นระหว่างคีย์เวิร์ด)</string>
     <string name="st_filter_keywords_setting_summary3">ข้อความจากหมายเลขที่ไม่รู้จักซึ่งมีคำในรายการนี้จะได้รับอนุญาต</string>
@@ -4811,7 +4802,6 @@ Xiaomi Gaming Cooler"</string>
     <string name="st_message_SMSpass">อนุญาต SMS</string>
     <string name="st_message_phone_AntiSpam">บล็อกการโทร</string>
     <string name="st_message_phonepass">อนุญาตการโทร</string>
-    <string name="st_msg_intercept_contacts">บล็อกข้อความ SMS จากผู้ติดต่อ</string>
     <string name="st_msg_keyword_black">รายการบล็อกคีย์เวิร์ด</string>
     <string name="st_msg_keyword_group">คีย์เวิร์ด</string>
     <string name="st_msg_keyword_white">คีย์เวิร์ดรายการยกเว้น</string>
@@ -4825,11 +4815,11 @@ Xiaomi Gaming Cooler"</string>
     <string name="st_sub_title_whiteblack_list_group">รายการบล็อก</string>
     <string name="st_sum_call_wait">ระบบจะตั้งเสียงปฏิเสธรับสายเป็นสายไม่ว่างขณะมีการโทรเข้าด้วย</string>
     <string name="st_summary_blacklist_numbers">บล็อกการโทรและข้อความตามหมายเลขและพื้นที่ที่กำหนด</string>
-    <string name="st_summary_blacklist_numbers_international">อนุญาตการโทรและข้อความเฉพาะหมายเลขที่เจาะจง</string>
+    <string name="st_summary_blacklist_numbers_international">บล็อกการโทรตามหมายเลขหรือคำนำหน้า</string>
     <string name="st_summary_keywords_blacklist">เพิ่มคีย์เวิร์ดเพื่อบล็อกข้อความ</string>
     <string name="st_summary_special_numbers">บล็อกหมายเลขโทรศัพท์ที่ติดธงทำเครื่องหมายไว้</string>
     <string name="st_summary_whitelist_numbers">อนุญาตการโทรและข้อความตามหมายเลขและพื้นที่ที่กำหนด</string>
-    <string name="st_summary_whitelist_numbers_international">อนุญาตโทรและข้อความเฉพาะหมายเลขที่เจาะจง</string>
+    <string name="st_summary_whitelist_numbers_international">อนุญาตการโทรตามหมายเลขหรือคำนำหน้า</string>
     <string name="st_tab_title">%1$s (ซิม %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">เพิ่มไปยังรายการบล็อก</string>
@@ -5261,9 +5251,9 @@ Xiaomi Gaming Cooler"</string>
     <string name="title_app_lock_disable">ล็อกแอป</string>
     <string name="title_app_update">พบอัปเดตสำหรับแอป</string>
     <string name="title_auto_update">อัปเดตโดยอัตโนมัติ</string>
-    <string name="title_background_connection">ไม่สามารถใช้ %s ในพื้นหลังได้?</string>
-    <string name="title_block_calls_from_cantacts">สายที่ไม่ได้รับจากรายชื่อของคุณ?</string>
-    <string name="title_block_calls_from_strangers">สายที่ไม่ได้รับสำคัญ?</string>
+    <string name="title_background_connection">ไม่สามารถใช้ %s ในพื้นหลังได้</string>
+    <string name="title_block_calls_from_cantacts">สายที่ไม่ได้รับจากรายชื่อของคุณ</string>
+    <string name="title_block_calls_from_strangers">สายที่ไม่ได้รับสำคัญ</string>
     <string name="title_chain_start">จำกัดโปรแกรมเริ่มต้น</string>
     <string name="title_cleaner_cloudscan">สแกนขยะคลาวด์</string>
     <string name="title_cloud_account">บัญชี Xiaomi</string>
@@ -5280,8 +5270,8 @@ Xiaomi Gaming Cooler"</string>
     <string name="title_dev_no">ตัวเลือกสำหรับผู้พัฒนาระบบเปิดอยู่</string>
     <string name="title_dev_yes">ตัวเลือกสำหรับผู้พัฒนาระบบปิดอยู่</string>
     <string name="title_device_not_root">ไม่สามารถเข้าถึงรูทได้</string>
-    <string name="title_do_not_disturb">ไม่ได้ยินเสียงเรียกเข้าของคุณ?</string>
-    <string name="title_eye_shield">สีของหน้าจอดูไม่ถูกต้อง?</string>
+    <string name="title_do_not_disturb">ไม่ได้ยินเสียงเรียกเข้าของคุณ</string>
+    <string name="title_eye_shield">สีของหน้าจอดูไม่ถูกต้อง</string>
     <string name="title_find_device">ค้นหาอุปกรณ์</string>
     <string name="title_first_aid_kit">แก้ปัญหา</string>
     <string name="title_flow_notification">การแจ้งเตือนข้อมูลมือถือ</string>
@@ -5314,7 +5304,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="title_power_optimizer">ประหยัดแบตเตอรี่</string>
     <string name="title_realname_verify">การยืนยันตัวตน</string>
     <string name="title_reply">ความคิดเห็น</string>
-    <string name="title_restrict_data_usage">%s ไม่สามารถเชื่อมต่ออินเตอร์เน็ตได้?</string>
+    <string name="title_restrict_data_usage">%s ไม่สามารถเชื่อมต่ออินเตอร์เน็ตได้</string>
     <string name="title_safe_mode">เปิดใช้งานโหมดปลอดภัย</string>
     <string name="title_show_notification">วิดเจ็ตแถบการแจ้งเตือน</string>
     <string name="title_system_auto_download">การอัปเดตจะถูกดาวน์โหลดโดยอัตโนมัติ</string>

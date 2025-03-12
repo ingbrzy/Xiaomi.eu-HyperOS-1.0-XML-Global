@@ -590,7 +590,6 @@ No perdreu cap dada de l'aplicació."</string>
     <string name="apps_list_header_title_sms">"Comproveu l'aplicació de missatgeria"</string>
     <string name="apps_list_header_title_sms_access">"Restringeix l'accés als codis de verificació"</string>
     <string name="ask_create_shortcut">"Voleu crear una drecera a la Pantalla d'inici?"</string>
-    <string name="audio_optimization_summary">"Millora l'àudio i redueix el soroll ambiental a les converses"</string>
     <string name="audio_optimization_summary_new">Optimitzeu la qualitat del so dels auriculars mentre jugueu i reduïu el soroll durant les trucades</string>
     <string name="audio_optimization_title">Àudio millorat</string>
     <string name="auto_atsk_condition_battery_level_text_down">Quan la bateria arriba a %s</string>
@@ -1037,7 +1036,7 @@ No obstant això, algunes de les vostres transaccions encara no s'han completat.
     <string name="clean_master_icon_recall_dialog_summary">"Afegeix una drecera a la Pantalla d'inici per netejar la paperera sempre que ho necessitis."</string>
     <string name="clean_master_icon_recall_dialog_title">Neteja la paperera més ràpidament</string>
     <string name="clean_master_icon_recall_hint">"Afegeix una drecera a la Pantalla d'inici"</string>
-    <string name="clean_master_icon_recall_summary">"Afegeix una drecera a la Pantalla d'inici per a netejar la brossa sempre que ho necessitis."</string>
+    <string name="clean_master_icon_recall_summary">"Afegeix una drecera a la Pantalla d'inici per a netejar la brossa sempre que ho necessitis"</string>
     <string name="clean_master_icon_recall_title">Neteja la brossa més ràpid</string>
     <string name="clean_master_icon_recall_toast_text">"S'ha afegit correctament una drecera del netejador a la Pantalla d'inici"</string>
     <string name="cleaned">Netejat</string>
@@ -1179,7 +1178,7 @@ No obstant això, algunes de les vostres transaccions encara no s'han completat.
     <string name="cs_tool_box_max_screen_guide_case_2">"Proveu una sèrie de funcions de trucada de conferència a la nova caixa d'eines de trucada"</string>
     <string name="cs_tool_box_phone_guide_case_1">"Proveu la interpretació simultània i altres funcions a la nova caixa d'eines de trucades"</string>
     <string name="cs_tool_box_phone_guide_case_2">"Proveu una sèrie de funcions a la nova caixa d'eines de trucades"</string>
-    <string name="cs_voice_print">Enregistreu la empremta de veu</string>
+    <string name="cs_voice_print">"Enregistreu l'empremta de veu"</string>
     <string name="cs_voice_search">Empremta de veu</string>
     <string name="cs_vt_camera_toast_case1">"Obriu la càmera a l'aplicació actual"</string>
     <string name="cs_vt_camera_toast_case2">No hi ha cap dispositiu compatible a prop</string>
@@ -1769,7 +1768,6 @@ S'afegirà a les excepcions, però els elements bloquejats anterioment no aparei
     <string name="gamebox_brightness">Brillantor</string>
     <string name="gamebox_browser_not_find">Instal·leu el Navegador Mi primer</string>
     <string name="gamebox_bullet_chat">Comentaris a la pantalla</string>
-    <string name="gamebox_cellular_network">Optimitzeu la xarxa mòbil</string>
     <string name="gamebox_cellular_network_description">Seleccioneu automàticament la millor ruta de xarxa en funció de la latència del joc</string>
     <string name="gamebox_collimator">Visor</string>
     <string name="gamebox_display_1">Cap</string>
@@ -1995,7 +1993,6 @@ Enregistreu seqüències i feu-les servir en qualsevol moment."</string>
     <string name="gb_manual_record_dialog_del_video_message">Vols eliminar els vídeos seleccionats per sempre?</string>
     <string name="gb_manual_video_record_title">Enregistraments</string>
     <string name="gb_margin_restrain">Ignora el toc accidental a les vores</string>
-    <string name="gb_margin_restrain_description">El vostre dispositiu serà menys sensible al toc accidental a la zona propera a les vores</string>
     <string name="gb_margin_restrain_seekbar">Zona de tacte accidental</string>
     <string name="gb_msg_completely_shielded">Amaga els missatges</string>
     <string name="gb_msg_completely_shielded_summary">Amaga</string>
@@ -2089,10 +2086,8 @@ però també augmenta el consum d'energia i permet que el dispositiu es sobreesc
     <string name="gb_super_finger_up">Resposta ràpida al toc</string>
     <string name="gb_super_finger_up_msg">Accelera la resposta del toc a nivell de maquinari</string>
     <string name="gb_super_follow_up">Seguiment de gestos</string>
-    <string name="gb_super_follow_up_msg">Obteniu una millor resposta en temps real durant tot el gest</string>
     <string name="gb_super_motion">Controls tàctils millorats</string>
     <string name="gb_super_shake">"Algorisme d'estabilització"</string>
-    <string name="gb_super_shake_msg">"Feu que els gestos més petits responguin amb l'algoritme dedicat"</string>
     <string name="gb_turbo_collimator_subtitle">Utilitzeu el dispositiu de punteria</string>
     <string name="gb_turbo_macro_subtitle">Realitzar accions d’alt nivell</string>
     <string name="gb_turbo_shoulder_subtitle">Configureu controls de joc</string>
@@ -2174,7 +2169,6 @@ de les teves sessions de joc"</string>
     <string name="gd_setting_conversation">Eines de conferències</string>
     <string name="gd_setting_conversation_desc">"Proporciona una varietat de funcions per utilitzar-les en trucades d'àudio i vídeo a pantalla completa"</string>
     <string name="gd_setting_dock_activity_title">"Caixa d'eines lateral"</string>
-    <string name="gd_setting_dock_call_summary">"Funcions per a trucades de veu i videotrucades (p. ex., llum d'ompliment)"</string>
     <string name="gd_setting_dock_call_title">"Caixa d'eines de trucades"</string>
     <string name="gd_setting_dock_game_summary">Millora la visualització i el rendiment mentre jugues</string>
     <string name="gd_setting_dock_game_summary_new">Millora la visualització i el rendiment mentre jugues</string>
@@ -4175,7 +4169,7 @@ l'Estalvi de bateria ultra"</string>
     <string name="privacy_pop_storage">"Ha accedit a l'emmagatzematge avui"</string>
     <string name="privacy_prompt_tc_sms_report_message">"El número de telèfon i la informació de l'operadora es xifraran i es pujaran als servidors de Mi per actualitzar la vostra informació d'ús de dades."</string>
     <string name="privacy_prompt_upload">Puja</string>
-    <string name="privacy_protect_summary">Protegiu la vostra informació personal</string>
+    <string name="privacy_protect_summary">Protegiu els articles privats</string>
     <string name="privacy_protect_title">Protecció de privadesa</string>
     <string name="privacy_provision_back">Enrere</string>
     <string name="privacy_provision_more">Aprèn més sobre la protecció de privadesa</string>
@@ -4779,15 +4773,11 @@ Voleu retirar el consentiment ara?"</string>
     <string name="st_antispam_mode_smart_sum">"Bloca els números que heu afegit manualment i els que s'han reportat per altres usuaris"</string>
     <string name="st_antispam_title_anoy_incoming">Trucades de desconeguts</string>
     <string name="st_antispam_title_anoy_sms">Missatges de desconeguts</string>
-    <string name="st_antispam_title_contact_incoming">Trucades de contactes</string>
-    <string name="st_antispam_title_contact_sms">Missatges dels contactes</string>
-    <string name="st_antispam_title_contactandanoy_group">Configuració</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Números privats</string>
     <string name="st_antispam_title_service_sms">Notificacions de servei</string>
     <string name="st_antispam_title_whitelist">Excepcions</string>
     <string name="st_call_backsound_group">So de la llista de bloqueig</string>
-    <string name="st_call_intercept_contacts">Bloqueja trucades dels contactes</string>
     <string name="st_call_intercept_forwarding">Bloqueja trucades desviades</string>
     <string name="st_call_intercept_oversea">"Bloqueja trucades des de l'estranger"</string>
     <string name="st_call_intercept_reported">Bloqueja trucades de números notificats</string>
@@ -4797,9 +4787,8 @@ Voleu retirar el consentiment ara?"</string>
     <string name="st_call_settings">Llista de bloqueig de trucades</string>
     <string name="st_call_stranger_group">Bloqueja trucades de desconeguts</string>
     <string name="st_confirm_dialog_btn_open">Bloqueja</string>
-    <string name="st_confirm_dialog_summary_contact_call">Es bloquejaran totes les trucades dels contactes.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Es bloquejaran totes les trucades de números de telèfon estrangers.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Es bloquejaran totes les trucades de desconeguts.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">Les trucades de qualsevol número que no estigui a les vostres excepcions o als vostres contactes es bloquejaran. Voleu activar-ho ara?</string>
     <string name="st_filter_keywords_setting_summary1">"Es bloquejaran els missatges de números desconeguts que continguin les paraules d'aquesta llista."</string>
     <string name="st_filter_keywords_setting_summary2">(Utilitzeu una coma per separar diverses paraules clau)</string>
     <string name="st_filter_keywords_setting_summary3">"Es permetrà als missatges de números desconeguts que continguin les paraules d'aquesta llista."</string>
@@ -4811,7 +4800,6 @@ Voleu retirar el consentiment ara?"</string>
     <string name="st_message_SMSpass">Permet els SMS</string>
     <string name="st_message_phone_AntiSpam">Bloqueja les trucades</string>
     <string name="st_message_phonepass">Permet les trucades</string>
-    <string name="st_msg_intercept_contacts">Bloqueja SMS dels contactes</string>
     <string name="st_msg_keyword_black">Llista de bloqueig de paraules clau</string>
     <string name="st_msg_keyword_group">Paraules clau</string>
     <string name="st_msg_keyword_white">Excepcions de paraules clau</string>
@@ -4825,11 +4813,11 @@ Voleu retirar el consentiment ara?"</string>
     <string name="st_sub_title_whiteblack_list_group">Llista de bloqueig</string>
     <string name="st_sum_call_wait">"El missatge d'absència també es reproduirà com a senyal ocupat per a les trucades entrants."</string>
     <string name="st_summary_blacklist_numbers">Bloqueja les trucades i els missatges de números i àrees específics</string>
-    <string name="st_summary_blacklist_numbers_international">Bloqueja les trucades i els missatges de números específics</string>
+    <string name="st_summary_blacklist_numbers_international">Bloqueja les trucades segons el número o el prefix</string>
     <string name="st_summary_keywords_blacklist">Afegiu paraules clau per bloquejar missatges</string>
     <string name="st_summary_special_numbers">Bloqueja els números de telèfon marcats</string>
     <string name="st_summary_whitelist_numbers">Permet les trucades i els missatges de números i prefixos específics</string>
-    <string name="st_summary_whitelist_numbers_international">Permet les trucades i els missatges de números i específics</string>
+    <string name="st_summary_whitelist_numbers_international">Permet les trucades segons el número o el prefix</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Afegeix a la llista de bloqueig</string>
@@ -5261,9 +5249,9 @@ La formatació esborrarà tots els continguts de ^2. Per a evitar la pèrdua de 
     <string name="title_app_lock_disable">Aplicacions bloquejades</string>
     <string name="title_app_update">Hi ha actualitzacions disponibles</string>
     <string name="title_auto_update">Actualització automàtica</string>
-    <string name="title_background_connection">No es pot utilitzar %s en segon pla?</string>
-    <string name="title_block_calls_from_cantacts">Trobes a faltar trucades de la teva llista de contactes?</string>
-    <string name="title_block_calls_from_strangers">Trobes a faltar trucades importants?</string>
+    <string name="title_background_connection">No es pot utilitzar %s en segon pla</string>
+    <string name="title_block_calls_from_cantacts">Trobeu a faltar trucades de la vostra llista de contactes</string>
+    <string name="title_block_calls_from_strangers">Trobeu a faltar trucades importants</string>
     <string name="title_chain_start">"Restringeix l'inici en cadena"</string>
     <string name="title_cleaner_cloudscan">Puja noms de carpeta</string>
     <string name="title_cloud_account">Compte Xiaomi</string>
@@ -5280,8 +5268,8 @@ La formatació esborrarà tots els continguts de ^2. Per a evitar la pèrdua de 
     <string name="title_dev_no">Opcions per a desenvolupadors activades</string>
     <string name="title_dev_yes">Opcions per a desenvolupadors desactivades</string>
     <string name="title_device_not_root">"L'accés arrel no s'ha concedit"</string>
-    <string name="title_do_not_disturb">No pots escoltar el to de trucada?</string>
-    <string name="title_eye_shield">El color de la pantalla no es veu bé?</string>
+    <string name="title_do_not_disturb">No podeu escoltar el to de trucada</string>
+    <string name="title_eye_shield">El color de la pantalla no es veu bé</string>
     <string name="title_find_device">Troba dispositiu</string>
     <string name="title_first_aid_kit">Resoldre problemes</string>
     <string name="title_flow_notification">"Informe d'ús de dades"</string>
@@ -5314,7 +5302,7 @@ La formatació esborrarà tots els continguts de ^2. Per a evitar la pèrdua de 
     <string name="title_power_optimizer">Estalvi de bateria</string>
     <string name="title_realname_verify">"Verificació d'ID"</string>
     <string name="title_reply">Comentari</string>
-    <string name="title_restrict_data_usage">%s no es pot connectar al internet?</string>
+    <string name="title_restrict_data_usage">%s no es pot connectar al internet</string>
     <string name="title_safe_mode">Activa el mode segur</string>
     <string name="title_show_notification">Giny de la barra de notificacions</string>
     <string name="title_system_auto_download">Les actualitzacions es baixaran automàticament</string>

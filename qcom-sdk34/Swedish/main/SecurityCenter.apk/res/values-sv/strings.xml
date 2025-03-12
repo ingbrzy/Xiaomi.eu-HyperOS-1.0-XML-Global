@@ -590,7 +590,6 @@ Du kommer inte förlora någon appdata."</string>
     <string name="apps_list_header_title_sms">Kontrollera meddelandeapp</string>
     <string name="apps_list_header_title_sms_access">Begränsa tillgång till verifieringskoder</string>
     <string name="ask_create_shortcut">Skapa en genväg på Hemskärmen?</string>
-    <string name="audio_optimization_summary">Förbättra ljud och minska omgivande ljud i konversationer</string>
     <string name="audio_optimization_summary_new">Optimera ljudkvalitén i hörlurarna, medan du spelar och minska brus under samtal</string>
     <string name="audio_optimization_title">Förbättrat ljud</string>
     <string name="auto_atsk_condition_battery_level_text_down">När batteriet når%s</string>
@@ -1769,7 +1768,6 @@ All data på enheten kan raderas och ditt lösenord till Låsskärmen kanske nol
     <string name="gamebox_brightness">Ljusstyrka</string>
     <string name="gamebox_browser_not_find">Installera Mi Browser först</string>
     <string name="gamebox_bullet_chat">Kommentarer på skärmen</string>
-    <string name="gamebox_cellular_network">Optimera mobilnätverket</string>
     <string name="gamebox_cellular_network_description">Välj automatiskt den bästa nätverksvägen, baserat på spelfördröjning</string>
     <string name="gamebox_collimator">Sikte</string>
     <string name="gamebox_display_1">Ingen</string>
@@ -1995,7 +1993,6 @@ Record sequences and use them anytime!"</string>
     <string name="gb_manual_record_dialog_del_video_message">Radera valda videor permanent?</string>
     <string name="gb_manual_video_record_title">Inspelningar</string>
     <string name="gb_margin_restrain">Ignorera oavsiktlig beröring av kanterna</string>
-    <string name="gb_margin_restrain_description">Din enhet kommer att vara mindre känslig för oavsiktlig beröring i området vid kanterna</string>
     <string name="gb_margin_restrain_seekbar">Oavsiktlig beröring av område</string>
     <string name="gb_msg_completely_shielded">Dölj meddelanden</string>
     <string name="gb_msg_completely_shielded_summary">Dölj</string>
@@ -2089,10 +2086,8 @@ men ökar också strömförbrukningen och tillåter din enhet att överhettas"</
     <string name="gb_super_finger_up">Snabbtryckningsrespons</string>
     <string name="gb_super_finger_up_msg">Påskynda tryck-respons på hårdvarunivå</string>
     <string name="gb_super_follow_up">Gestspårning</string>
-    <string name="gb_super_follow_up_msg">Få bättre realtidsrespons genom hela gesten</string>
     <string name="gb_super_motion">Förbättrade pekkontroller</string>
     <string name="gb_super_shake">Stabiliseringsalgoritm</string>
-    <string name="gb_super_shake_msg">Gör mindre gester mer responsiva med hjälp av den dedikerade algoritmen</string>
     <string name="gb_turbo_collimator_subtitle">Använd enhet för siktning</string>
     <string name="gb_turbo_macro_subtitle">Utföra åtgärder på hög nivå</string>
     <string name="gb_turbo_shoulder_subtitle">Sätta igång spelkontroller</string>
@@ -2174,7 +2169,6 @@ av dina spelsessioner"</string>
     <string name="gd_setting_conversation">Konferensverktyg</string>
     <string name="gd_setting_conversation_desc">Ger en variation av funktioner för användande av ljud- och videosamtal med helskärm</string>
     <string name="gd_setting_dock_activity_title">Panel-verktygslåda</string>
-    <string name="gd_setting_dock_call_summary">Funktioner för röst- och videosamtal (t.ex. fyll ljus)</string>
     <string name="gd_setting_dock_call_title">Verktygslåda för samtal</string>
     <string name="gd_setting_dock_game_summary">Förbättra skärmen och prestandan när du spelar spel</string>
     <string name="gd_setting_dock_game_summary_new">Förbättra skärmen och prestandan när du spelar spel</string>
@@ -3326,7 +3320,7 @@ Försök med en annan nätverkskabel. Om du misstänker att det är ett problem 
     <string name="pc_going_to_extreme_mode">Försätt i viloläge</string>
     <string name="pc_handle_battery_level">Grepp</string>
     <string name="pc_have_no_battery_issue">Inga problem</string>
-    <string name="pc_health_charge_protect_notification_summary">Aktivera abtteriskydd för att minska batteriets åldrande</string>
+    <string name="pc_health_charge_protect_notification_summary">Aktivera batteriskydd för att minska batteriets åldrande</string>
     <string name="pc_health_charge_protect_summary">För att utöka batteritiden kommer enheten att sluta ladda när batterinivåerna når %1$s</string>
     <string name="pc_health_charge_protect_title">Batteriskydd</string>
     <string name="pc_hide_more_power_rank_apps">Dölj</string>
@@ -4175,7 +4169,7 @@ Ultra batterisparare"</string>
     <string name="privacy_pop_storage">Tillträdde lagring idag</string>
     <string name="privacy_prompt_tc_sms_report_message">Ditt telefonnummer och operatörs detaljer kommer att krypteras och laddas upp till Mis servrar för att kunna uppdatera din dataanvändning.</string>
     <string name="privacy_prompt_upload">Ladda upp</string>
-    <string name="privacy_protect_summary">Skydda din personliga information</string>
+    <string name="privacy_protect_summary">Skydda privata objekt</string>
     <string name="privacy_protect_title">Integritetsskydd</string>
     <string name="privacy_provision_back">Tillbaka</string>
     <string name="privacy_provision_more">Lär dig mer om integritetsskydd</string>
@@ -4779,15 +4773,11 @@ Dra tillbaka samtycke nu?"</string>
     <string name="st_antispam_mode_smart_sum">Blockera nummer du lagt till manuellt och nummer som har rapporterats av andra användare</string>
     <string name="st_antispam_title_anoy_incoming">Samtal från främlingar</string>
     <string name="st_antispam_title_anoy_sms">Meddelanden från okända</string>
-    <string name="st_antispam_title_contact_incoming">Samtal från kontakter</string>
-    <string name="st_antispam_title_contact_sms">Meddelanden från kontakter</string>
-    <string name="st_antispam_title_contactandanoy_group">Inställningar</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Privata nummer</string>
     <string name="st_antispam_title_service_sms">Notifikation för tjänster</string>
     <string name="st_antispam_title_whitelist">Undantag</string>
     <string name="st_call_backsound_group">Ljud för blockeringslistan</string>
-    <string name="st_call_intercept_contacts">Blockera samtal från kontakter</string>
     <string name="st_call_intercept_forwarding">Blockera vidarekopplade samtal</string>
     <string name="st_call_intercept_oversea">Blockera alla inkommande utlandssamtal</string>
     <string name="st_call_intercept_reported">Blockera samtal från rapporterade nummer</string>
@@ -4797,9 +4787,8 @@ Dra tillbaka samtycke nu?"</string>
     <string name="st_call_settings">Blockeringslista för samtal</string>
     <string name="st_call_stranger_group">Blockera samtal från okända</string>
     <string name="st_confirm_dialog_btn_open">Blockera</string>
-    <string name="st_confirm_dialog_summary_contact_call">Alla samtal från kontakter kommer blockeras.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Alla samtal från utländska telefonnummer kommer att blockeras.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Alla samtal från okända kommer blockeras.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">Samtal från nummer som inte finns i dina undantag, eller i dina kontakter, kommer att blockeras. Aktivera nu?</string>
     <string name="st_filter_keywords_setting_summary1">Meddelanden från okända nummer som innehåller orden i denna listan kommer att blockeras.</string>
     <string name="st_filter_keywords_setting_summary2">(Använd ett kommatecken för att separera flera nyckelord)</string>
     <string name="st_filter_keywords_setting_summary3">Meddelanden från okända nummer som innehåller orden i denna listan kommer att tillåtas.</string>
@@ -4811,7 +4800,6 @@ Dra tillbaka samtycke nu?"</string>
     <string name="st_message_SMSpass">Tillåt SMS</string>
     <string name="st_message_phone_AntiSpam">Blockera samtal</string>
     <string name="st_message_phonepass">Tillåt samtal</string>
-    <string name="st_msg_intercept_contacts">Blockera SMS från kontakter</string>
     <string name="st_msg_keyword_black">Blockeringslista för nyckelord</string>
     <string name="st_msg_keyword_group">Nyckelord</string>
     <string name="st_msg_keyword_white">Undantag för nyckelord</string>
@@ -4825,11 +4813,11 @@ Dra tillbaka samtycke nu?"</string>
     <string name="st_sub_title_whiteblack_list_group">Blockeringslista</string>
     <string name="st_sum_call_wait">Ditt frånvaromeddelande kommer också att spelas upp som upptagetsignal för inkommande samtal.</string>
     <string name="st_summary_blacklist_numbers">Blockerar samtal och meddelanden från specifika nummer och områden</string>
-    <string name="st_summary_blacklist_numbers_international">Blockera samtal och meddelanden från specifika nummer</string>
+    <string name="st_summary_blacklist_numbers_international">Blockera samtal baserat på nummer eller prefix</string>
     <string name="st_summary_keywords_blacklist">Lägg till sökord för att blockera meddelanden</string>
     <string name="st_summary_special_numbers">Blockera flaggade telefonnummer</string>
     <string name="st_summary_whitelist_numbers">Tillåt samtal och meddelanden från specifika nummer och områden</string>
-    <string name="st_summary_whitelist_numbers_international">Tillåt samtal och meddelanden från specifika nummer</string>
+    <string name="st_summary_whitelist_numbers_international">Tillåt samtal baserade på nummer eller prefix</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Lägg till i blockeringslistan</string>
@@ -5261,9 +5249,9 @@ Formateringen kommer att radera befintligt innehåll på ^2. För att undvika f�
     <string name="title_app_lock_disable">Lås appar</string>
     <string name="title_app_update">Uppdateringar tillgängliga</string>
     <string name="title_auto_update">Uppdateras automatiskt</string>
-    <string name="title_background_connection">Kan inte använda %s i bakgrunden?</string>
-    <string name="title_block_calls_from_cantacts">Saknar du samtal från dina kontakter?</string>
-    <string name="title_block_calls_from_strangers">Saknar du viktiga samtal?</string>
+    <string name="title_background_connection">Kan inte använda %s i bakgrunden</string>
+    <string name="title_block_calls_from_cantacts">Saknar du samtal från dina kontakter</string>
+    <string name="title_block_calls_from_strangers">Saknar du viktiga samtal</string>
     <string name="title_chain_start">Begränsa kedjestart</string>
     <string name="title_cleaner_cloudscan">Papperskorg i Molnet</string>
     <string name="title_cloud_account">Xiaomi-konto</string>
@@ -5280,8 +5268,8 @@ Formateringen kommer att radera befintligt innehåll på ^2. För att undvika f�
     <string name="title_dev_no">Utvecklaralternativ på</string>
     <string name="title_dev_yes">Utvecklaralternativ av</string>
     <string name="title_device_not_root">Root-åtkomst godkändes inte</string>
-    <string name="title_do_not_disturb">Kan du inte höra din ringsignal?</string>
-    <string name="title_eye_shield">Färgen på skärmen ser inte rätt ut?</string>
+    <string name="title_do_not_disturb">Kan du inte höra din ringsignal</string>
+    <string name="title_eye_shield">Färgen på skärmen ser inte rätt ut</string>
     <string name="title_find_device">Hitta enhet</string>
     <string name="title_first_aid_kit">Lös problem</string>
     <string name="title_flow_notification">Mobildata notifikation</string>
@@ -5314,7 +5302,7 @@ Formateringen kommer att radera befintligt innehåll på ^2. För att undvika f�
     <string name="title_power_optimizer">Batterisparare</string>
     <string name="title_realname_verify">ID-kontroll</string>
     <string name="title_reply">Kommentera</string>
-    <string name="title_restrict_data_usage">%s kan inte ansluta till internet?</string>
+    <string name="title_restrict_data_usage">%s kan inte ansluta till internet</string>
     <string name="title_safe_mode">Slå på Säkert läge</string>
     <string name="title_show_notification">Notifikationspanelen widget</string>
     <string name="title_system_auto_download">Uppdateringar laddas ner automatiskt</string>

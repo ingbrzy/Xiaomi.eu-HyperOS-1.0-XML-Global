@@ -590,7 +590,6 @@ U zult geen app-gegevens verliezen."</string>
     <string name="apps_list_header_title_sms">Bekijk sms-app</string>
     <string name="apps_list_header_title_sms_access">Beperk toegang tot verificatiecodes</string>
     <string name="ask_create_shortcut">Een Startscherm snelkoppeling creëren?</string>
-    <string name="audio_optimization_summary">Verbeter audio en verminder omgevingsgeluid tijdens gesprekken</string>
     <string name="audio_optimization_summary_new">Optimaliseer de geluidskwaliteit van oortelefoons tijdens het gamen en verminder ruis tijdens oproepen</string>
     <string name="audio_optimization_title">Verbeterde audio</string>
     <string name="auto_atsk_condition_battery_level_text_down">Wanneer de batterij %s bereikt</string>
@@ -1769,7 +1768,6 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="gamebox_brightness">Helderheid</string>
     <string name="gamebox_browser_not_find">Installeer eerst Mi Browser</string>
     <string name="gamebox_bullet_chat">Opmerkingen op het scherm</string>
-    <string name="gamebox_cellular_network">Optimaliseer mobiel netwerk</string>
     <string name="gamebox_cellular_network_description">Selecteer automatisch het beste netwerkpad op basis van gamelatentie</string>
     <string name="gamebox_collimator">Vizier</string>
     <string name="gamebox_display_1">Geen</string>
@@ -1995,7 +1993,6 @@ Neem sequenties op en gebruik ze op elk moment!"</string>
     <string name="gb_manual_record_dialog_del_video_message">"Geselecteerde video's permanent verwijderen?"</string>
     <string name="gb_manual_video_record_title">Opnames</string>
     <string name="gb_margin_restrain">Negeer onbedoeld aanraken van de randen</string>
-    <string name="gb_margin_restrain_description">Uw apparaat reageert minder op onbedoelde aanraking in het gebied nabij de randen</string>
     <string name="gb_margin_restrain_seekbar">Per ongeluk aangeraakt gebied</string>
     <string name="gb_msg_completely_shielded">Berichten verbergen</string>
     <string name="gb_msg_completely_shielded_summary">Verbergen</string>
@@ -2089,10 +2086,8 @@ maar verhoogt ook het stroomverbruik en zorgt ervoor dat uw apparaat oververhit 
     <string name="gb_super_finger_up">Snelle tikreactie</string>
     <string name="gb_super_finger_up_msg">Versnel de tikreactie op hardwareniveau</string>
     <string name="gb_super_follow_up">Gebaren volgen</string>
-    <string name="gb_super_follow_up_msg">Krijg een betere real time respons gedurende het hele gebaar</string>
     <string name="gb_super_motion">Verbeterde touch-besturing</string>
     <string name="gb_super_shake">Stabilisatie-algoritme</string>
-    <string name="gb_super_shake_msg">Maak kleinere gebaren responsiever met behulp van het speciale algoritme</string>
     <string name="gb_turbo_collimator_subtitle">Gebruik richtapparaat</string>
     <string name="gb_turbo_macro_subtitle">Acties op hoog niveau uitvoeren</string>
     <string name="gb_turbo_shoulder_subtitle">Configureer de spelbesturing</string>
@@ -2174,7 +2169,6 @@ van uw gamesessie"</string>
     <string name="gd_setting_conversation">Conferentie hulpmiddelen</string>
     <string name="gd_setting_conversation_desc">Biedt een verscheidenheid aan functies voor gebruik bij audio- en videogesprekken op volledig scherm</string>
     <string name="gd_setting_dock_activity_title">Gereedschapskist aan de zijkant</string>
-    <string name="gd_setting_dock_call_summary">Functies voor spraak- en video-oproepen (bijvoorbeeld lichter maken)</string>
     <string name="gd_setting_dock_call_title">Oproepgereedschapskist</string>
     <string name="gd_setting_dock_game_summary">Verbeter de weergave en prestaties tijdens het spelen van games</string>
     <string name="gd_setting_dock_game_summary_new">Verbeter de weergave en prestaties tijdens het spelen van games</string>
@@ -4175,7 +4169,7 @@ Ultra batterijbesparing"</string>
     <string name="privacy_pop_storage">Toegang tot opslag gekregen vandaag</string>
     <string name="privacy_prompt_tc_sms_report_message">Je telefoonnummer en providerdetails worden gecodeerd en geüpload naar de servers van Mi om de informatie over je datagebruik bij te werken.</string>
     <string name="privacy_prompt_upload">Uploaden</string>
-    <string name="privacy_protect_summary">Bescherm uw persoonlijke info</string>
+    <string name="privacy_protect_summary">Bescherm privé-items</string>
     <string name="privacy_protect_title">Privacybescherming</string>
     <string name="privacy_provision_back">Vorige</string>
     <string name="privacy_provision_more">Meer informatie over privacybescherming</string>
@@ -4779,15 +4773,11 @@ Toestemming nu intrekken?"</string>
     <string name="st_antispam_mode_smart_sum">Nummers blokkeren die je handmatig hebt toegevoegd en blokkeer nummers die zijn gemeld door andere gebruikers</string>
     <string name="st_antispam_title_anoy_incoming">Oproepen van vreemden</string>
     <string name="st_antispam_title_anoy_sms">Berichten van vreemden</string>
-    <string name="st_antispam_title_contact_incoming">Oproepen van contacten</string>
-    <string name="st_antispam_title_contact_sms">Berichten van contacten</string>
-    <string name="st_antispam_title_contactandanoy_group">Instellingen</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Privénummers</string>
     <string name="st_antispam_title_service_sms">Servicemeldingen</string>
     <string name="st_antispam_title_whitelist">Uitzonderingen</string>
     <string name="st_call_backsound_group">Blokkeerlijst-geluid</string>
-    <string name="st_call_intercept_contacts">Blokkeer oproepen van contacten</string>
     <string name="st_call_intercept_forwarding">Blokkeer doorgeschakelde oproepen</string>
     <string name="st_call_intercept_oversea">Blokkeer gesprekken uit het buitenland</string>
     <string name="st_call_intercept_reported">Blokkeer oproepen van gerapporteerde nummers</string>
@@ -4797,9 +4787,8 @@ Toestemming nu intrekken?"</string>
     <string name="st_call_settings">Blokkeerlijst oproepen</string>
     <string name="st_call_stranger_group">Blokkeer oproepen van vreemden</string>
     <string name="st_confirm_dialog_btn_open">Blokkeren</string>
-    <string name="st_confirm_dialog_summary_contact_call">Alle oproepen van contacten worden geblokkeerd.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Alle oproepen van buitenlandse telefoonnummers worden geblokkeerd.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Alle oproepen van onbekenden worden geblokkeerd.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">Oproepen van elk nummer dat niet op uw uitzonderingen of in uw contacten staat, worden geblokkeerd. Nu inschakelen?</string>
     <string name="st_filter_keywords_setting_summary1">Berichten van onbekende nummers die de woorden in deze lijst bevatten, worden geblokkeerd.</string>
     <string name="st_filter_keywords_setting_summary2">(Gebruik een komma om meerdere trefwoorden te scheiden)</string>
     <string name="st_filter_keywords_setting_summary3">Berichten van onbekende nummers die de woorden in deze lijst bevatten, worden toegestaan.</string>
@@ -4811,7 +4800,6 @@ Toestemming nu intrekken?"</string>
     <string name="st_message_SMSpass">Sta sms toe</string>
     <string name="st_message_phone_AntiSpam">Blokkeer oproepen</string>
     <string name="st_message_phonepass">Oproepen toestaan</string>
-    <string name="st_msg_intercept_contacts">Blokkeer sms van contacten</string>
     <string name="st_msg_keyword_black">Trefwoord-blokkeerlijst</string>
     <string name="st_msg_keyword_group">Trefwoorden</string>
     <string name="st_msg_keyword_white">Trefwoord uitzonderingen</string>
@@ -4825,11 +4813,11 @@ Toestemming nu intrekken?"</string>
     <string name="st_sub_title_whiteblack_list_group">Blokkeerlijst</string>
     <string name="st_sum_call_wait">"Uw 'niet bereikbaar' bericht zal ook worden gespeeld als een bezettoon voor inkomende oproepen."</string>
     <string name="st_summary_blacklist_numbers">Blokkeer oproepen en berichten van specifieke telefoonnummers of gebieden</string>
-    <string name="st_summary_blacklist_numbers_international">Blokkeer oproepen en berichten van specifieke telefoonnummers</string>
+    <string name="st_summary_blacklist_numbers_international">Blokkeer oproepen op basis van nummer of netnummer</string>
     <string name="st_summary_keywords_blacklist">Voeg trefwoorden toe om berichten te blokkeren</string>
     <string name="st_summary_special_numbers">Blokkeer gemarkeerde telefoonnummers</string>
     <string name="st_summary_whitelist_numbers">Sta oproepen en berichten van specifieke telefoonnummers of gebieden toe</string>
-    <string name="st_summary_whitelist_numbers_international">Sta oproepen en berichten van specifieke telefoonnummers toe</string>
+    <string name="st_summary_whitelist_numbers_international">Oproepen toestaan ​​op basis van nummer of netnummer</string>
     <string name="st_tab_title">%1$s (sim %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Toevoegen aan blokkeerlijst</string>
@@ -5261,9 +5249,9 @@ Formatteren wist bestaande inhoud op de ^2. Om te voorkomen dat u inhoud verlies
     <string name="title_app_lock_disable">Apps vergrendelen</string>
     <string name="title_app_update">Updates beschikbaar</string>
     <string name="title_auto_update">Automatisch bijwerken</string>
-    <string name="title_background_connection">Kan%s niet gebruikt worden op de achtergrond?</string>
-    <string name="title_block_calls_from_cantacts">Gemiste oproepen van uw contacten?</string>
-    <string name="title_block_calls_from_strangers">Miss belangrijke oproepen?</string>
+    <string name="title_background_connection">Kan%s niet gebruikt worden op de achtergrond</string>
+    <string name="title_block_calls_from_cantacts">Gemiste oproepen van uw contacten</string>
+    <string name="title_block_calls_from_strangers">Miss belangrijke oproepen</string>
     <string name="title_chain_start">Ketenstart beperken</string>
     <string name="title_cleaner_cloudscan">Cloud rommel scan</string>
     <string name="title_cloud_account">Xiaomi Account</string>
@@ -5280,8 +5268,8 @@ Formatteren wist bestaande inhoud op de ^2. Om te voorkomen dat u inhoud verlies
     <string name="title_dev_no">Ontwikkelaarsopties ingeschakeld</string>
     <string name="title_dev_yes">Ontwikkelaarsopties uitgeschakeld</string>
     <string name="title_device_not_root">Root toegang werd niet verleend</string>
-    <string name="title_do_not_disturb">Hoort u uw beltoon niet?</string>
-    <string name="title_eye_shield">Schermkleur ziet er niet goed uit?</string>
+    <string name="title_do_not_disturb">Hoort u uw beltoon niet</string>
+    <string name="title_eye_shield">Schermkleur ziet er niet goed uit</string>
     <string name="title_find_device">Apparaat zoeken</string>
     <string name="title_first_aid_kit">Problemen oplossen</string>
     <string name="title_flow_notification">Mobiele datamelding</string>
@@ -5314,7 +5302,7 @@ Formatteren wist bestaande inhoud op de ^2. Om te voorkomen dat u inhoud verlies
     <string name="title_power_optimizer">Batterijbesparing</string>
     <string name="title_realname_verify">ID verificatie</string>
     <string name="title_reply">Reactie</string>
-    <string name="title_restrict_data_usage">%s kan geen verbinding maken met het internet?</string>
+    <string name="title_restrict_data_usage">%s kan geen verbinding maken met het internet</string>
     <string name="title_safe_mode">Veilige modus inschakelen</string>
     <string name="title_show_notification">Meldingenpaneel widget</string>
     <string name="title_system_auto_download">Updates zullen automatisch gedownload worden</string>

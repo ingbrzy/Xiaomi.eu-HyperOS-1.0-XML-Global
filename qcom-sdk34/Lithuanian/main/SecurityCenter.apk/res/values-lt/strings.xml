@@ -591,7 +591,6 @@ Jokie programos duomenys nebus prarasti."</string>
     <string name="apps_list_header_title_sms">Tikrinti žinučių programą</string>
     <string name="apps_list_header_title_sms_access">Riboti prieigą prie patvirtinimo kodų</string>
     <string name="ask_create_shortcut">Sukurti pagrindinio ekrano nuorodą?</string>
-    <string name="audio_optimization_summary">Pagerinti garsą ir sumažinti foninį triukšmą pokalbiuose</string>
     <string name="audio_optimization_summary_new">Optimizuokite ausinių garso kokybę žaidimų metu i ir sumažinkite triukšmą pokalbių metu</string>
     <string name="audio_optimization_title">Garso gerinimas</string>
     <string name="auto_atsk_condition_battery_level_text_down">Kai baterija pasiekia %s</string>
@@ -1771,7 +1770,6 @@ Numeris bus įtrauktas į išimtis, tačiau anksčiau užblokuoti elementai neat
     <string name="gamebox_brightness">Ryškumas</string>
     <string name="gamebox_browser_not_find">Pirmiausia įdiekite „Mi“ naršyklę</string>
     <string name="gamebox_bullet_chat">Komentarai ekrane</string>
-    <string name="gamebox_cellular_network">Optimizuokite mobilųjį tinklą</string>
     <string name="gamebox_cellular_network_description">Automatiškai pasirinkite geriausią tinklo kelią pagal žaidimo delsą</string>
     <string name="gamebox_collimator">Taikinys</string>
     <string name="gamebox_display_1">Nenustatyta</string>
@@ -1997,7 +1995,6 @@ Record sequences and use them anytime!"</string>
     <string name="gb_manual_record_dialog_del_video_message">Negrįžtamai ištrinti pasirinktus vaizdo įrašus?</string>
     <string name="gb_manual_video_record_title">Įrašai</string>
     <string name="gb_margin_restrain">Nepaisyti atsitiktinių krašto palietimų</string>
-    <string name="gb_margin_restrain_description">Jūsų įrenginys lėčiau reaguos į atsitiktinį palietimą palei kraštus</string>
     <string name="gb_margin_restrain_seekbar">Atsitiktinio prisilietimo sritis</string>
     <string name="gb_msg_completely_shielded">Slėpti pranešimus</string>
     <string name="gb_msg_completely_shielded_summary">Slėpti</string>
@@ -2091,10 +2088,8 @@ bet taip pat padidina energijos sąnaudas ir leidžia įrenginiui perkaisti"</st
     <string name="gb_super_finger_up">Greitojo palietimo atsakas</string>
     <string name="gb_super_finger_up_msg">Pagreitinkite atsaką į palietimą aparatinės įrangos lygmeniu</string>
     <string name="gb_super_follow_up">Gestų sekimas</string>
-    <string name="gb_super_follow_up_msg">Gaukite geresnį atsaką realiuoju laiku visu gesto naudojimo metu</string>
     <string name="gb_super_motion">Patobulinti lietimo valdikliai</string>
     <string name="gb_super_shake">Stabilizavimo alhoritmas</string>
-    <string name="gb_super_shake_msg">Užtikrinkite, kad smulkesni gestai būtų labiau reakcingi naudodami tam tikrą algoritmą</string>
     <string name="gb_turbo_collimator_subtitle">Naudokite norimą įrenginį</string>
     <string name="gb_turbo_macro_subtitle">Vykdykite aukšto lygio veiksmus</string>
     <string name="gb_turbo_shoulder_subtitle">Nustatykite žaidimų valdymą</string>
@@ -2176,7 +2171,6 @@ Išmėginkite skirtingus charakterius ir specialiuosius efektus."</string>
     <string name="gd_setting_conversation">Konferencijos įrankiai</string>
     <string name="gd_setting_conversation_desc">Pateikia įvairiausių funkcijų naudoti viso ekrano garso ir vaizdo skambučiams</string>
     <string name="gd_setting_dock_activity_title">Šoninis įrankių rinkinys</string>
-    <string name="gd_setting_dock_call_summary">Balso ir vaizdo skambučių funkcijos (pvz., užpildanti šviesa)</string>
     <string name="gd_setting_dock_call_title">Skambučių įrankių rinkinys</string>
     <string name="gd_setting_dock_game_summary">Pagerinkite vaizdo raišką ir spartą žaidžiant žaidimus</string>
     <string name="gd_setting_dock_game_summary_new">Pagerinkite vaizdo raišką ir spartą žaidžiant žaidimus</string>
@@ -3656,7 +3650,7 @@ Ultra energijos taupymas išjungiamas"</string>
     <string name="power_center_5g_save_summary_text">Tam tikromis aplinkybėmis, padaryti 5G ryšį mažiau eikvojantį energiją</string>
     <string name="power_center_5g_save_title_text">5G energijos taupymas</string>
     <string name="power_center_abnormal_consume_analysis">Energijos naudojimo sutrikimai</string>
-    <string name="power_center_auto_shutdown">Suplanuotas išsijungimas/įjungimas</string>
+    <string name="power_center_auto_shutdown">Suplanuotas išsijungimas / įsijungimas</string>
     <string name="power_center_back">Atgal</string>
     <string name="power_center_battery_all">Visa</string>
     <string name="power_center_battery_app_detail">Programų akumuliatoriaus naudojimas</string>
@@ -4178,7 +4172,7 @@ Nesutikus su pirmiau nurodytomis paslaugomis, neturėsite galimybės naudotis ka
     <string name="privacy_pop_storage">Šiandien pasiekė saugyklą</string>
     <string name="privacy_prompt_tc_sms_report_message">Jūsų telefono numeris ir tinklo operatoriaus informacija bus užkoduoti ir išsiųsti į Mi serverius, siekiant atnaujinti jūsų duomenų vartojimo informaciją.</string>
     <string name="privacy_prompt_upload">Įkelti</string>
-    <string name="privacy_protect_summary">Apsaugokite savo asmeninę informaciją</string>
+    <string name="privacy_protect_summary">Apsaugoti privačius elementus</string>
     <string name="privacy_protect_title">Privatumo apsauga</string>
     <string name="privacy_provision_back">Grįžti</string>
     <string name="privacy_provision_more">Sužinokite daugiau apie privatumo apsaugą</string>
@@ -4782,15 +4776,11 @@ Atšaukti sutikimą dabar?"</string>
     <string name="st_antispam_mode_smart_sum">Blokuoti numerius, kuriuos pažymėjote patys, ir kitų vartotojų praneštus numerius</string>
     <string name="st_antispam_title_anoy_incoming">Skambučiai iš nepažįstamų</string>
     <string name="st_antispam_title_anoy_sms">Pranešimai iš nepažįstamų</string>
-    <string name="st_antispam_title_contact_incoming">Skambučiai nuo Kontaktų</string>
-    <string name="st_antispam_title_contact_sms">Pranešimai iš Kontaktų</string>
-    <string name="st_antispam_title_contactandanoy_group">Parametrai</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Privatūs numeriai</string>
     <string name="st_antispam_title_service_sms">Paslaugos pranešimai</string>
     <string name="st_antispam_title_whitelist">Išimtys</string>
     <string name="st_call_backsound_group">Blokuojamų sąrašo garsas</string>
-    <string name="st_call_intercept_contacts">Blokuoti skambučius iš kontaktų</string>
     <string name="st_call_intercept_forwarding">Blokuoti peradresuojamus skambučius</string>
     <string name="st_call_intercept_oversea">Blokuoti skambučius iš užsienio</string>
     <string name="st_call_intercept_reported">Blokuoti skambučius iš praneštų numerių</string>
@@ -4800,9 +4790,8 @@ Atšaukti sutikimą dabar?"</string>
     <string name="st_call_settings">Blokuojamų skambučių sąrašas</string>
     <string name="st_call_stranger_group">Blokuoti skambučius iš nepažįstamųjų</string>
     <string name="st_confirm_dialog_btn_open">Blokuoti</string>
-    <string name="st_confirm_dialog_summary_contact_call">Visi skambučiai iš kontaktų bus blokuojami.</string>
     <string name="st_confirm_dialog_summary_oversea_call">DI skambučiai iš užsienio telefono numerių bus blokuojami.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Visi skambučiai iš nepažįstamųjų bus blokuojami.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">Skambučiai iš bet kurio numerio, kuris neįtrauktas į išimtis arba nėra jūsų kontaktuose, bus užblokuoti. Įjungti dabar?</string>
     <string name="st_filter_keywords_setting_summary1">Pranešimai iš nežinomų numerių, kuriuose yra žodžiai nurodyti šiame sąraše, bus blokuojami.</string>
     <string name="st_filter_keywords_setting_summary2">(Raktažodžių atskyrimui naudokite kabelį)</string>
     <string name="st_filter_keywords_setting_summary3">Žinutės iš nežinomų numerių, kuriose naudojami šiame sąraše įvardyti žodžiai, bus blokuojamos.</string>
@@ -4814,7 +4803,6 @@ Atšaukti sutikimą dabar?"</string>
     <string name="st_message_SMSpass">Leisti SMS</string>
     <string name="st_message_phone_AntiSpam">Blokuoti skambučius</string>
     <string name="st_message_phonepass">Leisti skambučius</string>
-    <string name="st_msg_intercept_contacts">Blokuoti SMS iš kontaktų</string>
     <string name="st_msg_keyword_black">Raktažodžių blokavimas</string>
     <string name="st_msg_keyword_group">Raktažodžiai</string>
     <string name="st_msg_keyword_white">Raktažodžių išimtys</string>
@@ -4828,11 +4816,11 @@ Atšaukti sutikimą dabar?"</string>
     <string name="st_sub_title_whiteblack_list_group">Blokuojamų sąrašas</string>
     <string name="st_sum_call_wait">Jūsų „nebuvimo“ pranešimas blokuojamam asmeniui skambės kaip skambučio užimtumo signalas.</string>
     <string name="st_summary_blacklist_numbers">Blokuoti skambučius ir žinutes iš tam tikrų numerių ir regionų</string>
-    <string name="st_summary_blacklist_numbers_international">Blokuoti skambučius ir žinutes iš tam tikrų numerių</string>
+    <string name="st_summary_blacklist_numbers_international">Blokuoja skambučius pagal numerį arba jo pradžią</string>
     <string name="st_summary_keywords_blacklist">Įtraukti raktinius žodžius žinučių blokavimui</string>
     <string name="st_summary_special_numbers">Blokuoti pažymėtus telefono numerius</string>
     <string name="st_summary_whitelist_numbers">Leisti skambučius ir žinutes iš tam tikrų numerių ir regionų</string>
-    <string name="st_summary_whitelist_numbers_international">Leisti skambučius ir žinutes iš tam tikrų numerių</string>
+    <string name="st_summary_whitelist_numbers_international">Leidžia skambučius pagal numerį arba jo pradžią</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Įtraukti į blokuojamų sąrašą</string>
@@ -5264,9 +5252,9 @@ Formatavimas ištrins visus ^2 esančius duomenis. Siekdami išvengti duomenų p
     <string name="title_app_lock_disable">Užrakinti programas</string>
     <string name="title_app_update">Yra atnaujinimų</string>
     <string name="title_auto_update">Atnaujinti automatiškai</string>
-    <string name="title_background_connection">Nepavyksta naudoti „%s“ fone?</string>
-    <string name="title_block_calls_from_cantacts">Praleidžiate kontaktų skambučius?</string>
-    <string name="title_block_calls_from_strangers">Praleidžiate svarbius skambučius?</string>
+    <string name="title_background_connection">Nepavyksta naudoti „%s“ fone</string>
+    <string name="title_block_calls_from_cantacts">Praleidžiate kontaktų skambučius</string>
+    <string name="title_block_calls_from_strangers">Praleidžiate svarbius skambučius</string>
     <string name="title_chain_start">Apriboti masinį paleidimą</string>
     <string name="title_cleaner_cloudscan">Debesų šiukšlinės nuskaitymas</string>
     <string name="title_cloud_account">„Xiaomi“ paskyra</string>
@@ -5283,8 +5271,8 @@ Formatavimas ištrins visus ^2 esančius duomenis. Siekdami išvengti duomenų p
     <string name="title_dev_no">Kūrėjo nustatymai įjungti</string>
     <string name="title_dev_yes">Kūrėjo nustatymai išjungti</string>
     <string name="title_device_not_root">Šakninės prieigos užklausa buvo atmesta</string>
-    <string name="title_do_not_disturb">Negirdite savo skambėjimo tono?</string>
-    <string name="title_eye_shield">Ekrano spalvų testas neatrodo gerai?</string>
+    <string name="title_do_not_disturb">Negirdite savo skambėjimo tono</string>
+    <string name="title_eye_shield">Ekrano spalvų testas neatrodo gerai</string>
     <string name="title_find_device">Rasti įrenginį</string>
     <string name="title_first_aid_kit">Spręsti problemas</string>
     <string name="title_flow_notification">Mobiliųjų duomenų įspėjimas</string>
@@ -5317,7 +5305,7 @@ Formatavimas ištrins visus ^2 esančius duomenis. Siekdami išvengti duomenų p
     <string name="title_power_optimizer">Energijos taupymas</string>
     <string name="title_realname_verify">ID patikrinimas</string>
     <string name="title_reply">Komentuoti</string>
-    <string name="title_restrict_data_usage">%s nepavyksta prisijungti prie interneto?</string>
+    <string name="title_restrict_data_usage">%s nepavyksta prisijungti prie interneto</string>
     <string name="title_safe_mode">Įjungti saugų režimą</string>
     <string name="title_show_notification">Pranešimų skydelio valdiklis</string>
     <string name="title_system_auto_download">Atnaujinimai bus atsiųsti automatiškai</string>
