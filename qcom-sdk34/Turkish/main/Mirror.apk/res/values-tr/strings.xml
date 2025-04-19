@@ -39,12 +39,14 @@
     <string name="afternoon">Öğleden sonra</string>
     <string name="am">ÖÖ</string>
     <string name="app_no_storage_permission">Önce %1$s uygulamasına Ayarlar > Uygulamalar > %2$s > İzinler menüsünden depolama alanına erişme izni verin</string>
+    <string name="app_not_support_subscreen">Daha pencere büyütülemiyor</string>
     <string name="app_opened_in_new_window">Bu uygulama yeni bir pencerede açıldı</string>
     <string name="cancel">İptal</string>
     <string name="cancel_button">İptal</string>
     <string name="cast_mcc_tips_button_cancel">Yok say</string>
     <string name="cast_mcc_tips_button_ok">Ayarlar</string>
     <string name="cast_mcc_tips_title">Wi-Fi ayarlarını değiştir</string>
+    <string name="circulate_cta_user_agreement">"Devam etmeden önce &lt;txt href=\"%1$s\">Kullanıcı Sözleşmesi'ni&lt;/txt> ve &lt;txt href=\"%2$s\">Gizlilik Politikası'nı&lt;/txt> okuyun ve kabul edin."</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="clipboard_tip">%1$s cihazından kopyalandı</string>
     <string name="close">Kapat</string>
@@ -153,14 +155,15 @@
     <string name="generic_error_no_keyguard">Bu cihaz PIN, desen veya şifre kullanımını desteklemiyor</string>
     <string name="generic_error_user_canceled">Kimlik doğrulama kullanıcı tarafından iptal edildi.</string>
     <string name="global_cta_agree">Kabul et</string>
-    <string name="global_cta_desc">"%s'ya hoş geldiniz! Uygulamamız aşağıdaki hizmetleri sağlamaktadır:"</string>
+    <string name="global_cta_desc">"%s'ne hoş geldiniz! Uygulamamız aşağıdaki hizmetleri sağlamaktadır:"</string>
     <string name="global_cta_exit">Reddet</string>
     <string name="global_cta_feature_connect">Xiaomi Hesabınızı kullanarak telefonlara ve tabletlere bağlanma</string>
     <string name="global_cta_feature_control">Tabletinizdeki akıllı telefon uygulamalarını görüntüleme ve kullanma</string>
-    <string name="global_cta_user_agreement">"%1$s'yı kullanmadan önce, &lt;txt href=\"%2$s\">Kullanıcı Sözleşmesi'ni&lt;/txt> ve &lt;txt href=\"%3$s\">Gizlilik Politikası'nı&lt;/txt> okuyun ve kabul edin."</string>
+    <string name="global_cta_user_agreement">"%1$s'ni kullanmadan önce &lt;txt href=\"%2$s\">Kullanıcı Sözleşmesi'ni&lt;/txt> ve &lt;txt href=\"%3$s\">Gizlilik Politikası'nı&lt;/txt> okuyun ve kabul edin."</string>
     <string name="guide_window_btn_know">Anladım</string>
     <string name="guide_window_operation">Ekranın kenarından ortasına doğru kaydırın</string>
     <string name="guide_window_title">Geri git</string>
+    <string name="handoff_switch_is_closed">Uygulama handoff kapalı</string>
     <string name="hint_password">Şifreyi girin</string>
     <string name="hint_password_error">Hatalı şifre</string>
     <string name="http_buffer_size">HTTP önbellek boyutu</string>
@@ -206,8 +209,12 @@ Bu sayfayı kapatın ve tekrar deneyin."</string>
     <string name="miui15_app_name">Cihaz ara bağlantı hizmetleri</string>
     <string name="miui15_enable_wifi_alert_message">Cihaz ara bağlantı hizmetleri Wi-Fi kullanarak cihazları bağlar. Wi-Fi şimdi açılsın mı?</string>
     <string name="miui15_invisible_mode_dialog_message">Gizli modda iken cihaz ara bağlantı hizmetleri kullanılamıyor. Önce Gizli modu kapatın.</string>
+    <string name="miui15_low_version_dialog_title">Cihaz ara bağlantı hizmetlerini güncelle</string>
+    <string name="miui15_privacy_all_purpose">Cihaz ara bağlantı hizmetleri, telefonunuzu bir bilgisayara bağlamanızı ve iki cihazı tek bir çalışma istasyonunda birleştirmenizi sağlar.</string>
+    <string name="miui15_privacy_pad_all_purpose">Cihaz ara bağlantı hizmetleri, mobil cihazlarınızı tek bir çalışma istasyonunda birleştirmenizi, böylece telefonunuzdaki uygulamaları tabletinizde kullanmanızı, aramaları başka bir cihazda yanıtlamanızı, paylaşılan panoyu kullanmanızı, ögeleri aktarmanızı ve ekran içeriğini yansıtmanızı sağlar.</string>
     <string name="miui15_revoke_message">"Devam ederseniz Cihaz Ara Bağlantı Hizmetleri'nin Gizlilik Politikası'na verdiğiniz izni geri çekeceksiniz. Halihazırda toplanan ve saklanan kişisel veriler aksi gerekmedikçe uygulanabilir yasalar ve yönetmeliklerin gerektirdiği gibi belirli bir süre içinde silinecektir. Cihaz Ara Bağlantı Hizmetleri gerekli kişisel verilerin toplanmasına dayalı olarak hizmetlerini sağladığı için iznin geri çekilmesi hizmetleri kabul etmeyi reddetmeniz olarak kabul edilecektir. İzin şimdi geri çekilsin mi?
 Bu işlem diğer cihazınızda Cihaz Ara Bağlantı Hizmetleri tarafından oluşturulan verileri silmeyecektir. Tüm cihazlarınızda oluşturulan verileri silmek için her birinde izni geri çekin."</string>
+    <string name="miui15_scanner_lower_version_toast">Bağlanmak için bilgisayarınızdaki yazılımı güncelleyin</string>
     <string name="miuix_access_state_desc">Seçili</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Tüm seçimleri kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
@@ -326,6 +333,12 @@ Bu işlem diğer cihazınızda Cihaz Ara Bağlantı Hizmetleri tarafından oluş
     <string name="pm">ÖS</string>
     <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
     <string name="privacy_describe_change_wifi_state">Wi-Fi kullanarak cihazları bağlamak ve dosyaları aktarmak için</string>
+    <string name="privacy_describe_location">Yakındaki bilgisayarları bulmak ve dosyaları aktarmak için</string>
+    <string name="privacy_describe_record_audio">Ses oynatmayı bilgisayarınıza yönlendirmek için</string>
+    <string name="privacy_describe_storage">Dosya göndermek ve almak için</string>
+    <string name="privacy_pad_describe_change_wifi_state">Ekran içeriğini yansıtmak için</string>
+    <string name="privacy_pad_describe_record_audio">Yansıtma sırasında ses oynatmayı başka bir cihaza aktarmak için</string>
+    <string name="privacy_pad_describe_storage">Ögeleri cihazlar arasında aktarmak için</string>
     <string name="relay_msg_photo_text">"Başarıyla Galeri'ye kaydedildi"</string>
     <string name="relay_msg_photo_title">Yeni görüntü</string>
     <string name="relay_msg_screenshot_text">"Başarıyla Galeri'ye kaydedildi"</string>

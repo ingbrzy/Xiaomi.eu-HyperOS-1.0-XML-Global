@@ -39,12 +39,14 @@
     <string name="afternoon">Popodne</string>
     <string name="am">prijep.</string>
     <string name="app_no_storage_permission">Prvo dopustite %1$s pristup pohrani u Postavkama > Aplikacije > %2$s > dopuštenja</string>
+    <string name="app_not_support_subscreen">Nije moguće povećati ovaj prozor</string>
     <string name="app_opened_in_new_window">Ovu aplikaciju otvorio u novom prozoru</string>
     <string name="cancel">Odustani</string>
     <string name="cancel_button">Odustani</string>
     <string name="cast_mcc_tips_button_cancel">Zanemari</string>
     <string name="cast_mcc_tips_button_ok">Postavke</string>
     <string name="cast_mcc_tips_title">Promijeni Wi-Fi postavke</string>
+    <string name="circulate_cta_user_agreement">Pročitajte i potvrdite naš &lt;txt href=\"%1$s\">Korisnički ugovor&lt;/txt> i &lt;txt href=\"%2$s\">Pravila o privatnosti&lt;/txt> proje nastavka.</string>
     <string name="clearable_edittext_clear_description">Očisti</string>
     <string name="clipboard_tip">Kopirano iz %1$s</string>
     <string name="close">Zatvori</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Razumijem</string>
     <string name="guide_window_operation">Prevucite od ruba do centra zaslona</string>
     <string name="guide_window_title">Natrag</string>
+    <string name="handoff_switch_is_closed">Handsoff aplikacije je isključen</string>
     <string name="hint_password">Unesite zaporku</string>
     <string name="hint_password_error">Netočna zaporka</string>
     <string name="http_buffer_size">HTTP veličina predmemorije</string>
@@ -206,8 +209,12 @@ Zatvorite ovu stranicu i pokušajte ponovno."</string>
     <string name="miui15_app_name">Usluge međusobnog povezivanja uređaja</string>
     <string name="miui15_enable_wifi_alert_message">Usluge međusobnog povezivanja uređaja povezuju uređaje pomoću Wi-Fi-ja. Uključiti Wi-Fi sada?</string>
     <string name="miui15_invisible_mode_dialog_message">Ne možete koristiti usluge međusobnog povezivanja uređaja dok ste u anonimnom načinu rada. Najprije isključite anonimni način rada.</string>
+    <string name="miui15_low_version_dialog_title">Ažuriraj usluge međusobnog povezivanja uređaja</string>
+    <string name="miui15_privacy_all_purpose">Usluge međusobnog povezivanja uređaja omogućuju vam povezivanje telefona s računalom i spajanje dva uređaja u jednu radnu stanicu.</string>
+    <string name="miui15_privacy_pad_all_purpose">Usluge međusobnog povezivanja uređaja omogućuju vam da kombinirate svoje mobilne uređaje u jednu radnu stanicu kako biste mogli koristiti aplikacije s telefona na tabletu, odgovarati na pozive na drugom uređaju, koristiti zajednički međuspremnik, prenositi stavke i emitirati sadržaj zaslona.</string>
     <string name="miui15_revoke_message">"Ako nastavite, povući ćete pristanak na Pravila o privatnosti Usluge međusobnog povezivanja uređaja. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani u određenom roku u skladu s važećim zakonima i propisima, osim ako se ne zahtijeva drugačije. Budući da Usluge međusobnog povezivanja uređaja pružaju svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja tih usluga. Sada povući suglasnost?
 Ova radnja neće izbrisati podatke koje je Usluge međusobnog povezivanja uređaja stvorila na vašem drugom uređaju. Za brisanje podataka generiranih na svim vašim uređajima povucite privolu na svakom od njih."</string>
+    <string name="miui15_scanner_lower_version_toast">Ažurirajte softver na svom računalu za povezivanje</string>
     <string name="miuix_access_state_desc">Odabrano</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Poništiti sve</string>
     <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
@@ -326,6 +333,12 @@ Ova radnja neće izbrisati podatke koje je Usluge međusobnog povezivanja uređa
     <string name="pm">poslijep.</string>
     <string name="preference_copied">Sažetak \"%1$s\" kopiran je u međuspremnik.</string>
     <string name="privacy_describe_change_wifi_state">Za povezivanje uređaja i prijenos datoteka putem Wi-Fi-ja</string>
+    <string name="privacy_describe_location">Za pronalaženje računala u blizini i prijenos datoteka</string>
+    <string name="privacy_describe_record_audio">Za preusmjeravanje reprodukcije zvuka na vaše računalo</string>
+    <string name="privacy_describe_storage">Za slanje i primanje datoteka</string>
+    <string name="privacy_pad_describe_change_wifi_state">Za emitiranje sadržaja zaslona</string>
+    <string name="privacy_pad_describe_record_audio">Za prijenos reprodukcije zvuka na drugi uređaj tijekom emitiranja</string>
+    <string name="privacy_pad_describe_storage">Za prijenos stavki između uređaja</string>
     <string name="relay_msg_photo_text">Uspješno spremljeno u Galeriju</string>
     <string name="relay_msg_photo_title">Nova slika</string>
     <string name="relay_msg_screenshot_text">Uspješno spremljeno u Galeriju</string>

@@ -11,12 +11,14 @@
     <string name="afternoon">Günortadan sonra</string>
     <string name="am">GƏ</string>
     <string name="app_no_storage_permission">%1$s-nin yadddaşaTənzimləmələr > Tətbiqlər > %2$s > Əvvəlcə İcazələr first menyusundan müraciət etməsinə icazə ver</string>
+    <string name="app_not_support_subscreen">Pəncərəni daha çox böyütmək olmur</string>
     <string name="app_opened_in_new_window">Bu tətbiqi yeni pəncərədə açdı</string>
     <string name="cancel">Ləğv et</string>
     <string name="cancel_button">Ləğv et</string>
     <string name="cast_mcc_tips_button_cancel">Nəzərə alma</string>
     <string name="cast_mcc_tips_button_ok">Tənzimləmələr</string>
     <string name="cast_mcc_tips_title">Wi-Fi ətnzimləmələrini dəyişdirin</string>
+    <string name="circulate_cta_user_agreement">Davam etməzdən əvvəl &lt;txt href=\"%1$s\">İstifadəçi Sazişi&lt;/txt> and &lt;txt href=\"%2$s\">Gizlilik Siyasəti&lt;/txt> sazişlərimizi oxuyun və qəbul edin.</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="clipboard_tip">%1$s-dən kopyalandı</string>
     <string name="close">Bağla</string>
@@ -118,6 +120,7 @@
     <string name="guide_window_btn_know">Başa düşdüm</string>
     <string name="guide_window_operation">Yandan ekranın mərkəzinə doğru sürüşdürün</string>
     <string name="guide_window_title">Geri get</string>
+    <string name="handoff_switch_is_closed">Tətbiq ötürülməsi söndürülüb</string>
     <string name="hint_password">Şifrə daxil edin</string>
     <string name="hint_password_error">Yanlış şifrə</string>
     <string name="http_buffer_size">HTTP keş ölçüsü</string>
@@ -163,8 +166,12 @@ Bu səhifəni bağlayın və yenidən cəhd edin."</string>
     <string name="miui15_app_name">Cihaz qarşılıqlı əlaqə xidmətləri</string>
     <string name="miui15_enable_wifi_alert_message">Cihaz qarşılıqlı əlaqə xidmətləri Wi-Fi istifadə edərək cihazları birləşdirir. Wi-Fi indi açılsın?</string>
     <string name="miui15_invisible_mode_dialog_message">Gizli rejimində olduğunuz zaman cihaz qarşılıqlı əlaqə xidmətlərindən istifadə edə bilməzsiniz. Əvvəlcə Gizli rejimini söndürün.</string>
+    <string name="miui15_low_version_dialog_title">Cihaz qarşılıqlı əlaqə xidmətlərini yenilə</string>
+    <string name="miui15_privacy_all_purpose">Cihaz qarşılıqlı əlaqə xidmətləri telefonunuzu kompüterə qoşmaq və iki cihazı bir iş stansiyasında birləşdirmək imkanı verir.</string>
+    <string name="miui15_privacy_pad_all_purpose">Cihaz qarşılıqlı əlaqə xidmətləri cihazlarınızı bir iş stansiyasına birləşdirərək sizə planşetinizdə telefonunuzdan tətbiqlərdən istifadə etməyə, başqa cihazda zənglərə cavab verməyə, paylaşılan buferdən istifadə etməyə, elementləri ötürməyə və ekran məzmununu yayımlamağa imkan verir.</string>
     <string name="miui15_revoke_message">"Davam etsəniz, Cihaz Qarşılıqlı Əlaqə Xidmətlərinin Gizlilik Siyasətinə verdiyiniz razılığı geri çəkəcəksiniz. Artıq toplanmış və saxlanılan şəxsi məlumatlar, başqa hal tələb olunmadığı təqdirdə, müvafiq qanun və qaydalara uyğun olaraq müəyyən müddət ərzində silinəcəkdir. Cihaz Qarşılıqlı Əlaqə Xidmətləri öz xidmətlərini zəruri şəxsi məlumatların toplanması əsasında təmin etdiyi üçün, razılığınızın geri çəkilməsi onun xidmətlərini qəbul etməkdən imtina kimi qəbul ediləcək. Razılıq indi geri çəkilsin?
 Bu əməliyyat digər cihazınızda Cihaz Qarşılıqlı Əlaqə Xidmətləri tərəfindən yaradılan məlumatları silməyəcək. Bütün cihazlarınızda yaradılan məlumatları silmək üçün onların hər biri ilə bağlı razılığı geri çəkin."</string>
+    <string name="miui15_scanner_lower_version_toast">Qoşulmaq üçün telefonunuzdakı proqram təminatını yenilə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Bütün seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
@@ -281,6 +288,12 @@ Bu əməliyyat digər cihazınızda Cihaz Qarşılıqlı Əlaqə Xidmətləri t�
     <string name="phone_settings_current_device_tip">Xiaomi Hesabınızla əlaqəli digər telefonlara avtomatik qoşulun</string>
     <string name="pm">GS</string>
     <string name="privacy_describe_change_wifi_state">Wi-Fi istifadə edərək cihazları birləşdirmək və faylları köçürmək üçün</string>
+    <string name="privacy_describe_location">Yaxınlıqdakı kompüterləri tapmaq və faylları köçürmək üçün</string>
+    <string name="privacy_describe_record_audio">Səs oxudulmasını kompüterinizə yönləndirmək üçün</string>
+    <string name="privacy_describe_storage">Faylları göndərmək və qəbul etmək üçün</string>
+    <string name="privacy_pad_describe_change_wifi_state">Ekran məzmununu əks etdirmək üçün</string>
+    <string name="privacy_pad_describe_record_audio">Yayım zamanı səsin oxudulmasını başqa cihaza köçürmək üçün</string>
+    <string name="privacy_pad_describe_storage">Cihazlar arasında elementlərin köçürülməsi üçün</string>
     <string name="relay_msg_photo_text">Qalereyada uğurla yaddaşda saxlanıldı</string>
     <string name="relay_msg_photo_title">Yeni şəkil</string>
     <string name="relay_msg_screenshot_text">Qalereyada uğurla yaddaşda saxlanıldı</string>
@@ -357,7 +370,7 @@ bu əməliyyatı telefonunuzda yerinə yetirin."</string>
     <string name="settings_revoke_privacy_policy">Razılığın geri çəkilməsi</string>
     <string name="settings_scanner_button">Skaner</string>
     <string name="settings_trusted">Avtomatik olaraq qoşul</string>
-    <string name="settings_trusted_delete">Köçür</string>
+    <string name="settings_trusted_delete">Sil</string>
     <string name="settings_trusted_delete_dialog_msg">Siz bu cihazı siyahıdan sildikdən sonra ona avtomatik qoşula bilməyəcəksiniz.</string>
     <string name="settings_trusted_delete_dialog_title">Avtomatik qoşulma dayandırılsın?</string>
     <string name="settings_trusted_device_group">Avtomatik qoşulan cihazlar</string>

@@ -39,12 +39,14 @@
     <string name="afternoon">Middag</string>
     <string name="am">AM</string>
     <string name="app_no_storage_permission">Geef %1$s eerst toegang tot opslag in Instellingen > Apps > %2$s > Toestemmingen</string>
+    <string name="app_not_support_subscreen">Kan dit venster niet maximaliseren</string>
     <string name="app_opened_in_new_window">Deze app in een nieuw venster geopend</string>
     <string name="cancel">Annuleren</string>
     <string name="cancel_button">Annuleren</string>
     <string name="cast_mcc_tips_button_cancel">Negeren</string>
     <string name="cast_mcc_tips_button_ok">Instellingen</string>
     <string name="cast_mcc_tips_title">Wifi-instellingen wijzigen</string>
+    <string name="circulate_cta_user_agreement">Lees en ga akkoord met onze &lt;txt href=\"%1$s\">Gebruikersovereenkomst&lt;/txt> en &lt;txt href=\"%2$s\">Privacybeleid&lt;/txt> voordat u doorgaat.</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
     <string name="clipboard_tip">Gekopieerd van %1$s</string>
     <string name="close">Sluiten</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Begrepen</string>
     <string name="guide_window_operation">Schuif van de zijkant naar het midden van het scherm</string>
     <string name="guide_window_title">Ga terug</string>
+    <string name="handoff_switch_is_closed">App-overdracht is uitgeschakeld</string>
     <string name="hint_password">Wachtwoord invoeren</string>
     <string name="hint_password_error">Onjuist wachtwoord</string>
     <string name="http_buffer_size">HTTP cachegrootte</string>
@@ -206,8 +209,12 @@ Sluit deze pagina en probeer het opnieuw."</string>
     <string name="miui15_app_name">Interconnectiviteitsdiensten voor apparaat</string>
     <string name="miui15_enable_wifi_alert_message">Interconnectiviteitsdiensten voor apparaat verbinden met apparaten via wifi. Wifi nu inschakelen?</string>
     <string name="miui15_invisible_mode_dialog_message">Kan interconnectiviteitsdiensten voor apparaat niet gebruiken als u incognito bent. Schakel eerst Incognito modus uit.</string>
+    <string name="miui15_low_version_dialog_title">Interconnectiviteitsdiensten voor apparaat bijwerken</string>
+    <string name="miui15_privacy_all_purpose">Met interconnectiviteitsdiensten voor apparaat kunt u uw telefoon op een computer aansluiten en twee apparaten combineren in één werkstation.</string>
+    <string name="miui15_privacy_pad_all_purpose">Met interconnectiviteitsdiensten voor apparaat kunt u uw mobiele apparaten combineren in één werkstation, zodat u de apps van uw telefoon op uw tablet kunt gebruiken, oproepen op een ander apparaat kunt beantwoorden, een gedeeld klembord kunt gebruiken, items kunt overbrengen en scherminhoud kunt casten.</string>
     <string name="miui15_revoke_message">"Als u doorgaat, trekt u uw toestemming voor het Privacybeleid van Interconnectiviteitsdiensten voor apparaat in. De persoonlijke informatie die al is verzameld en bewaard, wordt binnen de specifieke periode verwijderd in overeenstemming met de toepasselijke wet- en regelgeving, tenzij anders vereist. Aangezien Interconnectiviteitsdiensten voor apparaat zijn diensten levert op basis van het verzamelen van de benodigde persoonlijke informatie, wordt uw intrekking van uw toestemming beschouwd als een weigering om onze diensten te accepteren. Toestemming nu intrekken?
 Met deze actie worden de gegevens die door Interconnectiviteitsdiensten voor apparaat op uw andere apparaat zijn gegenereerd, niet verwijderd. Als u de gegevens die op al uw apparaten zijn gegenereerd, wilt verwijderen, trekt u de toestemming voor elk van hen in."</string>
+    <string name="miui15_scanner_lower_version_toast">Werk de software op uw computer bij om verbinding te maken</string>
     <string name="miuix_access_state_desc">Geselecteerd</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
@@ -326,6 +333,12 @@ Met deze actie worden de gegevens die door Interconnectiviteitsdiensten voor app
     <string name="pm">PM</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="privacy_describe_change_wifi_state">Voor het verbinden van apparaten en het overzetten van bestanden via wifi</string>
+    <string name="privacy_describe_location">Voor het vinden van computers in de buurt en het overzetten van bestanden</string>
+    <string name="privacy_describe_record_audio">Om het afspelen van audio om te leiden naar uw computer</string>
+    <string name="privacy_describe_storage">Voor het verzenden en ontvangen van bestanden</string>
+    <string name="privacy_pad_describe_change_wifi_state">Voor het casten van scherminhoud</string>
+    <string name="privacy_pad_describe_record_audio">Voor het overzetten van afspelen van audio naar een ander apparaat tijdens het casten</string>
+    <string name="privacy_pad_describe_storage">Voor het overzetten van items tussen apparaten</string>
     <string name="relay_msg_photo_text">Succesvol opgeslagen in Galerij</string>
     <string name="relay_msg_photo_title">Nieuwe afbeelding</string>
     <string name="relay_msg_screenshot_text">Succesvol opgeslagen in Galerij</string>

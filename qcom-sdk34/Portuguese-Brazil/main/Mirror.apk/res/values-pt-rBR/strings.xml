@@ -39,12 +39,14 @@
     <string name="afternoon">Tarde</string>
     <string name="am">AM</string>
     <string name="app_no_storage_permission">Permita que %1$s acesse o armazenamento em Configurações > Apps > %2$s > Permissões primeiro</string>
+    <string name="app_not_support_subscreen">Não é possível maximizar esta janela</string>
     <string name="app_opened_in_new_window">App aberto em uma nova janela</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_button">Cancelar</string>
     <string name="cast_mcc_tips_button_cancel">Ignorar</string>
     <string name="cast_mcc_tips_button_ok">Configuraçõoes</string>
     <string name="cast_mcc_tips_title">Alterar configurações de Wi-Fi</string>
+    <string name="circulate_cta_user_agreement">Leia e aceite o nosso &lt;txt href=\"%1$s\">Contrato do Usuário&lt;/txt> e a &lt;txt href=\"%2$s\">Política de Privacidade&lt;/txt> antes de continuar.</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="clipboard_tip">Copiado de %1$s</string>
     <string name="close">Fechar</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Entendido</string>
     <string name="guide_window_operation">Deslize da lateral para o centro da tela</string>
     <string name="guide_window_title">Voltar</string>
+    <string name="handoff_switch_is_closed">O handoff de apps está desativado</string>
     <string name="hint_password">Inserir senha</string>
     <string name="hint_password_error">Senha incorreta</string>
     <string name="http_buffer_size">Tamanho do cache HTTP</string>
@@ -206,8 +209,12 @@ Feche esta página e tente novamente."</string>
     <string name="miui15_app_name">Serviços de interconectividade a dispositivos</string>
     <string name="miui15_enable_wifi_alert_message">Os Serviços de interconectividade a dispositivos conecta dispositivos utilizando o Wi-Fi. Ativar o Wi-Fi agora?</string>
     <string name="miui15_invisible_mode_dialog_message">Não é possível utilizar os serviços de interconectividade a dispositivos quando você está incógnito. Desative o Modo incógnito primeiro.</string>
+    <string name="miui15_low_version_dialog_title">Atualize os Serviços de interconectividade a dispositivos</string>
+    <string name="miui15_privacy_all_purpose">Os Serviços de interconectividade a dispositivos permitem que você conecte o seu telefone a um computador e combine os dois dispositivos em uma só estação de trabalho.</string>
+    <string name="miui15_privacy_pad_all_purpose">Os Serviços de interconectividade a dispositivos permitem que você utilize os apps do seu telefone no seu tablet, atenda a chamadas em outro dispositivo, utilize a área de transferência compartilhada, transfira itens, e transmita o conteúdo da tela.</string>
     <string name="miui15_revoke_message">"Ao continuar, você retira o seu consentimento à Política de Privacidade dos Serviços de interconectividade a dispositivos. As informações pessoais já coletadas e retidas serão excluídas dentro do período especificado conforme as leis e regulamentos aplicáveis, exceto quando for exigido o contrário. Como os Serviços de interconectividade a dispositivos fornecem seus serviços com base na coleta de informações pessoais necessárias, a sua retirada de consentimento será considerada como uma recusa dos seus serviços. Retirar o consentimento agora?
 Esta ação não excluirá os dados gerados pelos Serviços de interconectividade a dispositivos no seu outro dispositivo. Para excluir os dados gerados em todos os seus dispositivos, retire o consentimento em todos eles."</string>
+    <string name="miui15_scanner_lower_version_toast">Atualize o software no seu computador para conectar</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar tudo</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
@@ -326,6 +333,12 @@ Esta ação não excluirá os dados gerados pelos Serviços de interconectividad
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="privacy_describe_change_wifi_state">Para conectar a dispositivos e transferir arquivos utilizando o Wi-Fi</string>
+    <string name="privacy_describe_location">Para encontrar computadores por perto e transferir arquivos</string>
+    <string name="privacy_describe_record_audio">Para redirecionar a reprodução de áudio para o seu computador</string>
+    <string name="privacy_describe_storage">Para enviar e receber arquivos</string>
+    <string name="privacy_pad_describe_change_wifi_state">Para transmitir o conteúdo da tela</string>
+    <string name="privacy_pad_describe_record_audio">Para transferir a reprodução de áudio para outro dispositivo durante a transmissão</string>
+    <string name="privacy_pad_describe_storage">Para transferir itens entre dispositivos</string>
     <string name="relay_msg_photo_text">Salvo na Galeria com sucesso</string>
     <string name="relay_msg_photo_title">Nova imagem</string>
     <string name="relay_msg_screenshot_text">Salvo na Galeria com sucesso</string>

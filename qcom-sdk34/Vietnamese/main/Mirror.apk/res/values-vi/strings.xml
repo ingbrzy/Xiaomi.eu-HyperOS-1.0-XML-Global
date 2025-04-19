@@ -39,12 +39,14 @@
     <string name="afternoon">Buổi chiều</string>
     <string name="am">SA</string>
     <string name="app_no_storage_permission">Cho phép %1$s truy cập lưu trữ trong Cài đặt > Ứng dụng > %2$s > Quyền trước</string>
+    <string name="app_not_support_subscreen">Không thể tối đa cửa sổ này</string>
     <string name="app_opened_in_new_window">Đã mở ứng dụng này trên cửa sổ mới</string>
     <string name="cancel">Hủy</string>
     <string name="cancel_button">Hủy</string>
     <string name="cast_mcc_tips_button_cancel">Bỏ qua</string>
     <string name="cast_mcc_tips_button_ok">Cài đặt</string>
     <string name="cast_mcc_tips_title">Thay đổi cài đặt Wi-Fi</string>
+    <string name="circulate_cta_user_agreement">Đọc và đồng ý với &lt;txt href=\"%1$s\">Thỏa thuận Người dùng&lt;/txt> và &lt;txt href=\"%2$s\">Chính sách Riêng tư&lt;/txt> trước khi bạn tiếp tục.</string>
     <string name="clearable_edittext_clear_description">Xóa</string>
     <string name="clipboard_tip">Đã sao chép từ %1$s</string>
     <string name="close">Đóng</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Tôi biết</string>
     <string name="guide_window_operation">Trượt từ cạnh sang giữa màn hình</string>
     <string name="guide_window_title">Quay lại</string>
+    <string name="handoff_switch_is_closed">Handoff ứng dụng đã bị tắt</string>
     <string name="hint_password">Nhập mật khẩu</string>
     <string name="hint_password_error">Mật khẩu không chính xác</string>
     <string name="http_buffer_size">Kích thước bộ nhớ đệm HTTP</string>
@@ -206,8 +209,12 @@
     <string name="miui15_app_name">Dịch vụ liên thông thiết bị</string>
     <string name="miui15_enable_wifi_alert_message">Dịch vụ liên thông thiết bị kết nối các thiết bị sử dụng Wi-Fi. Bật Wi-Fi ngay?</string>
     <string name="miui15_invisible_mode_dialog_message">Không thể sử dụng dịch vụ liên thông khi bạn đang ẩn danh. Tắt Chế độ ẩn danh trước.</string>
+    <string name="miui15_low_version_dialog_title">Cập nhật dịch vụ liên thông thiết bị</string>
+    <string name="miui15_privacy_all_purpose">Dịch vụ liên thông thiết bị cho phép bạn kết nối điện thoại với máy tính và kết hợp hai thiết bị thành một trạm làm việc.</string>
+    <string name="miui15_privacy_pad_all_purpose">Dịch vụ liên thông thiết bị cho phép bạn kết hợp các thiết bị di động thành một trạm làm việc để bạn có thể sử dụng các ứng dụng từ điện thoại trên máy tính bảng, trả lời cuộc gọi trên thiết bị khác, sử dụng bộ nhớ tạm chia sẻ, chuyển mục và chiếu nội dung màn hình.</string>
     <string name="miui15_revoke_message">"Nếu tiếp tục, bạn sẽ rút lại chấp thuận của mình đối với Chính sách Riêng tư của Dịch vụ Liên thông Thiết bị. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác. Do Dịch vụ Liên thông Thiết bị cung cấp các dịch vụ dựa trên việc thu thập thông tin cá nhân cần thiết, việc rút lại chấp thuận của bạn sẽ được coi là từ chối chấp nhận các dịch vụ. Rút lại chấp thuận ngay?
 Hành động này sẽ không xóa dữ liệu được tạo bởi Dịch vụ Liên thông Thiết bị trên thiết bị khác của bạn. Để xóa dữ liệu được tạo trên tất cả thiết bị, rút lại chấp thuận trên từng thiết bị đó."</string>
+    <string name="miui15_scanner_lower_version_toast">Cập nhật phần mềm trên máy tính để kết nối</string>
     <string name="miuix_access_state_desc">Đã chọn</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn tất cả</string>
     <string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
@@ -325,7 +332,13 @@ Hành động này sẽ không xóa dữ liệu được tạo bởi Dịch vụ
     <string name="phone_settings_current_device_tip">Kết nối với điện thoại khác đã liên kết với Tài khoản Xiaomi tự động</string>
     <string name="pm">CH</string>
     <string name="preference_copied">Đã sao chép \"%1$s\" vào bảng nhớ tạm.</string>
-    <string name="privacy_describe_change_wifi_state">Để kết nối thiết bị và truyền tập tin bằng Wi-Fi</string>
+    <string name="privacy_describe_change_wifi_state">Để kết nối thiết bị và chuyển tập tin bằng Wi-Fi</string>
+    <string name="privacy_describe_location">Để tìm máy tính lân cận và chuyển tập tin</string>
+    <string name="privacy_describe_record_audio">Để chuyển hướng âm thanh sang máy tính</string>
+    <string name="privacy_describe_storage">Để gửi và nhận tập tin</string>
+    <string name="privacy_pad_describe_change_wifi_state">Để chiếu nội dung màn hình</string>
+    <string name="privacy_pad_describe_record_audio">Để chuyển phát âm thanh sang thiết bị khác khi chiếu</string>
+    <string name="privacy_pad_describe_storage">Để chuyển các mục giữa các thiết bị</string>
     <string name="relay_msg_photo_text">Lưu vào Thư viện thành công</string>
     <string name="relay_msg_photo_title">Ảnh mới</string>
     <string name="relay_msg_screenshot_text">Lưu vào Thư viện thành công</string>

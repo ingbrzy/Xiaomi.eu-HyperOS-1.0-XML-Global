@@ -39,12 +39,14 @@
     <string name="afternoon">Eftermiddag</string>
     <string name="am">F.m</string>
     <string name="app_no_storage_permission">TIllåt %1$s att få åtkomst till lagringen i Inställningar > Appar >%2$s> Behörigheter först</string>
+    <string name="app_not_support_subscreen">Kan inte maximera det här fönstret</string>
     <string name="app_opened_in_new_window">Öppnade den här appen i ett nytt fönster</string>
     <string name="cancel">Avbryt</string>
     <string name="cancel_button">Avbryt</string>
     <string name="cast_mcc_tips_button_cancel">Ignorera</string>
     <string name="cast_mcc_tips_button_ok">Inställningar</string>
     <string name="cast_mcc_tips_title">Byt WIFI-inställningar</string>
+    <string name="circulate_cta_user_agreement">Läs och godkänn vårt &lt;txt href=\"%1$s\">Användaravtal&lt;/txt> och vår &lt;txt href=\"%2$s\">Integritetspolicy&lt;/txt> innan du fortsätter.</string>
     <string name="clearable_edittext_clear_description">Rensa</string>
     <string name="clipboard_tip">Kopierad från %1$s</string>
     <string name="close">Stäng</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Jag förstår</string>
     <string name="guide_window_operation">Svep från sidan till mitten av skärmen</string>
     <string name="guide_window_title">Gå tillbaka</string>
+    <string name="handoff_switch_is_closed">App-överlämning är avaktiverat</string>
     <string name="hint_password">Ange lösenord</string>
     <string name="hint_password_error">Felaktigt lösenord</string>
     <string name="http_buffer_size">HTTP-cachestorlek</string>
@@ -206,8 +209,12 @@ Stäng den här sidan och försök igen."</string>
     <string name="miui15_app_name">Tjänster för enhetsanslutning</string>
     <string name="miui15_enable_wifi_alert_message">Tjänster för enhetanslutning, ansluter enheter med wifi. Aktivera wifi nu?</string>
     <string name="miui15_invisible_mode_dialog_message">Kan inte använda tjänster för enhetsanslutning när du är inkognito. Avaktivera Inkognito-läge först.</string>
+    <string name="miui15_low_version_dialog_title">Uppdatera Tjänster för enhetsanslutning</string>
+    <string name="miui15_privacy_all_purpose">Tjänster för enhetsanslutning låter dig ansluta din telefon till en dator och kombinera två enheter i en arbetsstation.</string>
+    <string name="miui15_privacy_pad_all_purpose">Tjänster för enhetsanslutning låter dig kompinera dina mobila enheter till en arbetsstation så att du kan använda apparna från din telefon på din platta, besvara samtal på en annan enhet, använda Delade urklipp, överföra objekt och casta skärminnehåll.</string>
     <string name="miui15_revoke_message">"Om du fortsätter, så kommer du att dra tillbaka ditt samtycke till integritetspolicyn för Tjänster för enhetsanslutning. Den personliga information som redan samlats in och behållits kommer att raderas inom den specifika perioden i enlighet med gällande lagar och förordningar om inte annat krävs. Eftersom Tjänster för enhetsanslutning tillhandahåller sina tjänster baserat på insamlingen av den nödvändiga personliga informationen kommer ditt återkallande av samtycke att betraktas som en vägran att acceptera Tjänster för enhetsanslutning:s-tjänster. Vill du återkalla samtycket nu?
 Den här åtgärden kommer inte att radera informationen som genererats av Tjänster för enhetsanslutning, på din andra enhet. För att radera information som genereras på alla dina enheter behöver du återkalla samtycket för var och en av dem."</string>
+    <string name="miui15_scanner_lower_version_toast">Uppdatera mjukvaran på din dator för att ansluta</string>
     <string name="miuix_access_state_desc">Valt</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Avmarkera alla</string>
     <string name="miuix_appcompat_action_mode_select_all">Välj alla</string>
@@ -326,6 +333,12 @@ Den här åtgärden kommer inte att radera informationen som genererats av Tjän
     <string name="pm">E.m</string>
     <string name="preference_copied">%1$s har kopierats till Urklipp.</string>
     <string name="privacy_describe_change_wifi_state">För att ansluta enheter och överföra filer med Wifi</string>
+    <string name="privacy_describe_location">För att hitta datorer inärheten och överföra filer</string>
+    <string name="privacy_describe_record_audio">För att omdirigera ljuduppspelning till din dator</string>
+    <string name="privacy_describe_storage">För att skicka och ta emot filer</string>
+    <string name="privacy_pad_describe_change_wifi_state">För att casta skärminnehåll</string>
+    <string name="privacy_pad_describe_record_audio">För att överföra ljuduppspelning till en annan enhet under casting</string>
+    <string name="privacy_pad_describe_storage">För att överföra objekt mellan enheter</string>
     <string name="relay_msg_photo_text">Sparad till galleriet</string>
     <string name="relay_msg_photo_title">Ny bild</string>
     <string name="relay_msg_screenshot_text">Sparad till galleriet</string>

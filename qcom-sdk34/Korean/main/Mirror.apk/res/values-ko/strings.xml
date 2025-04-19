@@ -39,12 +39,14 @@
     <string name="afternoon">오후</string>
     <string name="am">오전</string>
     <string name="app_no_storage_permission">먼저 설정 > 앱 > %2$s > 권한에서 %1$s의 저장소 접근을 허용하십시오</string>
+    <string name="app_not_support_subscreen">창을 최대화할 수 없음</string>
     <string name="app_opened_in_new_window">새 창에서 이 앱 열림</string>
     <string name="cancel">취소</string>
     <string name="cancel_button">취소</string>
     <string name="cast_mcc_tips_button_cancel">무시</string>
     <string name="cast_mcc_tips_button_ok">설정</string>
     <string name="cast_mcc_tips_title">Wi-Fi 설정 변경</string>
+    <string name="circulate_cta_user_agreement">계속하시기 전, 저희의 &lt;txt href=\"%1$s\">이용자 약관&lt;/txt> 및 &lt;txt href=\"%2$s\">개인 정보 보호 정책&lt;/txt>을 읽고 동의해 주십시오.</string>
     <string name="clearable_edittext_clear_description">지우기</string>
     <string name="clipboard_tip">%1$s에서 복사됨</string>
     <string name="close">닫기</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">알겠습니다</string>
     <string name="guide_window_operation">화면 측면에서 가운데로 슬라이드</string>
     <string name="guide_window_title">돌아가기</string>
+    <string name="handoff_switch_is_closed">앱 핸드오프 꺼짐</string>
     <string name="hint_password">비밀번호 입력</string>
     <string name="hint_password_error">잘못된 비밀번호</string>
     <string name="http_buffer_size">HTTP 캐시 크기</string>
@@ -206,8 +209,12 @@
     <string name="miui15_app_name">기기 상호 연결 서비스</string>
     <string name="miui15_enable_wifi_alert_message">기기 상호 연결 서비스는 Wi-Fi를 사용하여 기기에 연결합니다. 지금 Wi-Fi를 켜시겠습니까?</string>
     <string name="miui15_invisible_mode_dialog_message">익명 모드 상태에서는 기기 상호 연결 서비스를 사용할 수 없습니다. 먼저 익명 모드를 끄십시오.</string>
+    <string name="miui15_low_version_dialog_title">기기 상호 연결 서비스 업데이트</string>
+    <string name="miui15_privacy_all_purpose">기기 상호 연결 서비스를 이용하면 휴대전화를 컴퓨터에 연결하고 두 기기를 하나의 작업 스테이션으로 결합할 수 있습니다.</string>
+    <string name="miui15_privacy_pad_all_purpose">기기 상호 연결 서비스를 이용하면 모바일 기기를 하나의 작업 스테이션으로 결합하여 태블릿에서 휴대전화 앱을 사용하고, 다른 기기에서 통화를 수신하고, 공유 클립보드를 사용하고, 항목을 전송하고, 화면 내용을 캐스팅할 수 있습니다.</string>
     <string name="miui15_revoke_message">"계속하시는 경우, 기기 상호 연결 서비스의 개인 정보 보호 정책에 대한 동의를 철회하게 됩니다. 저희는 이미 수집 및 보유 중인 개인 정보를 별도의 요구가 없는 한, 관련 법률에 따라 특정 기간 내에 삭제할 것입니다. 기기 상호 연결 서비스는 필수 개인 정보 수집을 기반으로 이루어지기 때문에 동의 철회는 서비스를 거부하는 것으로 간주됩니다. 지금 동의를 철회하시겠습니까?
 이 작업은 다른 기기에서 기기 상호 연결 서비스에 의해 생성된 데이터는 삭제하지 않습니다. 모든 기기에서 생선된 데이터를 삭제하시려면 각 기기에서 동의를 철회하십시오."</string>
+    <string name="miui15_scanner_lower_version_toast">컴퓨터의 소프트웨어를 업데이트하여 연결하십시오</string>
     <string name="miuix_access_state_desc">선택됨</string>
     <string name="miuix_appcompat_action_mode_deselect_all">전체 선택 해제</string>
     <string name="miuix_appcompat_action_mode_select_all">모두 선택</string>
@@ -326,6 +333,12 @@
     <string name="pm">오후</string>
     <string name="preference_copied">"'%1$s'이(가) 클립보드에 복사되었습니다."</string>
     <string name="privacy_describe_change_wifi_state">Wi-Fi를 사용하여 기기를 연결하고 파일을 전송하기 위해</string>
+    <string name="privacy_describe_location">주변의 컴퓨터를 찾고 파일을 전송하기 위해</string>
+    <string name="privacy_describe_record_audio">오디오 재생을 컴퓨터로 리디렉션하기 위해</string>
+    <string name="privacy_describe_storage">파일 전송 및 수신을 위해</string>
+    <string name="privacy_pad_describe_change_wifi_state">화면 내용을 캐스팅하기 위해</string>
+    <string name="privacy_pad_describe_record_audio">캐스팅 중 오디오 재생을 다른 기기로 전송하기 위해</string>
+    <string name="privacy_pad_describe_storage">기기 간 항목을 전송하기 위해</string>
     <string name="relay_msg_photo_text">갤러리에 저장 성공</string>
     <string name="relay_msg_photo_title">새 이미지</string>
     <string name="relay_msg_screenshot_text">갤러리에 저장 성공</string>

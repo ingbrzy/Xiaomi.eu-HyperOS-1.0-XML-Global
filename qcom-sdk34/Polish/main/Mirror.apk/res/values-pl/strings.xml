@@ -39,12 +39,14 @@
     <string name="afternoon">Popołudnie</string>
     <string name="am">AM</string>
     <string name="app_no_storage_permission">Najpierw zezwól %1$s na dostęp do pamięci w Ustawienia > Aplikacje > %2$s > Uprawnienia</string>
+    <string name="app_not_support_subscreen">Nie można zmaksymalizować tego okna</string>
     <string name="app_opened_in_new_window">Otworzono aplikację w nowym oknie</string>
     <string name="cancel">Anuluj</string>
     <string name="cancel_button">Anuluj</string>
     <string name="cast_mcc_tips_button_cancel">Ignoruj</string>
     <string name="cast_mcc_tips_button_ok">Ustawienia</string>
     <string name="cast_mcc_tips_title">Zmień ustawienia Wi-Fi</string>
+    <string name="circulate_cta_user_agreement">Przeczytaj i zaakceptuj naszą &lt;txt href=\"%1$s\">Umowę Użytkownika&lt;/txt> i &lt;txt href=\"%2$s\">Politykę Prywatności&lt;/txt>, zanim przejdziesz dalej.</string>
     <string name="clearable_edittext_clear_description">Wyczyść</string>
     <string name="clipboard_tip">Skopiowano z %1$s</string>
     <string name="close">Zamknij</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Rozumiem</string>
     <string name="guide_window_operation">Przesuń od boku na środek ekranu</string>
     <string name="guide_window_title">Wróć</string>
+    <string name="handoff_switch_is_closed">Przekazywanie aplikacji jest wyłączone</string>
     <string name="hint_password">Wprowadź hasło</string>
     <string name="hint_password_error">Nieprawidłowe hasło</string>
     <string name="http_buffer_size">Rozmiar pamięci podręcznej HTTP</string>
@@ -206,8 +209,12 @@ Zamknij tę stronę i spróbuj ponownie."</string>
     <string name="miui15_app_name">Usługi łączności urządzenia</string>
     <string name="miui15_enable_wifi_alert_message">Usługi łączności urządzenia łączą urządzenia za pomocą Wi-Fi. Wyłączyć Wi-Fi?</string>
     <string name="miui15_invisible_mode_dialog_message">Nie można korzystać z usług łączności urządzenia w Trybie incognito. Najpierw wyłącz Tryb incognito.</string>
+    <string name="miui15_low_version_dialog_title">Zaktualizuj usługi łączności urządzenia</string>
+    <string name="miui15_privacy_all_purpose">Usługi łączności urządzenia umożliwiają połączenie telefonu z komputerem oraz połączenie dwóch urządzeń w jedną stację roboczą.</string>
+    <string name="miui15_privacy_pad_all_purpose">Dzięki usługom łączności urządzenia możesz połączyć swoje urządzenia mobilne w jedną stację roboczą i korzystać z aplikacji z telefonu na tablecie, odbierać połączenia na innym urządzeniu, korzystać ze współdzielonego schowka, przesyłać elementy i wyświetlać zawartość ekranu.</string>
     <string name="miui15_revoke_message">"Kontynuacja oznacza cofnięcie zgody na Politykę Prywatności Usług łączności urządzenia. Zebrane i przechowywane już dane osobowe zostaną usunięte w określonym czasie, zgodnie z obowiązującymi przepisami. Jako iż Usługi łączności urządzenia są świadczone na podstawie zbierania niezbędnych danych osobowych, cofnięcie zgody będzie równoznaczne z odmową akceptacji ich usług. Wycofać zgodę?
 Ta akcja nie spowoduje usunięcia danych wygenerowanych przez Usługi łączności urządzenia na innych urządzeniach. Aby usunąć dane wygenerowane na wszystkich Twoich urządzeniach, będzie wymagane wycofanie zgody na każdym z nich."</string>
+    <string name="miui15_scanner_lower_version_toast">Zaktualizuj oprogramowanie na komputerze, by się połączyć</string>
     <string name="miuix_access_state_desc">Wybrane</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Odznacz wszystko</string>
     <string name="miuix_appcompat_action_mode_select_all">Zaznacz wszystko</string>
@@ -326,6 +333,12 @@ Ta akcja nie spowoduje usunięcia danych wygenerowanych przez Usługi łącznoś
     <string name="pm">PM</string>
     <string name="preference_copied">Skopiowano „%1$s” do schowka.</string>
     <string name="privacy_describe_change_wifi_state">Do łączenia urządzeń i przesyłania plików za pomocą Wi-Fi</string>
+    <string name="privacy_describe_location">Do znajdowania komputerów w pobliżu i przesyłania plików</string>
+    <string name="privacy_describe_record_audio">Do przekierowania odtwarzania dźwięku na komputer</string>
+    <string name="privacy_describe_storage">Do wysyłania i odbierania plików</string>
+    <string name="privacy_pad_describe_change_wifi_state">Do wyświetlania treści z ekranu</string>
+    <string name="privacy_pad_describe_record_audio">Do przenoszenia odtwarzania dźwięku na inne urządzenie podczas projekcji</string>
+    <string name="privacy_pad_describe_storage">Do przesyłania elementów pomiędzy urządzeniami</string>
     <string name="relay_msg_photo_text">Pomyślnie zapisano w Galerii</string>
     <string name="relay_msg_photo_title">Nowy obraz</string>
     <string name="relay_msg_screenshot_text">Pomyślnie zapisano w Galerii</string>
