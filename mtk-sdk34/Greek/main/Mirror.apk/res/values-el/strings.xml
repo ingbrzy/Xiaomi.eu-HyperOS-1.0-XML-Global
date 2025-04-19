@@ -39,12 +39,14 @@
     <string name="afternoon">Απόγευμα</string>
     <string name="am">ΠΜ</string>
     <string name="app_no_storage_permission">Επιτρέψτε πρώτα στο %1$s να έχει πρόσβαση στον χώρο αποθήκευσης στις Ρυθμίσεις > Εφαρμογές > %2$s > Άδειες</string>
+    <string name="app_not_support_subscreen">Δεν είναι δυνατή η μεγιστοποίηση αυτού του παραθύρου</string>
     <string name="app_opened_in_new_window">Η εφαρμογή άνοιξε σε νέο παράθυρο</string>
     <string name="cancel">Ακύρωση</string>
     <string name="cancel_button">Ακύρωση</string>
     <string name="cast_mcc_tips_button_cancel">Παράλειψη</string>
     <string name="cast_mcc_tips_button_ok">Ρυθμίσεις</string>
     <string name="cast_mcc_tips_title">Αλλαγή ρυθμίσεων Wi-Fi</string>
+    <string name="circulate_cta_user_agreement">Διαβάστε και αποδεχτείτε τη &lt;txt href=\"%1$s\">Συμφωνία Χρήστη&lt;/txt> και την &lt;txt href=\"%2$s\">Πολιτική Απορρήτου&lt;/txt> μας πριν συνεχίσετε.</string>
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
     <string name="clipboard_tip">Αντιγραφή από %1$s</string>
     <string name="close">Κλείσιμο</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Κατανοητό</string>
     <string name="guide_window_operation">Σύρετε από το πλάι προς στο κέντρο της οθόνης</string>
     <string name="guide_window_title">Πίσω</string>
+    <string name="handoff_switch_is_closed">Μεταβίβαση εφαρμογής ανενεργή</string>
     <string name="hint_password">Εισαγωγή κωδικού πρόσβασης</string>
     <string name="hint_password_error">Εσφαλμένος κωδικός</string>
     <string name="http_buffer_size">Μέγεθος μνήμης cache HTTP</string>
@@ -206,8 +209,12 @@
     <string name="miui15_app_name">Υπηρεσίες διασυνδεσιμότητας συσκευής</string>
     <string name="miui15_enable_wifi_alert_message">Οι υπηρεσίες διασυνδεσιμότητας συσκευής συνδέουν συσκευές χρησιμοποιώντας Wi-Fi. Ενεργοποίηση Wi-Fi τώρα;</string>
     <string name="miui15_invisible_mode_dialog_message">Δεν μπορείτε να χρησιμοποιήσετε τις υπηρεσίες διασυνδεσιμότητας συσκευής όταν είστε σε ανώνυμη λειτουργία. Απενεργοποιήστε πρώτα την Ανώνυμη λειτουργία.</string>
+    <string name="miui15_low_version_dialog_title">Ενημερώστε τις υπηρεσίες διασυνδεσιμότητας συσκευής</string>
+    <string name="miui15_privacy_all_purpose">Οι υπηρεσίες διασυνδεσιμότητας συσκευής σας επιτρέπουν να συνδέσετε το τηλέφωνό σας σε έναν υπολογιστή και να συνδυάσετε δύο συσκευές σε έναν σταθμό εργασίας.</string>
+    <string name="miui15_privacy_pad_all_purpose">Οι υπηρεσίες διασυνδεσιμότητας συσκευής σας επιτρέπουν να συνδυάσετε τις φορητές συσκευές σας σε έναν σταθμό εργασίας, ώστε να μπορείτε να χρησιμοποιείτε τις εφαρμογές από το τηλέφωνο στο τάμπλετ σας, να απαντάτε σε κλήσεις σε άλλη συσκευή, να χρησιμοποιείτε κοινόχρηστο πρόχειρο, να μεταφέρετε στοιχεία και να μεταδίδετε περιεχόμενο οθόνης.</string>
     <string name="miui15_revoke_message">"Εάν συνεχίσετε, θα ανακαλέσετε τη συγκατάθεσή σας στην Πολιτική Απορρήτου Υπηρεσιών Διασυνδεσιμότητας Συσκευής. Οι προσωπικές πληροφορίες που έχουν συλλεχθεί και διατηρηθεί μέχρι στιγμής θα διαγραφούν μέσα στη συγκεκριμένη περίοδο, σύμφωνα με τους ισχύοντες νόμους και κανονισμούς, εκτός εάν απαιτείται διαφορετικά. Καθώς οι Υπηρεσίες Διασυνδεσιμότητας Συσκευής παρέχουν τις υπηρεσίες τους με βάση τη συλλογή των απαραίτητων προσωπικών πληροφοριών, με την ανάκληση της συγκατάθεσής σας θα θεωρηθεί ότι αρνείστε να αποδεχτείτε τις υπηρεσίες τους. Ανάκληση συγκατάθεσης τώρα;
 Αυτή η ενέργεια δεν θα διαγράψει τα δεδομένα που δημιουργούνται από τις Υπηρεσίες Διασυνδεσιμότητας Συσκευής στην άλλη συσκευή σας. Για να διαγράψετε τα δεδομένα που δημιουργούνται σε όλες τις συσκευές σας, αποσύρετε τη συγκατάθεσή σας για καθεμία από αυτές."</string>
+    <string name="miui15_scanner_lower_version_toast">Ενημερώστε το λογισμικό στον υπολογιστή σας για να συνδεθείτε</string>
     <string name="miuix_access_state_desc">Έγινε επιλογή</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
@@ -326,6 +333,12 @@
     <string name="pm">ΜΜ</string>
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="privacy_describe_change_wifi_state">Για σύνδεση συσκευών και μεταφορά αρχείων με χρήση Wi-Fi</string>
+    <string name="privacy_describe_location">Για εύρεση κοντινών υπολογιστών και μεταφορά αρχείων</string>
+    <string name="privacy_describe_record_audio">Για ανακατεύθυνση της αναπαραγωγής ήχου στον υπολογιστή σας</string>
+    <string name="privacy_describe_storage">Για αποστολή και λήψη αρχείων</string>
+    <string name="privacy_pad_describe_change_wifi_state">Για μετάδοση περιεχομένου οθόνης</string>
+    <string name="privacy_pad_describe_record_audio">Για μεταφορά αναπαραγωγής ήχου σε άλλη συσκευή κατά τη μετάδοση</string>
+    <string name="privacy_pad_describe_storage">Για μεταφορά αντικειμένων μεταξύ συσκευών</string>
     <string name="relay_msg_photo_text">Επιτυχής αποθήκευση στη Συλλογή</string>
     <string name="relay_msg_photo_title">Νέα εικόνα</string>
     <string name="relay_msg_screenshot_text">Επιτυχής αποθήκευση στη Συλλογή</string>

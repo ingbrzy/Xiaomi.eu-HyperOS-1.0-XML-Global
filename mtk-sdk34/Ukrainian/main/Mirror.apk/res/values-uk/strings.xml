@@ -39,12 +39,14 @@
     <string name="afternoon">Після обіду</string>
     <string name="am">ДО</string>
     <string name="app_no_storage_permission">Спочатку надайте %1$s доступ до сховища у розділі \"Налаштування\" > \"Програми\" > %2$s > \"Дозволи\".</string>
+    <string name="app_not_support_subscreen">Неможливо збільшити це вікно</string>
     <string name="app_opened_in_new_window">Ця програма відкрита у новому вікні</string>
     <string name="cancel">Скасувати</string>
     <string name="cancel_button">Скасувати</string>
     <string name="cast_mcc_tips_button_cancel">Ігнорувати</string>
     <string name="cast_mcc_tips_button_ok">Налаштування</string>
     <string name="cast_mcc_tips_title">Змінити налаштування Wi-Fi</string>
+    <string name="circulate_cta_user_agreement">Перш ніж продовжити, ознайомтеся та погодьтеся з нашою &lt;txt href=\"%1$s\">Угодою користувача&lt;/txt> та &lt;txt href=\"%2$s\">Політикою конфіденційності&lt;/txt>.</string>
     <string name="clearable_edittext_clear_description">Очистити</string>
     <string name="clipboard_tip">Скопійовано з %1$s</string>
     <string name="close">Закрити</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Зрозуміло</string>
     <string name="guide_window_operation">Проведіть від краю до центра екрана</string>
     <string name="guide_window_title">Назад</string>
+    <string name="handoff_switch_is_closed">Передача керування програмами вимкнена</string>
     <string name="hint_password">Введіть пароль</string>
     <string name="hint_password_error">Неправильний пароль</string>
     <string name="http_buffer_size">Розмір кешу HTTP</string>
@@ -206,8 +209,12 @@
     <string name="miui15_app_name">"Послуги взаємопов'язаності пристроїв"</string>
     <string name="miui15_enable_wifi_alert_message">"Послуги взаємопов'язаності пристроїв з'єднують пристрої за допомогою Wi-Fi. Увімкнути Wi-Fi?"</string>
     <string name="miui15_invisible_mode_dialog_message">"Неможливо використовувати Послуги взаємопов'язаності пристроїв, коли ви в Анонімному режимі. Спочатку вимкніть Анонімний режим."</string>
+    <string name="miui15_low_version_dialog_title">"Оновіть послуги взаємопов'язаності пристроїв"</string>
+    <string name="miui15_privacy_all_purpose">"Послуги взаємопов'язаності пристроїв дозволяють вам підключати телефон до комп'ютера та об'єднувати два пристрої в одну робочу станцію."</string>
+    <string name="miui15_privacy_pad_all_purpose">"Послуги взаємопов'язаності пристроїв дозволяють вам об'єднувати свої мобільні пристрої в одну робочу станцію, тому ви зможете використовувати програми телефону на планшеті, відповідати на дзвінки на іншому пристрої, використовувати спільний буфер обміну, передавати об'єкти та транслювати вміст екрана."</string>
     <string name="miui15_revoke_message">"Якщо ви продовжите, то ви відкличете свою згоду з Політикою конфіденційності Послуги взаємопов'язаності пристроїв. Вже зібрана і збережена особиста інформація буде видалена протягом певного періоду часу відповідно до чинного законодавства, якщо не вказано інше. Так як Послузі взаємопов'язаності пристроїв необхідно здійснювати збір особистої інформації для надання послуг, то відкликання згоди з Політикою конфіденційності буде розглядатися як відмова від отримання послуг Послуги взаємопов'язаності пристроїв. Відкликати згоду?
 Щоб видалити дані, згенеровані на всіх ваших пристроях, відкликайте згоду на кожному з них."</string>
+    <string name="miui15_scanner_lower_version_toast">"Для підключення оновіть програмне забезпечення на вашому комп'ютері"</string>
     <string name="miuix_access_state_desc">Вибрано</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Зняти вибір</string>
     <string name="miuix_appcompat_action_mode_select_all">Вибрати все</string>
@@ -326,6 +333,12 @@
     <string name="pm">ПО</string>
     <string name="preference_copied">\"%1$s\": скопійовано в буфер обміну.</string>
     <string name="privacy_describe_change_wifi_state">Для підключення до пристроїв та передачі на них файлів за допомогою Wi-Fi</string>
+    <string name="privacy_describe_location">"Для пошуку комп'ютерів поблизу та передачі на них файлів"</string>
+    <string name="privacy_describe_record_audio">"Для перенаправлення відтворення звуку на ваш комп'ютер"</string>
+    <string name="privacy_describe_storage">Для відправлення та отримання файлів</string>
+    <string name="privacy_pad_describe_change_wifi_state">Для трансляції вмісту екрана</string>
+    <string name="privacy_pad_describe_record_audio">Для передачі відтворення звуку на інші пристрої під час трансляції</string>
+    <string name="privacy_pad_describe_storage">"Для передачі об'єктів на інші пристрої"</string>
     <string name="relay_msg_photo_text">Успішно збережено до Галереї</string>
     <string name="relay_msg_photo_title">Нове зображення</string>
     <string name="relay_msg_screenshot_text">Успішно збережено до Галереї</string>

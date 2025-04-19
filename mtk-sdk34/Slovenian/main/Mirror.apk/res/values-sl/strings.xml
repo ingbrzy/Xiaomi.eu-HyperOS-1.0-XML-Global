@@ -39,12 +39,14 @@
     <string name="afternoon">Popoldne</string>
     <string name="am">dop.</string>
     <string name="app_no_storage_permission">Najprej omogočite aplikaciji \"%1$s\" dostop do pomnilnika v Nastavitve > Aplikacije > %2$s > Dovoljenja</string>
+    <string name="app_not_support_subscreen">Tega okna ni mogoče povečati</string>
     <string name="app_opened_in_new_window">Aplikacija odprta v novem oknu</string>
     <string name="cancel">Prekliči</string>
     <string name="cancel_button">Prekliči</string>
     <string name="cast_mcc_tips_button_cancel">Prezri</string>
     <string name="cast_mcc_tips_button_ok">Nastavitve</string>
     <string name="cast_mcc_tips_title">Spremeni Wi-Fi nastavitve</string>
+    <string name="circulate_cta_user_agreement">Preden nadaljujete, preberite in se strinjajte z našim &lt;txt href=\"%1$s\">Uporabniškim dogovorom&lt;/txt> in &lt;txt href=\"%2$s\">Pravilnikom o zasebnosti&lt;/txt>.</string>
     <string name="clearable_edittext_clear_description">Počisti</string>
     <string name="clipboard_tip">Kopirano od naprave \"%1$s\"</string>
     <string name="close">Zapri</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Razumem</string>
     <string name="guide_window_operation">Podrsajte od roba proti sredini zaslona</string>
     <string name="guide_window_title">Odhod nazaj</string>
+    <string name="handoff_switch_is_closed">Predaja aplikacije izklopljena</string>
     <string name="hint_password">Vnesite geslo</string>
     <string name="hint_password_error">Napačno geslo</string>
     <string name="http_buffer_size">Velikost HTTP predpomnilnika</string>
@@ -206,8 +209,12 @@ Zaprite to stran in poskusite ponovno."</string>
     <string name="miui15_app_name">Storitve medsebojne povezljivosti naprav</string>
     <string name="miui15_enable_wifi_alert_message">Storitve medsebojne povezljivosti naprav povezujejo naprave prek omrežja Wi-Fi. Želite vklopiti Wi-Fi zdaj?</string>
     <string name="miui15_invisible_mode_dialog_message">Ko ste v Načinu brez beleženja zgodovine, ne morete uporabljati storitev medsebojne povezljivosti naprav. Najprej izklopite Način brez beleženja zgodovine.</string>
+    <string name="miui15_low_version_dialog_title">Posodobitev storitev medsebojne povezljivosti naprav</string>
+    <string name="miui15_privacy_all_purpose">Storitve medsebojne povezljivosti naprav omogočajo povezavo telefona z računalnikom in združevanje dveh naprav v eno delovno postajo.</string>
+    <string name="miui15_privacy_pad_all_purpose">Storitve medsebojne povezljivosti naprav omogočajo združevanje mobilnih naprav v eno delovno postajo, tako da lahko aplikacije iz telefona uporabljate v tablici, sprejemate klice v drugi napravi, uporabljate skupno odložišče, prenašate predmete in oddajate vsebino zaslona.</string>
     <string name="miui15_revoke_message">"Če nadaljujete, boste preklicali soglasje k Pravilniku o zasebnosti za Medsebojno povezljivost naprav. Osebni podatki, ki so že zbrani in shranjeni, bodo v določenem roku izbrisani v skladu z veljavnimi zakoni in drugimi predpisi, razen če ni zahtevano drugače. Ker storitev Medsebojne povezljivosti naprav zagotavlja svoje storitve na podlagi zbiranja potrebnih osebnih podatkov, bo vaš preklic soglasja obravnavan kot zavrnitev sprejemanja storitev Medsebojne povezljivosti naprav. Želite zdaj preklicati soglasje?
 To dejanje ne bo izbrisalo podatkov, ki jih storitev Medsebojno povezljivosti naprav ustvari v drugih napravah. Če želite izbrisati podatke v vseh vaših napravah, morate preklicati soglasje v vsaki od teh naprav."</string>
+    <string name="miui15_scanner_lower_version_toast">Posodobite programsko opremo računalnika za povezavo</string>
     <string name="miuix_access_state_desc">Izbrano</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbiro</string>
     <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
@@ -300,7 +307,7 @@ To dejanje ne bo izbrisalo podatkov, ki jih storitev Medsebojno povezljivosti na
     <string name="pad_settings_connect_pad_group">Uporabite vašo tablico</string>
     <string name="pad_settings_connect_pc_group">Uporabite vaš računalnik</string>
     <string name="pad_settings_current_device_tip">Samodejno se povežite z drugimi tablicami, povezanimi z vašim Xiaomi Računom</string>
-    <string name="pad_settings_handoff_app_summary">Nadaljujte dejavnosti, začete v eni aplikaciji, v drugi napravi</string>
+    <string name="pad_settings_handoff_app_summary">Nadaljujte z uporabo aplikacije v drugi napravi</string>
     <string name="pad_settings_handoff_app_title">Aplikacija</string>
     <string name="pad_settings_handoff_clipboard_summary">Kopirajte vsebino na eni napravi in jo prilepite na drugo</string>
     <string name="pad_settings_handoff_clipboard_title">Odložišče</string>
@@ -326,6 +333,12 @@ To dejanje ne bo izbrisalo podatkov, ki jih storitev Medsebojno povezljivosti na
     <string name="pm">pop.</string>
     <string name="preference_copied">»%1$s« je bilo kopirano v odložišče.</string>
     <string name="privacy_describe_change_wifi_state">Za povezovanje naprav in prenos datotek prek Wi-Fi povezave</string>
+    <string name="privacy_describe_location">Za iskanje računalnikov v bližini in prenos datotek</string>
+    <string name="privacy_describe_record_audio">Za prenos predvajanega zvoka na računalnik</string>
+    <string name="privacy_describe_storage">Za pošiljanje in prejemanje datotek</string>
+    <string name="privacy_pad_describe_change_wifi_state">Za oddajanje vsebine zaslona</string>
+    <string name="privacy_pad_describe_record_audio">Za prenos zvoka, ki se predvaja, na drugo napravo, medtem oddajanjem</string>
+    <string name="privacy_pad_describe_storage">Za prenos predmetov med napravami</string>
     <string name="relay_msg_photo_text">Uspešno shranjeno v Galerijo</string>
     <string name="relay_msg_photo_title">Nova slika</string>
     <string name="relay_msg_screenshot_text">Uspešno shranjeno v Galerijo</string>

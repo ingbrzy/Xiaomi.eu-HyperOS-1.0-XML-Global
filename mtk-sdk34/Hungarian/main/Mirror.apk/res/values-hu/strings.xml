@@ -39,12 +39,14 @@
     <string name="afternoon">Délután</string>
     <string name="am">DE</string>
     <string name="app_no_storage_permission">Először engedélyezze a(z) %1$s számára a tárhely elérését a Beállítások > Alkalmazások > %2$s > Engedélyek menüben</string>
+    <string name="app_not_support_subscreen">Nem lehet maximalizálni ezt az ablakot</string>
     <string name="app_opened_in_new_window">Az alkalmazást egy új ablakban nyitotta meg</string>
     <string name="cancel">Mégse</string>
     <string name="cancel_button">Mégse</string>
     <string name="cast_mcc_tips_button_cancel">Mellőzés</string>
     <string name="cast_mcc_tips_button_ok">Beállítások</string>
     <string name="cast_mcc_tips_title">Wi-Fi-beállítások módosítása</string>
+    <string name="circulate_cta_user_agreement">A folytatás előtt olvassa el és fogadja el a &lt;txt href=\"%1$s\">Felhasználói szerződésünket&lt;/txt> és az &lt;txt href=\"%2$s\">Adatvédelmi irányelveinket&lt;/txt>.</string>
     <string name="clearable_edittext_clear_description">Törlés</string>
     <string name="clipboard_tip">Átmásolva innen: %1$s</string>
     <string name="close">Bezárás</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Értem</string>
     <string name="guide_window_operation">Csúsztassa a képernyő oldaláról a közepére</string>
     <string name="guide_window_title">Visszalépés</string>
+    <string name="handoff_switch_is_closed">Az alkalmazásátadás ki van kapcsolva</string>
     <string name="hint_password">Jelszó megadása</string>
     <string name="hint_password_error">Hibás jelszó</string>
     <string name="http_buffer_size">HTTP gyorsítótár-méret</string>
@@ -206,8 +209,12 @@ Zárja be ezt az oldalt, és próbálja újra."</string>
     <string name="miui15_app_name">Eszköz összekapcsolódási szolgáltatások</string>
     <string name="miui15_enable_wifi_alert_message">Az eszköz összekapcsolódási szolgáltatások Wi-Fi hálózaton csatlakoztatják az eszközöket. Bekapcsolja a Wi-Fi-t most?</string>
     <string name="miui15_invisible_mode_dialog_message">Inkognitó módban nem használhatók az eszköz összekapcsolódási szolgáltatások. Először kapcsolja ki az Inkognitó módot.</string>
+    <string name="miui15_low_version_dialog_title">Eszközösszekapcsolási szolgáltatások frissítése</string>
+    <string name="miui15_privacy_all_purpose">Az eszközösszekapcsolási szolgáltatások lehetővé teszik, hogy telefonját egy számítógéphez csatlakoztassa, és a két eszközt egyetlen munkaállomássá egyesítse.</string>
+    <string name="miui15_privacy_pad_all_purpose">Az eszközösszekapcsolási szolgáltatások lehetővé teszik, hogy mobileszközeit egyetlen munkaállomássá egyesítse, így használhatja a telefonjának alkalmazásait a tableten, hívásokat fogadhat egy másik eszközön, használhatja a megosztott vágólapot, elemeket vihet át, és képernyőtartalmakat vetíthet ki.</string>
     <string name="miui15_revoke_message">"Ha folytatja, visszavonja az Eszköz összekapcsolódási szolgáltatások adatvédelmi szabályzatához való hozzájárulását. A már összegyűjtött és tárolt személyes adatokat a vonatkozó törvényeknek és előírásoknak megfelelően meghatározott időtartamon belül töröljük, hacsak másképp nem írják elő. Mivel az Eszköz összekapcsolódási szolgáltatások a szükséges személyes adatok összegyűjtése alapján nyújtja a szolgáltatásait, az Ön hozzájárulásának visszavonása a Eszköz összekapcsolódási szolgáltatások elfogadásának megtagadásaként tekintendő. Visszavonja most a hozzájárulást?
 Ez a művelet nem törli a Eszköz összekapcsolódási szolgáltatások által generált adatokat a másik készüléken. Az adatok összes készüléken való törléséhez vonja vissza hozzájárulását minden készüléken."</string>
+    <string name="miui15_scanner_lower_version_toast">Szoftverfrissítés a számítógépen a csatlakozáshoz</string>
     <string name="miuix_access_state_desc">Kiválasztott</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
@@ -326,6 +333,12 @@ Ez a művelet nem törli a Eszköz összekapcsolódási szolgáltatások által 
     <string name="pm">DU</string>
     <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="privacy_describe_change_wifi_state">Készülékek csatlakoztatásához és fájlok Wi-Fi-n keresztüli átviteléhez</string>
+    <string name="privacy_describe_location">Közeli számítógépek kereséséhez és fájlok átviteléhez</string>
+    <string name="privacy_describe_record_audio">Hanglejátszás számítógépre való átirányításához</string>
+    <string name="privacy_describe_storage">Fájlok küldéséhez és fogadásához</string>
+    <string name="privacy_pad_describe_change_wifi_state">Képernyőtartalom kivetítéséhez</string>
+    <string name="privacy_pad_describe_record_audio">Hanglejátszás másik készülékre való átviteléhez kivetítés közben</string>
+    <string name="privacy_pad_describe_storage">Elemek készülékek közötti átviteléhez</string>
     <string name="relay_msg_photo_text">Sikeresen mentve a Galériába</string>
     <string name="relay_msg_photo_title">Új kép</string>
     <string name="relay_msg_screenshot_text">Sikeresen mentve a Galériába</string>

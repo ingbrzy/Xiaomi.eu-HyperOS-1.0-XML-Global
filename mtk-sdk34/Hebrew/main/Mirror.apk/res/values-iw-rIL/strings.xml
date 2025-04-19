@@ -11,12 +11,14 @@
     <string name="afternoon">אחר הצהריים</string>
     <string name="am">AM</string>
     <string name="app_no_storage_permission">תחילה יש לאפשר ל-%1$s לגשת לאחסון בהגדרות > יישומים >%2$s> הגדרות</string>
+    <string name="app_not_support_subscreen">לא ניתן למקסם את החלון הזה</string>
     <string name="app_opened_in_new_window">האפליקציה נפתחה בחלון חדש</string>
     <string name="cancel">ביטול</string>
     <string name="cancel_button">ביטול</string>
     <string name="cast_mcc_tips_button_cancel">להתעלם</string>
     <string name="cast_mcc_tips_button_ok">הגדרות</string>
     <string name="cast_mcc_tips_title">שנה הגדרות Wi-Fi</string>
+    <string name="circulate_cta_user_agreement">יש לקרוא את &lt;txt href=\"%1$s\">הסכם המשתמשים&lt;/txt> ואת &lt;txt href=\"%2$s\">מדיניות הפרטיות&lt;/txt> שלנו ולהסכים איתם כדי להמשיך.</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
     <string name="clipboard_tip">הועתק מ-%1$s</string>
     <string name="close">סגירה</string>
@@ -118,6 +120,7 @@
     <string name="guide_window_btn_know">הבנתי</string>
     <string name="guide_window_operation">יש להחליק אצבע מהצד למרכז המסך</string>
     <string name="guide_window_title">חזרה</string>
+    <string name="handoff_switch_is_closed">Handoff של יישום מושבת</string>
     <string name="hint_password">נא להזין סיסמה</string>
     <string name="hint_password_error">סיסמה שגויה</string>
     <string name="http_buffer_size">נפח מטמון HTTP</string>
@@ -163,8 +166,12 @@
     <string name="miui15_app_name">שירותי קישוריות בין מכשירים</string>
     <string name="miui15_enable_wifi_alert_message">שירותי הקישוריות בין מכשירים מחברים מכשירים באמצעות Wi-Fi. להפעיל את Wi-Fi עכשיו?</string>
     <string name="miui15_invisible_mode_dialog_message">לא ניתן להשתמש בשירותי קישוריות בין מכשירים בזמן גלישה בפרטיות. קודם יש להשבית את הגלישה בפרטיות.</string>
+    <string name="miui15_low_version_dialog_title">עדכון שירותי הקישוריות ההדדית בין מכשירים</string>
+    <string name="miui15_privacy_all_purpose">שירותי קישוריות הדדית בין מכשירים מאפשרים לחבר את הטלפון שלכם למחשב ולשלב את שני המכשירים כדי לקבל תחנת עבודה אחת.</string>
+    <string name="miui15_privacy_pad_all_purpose">שירותי קישוריות הדדית בין מכשירים מאפשרים לשלב את המכשירים הניידים שלכם לתחנת עבודה אחת, כך שאפשר להשתמש ביישומים מהטלפון שלכם בטאבלט, לענות לשיחות ממכשיר אחר, להשתמש בלוח עריכה משותף, להעביר תוכן ולשדר את תוכן המסך.</string>
     <string name="miui15_revoke_message">"המשך יביא לביטול הסכמתך למדיניות הפרטיות של שירותי הקישוריות בין מכשירים. המידע האישי שכבר נאסף ונשמר יימחק תוך פרק הזמן הנדרש על פי החוקים והתקנות החלים, אלא אם קיימת דרישה אחרת. מאחר ששירותי הקישוריות בין מכשירים מבוססים על איסוף של המידע האישי הנדרש, ביטול הסכמתך ייחשב כסירוב לקבל את השירותים האלה. האם לבטל את ההסכמה עכשיו?
 פעולה זו לא תמחק את הנתונים שנוצרו על ידי שירותי הקישוריות בין מכשירים במכשיר האחר שלך. כדי למחוק את הנתונים שנוצרו בכל המכשירים שלך, יש לבטל את ההסכמה בכל אחד מהם."</string>
+    <string name="miui15_scanner_lower_version_toast">יש לעדכן את תוכנת המחשב שלכם כדי להתחבר</string>
     <string name="miuix_access_state_desc">נבחר</string>
     <string name="miuix_appcompat_action_mode_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
@@ -281,6 +288,12 @@
     <string name="phone_settings_current_device_tip">התחבר אוטומטית לטלפונים אחרים המשויכים לחשבון Xiaomi שלך</string>
     <string name="pm">PM</string>
     <string name="privacy_describe_change_wifi_state">כדי לחבר מכשירים ולהעביר קבצים באמצעות Wi-Fi</string>
+    <string name="privacy_describe_location">כדי לאתר מחשבים בסביבה ולהעביר קבצים</string>
+    <string name="privacy_describe_record_audio">כדי להעביר ניגון שמע למחשב שלכם</string>
+    <string name="privacy_describe_storage">כדי לשלוח ולקבל קבצים</string>
+    <string name="privacy_pad_describe_change_wifi_state">כדי לשקף את תוכן המסך</string>
+    <string name="privacy_pad_describe_record_audio">כדי להעביר ניגון שמע למכשיר אחר בזמן שידור</string>
+    <string name="privacy_pad_describe_storage">כדי להעביר תוכן בין מכשירים</string>
     <string name="relay_msg_photo_text">נשמר בהצלחה בגלריה</string>
     <string name="relay_msg_photo_title">תמונה חדשה</string>
     <string name="relay_msg_screenshot_text">נשמר בהצלחה בגלריה</string>

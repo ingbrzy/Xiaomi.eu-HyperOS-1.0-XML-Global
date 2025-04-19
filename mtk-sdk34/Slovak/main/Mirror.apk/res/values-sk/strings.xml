@@ -39,12 +39,14 @@
     <string name="afternoon">Popoludní</string>
     <string name="am">dop.</string>
     <string name="app_no_storage_permission">Najprv aplikácii %1$s povoľte prístup k úložisku v časti Nastavenia > Aplikácie > %2$s > Povolenia</string>
+    <string name="app_not_support_subscreen">Toto okno sa nedá maximalizovať</string>
     <string name="app_opened_in_new_window">Táto aplikácia bola otvorená v novom okne</string>
     <string name="cancel">Zrušiť</string>
     <string name="cancel_button">Zrušiť</string>
     <string name="cast_mcc_tips_button_cancel">Ignorovať</string>
     <string name="cast_mcc_tips_button_ok">Nastavenia</string>
     <string name="cast_mcc_tips_title">Zmeniť nastavenia Wi-Fi</string>
+    <string name="circulate_cta_user_agreement">Pred použitím tejto funkcie si prečítajte a vyjadrite súhlas s našimi zmluvami &lt;txt href=\"%1$s\">Podmienky používania&lt;/txt> a &lt;txt href=\"%2$s\">Zásady ochrany osobných údajov&lt;/txt>.</string>
     <string name="clearable_edittext_clear_description">Vymazať</string>
     <string name="clipboard_tip">Skopírované zo zariadenia %1$s</string>
     <string name="close">Zatvoriť</string>
@@ -52,7 +54,7 @@
     <string name="confirm_device_credential_password">Použiť heslo</string>
     <string name="connect_fail_busy_mishare">Druhé zariadenie práve prenáša súbory. Počkajte na dokončenie prenosu a skúste to znova.</string>
     <string name="copy">Kopírovať</string>
-    <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Pre prenos zvuku počas prenosu obrazu</string>
+    <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Pre prenos zvuku počas prenášania</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Na prenos súborov medzi zariadeniami</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Rozumiem</string>
     <string name="guide_window_operation">Potiahnite z kraja smerom do stredu obrazovky</string>
     <string name="guide_window_title">Späť</string>
+    <string name="handoff_switch_is_closed">Odovzdávanie aplikácií je vypnuté</string>
     <string name="hint_password">Zadajte heslo</string>
     <string name="hint_password_error">Nesprávne heslo</string>
     <string name="http_buffer_size">Veľkosť vyrovnávacej pamäte HTTP</string>
@@ -206,8 +209,12 @@ Zatvorte túto stránku a skúste to znova."</string>
     <string name="miui15_app_name">Služby prepojenia zariadení</string>
     <string name="miui15_enable_wifi_alert_message">Služby prepojenia zariadení pripájajú zariadenia pomocou Wi-Fi. Zapnúť Wi-Fi teraz?</string>
     <string name="miui15_invisible_mode_dialog_message">Služby prepojenia zariadení nie je možné používať v režime inkognito. Najskôr vypnite režim inkognito.</string>
+    <string name="miui15_low_version_dialog_title">Aktualizovať služby prepojenia zariadení</string>
+    <string name="miui15_privacy_all_purpose">Služby prepojenia zariadení vám umožňujú pripojiť telefón k počítaču a spojiť dve zariadenia do jednej pracovnej stanice.</string>
+    <string name="miui15_privacy_pad_all_purpose">Služby prepojenia zariadení vám umožňujú spojiť vaše mobilné zariadenia do jednej pracovnej stanice, takže môžete používať aplikácie z telefónu na tablete, prijímať hovory na inom zariadení, používať zdieľanú schránku, prenášať položky a prenášať obsah obrazovky.</string>
     <string name="miui15_revoke_message">"Pokračovaním odvoláte súhlas so Zásadami ochrany osobných údajov služieb prepojenia zariadení. Predtým zhromaždené osobné údaje budú vymazané v stanovenej lehote v súlade s platnými zákonmi a predpismi, pokiaľ to nie je vyžadované inak. Pretože služby prepojenia zariadení fungujú na základe zhromažďovania potrebných osobných údajov, odvolanie súhlasu bude považované za odmietnutie prijatia služieb prepojenia zariadení. Odvolať súhlas teraz?
 Táto akcia neodstráni dáta vygenerované službami prepojenia zariadení na ostatných zariadeniach. Na odstránenie dát na všetkých vašich zariadeniach musíte odvolať súhlas na každom z týchto zariadení."</string>
+    <string name="miui15_scanner_lower_version_toast">Ak sa chcete pripojiť, aktualizujte softvér v počítači</string>
     <string name="miuix_access_state_desc">Vybraté</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Zrušiť výber</string>
     <string name="miuix_appcompat_action_mode_select_all">Vybrať všetko</string>
@@ -326,6 +333,12 @@ Táto akcia neodstráni dáta vygenerované službami prepojenia zariadení na o
     <string name="pm">pop.</string>
     <string name="preference_copied">Položka %1$s bola skopírovaná do schránky.</string>
     <string name="privacy_describe_change_wifi_state">Na pripojenie zariadení a prenos súborov pomocou Wi-Fi</string>
+    <string name="privacy_describe_location">Na vyhľadanie počítačov v okolí a prenos súborov</string>
+    <string name="privacy_describe_record_audio">Na presmerovanie prehrávania zvuku do počítača</string>
+    <string name="privacy_describe_storage">Na posielanie a prijímanie súborov</string>
+    <string name="privacy_pad_describe_change_wifi_state">Na prenášanie obsahu obrazovky</string>
+    <string name="privacy_pad_describe_record_audio">Na prenášanie prehrávania zvuku do iného zariadenia počas prenášania</string>
+    <string name="privacy_pad_describe_storage">Na prenos položiek medzi zariadeniami</string>
     <string name="relay_msg_photo_text">Úspešne uložené do Galérie</string>
     <string name="relay_msg_photo_title">Nový obrázok</string>
     <string name="relay_msg_screenshot_text">Úspešne uložené do Galérie</string>

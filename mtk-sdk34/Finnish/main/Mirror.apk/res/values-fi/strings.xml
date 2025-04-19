@@ -39,12 +39,14 @@
     <string name="afternoon">Iltapäivä</string>
     <string name="am">ap.</string>
     <string name="app_no_storage_permission">Salli %1$s käyttää tallennustilaa kohdassa Asetukset > Sovellukset > %2$s > Käyttöoikeudet ensin</string>
+    <string name="app_not_support_subscreen">Tätä ikkunaa ei voi maksimoida</string>
     <string name="app_opened_in_new_window">Tämä sovellus avattu uuteen ikkunaan</string>
     <string name="cancel">Peruuta</string>
     <string name="cancel_button">Peruuta</string>
     <string name="cast_mcc_tips_button_cancel">Ohita</string>
     <string name="cast_mcc_tips_button_ok">Asetukset</string>
     <string name="cast_mcc_tips_title">Muuta Wi-Fi-asetuksia</string>
+    <string name="circulate_cta_user_agreement">Lue ja hyväksy meidän &lt;txt href=\"%1$s\">käyttäjäsopimus&lt;/txt> ja &lt;txt href=\"%2$s\">tietosuojakäytäntö&lt;/txt> ennen kuin jatkat.</string>
     <string name="clearable_edittext_clear_description">Tyhjennä</string>
     <string name="clipboard_tip">Kopioitu laitteesta %1$s</string>
     <string name="close">Sulje</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Selvä</string>
     <string name="guide_window_operation">"Liu'uta sivulta näytön keskelle"</string>
     <string name="guide_window_title">Mene takaisin</string>
+    <string name="handoff_switch_is_closed">Sovelluksen kanavanvaihto on poistettu käytöstä</string>
     <string name="hint_password">Anna salasana</string>
     <string name="hint_password_error">Väärä salasana</string>
     <string name="http_buffer_size">HTTP-välimuistin koko</string>
@@ -206,8 +209,12 @@ Sulje tämä sivu ja yritä uudelleen."</string>
     <string name="miui15_app_name">Laitteiden yhteenliittämispalvelut</string>
     <string name="miui15_enable_wifi_alert_message">Laitteiden yhteenliittämispalvelut yhdistävät laitteet Wi-Fi-yhteydellä. Otetaanko Wi-Fi käyttöön nyt?</string>
     <string name="miui15_invisible_mode_dialog_message">Et voi käyttää laitteiden yhteenliittämispalveluita inkognito-tilassa. Poista ensin inkognito-tila käytöstä.</string>
+    <string name="miui15_low_version_dialog_title">Päivitä laitteiden yhteenliitettävyyspalvelut</string>
+    <string name="miui15_privacy_all_purpose">Laitteiden yhteenliittämispalveluiden avulla voit yhdistää puhelimesi tietokoneeseen ja yhdistää kaksi laitetta yhdeksi työasemaksi.</string>
+    <string name="miui15_privacy_pad_all_purpose">Laitteiden yhteenliitettävyyspalvelujen avulla voit yhdistää mobiililaitteesi yhdeksi työasemaksi, jotta voit käyttää puhelimesi sovelluksia tabletillasi, vastata puheluihin toisella laitteella, käyttää jaettua leikepöytää, siirtää kohteita ja suoratoistaa näytön sisältöä.</string>
     <string name="miui15_revoke_message">"Jos jatkat, peruutat suostumuksesi laitteiden yhteenliittämispalvelujen tietosuojakäytäntöön. Valmiiksi kerätyt ja säilytetyt henkilötiedot poistetaan tietyn ajan kuluessa sovellettavien lakien ja määräysten mukaisesti, ellei toisin vaadita. Koska Laitteiden yhteenliittämispalvelut tarjoavat palvelujaan tarvittavien henkilötietojen keräämisen perusteella, suostumuksen peruuttamistasi katsotaan kieltäytymiseksi vastaanottaa sen palveluita. Peruutetaanko suostumus nyt?
 Tämä toiminto ei poista Laitteiden yhteenliittämispalvelujen tuottamia tietoja toisella laitteellasi. Jos haluat poistaa kaikilla laitteillasi luodut tiedot, peruuta suostumus jokaiselta laitteeltasi."</string>
+    <string name="miui15_scanner_lower_version_toast">Päivitä tietokoneesi ohjelmisto muodostaaksesi yhteyden</string>
     <string name="miuix_access_state_desc">Valittu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Kumoa kaikkien valinta</string>
     <string name="miuix_appcompat_action_mode_select_all">Valitse kaikki</string>
@@ -326,6 +333,12 @@ Tämä toiminto ei poista Laitteiden yhteenliittämispalvelujen tuottamia tietoj
     <string name="pm">ip.</string>
     <string name="preference_copied">%1$s kopioitiin leikepöydälle.</string>
     <string name="privacy_describe_change_wifi_state">Laitteiden yhdistämiseen ja tiedostojen siirtoon Wi-Fi-yhteyden kautta</string>
+    <string name="privacy_describe_location">Lähellä olevien tietokoneiden etsimiseen ja tiedostojen siirtoon</string>
+    <string name="privacy_describe_record_audio">Äänentoiston uudelleenohjaamiseen tietokoneeseen</string>
+    <string name="privacy_describe_storage">Tiedostojen lähettämiseen ja vastaanottamiseen</string>
+    <string name="privacy_pad_describe_change_wifi_state">Näytön sisällön suoratoistoon</string>
+    <string name="privacy_pad_describe_record_audio">Äänentoiston siirtämiseen toiseen laitteeseen suoratoiston aikana</string>
+    <string name="privacy_pad_describe_storage">Kohteiden siirtämiseen laitteiden välillä</string>
     <string name="relay_msg_photo_text">Tallennettu Galleriaan onnistuneesti</string>
     <string name="relay_msg_photo_title">Uusi kuva</string>
     <string name="relay_msg_screenshot_text">Tallennettu Galleriaan onnistuneesti</string>

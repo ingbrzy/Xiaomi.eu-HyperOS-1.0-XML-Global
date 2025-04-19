@@ -39,12 +39,14 @@
     <string name="afternoon">Odpoledne</string>
     <string name="am">dop.</string>
     <string name="app_no_storage_permission">Nejprve aplikaci %1$s povolte přístup k úložišti v Nastavení > Aplikace > %2$s > Oprávnění</string>
+    <string name="app_not_support_subscreen">Toto okno nelze maximalizovat</string>
     <string name="app_opened_in_new_window">Aplikace byla otevřena v novém okně</string>
     <string name="cancel">Zrušit</string>
     <string name="cancel_button">Zrušit</string>
     <string name="cast_mcc_tips_button_cancel">Ignorovat</string>
     <string name="cast_mcc_tips_button_ok">Nastavení</string>
     <string name="cast_mcc_tips_title">Změnit nastavení Wi-Fi</string>
+    <string name="circulate_cta_user_agreement">Před pokračováním si přečtěte a potvrďte souhlas s našimi &lt;txt href=\"%1$s\">Smluvními podmínkami&lt;/txt> a &lt;txt href=\"%2$s\">Zásadami ochrany osobních údajů&lt;/txt>.</string>
     <string name="clearable_edittext_clear_description">Smazat</string>
     <string name="clipboard_tip">Zkopírováno z %1$s</string>
     <string name="close">Zavřít</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Rozumím</string>
     <string name="guide_window_operation">Potáhněte z okraje směrem do středu obrazovky</string>
     <string name="guide_window_title">Zpět</string>
+    <string name="handoff_switch_is_closed">Předání aplikace je vypnuto</string>
     <string name="hint_password">Zadejte heslo</string>
     <string name="hint_password_error">Nesprávné heslo</string>
     <string name="http_buffer_size">Velikost HTTP dat v mezipaměti</string>
@@ -206,8 +209,12 @@ Zavřete tuto stránku a zkuste to znovu."</string>
     <string name="miui15_app_name">Služby propojitelnosti zařízení</string>
     <string name="miui15_enable_wifi_alert_message">Služby propojitelnosti zařízení propojují různá zařízení prostřednictvím sítě Wi-Fi. Zapnout Wi-Fi nyní?</string>
     <string name="miui15_invisible_mode_dialog_message">V režimu Inkognito nelze využívat služby propojitelnosti zařízení. Nejprve režim Inkognito vypněte.</string>
+    <string name="miui15_low_version_dialog_title">Aktualizovat služby propojitelnosti zařízení</string>
+    <string name="miui15_privacy_all_purpose">Služby propojitelnosti zařízení vám umožňují připojit váš telefon k počítači a propojit tak obě zařízení do jedné pracovní stanice.</string>
+    <string name="miui15_privacy_pad_all_purpose">Služby propojitelnosti zařízení vám umožňují propojit vaše mobilní zařízení do jedné pracovní stanice, abyste mohli používat aplikace z telefonu na tabletu, přijímat hovory na jiném zařízení, používat sdílenou schránku, přenášet položky a obsah obrazovky.</string>
     <string name="miui15_revoke_message">"Pokračováním odeberete souhlas se Zásadami ochrany osobních údajů služby propojitelnosti zařízení. Dříve shromážděné osobní údaje budou vymazány ve stanovené lhůtě v souladu s platnými zákony a předpisy, pokud není vyžadováno jinak. Protože služby propojitelnosti zařízení jsou založeny na základě shromažďování nezbytných osobních údajů, odebrání souhlasu bude považováno za odmítnutí přijetí těchto služeb. Odebrat souhlas nyní?
 Tato akce neodstraní data vygenerovaná službami propojitelnosti zařízení v ostatních zařízeních. Abyste odstranili data na všech vašich zařízeních, musíte odebrat souhlas na každém z těchto zařízení."</string>
+    <string name="miui15_scanner_lower_version_toast">Aktualizujte software v počítači, abyste se mohli připojit</string>
     <string name="miuix_access_state_desc">Vybráno</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Zrušit výběr</string>
     <string name="miuix_appcompat_action_mode_select_all">Vybrat vše</string>
@@ -326,6 +333,12 @@ Tato akce neodstraní data vygenerovaná službami propojitelnosti zařízení v
     <string name="pm">odp.</string>
     <string name="preference_copied">Položka %1$s byla zkopírována do schránky.</string>
     <string name="privacy_describe_change_wifi_state">Pro propojování zařízení a přenos souborů pomocí Wi-Fi</string>
+    <string name="privacy_describe_location">Pro rozpoznání okolních počítačů a přenos souborů</string>
+    <string name="privacy_describe_record_audio">Pro přesměrování přehrávaného zvuku do vašeho počítače</string>
+    <string name="privacy_describe_storage">Pro odesílání a přijímání souborů</string>
+    <string name="privacy_pad_describe_change_wifi_state">Pro přenos obsahu obrazovky</string>
+    <string name="privacy_pad_describe_record_audio">Pro přenos přehrávaného zvuku do jiného zařízení během přenosu obrazu</string>
+    <string name="privacy_pad_describe_storage">Pro přenos položek mezi zařízeními</string>
     <string name="relay_msg_photo_text">Uloženo do Galerie</string>
     <string name="relay_msg_photo_title">Nový obrázek</string>
     <string name="relay_msg_screenshot_text">Uloženo do Galerie</string>

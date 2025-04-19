@@ -39,12 +39,14 @@
     <string name="afternoon">Tarda</string>
     <string name="am">a. m.</string>
     <string name="app_no_storage_permission">"Permet que %1$s accedeixi a l'emmagatzematge a Configuració > Aplicacions > %2$s > els Permisos primer"</string>
+    <string name="app_not_support_subscreen">No es pot maximitzar aquesta finestra</string>
     <string name="app_opened_in_new_window">"S'ha obert aquesta aplicació en una finestra nova"</string>
     <string name="cancel">Cancel·la</string>
     <string name="cancel_button">Cancel·la</string>
     <string name="cast_mcc_tips_button_cancel">Ignora</string>
     <string name="cast_mcc_tips_button_ok">Configuració</string>
     <string name="cast_mcc_tips_title">Canvia la configuració de Wi-Fi</string>
+    <string name="circulate_cta_user_agreement">"Llegeix i accepta el nostre &lt;txt href=\"%1$s\">Acord d'usuari&lt;/txt> i la &lt;txt href=\"%2$s\">Política de privadesa&lt;/txt> abans de continuar."</string>
     <string name="clearable_edittext_clear_description">Netejar</string>
     <string name="clipboard_tip">Copiat de %1$s</string>
     <string name="close">Tanca</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Entesos</string>
     <string name="guide_window_operation">Feu lliscar des del costat fins al centre de la pantalla</string>
     <string name="guide_window_title">Enrere</string>
+    <string name="handoff_switch_is_closed">"El lliurament de l'aplicació està desactivat"</string>
     <string name="hint_password">Introduïu la contrasenya</string>
     <string name="hint_password_error">Contrasenya incorrecta</string>
     <string name="http_buffer_size">Mida de la memòria cau HTTP</string>
@@ -206,8 +209,12 @@ Tanqueu aquesta pàgina i proveu-ho de nou."</string>
     <string name="miui15_app_name">"Serveis d'interconnectivitat de dispositius"</string>
     <string name="miui15_enable_wifi_alert_message">"Els serveis d'interconnectivitat de dispositius connecten dispositius mitjançant Wi-Fi. Voleu activar la Wi-Fi ara?"</string>
     <string name="miui15_invisible_mode_dialog_message">"No podeu utilitzar els serveis d'interconnectivitat dels dispositius quan esteu d'incògnit. Primer desactiveu el mode d'incògnit."</string>
+    <string name="miui15_low_version_dialog_title">"Actualitza els serveis d'interconnectivitat del dispositiu"</string>
+    <string name="miui15_privacy_all_purpose">"Els serveis d'interconnectivitat de dispositius us permeten connectar el vostre telèfon a un ordinador i combinar dos dispositius en una estació de treball."</string>
+    <string name="miui15_privacy_pad_all_purpose">"Els serveis d'interconnectivitat de dispositius us permeten combinar els vostres dispositius mòbils en una estació de treball perquè pugueu utilitzar les aplicacions del telèfon a la tauleta, respondre trucades en un altre dispositiu, utilitzar el porta-retalls compartit, transferir elements i emetre contingut de la pantalla."</string>
     <string name="miui15_revoke_message">"Si continueu, retirareu el vostre consentiment a la Política de privadesa dels Serveis d'interconnectivitat de dispositius. La informació personal ja recollida i conservada se suprimirà en el termini específic d’acord amb les lleis i normatives aplicables, llevat que s’exigeixi el contrari. Com que Serveis d'interconnectivitat de dispositius proporciona els seus serveis basats en la recopilació de la informació personal necessària, la vostra retirada del consentiment es considerarà com a denegació d’acceptar els serveis dels Serveis d'interconnectivitat de dispositius. Voleu retirar el consentiment ara?
 Aquesta acció no eliminarà les dades generades per Serveis d'interconnectivitat de dispositius a l'altre dispositiu. Per eliminar les dades generades en tots els teus dispositius, retira el consentiment de cadascun d'ells."</string>
+    <string name="miui15_scanner_lower_version_toast">Actualitza el programari del vostre ordinador per connectar-vos</string>
     <string name="miuix_access_state_desc">Seleccionat</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccioneu-ho tot</string>
@@ -326,6 +333,12 @@ Aquesta acció no eliminarà les dades generades per Serveis d'interconnectivita
     <string name="pm">p. m.</string>
     <string name="preference_copied">"\"%1$s\" s'ha copiat al porta-retalls"</string>
     <string name="privacy_describe_change_wifi_state">Per connectar dispositius i transferir fitxers mitjançant Wi-Fi</string>
+    <string name="privacy_describe_location">Per trobar ordinadors propers i transferir fitxers</string>
+    <string name="privacy_describe_record_audio">"Per redirigir la reproducció d'àudio al vostre ordinador"</string>
+    <string name="privacy_describe_storage">Per a enviar i rebre fitxers</string>
+    <string name="privacy_pad_describe_change_wifi_state">Per emetre contingut de la pantalla</string>
+    <string name="privacy_pad_describe_record_audio">"Per transferir la reproducció d'àudio a un altre dispositiu durant l'emissió"</string>
+    <string name="privacy_pad_describe_storage">Per transferir elements entre dispositius</string>
     <string name="relay_msg_photo_text">Desat correctament a la Galeria</string>
     <string name="relay_msg_photo_title">Imatge nova</string>
     <string name="relay_msg_screenshot_text">Desat correctament a la Galeria</string>
