@@ -39,12 +39,14 @@
     <string name="afternoon">Поўдзень</string>
     <string name="am">AM</string>
     <string name="app_no_storage_permission">Спачатку дазвольце %1$s доступ да сховішча ў меню \"Налады\" > \"Праграмы\" > %2$s > \"Дазволы\".</string>
+    <string name="app_not_support_subscreen">Немагчыма разгарнуць гэтае акно</string>
     <string name="app_opened_in_new_window">Гэтая праграма адкрыта ў новым акне</string>
     <string name="cancel">Скасаваць</string>
     <string name="cancel_button">Скасаваць</string>
     <string name="cast_mcc_tips_button_cancel">Ігнараваць</string>
     <string name="cast_mcc_tips_button_ok">Налады</string>
     <string name="cast_mcc_tips_title">Змяніць налады Wi-Fi</string>
+    <string name="circulate_cta_user_agreement">Перш чым працягнуць, прачытайце &lt;txt href=\"%1$s\">Карыстальніцкае пагадненне&lt;/txt> і &lt;txt href=\"%2$s\">Палітыку прыватнасці&lt;/txt> і пагадзіцеся з імі.</string>
     <string name="clearable_edittext_clear_description">Ачысціць</string>
     <string name="clipboard_tip">Скапіравана з %1$s</string>
     <string name="close">Закрыць</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Зразумела</string>
     <string name="guide_window_operation">Правядзіце з боку экрана ў яго цэнтр</string>
     <string name="guide_window_title">Назад</string>
+    <string name="handoff_switch_is_closed">Перадача кіравання праграмамі адключана</string>
     <string name="hint_password">Увядзіце пароль</string>
     <string name="hint_password_error">Няправільны пароль</string>
     <string name="http_buffer_size">Памер кэша HTTP</string>
@@ -206,8 +209,12 @@
     <string name="miui15_app_name">Службы ўзаемадзеяння прылад</string>
     <string name="miui15_enable_wifi_alert_message">Службы ўзаемадзеяння прылад прылад злучаюць прылады з дапамогай Wi-Fi. Уключыць Wi-Fi зараз?</string>
     <string name="miui15_invisible_mode_dialog_message">Немагчыма выкарыстоўваць службы ўзаемадзеяння прылад, калі вы ў рэжыме інкогніта. Спачатку адключыце гэты рэжым.</string>
-    <string name="miui15_revoke_message">"Калі вы працягнеце, вы адклічаце сваю згоду з Палітыкай прыватнасці Служб узаемадзеяння прылад. Ужо сабраная і захаваная асабістая інфармацыя будзе выдалена на працягу пэўнага перыяду часу ў адпаведнасці з дзеючым заканадаўствам і правіламі, калі не будзе патрабаванняў аб іншым. Паколькі Службы ўзаемадзеяння прылад прадастаўляюць паслугі, заснаваныя на зборы неабходнай асабістай інфармацыі, адкліканне згоды будзе лічыцца адмовай ад прыяцця паслуг Служб узаемадзеяння прылад. Усё роўна адклікаць згоду?
+    <string name="miui15_low_version_dialog_title">Абнавіць Службы ўзаемадзеяння прылад</string>
+    <string name="miui15_privacy_all_purpose">"Службы ўзаемадзеяння прылад дазваляюць вам падлучаць тэлефон да камп'ютэра і аб'ядноўваць дзве прылады ў адну працоўную станцыю."</string>
+    <string name="miui15_privacy_pad_all_purpose">"Службы ўзаемадзеяння прылад дазваляюць аб'ядноўваць вашыя мабільныя прылады ў адну працоўную станцыю і карыстацца на планшэце праграмамі з тэлефона, а таксама адказваць на выклікі на іншай прыладзе, выкарыстоўваць агульны буфер абмену, перадаваць файлы і трансляваць змесціва экрана."</string>
+    <string name="miui15_revoke_message">"Калі вы працягнеце, вы адклічаце сваю згоду з Палітыкай прыватнасці Служб узаемадзеяння прылад. Ужо сабраная і захаваная асабістая інфармацыя будзе выдалена на працягу пэўнага перыяду часу ў адпаведнасці з дзеючым заканадаўствам і правіламі, калі не будзе патрабаванняў аб іншым. Паколькі Службы ўзаемадзеяння прылад прадастаўляюць паслугі, заснаваныя на зборы неабходнай асабістай інфармацыі, адкліканне згоды будзе лічыцца адмовай ад прыняцця паслуг Служб узаемадзеяння прылад. Усё роўна адклікаць згоду?
 Гэта дзеянне не выдаліць даныя, якія былі згенераваны Службамі ўзаемадзеяння прылад на іншай прыладзе. Каб выдаліць даныя, згенераваныя на ўсіх вашых прыладах, адклiчце згоду на кожнай з iх."</string>
+    <string name="miui15_scanner_lower_version_toast">"Для падлучэння абновіце праграмнае забеспячэнне на сваім камп'ютэры"</string>
     <string name="miuix_access_state_desc">Выбрана</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Зняць выбар з усіх</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбраць усё</string>
@@ -326,6 +333,12 @@
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="privacy_describe_change_wifi_state">Для падлучэння прылад і перадачы на ​​іх файлаў па Wi-Fi</string>
+    <string name="privacy_describe_location">"Для пошуку камп'ютэраў паблізу і перадачы на ​​іх файлаў"</string>
+    <string name="privacy_describe_record_audio">Для перанакіравання прайгравання гука на ваш кампутар</string>
+    <string name="privacy_describe_storage">Для адпраўкі і атрымання файлаў</string>
+    <string name="privacy_pad_describe_change_wifi_state">Для трансляцыі змесціва экрана</string>
+    <string name="privacy_pad_describe_record_audio">Для перадачы прайгравання гуку на іншую прыладу падчас трансляцыі</string>
+    <string name="privacy_pad_describe_storage">"Для перадачы аб'ектаў паміж прыладамі"</string>
     <string name="relay_msg_photo_text">Паспяхова захавана ў Галерэі</string>
     <string name="relay_msg_photo_title">Новая выява</string>
     <string name="relay_msg_screenshot_text">Паспяхова захавана ў Галерэі</string>

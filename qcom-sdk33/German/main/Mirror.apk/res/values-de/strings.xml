@@ -39,12 +39,14 @@
     <string name="afternoon">Nachmittag</string>
     <string name="am">morgens</string>
     <string name="app_no_storage_permission">Erlauben Sie %1$s zuerst den Zugriff auf den Speicher in Einstellungen > Apps > %2$s > Berechtigungen</string>
+    <string name="app_not_support_subscreen">Dieses Fenster kann nicht maximiert werden</string>
     <string name="app_opened_in_new_window">Öffnete diese App in einem neuen Fenster</string>
     <string name="cancel">Abbrechen</string>
     <string name="cancel_button">Abbrechen</string>
     <string name="cast_mcc_tips_button_cancel">Ignorieren</string>
     <string name="cast_mcc_tips_button_ok">Einstellungen</string>
     <string name="cast_mcc_tips_title">WLAN-Einstellungen ändern</string>
+    <string name="circulate_cta_user_agreement">Lies dir unsere &lt;txt href=\"%1$s\">Nutzervereinbarung&lt;/txt> und &lt;txt href=\"%2$s\">Datenschutzerklärung&lt;/txt> durch und stimme diesen zu, bevor du fortfährst.</string>
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="clipboard_tip">Kopiert von %1$s</string>
     <string name="close">Schließen</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Verstanden</string>
     <string name="guide_window_operation">Von der Seite zur Mitte des Bildschirms gleiten</string>
     <string name="guide_window_title">Zurück</string>
+    <string name="handoff_switch_is_closed">App-Weiterleitung ist ausgeschaltet</string>
     <string name="hint_password">Passwort eingeben</string>
     <string name="hint_password_error">Falsches Passwort</string>
     <string name="http_buffer_size">HTTP-Cache-Größe</string>
@@ -206,8 +209,12 @@ Schließen Sie diese Seite und versuchen Sie es erneut."</string>
     <string name="miui15_app_name">Geräte-Interkonnektivität-Dienste</string>
     <string name="miui15_enable_wifi_alert_message">Geräte-Interkonnektivität-Dienste stellen eine Verbindung über WLAN her. Jetzt WLAN ein?</string>
     <string name="miui15_invisible_mode_dialog_message">Geräte-Interkonnektivität-Dienste können nicht verwendet werden, wenn du inkognito bist. Schalte zuerst den Inkognito-Modus aus.</string>
+    <string name="miui15_low_version_dialog_title">Geräte-Interkonnektivität-Dienste aktualisieren</string>
+    <string name="miui15_privacy_all_purpose">Die Geräte-Interkonnektivität-Dienste ermöglichen es dir, dein Telefon mit einem Computer zu verbinden und zwei Geräte zu einer Arbeitsstation zusammenzufassen.</string>
+    <string name="miui15_privacy_pad_all_purpose">Die Geräte-Interkonnektivität-Dienste ermöglichen es dir, deine mobilen Geräte zu einer Arbeitsstation zusammenzufassen, so dass du die Apps deines Telefons auf deinem Tablet nutzen, Anrufe auf einem anderen Gerät entgegennehmen, die gemeinsame Zwischenablage nutzen, Elemente transferieren und Bildschirminhalte übertragen kannst.</string>
     <string name="miui15_revoke_message">"Wenn du fortfährst, widerrufst du deine Einwilligung zur Datenschutzerklärung der Geräte-Interkonnektivität-Dienste. Die bereits erhobenen und aufbewahrten personenbezogenen Daten werden innerhalb der bestimmten Frist gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders erforderlich. Da die Geräte-Interkonnektivität-Dienste auf der Sammlung von notwendigen personenbezogenen Daten basiert, wird der Widerruf der Einwilligung als Ablehnung der Dienste angesehen. Einwilligung jetzt widerrufen?
 Diese Aktion löscht keine Daten, die von den Geräte-Interkonnektivität-Diensten auf deinem anderen Gerät erzeugt wurden. Um die generierten Daten auf allen Geräten zu löschen, musst du deine Einwilligung auf jedem Gerät widerrufen."</string>
+    <string name="miui15_scanner_lower_version_toast">Aktualisiere die Software auf deinem Computer, um eine Verbindung herzustellen</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Auswahl aufheben</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles auswählen</string>
@@ -326,6 +333,12 @@ Diese Aktion löscht keine Daten, die von den Geräte-Interkonnektivität-Dienst
     <string name="pm">abends</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert.</string>
     <string name="privacy_describe_change_wifi_state">Zum Verbinden von Geräten und Übertragen von Dateien über WLAN</string>
+    <string name="privacy_describe_location">Zum Auffinden von Computern in der Nähe und zum Übertragen von Dateien</string>
+    <string name="privacy_describe_record_audio">Zur Umleitung der Audiowiedergabe auf Ihren Computer</string>
+    <string name="privacy_describe_storage">Zum Senden und Empfangen von Dateien</string>
+    <string name="privacy_pad_describe_change_wifi_state">Zum Übertragen von Bildschirminhalten</string>
+    <string name="privacy_pad_describe_record_audio">Zum Übertragen der Audiowiedergabe auf ein anderes Gerät während des Übertragens</string>
+    <string name="privacy_pad_describe_storage">Zum Übertragen von Elementen zwischen Geräten</string>
     <string name="relay_msg_photo_text">Erfolgreich in der Galerie gespeichert</string>
     <string name="relay_msg_photo_title">Neues Bild</string>
     <string name="relay_msg_screenshot_text">Erfolgreich in der Galerie gespeichert</string>

@@ -11,12 +11,14 @@
     <string name="afternoon">နေ့လယ်</string>
     <string name="am">နံနက်</string>
     <string name="app_no_storage_permission">%1$s အား ဆက်တင် > အက်(ပ်) > %2$s > ခွင့်ပြုချက်များတွင် ဦးစွာ သိုလှောင်ခန်းဖတ်ခွင့်ပြုပါ။</string>
+    <string name="app_not_support_subscreen">ဤအကွက်ကို ချဲ့မရပါ</string>
     <string name="app_opened_in_new_window">ဤအက်(ပ်)ကို မျက်နှာပြင်အသစ်တွင် ဖွင့်ထားသည်</string>
     <string name="cancel">မလုပ်တော့ရန်</string>
     <string name="cancel_button">မလုပ်တော့ရန်</string>
     <string name="cast_mcc_tips_button_cancel">လျစ်လျူရှုရန်</string>
     <string name="cast_mcc_tips_button_ok">ဆက်တင်</string>
     <string name="cast_mcc_tips_title">Wi-Fi ဆက်တင်ပြောင်းရန်</string>
+    <string name="circulate_cta_user_agreement">ရှေ့မဆက်မီ ကျွန်ုပ်တို့၏ &lt;txt href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/txt> နှင့် &lt;txt href=\"%2$s\">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ&lt;/txt> တို့ကို ဖတ်ရှုပြီး သဘောတူပါ။</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
     <string name="clipboard_tip">%1$s မှ ကူးထားသည်</string>
     <string name="close">ပိတ်</string>
@@ -118,6 +120,7 @@
     <string name="guide_window_btn_know">ရပါပြီ</string>
     <string name="guide_window_operation">မျက်နှာပြင် ဘေးဘက်မှ အလယ်သို့ ပွတ်ဆွဲပါ</string>
     <string name="guide_window_title">နောက်သို့ ပြန်သွားရန်</string>
+    <string name="handoff_switch_is_closed">အက်(ပ်)လက်လွှတ်စနစ် ပိတ်ထားသည်</string>
     <string name="hint_password">စကားဝှက်ထည့်ပါ</string>
     <string name="hint_password_error">စကားဝှက်မှားနေသည်</string>
     <string name="http_buffer_size">HTTP ကက်(ချ်)အရွယ်အစား</string>
@@ -163,8 +166,12 @@
     <string name="miui15_app_name">စက်အချင်းချင်းချိတ်ဆက်မှု ဝန်ဆောင်မှုများ</string>
     <string name="miui15_enable_wifi_alert_message">စက်အချင်းချင်းချိတ်ဆက်မှု ဝန်ဆောင်မှုများတွင် Wi-Fi သုံးပြီး စက်များကို ချိတ်ပေးသည်။ Wi-Fi ယခုဖွင့်လိုသလား။</string>
     <string name="miui15_invisible_mode_dialog_message">ရုပ်ဖျက်မုဒ်ထဲရောက်နေစဉ် စက်အချင်းချင်းချိတ်ဆက်မှု ဝန်ဆောင်မှုများ သုံးမရပါ။ ရုပ်ဖျက်မုဒ်ကို ဦးစွာပိတ်ပါ။</string>
+    <string name="miui15_low_version_dialog_title">စက်အချင်းချင်းချိတ်ဆက်မှု ဝန်ဆောင်မှုများကို အပ်ပဒိတ်လုပ်ပါ</string>
+    <string name="miui15_privacy_all_purpose">စက်အချင်းချင်းချိတ်ဆက်မှု ဝန်ဆောင်မှုများက ဖုန်းနှင့် ကွန်ပျူတာကို ချိတ်ပြီး စက်နှစ်လုံးစလုံးကို အလုပ်စခန်းတစ်ခုတည်းသို့ ပေါင်းခွင့်ပေးသည်။</string>
+    <string name="miui15_privacy_pad_all_purpose">စက်အချင်းချင်းချိတ်ဆက်မှု ဝန်ဆောင်မှုများက သင့်မိုဘိုင်းစက်များကို အလုပ်စခန်းတစ်ခုတည်းသို့ ပေါင်းပြီး ဖုန်းရှိအက်(ပ်)များကို တက်ဘလက်တွင် သုံးခြင်း၊ အခြားစက်မှ ဖုန်းဖြေခြင်း၊ ကလစ်ဘုတ်မျှသုံးခြင်း၊ အကြောင်းအရာများလွှဲပြောင်းခြင်းနှင့် မျက်နှာပြင်အကြောင်းအရာများ လွှင့်တင်ခြင်းတို့ လုပ်ခွင့်ပေးသည်။</string>
     <string name="miui15_revoke_message">"ရှေ့ဆက်ခြင်းဖြင့် သင်သည် စက်အချင်းချင်းချိတ်ဆက်မှု ဝန်ဆောင်မှုများ၏ ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒဆိုင်ရာ သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းရာရောက်ပါသည်။ ကောက်ယူထိန်းသိမ်းထားသည့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို တစ်နည်းနည်းနှင့် မလိုအပ်ပါက သက်ဆိုင်ရာဥပဒေများနှင့် စည်းမျဉ်းများအရ လိုအပ်သော သတ်မှတ်ကာလအတွင်း ဖျက်လိုက်ပါမည်။ စက်အချင်းချင်းချိတ်ဆက်မှု ဝန်ဆောင်မှုများသည် လိုအပ်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကောက်ယူခြင်းအပေါ် အခြေခံပြီး ဝန်ဆောင်မှုများ ပေးရသောကြောင့် သဘောတူခွင့်ပြုချက်ကို ရုပ်သိမ်းခြင်းအားဖြင့် ၎င်း၏ဝန်ဆောင်မှုများကို လက်ခံရန် ငြင်းဆိုရာရောက်သည်။ သဘောတူခွင့်ပြုချက်ကို ယခုရုပ်သိမ်းလိုသလား။
 ဤလုပ်ဆောင်ချက်ကြောင့် သင့် အခြားစက်ရှိ စက်အချင်းချင်းချိတ်ဆက်မှု ဝန်ဆောင်မှုများမှ ထုတ်လွှတ်ထားသော ဒေတာများကို မဖျက်ပါ။ စက်အားလုံးတွင် ထုတ်လွှတ်ထားသော ဒေတာများကို ဖျက်လိုပါက တစ်ခုချင်းစီအတွက် သဘောတူခွင့်ပြုချက်ရုပ်သိမ်းပါ။"</string>
+    <string name="miui15_scanner_lower_version_toast">ချိတ်ရန် သင့်ကွန်ပျူတာရှိ ဆော့ဖဝဲကို အပ်ပဒိတ်လုပ်ပါ</string>
     <string name="miuix_access_state_desc">ရွေးထားသည်</string>
     <string name="miuix_appcompat_action_mode_deselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
@@ -281,6 +288,12 @@
     <string name="phone_settings_current_device_tip">သင့် Xiaomi အကောင့်နှင့် ချိတ်ထားသော အခြားဖုန်းများကို အလိုအလျောက် ချိတ်ရန်</string>
     <string name="pm">ညနေ</string>
     <string name="privacy_describe_change_wifi_state">Wi-Fi သုံးပြီး စက်များချိတ်ရန်နှင့် ဖိုင်များလွှဲပြောင်းရန်</string>
+    <string name="privacy_describe_location">အနီးအနားရှိကွန်ပျူတာများ ရှာပြီး ဖိုင်များလွှဲပြောင်းရန်</string>
+    <string name="privacy_describe_record_audio">အသံဖွင့်ခြင်းကို ကွန်ပျူတာသို့ ပြန်ညွှန်းရန်</string>
+    <string name="privacy_describe_storage">ဖိုင်များ ပို့ရန်နှင့် လက်ခံရန်</string>
+    <string name="privacy_pad_describe_change_wifi_state">မျက်နှာပြင်အကြောင်းအရာများ လွှင့်တင်ရန်</string>
+    <string name="privacy_pad_describe_record_audio">လွှင့်တင်စဉ် အသံဖွင့်ခြင်းကို အခြားစက်သို့ လွှဲပြောင်းရန်</string>
+    <string name="privacy_pad_describe_storage">စက်တစ်ခုနှင့်တစ်ခုအကြား အကြောင်းအရာများလွှဲပြောင်းရန်</string>
     <string name="relay_msg_photo_text">ပြခန်းတွင် အောင်မြင်စွာ သိမ်းပြီးပါပြီ</string>
     <string name="relay_msg_photo_title">ပုံအသစ်</string>
     <string name="relay_msg_screenshot_text">ပြခန်းတွင် အောင်မြင်စွာ သိမ်းပြီးပါပြီ</string>

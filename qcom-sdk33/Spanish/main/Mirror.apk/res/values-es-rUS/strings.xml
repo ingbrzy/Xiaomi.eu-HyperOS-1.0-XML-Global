@@ -39,12 +39,14 @@
     <string name="afternoon">Tarde</string>
     <string name="am">AM</string>
     <string name="app_no_storage_permission">Permitir que %1$s acceda al almacenamiento en Ajustes> Aplicaciones > %2$s> Permisos primero</string>
+    <string name="app_not_support_subscreen">No se puede maximizar esta ventana</string>
     <string name="app_opened_in_new_window">Abrió esta aplicación en una nueva ventana</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_button">Cancelar</string>
     <string name="cast_mcc_tips_button_cancel">Ignorar</string>
-    <string name="cast_mcc_tips_button_ok">Ajustes</string>
+    <string name="cast_mcc_tips_button_ok">Configuración</string>
     <string name="cast_mcc_tips_title">Cambiar la configuración de Wi-Fi</string>
+    <string name="circulate_cta_user_agreement">Lea y acepte nuestro &lt;txt href=\"%1$s\">Acuerdo de Usuario&lt;/txt> y &lt;txt href=\"%2$s\">Política de Privacidad&lt;/txt> antes de continuar.</string>
     <string name="clearable_edittext_clear_description">Borrar</string>
     <string name="clipboard_tip">Copiado de %1$s</string>
     <string name="close">Cerrar</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Entendido</string>
     <string name="guide_window_operation">Deslice el dedo desde un lado hacia el centro de la pantalla</string>
     <string name="guide_window_title">Atrás</string>
+    <string name="handoff_switch_is_closed">La transferencia de aplicaciones está desactivada</string>
     <string name="hint_password">Ingrese la contraseña</string>
     <string name="hint_password_error">Contraseña incorrecta</string>
     <string name="http_buffer_size">Tamaño de caché HTTP</string>
@@ -206,8 +209,12 @@ Cierre esta página y vuelva a intentarlo."</string>
     <string name="miui15_app_name">Servicios de interconectividad del dispositivo</string>
     <string name="miui15_enable_wifi_alert_message">Los servicios de interconectividad de dispositivos conectan dispositivos mediante Wi-Fi. ¿Activar ahora el Wi-Fi?</string>
     <string name="miui15_invisible_mode_dialog_message">No puedes usar los servicios de interconectividad de dispositivos cuando está de incógnito. Primero desactive el modo incógnito.</string>
+    <string name="miui15_low_version_dialog_title">Actualice los servicios de interconectividad del dispositivo</string>
+    <string name="miui15_privacy_all_purpose">Los servicios de interconectividad de dispositivos le permiten conectar su teléfono a una computadora y combinar dos dispositivos en una estación de trabajo.</string>
+    <string name="miui15_privacy_pad_all_purpose">Los servicios de interconectividad de dispositivos le permiten combinar sus dispositivos móviles en una estación de trabajo para que puedas usar las aplicaciones de su teléfono en su tablet, responder llamadas en otro dispositivo, usar el portapapeles compartido, transferir elementos y emitir contenido de la pantalla.</string>
     <string name="miui15_revoke_message">"Si continúa, retirará su consentimiento a la Política de Privacidad de Servicios de interconectividad del dispositivo. La información personal ya recopilada y retenida se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables, a menos que se requiera lo contrario. Dado que Servicios de interconectividad del dispositivo brinda sus servicios en función de la recopilación de la información personal necesaria, su retiro del consentimiento se considerará como una negativa a aceptar los servicios de Servicios de interconectividad del dispositivo. ¿Retirar el consentimiento ahora?
 Esta acción no eliminará los datos generados por Servicios de interconectividad del dispositivo en su otro dispositivo. Para borrar los datos generados en todos tus dispositivos, retire el consentimiento en cada uno de ellos."</string>
+    <string name="miui15_scanner_lower_version_toast">Actualice el software de su computadora para conectarse</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
@@ -326,6 +333,12 @@ Esta acción no eliminará los datos generados por Servicios de interconectivida
     <string name="pm">PM</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
     <string name="privacy_describe_change_wifi_state">Para conectar dispositivos y transferir archivos mediante Wi-Fi</string>
+    <string name="privacy_describe_location">Para encontrar computadoras cercanas y transferir archivos</string>
+    <string name="privacy_describe_record_audio">Para redirigir la reproducción de audio a su computadora</string>
+    <string name="privacy_describe_storage">Para enviar y recibir archivos</string>
+    <string name="privacy_pad_describe_change_wifi_state">Para emitir contenido de pantalla</string>
+    <string name="privacy_pad_describe_record_audio">Para emitir la reproducción de audio a otro dispositivo durante la emisión</string>
+    <string name="privacy_pad_describe_storage">Para transferir elementos entre dispositivos</string>
     <string name="relay_msg_photo_text">Guardado en la Galería con éxito</string>
     <string name="relay_msg_photo_title">Nueva imagen</string>
     <string name="relay_msg_screenshot_text">Guardado en la Galería con éxito</string>
@@ -350,7 +363,7 @@ Esta acción no eliminará los datos generados por Servicios de interconectivida
     <string name="screen_permission_pad_tips_denied">Abra Ajustes > Interconectividad > Interconectividad y permisos en %s para permitir que otros dispositivos vean e interactúen con el contenido de su pantalla.</string>
     <string name="screen_permission_pad_tips_prompt">Otorgue permisos en %s</string>
     <string name="screen_permission_phone_dialog_cancel_btn">Cancelar</string>
-    <string name="screen_permission_phone_dialog_setting_btn">Ajustes</string>
+    <string name="screen_permission_phone_dialog_setting_btn">Configuración</string>
     <string name="screen_permission_phone_dialog_title">Permisos requeridos</string>
     <string name="screen_permission_phone_tips_denied">%s no tiene permiso para ver ni interactuar con el contenido de la pantalla de este dispositivo. Cambie sus preferencias a \"Permitir siempre\" para poder utilizar esta función.</string>
     <string name="screen_permission_request_desc">Para permitir que %s muestre contenido y funcione en todos los dispositivos</string>
@@ -478,7 +491,7 @@ para continuar"</string>
     <string name="time_picker_dialog_title">Ajustar hora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
-    <string name="to_settings">Ajustes</string>
+    <string name="to_settings">Configuración</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>
     <string name="traffic_log">Registros de tráfico</string>

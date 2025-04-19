@@ -39,12 +39,14 @@
     <string name="afternoon">День</string>
     <string name="am">AM</string>
     <string name="app_no_storage_permission">Сначала разрешите \"%1$s\" доступ к хранилищу в разделе \"Настройки\" > \"Приложения\"> \"%2$s\" > \"Разрешения\"</string>
+    <string name="app_not_support_subscreen">Невозможно развернуть это окно</string>
     <string name="app_opened_in_new_window">Это приложение было открыто в новом окне</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_button">Отмена</string>
     <string name="cast_mcc_tips_button_cancel">Пропустить</string>
     <string name="cast_mcc_tips_button_ok">Настройки</string>
     <string name="cast_mcc_tips_title">Измените параметры Wi-Fi</string>
+    <string name="circulate_cta_user_agreement">Прежде чем продолжить, ознакомьтесь и согласитесь с нашими &lt;txt href=\"%1$s\">Условиями использования&lt;/txt> и &lt;txt href=\"%2$s\">Политикой конфиденциальности&lt;/txt>.</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="clipboard_tip">Скопировано с %1$s</string>
     <string name="close">Закрыть</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Понятно</string>
     <string name="guide_window_operation">Проведите от края к центру экрана</string>
     <string name="guide_window_title">Назад</string>
+    <string name="handoff_switch_is_closed">Handoff для приложений выключен</string>
     <string name="hint_password">Введите пароль</string>
     <string name="hint_password_error">Неверный пароль</string>
     <string name="http_buffer_size">Размер кэша HTTP</string>
@@ -206,8 +209,12 @@
     <string name="miui15_app_name">Службы взаимосвязанности устройств</string>
     <string name="miui15_enable_wifi_alert_message">Службы взаимосвязанности устройств используют Wi-Fi. Включить Wi-Fi?</string>
     <string name="miui15_invisible_mode_dialog_message">Нельзя использовать службы взаимосвязанности устройств, когда вы инкогнито. Сначала отключите режим инкогнито.</string>
+    <string name="miui15_low_version_dialog_title">Обновить службы взаимосвязанности устройств</string>
+    <string name="miui15_privacy_all_purpose">Службы взаимосвязанности устройств позволяют вам подключать телефон к компьютеру и объединять два устройства в одну рабочую станцию.</string>
+    <string name="miui15_privacy_pad_all_purpose">Службы взаимосвязанности устройств позволяют объединять ваши мобильные устройства в одну рабочую станцию и пользоваться на планшете приложениями с телефона, а также отвечать на вызовы на другом устройстве, использовать общий буфер обмена, передавать файлы и транслировать содержимое экрана.</string>
     <string name="miui15_revoke_message">"Продолжая, вы подтверждаете, что отзываете свое согласие с Политикой конфиденциальности служб взаимосвязанности устройств. Если не требуется иное, уже собранная и сохраненная личная информация будет удалена в течение определенного периода в соответствии с применимым законодательством и правилами. Поскольку службы взаимосвязанности устройств обеспечивают функционирование на основе сбора необходимой личной информации, отзыв вашего согласия будет считаться отказом принять службы взаимосвязанности устройств. Отозвать согласие?
 Это действие не удалит данные, сгенерированные службами взаимосвязанности устройств, на другом устройстве. Чтобы удалить данные, сгенерированные на всех ваших устройствах, отзовите согласие на каждом из них."</string>
+    <string name="miui15_scanner_lower_version_toast">Для подключения обновите программное обеспечение на своем компьютере</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отменить выбор</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
@@ -326,6 +333,12 @@
     <string name="pm">PM</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy_describe_change_wifi_state">Для подключения устройств и передачи файлов при помощи Wi-Fi</string>
+    <string name="privacy_describe_location">Для передачи файлов и поиска компьютеров поблизости</string>
+    <string name="privacy_describe_record_audio">Для перенаправления воспроизведения звука на компьютер</string>
+    <string name="privacy_describe_storage">Для отправки и получения файлов</string>
+    <string name="privacy_pad_describe_change_wifi_state">Для трансляции содержимого экрана</string>
+    <string name="privacy_pad_describe_record_audio">Для переноса воспроизведения звука во время трансляции на другое устройство</string>
+    <string name="privacy_pad_describe_storage">Для передачи файлов между устройствами</string>
     <string name="relay_msg_photo_text">Сохранено в Галерее</string>
     <string name="relay_msg_photo_title">Новое изображение</string>
     <string name="relay_msg_screenshot_text">Сохранено в Галерее</string>

@@ -39,12 +39,14 @@
     <string name="afternoon">Tarde</string>
     <string name="am">AM</string>
     <string name="app_no_storage_permission">Permita que %1$s aceda ao armazenamento em Definições > Aplicações > %2$s > Permissões primeiro</string>
+    <string name="app_not_support_subscreen">Não é possível maximizar esta janela</string>
     <string name="app_opened_in_new_window">Aplicação aberta em uma nova janela</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_button">Cancelar</string>
     <string name="cast_mcc_tips_button_cancel">Ignorar</string>
     <string name="cast_mcc_tips_button_ok">Definições</string>
     <string name="cast_mcc_tips_title">Alterar definições de Wi-Fi</string>
+    <string name="circulate_cta_user_agreement">Leia e aceite o nosso &lt;txt href=\"%1$s\">Contrato do Utilizador&lt;/txt> e a &lt;txt href=\"%2$s\">Política de Privacidade&lt;/txt> antes de continuar.</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="clipboard_tip">Copiado de %1$s</string>
     <string name="close">Fechar</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Percebi</string>
     <string name="guide_window_operation">Deslize da lateral para o centro do ecrã</string>
     <string name="guide_window_title">Anterior</string>
+    <string name="handoff_switch_is_closed">O handoff de aplicações está desligado</string>
     <string name="hint_password">Introduzir palavra-passe</string>
     <string name="hint_password_error">Palavra-passe incorreta</string>
     <string name="http_buffer_size">Tamanho do cache HTTP</string>
@@ -206,8 +209,12 @@ Feche esta página e tente novamente."</string>
     <string name="miui15_app_name">Serviços de interligação a dispositivos</string>
     <string name="miui15_enable_wifi_alert_message">Os Serviços de interligação a dispositivos liga dispositivos utilizando o Wi-Fi. Ligar o Wi-Fi agora?</string>
     <string name="miui15_invisible_mode_dialog_message">Não é possível utilizar os serviços de interligação a dispositivos quando está em anónimo. Desligue o Modo anónimo primeiro.</string>
+    <string name="miui15_low_version_dialog_title">Atualize os Serviços de interligação a dispositivos</string>
+    <string name="miui15_privacy_all_purpose">Os Serviços de interligação a dispositivos permitem que ligue o seu telemóvel a um computador e combine os dois dispositivos numa só estação de trabalho.</string>
+    <string name="miui15_privacy_pad_all_purpose">Os Serviços de interligação a dispositivos permitem que utilize as aplicações do seu telemóvel no seu tablet, atenda a chamadas em outro dispositivo, utilize a área de transferência partilhada, transfira itens, e transmita o conteúdo do ecrã.</string>
     <string name="miui15_revoke_message">"Ao continuar, retira o seu consentimento à Política de Privacidade dos Serviços de interligação a dispositivos. As informações pessoais já recolhidas e retidas serão eliminadas dentro do período especificado de acordo com as leis e regulamentos aplicáveis, exceto quando exigido o contrário. Como os Serviços de interligação a dispositivos fornecem os seus serviços com base na recolha das informações pessoais necessárias, a sua retirada de consentimento será considerada uma recusa aos serviços dos Serviços de interligação a dispositivos. Retirar o consentimento agora?
 Esta ação não elimina os dados gerados pelos Serviços de interligação a dispositivos nos seus outros dispositivos. Para eliminar os dados gerados em todos os dispositivos, retire o consentimento em todos eles."</string>
+    <string name="miui15_scanner_lower_version_toast">Atualize o software no seu computador para ligar</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar tudo</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
@@ -326,6 +333,12 @@ Esta ação não elimina os dados gerados pelos Serviços de interligação a di
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="privacy_describe_change_wifi_state">Para ligar a dispositivos e transferir ficheiros utilizando o Wi-Fi</string>
+    <string name="privacy_describe_location">Para encontrar computadores por perto e transferir ficheiros</string>
+    <string name="privacy_describe_record_audio">Para redirecionar a reprodução de áudio para o seu computador</string>
+    <string name="privacy_describe_storage">Para enviar e receber ficheiros</string>
+    <string name="privacy_pad_describe_change_wifi_state">Para transmitir o conteúdo do ecrã</string>
+    <string name="privacy_pad_describe_record_audio">Para transferir a reprodução de áudio para outro dispositivo durante a transmissão</string>
+    <string name="privacy_pad_describe_storage">Para transferir itens entre dispositivos</string>
     <string name="relay_msg_photo_text">Guardado na Galeria com sucesso</string>
     <string name="relay_msg_photo_title">Nova imagem</string>
     <string name="relay_msg_screenshot_text">Guardado na Galeria com sucesso</string>
@@ -379,7 +392,7 @@ execute esta ação no seu telemóvel."</string>
     <string name="settings_history_clear">Limpar</string>
     <string name="settings_history_clear_dialog_title">Limpar o histórico de ligação agora?</string>
     <string name="settings_history_full_connect_time">Última ligação: %1$s</string>
-    <string name="settings_history_full_time_format">dd/MM/yyyy, HH:mm</string>
+    <string name="settings_history_full_time_format">dd/MM/yyyy HH:mm</string>
     <string name="settings_history_none">Sem itens aqui ainda</string>
     <string name="settings_history_today_connect_time">Hoje %1$s</string>
     <string name="settings_history_yesterday_connect_time">Ontem %1$s</string>
