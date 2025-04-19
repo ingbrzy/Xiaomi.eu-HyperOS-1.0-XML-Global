@@ -11,12 +11,14 @@
     <string name="afternoon">بعد از ظهر</string>
     <string name="am">ق.ظ</string>
     <string name="app_no_storage_permission">ابتدا به %1$s اجازه دسترسی به حافظه را در تنظیمات > برنامه‌ها > %2$s > مجوزها بدهید</string>
+    <string name="app_not_support_subscreen">این پنجره بزرگ نمی‌شود</string>
     <string name="app_opened_in_new_window">این برنامه در پنجره جدید باز شد</string>
     <string name="cancel">لغو</string>
     <string name="cancel_button">لغو</string>
     <string name="cast_mcc_tips_button_cancel">نادیده گرفتن</string>
     <string name="cast_mcc_tips_button_ok">تنظیمات</string>
     <string name="cast_mcc_tips_title">تغییر تنظیمات Wi-Fi</string>
+    <string name="circulate_cta_user_agreement">پیش از ادامه &lt;txt href=\"%1$s\">توافق‌نامه کاربر&lt;/txt> و &lt;txt href=\"%2$s\">سیاست حفظ حریم خصوصی&lt;/txt> ما را خوانده و بپذیرید.</string>
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
     <string name="clipboard_tip">کپی شده از %1$s</string>
     <string name="close">بستن</string>
@@ -118,6 +120,7 @@
     <string name="guide_window_btn_know">متوجه‌ام</string>
     <string name="guide_window_operation">از کنار صفحه به وسط آن بکشید</string>
     <string name="guide_window_title">بازگشت</string>
+    <string name="handoff_switch_is_closed">دست به دست کردن برنامه خاموش است</string>
     <string name="hint_password">گذرواژه را وارد کنید</string>
     <string name="hint_password_error">گذرواژه نادرست است</string>
     <string name="http_buffer_size">اندازه حافظه پنهان HTTP</string>
@@ -163,8 +166,12 @@
     <string name="miui15_app_name">خدمات هم‌اتصالی دستگاه‌ها</string>
     <string name="miui15_enable_wifi_alert_message">خدمات هم‌اتصالی دستگاه، دستگاه‌ها را با استفاده از Wi-Fi متصل می‌کند. Wi-Fi روشن شود؟</string>
     <string name="miui15_invisible_mode_dialog_message">هنگامی که در حالت ناشناس هستید نمی‌توانید از خدمات هم‌اتصالی دستگاه استفاده کنید. ابتدا حالت ناشناس را خاموش کنید.</string>
+    <string name="miui15_low_version_dialog_title">به‌روزرسانی خدمات هم‌اتصالی دستگاه‌ها</string>
+    <string name="miui15_privacy_all_purpose">خدمات هم‌اتصالی دستگاه‌ها به شما امکان می‌دهد تا گوشی خود را به رایانه متصل کرده و دو دستگاه را در یک ایستگاه کاری ترکیب کنید.</string>
+    <string name="miui15_privacy_pad_all_purpose">خدمات هم‌اتصالی دستگاه‌ها به شما امکان می‌دهد تا دستگاه‌های موبایلی خود را در یک ایستگاه کاری ترکیب کنید تا بتوانید از برنامه‌های گوشی خود در تبلت‌تان استفاده کرده، در دستگاه دیگری به تماس‌ها پاسخ داده، از حافظه موقت مشترک استفاده کرده، موارد را انتقال داده و محتوای صفحه نمایش را بازتاب دهید.</string>
     <string name="miui15_revoke_message">"در صورت ادامه، رضایت خود را نسبت به سیاست حفظ حریم خصوصی خدمات هم‌اتصالی دستگاه بر می‌دارید. اطلاعات شخصی که تا کنون گردآوری و نگهداری شده‌اند بر اساس قوانین و مقررات قابل اجرا در مدت زمان مشخص حذف خواهند شد، مگر این‌که به شکل دیگری نیاز باشد. از آن‌جا که خدمات هم‌اتصالی دستگاه خدمات خود را بر اساس گردآوری اطلاعات شخصی لازم ارائه می‌دهد، پس گرفتن رضایت شما به منزله خودداری از پذیرش آن خواهد بود. رضایت پس گرفته شود؟
 این اقدام داده‌های تولید شده توسط خدمات هم‌اتصالی دستگاه را در دستگاه دیگر شما حذف نمی‌کند. برای حذف داده‌های تولید شده در همه دستگاه‌هایتان، رضایت هر یک از آن‌ها را لغو کنید."</string>
+    <string name="miui15_scanner_lower_version_toast">برای اتصال، نرم‌افزار را در رایانه خود به‌روز کنید</string>
     <string name="miuix_access_state_desc">انتخاب شده</string>
     <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
@@ -281,6 +288,12 @@
     <string name="phone_settings_current_device_tip">به گوشی‌های دیگر خود که با حساب Xiaomi شما مرتبط هستند به صورت خودکار متصل شوید</string>
     <string name="pm">ب.ظ</string>
     <string name="privacy_describe_change_wifi_state">برای اتصال دستگاه‌ها و انتقال فایل‌ها از طریق Wi-Fi</string>
+    <string name="privacy_describe_location">برای یافتن رایانه‌های نزدیک و انتقال فایل‌ها</string>
+    <string name="privacy_describe_record_audio">برای تغییر مسیر بازپخش صدا به رایانه شما</string>
+    <string name="privacy_describe_storage">برای ارسال و دریافت فایل‌ها</string>
+    <string name="privacy_pad_describe_change_wifi_state">برای بازتاباندن محتوای صفحه</string>
+    <string name="privacy_pad_describe_record_audio">برای انتقال بازپخش صدا به یک دستگاه دیگر هنگام بازتاباندن</string>
+    <string name="privacy_pad_describe_storage">برای انتقال موارد میان دستگاه‌ها</string>
     <string name="relay_msg_photo_text">با موفقیت در گالری ذخیره شد</string>
     <string name="relay_msg_photo_title">تصویر جدید</string>
     <string name="relay_msg_screenshot_text">با موفقیت در گالری ذخیره شد</string>

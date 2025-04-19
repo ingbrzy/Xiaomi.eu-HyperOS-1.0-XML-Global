@@ -39,12 +39,14 @@
     <string name="afternoon">După-amiază</string>
     <string name="am">AM</string>
     <string name="app_no_storage_permission">Permite ca %1$s să acceseze mai întâi spațiul de stocare în Setări > Aplicații > %2$s > Permisiuni</string>
+    <string name="app_not_support_subscreen">Nu se poate maximiza această fereastră</string>
     <string name="app_opened_in_new_window">S-a deschis această aplicație într-o fereastră nouă</string>
     <string name="cancel">Anulează</string>
     <string name="cancel_button">Anulează</string>
     <string name="cast_mcc_tips_button_cancel">Ignoră</string>
     <string name="cast_mcc_tips_button_ok">Setări</string>
     <string name="cast_mcc_tips_title">Schimbă setările Wi-Fi</string>
+    <string name="circulate_cta_user_agreement">Citiți și acceptați &lt;txt href=\"%1$s\">Acordul utilizatorului&lt;/txt> și &lt;txt href=\"%2$s\">Politica de confidențialitate&lt;/txt> înainte de a continua.</string>
     <string name="clearable_edittext_clear_description">Șterge</string>
     <string name="clipboard_tip">Copiat de la %1$s</string>
     <string name="close">Închide</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Am înțeles</string>
     <string name="guide_window_operation">Glisați din lateral spre centrul ecranului</string>
     <string name="guide_window_title">Înapoi</string>
+    <string name="handoff_switch_is_closed">Transferul aplicației este dezactivat</string>
     <string name="hint_password">Introduceți parola</string>
     <string name="hint_password_error">Parolă incorectă</string>
     <string name="http_buffer_size">Dimensiunea cache-ului HTTP</string>
@@ -190,7 +193,7 @@
     <string name="login_xiaomi_account_cancel">Anulează</string>
     <string name="login_xiaomi_account_goto_login">Conectează-te</string>
     <string name="login_xiaomi_account_summary_pad">Pentru a vă putea conecta la alte telefoane, utilizați același cont Xiaomi pe ambele dispozitive conectate. Vă conectați acum?</string>
-    <string name="login_xiaomi_account_summary_phone">Pentru a vă putea conecta la alte tablete, utilizați același cont Xiaomi pe ambele dispozitive conectate. Vă conectați acum?</string>
+    <string name="login_xiaomi_account_summary_phone">Pentru a vă putea conecta la alte tablete, utilizați același Cont Xiaomi pe ambele dispozitive conectate. Vă conectați acum?</string>
     <string name="login_xiaomi_account_title">Conectați-vă cu Contul Xiaomi</string>
     <string name="message_log">Jurnale mesaje</string>
     <string name="mi_drop">Xiaomi Share</string>
@@ -206,8 +209,12 @@
     <string name="miui15_app_name">Servicii de interconectare a dispozitivului</string>
     <string name="miui15_enable_wifi_alert_message">Serviciile de interconectare a dispozitivului conectează dispozitivele folosind Wi-Fi. Activați Wi-Fi acum?</string>
     <string name="miui15_invisible_mode_dialog_message">Nu puteți utiliza serviciile de interconectare a dispozitivului când sunteți incognito. Dezactivați mai întâi Modul Incognito.</string>
+    <string name="miui15_low_version_dialog_title">Actualizați serviciile de interconectare a dispozitivelor</string>
+    <string name="miui15_privacy_all_purpose">Serviciile de interconectare a dispozitivelor vă permit să vă conectați telefonul la un computer și să combinați două dispozitive într-o singură stație de lucru.</string>
+    <string name="miui15_privacy_pad_all_purpose">Serviciile de interconectare a dispozitivului vă permit să combinați dispozitivele mobile într-o singură stație de lucru, astfel încât să puteți utiliza aplicațiile de pe telefonul dvs. pe tabletă, să răspundeți la apeluri de pe un alt dispozitiv, să utilizați clipboard partajat, să transferați elemente și să proiectați conținut pe ecran.</string>
     <string name="miui15_revoke_message">"Dacă continuați, vă veți retrage consimțământul cu privire la Politica de confidențialitate a Serviciilor de interconectare a dispozitivului. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, dacă nu se cere altfel. Întrucât Serviciile de interconectare a dispozitivului își oferă serviciile pe baza colectării informațiilor personale necesare, retragerea consimțământului dvs. va fi considerat ca refuz de a accepta serviciile sale. Retrageți consimțământul acum?
 Această acțiune nu va șterge datele generate de Serviciile de interconectare a dispozitivului pe celălalt dispozitiv. Pentru a șterge datele generate pe toate dispozitivele dvs., retrageți consimțământul pentru fiecare dintre ele."</string>
+    <string name="miui15_scanner_lower_version_toast">Actualizați serviciile de interconectare a dispozitivelor</string>
     <string name="miuix_access_state_desc">Selectat</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectează tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectează tot</string>
@@ -326,6 +333,12 @@ Această acțiune nu va șterge datele generate de Serviciile de interconectare 
     <string name="pm">PM</string>
     <string name="preference_copied">„%1$s” a fost copiat în clipboard.</string>
     <string name="privacy_describe_change_wifi_state">Pentru conectarea dispozitivelor și transferul de fișiere folosind Wi-Fi</string>
+    <string name="privacy_describe_location">Pentru a găsi computere în apropiere și pentru a transfera fișiere</string>
+    <string name="privacy_describe_record_audio">Pentru redirecționarea redării audio către computer</string>
+    <string name="privacy_describe_storage">Pentru trimiterea și primirea fișierelor</string>
+    <string name="privacy_pad_describe_change_wifi_state">Pentru difuzarea conținutului ecranului</string>
+    <string name="privacy_pad_describe_record_audio">Pentru transferul redării audio pe alt dispozitiv în timpul difuzării</string>
+    <string name="privacy_pad_describe_storage">Pentru transferul elementelor între dispozitive</string>
     <string name="relay_msg_photo_text">Salvat în Galerie cu succes</string>
     <string name="relay_msg_photo_title">Imagine nouă</string>
     <string name="relay_msg_screenshot_text">Salvat în Galerie cu succes</string>

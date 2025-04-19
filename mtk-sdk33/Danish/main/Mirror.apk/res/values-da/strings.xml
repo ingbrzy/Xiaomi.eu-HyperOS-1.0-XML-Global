@@ -39,12 +39,14 @@
     <string name="afternoon">Eftermiddag</string>
     <string name="am">AM</string>
     <string name="app_no_storage_permission">Tillad %1$s at få adgang til lager i Indstillinger > Apps > %2$s > Tilladelser først</string>
+    <string name="app_not_support_subscreen">Kan ikke maksimere dette vindue</string>
     <string name="app_opened_in_new_window">Åbnede denne app i et nyt vindue</string>
     <string name="cancel">Annuller</string>
     <string name="cancel_button">Annuller</string>
     <string name="cast_mcc_tips_button_cancel">Ignorér</string>
     <string name="cast_mcc_tips_button_ok">Indstillinger</string>
     <string name="cast_mcc_tips_title">Skift Wi-fi-indstillinger</string>
+    <string name="circulate_cta_user_agreement">Læs og accepter vores &lt;txt href=\"%1$s\">brugeraftale&lt;/txt> og &lt;txt href=\"%2$s\">privatlivspolitik&lt;/txt>, inden du fortsætter.</string>
     <string name="clearable_edittext_clear_description">Ryd</string>
     <string name="clipboard_tip">Kopieret fra %1$s</string>
     <string name="close">Luk</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Forstået</string>
     <string name="guide_window_operation">Stryg fra siden til midten af skærmen</string>
     <string name="guide_window_title">Gå tilbage</string>
+    <string name="handoff_switch_is_closed">App-handoff er slået fra</string>
     <string name="hint_password">Indtast adgangskode</string>
     <string name="hint_password_error">Forkert adgangskode</string>
     <string name="http_buffer_size">HTTP-cachestørrelse</string>
@@ -206,8 +209,12 @@ Luk denne side, og prøv igen."</string>
     <string name="miui15_app_name">Tjenester til interkonnektivitet mellem enheder</string>
     <string name="miui15_enable_wifi_alert_message">Enhedens interkonnektivitets-tjenester sammenkobler enheder ved hjælp af Wi-fi. Aktivér Wi-fi nu?</string>
     <string name="miui15_invisible_mode_dialog_message">Kan ikke bruge enhedsopkoblingstjenester, når du er inkognito. Deaktivér inkognitotilstand først.</string>
+    <string name="miui15_low_version_dialog_title">Opdater tjenester til enhedsinterkonnektivitet</string>
+    <string name="miui15_privacy_all_purpose">Tjenester til enhedsinterkonnektivitet gør det muligt at forbinde din telefon til en computer og kombinere de to enheder til én arbejdsstation.</string>
+    <string name="miui15_privacy_pad_all_purpose">Tjenester til enhedsinterkonnektivitet gør det muligt at kombinere dine mobile enheder til én arbejdsstation, så du kan bruge apps fra din telefon på din tablet, besvare opkald på en anden enhed, bruge delt udklipsholder, overføre filer og caste skærmindhold.</string>
     <string name="miui15_revoke_message">"Hvis du fortsætter, vil du tilbagetrække dit samtykke til privatlivspolitikken for Enhedsopkoblingstjenester. Personoplysningerne, der allerede er indsamlet og opbevaret, vil blive slettet indenfor den specifikke periode i overensstemmelse med gældende love og bestemmelser, medmindre andet er påkrævet. Da Enhedsopkoblingstjenester leverer sine tjenester baseret på indsamling af de nødvendige personoplysninger, vil din tilbagetrækning af samtykke blive betragtet som at nægte at acceptere deres tjenester. Tilbagetræk samtykke nu?
 Denne handling sletter ikke de data, der er genereret af Enhedsopkoblingstjenester på din anden enhed. For at slette de data, der er genereret på alle dine enheder, skal du trække samtykket tilbage på hver af dem."</string>
+    <string name="miui15_scanner_lower_version_toast">Opdater software på din computer for at forbinde</string>
     <string name="miuix_access_state_desc">Valgt</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Fravælg alt</string>
     <string name="miuix_appcompat_action_mode_select_all">Vælg alle</string>
@@ -326,6 +333,12 @@ Denne handling sletter ikke de data, der er genereret af Enhedsopkoblingstjenest
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" blev kopieret til udklipsholderen.</string>
     <string name="privacy_describe_change_wifi_state">Til at tilslutte enheder og overføre filer via Wi-fi</string>
+    <string name="privacy_describe_location">For at finde computere i nærheden og overføre filer</string>
+    <string name="privacy_describe_record_audio">Til at omdirigere afspilning af lyd til din computer</string>
+    <string name="privacy_describe_storage">Til at sende og modtage filer</string>
+    <string name="privacy_pad_describe_change_wifi_state">For at caste skærmindhold</string>
+    <string name="privacy_pad_describe_record_audio">For at overføre afspilning af lyd til en anden enhed under casting</string>
+    <string name="privacy_pad_describe_storage">For at overføre elementer mellem enheder</string>
     <string name="relay_msg_photo_text">Gemt i Galleri</string>
     <string name="relay_msg_photo_title">Vis billede</string>
     <string name="relay_msg_screenshot_text">Gemt i Galleri</string>

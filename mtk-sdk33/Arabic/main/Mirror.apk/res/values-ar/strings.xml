@@ -39,12 +39,14 @@
     <string name="afternoon">بعد الظهر</string>
     <string name="am">ص</string>
     <string name="app_no_storage_permission">امنح %1$s إذن الوصول إلى التخزين أولا من الإعدادات > التطبيقات > %2$s > الأذونات</string>
+    <string name="app_not_support_subscreen">لا يمكن تصغير هذه النافذة</string>
     <string name="app_opened_in_new_window">تم فتح التطبيق في نافذة جديدة</string>
     <string name="cancel">إلغاء</string>
     <string name="cancel_button">إلغاء</string>
     <string name="cast_mcc_tips_button_cancel">تجاهل</string>
     <string name="cast_mcc_tips_button_ok">الإعدادات</string>
     <string name="cast_mcc_tips_title">تغيير إعدادات Wi-Fi</string>
+    <string name="circulate_cta_user_agreement">يجب عليك قراءة والموافقة على&lt;txt href=\"%1$s\">اتفاقية المستخدم&lt;/txt> و&lt;txt href=\"%2$s\">سياسة الخصوصية&lt;/txt> قبل استخدام خدماتنا.</string>
     <string name="clearable_edittext_clear_description">مسح</string>
     <string name="clipboard_tip">تم النسخ من %1$s</string>
     <string name="close">إغلاق</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">حسنا</string>
     <string name="guide_window_operation">اسحب من الحافة باتجاه وسط الشاشة</string>
     <string name="guide_window_title">رجوع للخلف</string>
+    <string name="handoff_switch_is_closed">تطبيق Handoff غير مشغل</string>
     <string name="hint_password">ادخل كلمة المرور</string>
     <string name="hint_password_error">كلمة المرور غير صحيحة</string>
     <string name="http_buffer_size">حجم ذاكرة HTTP المؤقتة</string>
@@ -206,8 +209,12 @@
     <string name="miui15_app_name">خدمات ربط الأجهزة</string>
     <string name="miui15_enable_wifi_alert_message">تقوم خدمات ريط الأجهزة بتوصيل الأجهزة باستخدام شبكة Wi-Fi. هل تريد تفعيل Wi-Fi الآن؟</string>
     <string name="miui15_invisible_mode_dialog_message">لا يمكن استخدام خدمات ربط الأجهزة وأنت في وضع التصفح المتخفي. قم بإيقاف وضع التصفح المخفي أولاً.</string>
+    <string name="miui15_low_version_dialog_title">تحديث خدمات ربط الأجهزة</string>
+    <string name="miui15_privacy_all_purpose">تسمح لك خدمات ربط الأجهزة بتوصيل هاتفك بالكمبيوتر ودمج جهازين في محطة عمل واحدة.</string>
+    <string name="miui15_privacy_pad_all_purpose">تسمح لك خدمات ربط الأجهزة بدمج أجهزتك المحمولة في محطة عمل واحدة. حيث يمكنك استخدام التطبيقات من هاتفك على جهازك اللوحي والرد على المكالمات على جهاز آخر واستخدام الحافظة المشتركة ونقل العناصر وبث محتوى الشاشة.</string>
     <string name="miui15_revoke_message">"إذا قمت بالمتابعة، سيعتبر ذلك سحب موافقتك على سياسة خصوصية خدمات ربط الأجهزة، وسيتم حذف المعلومات الشخصية التي تم جمعها والاحتفاظ بها خلال الفترة المحددة وفقًا للقوانين واللوائح المعمول بها ما لم يكن مطلوب خلاف ذلك. تقدم خدمات ربط الأجهزة خدماتها بناءً على جمع البيانات الشخصية الضرورية، ولذلك سحب موافقتك هو رفض لقبول خدماتها. هل مازلت ترغب في سحب الموافقة؟
 لن يؤدي هذا الإجراء إلى حذف البيانات التي تم إنشاؤها بواسطة خدمات ربط الأجهزة على جهازك الآخر. لحذف البيانات الموجودة على جميع أجهزتك، يجب عليك سحب الموافقة من كل جهاز من هذه الأجهزة."</string>
+    <string name="miui15_scanner_lower_version_toast">قم بتحديث البرنامج على كمبيوترك للاتصال</string>
     <string name="miuix_access_state_desc">محدد</string>
     <string name="miuix_appcompat_action_mode_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
@@ -326,6 +333,12 @@
     <string name="pm">م</string>
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="privacy_describe_change_wifi_state">للعثور على الأجهزة المتصلة ونقل الملفات باستخدام Wi-Fi</string>
+    <string name="privacy_describe_location">للعثور على أجهزة الكمبيوتر القريبة ونقل الملفات</string>
+    <string name="privacy_describe_record_audio">لنقل الصوت المشغل إلى جهاز الكمبيوتر</string>
+    <string name="privacy_describe_storage">لإرسال واستقبال الملفات</string>
+    <string name="privacy_pad_describe_change_wifi_state">لبث محتوى الشاشة</string>
+    <string name="privacy_pad_describe_record_audio">لنقل الصوت المشغل إلى جهاز آخر عبر بث الشاشة</string>
+    <string name="privacy_pad_describe_storage">لنقل العناصر بين الأجهزة</string>
     <string name="relay_msg_photo_text">تم الحفظ إلى المعرض بنجاح</string>
     <string name="relay_msg_photo_title">صورة جديدة</string>
     <string name="relay_msg_screenshot_text">تم الحفظ إلى المعرض بنجاح</string>

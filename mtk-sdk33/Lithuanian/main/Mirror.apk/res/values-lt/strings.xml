@@ -39,12 +39,14 @@
     <string name="afternoon">Popietė</string>
     <string name="am">Priešpiet</string>
     <string name="app_no_storage_permission">Visų pirmą leiskite %1$s pasiekti saugyklą nuėję į Nustatymai> Programos > %2$s > Leidimai</string>
+    <string name="app_not_support_subscreen">Negalima padidinti šio lango</string>
     <string name="app_opened_in_new_window">Ši programa atidaryta naujame lange</string>
     <string name="cancel">Atšaukti</string>
     <string name="cancel_button">Atšaukti</string>
     <string name="cast_mcc_tips_button_cancel">Nepaisyti</string>
     <string name="cast_mcc_tips_button_ok">Parametrai</string>
     <string name="cast_mcc_tips_title">Keisti „Wi-FI“ parametrus</string>
+    <string name="circulate_cta_user_agreement">Prieš tęsdami, perskaitykite ir sutikite su mūsų &lt;txt href=\"%1$s\">naudotojo sutartimi&lt;/txt> ir &lt;txt href=\"%2$s\">privatumo politika&lt;/txt>.</string>
     <string name="clearable_edittext_clear_description">Išvalyti</string>
     <string name="clipboard_tip">Nukopijuota iš %1$s</string>
     <string name="close">Uždaryti</string>
@@ -161,6 +163,7 @@
     <string name="guide_window_btn_know">Supratau</string>
     <string name="guide_window_operation">Slinkite iš ekrano šono į vidurį</string>
     <string name="guide_window_title">Grįžti</string>
+    <string name="handoff_switch_is_closed">Programos perdavimas išjungtas</string>
     <string name="hint_password">Įveskite slaptažodį</string>
     <string name="hint_password_error">Neteisingas slaptažodis</string>
     <string name="http_buffer_size">HTTP podėlio dydis</string>
@@ -206,8 +209,12 @@ Uždarykite šį puslapį ir bandykite dar kartą."</string>
     <string name="miui15_app_name">Įrenginių tarpusavio sujungiamumo paslaugos</string>
     <string name="miui15_enable_wifi_alert_message">Naudojant įrenginių tarpusavio sujungiamumo paslaugas, įrenginiai sujungiami naudojant „Wi-Fi“. Įjungti „Wi-Fi“ dabar?</string>
     <string name="miui15_invisible_mode_dialog_message">Negalite naudoti įrenginių tarpusavio sujungiamumo paslaugų, kai esate inkognito režime. Pirmiausia išjunkite inkognito režimą.</string>
+    <string name="miui15_low_version_dialog_title">Atnaujinti įrenginių tarpusavio sujungiamumo paslaugas</string>
+    <string name="miui15_privacy_all_purpose">Įrenginių tarpusavio sujungiamumo paslaugos leidžia prijungti telefoną prie kompiuterio ir sujungti du įrenginius į vieną darbo vietą.</string>
+    <string name="miui15_privacy_pad_all_purpose">Įrenginių tarpusavio sujungiamumo paslaugos leidžia sujungti mobiliuosius įrenginius į vieną darbo vietą, kad galėtumėte naudotis telefono programomis planšetiniame kompiuteryje, atsiliepti į skambučius kitame įrenginyje, naudoti bendrinamą iškarpinę, perkelti elementus ir perduoti ekrano turinį.</string>
     <string name="miui15_revoke_message">"Jei tęsite, tai reikš, kad atšaukiate sutikimą su Įrenginių tarpusavio sujungiamumo paslaugų privatumo politika. Surinkta ir išsaugota asmeninė informacija bus ištrinta per tam tikrą laikotarpį pagal galiojančius įstatymus ir teisės aktus, nebent numatyta kitaip. Kadangi įrenginių tarpusavo sujungiamumo paslaugos teikiamos remiantis būtinos asmeninės informacijos rinkimu, jūsų sutikimo atšaukimas bus laikomas atsisakymu priimti paslaugas. Atšaukti sutikimą dabar?
 Šiuo veiksmu nebus ištrinti įrenginių tarpusavio sujungiamumo paslaugų kitame įrenginyje sugeneruoti duomenys. Norėdami ištrinti duomenis, sugeneruotus visuose savo įrenginiuose, atšaukite sutikimą kiekviename iš jų."</string>
+    <string name="miui15_scanner_lower_version_toast">Norėdami prisijungti, atnaujinkite savo kompiuterio programinę įrangą</string>
     <string name="miuix_access_state_desc">Pasirinkta</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Atžymėti viską</string>
     <string name="miuix_appcompat_action_mode_select_all">Pasirinkti viską</string>
@@ -309,7 +316,7 @@ Uždarykite šį puslapį ir bandykite dar kartą."</string>
     <string name="pad_settings_handoff_disconnect">Neprisijungta</string>
     <string name="pad_settings_handoff_enable_disconnect">Įjungę „Bluetooth“ laikykite įrenginius arti vienas kito</string>
     <string name="pad_settings_handoff_p2p_summary">Prisijunkite prie aktyviosios srities vienu bakstelėjimu</string>
-    <string name="pad_settings_handoff_p2p_title">Aktyvioji sritis</string>
+    <string name="pad_settings_handoff_p2p_title">Belaidis internetas</string>
     <string name="pad_settings_handoff_video_summary">Leiskite vaizdo įrašus kitame ekrane nuo tos vietos, kurioje sustojote</string>
     <string name="pad_settings_handoff_video_title">Vaizdo įrašai</string>
     <string name="pad_settings_handoff_wps_summary">Peržiūrėkite, redaguokite ir išsaugokite dokumentus perjungdami iš vieno įrenginio į kitą</string>
@@ -326,6 +333,12 @@ Uždarykite šį puslapį ir bandykite dar kartą."</string>
     <string name="pm">Popiet</string>
     <string name="preference_copied">Suvestinė „%1$s“ nukopijuota į iškarpinę.</string>
     <string name="privacy_describe_change_wifi_state">Įrenginių aptikimas ir failų perdavimas naudojant „Wi-Fi“</string>
+    <string name="privacy_describe_location">Netoliese esančių kompiuterių aptikimas ir failų perkėlimas</string>
+    <string name="privacy_describe_record_audio">Garso atkūrimo nukreipimas į kompiuterį</string>
+    <string name="privacy_describe_storage">Failų siuntimas ir gavimas</string>
+    <string name="privacy_pad_describe_change_wifi_state">Ekrano turinio perdavimas</string>
+    <string name="privacy_pad_describe_record_audio">Garso atkūrimo perkėlimui į kitą įreginį perdavimo metu</string>
+    <string name="privacy_pad_describe_storage">Elementų perkėlimas tarp įrenginių</string>
     <string name="relay_msg_photo_text">Sėkmingai išsaugota galerijoje</string>
     <string name="relay_msg_photo_title">Naujas vaizdas</string>
     <string name="relay_msg_screenshot_text">Sėkmingai išsaugota galerijoje</string>
