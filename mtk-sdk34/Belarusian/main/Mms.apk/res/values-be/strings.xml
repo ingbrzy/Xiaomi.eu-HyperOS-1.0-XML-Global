@@ -89,7 +89,6 @@
     <string name="attach_take_photo">Сфатаграфаваць</string>
     <string name="attach_video">Відэа</string>
     <string name="attach_video_call">Відэавыклік</string>
-    <string name="attachment_panel_show_part">Старонка %1$d</string>
     <string name="audio_download_failed">Не атрымалася спампаваць аўдыя</string>
     <string name="audio_message_expired">Гэта галасавое паведамленне ўжо недаступна.</string>
     <string name="audio_message_mx_offline">Не атрымалася спампаваць аўдыя. Mi Паведамленні недаступны або адключаны.</string>
@@ -130,7 +129,7 @@
     <string name="button_resend_message">Адправіць зноў</string>
     <string name="button_unfold">Разгарнуць</string>
     <string name="call_sender">Адпраўнік</string>
-    <string name="can_not_send_by_rcs">"Can't use 5G Messaging"</string>
+    <string name="can_not_send_by_rcs">Немагчыма выкарыстоўваць 5G Паведамленні</string>
     <string name="can_not_view_group_chat_stranger">Нельга прагледзець звесткі пра незнаёмых.</string>
     <string name="cancel">Адмена</string>
     <string name="cannot_add_picture_and_video">Нельга дадаць выяву і відэа на адзін слайд.</string>
@@ -378,7 +377,7 @@
     <string name="fcm_fallback_notification_channel_label">Рознае</string>
     <string name="fdn_check_failure">Вы можаце адпраўляць паведамленні толькі на нумары з спісу дазволеных нумароў.</string>
     <string name="feature_mx">Mi Паведамленне</string>
-    <string name="feature_mx_summary"><b>Mi Паведамленне дазваляець вам бяплатна адпраўляць паведамлення іншым карыстальнікам Mi Паведамлення</b>. Для актывацыі гэтай паслугі патрабуецца адпраўка SMS. Аплата спаганяецца згодна з тарыфам вашага аператара. Перад выкарыстаннем гэтай функцыі прачытайце наше <font color="#B3000000"><a href="http://url1">Карыстальніцкае пагадненне</a></font> і <font color="#B3000000"><a href="http://url2">Палітыку прыватнасці</a></font> і пагадзіцеся з імі.</string>
+    <string name="feature_mx_summary"><b>Mi Паведамленні дазваляюць вам бяплатна адпраўляць паведамленні іншым карыстальнікам Mi Паведамленні</b>. Для актывацыі гэтай паслугі патрабуецца адпраўка SMS. Аплата спаганяецца згодна з тарыфам вашага аператара. Перад выкарыстаннем гэтай функцыі прачытайце <font color="#B3000000"><a href="http://url1">Карыстальніцкае пагадненне</a></font> і <font color="#B3000000"><a href="http://url2">Палітыку прыватнасці</a></font> і пагадзіцеся з імі.</string>
     <string name="feature_smart_sms">Разумныя паведамленні</string>
     <string name="feature_smart_sms_summary"><b>Функцыя «Разумныя паведамленні» забяспечвае распазнаванне ідэнтыфікатара адпраўніка і разумных меню</b>. Разумныя паведамлення прадастаўляюцца сумесна з Yulore. Перад выкарыстаннем гэтай функцыі азнаёмцеся і пагадзіцеся з <font color="#B3000000"><a href="http://url3">Палітыкай прыватнасці </a></font> Yulore.</string>
     <string name="festival_sms_loading">Загрузка…</string>
@@ -538,10 +537,8 @@
     <string name="menu_unlock">Прыбраць з абранага</string>
     <string name="menu_view_contact">Прагледзець кантакт</string>
     <string name="menu_view_group_info">Інфармацыя аб групе</string>
-    <string name="message_cannot_send_air_mode">"Не атрымалася адправіць паведамленні.
-Спачатку адключыце рэжым палёту."</string>
-    <string name="message_cannot_send_sim_unavailable">"Не атрымалася адправіць паведамленні.
-Праверце SIM-карту."</string>
+    <string name="message_cannot_send_air_mode">Для адпраўкі паведамленняў адключыце Рэжым палёту</string>
+    <string name="message_cannot_send_sim_unavailable">Для адпраўкі паведамленняў устаўце SIM- карту</string>
     <string name="message_class_label">"Клас паведамленняў: "</string>
     <string name="message_contact">Кантакт:</string>
     <string name="message_details_title">Інфармацыя аб паведамленні</string>
@@ -812,7 +809,7 @@
     <string name="pref_hide_verification_code_summary">Аўтаматычна хаваць аднаразовыя паролі ў паведамленнях-апавяшчэннях на заблакаваным экране блакавання</string>
     <string name="pref_messages_to_save">Усталяваць колькасць паведамленняў у дыялозе для захоўвання</string>
     <string name="pref_mms_settings_title">MMS</string>
-    <string name="pref_msg_trash_bin_title">Выдаленыя паведамленні</string>
+    <string name="pref_msg_trash_bin_title">"Нядаўна выдаленыя аб'екты"</string>
     <string name="pref_notification_settings_title">Апавяшчэнні</string>
     <string name="pref_other_title">Іншыя</string>
     <string name="pref_rcs_show_report_message">Атрымліваць справаздачы аб дастаўцы</string>
@@ -859,7 +856,7 @@
     <string name="pref_title_miui_card">Адправіць як візітку</string>
     <string name="pref_title_mms_auto_retrieval">Спампоўваць змесціва MMS аўтаматычна</string>
     <string name="pref_title_mms_delete">Максімальная колькасць MMS</string>
-    <string name="pref_title_mms_read_reports">Апавяшчаць аб чытанні MMS</string>
+    <string name="pref_title_mms_read_reports">Паведамляць пра чытанне MMS</string>
     <string name="pref_title_mms_retrieval_during_international_roaming">Аўтазагрузка MMS у міжнародным роўмінгу</string>
     <string name="pref_title_mms_retrieval_during_national_roaming">Аўтазагрузка MMS у нацыянальным роўмінгу</string>
     <string name="pref_title_mms_retrieval_during_roaming">Спампоўваць змесціва MMS у роўмінгу</string>
@@ -903,11 +900,11 @@
     <string name="privacy_revoke_nonetwork_ok">Зразумела</string>
     <string name="privacy_revoke_nonetwork_title">Немагчыма злучыцца з сеткай</string>
     <string name="privacy_state_revoked_cancel">Адмена</string>
-    <string name="privacy_state_revoked_content">Выключаючы перамыкач, вы адклікаецца сваю згоду з Палітыкай прыватнасці \"Паведамленняў\". Мы перастанем збіраць вашу асабістую інфармацыю, а ўжо сабраныя і захаваныя асабістыя дадзеныя будуць выдаленыя на працягу пэўнага перыяду ў адпаведнасці з патрабаваннямі прымяняецца заканадаўства. Функцыям \"Mi паведамлення\" і \"Разумныя паведамлення\", якія забяспечваюцца \"Паведамленнямі\", трэба збіраць неабходную асабістую інфармацыю для прадастаўлення вам асноўных паслуг. Ваша адкліканне згоды з Палітыкай прыватнасці Паведамленняў будзе разглядацца як адмова прыняць паслугі на аснове сабранай асабістай інфармацыі, якія прадастаўляюцца \"Mi паведамлення\" і \"Разумныя паведамлення\".</string>
+    <string name="privacy_state_revoked_content">Выключаючы перамыкач, вы адклікаеце сваю згоду з Палітыкай прыватнасці \"Паведамленняў\". Мы перастанем збіраць вашу асабістую інфармацыю, а ўжо сабраныя і захаваныя асабістыя дадзеныя будуць выдалены на працягу пэўнага перыяду ў адпаведнасці з патрабаваннямі прымяняецца заканадаўства. Функцыям \"Mi паведамлення\" і \"Разумныя паведамлення\", якія забяспечваюцца \"Паведамленнямі\", трэба збіраць неабходную асабістую інфармацыю для прадастаўлення вам асноўных паслуг. Ваша адкліканне згоды з Палітыкай прыватнасці Паведамленняў будзе разглядацца як адмова прыняць паслугі на аснове сабранай асабістай інфармацыі, якія прадастаўляюцца \"Mi паведамлення\" і \"Разумныя паведамлення\".</string>
     <string name="privacy_state_revoked_dialog_title">Адкліканне згоды</string>
     <string name="privacy_state_revoked_revoked">Адклікаць</string>
     <string name="privacy_state_revoked_switch">Адкліканне згоды</string>
-    <string name="privacy_state_revoked_synopsis">Выключаючы перамыкач, вы адклікаецца сваю згоду з Палітыкай прыватнасці \"Паведамленняў\".</string>
+    <string name="privacy_state_revoked_synopsis">Выключаючы перамыкач, вы адклікаеце сваю згоду з Палітыкай прыватнасці \"Паведамленняў\".</string>
     <string name="privacy_state_revoked_synopsis_1">Адклікаць згоду з Палітыкай прыватнасці Mi Паведамленні</string>
     <string name="privacy_term">Палітыка прыватнасці</string>
     <string name="private_entry_available">Адпусціце, каб адкрыць прыватную папку</string>
@@ -999,8 +996,8 @@
     <string name="rcs_chatlist_scan_error">Памылка счытвання QR-кода</string>
     <string name="rcs_conversation_rcs_tip">[Чат-бот] %s</string>
     <string name="rcs_create_new_group">Стварыць групавы чат</string>
-    <string name="rcs_dspt">Send and receive messages using WLAN or mobile network</string>
-    <string name="rcs_dspt_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_dspt">Адпраўляйце і атрымлівайце паведамленні з дапамогай WLAN або мабільнай сеткі</string>
+    <string name="rcs_dspt_unavailable">Звязаныя з 5G Паведамленнямі функцыі не падтрымліваюцца з-за абмежаванняў аператара.</string>
     <string name="rcs_file_link_as_sms">Наведайце %s, каб прагледзець адпраўлены вам файл RCS.</string>
     <string name="rcs_forward_faild">Памылка перасылкі</string>
     <string name="rcs_forward_successful">Перасылка паспяхова выканана</string>
@@ -1009,16 +1006,16 @@
     <string name="rcs_hello_from_pc">Увайдзіце ў Fetion на вашым кампутары для перадачы файлаў.</string>
     <string name="rcs_list_bottom_loading">Хвілінку…</string>
     <string name="rcs_list_bottom_search">Пошук…</string>
-    <string name="rcs_main_purpose">Вы можаце выкарыстоўваць гэтую службу для адпраўкі і атрымання фота, галасавых паведамленняў, відэа і іншага.</string>
-    <string name="rcs_message">5G messages</string>
+    <string name="rcs_main_purpose">Вы можаце выкарыстоўваць гэтую службу для адпраўкі і атрымання фатаграфій, галасавых паведамленняў, відэа і шмат чаго іншага. Гэтай службе патрабуецца доступ да месцазнаходжання.</string>
+    <string name="rcs_message">5G паведамленні</string>
     <string name="rcs_message_disable">Немагчыма праглядзець гэта паведамленне ў Другім прасторы</string>
-    <string name="rcs_message_title">5G Messaging</string>
+    <string name="rcs_message_title">5G Паведамленні</string>
     <string name="rcs_more_bar_title">Падрабязнасці</string>
-    <string name="rcs_msg">5G Messaging</string>
+    <string name="rcs_msg">5G Паведамленні</string>
     <string name="rcs_my_black_chatbot_title">Чорны спіс</string>
-    <string name="rcs_not_online">"Can't use 5G Messaging. Check your network settings and try again."</string>
-    <string name="rcs_offline">Not signed in to 5G Messaging. Wait a minute or two and try again.</string>
-    <string name="rcs_offline_hint">"5G Messaging is offline. Can't forward this message."</string>
+    <string name="rcs_not_online">Немагчыма выкарыстоўваць 5G Паведамленні. Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
+    <string name="rcs_offline">Вы не ўвайшлі ў 5G Паведамленні. Пачакайце хвіліну ці дзве і паўтарыце спробу.</string>
+    <string name="rcs_offline_hint">5G Паведамленні не ў сетцы. Немагчыма пераслаць гэтае паведамленне.</string>
     <string name="rcs_pref_button_login">Увайсцi</string>
     <string name="rcs_pref_button_logout">Выйсці</string>
     <string name="rcs_pref_category_rcs">Абмен паведамленнямі RCS</string>
@@ -1041,7 +1038,7 @@
     <string name="rcs_recipient_type_group">Пераслаць у групавы чат</string>
     <string name="rcs_recipient_type_pc">Пераслаць на кампутар</string>
     <string name="rcs_remember_my_choice">Запомніць выбар</string>
-    <string name="rcs_resend_not_online">"Can't use 5G Messaging"</string>
+    <string name="rcs_resend_not_online">Немагчыма выкарыстоўваць Паведамленні 5G</string>
     <string name="rcs_resend_sim_card_not_insert">Падобна на тое, ваша SIM-карта не ўсталяваная</string>
     <string name="rcs_search_group_local">Мае чат-боты</string>
     <string name="rcs_search_group_recommend">Рэкамендаваныя</string>
@@ -1050,17 +1047,17 @@
     <string name="rcs_search_result_server_data_empty">Не атрымалася знайсці чат-ботаў у сетцы, якія адпавядаюць вашаму пошукаваму запыту</string>
     <string name="rcs_send_hello">Прывітанне!</string>
     <string name="rcs_send_rms_remind_change">Налады</string>
-    <string name="rcs_send_rms_remind_desp">5G Messaging is an instant messaging service provided by China Mobile. You can turn this feature off in the Settings.</string>
-    <string name="rcs_send_rms_remind_title">Use 5G Messaging</string>
+    <string name="rcs_send_rms_remind_desp">5G Паведамленні — гэта служба імгненных паведамленняў, якую прадастаўляе China Mobile. Вы можаце адключыць гэту функцыю ў наладах.</string>
+    <string name="rcs_send_rms_remind_title">Выкарыстоўваць 5G Паведамленні</string>
     <string name="rcs_service_agreement">Умовы выкарыстання</string>
-    <string name="rcs_setting">5G Messaging settings</string>
+    <string name="rcs_setting">Налады 5G Паведамленняў</string>
     <string name="rcs_setting_tips">Вы можаце змяніць альтэрнатыўныя спосабы дастаўкі ў наладах абмену паведамленнямі.</string>
     <string name="rcs_silence_message">Выключыць гук апавяшчэнняў аб паведамленнях</string>
-    <string name="rcs_summary_auto_resend_mms">"Convert 5G multimedia messages to MMS after the original message couldn't be sent. Your carrier will charge you for this message."</string>
-    <string name="rcs_summary_auto_resend_sms">"Convert 5G text messages to SMS after the original message couldn't be sent. Your carrier will charge you for this message."</string>
+    <string name="rcs_summary_auto_resend_mms">Адпраўляць мультымедыйныя паведамленні 5G у выглядзе MMS, калі не ўдаецца адправіць зыходнае паведамленне. Аплата спаганяецца згодна з тарыфам вашага аператара.</string>
+    <string name="rcs_summary_auto_resend_sms">Канвертаваць тэкставыя паведамленні 5G у SMS пасля таго, як зыходнае паведамленне не ўдалося адправіць. Аплата спаганяецца згодна з тарыфам вашага аператара.</string>
     <string name="rcs_summary_silence_message">Апавяшчэння аб паведамленнях пры запушчаным кліенце для ПК будуць паступаць без гуку</string>
-    <string name="rcs_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
-    <string name="rcs_up_not_online">5G Messaging is offline. Check your network settings and try again.</string>
+    <string name="rcs_unavailable">Звязаныя з 5G Паведамленнямі функцыі не падтрымліваюцца з-за абмежаванняў аператара.</string>
+    <string name="rcs_up_not_online">Паведамлення 5G не ў сетцы. Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
     <string name="rcs_wait_for_retry_text">Чаканне…</string>
     <string name="received_at_time">Атрымана: %1s</string>
     <string name="received_label">"Атрымана: "</string>
@@ -1068,7 +1065,7 @@
     <string name="recipient_editor_count_format">%d</string>
     <string name="recipient_label">"Атрымальнік: "</string>
     <string name="recipients_over_size">Занадта шмат атрымальнікаў.</string>
-    <string name="recommend_ad_summary">"Калі персаналізаваная рэклама адключаная, вы па-ранейшаму будзеце бачыць такую ж колькасць рэкламыных аб'яваў, як і пры ўключанай функцыі, але яны не будуць так важныя для вас."</string>
+    <string name="recommend_ad_summary">"Калі персаналізаваная рэклама адключана, вы па-ранейшаму будзеце бачыць такую ж колькасць рэкламыных аб'яў, як і пры ўключанай функцыі, але яны не будуць так важны для вас."</string>
     <string name="recommend_ad_switch">Персаналізаваная рэклама</string>
     <string name="recommend_agree">Згадзіцца</string>
     <string name="recommend_bar_cancel">Ігнараваць</string>
@@ -1102,10 +1099,10 @@
     <string name="recommend_tip_4">Функцыя «Mi Паведамленні» дазваляе аўтаматычна вызначаць ідэнтыфікатар адпраўніка для адлюстравання імёнаў і фота профіляў давераных пастаўшчыкоў.</string>
     <string name="recommend_tip_5">Смарт-вызначальнік ідэнтыфікатара адпраўніка дазволіць зрабіць тэчку з уваходнымі паведамленнямі больш упарадкаванай, а таксама дапаможа вызначаць надзейных адпраўнікоў.</string>
     <string name="recommend_tip_6">Вышэйпералічаныя паслугі прадастаўляюцца пры тэхнічнай падтрымцы Yulore.</string>
-    <string name="recommend_tip_7">Перад пачаткам выкарыстання службы «Mi Паведамленні» азнаёмцеся і пагадзіцеся з нашымі <font color="#B3000000"><a href="http://url1">Карыстальніцкім пагадненнем</a></font> і <font color="#B3000000"><a href="http://url2">Палітыкай прыватнасці</a></font>, а таксама з <font color="#B3000000"><a href="http://url3">Палітыкай прыватнасці Yulore</a></font>.</string>
+    <string name="recommend_tip_7">Перад пачаткам выкарыстання службы «Mi Паведамленні» азнаёмціся і пагадзіцеся з нашымі <font color="#B3000000"><a href="http://url1">Карыстальніцкім пагадненнем</a></font> і <font color="#B3000000"><a href="http://url2">Палітыкай прыватнасці</a></font>, а таксама з <font color="#B3000000"><a href="http://url3">Палітыкай прыватнасці Yulore</a></font>.</string>
     <string name="recommend_tip_8">Перад пачаткам выкарыстання функцыі бясплатнага абмену паведамленнямі праз інтэрнэт, якая прадастаўляецца службай «Mi Паведамленні», азнаёмцеся і пагадзіцеся з нашымі <font color="#B3000000"><a href="http://url1">Карыстальніцкім пагадненнем</a></font> і <font color="#B3000000"><a href="http://url2">Палітыкай прыватнасці</a></font>, а таксама з <font color="#B3000000"><a href="http://url3">Палітыкай прыватнасці Yulore</a></font>.</string>
     <string name="recommend_tip_9">Перад пачаткам выкарыстання функцыі «Смарт-вызначальнік ідэнтыфікатара адпраўніка» азнаёмцеся і пагадзіцеся з нашымі <font color="#B3000000"><a href="http://url1">Карыстальніцкім пагадненнем</a></font> і <font color="#B3000000"><a href="http://url2">Палітыкай прыватнасці</a></font>, а таксама з <font color="#B3000000"><a href="http://url3">Палітыкай прыватнасці Yulore</a></font>.</string>
-    <string name="recommend_tip_9_2">Перад пачаткам выкарыстання нашых паслуг азнаёмцеся і пагадзіцеся з нашымі <font color="#B3000000"><a href="http://url1">Карыстальніцкім пагадненнем</a></font> і <font color="#B3000000"><a href="http://url2">Палітыкай прыватнасці</a></font>.</string>
+    <string name="recommend_tip_9_2">Перад пачаткам выкарыстання нашых паслуг азнаёмціся і пагадзіцеся з нашымі <font color="#B3000000"><a href="http://url1">Карыстальніцкім пагадненнем</a></font> і <font color="#B3000000"><a href="http://url2">Палітыкай прыватнасці</a></font>.</string>
     <string name="recommend_tip_default">Усталюйце Xiaomi Паведамленні у якасці праграмы для абмену паведамленнямі па змаўчанні, каб атрымаць усе перавагі бяспекі, якія мы прапануем</string>
     <string name="recommend_tip_other">Паглядзець іншыя праграмы для абмену паведамленнямі</string>
     <string name="recommend_tip_smart">Абарона прыватнасці. Разумнае распазнанне.</string>
@@ -1209,7 +1206,7 @@
     <string name="send_message_notification_msg">Націсніце для прагляду.</string>
     <string name="send_message_notification_tickerText">Запыт дазволу кіравання прыладай</string>
     <string name="send_message_notification_title">Запыт дазволаў</string>
-    <string name="send_rms_editor_hints">5G Messaging</string>
+    <string name="send_rms_editor_hints">5G Паведамленні</string>
     <string name="send_rms_editor_hints_omit">Mi Паведамленні</string>
     <string name="send_signature_confirm_dialog_message">Вы не ўвялі тэкст паведамлення. Адправіць толькі подпіс?</string>
     <string name="send_signature_confirm_dialog_title">Адпраўка паведамленні</string>
@@ -1217,7 +1214,7 @@
     <string name="send_to">Каму:</string>
     <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Адпраўлена: %1s</string>
-    <string name="sent_label">"Адпраўленна: "</string>
+    <string name="sent_label">"Адпраўлена: "</string>
     <string name="service_abandon_alert">Увага</string>
     <string name="service_abandon_retry_deny">Назад</string>
     <string name="service_abandon_retry_setting">Налады</string>

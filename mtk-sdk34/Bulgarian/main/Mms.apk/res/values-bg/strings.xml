@@ -89,7 +89,6 @@
     <string name="attach_take_photo">Направи снимка</string>
     <string name="attach_video">Видеоклипове</string>
     <string name="attach_video_call">Видео разговор</string>
-    <string name="attachment_panel_show_part">Страница %1$d</string>
     <string name="audio_download_failed">изтеглянето на записа е неуспешно</string>
     <string name="audio_message_expired">Това гласово съобщение е с изтекъл срок.</string>
     <string name="audio_message_mx_offline">Не може да се изтегли аудио файла. Mi Message няма връзка или не може да се зареди.</string>
@@ -378,9 +377,9 @@
     <string name="fcm_fallback_notification_channel_label">Разни</string>
     <string name="fdn_check_failure">Можете да изпращате съобщения само до Вашите разрешени номера.</string>
     <string name="feature_mx">Mi Съобщение</string>
-    <string name="feature_mx_summary"><b>Mi Съобщение Ви позволява да изпращате съобщения до други потребители на Mi Съобщение по интернет без такси</b>. За активиране на тази услуга е необходим изходящ SMS. Вашият доставчик ще Ви таксува за това съобщение. Прочетете и приемете нашето <font color="#B3000000"><a href="http://url1">Потребителско споразумение</a></font> и <font color="#B3000000"><a href="http://url2">Правила за поверителност</a></font>, преди да използвате тази функция.</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">Смарт Съобщения</string>
-    <string name="feature_smart_sms_summary"><b>Умни съобщения предоставя разпознаване на ID на изпращач и смарт менюта</b>. Умни съобщения се предоставя частично от Yulore. Прочетете и приемете <font color="#B3000000"><a href="http://url3">Правилата за поверителност</a></font> на Yulore, преди да използвате тази функция.</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">Зареждане…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Време на създаване:</string>
@@ -458,7 +457,7 @@
     <string name="from_pkg_name">Съобщение от приложение:</string>
     <string name="ft_cfs_dialog_content">Файловете не могат да се доставят с RCS. Изпращане на линк с текстово съобщение вместо това?</string>
     <string name="ft_cfs_dialog_title">Алтернативен пренос на файлове</string>
-    <string name="google_message_promo_content">Xiaomi препоръчва смяна към Съобщения от Google. Инсталирайте сега и започнете да споделяте снимки с високо качество, изпращайте съобщения с Wi-Fi, и още. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Научете повече</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">Обновете приложението си за съобщения</string>
     <string name="group_already_kicked_hint">Не могат да се изпращат съобщения. Вие не сте член на този групов чат.</string>
     <string name="group_member_is_composing">Писане…</string>
@@ -538,10 +537,8 @@
     <string name="menu_unlock">Премахни от любими</string>
     <string name="menu_view_contact">Преглед на контакт</string>
     <string name="menu_view_group_info">Група информация</string>
-    <string name="message_cannot_send_air_mode">"Не могат да бъдат изпращани съобщения.
-Първо изключете Самолетния режим."</string>
-    <string name="message_cannot_send_sim_unavailable">"Не могат да бъдат изпращани съобщения.
-Проверете вашата SIM карта."</string>
+    <string name="message_cannot_send_air_mode">Изключете Самолетния режим, за да изпращате съобщения</string>
+    <string name="message_cannot_send_sim_unavailable">Поставете SIM карта, за да изпращате съообщения</string>
     <string name="message_class_label">"Клас на съобщение: "</string>
     <string name="message_contact">Контакт:</string>
     <string name="message_details_title">Детайли за съобщение</string>
@@ -732,7 +729,7 @@
     <string name="networking_allow_desc">Mi Съобщения се нуждае от достъп до интернет, за да работи нормално. В случай, че се използва за безплатни текстови съобщения и гласови услуги, разпознаване на непознати номера, филтриране на спам, включване на трети услуги, Mi Съобщения трябва да използва Жълти страници. Разрешавате ли на Жълти страници да се свърже с интернет, да определи вашето местоположение и да чете вашите контакти?</string>
     <string name="networking_allow_desc_without_mx">Mi Съобщения се нуждае от достъп до интернет, за да работи нормално. В случай, че се използва за безплатни текстови съобщения и разпознаване на непознати номера, филтриране на спам, включване на трети услуги, Mi Съобщения трябва да използва Жълти страници. Разрешавате ли на Жълти страници да се свърже с интернет, да определи вашето местоположение и да чете вашите контакти?</string>
     <string name="networking_allow_title">Предупреждение</string>
-    <string name="new_message">Създаване</string>
+    <string name="new_message">Ново съобщение</string>
     <string name="new_message_arrived">Непрочетено</string>
     <string name="new_phrase">Добавяне на отговор</string>
     <string name="new_phrase_hint">Въведете нов отговор</string>
@@ -812,7 +809,7 @@
     <string name="pref_hide_verification_code_summary">Автоматично скриване на еднократни пароли в известията за съобщение на заключен екран</string>
     <string name="pref_messages_to_save">Задай броя на съобщения за запазване в кореспонденцията</string>
     <string name="pref_mms_settings_title">Настройки на съобщения (MMS)</string>
-    <string name="pref_msg_trash_bin_title">Изтрий съобщенията</string>
+    <string name="pref_msg_trash_bin_title">Наскоро изтрити елементи</string>
     <string name="pref_notification_settings_title">Настройки на известия</string>
     <string name="pref_other_title">Разширени настройки</string>
     <string name="pref_rcs_show_report_message">Получаване на доклади за доставка</string>
@@ -1009,7 +1006,7 @@
     <string name="rcs_hello_from_pc">Влезте в Fetion на вашия компютър, за да прехвърлите файлове.</string>
     <string name="rcs_list_bottom_loading">Момент…</string>
     <string name="rcs_list_bottom_search">Търсене…</string>
-    <string name="rcs_main_purpose">Можете да използвате тази услуга, за да изпращате и получавате снимки, гласови съобщения, видеоклипове и др.</string>
+    <string name="rcs_main_purpose">Можете да използвате тази услуга, за да изпращате и получавате снимки, гласови съобщения, видеоклипове и др. Тази услуга изисква достъп до местоположение.</string>
     <string name="rcs_message">5G съобщения</string>
     <string name="rcs_message_disable">Не може да разглеждате това съобщение във втория интервал</string>
     <string name="rcs_message_title">5G Съобщения</string>
@@ -1102,10 +1099,10 @@
     <string name="recommend_tip_4">Mi Съобщение може автоматично да разпознае самоличността на изпращащия, което ви позволява да виждате имената и профилните снимки на доверени доставчици.</string>
     <string name="recommend_tip_5">Умно разпознаване на самоличността на изпращащия прави кутията ви по-изчистена и ви помага да идентифицирате доверени изпращачи.</string>
     <string name="recommend_tip_6">Гореспоменатите услуги са предоставени с техническата подкрепа на Yulore.</string>
-    <string name="recommend_tip_7">Прочетете и приемете нашето <font color="#B3000000"><a href="http://url1">Потребителско споразумение</a></font> и <font color="#B3000000"><a href="http://url2">Правила за поверителност</a></font>, както и <font color="#B3000000"><a href="http://url3">Правилата за поверителност на Yulore</a></font> преди да използвате Mi Съобщение.</string>
-    <string name="recommend_tip_8">Прочетете и приемете нашето <font color="#B3000000"><a href="http://url1">Потребителско споразумение</a></font> и <font color="#B3000000"><a href="http://url2">Правила за поверителност</a></font>, както и <font color="#B3000000"><a href="http://url3">Правилата за поверителност на Yulore</a></font> преди да използвате безплатни интернет съобщения, предоставени от Mi Съобщение.</string>
-    <string name="recommend_tip_9">Прочетете и приемете нашето <font color="#B3000000"><a href="http://url1">Потребителско споразумение</a></font> и <font color="#B3000000"><a href="http://url2">Правила за поверителност</a></font>, както и <font color="#B3000000"><a href="http://url3">Правилата за поверителност на Yulore</a></font> преди да използвате Умно разпознаване на самоличността на изпращащия.</string>
-    <string name="recommend_tip_9_2">Прочетете и приемете нашето <font color="#B3000000"><a href="http://url1">Потребителско споразумение</a></font> и <font color="#B3000000"><a href="http://url2">Правила за поверителност</a></font> преди да използвате нашите услуги.</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">Задайте Xiaomi Съобщения като приложение за съобщения по подразбиране, за да получите всички предимства на сигурността, които предлагаме</string>
     <string name="recommend_tip_other">Вижте други приложения за съобщения</string>
     <string name="recommend_tip_smart">Защита на поверителността. Интелигентно разпознаване.</string>
@@ -1449,7 +1446,7 @@
 Опити: %s."</string>
     <string name="undelivered_msg_dialog_title">Неизпратено съобщение</string>
     <string name="undelivered_sms_dialog_body">Неуспешно изпращане на съобщението.</string>
-    <string name="uninstall_Google_SMS_banner_information">&lt;Data>Инсталирайте сега, за да споделяте снимки с високо качество, да чатите чрез Wi-Fi, и още. &lt;a href=\"%1$s\">Научете повече&lt;/a>&lt;/Data></string>
+    <string name="uninstall_Google_SMS_banner_information"><Data>Инсталирайте сега, за да споделяте снимки с високо качество, да чатите чрез Wi-Fi, и още. &lt;a href=\"%1$s\">Научете повече&lt;/a></Data></string>
     <string name="uninstall_Google_SMS_banner_title">Инсталиране на Съобщения от Google</string>
     <string name="unknown">N/A</string>
     <string name="unknown_num">Неизвестен номер</string>

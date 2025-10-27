@@ -62,7 +62,6 @@
     <string name="attach_take_photo">گرفتن عکس</string>
     <string name="attach_video">ویدئو</string>
     <string name="attach_video_call">تماس تصویری</string>
-    <string name="attachment_panel_show_part">صفحه %1$d</string>
     <string name="audio_download_failed">صدا دانلود نشد</string>
     <string name="audio_message_expired">این پیام صوتی منقضی شده است.</string>
     <string name="audio_message_mx_offline">صدا دانلود نشد. پیام Mi آفلاین بوده یا در دسترس نیست.</string>
@@ -307,9 +306,9 @@
     <string name="favorite_at_time">زمان افزوده شدن به موارد پسندیده: %1s</string>
     <string name="fdn_check_failure">تنها می‌توانید پیام‌ها را به شماره‌های گرفته شده ثابت خود ارسال کنید.</string>
     <string name="feature_mx">پیام‌رسان Mi</string>
-    <string name="feature_mx_summary"><b>پیام‌رسان Mi به شما این امکان را می‌دهد تا بدون هیچ هزینه‌ای از طریق اینترنت به سایر کاربران پیام‌رسان Mi پیام ارسال کنید</b>. برای فعال‌سازی این خدمات یک پیامک ارسالی لازم است. شرکت مخابراتی شما بابت این پیام هزینه دریافت خواهد کرد. پیش از استفاده از این ویژگی <font color="#B3000000"><a href="http://url1">توافق‌نامه کاربر</a></font> و <font color="#B3000000"><a href="http://url2">سیاست حفظ حریم خصوصی</a></font> ما را خوانده و بپذیرید.</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">پیام‌رسان هوشمند</string>
-    <string name="feature_smart_sms_summary"><b>پیام‌رسانی هوشمند شناسایی شناسه فرستنده و منوهای هوشمند را ارائه می‌کند</b>. بخشی از خدمات پیام‌رسان هوشمند توسط Yulore ارائه شده است. پیش از استفاده از این ویژگی <font color="#B3000000"><a href="http://url3">سیاست حفظ حریم خصوصی</a></font> Yulore را خوانده و بپذیرید.</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">در حال بارگذاری…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">ایجاد شده:</string>
@@ -387,7 +386,7 @@
     <string name="from_pkg_name">از برنامه:</string>
     <string name="ft_cfs_dialog_content">فایل‌ها با استفاده از RCS تحویل داده نشدند. به جای آن یک پیوند در پیام متنی ارسال شود؟</string>
     <string name="ft_cfs_dialog_title">انتقال فایل جایگزین</string>
-    <string name="google_message_promo_content">Xiaomi به شما سفارش می‌کند به پیام‌رسان Google به‌روزرسانی کنید. اکنون نصب کرده تا هم‌رسانی عکس با کیفیت بالا، گپ‌زنی با استفاده از Wi-Fi و موارد بیشتر را دریافت کنید. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">اطلاعات بیشتر</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">برنامه پیام‌رسان خود را ارتقاء دهید</string>
     <string name="group_already_kicked_hint">پیامی ارسال نمی‌شود. شما عضو این گروه نیستید.</string>
     <string name="group_member_is_composing">درحال تایپ…</string>
@@ -467,10 +466,8 @@
     <string name="menu_unlock">حذف از موارد پسندیده</string>
     <string name="menu_view_contact">مشاهده مخاطب</string>
     <string name="menu_view_group_info">اطلاعات گروه</string>
-    <string name="message_cannot_send_air_mode">"پیام ارسال نمی‌شود.
-ابتدا حالت هواپیما را خاموش کنید."</string>
-    <string name="message_cannot_send_sim_unavailable">"پیام ارسال نمی‌شود.
-ابتدا سیم‌کارت خود را بررسی کنید."</string>
+    <string name="message_cannot_send_air_mode">برای ارسال پیام حالت هواپیما را خاموش کنید</string>
+    <string name="message_cannot_send_sim_unavailable">برای ارسال پیام سیم‌کارت را وارد کنید</string>
     <string name="message_class_label">"رده پیام: "</string>
     <string name="message_contact">مخاطب:</string>
     <string name="message_details_title">جزئیات پیام</string>
@@ -661,7 +658,7 @@
     <string name="networking_allow_desc">پیام Mi برای کارکرد عادی نیاز به اتصال به اینترنت دارد. برای ارائه خدمات صوتی و متنی رایگان، شناسایی شماره‌های ناشناس، فیلترکردن هرزنامه و سایر ویژگی‌ها، پیام Mi نیاز به استفاده از کتاب اول دارد. به کتاب اول اجازه اتصال به اینترنت، گرفتن اطلاعات موقعیت شما و خواندن مخاطبین داده شود؟</string>
     <string name="networking_allow_desc_without_mx">پیام Mi برای کارکرد عادی نیاز به اتصال به اینترنت دارد. برای شناسایی شماره‌های ناشناس، فیلترکردن هرزنامه و سایر ویژگی‌ها، پیام Mi نیاز به استفاده از کتاب اول دارد. به کتاب اول اجازه اتصال به اینترنت، گرفتن اطلاعات موقعیت شما و خواندن مخاطبین داده شود؟</string>
     <string name="networking_allow_title">توجه</string>
-    <string name="new_message">نوشتن</string>
+    <string name="new_message">پیام جدید</string>
     <string name="new_message_arrived">خوانده نشده</string>
     <string name="new_phrase">افزودن پاسخ</string>
     <string name="new_phrase_hint">وارد کردن پاسخ جدید</string>
@@ -740,7 +737,7 @@
     <string name="pref_hide_verification_code_summary">پنهان‌سازی خودکار گذرواژه‌های یک‌بار مصرف در اعلان‌های پیام روی صفحه قفل ایمن</string>
     <string name="pref_messages_to_save">تنظیم تعداد پیام‌ها برای ذخیره شدن</string>
     <string name="pref_mms_settings_title">پیام‌های چندرسانه‌ای (MMS)</string>
-    <string name="pref_msg_trash_bin_title">پیام‌های حذف شده</string>
+    <string name="pref_msg_trash_bin_title">موارد تازه حذف شده</string>
     <string name="pref_notification_settings_title">اعلان‌ها</string>
     <string name="pref_other_title">تنظیمات بیشتر</string>
     <string name="pref_rcs_show_report_message">دریافت گزارشات پیام‌های رسیده</string>
@@ -927,7 +924,7 @@
     <string name="rcs_conversation_rcs_tip">[روبات گفتگو] %s</string>
     <string name="rcs_create_new_group">ایجاد گروه گپ</string>
     <string name="rcs_dspt">ارسال و دریافت پیام‌ها با استفاده از WLAN یا شبکه‌های موبایل</string>
-    <string name="rcs_dspt_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_dspt_unavailable">ویژگی‌های مرتبط با پیام‌رسانی 5G به دلیل محدودیت‌های کارور پشتیبانی نمی‌شوند</string>
     <string name="rcs_file_link_as_sms">برای نمایش فایل RCS ارسال شده به شما از %s بازدید کنید.</string>
     <string name="rcs_forward_faild">باز ارسال نشد</string>
     <string name="rcs_forward_successful">با موفقیت باز ارسال شد</string>
@@ -936,7 +933,7 @@
     <string name="rcs_hello_from_pc">برای انتقال فایل‌ها در رایانه خود وارد Fetion شوید.</string>
     <string name="rcs_list_bottom_loading">چند لحظه صبر کنید…</string>
     <string name="rcs_list_bottom_search">درحال جستجو…</string>
-    <string name="rcs_main_purpose">شما از این خدمات می‌توانید برای ارسال و دریافت عکس‌ها، پیام‌های صوتی، ویدئوها و موارد بیشتر استفاده کنید.</string>
+    <string name="rcs_main_purpose">شما از این خدمات می‌توانید برای ارسال و دریافت عکس‌ها، پیام‌های صوتی، ویدئوها و موارد بیشتر استفاده کنید. این خدمات به دسترسی به موقعیت نیاز دارد.</string>
     <string name="rcs_message">پیام 5G</string>
     <string name="rcs_message_disable">این پیام را نمی‌توان در فضای دوم دید</string>
     <string name="rcs_message_title">پیام‌رسانی 5G</string>
@@ -986,7 +983,7 @@
     <string name="rcs_summary_auto_resend_mms">تبدیل پیام‌های چند رسانه‌ای 5G به MMS در صورتی که پیام اصلی ارسال نشود. شرکت مخابراتی شما برای این پیام از شما هزینه دریافت خواهد کرد.</string>
     <string name="rcs_summary_auto_resend_sms">تبدیل پیام‌های متنی 5G به پیامک در صورتی که پیام اصلی ارسال نشود. شرکت مخابراتی شما برای این پیام از شما هزینه دریافت خواهد کرد.</string>
     <string name="rcs_summary_silence_message">بی‌صدا کردن اعلان پیام‌ها هنگام کار کردن نسخه رایانه‌ای</string>
-    <string name="rcs_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_unavailable">ویژگی‌های مرتبط با پیام‌رسانی 5G به دلیل محدودیت‌های کارور پشتیبانی نمی‌شوند</string>
     <string name="rcs_up_not_online">پیام‌رسانی 5G آفلاین است. تنظیمات شبکه خود را بررسی کرده و سپس دوباره تلاش کنید.</string>
     <string name="rcs_wait_for_retry_text">در حال انتظار…</string>
     <string name="received_at_time">دریافت شده در: %1s</string>
@@ -1029,10 +1026,10 @@
     <string name="recommend_tip_4">پیام Mi می‌تواند شناسه فرستنده را به صورت خودکار تشخیص داده و به شما امکان دیدن نام‌ها و تصاویر نمایه فروشندگان معتبر را می‌دهد.</string>
     <string name="recommend_tip_5">شناسایی شناسه فرستنده هوشمند صندوق ورودی شما را مرنب کرده و به شما در شناسایی ارائه دهندگان خدمات قابل اعتماد کمک می‌کند.</string>
     <string name="recommend_tip_6">خدمات بالا با پشتیبانی فنی Yulore ارائه می‌شود.</string>
-    <string name="recommend_tip_7">" "<font color="#B3000000"><a href="http://url1">توافق‌نامه کاربر</a></font> و <font color="#B3000000"><a href="http://url2">سیاست حفظ حریم خصوصی</a></font> ما را خوانده و با آن موافقت کنید، همچنین <font color="#B3000000"><a href="http://url3">سیاست حفظ حریم خصوصی Yulore</a></font> پیش از استفاده از پیام Mi.</string>
-    <string name="recommend_tip_8">" "<font color="#B3000000"><a href="http://url1">توافق‌نامه کاربر</a></font> و <font color="#B3000000"><a href="http://url2">سیاست حفظ حریم خصوصی</a></font> ما را خوانده و با آن موافقت کنید، همچنین <font color="#B3000000"><a href="http://url3">سیاست حفظ حریم خصوصی Yulore</a></font> پیش از استفاده از پیام‌رسانی اینترنتی رایگان ارائه شده توسط پیام Mi.</string>
-    <string name="recommend_tip_9">پیش از استفاده از شناسایی هوشمند شناسه فرستنده، <font color="#B3000000"><a href="http://url1">توافق‌نامه کاربر</a></font> و <font color="#B3000000"><a href="http://url2">سیاست حفظ حریم خصوصی</a></font> ما و همچنین <font color="#B3000000"><a href="http://url3">سیاست حفظ حریم خصوصی Yulore</a></font> را خوانده و بپذیرید.</string>
-    <string name="recommend_tip_9_2">پیش از استفاده از خدمات ما <font color="#B3000000"><a href="http://url1">توافق‌نامه کاربر</a></font> و <font color="#B3000000"><a href="http://url2">سیاست حفظ حریم خصوصی</a></font> ما را خوانده و بپذیرید.</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">پیام‌رسان Xiaomi را به عنوان برنامه پیام‌رسانی پیش‌فرض خود تنظیم کرده تا بتوانید از همه مزایای امنیتی که ما ارائه می‌کنیم بهره‌مند شوید.</string>
     <string name="recommend_tip_other">مشاهده سایر برنامه‌های پیام‌رسان</string>
     <string name="recommend_tip_smart">حفاظت از حریم خصوصی. تشخیص هوشمند.</string>
@@ -1261,7 +1258,7 @@
 در صورت نپذیرفتن دادن چنین مجوزهایی یا هم‌رسانی و بارگذاری اطلاعات شخصی خود، دیگر نمی‌توانید از این برنامه استفاده کنید."</string>
     <string name="system_permission_declare_privacy_declare">%1s برای کارکرد عادی نیازمند جمع‌آوری داده‌های شما بوده به مجوزهای زیر نیاز دارد:</string>
     <string name="system_permission_declare_privacy_declare_new">این برنامه برای کارکرد عادی نیازمند اتصال به اینترنت و مجوزهای زیر است:</string>
-    <string name="system_permission_declare_privacy_link">To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our %1s.</string>
+    <string name="system_permission_declare_privacy_link">برای درک کامل حقوق خود به عنوان کاربر و همچنین چگونگی استفاده ما از داده‌های شما، %1s ما را خوانده و آن را بپذیرید.</string>
     <string name="system_permission_declare_revoke_path">می‌توانید در تنظیمات پیام‌رسان مجوز خود را برداشته و خدمات را خاموش کنید.</string>
     <string name="system_permission_declare_single_link">پیش از استفاده از این ویژگی %1s ما را خوانده و بپذیرید.</string>
     <string name="system_permission_declare_triple_link" formatted="false">پیش از استفاده از این ویژگی‌ها %1s، %2s و %3s ما را خوانده و بپذیرید.</string>

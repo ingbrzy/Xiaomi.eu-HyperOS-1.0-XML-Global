@@ -89,7 +89,6 @@ toegevoegd aan blokkeerlijst"</string>
     <string name="attach_take_photo">Foto maken</string>
     <string name="attach_video">Video</string>
     <string name="attach_video_call">Videogesprek</string>
-    <string name="attachment_panel_show_part">Pagina %1$d</string>
     <string name="audio_download_failed">Kon audio niet downloaden</string>
     <string name="audio_message_expired">Dit gesproken bericht is verlopen.</string>
     <string name="audio_message_mx_offline">Kon audio niet downloaden. Mi Message is offline of niet beschikbaar.</string>
@@ -378,9 +377,9 @@ Let er op dat de internetberichtenfunctionaliteit tot nader order is opgeschort.
     <string name="fcm_fallback_notification_channel_label">Overige</string>
     <string name="fdn_check_failure">Er kunnen alleen berichten worden verstuurd naar vaste telefoonnummers.</string>
     <string name="feature_mx">Mi Message</string>
-    <string name="feature_mx_summary"><b>Met Mi Message kunt u berichten verzenden naar andere Mi Message gebruikers via internet zonder dat dit kosten met zich meebrengt</b>. Een uitgaand sms-bericht is vereist om deze service te activeren. Uw provider brengt dit bericht in rekening. Lees en ga akkoord met onze <font color="#B3000000"><a href="http://url1">Gebruikersovereenkomst</a></font> en <font color="#B3000000"><a href="http://url2">Privacybeleid</a></font> voordat u deze functie gebruikt.</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">Smart Messaging</string>
-    <string name="feature_smart_sms_summary"><b>"Smart Messaging biedt Afzender-ID herkenning en slimme menu's"</b>". Smart Messaging wordt gedeeltelijk geleverd door Yulore. Lees en ga akoord met Yulore's "<font color="#B3000000"><a href="http://url3">Privacybeleid</a></font> voordat u deze functie gebruikt.</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">Laden…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Aangemaakt:</string>
@@ -458,7 +457,7 @@ Let er op dat de internetberichtenfunctionaliteit tot nader order is opgeschort.
     <string name="from_pkg_name">Van de app:</string>
     <string name="ft_cfs_dialog_content">Bestanden konden niet worden afgeleverd met RCS. Stuur in plaats daarvan een link in een sms-bericht?</string>
     <string name="ft_cfs_dialog_title">Alternatieve bestandsoverdracht</string>
-    <string name="google_message_promo_content">"Xiaomi raadt aan om te upgraden naar Berichten van Google. Installeer nu om foto's van hoge kwaliteit te delen, te chatten via wifi en meer. "<font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Meer informatie</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">Upgrade uw berichten app</string>
     <string name="group_already_kicked_hint">Kan geen berichten verzenden. U bent geen lid van deze groepschat.</string>
     <string name="group_member_is_composing">Typen…</string>
@@ -538,10 +537,8 @@ Let er op dat de internetberichtenfunctionaliteit tot nader order is opgeschort.
     <string name="menu_unlock">Uit favorieten verwijderen</string>
     <string name="menu_view_contact">Bekijk contact</string>
     <string name="menu_view_group_info">Groepsinfo</string>
-    <string name="message_cannot_send_air_mode">"Kan geen berichten verzenden.
-Schakel eerst de Vliegtuigmodus uit."</string>
-    <string name="message_cannot_send_sim_unavailable">"Kan geen berichten verzenden.
-Controleer uw simkaart."</string>
+    <string name="message_cannot_send_air_mode">Schakel Vliegtuigmodus uit om berichten te versturen</string>
+    <string name="message_cannot_send_sim_unavailable">Plaats de SIM-kaart om berichten te versturen</string>
     <string name="message_class_label">"Berichtclassificatie: "</string>
     <string name="message_contact">Contact:</string>
     <string name="message_details_title">Bericht details</string>
@@ -732,7 +729,7 @@ Een uitgaand SMS-bericht is vereist om Mi Message te activeren. Uw provider zal 
     <string name="networking_allow_desc">Mi Message heeft verbinding met het internet nodig om normaal te kunnen functioneren. Om gratis tekst- en stemberichten aan te kunnen bieden, onbekende nummers te kunnen herkenen, reclame te kunnen filteren en andere functies aan te zetten, dient Mi Message Yellow pages te gebruiken. Yellow pages toestemming geven om verbinding te maken met het internet en informatie over uw locatie en uw contacten te kunnen inzien?</string>
     <string name="networking_allow_desc_without_mx">Mi Message heeft verbinding met het internet nodig om normaal te kunnen functioneren. Om onbekende nummers te kunnen herkenen, reclame te kunnen filteren en andere functies aan te zetten, dient Mi Message Yellow pages te gebruiken. Yellow pages toestemming geven om verbinding te maken met het internet en informatie over uw locatie en uw contacten te kunnen inzien?</string>
     <string name="networking_allow_title">Let op</string>
-    <string name="new_message">Opstellen</string>
+    <string name="new_message">Nieuw bericht</string>
     <string name="new_message_arrived">Ongelezen</string>
     <string name="new_phrase">Antwoord toevoegen</string>
     <string name="new_phrase_hint">Nieuw antwoord invoeren</string>
@@ -812,7 +809,7 @@ Een uitgaand SMS-bericht is vereist om Mi Message te activeren. Uw provider zal 
     <string name="pref_hide_verification_code_summary">Automatisch eenmalige wachtwoorden in berichtmeldingen verbergen op het beveiligde Vergrendelscherm</string>
     <string name="pref_messages_to_save">Stel het aantal berichten om te bewaren in</string>
     <string name="pref_mms_settings_title">Multimedia (MMS) berichten</string>
-    <string name="pref_msg_trash_bin_title">Verwijderde berichten</string>
+    <string name="pref_msg_trash_bin_title">Recent verwijderde items</string>
     <string name="pref_notification_settings_title">Meldingen</string>
     <string name="pref_other_title">Aanvullende instellingen</string>
     <string name="pref_rcs_show_report_message">Ontvang afleverrapporten</string>
@@ -1000,7 +997,7 @@ Bekijk aanbevolen chatbots!"</string>
     <string name="rcs_conversation_rcs_tip">[Chatbot] %s</string>
     <string name="rcs_create_new_group">Groepschat aanmaken</string>
     <string name="rcs_dspt">Verzend en ontvang berichten via WLAN of mobiel netwerk</string>
-    <string name="rcs_dspt_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_dspt_unavailable">5G-berichtengerelateerde functies worden niet ondersteund vanwege beperkingen van de provider</string>
     <string name="rcs_file_link_as_sms">Ga naar %s om het RCS-bestand te bekijken dat naar u is verzonden.</string>
     <string name="rcs_forward_faild">Kon niet doorversturen</string>
     <string name="rcs_forward_successful">Succesvol doorgestuurd</string>
@@ -1009,7 +1006,7 @@ Bekijk aanbevolen chatbots!"</string>
     <string name="rcs_hello_from_pc">Meld aan op Fetion op uw computer om bestanden over te zetten.</string>
     <string name="rcs_list_bottom_loading">Een ogenblik geduld…</string>
     <string name="rcs_list_bottom_search">Zoeken…</string>
-    <string name="rcs_main_purpose">"U kunt deze service gebruiken voor het verzenden en ontvangen van foto's, spraakberichten, video's en meer."</string>
+    <string name="rcs_main_purpose">"U kunt deze service gebruiken om foto's, spraakberichten, video's en meer te verzenden en ontvangen. Deze service vereist locatietoegang."</string>
     <string name="rcs_message">5G-berichten</string>
     <string name="rcs_message_disable">Kan dit bericht in Tweede ruimte niet tonen</string>
     <string name="rcs_message_title">5G-berichten</string>
@@ -1059,7 +1056,7 @@ Bekijk aanbevolen chatbots!"</string>
     <string name="rcs_summary_auto_resend_mms">Converteer 5G-multimediaberichten naar MMS nadat het oorspronkelijke bericht niet kon worden verzonden. Uw provider zal u kosten in rekening brengen voor dit bericht.</string>
     <string name="rcs_summary_auto_resend_sms">Converteer 5G-tekstberichten naar SMS nadat het oorspronkelijke bericht niet kon worden verzonden. Uw provider zal u kosten in rekening brengen voor dit bericht.</string>
     <string name="rcs_summary_silence_message">Berichtmeldingen dempen wanneer de desktop-client werkt</string>
-    <string name="rcs_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_unavailable">5G-berichtengerelateerde functies worden niet ondersteund vanwege beperkingen van de provider</string>
     <string name="rcs_up_not_online">5G-berichten is offline. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
     <string name="rcs_wait_for_retry_text">Wachten…</string>
     <string name="received_at_time">Ontvangen op: %1s</string>
@@ -1102,10 +1099,10 @@ Bekijk aanbevolen chatbots!"</string>
     <string name="recommend_tip_4">Mi Message kan de afzender-ID automatisch herkennen, zodat u de namen en profielafbeeldingen van vertrouwde leveranciers kunt zien.</string>
     <string name="recommend_tip_5">Slimme afzender-ID herkenning maakt uw inbox netter en helpt u betrouwbare afzenders te identificeren.</string>
     <string name="recommend_tip_6">De bovenstaande services worden geleverd met technische ondersteuning van Yulore.</string>
-    <string name="recommend_tip_7">Lees en ga akkoord met onze <font color="#B3000000"><a href="http://url1">Gebruikersovereenkomst</a></font> en <font color="#B3000000"><a href="http://url2">Privacybeleid</a></font>, evenals <font color="#B3000000"><a href="http://url3">Yulore Privacybeleid</a></font> voordat u Mi Message gebruikt.</string>
-    <string name="recommend_tip_8">Lees en ga akkoord met onze <font color="#B3000000"><a href="http://url1">Gebruikersovereenkomst</a></font> en <font color="#B3000000"><a href="http://url2">Privacybeleid</a></font>, evenals <font color="#B3000000"><a href="http://url3">Yulore Privacybeleid</a></font> voordat u gratis internetberichten van Mi Message gebruikt.</string>
-    <string name="recommend_tip_9">Lees en ga akkoord met onze <font color="#B3000000"><a href="http://url1">Gebruikersovereenkomst</a></font> en <font color="#B3000000"><a href="http://url2">Privacybeleid</a></font>, evenals <font color="#B3000000"><a href="http://url3">Yulore Privacybeleid</a></font> voordat u Slimme afzender-ID herkenning gebruikt.</string>
-    <string name="recommend_tip_9_2">Lees en ga akkoord met onze <font color="#B3000000"><a href="http://url1">Gebruikersovereenkomst</a></font> en <font color="#B3000000"><a href="http://url2">Privacybeleid</a></font> voordat u onze services gebruikt.</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">Stel Xiaomi Messaging in als uw standaard berichten-app om alle beveiligingsvoordelen te krijgen die we bieden</string>
     <string name="recommend_tip_other">Bekijk andere berichten-apps</string>
     <string name="recommend_tip_smart">Privacybescherming. Slimme herkenning.</string>
@@ -1449,7 +1446,7 @@ Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen of het del
 Poging gedaan: %s."</string>
     <string name="undelivered_msg_dialog_title">Niet afgeleverd bericht</string>
     <string name="undelivered_sms_dialog_body">Dit bericht kon niet worden verstuurd.</string>
-    <string name="uninstall_Google_SMS_banner_information">"&lt;Data>Installeer nu om foto's van hoge kwaliteit te delen, te chatten via wifi en meer. &lt;a href=\"%1$s\">Meer informatie&lt;/a>&lt;/Data>"</string>
+    <string name="uninstall_Google_SMS_banner_information"><Data>"Installeer nu om foto's van hoge kwaliteit te delen, te chatten via wifi en meer. &lt;a href=\"%1$s\">Meer informatie&lt;/a>"</Data></string>
     <string name="uninstall_Google_SMS_banner_title">Berichten van Google installeren</string>
     <string name="unknown">Niet van toepassing</string>
     <string name="unknown_num">Onbekend nummer</string>
@@ -1483,7 +1480,7 @@ Poging gedaan: %s."</string>
     <string name="voice_report_off">Uitschakelen</string>
     <string name="voice_report_wiredon">Met oortelefoons</string>
     <string name="wap_push_title">"[WAP Push] "</string>
-    <string name="warning_show">Versturen in %ds</string>
+    <string name="warning_show">Versturen in %d s</string>
     <string name="web_content_invalid_hint">Het weergeven van dit item is beperkt door de lokale wet- en regelgeving</string>
     <string name="wednesday">Woensdag</string>
     <string name="wednesday_short">Wo</string>

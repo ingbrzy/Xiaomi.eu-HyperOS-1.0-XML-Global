@@ -64,7 +64,7 @@ boli pridané do zoznamu blokovaných"</string>
     <string name="adding_attachments">Čakajte prosím, pokiaľ budú položky pridané do prezentácie.</string>
     <string name="adding_attachments_title">Pridávanie príloh</string>
     <string name="adding_recipients">Pridávanie príjemcov…</string>
-    <string name="after_installing_Google_SMS_banner_information">Otvorte Správy od Googlu a užívajte si vysokokvalitné zdieľanie fotiek, četovanie cez Wi-Fi a ďalšie.</string>
+    <string name="after_installing_Google_SMS_banner_information">Otvorte Správy od Google a užívajte si vysokokvalitné zdieľanie fotiek, četovanie cez Wi-Fi a ďalšie.</string>
     <string name="after_installing_Google_SMS_banner_title">Prepnúť na Správy od Google</string>
     <string name="afternoon">Popoludní</string>
     <string name="alert_dlg_cancel_button">Zrušiť</string>
@@ -89,7 +89,6 @@ boli pridané do zoznamu blokovaných"</string>
     <string name="attach_take_photo">Odfotiť</string>
     <string name="attach_video">Videá</string>
     <string name="attach_video_call">Videohovor</string>
-    <string name="attachment_panel_show_part">Strana %1$d</string>
     <string name="audio_download_failed">sťahovanie nahrávky zlyhalo</string>
     <string name="audio_message_expired">Táto hlasová správa expirovala.</string>
     <string name="audio_message_mx_offline">Nebolo možné stiahnuť zvuk. Mi Správy sú offline alebo nedostupné.</string>
@@ -154,7 +153,7 @@ boli pridané do zoznamu blokovaných"</string>
     <string name="classifing">Zoskupovanie správ…</string>
     <string name="clearable_edittext_clear_description">Vymazať</string>
     <string name="click_to_update">Ťuknite pre kontrolu aktualizácií</string>
-    <string name="click_to_view">Zobrazíte ťuknutím</string>
+    <string name="click_to_view">Ťuknite pre zobrazenie</string>
     <string name="close">Zavrieť</string>
     <string name="close_c2c_dialog_tips">"Drahý používateľ,
 prosíme zoberte na vedomie, že funkčnosť internetových správ je pozastavená až do odvolania. Toto žiadnym spôsobom neovplyvní odosielanie a prijímanie SMS povolených vaším telekomunikačným operátorom. Ospravedlňujeme sa za spôsobené nepríjemnosti a tešíme sa, že vám vďaka našim budúcim aktualizáciám prinesieme vylepšený zážitok z produktu."</string>
@@ -200,7 +199,7 @@ prosíme zoberte na vedomie, že funkčnosť internetových správ je pozastaven
     <string name="confirm_upload_sms">Nahrať správy pre zlepšenie funkcionality zoznamu blokovaných</string>
     <string name="contact_card_unknown_contact">Neznámy kontakt</string>
     <string name="contact_not_exists">Táto osoba nie je vo vašich kontaktoch.</string>
-    <string name="context_menu_add_calendar">Pridať do kalendára</string>
+    <string name="context_menu_add_calendar">Pridať do Kalendára</string>
     <string name="context_menu_add_contact">Pridať do kontaktov</string>
     <string name="context_menu_add_to_browser_favorite">Pridať do záložiek v Prehliadači</string>
     <string name="context_menu_browse_web">Webstránka</string>
@@ -258,7 +257,7 @@ prosíme zoberte na vedomie, že funkčnosť internetových správ je pozastaven
     <string name="dialog_message_rcs">Správy China Mobile vám umožňujú bezplatne posielať správy iným užívateľom China Mobile na čínskej pevnine bez účtovania poplatkov. Pred použitím služby Správy China Mobile musíte súhlasiť s \"%1$s\".</string>
     <string name="dialog_sim_locked_confirm">OK </string>
     <string name="dialog_sim_locked_message">Vaša SIM karta na tomto telefóne nie je plne funkčná pretože nie je v súlade s pravidlami a podmienkami vášho prihlásenia na odber. Ak máte v tejto súvislosti nejaké otázky alebo potrebujete viac informácií, kontaktujte prosím centrum služieb spoločnosti Xiaomi alebo obchod, kde ste zakúpili náš produkt.</string>
-    <string name="dialog_smart_message_privacy_tips">Služby Inteligentných správ sú čiastočne poskytované spoločnosťou Dianhuabang. Pred začatím používania služby Chytrých správ musíte súhlasiť s \"%1$s\". Chytré správy si vyžadujú pre správne fungovanie pripojenie na internet a prístup ku vašej polohe. Súhlasíte?</string>
+    <string name="dialog_smart_message_privacy_tips">Služby Inteligentných správ sú čiastočne poskytované spoločnosťou Dianhuabang. Pred začatím používania služby Inteligentné správy musíte súhlasiť s \"%1$s\". Inteligentné správy si vyžadujú pre správne fungovanie pripojenie na internet a prístup ku vašej polohe. Súhlasíte?</string>
     <string name="dialog_smart_message_privacy_tips_title">Zásady ochrany osobných údajov Dianhuabang</string>
     <string name="dialog_title_correct_as_ad">Presunúť do reklamných správ</string>
     <string name="dialog_title_correct_as_normal">Presunúť do bežných správ</string>
@@ -273,7 +272,7 @@ prosíme zoberte na vedomie, že funkčnosť internetových správ je pozastaven
     <string name="discard_slideshow">Zrušiť prezentáciu</string>
     <string name="dl_failure_notification">Sťahovanie správ %1$s od %2$s bolo neúspešné.</string>
     <string name="dock_agree">Nastaviť</string>
-    <string name="dock_content_text">Presuňte ikonu domovskej obrazovky aplikácie Správy späť na jej predvolenú pozíciu, aby ste ju mohli rýchlo a jednoducho vyhľadať. Nastaviť teraz?</string>
+    <string name="dock_content_text">Presuňte ikonu Domovskej obrazovky aplikácie Správy späť na jej predvolenú pozíciu, aby ste ju mohli rýchlo a jednoducho vyhľadať. Nastaviť teraz?</string>
     <string name="dock_disagree">Teraz nie</string>
     <string name="done">Hotovo</string>
     <string name="downlink_dialog_illegal_phoneno_tip">Zadajte platné telefónne číslo</string>
@@ -378,9 +377,9 @@ prosíme zoberte na vedomie, že funkčnosť internetových správ je pozastaven
     <string name="fcm_fallback_notification_channel_label">Rôzne</string>
     <string name="fdn_check_failure">Môžete iba posielať správy na Vaše povolené čísla.</string>
     <string name="feature_mx">Mi Správy</string>
-    <string name="feature_mx_summary"><b>Mi Správy vám umožňujú posielať správy iným používateľom Mi Správ cez internet bez dodatočných poplatkov</b>. Pre aktiváciu tejto služby bude potrebné odoslanie SMS správy. Táto správa bude spoplatnená vašim operátorom. Pred použitím tejto funkcie si prečítajte naše zmluvy <font color="#B3000000"><a href="http://url1">Podmienky používania</a></font> a <font color="#B3000000"><a href="http://url2">Zásady ochrany osobných údajov</a></font>.</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">Inteligentné správy</string>
-    <string name="feature_smart_sms_summary"><b>Pomocou aplikácie Inteligentné správy môžete využívať funkciu Rozoznania ID odosielateľa a ďalšie funkcie z ponuky inteligentných služieb</b>. Inteligentné služby čiastočne poskytuje Yulore. Pred použitím tejto funkcie si prečítajte a vyjadrite súhlas so zmluvou <font color="#B3000000"><a href="http://url3">Zásady ochrany osobných údajov</a></font>.</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">Načítavanie…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Vytvorené:</string>
@@ -458,7 +457,7 @@ prosíme zoberte na vedomie, že funkčnosť internetových správ je pozastaven
     <string name="from_pkg_name">Z aplikácie:</string>
     <string name="ft_cfs_dialog_content">Súbory nemohi byť doručené cez RCS. Poslať odkaz v textovej správe napriek tomu?</string>
     <string name="ft_cfs_dialog_title">Alternatívny prenos súborov</string>
-    <string name="google_message_promo_content">Xiaomi odporúča prechod na Správy od spoločnosti Google. Nainštalujte si Správy teraz a získajte zdieľanie fotografií vo vysokej kvalite, posielanie správ cez Wi-Fi a omnoho viac. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Zistite viac</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">Aktualizujte svoju aplikáciu na posielanie správ</string>
     <string name="group_already_kicked_hint">Nie je možné odoslať správy. Nie ste členom tejto skupiny.</string>
     <string name="group_member_is_composing">Písanie…</string>
@@ -494,7 +493,7 @@ prosíme zoberte na vedomie, že funkčnosť internetových správ je pozastaven
     <string name="imageview_ad">Reklama</string>
     <string name="importing_progress_private_message">Importujte sa…</string>
     <string name="in_sms">Správa</string>
-    <string name="installed_google_message_promo_content">Xiaomi odporúča používanie Správ od spoločnosti Google. Spustite Správy pre zdieľanie vysoko kvalitných fotografií, posielanie správ cez Wi-Fi a omnoho viac.</string>
+    <string name="installed_google_message_promo_content">Xiaomi odporúča používanie Správ od Google. Spustite Správy pre zdieľanie vysoko kvalitných fotografií, posielanie správ cez Wi-Fi a omnoho viac.</string>
     <string name="installed_google_message_promo_title">Otvorte Správy pre ešte lepšie chatovanie</string>
     <string name="insufficient_drm_rights">Nemáte dostatočné práva DRM.</string>
     <string name="invalid_conversation">Chybná konverzácia</string>
@@ -538,10 +537,8 @@ prosíme zoberte na vedomie, že funkčnosť internetových správ je pozastaven
     <string name="menu_unlock">Odstrániť z obľúbených</string>
     <string name="menu_view_contact">Zobraziť kontakt</string>
     <string name="menu_view_group_info">Informácie o skupine</string>
-    <string name="message_cannot_send_air_mode">"Správy nie je možné odoslať.
-Najskôr vypnite Režim lietadlo."</string>
-    <string name="message_cannot_send_sim_unavailable">"Správy nie je možné odoslať.
-Skontrolujte vašu SIM kartu."</string>
+    <string name="message_cannot_send_air_mode">Vypnite Režim lietadlo na odosielanie správ</string>
+    <string name="message_cannot_send_sim_unavailable">Vložte SIM kartu na odosielanie správ</string>
     <string name="message_class_label">"Trieda správy: "</string>
     <string name="message_contact">Kontakt:</string>
     <string name="message_details_title">Podrobnosti správy</string>
@@ -812,7 +809,7 @@ Na aktiváciu Mi Správ je potrebné odoslanie SMS. Táto správa bude spoplatne
     <string name="pref_hide_verification_code_summary">Automaticky skryť OTP z oznámení správ na zabezpečenej Zamknutej obrazovke</string>
     <string name="pref_messages_to_save">Nastaviť počet správ pre uloženie</string>
     <string name="pref_mms_settings_title">Nastavenie správ (MMS)</string>
-    <string name="pref_msg_trash_bin_title">Vymazané SMS</string>
+    <string name="pref_msg_trash_bin_title">Nedávno vymazané položky</string>
     <string name="pref_notification_settings_title">Nastavenie oznamovania</string>
     <string name="pref_other_title">Ďalšie nastavenia</string>
     <string name="pref_rcs_show_report_message">Dostávať výpisy o doručení</string>
@@ -839,7 +836,7 @@ Na aktiváciu Mi Správ je potrebné odoslanie SMS. Táto správa bude spoplatne
     <string name="pref_summary_mms_read_reports">Oznamovať prečítanie MMS správy</string>
     <string name="pref_summary_mms_retrieval_during_roaming">Automaticky načítať MMS správy pri roamingu</string>
     <string name="pref_summary_notification_body_enabled">Zobraziť správy na Zamknutej obrazovke a v notifikačnej roletke</string>
-    <string name="pref_summary_off_system_mms_priority">Ostatné Mms aplikácie dostanú správu skôr</string>
+    <string name="pref_summary_off_system_mms_priority">Použite aplikácie tretích strán na odosielanie a prijímanie MMS</string>
     <string name="pref_summary_on_system_mms_priority">Nastavte aplikáciu Správy od Xiaomi ako predvolenú aplikáciu na odosielanie a prijímanie MMS</string>
     <string name="pref_summary_privacy_authority">Prepnutím tohto prepínača udelíte alebo odvoláte autorizáciu</string>
     <string name="pref_summary_send_delivery_reports">Odoslať oznámenie o doručenej správe</string>
@@ -871,7 +868,7 @@ Na aktiváciu Mi Správ je potrebné odoslanie SMS. Táto správa bude spoplatne
     <string name="pref_title_ringtone_repeat">Opakovať upozornenie</string>
     <string name="pref_title_ringtone_repeat_summary">Počet opakovaní zvonenia pri prijatí SMS správy:</string>
     <string name="pref_title_send_delivery_reports">Odoslať oznámenie o doručení</string>
-    <string name="pref_title_smart_msg_privacy_policy">Zásady ochrany osobných údajov Chytrých správ</string>
+    <string name="pref_title_smart_msg_privacy_policy">Zásady ochrany osobných údajov služby Inteligentné správy</string>
     <string name="pref_title_sms_delete">Limit textových správ</string>
     <string name="pref_title_sms_validity_period">Doba platnosti SMS</string>
     <string name="pref_title_storage_status">Stav úložiska správ</string>
@@ -1000,7 +997,7 @@ Vyskúšajte niektorých z odporúčaných chatbotov!"</string>
     <string name="rcs_conversation_rcs_tip">[Chatbot] %s</string>
     <string name="rcs_create_new_group">Vytvoriť skupinový chat</string>
     <string name="rcs_dspt">Odosielajte a dostávajte správy pomocou siete WLAN alebo mobilnej siete</string>
-    <string name="rcs_dspt_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_dspt_unavailable">Funkcie súvisiace s odosielaním 5G správ nie sú podporované z dôvodu obmedzení operátora.</string>
     <string name="rcs_file_link_as_sms">Navštívte %s pre zobrazenie vám zaslaného RCS súboru.</string>
     <string name="rcs_forward_faild">Nie je možné preposlať</string>
     <string name="rcs_forward_successful">Úspešne preposlané</string>
@@ -1009,7 +1006,7 @@ Vyskúšajte niektorých z odporúčaných chatbotov!"</string>
     <string name="rcs_hello_from_pc">Prihláste sa k Fetion na vašom počítači pre prenos súborov.</string>
     <string name="rcs_list_bottom_loading">Malý moment…</string>
     <string name="rcs_list_bottom_search">Vyhľadáva sa…</string>
-    <string name="rcs_main_purpose">Túto službu môžete použiť na odosielanie a prijímanie fotografií, hlasových správ, videí a podobne.</string>
+    <string name="rcs_main_purpose">Túto službu môžete používať na odosielanie a prijímanie fotografií, hlasových správ, videí a ďalších informácií. Služba si vyžaduje prístup k vašej polohe.</string>
     <string name="rcs_message">5G správy</string>
     <string name="rcs_message_disable">Túto správu nie je možné zobraziť v Druhom priestore</string>
     <string name="rcs_message_title">5G správy</string>
@@ -1059,7 +1056,7 @@ Vyskúšajte niektorých z odporúčaných chatbotov!"</string>
     <string name="rcs_summary_auto_resend_mms">Po neúspešnom odoslaní pôvodnej správy konvertovať 5G multimediálne správy na MMS. Táto správa bude spoplatnená vašim operátorom.</string>
     <string name="rcs_summary_auto_resend_sms">Po neúspešnom odoslaní pôvodnej správy konvertovať 5G textové správy na SMS. Táto správa bude spoplatnená vašim operátorom.</string>
     <string name="rcs_summary_silence_message">Stíšiť upozornenia správ keď pracuje desktopový klient</string>
-    <string name="rcs_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_unavailable">Funkcie súvisiace s odosielaním 5G správ nie sú podporované z dôvodu obmedzení operátora.</string>
     <string name="rcs_up_not_online">5G správy sú offline. Skontrolujte nastavenia siete a skúste to znova.</string>
     <string name="rcs_wait_for_retry_text">Čaká sa…</string>
     <string name="received_at_time">Prijaté: %1s</string>
@@ -1102,10 +1099,10 @@ Vyskúšajte niektorých z odporúčaných chatbotov!"</string>
     <string name="recommend_tip_4">Mi Správy môžu automaticky rozpoznať ID odosielateľa. Vďaka tomu môžete zobraziť mená a profilové obrázky dôveryhodných poskytovateľov služieb.</string>
     <string name="recommend_tip_5">Inteligentné rozpoznávanie ID odosielateľa sprehľadní vašu schránku a pomôže vám rozpoznať dôveryhodných poskytovateľov služieb.</string>
     <string name="recommend_tip_6">Technickú podporu uvedených služieb poskytuje Yulore.</string>
-    <string name="recommend_tip_7">Pred použitím aplikácie Mi Správy si prečítajte a vyjadrite súhlas s našimi zmluvami <font color="#B3000000"><a href="http://url1">Podmienky používania</a></font> a <font color="#B3000000"><a href="http://url2">Zásady ochrany osobných údajov</a></font>, ako aj <font color="#B3000000"><a href="http://url3">Zásady ochrany osobných údajov Yulore.</a></font></string>
-    <string name="recommend_tip_8">Pred použitím bezplatných internetových správ cez aplikáciu Mi Správy si prečítajte a vyjadrite súhlas s našimi zmluvami <font color="#B3000000"><a href="http://url1">Podmienky používania</a></font> a <font color="#B3000000"><a href="http://url2">Zásady ochrany osobných údajov</a></font>, ako aj <font color="#B3000000"><a href="http://url3">Zásady ochrany osobných údajov Yulore.</a></font></string>
-    <string name="recommend_tip_9">Pred použitím služby Inteligentné rozpoznávanie ID odosielateľa si prečítajte a vyjadrite súhlas s našimi zmluvami <font color="#B3000000"><a href="http://url1">Podmienky používania</a></font> a <font color="#B3000000"><a href="http://url2">Zásady ochrany osobných údajov</a></font>, ako aj <font color="#B3000000"><a href="http://url3">Zásady ochrany osobných údajov Yulore.</a></font></string>
-    <string name="recommend_tip_9_2">Pred začatím používania našich služieb si prečítajte a vyjadrite súhlas s našimi zmluvami <font color="#B3000000"><a href="http://url1">Podmienky používania</a></font> a <font color="#B3000000"><a href="http://url2">Zásady ochrany osobných údajov</a></font>.</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">Nastavte si Xiaomi Správy ako predvolenú aplikáciu na odosielanie správ a získajte všetky bezpečnostné výhody, ktoré ponúkame</string>
     <string name="recommend_tip_other">Zobraziť iné aplikácie správ</string>
     <string name="recommend_tip_smart">Ochrana súkromia. Inteligentné rozpoznanie.</string>
@@ -1248,7 +1245,7 @@ Vyskúšajte niektorých z odporúčaných chatbotov!"</string>
     <string name="show_all_messages">Zobraziť všetky správy</string>
     <string name="show_delivery_status">Zobraziť stav doručenia</string>
     <string name="show_sender">Zobrazit info odosieľatela</string>
-    <string name="sim_activation_service_retry_main_purpose">Pre správne fungovanie aplikácie Mi Správy musí byť funkcia Aktivácia SIM karty zapnutá. Aktiváciu SIM karty môžete zapnúť v časti Nastavenie > Správa aplikácií.</string>
+    <string name="sim_activation_service_retry_main_purpose">Pre správne fungovanie aplikácie Mi Správy musí byť funkcia Aktivácia SIM karty zapnutá. Aktiváciu SIM karty môžete zapnúť v časti Nastavenie > Spravovať aplikácie.</string>
     <string name="sim_card1">SIM Karta 1</string>
     <string name="sim_card2">SIM Karta 2</string>
     <string name="sim_card_cloud">%s (Mi Správy)</string>
@@ -1266,11 +1263,11 @@ Vyskúšajte niektorých z odporúčaných chatbotov!"</string>
     <string name="slideshow_activity">Prezentácia</string>
     <string name="small_window_log_text">Fotoaparát nepodporuje viacero okien</string>
     <string name="smart_message_title">Inteligentné správy</string>
-    <string name="smart_message_upgrade_title">Aktualizácia pre Zásady ochrany osobných údajov aplikácie Inteligentné správy</string>
+    <string name="smart_message_upgrade_title">Aktualizácia pre Zásady ochrany osobných údajov služby Inteligentné správy</string>
     <string name="smart_messages_network_allow_message">Mi Správy si vyžadujú na bežné fungovanie služieb pripojenie na internet. Chcete ho teraz povoliť?</string>
     <string name="smart_messages_network_allow_title">Vyžaduje sa internetové pripojenie</string>
     <string name="smart_msg_main_purpose">Inteligentné správy umožňujú rozpoznať ID odosielateľa a služby inteligentného menu.</string>
-    <string name="smart_msg_privacy_policy">Zásady ochrany osobných údajov aplikácie Inteligentné správy</string>
+    <string name="smart_msg_privacy_policy">Zásady ochrany osobných údajov služby Inteligentné správy</string>
     <string name="smart_msg_upgrade_main_purpose">Inteligentné správy teraz fungujú s MMS. Budete môcť využívať viac služieb poskytovaných odosielateľmi a tiež prijímať správy v nových formátoch.</string>
     <string name="sms_card_partner_label">"Partner SMS karty: "</string>
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
@@ -1337,7 +1334,7 @@ Vyskúšajte niektorých z odporúčaných chatbotov!"</string>
 Ak nesúhlasíte s udelením takých povolení alebo zdieľaním alebo nahrávaním vašich osobných informácií, túto aplikáciu nebudete môcť ďalej používať."</string>
     <string name="system_permission_declare_privacy_declare">Aplikácia %1s potrebuje zbierať vaše dáta a vyžaduje pre správne fungovanie nasledovné povolenia:</string>
     <string name="system_permission_declare_privacy_declare_new">Aby mohla aplikácia normálne fungovať, potrebuje sa pripojiť k internetu a vyžaduje si nasledujúce povolenia:</string>
-    <string name="system_permission_declare_privacy_link">To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our %1s.</string>
+    <string name="system_permission_declare_privacy_link">Aby ste úplne pochopili svoje práva ako používateľa, ako aj spôsoby, akými používame vaše údaje, prečítajte si a vyjadrite súhlas s naším dokumentom %1s.</string>
     <string name="system_permission_declare_revoke_path">Odvolať autorizáciu a vypnúť služby môžete v nastaveniach Správ.</string>
     <string name="system_permission_declare_single_link">Pred použitím tejto funkcie si prečítajte a vyjadrite súhlas s našou zmluvou %1s.</string>
     <string name="system_permission_declare_triple_link" formatted="false">Pred použitím týchto funkcií si prečítajte a vyjadrite súhlas s našimi zmluvami %1s, %2s a %3s.</string>
@@ -1492,7 +1489,7 @@ Pokus: %s."</string>
     <string name="wild_msg_title">Vyberte tel. číslo pre synchr.</string>
     <string name="wrong_mms_version_msg">Nainštalujte verziu správ, ktorá je kompatibilná s vaším zariadením a systémom.</string>
     <string name="wrong_mms_version_title">Chyba verzie</string>
-    <string name="xiaomi_account_service_retry_main_purpose">Pre správne fungovanie služieb Xiaomi konta musí byť táto funkcia zapnutá. Služby Xiaomi konta môžete zapnúť v časti Nastavenia > Správa aplikácií.</string>
+    <string name="xiaomi_account_service_retry_main_purpose">Pre správne fungovanie služieb Xiaomi konta musí byť táto funkcia zapnutá. Služby Xiaomi konta môžete zapnúť v časti Nastavenia > Spravovať aplikácie.</string>
     <string name="yes">OK</string>
     <string name="yesterday">Včera</string>
     <string name="you_have_new_message">Máte nové správy</string>

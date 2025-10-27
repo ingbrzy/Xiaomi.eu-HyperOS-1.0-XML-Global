@@ -37,12 +37,12 @@
         <item quantity="other">%d개 작업 삭제 성공</item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
-        <item quantity="other">%d초 빨리 감기</item>
         <item quantity="one">%d초 빨리 감기</item>
+        <item quantity="other">%d초 빨리 감기</item>
     </plurals>
     <plurals name="exo_controls_rewind_by_amount_description">
-        <item quantity="other">%d초 되감기</item>
         <item quantity="one">%d초 되감기</item>
+        <item quantity="other">%d초 되감기</item>
     </plurals>
     <plurals name="health_chart_calories_burned_schedule_format_desc">
         <item quantity="other">%1$s 칼로리 소모됨</item>
@@ -99,8 +99,8 @@
         <item quantity="other">%d개 항목 선택됨</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">새 알림 %d개</item>
         <item quantity="one">새 알림 %d개</item>
+        <item quantity="other">새 알림 %d개</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d분 전</item>

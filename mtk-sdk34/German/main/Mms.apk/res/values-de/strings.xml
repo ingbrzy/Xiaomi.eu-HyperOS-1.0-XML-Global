@@ -89,7 +89,6 @@ wurden zur Sperrliste hinzugefügt"</string>
     <string name="attach_take_photo">Foto aufnehmen</string>
     <string name="attach_video">Video</string>
     <string name="attach_video_call">Videoanruf</string>
-    <string name="attachment_panel_show_part">Seite %1$d</string>
     <string name="audio_download_failed">Kann Audio nicht runterladen</string>
     <string name="audio_message_expired">Diese Sprachnachricht ist abgelaufen.</string>
     <string name="audio_message_mx_offline">Konnte Audio nicht herunterladen. Mi Message ist offline oder ist nicht verfügbar.</string>
@@ -378,9 +377,9 @@ bitte beachten Sie, dass die Internet-Messaging-Funktionalität jetzt bis auf we
     <string name="fcm_fallback_notification_channel_label">Sonstiges</string>
     <string name="fdn_check_failure">Du kannst nur Nachrichten an feste Rufnummern versenden.</string>
     <string name="feature_mx">Mi Message</string>
-    <string name="feature_mx_summary"><b>Du kannst mit Mi Nachrichten Nachrichten an andere Mi Nachrichten-Nutzer ohne weitere Kosten über das Internet versenden</b>. Zum Aktivieren des Dienstes muss eine SMS-Nachricht versendet werden. Dein Mobilfunkanbieter wird dir diese Nachricht in Rechnung stellen. Lese dir vor der Benutzung dieser Funktion unsere <font color="#B3000000"><a href="http://url1">Nutzungsbedingungen</a></font> und <font color="#B3000000"><a href="http://url2">Datenschutzrichtlinien</a></font> durch und stimme diesen zu.</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">Intelligente Nachrichten</string>
-    <string name="feature_smart_sms_summary"><b>Intelligente Nachrichten bietet die Erkennung der Absender-ID und intelligente Menüs</b>. Intelligente Nachrichten wird teilweise von Yulore angeboten. Lese dir vor der Benutzung dieser Funktion die <font color="#B3000000"><a href="http://url3">Datenschutzrichtlinien</a></font> von Yulore durch und stimme diesen zu.</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">Laden…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Erstellt:</string>
@@ -458,7 +457,7 @@ bitte beachten Sie, dass die Internet-Messaging-Funktionalität jetzt bis auf we
     <string name="from_pkg_name">Aus der App:</string>
     <string name="ft_cfs_dialog_content">Dateien konnten nicht über RCS geliefert werden. Stattdessen einen Link in einer Textnachricht senden?</string>
     <string name="ft_cfs_dialog_title">Alternative Dateiübertragung</string>
-    <string name="google_message_promo_content">Xiaomi empfiehlt ein Upgrade auf Messages von Google. Installieren Sie es jetzt, um qualitativ hochwertige Fotos zu teilen, über WLAN zu chatten und vieles mehr. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Mehr erfahren</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">Upgrade deine Nachrichten-App</string>
     <string name="group_already_kicked_hint">Kann Nachricht nicht senden. Du bist kein Mitglied dieses Gruppen-Chats.</string>
     <string name="group_member_is_composing">Tippen…</string>
@@ -538,10 +537,8 @@ bitte beachten Sie, dass die Internet-Messaging-Funktionalität jetzt bis auf we
     <string name="menu_unlock">Aus Favoriten entfernen</string>
     <string name="menu_view_contact">Kontakt anzeigen</string>
     <string name="menu_view_group_info">Gruppeninfo</string>
-    <string name="message_cannot_send_air_mode">"Nachrichten können nicht versandt werden.
-Schalte zuerst den Flugzeugmodus aus."</string>
-    <string name="message_cannot_send_sim_unavailable">"Nachrichten können nicht versandt werden.
-Überprüfe deine SIM-Karte."</string>
+    <string name="message_cannot_send_air_mode">Schalte den Flugzeugmodus aus, um Nachrichten zu senden</string>
+    <string name="message_cannot_send_sim_unavailable">Lege die SIM-Karte ein, um Nachrichten zu senden</string>
     <string name="message_class_label">"Klassifizierung der Nachricht: "</string>
     <string name="message_contact">Kontakt:</string>
     <string name="message_details_title">Nachrichtendetails</string>
@@ -732,7 +729,7 @@ Eine ausgehende SMS-Nachricht ist erforderlich, um Mi-Message zu aktivieren. Dei
     <string name="networking_allow_desc">Mi Message erfordert zur ordnungsgemäßen Funktionsweise eine Verbindung mit dem Internet. Um kostenlose SMS und Sprachdienste bereitstellen, unbekannte Nummern erkennen, Spam ausfiltern und andere Funktionen aktivieren zu können, muss Mi Message Gelbe Seiten verwenden. Erteilst du Gelbe Seiten die Berechtigung, sich mit dem Internet zu verbinden, deine Standortinfos zu erhalten und deine Kontakte auszulesen?</string>
     <string name="networking_allow_desc_without_mx">Mi Message erfordert zur ordnungsgemäßen Funktionsweise eine Verbindung mit dem Internet. Um unbekannte Nummern erkennen, Spam ausfiltern und andere Funktionen aktivieren zu können, muss Mi Message Gelbe Seiten verwenden. Erteilst du Gelbe Seiten die Berechtigung, sich mit dem Internet zu verbinden, deine Standortinfos zu erhalten und deine Kontakte auszulesen?</string>
     <string name="networking_allow_title">Achtung</string>
-    <string name="new_message">Nachricht erstellen</string>
+    <string name="new_message">Neue Nachricht</string>
     <string name="new_message_arrived">Ungelesen</string>
     <string name="new_phrase">Antwort hinzufügen</string>
     <string name="new_phrase_hint">Eine neue Antwort eingeben</string>
@@ -812,7 +809,7 @@ Eine ausgehende SMS-Nachricht ist erforderlich, um Mi-Message zu aktivieren. Dei
     <string name="pref_hide_verification_code_summary">OTP automatisch in Benachrichtigungen auf gesichertem Sperrbildschirm verbergen</string>
     <string name="pref_messages_to_save">Anzahl der zu speichernden Nachrichten festlegen</string>
     <string name="pref_mms_settings_title">Multimedia (MMS)-Nachrichten</string>
-    <string name="pref_msg_trash_bin_title">Gelöschte Nachrichten</string>
+    <string name="pref_msg_trash_bin_title">Kürzlich gelöschte Elemente</string>
     <string name="pref_notification_settings_title">Benachrichtigungen</string>
     <string name="pref_other_title">Weitere Einstellungen</string>
     <string name="pref_rcs_show_report_message">Zustellberichte erhalten</string>
@@ -1009,7 +1006,7 @@ Mobile Daten einschalten und diese Seite erneut öffnen."</string>
     <string name="rcs_hello_from_pc">Auf deinem Computer bei Fetion anmelden, um Dateien zu übertragen.</string>
     <string name="rcs_list_bottom_loading">Einen Moment…</string>
     <string name="rcs_list_bottom_search">Suche…</string>
-    <string name="rcs_main_purpose">Du kannst diesen Dienst verwenden, um Fotos, Sprachnachrichten, Videos und mehr zu versenden und zu empfangen.</string>
+    <string name="rcs_main_purpose">Mit diesem Dienst kannst du Fotos, Sprachnachrichten, Videos und mehr senden und empfangen. Dieser Dienst erfordert Standortzugriff.</string>
     <string name="rcs_message">5G messages</string>
     <string name="rcs_message_disable">Anzeigen der Nachricht im Zweitprofil nicht möglich</string>
     <string name="rcs_message_title">5G Messaging</string>
@@ -1102,10 +1099,10 @@ Mobile Daten einschalten und diese Seite erneut öffnen."</string>
     <string name="recommend_tip_4">Mi Message kann die Absender-ID automatisch erkennen, was dir ermöglicht, die Namen und Profilbilder von vertrauenswürdigen Anbietern zu sehen.</string>
     <string name="recommend_tip_5">Die intelligente Erkennung der Absender-ID macht deinen Posteingang ordentlicher und hilft dir, vertrauenswürdige Sender zu identifizieren.</string>
     <string name="recommend_tip_6">Die oben genannten Dienste werden mit technischem Support von Yulore bereitgestellt.</string>
-    <string name="recommend_tip_7">Lies vor der Benutzung von Mi Message unsere <font color="#B3000000"><a href="http://url1">Nutzervereinbarung</a></font> und <font color="#B3000000"><a href="http://url2">Datenschutzrichtlinien</a></font>, ebenso wie die <font color="#B3000000"><a href="http://url3">Yulore Datenschutzrichtlinien</a></font> und stimme ihnen zu.</string>
-    <string name="recommend_tip_8">Lies vor der Benutzung der kostenlosen Internet-Nachrichtenübermittlung, die von Mi Message bereitgestellt wird, unsere <font color="#B3000000"><a href="http://url1">Nutzervereinbarung</a></font> und <font color="#B3000000"><a href="http://url2">Datenschutzrichtlinien</a></font>, ebenso wie die <font color="#B3000000"><a href="http://url3">Yulore Datenschutzrichtlinien</a></font> und stimme ihnen zu.</string>
-    <string name="recommend_tip_9">Lies vor der Benutzung der intelligenten Erkennung der Absender-ID unsere <font color="#B3000000"><a href="http://url1">Nutzervereinbarung</a></font> und <font color="#B3000000"><a href="http://url2">Datenschutzrichtlinien</a></font>, ebenso wie die <font color="#B3000000"><a href="http://url3">Yulore Datenschutzrichtlinien</a></font> und stimme ihnen zu.</string>
-    <string name="recommend_tip_9_2">Lies vor der Benutzung unserer Dienste unsere <font color="#B3000000"><a href="http://url1">Nutzervereinbarung</a></font> und <font color="#B3000000"><a href="http://url2">Datenschutzerklärung</a></font> und stimme ihnen zu.</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">Lege Xiaomi Messaging als deine Standard-Messaging-App fest, um alle Sicherheitsvorteile zu nutzen, die wir anbieten.</string>
     <string name="recommend_tip_other">Andere Messaging-Apps ansehen</string>
     <string name="recommend_tip_smart">Datenschutz. Smarte Erkennung.</string>

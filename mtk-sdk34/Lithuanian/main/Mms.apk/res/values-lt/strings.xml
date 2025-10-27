@@ -89,7 +89,6 @@ pridėti į blokuojamų sąrašą"</string>
     <string name="attach_take_photo">Fotografuoti</string>
     <string name="attach_video">Video</string>
     <string name="attach_video_call">Vaizdo skambutis</string>
-    <string name="attachment_panel_show_part">Puslapis %1$d</string>
     <string name="audio_download_failed">Nepavyko atsisiųsti audio įrašo</string>
     <string name="audio_message_expired">Šis balso pranešimas nebegalioja.</string>
     <string name="audio_message_mx_offline">Nepavyko atsisiųsti audio. Mi pranešimai išjungti arba nepasiekiami.</string>
@@ -378,9 +377,9 @@ Atkreipkite dėmesį, kad žinučių siuntimo funkcija internetu yra sustabdyta 
     <string name="fcm_fallback_notification_channel_label">Įvairūs</string>
     <string name="fdn_check_failure">Žinutes siųsti galite tik į savo fiksuoto rinkimo numerius.</string>
     <string name="feature_mx">Mi Žinutė</string>
-    <string name="feature_mx_summary"><b>„Mi pranešimai“ jums suteikia galimybę siųsti žinutes kitiems „Mi pranešimų“ naudotojams internetu be jokių papildomų mokesčių</b>. Išeinanti SMS žinutė gali būti reikalinga „Mi pranešimams“ suaktyvinti. Jai bus taikomi paslaugų teikėjo tarifai. Prieš pradėdami naudoti šią funkciją, susipažinkite ir sutikite su mūsų <font color="#B3000000"><a href="http://url1">naudotojo sutartimi</a></font> ir <font color="#B3000000"><a href="http://url2">privatumo politika</a></font>.</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">Išmanusis susirašinėjimas</string>
-    <string name="feature_smart_sms_summary"><b>„Išmanusis susirašinėjimas“ jums teikia siuntėjo ID atpažinimo paslaugas ir išmaniojo meniu paslaugas.</b> Išmanųjį susirašinėjimą iš dalies teikia „Yulore“. Prieš pradėdami naudoti šią funkciją, susipažinkite ir sutikite su „Yulore“ <font color="#B3000000"><a href="http://url3">privatumo politika</a></font>.</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">Įkeliama…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Sukurta:</string>
@@ -458,7 +457,7 @@ Atkreipkite dėmesį, kad žinučių siuntimo funkcija internetu yra sustabdyta 
     <string name="from_pkg_name">Iš programos:</string>
     <string name="ft_cfs_dialog_content">Nepavyko pristatyti failo, naudojant RCS. Vietoj to, siųsti nuorodą tekstiniu pranešimu?</string>
     <string name="ft_cfs_dialog_title">Alternatyvus failo perkėlimas</string>
-    <string name="google_message_promo_content">„Xiaomi“ rekomenduoja įdiegti naujausią „Google Messages“ versiją. Įdiekite dabar, kad galėtumėte bendrinti aukštos kokybės vaizdus, susirašinėti naudojant „Wi-Fi“ ir dar daugiau.<font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Sužinokite daugiau</a></font>.</string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">Atnaujinkite susirašinėjimo programą</string>
     <string name="group_already_kicked_hint">Nepavyksta siųsti pranešimų. Jūs nesate šio grupės pokalbio narys.</string>
     <string name="group_member_is_composing">Rašoma…</string>
@@ -538,10 +537,8 @@ Atkreipkite dėmesį, kad žinučių siuntimo funkcija internetu yra sustabdyta 
     <string name="menu_unlock">Pašalinti iš parankinių</string>
     <string name="menu_view_contact">Peržiūrėti kontaktą</string>
     <string name="menu_view_group_info">Grupės info</string>
-    <string name="message_cannot_send_air_mode">"Nepavyko išsiųsti pranešimų.
-Pirmiausia išjunkite lėktuvo režimą."</string>
-    <string name="message_cannot_send_sim_unavailable">"Nepavyko išsiųsti pranešimų.
-Patikrinkite savo SIM kortelę."</string>
+    <string name="message_cannot_send_air_mode">Norėdami siųsti žinutes, išjunkite lėktuvo režimą</string>
+    <string name="message_cannot_send_sim_unavailable">Norėdami siųsti žinutes, įdėkite SIM kortelę</string>
     <string name="message_class_label">"Žinutės klasė: "</string>
     <string name="message_contact">Kontaktas:</string>
     <string name="message_details_title">Pranešimo informacija</string>
@@ -732,7 +729,7 @@ Išeinanti SMS žinutė gali būti reikalinga „Mi pranešimams“ suaktyvinti.
     <string name="networking_allow_desc">Mi Žinutės funkcionalumui užtikrinti yra reikalingas interneto ryšys. Siekiant teikti nemokamas teksto ir balso žinučių paslaugas, atpažinti nežinomus numerius, filtruoti šlamštą ir įgalinti dar daugiau ypatybių – yra reikalinga prieiga prie Žinyno. Leisti Žinynui prisijungti prie interneto, gauti vietovės informaciją ir nuskaityti jūsų kontaktus?</string>
     <string name="networking_allow_desc_without_mx">Mi Žinutės funkcionalumui užtikrinti yra reikalingas interneto ryšys. Siekiant atpažinti nežinomus numerius, filtruoti šlamštą ir įgalinti kitas ypatybes – reikalinga prieiga prie Žinyno. Leisti Žinynui prisijungti prie interneto, gauti vietovės informaciją ir nuskaityti jūsų kontaktus?</string>
     <string name="networking_allow_title">Dėmesio</string>
-    <string name="new_message">Rašyti</string>
+    <string name="new_message">Nauja žinutė</string>
     <string name="new_message_arrived">Neskaityta</string>
     <string name="new_phrase">Pridėti atsakymą</string>
     <string name="new_phrase_hint">Įveskite naują atsakymą</string>
@@ -812,7 +809,7 @@ Išeinanti SMS žinutė gali būti reikalinga „Mi pranešimams“ suaktyvinti.
     <string name="pref_hide_verification_code_summary">Automatiškai slėpti vienkartinius slaptažodžius žinučių pranešimuose esant apsaugotam užrakto ekranui</string>
     <string name="pref_messages_to_save">Nustatyti išsaugomų žinučių kiekį</string>
     <string name="pref_mms_settings_title">Multimedijų (MMS) žinutės</string>
-    <string name="pref_msg_trash_bin_title">Ištrintos žinutės</string>
+    <string name="pref_msg_trash_bin_title">Nesenai ištrinti elementai</string>
     <string name="pref_notification_settings_title">Pranešimai</string>
     <string name="pref_other_title">Papildomi parametrai</string>
     <string name="pref_rcs_show_report_message">Gauti pristatymo ataskaitas</string>
@@ -1009,7 +1006,7 @@ Peržiūrėkite rekomenduojamus pokalbių robotus!"</string>
     <string name="rcs_hello_from_pc">Norėdami perkelti failus, prisijunkite prie „Fetion“.</string>
     <string name="rcs_list_bottom_loading">Sekundėlę…</string>
     <string name="rcs_list_bottom_search">Ieškoma…</string>
-    <string name="rcs_main_purpose">Naudodamiesi šia paslauga galite siųsti ir gauti nuotraukas, balso žinutes, vaizdo įrašus ir dar daugiau.</string>
+    <string name="rcs_main_purpose">Naudodamiesi šia paslauga galite siųsti ir gauti nuotraukas, balso pranešimus, vaizdo įrašus ir kt. Paslaugos veikimui reikalinga vietos prieiga.</string>
     <string name="rcs_message">5G pranešimai</string>
     <string name="rcs_message_disable">Šio pranešimo nepavyko peržiūrėti „Antrojoje erdvėje“</string>
     <string name="rcs_message_title">5G pranešimai</string>
@@ -1102,10 +1099,10 @@ Peržiūrėkite rekomenduojamus pokalbių robotus!"</string>
     <string name="recommend_tip_4">„Mi pranešimai“ gali automatiškai atpažinti siuntėjo ID ir jums rodyti patikimų tiekėjų vardus ir profilio vaizdus.</string>
     <string name="recommend_tip_5">Išmanusis siuntėjo ID atpažinimas jūsų gautųjų aplanką padaro tvarkingesnį ir padeda nustatyti patikimus siuntėjus.</string>
     <string name="recommend_tip_6">Pirmiau nurodytos paslaugos yra teikiamos su technine parama iš „Yulore“.</string>
-    <string name="recommend_tip_7">Prieš pradėdami naudoti „Mi pranešimai“, susipažinkite ir sutikite su mūsų <font color="#B3000000"><a href="http://url1">naudotojo sutartimi</a></font> ir <font color="#B3000000"><a href="http://url2">privatumo politika</a></font>, taip pat <font color="#B3000000"><a href="http://url3">„Yulore“ privatumo politika</a></font>.</string>
-    <string name="recommend_tip_8">Prieš pradėdami naudoti „Mi pranešimai“ teikiamą nemokamą susirašinėjimą internete, susipažinkite ir sutikite su mūsų <font color="#B3000000"><a href="http://url1">naudotojo sutartimi</a></font> ir <font color="#B3000000"><a href="http://url2">privatumo politika</a></font>, taip pat <font color="#B3000000"><a href="http://url3">„Yulore“ privatumo politika</a></font>.</string>
-    <string name="recommend_tip_9">Prieš pradėdami naudoti išmanų siuntėjo ID atpažinimą, susipažinkite ir sutikite su mūsų <font color="#B3000000"><a href="http://url1">naudotojo sutartimi</a></font> ir <font color="#B3000000"><a href="http://url2">privatumo politika</a></font>, taip pat <font color="#B3000000"><a href="http://url3">„Yulore“ privatumo politika</a></font>.</string>
-    <string name="recommend_tip_9_2">Prieš pradėdami naudotis mūsų paslaugomis, susipažinkite ir sutikite su mūsų <font color="#B3000000"><a href="http://url1">naudotojo sutartimi</a></font> ir <font color="#B3000000"><a href="http://url2">privatumo politika</a></font>.</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">Nustatykite „Xiaomi Messaging“ kaip numatytąją žinučių siuntimo programą, kad gautumėte visus siūlomus saugumo privalumus</string>
     <string name="recommend_tip_other">Žiūrėti kitas žinučių programas</string>
     <string name="recommend_tip_smart">Privatumo apsauga. Išmanusis atpažinimas.</string>

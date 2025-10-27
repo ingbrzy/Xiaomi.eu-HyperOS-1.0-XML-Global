@@ -89,7 +89,6 @@ s liste blokiranih"</string>
     <string name="attach_take_photo">Snimi sliku</string>
     <string name="attach_video">Videozapisi</string>
     <string name="attach_video_call">Videopoziv</string>
-    <string name="attachment_panel_show_part">Stranica %1$d</string>
     <string name="audio_download_failed">Ne mogu preuzeti zvuk</string>
     <string name="audio_message_expired">Ova glasovna poruka je istekla.</string>
     <string name="audio_message_mx_offline">Ne mogu preuzeti zvuk. Mi Poruka je offline ili nije dostupna.</string>
@@ -378,9 +377,9 @@ Napominjemo da je značajka internet poruka od sada obustavljena do daljnjeg. To
     <string name="fcm_fallback_notification_channel_label">Razno</string>
     <string name="fdn_check_failure">Poruke možete slati samo brojevima za fiksno biranje.</string>
     <string name="feature_mx">Mi Poruke</string>
-    <string name="feature_mx_summary"><b>Mi Poruke omogućuje Vam slanje poruka drugim korisnicima Mi Poruka preko interneta bez dodatnih troškova</b>. Slanje poruke nužno je kako biste aktivirali ovu uslugu. Vaš operater tu će Vam poruku naplatiti. Pročitajte i potvrdite naš <font color="#B3000000"><a href="http://url1">Korisnički ugovor</a></font> i <font color="#B3000000"><a href="http://url2">Pravila o privatnosti</a></font> prije korištenja ove značajke.</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">Pametne poruke</string>
-    <string name="feature_smart_sms_summary"><b>Pametne Poruke omogućuju Vam Pametno prepoznavanje ID pošiljatelja i pametne izbornike</b>. Pametne Poruke djelomično donosi Vam Yulore. Pročitajte i potvrdite Yuloreova <font color="#B3000000"><a href="http://url3">Pravila o privatnosti</a></font> prije korišenja ove značajke.</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">Učitavanje…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Izrađeno:</string>
@@ -458,7 +457,7 @@ Napominjemo da je značajka internet poruka od sada obustavljena do daljnjeg. To
     <string name="from_pkg_name">Iz aplikacije:</string>
     <string name="ft_cfs_dialog_content">Datoteke nije moguće isporučiti pomoću RCS-a. Umjesto toga poslati vezu u tekstualnu poruku?</string>
     <string name="ft_cfs_dialog_title">Alternativni prijenos datoteka</string>
-    <string name="google_message_promo_content">Xiaomi preporučuje nadogradnju Poruka od Googla. Instalirajte sada kako biste uživali u većoj kvaliteti dijeljenja fotografija, Wi-Fi dopisivanja i više. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Saznajte više</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">Nadogradite svoju aplikaciju za poruke</string>
     <string name="group_already_kicked_hint">Ne možete slati poruke. Niste član ove grupe za razgovor.</string>
     <string name="group_member_is_composing">Pisanje…</string>
@@ -538,10 +537,8 @@ Napominjemo da je značajka internet poruka od sada obustavljena do daljnjeg. To
     <string name="menu_unlock">Ukloni iz omiljenih</string>
     <string name="menu_view_contact">Prikaži kontakt</string>
     <string name="menu_view_group_info">Grupni Info</string>
-    <string name="message_cannot_send_air_mode">"Nije moguće poslati poruku.
-Prvo isključite Zrakoplovni način."</string>
-    <string name="message_cannot_send_sim_unavailable">"Nije moguće slati poruke.
-Provjerite svoju SIM karticu."</string>
+    <string name="message_cannot_send_air_mode">Isključite Zrakoplovni način za slanje poruka</string>
+    <string name="message_cannot_send_sim_unavailable">Umetnite SIM karticu za slanje poruka</string>
     <string name="message_class_label">"Klasa poruke:  "</string>
     <string name="message_contact">Kontakt:</string>
     <string name="message_details_title">Pojedinosti poruke</string>
@@ -812,7 +809,7 @@ Odgovarajuća SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni oper
     <string name="pref_hide_verification_code_summary">Automatski sakrij jednokratne zaporke u obavijesti poruke na osiguranom Zaklj. zaslonu</string>
     <string name="pref_messages_to_save">Podesi broj poruka za spremanje</string>
     <string name="pref_mms_settings_title">Postavke MMS-a</string>
-    <string name="pref_msg_trash_bin_title">Izbrisane poruke</string>
+    <string name="pref_msg_trash_bin_title">Nedavno obrisane stavke</string>
     <string name="pref_notification_settings_title">Postavke obavijesti</string>
     <string name="pref_other_title">Dodatne postavke</string>
     <string name="pref_rcs_show_report_message">Primaj obavijesti o dostavi</string>
@@ -999,8 +996,8 @@ Pogledajte preporučene chatbotove!"</string>
     <string name="rcs_chatlist_scan_error">Nije moguće pročitati ovaj QR kod</string>
     <string name="rcs_conversation_rcs_tip">[Chatbot] %s</string>
     <string name="rcs_create_new_group">Kreiraj grupu za razgovor</string>
-    <string name="rcs_dspt">Send and receive messages using WLAN or mobile network</string>
-    <string name="rcs_dspt_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_dspt">Šaljite i primajte poruke koristeći WLAN ili mobilnu mrežu</string>
+    <string name="rcs_dspt_unavailable">Značajke povezane s 5G slanjem poruka nisu podržane zbog ograničenja operatera</string>
     <string name="rcs_file_link_as_sms">Posjeti %s da biste vidjeli RCS datoteku koja vam je poslana.</string>
     <string name="rcs_forward_faild">Ne mogu proslijediti</string>
     <string name="rcs_forward_successful">Uspješno proslijeđeno</string>
@@ -1009,7 +1006,7 @@ Pogledajte preporučene chatbotove!"</string>
     <string name="rcs_hello_from_pc">Prijavite se na Fetion na računalu da biste prenijeli datoteke.</string>
     <string name="rcs_list_bottom_loading">Pričekajte trenutak…</string>
     <string name="rcs_list_bottom_search">Pretraživanje…</string>
-    <string name="rcs_main_purpose">Ovu uslugu možete koristiti za slanje i primanje fotografija, glasovnih poruka, videozapisa i više.</string>
+    <string name="rcs_main_purpose">Ovu uslugu možete koristiti za slanje i primanje fotografija, glasovnih poruka, videozapisa i više. Ova usluga zahtijeva pristup lokaciji.</string>
     <string name="rcs_message">5G poruke</string>
     <string name="rcs_message_disable">Ovu poruku nije moguće pregledati u Drugom prostoru</string>
     <string name="rcs_message_title">5G Poruke</string>
@@ -1059,7 +1056,7 @@ Pogledajte preporučene chatbotove!"</string>
     <string name="rcs_summary_auto_resend_mms">Pretvoriti 5G multimedijalne poruke u MMS nakon što se orginalna poruka nije mogla poslati. Vaš mobilni operater će vam naplatiti ovu poruku.</string>
     <string name="rcs_summary_auto_resend_sms">Pretvoriti 5G tekstualne poruke u SMS nakon što se orginalna poruka nije mogla poslati. Vaš mobilni operater će vam naplatiti ovu poruku.</string>
     <string name="rcs_summary_silence_message">Obavijesti tihih poruka kada klijent zaslona radi</string>
-    <string name="rcs_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_unavailable">Značajke povezane s 5G slanjem poruka nisu podržane zbog ograničenja operatera</string>
     <string name="rcs_up_not_online">5G Poruke je izvan mreže. Provjerite postavke mreže i pokušajte ponovno.</string>
     <string name="rcs_wait_for_retry_text">Na čekanju…</string>
     <string name="received_at_time">Primljeno: %1s</string>
@@ -1102,10 +1099,10 @@ Pogledajte preporučene chatbotove!"</string>
     <string name="recommend_tip_4">Mi Poruke mogu prepoznati ID pošiljatelja automatski i tako Vam omogućuju da vidite imena i profilne slike pouzdanih prodavača.</string>
     <string name="recommend_tip_5">Pametno prepoznavanje ID pošiljatelja omogućuje da Vaš ulazni pretinac bude pregledniji i pomaže Vam prepoznati pouzdane prodavače.</string>
     <string name="recommend_tip_6">Gore navedene usluge pružamo Vam uz tehničku podršku Youtubea.</string>
-    <string name="recommend_tip_7">Pročitajte i potvrdite naš <font color="#B3000000"><a href="http://url1">Korisnički ugovor</a></font> i <font color="#B3000000"><a href="http://url2">Pravila o privatnosti</a></font> kao i <font color="#B3000000"><a href="http://url3">Yulore Pravila o privatnosti</a></font> prije korištenja Mi Poruka.</string>
-    <string name="recommend_tip_8">Pročitajte i potvrdite naš <font color="#B3000000"><a href="http://url1">Korisnički ugovor</a></font> i <font color="#B3000000"><a href="http://url2">Pravila o privatnosti</a></font> kao i <font color="#B3000000"><a href="http://url3">Yulore Pravila o privatnosti</a></font> prije korištenja besplatnog internet dopisivanja koje Vam donose Mi Poruke.</string>
-    <string name="recommend_tip_9">Pročitajte i potvrdite naš <font color="#B3000000"><a href="http://url1">Korisnički ugovor</a></font> i <font color="#B3000000"><a href="http://url2">Pravila o privatnosti</a></font> kao i <font color="#B3000000"><a href="http://url3">Yulore Pravila o privatnosti</a></font> prije korištenja Pametnog prepoznavanja ID pošiljatelja.</string>
-    <string name="recommend_tip_9_2">Pročitajte i potvrdite naš <font color="#B3000000"><a href="http://url1">Korisnički ugovor</a></font> i <font color="#B3000000"><a href="http://url2">Pravila o privatnosti</a></font> prije korištenja naših usluga.</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">Postavite Xiaomi Messaging kao zadanu aplikaciju za razmjenu poruka kako biste dobili sve sigurnosne prednosti koje nudimo</string>
     <string name="recommend_tip_other">Pogledajte druge aplikacije za slanje poruka</string>
     <string name="recommend_tip_smart">Zaštita privatnosti. Pametno prepoznavanje.</string>
@@ -1337,7 +1334,7 @@ Pogledajte preporučene chatbotove!"</string>
 Ukoliko se ne slažete dati takvu dozvolu ili učitati i dijeliti Vaše osobne podatke, ne ćete moći koristiti ovu aplikaciju."</string>
     <string name="system_permission_declare_privacy_declare">%1s treba prikupiti Vaše podatke i zahtijeva sljedeće dozvole kako bi normalno funkcionirala:</string>
     <string name="system_permission_declare_privacy_declare_new">Ova se aplikacija mora povezati na internet i zahtijeva sljedeća dopuštenja kako bi mogla normalno raditi:</string>
-    <string name="system_permission_declare_privacy_link">To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our %1s.</string>
+    <string name="system_permission_declare_privacy_link">Kako biste u potpunosti razumjeli svoja prava kao korisnika kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite naša %1s.</string>
     <string name="system_permission_declare_revoke_path">Možete opozvati autorizaciju i isključiti usluge u postavkama Poruke.</string>
     <string name="system_permission_declare_single_link">Pročitajte i pristanite na naša %1s prije upotrebe ove značajke.</string>
     <string name="system_permission_declare_triple_link" formatted="false">Pročitajte i pristanite na naš %1s, %2s, i %3s prije upotrebe tih značajki.</string>
