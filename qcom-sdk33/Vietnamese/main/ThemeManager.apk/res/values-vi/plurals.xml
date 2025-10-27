@@ -37,12 +37,12 @@
         <item quantity="other">Xóa %d nhiệm vụ thành công</item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
-        <item quantity="other">Tua nhanh %d giây</item>
         <item quantity="one">Tua nhanh %d giây</item>
+        <item quantity="other">Tua nhanh %d giây</item>
     </plurals>
     <plurals name="exo_controls_rewind_by_amount_description">
-        <item quantity="other">Tua lại %d giây</item>
         <item quantity="one">Tua lại %d giây</item>
+        <item quantity="other">Tua lại %d giây</item>
     </plurals>
     <plurals name="health_chart_calories_burned_schedule_format_desc">
         <item quantity="other">Đã tiêu hao %1$s Calo</item>
@@ -99,8 +99,8 @@
         <item quantity="other">Đã chọn %d mục</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d thông báo mới</item>
         <item quantity="one">%d thông báo mới</item>
+        <item quantity="other">%d thông báo mới</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d phút trước</item>

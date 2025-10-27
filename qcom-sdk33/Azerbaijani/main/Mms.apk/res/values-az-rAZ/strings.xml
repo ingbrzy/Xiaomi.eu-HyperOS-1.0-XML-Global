@@ -62,7 +62,6 @@ ehtiva edən mesajlar əngəlli siyahısına əlavə edildi"</string>
     <string name="attach_take_photo">Şəkil çək</string>
     <string name="attach_video">Video</string>
     <string name="attach_video_call">Video zəngi</string>
-    <string name="attachment_panel_show_part">Səhifə %1$d</string>
     <string name="audio_download_failed">Səs faylı endirilə bilmədi</string>
     <string name="audio_message_expired">Bu səsli mesajın müddəti bitdi.</string>
     <string name="audio_message_mx_offline">Səs endirilə bilmədi. Mi Mesaj oflayndır və ya istifadə edilə bilmir.</string>
@@ -307,9 +306,9 @@ Zəhmət olmasa unutmayın ki, internet mesajlaşma funksiyası bir daha bildiri
     <string name="favorite_at_time">%1s Sevimlilərə əlavə edildi</string>
     <string name="fdn_check_failure">Yalnız sabit zəng nömrələrinə mesaj göndərə bilərsiniz.</string>
     <string name="feature_mx">Mi Mesaj</string>
-    <string name="feature_mx_summary"><b>Mi Mesaj, digər Mi Mesaj istifadəçilərinə internet üzərindən ödəniş etmədən mesaj göndərməyə imkan verir</b>. Bu xidməti aktivləşdirmək üçün gedən SMS mesajı tələb edilir. Bu mesaj üçün operatorunuz sizə ödəniş edəcəkdir. Bu xüsusiyyəti istifadə etməzdən əvvəl <font color="#B3000000"><a href="http://url1">İstifadəçi Sazişi</a></font> və <font color="#B3000000"><a href="http://url2">Gizlilik Siyasəti</a></font> sazişlərimizi oxuyun və qəbul edin.</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">Ağıllı Mesajlaşma</string>
-    <string name="feature_smart_sms_summary"><b>Ağıllı Mesajlaşma Göndərən Kimliyi tanıma və ağıllı menyular təmin edir</b>. Ağıllı Mesajlaşma qismən Yulore tərəfindən təmin edilir. Bu xüsusiyyəti istifadə etməzdən əvvəl Yulore-nin <font color="#B3000000"><a href="http://url3">Gizlilik Siyasəti</a></font> sazişini oxuyun və qəbul edin.</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">Yüklənir…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Yaradılma tarixi:</string>
@@ -387,7 +386,7 @@ Zəhmət olmasa unutmayın ki, internet mesajlaşma funksiyası bir daha bildiri
     <string name="from_pkg_name">Tətbiqdən:</string>
     <string name="ft_cfs_dialog_content">Faylllar RCS istifadə edilərək çatdırıla bilmir. Keçid əvəzinə mətn mesajı göndərilsin?</string>
     <string name="ft_cfs_dialog_title">Alternativ fayl köçürmə</string>
-    <string name="google_message_promo_content">Xiaomi, Google Mesajları təkmilləşdirməyi tövsiyə edir. Yüksək keyfiyyətli şəkil paylaşma, Wi-Fi ilə söhbət və daha çox şey əldə etmək üçün indi quraşdırın.<font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Daha çox öyrənin</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">Mesajlaşma tətbiqini təkmilləşdir</string>
     <string name="group_already_kicked_hint">Mesaj göndərilə bilmir. Bu qrup söhbətinin üzvü deyilsiniz.</string>
     <string name="group_member_is_composing">Yazır…</string>
@@ -467,10 +466,8 @@ Zəhmət olmasa unutmayın ki, internet mesajlaşma funksiyası bir daha bildiri
     <string name="menu_unlock">Sevimlilərdən sil</string>
     <string name="menu_view_contact">Kontakta bax</string>
     <string name="menu_view_group_info">Qrup məlumatı</string>
-    <string name="message_cannot_send_air_mode">"Mesaj göndərmək olmur.
-Əvvəlcə Təyyarə rejimini söndürün."</string>
-    <string name="message_cannot_send_sim_unavailable">"Mesaj göndərmək olmur. 
-SIM kartınızı yoxlayın."</string>
+    <string name="message_cannot_send_air_mode">Mesajlar göndərmək üçün Təyyarə rejimini söndür</string>
+    <string name="message_cannot_send_sim_unavailable">Mesajlar göndərmək üçün SIM kart daxil et</string>
     <string name="message_class_label">"Mesaj sinifi: "</string>
     <string name="message_contact">Kontakt:</string>
     <string name="message_details_title">Mesaj detalları</string>
@@ -661,7 +658,7 @@ Mi Mesajı aktivləşdirmək üçün gedən SMS mesajı tələb olunur. Bu mesaj
     <string name="networking_allow_desc">Mi Mesajın normal işləməsi üçün internetə qoşulmaq lazımdır. Pulsuz mətn və səs xidmətləri təmin etmək, naməlum nömrələri tanımaq, spam mesajları filtrləmək və digər xüsusiyyətləri təmin etmək üçün, Mi Mesajın Sarı səhifələri istifadə etməsi lazımdır. Sarı səhifələrə internetə qoşulma, məkan məlumatınızı alma və kontaktlarınızı oxuma icazəsi verilsin?</string>
     <string name="networking_allow_desc_without_mx">Mi Mesajın normal işləməsi üçün internetə qoşulmaq lazımdır. Naməlum nömrələri tanımaq, spam mesajları filtrləmək və digər xüsusiyyətləri təmin etmək üçün, Mi Mesajın Sarı səhifələri istifadə etməsi lazımdır. Sarı səhifələrə internetə qoşulma, məkan məlumatınızı alma və kontaktlarınızı oxuma icazəsi verilsin?</string>
     <string name="networking_allow_title">Diqqət</string>
-    <string name="new_message">Yarat</string>
+    <string name="new_message">Yeni mesaj</string>
     <string name="new_message_arrived">Oxunmamış</string>
     <string name="new_phrase">Cavab əlavə et</string>
     <string name="new_phrase_hint">Yeni cavab daxil edin</string>
@@ -740,7 +737,7 @@ Mi Mesajı aktivləşdirmək üçün gedən SMS mesajı tələb olunur. Bu mesaj
     <string name="pref_hide_verification_code_summary">Təhlükəsiz kilid ekranında, mesaj bildirişlərində gələn birdəfəlik şifrələri avtomatik gizlət</string>
     <string name="pref_messages_to_save">Yaddaşda saxlanılacaq mesaj sayını təyin edin</string>
     <string name="pref_mms_settings_title">Multimedia (MMS) mesajları</string>
-    <string name="pref_msg_trash_bin_title">Silinmiş mesajlar</string>
+    <string name="pref_msg_trash_bin_title">Son silinən elementlər</string>
     <string name="pref_notification_settings_title">Bildirişlər</string>
     <string name="pref_other_title">Əlavə tənzimləmələr</string>
     <string name="pref_rcs_show_report_message">Çatdırılma hesabatları alın</string>
@@ -936,7 +933,7 @@ Tövsiyə olunan söhbət robotlarını yoxlayın!"</string>
     <string name="rcs_hello_from_pc">Faylları köçürmək üçün kompüterinizdə Fetion-a daxil olun.</string>
     <string name="rcs_list_bottom_loading">Bir saniyə…</string>
     <string name="rcs_list_bottom_search">Axtarılır…</string>
-    <string name="rcs_main_purpose">Siz bu xidmətdən şəkillər, səsli mesajlar, videolar və s. göndərmək və qəbul etmək üçün istifadə edə bilərsiniz.</string>
+    <string name="rcs_main_purpose">Bu xidmətdən şəkillər, səsli mesajlar, videolar və daha çox göndərmək və qəbul etmək üçün istifadə edə bilərsiniz. Xidmət məkana giriş tələb edir.</string>
     <string name="rcs_message">5G mesajları</string>
     <string name="rcs_message_disable">Bu mesaj İkinci sahədə göstərilə bilmir</string>
     <string name="rcs_message_title">5G Mesajlaşma</string>
@@ -1029,10 +1026,10 @@ Tövsiyə olunan söhbət robotlarını yoxlayın!"</string>
     <string name="recommend_tip_4">Mi Mesaj, etibarlı satıcıların adlarını və profil şəkillərini görməyə imkan verən göndərən kimliyini avtomatik olaraq tanıya bilər.</string>
     <string name="recommend_tip_5">Ağıllı göndərən kimliyi tanıma, gələnlər qutunuzu təmizləyir və etibarlı göndəriciləri müəyyənləşdirməyə kömək edir.</string>
     <string name="recommend_tip_6">Yulore şirkətinin texniki dəstəyi ilə yuxarıdakı xidmətlər təmin edilir.</string>
-    <string name="recommend_tip_7">Mi Mesaj-ı istifadə etməzdən əvvəl, <font color="#B3000000"><a href="http://url1">İstifadəçi Sazişi</a></font> və <font color="#B3000000"><a href="http://url2">Gizlilik Siyasəti</a></font>, həmçinin <font color="#B3000000"><a href="http://url3">Yulore Gizlilik Siyasəti</a></font> sazişlərimizi oxuyun və qəbul edin.</string>
-    <string name="recommend_tip_8">Mi Mesaj tərəfindən təmin edilən ödənişsiz internet mesajlaşması istifadə etməzdən əvvəl, <font color="#B3000000"><a href="http://url1">İstifadəçi Sazişi</a></font> və <font color="#B3000000"><a href="http://url2">Gizlilik Siyasəti</a></font>, həmçinin <font color="#B3000000"><a href="http://url3">Yulore Gizlilik Siyasəti</a></font> sazişlərimizi oxuyun və qəbul edin.</string>
-    <string name="recommend_tip_9">Ağıllı göndərən kimlik tanıması istifadə etməzdən əvvəl, <font color="#B3000000"><a href="http://url1">İstifadəçi Sazişi</a></font> və <font color="#B3000000"><a href="http://url2">Gizlilik Siyasəti</a></font>, həmçinin <font color="#B3000000"><a href="http://url3">Yulore Gizlilik Siyasəti</a></font> sazişlərimizi oxuyun və qəbul edin.</string>
-    <string name="recommend_tip_9_2">Xidmətlərimizi istifadə etməzdən əvvəl <font color="#B3000000"><a href="http://url1">İstifadəçi Sazişi</a></font> və <font color="#B3000000"><a href="http://url2">Gizlilik Siyasəti</a></font> sazişlərimizi oxuyun və qəbul edin.</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">Təklif etdiyimiz bütün təhlükəsizlik üstünlüklərini əldə etmək üçün Xiaomi Mesajlaşma-nı standart mesajlaşma tətbiqiniz kimi təyin edin</string>
     <string name="recommend_tip_other">Digər mesajlaşma tətbiqlərinə baxın</string>
     <string name="recommend_tip_smart">Gizliliyin qorunması. Ağıllı tanınma.</string>

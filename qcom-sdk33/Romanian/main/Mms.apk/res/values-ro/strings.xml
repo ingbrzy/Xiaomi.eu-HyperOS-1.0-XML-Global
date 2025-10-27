@@ -89,7 +89,6 @@ la lista neagră"</string>
     <string name="attach_take_photo">Faceți o fotografie</string>
     <string name="attach_video">Video</string>
     <string name="attach_video_call">Apel video</string>
-    <string name="attachment_panel_show_part">Pagina %1$d</string>
     <string name="audio_download_failed">Nu se poate descărca audio</string>
     <string name="audio_message_expired">Acest mesaj vocal a expirat.</string>
     <string name="audio_message_mx_offline">Nu s-a putut descărca audio. Mi Mesaj este deconectat sau nu este disponibil.</string>
@@ -378,9 +377,9 @@ Vă rugăm să rețineți că funcționalitatea de mesagerie pe internet este ac
     <string name="fcm_fallback_notification_channel_label">Diverse</string>
     <string name="fdn_check_failure">Puteți trimite numai mesaje către numerele de apelare fixă.</string>
     <string name="feature_mx">Mesaje Mi</string>
-    <string name="feature_mx_summary"><b>Mi Mesaje vă permite să trimiteți mesaje către alți utilizatori Mi Mesaje pe internet gratis</b>. Pentru a activa acest serviciu este necesar un mesaj de ieșire SMS. Operatorul dvs. vă va percepe taxa pentru acest mesaj. Citește și acceptă <font color="#B3000000"><a href="http://url1">Acordul utilizatorului</a></font> și <font color="#B3000000"><a href="http://url2">politica de confidențialitate</a></font> înainte de a utiliza această funcție.</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">Mesaje inteligente</string>
-    <string name="feature_smart_sms_summary"><b>Mesaje Inteligente oferă recunoașterea ID-ului expeditorului și meniuri inteligente</b>. Mesaje Inteligente este furnizat de Yulore. Citește și acceptați <font color="#B3000000"><a href="http://url3">Politica de confidențialitate</a></font> a Yulore înainte de a utiliza această funcție.</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">Se încarcă…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Creat:</string>
@@ -458,7 +457,7 @@ Vă rugăm să rețineți că funcționalitatea de mesagerie pe internet este ac
     <string name="from_pkg_name">De la aplicația:</string>
     <string name="ft_cfs_dialog_content">Fișierele nu au putut fi livrate cu ajutorul RCS. Trimiteți un link într-un mesaj text?</string>
     <string name="ft_cfs_dialog_title">Transfer alternativ de fișiere</string>
-    <string name="google_message_promo_content">Xiaomi vă recomandă actualizarea la Mesaje de la Google. Instalați-vă acum pentru a obține fotografii de înaltă calitate, chat pe Wi-Fi și multe altele. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Aflați mai multe</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">Actualizează aplicația de mesagerie</string>
     <string name="group_already_kicked_hint">Nu se poate trimite mesaje. Nu sunteți membru al acestui grup de chat.</string>
     <string name="group_member_is_composing">Scrie…</string>
@@ -538,10 +537,8 @@ Vă rugăm să rețineți că funcționalitatea de mesagerie pe internet este ac
     <string name="menu_unlock">Elimină de la favorite</string>
     <string name="menu_view_contact">Vizualizează contactul</string>
     <string name="menu_view_group_info">Informații grup</string>
-    <string name="message_cannot_send_air_mode">"Nu se pot trimite mesaje.
-Dezactivați mai întâi Modul Avion."</string>
-    <string name="message_cannot_send_sim_unavailable">"Nu se poate trimite mesaje.
-Verificați cartela SIM."</string>
+    <string name="message_cannot_send_air_mode">Dezactivați Mod avion pentru a trimite mesaje</string>
+    <string name="message_cannot_send_sim_unavailable">Introduceți cartela SIM pentru a trimite mesaje</string>
     <string name="message_class_label">"Clasă mesaj: "</string>
     <string name="message_contact">Contact:</string>
     <string name="message_details_title">Detalii mesaje</string>
@@ -732,7 +729,7 @@ Pentru a activa mesajul Mi este necesar un mesaj de ieșire SMS. Operatorul dvs.
     <string name="networking_allow_desc">Mesaje Mi trebuie să se conecteze la internet pentru a funcționa normal. Pentru a oferi servicii gratuite de text și voce, recunoașterea numerelor necunoscute, filtrarea mesajelor spam și activarea altor funcții, Mesaje Mi trebuie să utilizeze pagini galbene. Permiteți paginilor galbene să se conecteze la internet, să obțină informații despre locație și să citească contactele dvs?</string>
     <string name="networking_allow_desc_without_mx">Mesaje Mi trebuie să se conecteze la internet pentru a funcționa normal. Pentru a recunoaște numerele necunoscute, a filtra spamul și a activa alte funcții, Mesaje Mi trebuie să folosească pagini galbene. Permiteți paginilor galbene să se conecteze la internet, să obțină informații despre locație și să citească contactele dvs?</string>
     <string name="networking_allow_title">Atenție</string>
-    <string name="new_message">Compune</string>
+    <string name="new_message">Mesaj nou</string>
     <string name="new_message_arrived">Necitite</string>
     <string name="new_phrase">Adăugați un răspuns</string>
     <string name="new_phrase_hint">Introduceți un răspuns nou</string>
@@ -812,7 +809,7 @@ Pentru a activa mesajul Mi este necesar un mesaj de ieșire SMS. Operatorul dvs.
     <string name="pref_hide_verification_code_summary">Ascunde automat parolele unice în mesajele de notificări pe Ecranul Blocat securizat</string>
     <string name="pref_messages_to_save">Setați numărul de mesaje pentru a le salva</string>
     <string name="pref_mms_settings_title">Mesaje multimedia (MMS)</string>
-    <string name="pref_msg_trash_bin_title">Mesaje șterse</string>
+    <string name="pref_msg_trash_bin_title">Elemente șterse recent</string>
     <string name="pref_notification_settings_title">Notificări</string>
     <string name="pref_other_title">Setări suplimentare</string>
     <string name="pref_rcs_show_report_message">Primește rapoarte de livrare</string>
@@ -1000,7 +997,7 @@ Urmărește chatbot-urile recomandate!"</string>
     <string name="rcs_conversation_rcs_tip">[Chatbot] %s</string>
     <string name="rcs_create_new_group">Creați grup chat</string>
     <string name="rcs_dspt">Trimiterea și primirea mesajelor utilizând rețeaua WLAN sau mobilă</string>
-    <string name="rcs_dspt_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_dspt_unavailable">Funcțiile legate de mesageria 5G nu sunt acceptate din cauza restricțiilor operatorului</string>
     <string name="rcs_file_link_as_sms">Vizitați %s pentru a vizualiza fișierul RCS trimis ție.</string>
     <string name="rcs_forward_faild">Nu s-a putut redirecționa</string>
     <string name="rcs_forward_successful">Redirecționat cu succes</string>
@@ -1009,7 +1006,7 @@ Urmărește chatbot-urile recomandate!"</string>
     <string name="rcs_hello_from_pc">Conectați-vă la Fetion de pe computer pentru a transfera fișiere.</string>
     <string name="rcs_list_bottom_loading">Doar o secundă…</string>
     <string name="rcs_list_bottom_search">Se caută…</string>
-    <string name="rcs_main_purpose">Puteți utiliza acest serviciu pentru a trimite și primi fotografii, mesaje vocale, videoclipuri și multe altele.</string>
+    <string name="rcs_main_purpose">Puteți utiliza acest serviciu pentru a trimite și primi fotografii, mesaje vocale, videoclipuri și multe altele. Acest serviciu necesită acces la locație.</string>
     <string name="rcs_message">Mesaje 5G</string>
     <string name="rcs_message_disable">Nu puteți vizualiza acest mesaj în Al doilea spațiu</string>
     <string name="rcs_message_title">Mesaje 5G</string>
@@ -1059,7 +1056,7 @@ Urmărește chatbot-urile recomandate!"</string>
     <string name="rcs_summary_auto_resend_mms">Convertește mesajele multimedia 5G la MMS după ce mesajul original nu s-a putut trimite. Operatorul dvs. vă va percepe taxa pentru acest mesaj.</string>
     <string name="rcs_summary_auto_resend_sms">Convertește mesajele text 5G la SMS după ce mesajul original nu s-a putut trimite. Operatorul dvs. vă va percepe taxa pentru acest mesaj.</string>
     <string name="rcs_summary_silence_message">Reduceți la tăcere notificările de la meaje când desktop-ul pentru client funcționează</string>
-    <string name="rcs_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_unavailable">Funcțiile legate de mesageria 5G nu sunt acceptate din cauza restricțiilor operatorului</string>
     <string name="rcs_up_not_online">Mesaje 5G este offline. Verificați setările rețelei și încercați din nou.</string>
     <string name="rcs_wait_for_retry_text">Se așteaptă…</string>
     <string name="received_at_time">Primit la: %1s</string>
@@ -1102,10 +1099,10 @@ Urmărește chatbot-urile recomandate!"</string>
     <string name="recommend_tip_4">Mesaje Mi poate recunoaște automat ID-ul expeditorului, permițându-vă să vedeți numele și imaginile de profil ale furnizorilor de încredere.</string>
     <string name="recommend_tip_5">Recunoașterea inteligentă a ID-ului expeditorului vă face mai ușoară căsuța de intrare și vă ajută să identificați expeditori de încredere.</string>
     <string name="recommend_tip_6">Serviciile de mai sus sunt furnizate cu suport tehnic de la Yulore.</string>
-    <string name="recommend_tip_7">Citește și acceptă <font color="#B3000000"><a href="http://url1">Acordul utilizatorului</a></font> și <font color="#B3000000"><a href="http://url2">Politica de confidențialitate</a></font>, precum și <font color="#B3000000"><a href="http://url3">Politica de confidențialitate Yulore</a></font> înainte de a utiliza Mesaje Mi.</string>
-    <string name="recommend_tip_8">Citește și acceptă <font color="#B3000000"><a href="http://url1">Acordul utilizatorului</a></font> și <font color="#B3000000"><a href="http://url2">Politica de confidențialitate</a></font>, precum și <font color="#B3000000"><a href="http://url3">Politica de confidențialitate Yulore</a></font> înainte de a utiliza mesageria gratuită pe internet oferită de Mesaje Mi.</string>
-    <string name="recommend_tip_9">Citește și acceptă <font color="#B3000000"><a href="http://url1">Acordul utilizatorului</a></font> și <font color="#B3000000"><a href="http://url2">Politica de confidențialitate</a></font>, precum și <font color="#B3000000"><a href="http://url3">Politica de confidențialitate Yulore</a></font> înainte de a utiliza Recunoaștere inteligentă a ID-ului expeditorului.</string>
-    <string name="recommend_tip_9_2">Citește și acceptă <font color="#B3000000"><a href="http://url1">Acordul utilizatorului</a></font> și <font color="#B3000000"><a href="http://url2">Politica de confidențialitate</a></font> înainte de a utiliza serviciile noastre.</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">Setați Mesaje Xiaomi ca aplicație implicită de mesagerie pentru a obține toate beneficiile de securitate pe care le oferim</string>
     <string name="recommend_tip_other">Vizualizați alte aplicații de mesagerie</string>
     <string name="recommend_tip_smart">Protecție confidențialitate. Recunoaștere inteligentă.</string>
@@ -1337,7 +1334,7 @@ Urmărește chatbot-urile recomandate!"</string>
 Dacă nu sunteți de acord să acordați astfel de permisiuni sau să împărtășiți și să încărcați informațiile personale, nu veți putea utiliza această aplicație."</string>
     <string name="system_permission_declare_privacy_declare">%1s trebuie să colecteze datele dvs. și necesită următoarele permisiuni pentru a funcționa normal:</string>
     <string name="system_permission_declare_privacy_declare_new">Această aplicație trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a putea funcționa normal:</string>
-    <string name="system_permission_declare_privacy_link">To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our %1s.</string>
+    <string name="system_permission_declare_privacy_link">Pentru a înțelege pe deplin drepturile dumneavoastră ca utilizator, precum și modalitățile în care utilizăm datele dumneavoastră, citiți și acceptați %1s.</string>
     <string name="system_permission_declare_revoke_path">Puteți revoca autorizația și opri serviciile în setările de mesagerie.</string>
     <string name="system_permission_declare_single_link">Ați citit și ați fost de acord cu %1s înainte de a utiliza această funcție.</string>
     <string name="system_permission_declare_triple_link" formatted="false">Ați citit și ați fost de acord cu %1s, %2s și %3s înainte de a utiliza aceste funcții.</string>
@@ -1483,7 +1480,7 @@ Dacă nu sunteți de acord să acordați astfel de permisiuni sau să împărtă
     <string name="voice_report_off">Oprit</string>
     <string name="voice_report_wiredon">Cu căști</string>
     <string name="wap_push_title">"[WAP Push] "</string>
-    <string name="warning_show">Trimite în %ds</string>
+    <string name="warning_show">Trimite în %d s</string>
     <string name="web_content_invalid_hint">Afișarea acestui element este restricționat de legile și reglementările locale</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>

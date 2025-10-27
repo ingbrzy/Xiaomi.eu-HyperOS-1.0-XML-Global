@@ -89,7 +89,6 @@ tartalmú üzenetek a tiltólistára kerültek"</string>
     <string name="attach_take_photo">Kép rögzítése</string>
     <string name="attach_video">Videók</string>
     <string name="attach_video_call">Videohívás</string>
-    <string name="attachment_panel_show_part">%1$d. oldal</string>
     <string name="audio_download_failed">hang letöltése sikertelen</string>
     <string name="audio_message_expired">A hangüzenet lejárt.</string>
     <string name="audio_message_mx_offline">Hang letöltése sikertelen. Nincs hálózati kapcsolat vagy a Mi Üzenet nem elérhető.</string>
@@ -378,9 +377,9 @@ Felhívjuk a figyelmét, hogy az internetes üzenetküldő funkció további ér
     <string name="fcm_fallback_notification_channel_label">Egyéb</string>
     <string name="fdn_check_failure">Csak a fix hívószámokra tud üzeneteket küldeni.</string>
     <string name="feature_mx">Mi Üzenet</string>
-    <string name="feature_mx_summary"><b>A Mi Üzenet használatval az interneten keresztül, díjmentesen küldhet üzenetet más Mi Üzenet felhasználóknak</b>. A szolgáltatás aktiválásához egy üzenet küldésére van szükség. Szolgáltatója ezért díjat számít fel Önnek. A funkció használata előtt olvassa el és fogadja el <font color="#B3000000"><a href="http://url1">Felhasználói megállapodásunkat</a></font> és <font color="#B3000000"><a href="http://url2">Adatvédelmi irányelvünket</a></font>.</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">Okos Üzenetváltás</string>
-    <string name="feature_smart_sms_summary"><b>Az Okos Üzenetváltás megadja a feladó azonosítóját és okos menüket kínál Önnek</b>. Az Okos Üzenetváltást a Yulore biztosítja. A funkció használata előtt olvassa el és fogadja el a Yulore <font color="#B3000000"><a href="http://url3">Adatvédelmi szabályzatát</a></font>.</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">Betöltés…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Létrehozva:</string>
@@ -458,7 +457,7 @@ Felhívjuk a figyelmét, hogy az internetes üzenetküldő funkció további ér
     <string name="from_pkg_name">Ebből az alkalmazásból:</string>
     <string name="ft_cfs_dialog_content">A fájlokat nem lehetett kézbesíteni az RCS segítségével. Link küldése a szöveges üzenet helyett?</string>
     <string name="ft_cfs_dialog_title">Alternatív fájlküldés</string>
-    <string name="google_message_promo_content">A Xiaomi javasolja, hogy frissítse a Google Üzenetek verzióját. Telepítse most, hogy kiváló minőségű fotómegosztáshoz, Wi-Fi-s csevegéshez és még sok egyébhez jusson hozzá.<font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Bővebben</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">Frissítse üzenetváltó alkalmazását</string>
     <string name="group_already_kicked_hint">Nem küldhet üzenet. Ön nem tagja ennek a csoportos csevegésnek.</string>
     <string name="group_member_is_composing">Beírás…</string>
@@ -538,10 +537,8 @@ Felhívjuk a figyelmét, hogy az internetes üzenetküldő funkció további ér
     <string name="menu_unlock">Eltávolítás a kedvencekből</string>
     <string name="menu_view_contact">Névjegy megtekintése</string>
     <string name="menu_view_group_info">Csoportinformáció</string>
-    <string name="message_cannot_send_air_mode">"Nem lehet üzeneteket küldeni.
-Először kapcsold ki a Repülőgépes üzemmódot."</string>
-    <string name="message_cannot_send_sim_unavailable">"Nem lehet üzeneteket küldeni.
-Ellenőrizd a SIM-kártyádat."</string>
+    <string name="message_cannot_send_air_mode">Üzenet küldéséhez kapcsolja ki a Repülőgép módot</string>
+    <string name="message_cannot_send_sim_unavailable">Üzenet küldéséhez helyezzen be egy SIM-kártyát</string>
     <string name="message_class_label">"Üzenet osztálya: "</string>
     <string name="message_contact">Névjegy:</string>
     <string name="message_details_title">Üzenet részletei</string>
@@ -812,7 +809,7 @@ Egyetlen kimenő SMS-üzenet indítása szükséges a Mi Üzenet aktiválásáho
     <string name="pref_hide_verification_code_summary">Automatikusan rejtse el az egyszer használatos jelszavakat a Zárolási képernyőn megjelenő üzenetértesítésekben</string>
     <string name="pref_messages_to_save">A menteni kívánt üzenetek számának beállítása</string>
     <string name="pref_mms_settings_title">Multimédiás üzenetek (MMS)</string>
-    <string name="pref_msg_trash_bin_title">Törölt üzenetek</string>
+    <string name="pref_msg_trash_bin_title">Nemrég törölt elemek</string>
     <string name="pref_notification_settings_title">Értesítések</string>
     <string name="pref_other_title">Egyéb</string>
     <string name="pref_rcs_show_report_message">Küldési jelentések fogadása</string>
@@ -1009,7 +1006,7 @@ Tekintse meg az ajánlott chatbotokat!"</string>
     <string name="rcs_hello_from_pc">Fájlok átviteléhez jelentkezz be a Fetionba a számítógépeden.</string>
     <string name="rcs_list_bottom_loading">Egy pillanat…</string>
     <string name="rcs_list_bottom_search">Keresés…</string>
-    <string name="rcs_main_purpose">Ezzel a szolgáltatással fényképeket, hangüzeneteket, videókat és egyebeket küldhet és fogadhat.</string>
+    <string name="rcs_main_purpose">Ezzel a szolgáltatással például fényképeket, hangüzeneteket és videókat küldhet és fogadhat. A szolgáltatás helymeghatározási hozzáférést igényel.</string>
     <string name="rcs_message">5G messages</string>
     <string name="rcs_message_disable">Az üzenet nem tekinthető meg Második helyen</string>
     <string name="rcs_message_title">5G Messaging</string>
@@ -1102,10 +1099,10 @@ Tekintse meg az ajánlott chatbotokat!"</string>
     <string name="recommend_tip_4">A Mi Üzenet automatikusan felismeri a feladó azonosítóját, így megtekintheti a megbízható szolgáltatók nevét és profilképét.</string>
     <string name="recommend_tip_5">Az intelligens küldőazonosító felismerés átláthatóbbá teszi a beérkező leveleket, és segít azonosítani a megbízható küldőket.</string>
     <string name="recommend_tip_6">A fenti szolgáltatásokhoz technikai támogatás jár a Yulore-tól.</string>
-    <string name="recommend_tip_7">Olvassa el és fogadja el a <font color="#B3000000"><a href="http://url1">Felhasználói megállapodásunkat</a></font> és az <font color="#B3000000"><a href="http://url2">Adatvédelmi irányelveinket</a></font>, valamint a <font color="#B3000000"><a href="http://url3">Yulore Adatvédelmi irányelveit </a></font> a Mi Üzenet használata előtt.</string>
-    <string name="recommend_tip_8">Olvassa el és fogadja el a <font color="#B3000000"><a href="http://url1">Felhasználói megállapodásunkat</a></font> és az <font color="#B3000000"><a href="http://url2">Adatvédelmi irányelveinket</a></font>, valamint a <font color="#B3000000"><a href="http://url3">Yulore Adatvédelmi irányelveit </a></font> a Mi Üzenet által biztosított ingyenes internetes üzenetküldés használata előtt.</string>
-    <string name="recommend_tip_9">Olvassa el és fogadja el a <font color="#B3000000"><a href="http://url1">Felhasználói megállapodásunkat</a></font> és az <font color="#B3000000"><a href="http://url2">Adatvédelmi irányelveinket</a></font>, valamint a <font color="#B3000000"><a href="http://url3">Yulore Adatvédelmi irányelveit </a></font> a az intelligens küldőazonosító felismerés használata előtt.</string>
-    <string name="recommend_tip_9_2">Olvassa el és fogadja el a <font color="#B3000000"><a href="http://url1">Felhasználói szerződésünket</a></font> és az <font color="#B3000000"><a href="http://url2">Adatvédelmi irányelveinket</a></font> a szolgáltatásaink használata előtt.</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">Állítsa be a Xiaomi Messaging-alkalmazást alapértelmezett üzenetküldő alkalmazásként, hogy minden biztonsági előnyt használni tudjon</string>
     <string name="recommend_tip_other">Más üzenetküldő alkalmazások megtekintése</string>
     <string name="recommend_tip_smart">Adatvédelem. Okos felismerés.</string>

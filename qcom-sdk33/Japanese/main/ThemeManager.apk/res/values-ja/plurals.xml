@@ -37,12 +37,12 @@
         <item quantity="other">%d件のタスクが正常に削除されました</item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
-        <item quantity="other">%d 秒早送り</item>
         <item quantity="one">%d 秒早送り</item>
+        <item quantity="other">%d 秒早送り</item>
     </plurals>
     <plurals name="exo_controls_rewind_by_amount_description">
-        <item quantity="other">%d 秒巻き戻し</item>
         <item quantity="one">%d 秒巻き戻し</item>
+        <item quantity="other">%d 秒巻き戻し</item>
     </plurals>
     <plurals name="health_chart_calories_burned_schedule_format_desc">
         <item quantity="other">消費カロリー %1$s カロリー</item>
@@ -99,8 +99,8 @@
         <item quantity="other">%d個を選択済み</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d 件の新しい通知</item>
         <item quantity="one">%d 件の新しい通知</item>
+        <item quantity="other">%d 件の新しい通知</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d分前</item>

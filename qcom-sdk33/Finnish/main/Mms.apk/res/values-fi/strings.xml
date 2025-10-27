@@ -89,7 +89,6 @@ on lisätty estolistalle"</string>
     <string name="attach_take_photo">Ota kuva</string>
     <string name="attach_video">Video</string>
     <string name="attach_video_call">Videopuhelu</string>
-    <string name="attachment_panel_show_part">Sivu %1$d</string>
     <string name="audio_download_failed">Ääntä ei voitu ladata</string>
     <string name="audio_message_expired">Tämä ääniviesti on vanhentunut.</string>
     <string name="audio_message_mx_offline">Ääntä ei voitu ladata. Mi Viestit ei ole päällä tai se ei ole saatavilla.</string>
@@ -378,9 +377,9 @@ Huomaa, että Internet-viestintä on nyt keskeytetty toistaiseksi. Tämä ei mil
     <string name="fcm_fallback_notification_channel_label">Muut</string>
     <string name="fdn_check_failure">Voit lähettää viestejä vain kiinteisiin numeroihisi.</string>
     <string name="feature_mx">Mi Viestit</string>
-    <string name="feature_mx_summary"><b>Mi Viestin avulla voit lähettää viestejä muille Mi Viestin käyttäjille Internetin välityksellä kuluitta</b>. Palvelun aktivoimiseksi tarvitaan lähtevä tekstiviesti. Operaattorisi laskuttaa sinua tästä viestistä. Lue ja hyväksy meidän <font color="#B3000000"><a href="http://url1">Käyttäjäsopimus</a></font> ja <font color="#B3000000"><a href="http://url2">Tietosuojakäytäntö</a></font> ennen tämän ominaisuuden käyttöä.</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">Älykäs viestintä</string>
-    <string name="feature_smart_sms_summary"><b>Älykäs viestintä tarjoaa lähettäjän tunnistuksen ja älykkäät valikot</b>. Älykkään viestinnän tarjoaa osittain Yulore. Lue ja hyväksy Yuloren <font color="#B3000000"><a href="http://url3">Tietosuojakäytäntö</a></font> ennen tämän ominaisuuden käyttöä.</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">Ladataan…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Luotu:</string>
@@ -458,7 +457,7 @@ Huomaa, että Internet-viestintä on nyt keskeytetty toistaiseksi. Tämä ei mil
     <string name="from_pkg_name">Sovelluksesta:</string>
     <string name="ft_cfs_dialog_content">Tiedostoja ei voitu toimittaa kohteen RCS avulla. Lähetetäänkö linkki tekstiviestitse sen sijaan?</string>
     <string name="ft_cfs_dialog_title">Vaihtoehtoinen tiedostonsiirto</string>
-    <string name="google_message_promo_content">Xiaomi suosittelee, että Google päivittää Viestit. Asenna nyt saadaksesi korkealaatuisen valokuvien jakamisen, keskustelut Wi-Fi-tilassa ja paljon muuta. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Tutustu lisää</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">Päivitä viestisovellus</string>
     <string name="group_already_kicked_hint">Viestiä ei voitu lähettää. Et ole tämän ryhmäkeskustelun jäsen.</string>
     <string name="group_member_is_composing">Kirjoitetaan…</string>
@@ -538,10 +537,8 @@ Huomaa, että Internet-viestintä on nyt keskeytetty toistaiseksi. Tämä ei mil
     <string name="menu_unlock">Poista suosikeista</string>
     <string name="menu_view_contact">Näytä yhteystiedot</string>
     <string name="menu_view_group_info">Ryhmän tiedot</string>
-    <string name="message_cannot_send_air_mode">"Viestejä ei voi lähettää.
-Sammuta ensin lentokonetila."</string>
-    <string name="message_cannot_send_sim_unavailable">"Viestejä ei voi lähettää.
-Tarkista SIM-korttisi."</string>
+    <string name="message_cannot_send_air_mode">Poista lentokonetila käytöstä lähettääksesi viestejä</string>
+    <string name="message_cannot_send_sim_unavailable">Aseta SIM-kortti viestien lähettämiseksi</string>
     <string name="message_class_label">"Viestin luokka: "</string>
     <string name="message_contact">Yhteystieto:</string>
     <string name="message_details_title">Viestin tiedot</string>
@@ -732,7 +729,7 @@ Lähtevä tekstiviesti saatetaan vaatia kohteen Mi Message uudelleenaktivointia 
     <string name="networking_allow_desc">Mi Viestien on muodostettava yhteys internettiin, jotta se toimisi normaalisti. Jotta voisimme tarjota ilmaisia teksti- ja puhepalveluja, tunnistaa tuntemattomia numeroita, suodattaa roskasisältöä ja ottaa käyttöön muita ominaisuuksia, Mi Viestien on käytettävä hakemistoa. Sallitaanko hakemiston muodostaa yhteys internettiin, saada sijaintitiedot ja lukea yhteystietosi?</string>
     <string name="networking_allow_desc_without_mx">Mi Viestien on muodostettava yhteys internettiin, jotta se toimisi normaalisti. Jotta voisimme tunnistaa tuntemattomia numeroita, suodattaa roskasisältöä ja ottaa käyttöön muita ominaisuuksia, Mi Viestien on käytettävä hakemistoa. Sallitaanko hakemiston muodostaa yhteys internettiin, saada sijaintitiedot ja lukea yhteystietosi?</string>
     <string name="networking_allow_title">Huomio</string>
-    <string name="new_message">Koota</string>
+    <string name="new_message">Uusi viesti</string>
     <string name="new_message_arrived">Lukematon</string>
     <string name="new_phrase">Lisää vastaus</string>
     <string name="new_phrase_hint">Syötä uusi vastaus</string>
@@ -799,7 +796,7 @@ Lähtevä tekstiviesti saatetaan vaatia kohteen Mi Message uudelleenaktivointia 
     <string name="play">Soita</string>
     <string name="playing_failed">Ei voida toistaa</string>
     <string name="pm">ip.</string>
-    <string name="pnr">PNR</string>
+    <string name="pnr">Matkustajarekisteri</string>
     <string name="pref_advanced_settings_title">Lisäasetukset</string>
     <string name="pref_allow_network_access_summary">Saat uusimmat tiedot toimituksesta ja muista palveluista</string>
     <string name="pref_cell_broadcast">Hätätiedotteet</string>
@@ -812,7 +809,7 @@ Lähtevä tekstiviesti saatetaan vaatia kohteen Mi Message uudelleenaktivointia 
     <string name="pref_hide_verification_code_summary">Piilota automaattisesti kertakäyttösalasanat viesti-ilmoituksista suojatulla lukitusnäytöllä</string>
     <string name="pref_messages_to_save">Aseta tallennettavien viestien määrä</string>
     <string name="pref_mms_settings_title">Multimediaviestit (MMS)</string>
-    <string name="pref_msg_trash_bin_title">Poistetut viestit</string>
+    <string name="pref_msg_trash_bin_title">Äskettäin poistetut kohteet</string>
     <string name="pref_notification_settings_title">Ilmoitukset</string>
     <string name="pref_other_title">Lisäasetukset</string>
     <string name="pref_rcs_show_report_message">Vastaanota toimitusraportteja</string>
@@ -1000,7 +997,7 @@ Katso suositellut chatbotit!"</string>
     <string name="rcs_conversation_rcs_tip">[Chatbot] %s</string>
     <string name="rcs_create_new_group">Luo ryhmäkeskustelu</string>
     <string name="rcs_dspt">Lähetä ja vastaanota viestejä WLAN- tai mobiiliverkon kautta</string>
-    <string name="rcs_dspt_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_dspt_unavailable">5G-viestintäominaisuuksia ei tueta operaattorirajoitusten vuoksi.</string>
     <string name="rcs_file_link_as_sms">Käy kohteessa %s tarkastellaksesi sinulle lähetettyä RCS-tiedostoa.</string>
     <string name="rcs_forward_faild">Ei voi siirtää</string>
     <string name="rcs_forward_successful">Siirretty onnistuneesti</string>
@@ -1009,7 +1006,7 @@ Katso suositellut chatbotit!"</string>
     <string name="rcs_hello_from_pc">Siirrä tiedostoja kirjautumalla sisään Fetioniin tietokoneellasi.</string>
     <string name="rcs_list_bottom_loading">Hetki vain…</string>
     <string name="rcs_list_bottom_search">Etsitään…</string>
-    <string name="rcs_main_purpose">Tämän palvelun avulla voit lähettää ja vastaanottaa valokuvia, ääniviestejä, videoita ja paljon muuta.</string>
+    <string name="rcs_main_purpose">Tämän palvelun avulla voit lähettää ja vastaanottaa valokuvia, ääniviestejä, videoita ja paljon muuta. Tämä palvelu vaatii pääsyn sijaintiin.</string>
     <string name="rcs_message">5G-viestit</string>
     <string name="rcs_message_disable">Viestiä ei voida katsoa Toisessa tilassa</string>
     <string name="rcs_message_title">5G-viestintä</string>
@@ -1059,7 +1056,7 @@ Katso suositellut chatbotit!"</string>
     <string name="rcs_summary_auto_resend_mms">Muunna 5G-multimediaviestit MMS-viesteiksi, kun alkuperäistä viestiä ei voitu lähettää. Operaattorisi laskuttaa sinua tästä viestistä.</string>
     <string name="rcs_summary_auto_resend_sms">Muunna 5G-tekstiviestit SMS-viesteiksi, kun alkuperäistä viestiä ei voitu lähettää. Operaattorisi laskuttaa sinua tästä viestistä.</string>
     <string name="rcs_summary_silence_message">Hiljennä viesti-ilmoitukset, kun työpöydän lisäosa toimii</string>
-    <string name="rcs_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_unavailable">5G-viestintäominaisuuksia ei tueta operaattorirajoitusten vuoksi.</string>
     <string name="rcs_up_not_online">5G-viestintä on offline-tilassa. Tarkista verkkoasetukset ja yritä uudelleen.</string>
     <string name="rcs_wait_for_retry_text">Odotetaan…</string>
     <string name="received_at_time">Vastaanotettu: %1s</string>
@@ -1102,10 +1099,10 @@ Katso suositellut chatbotit!"</string>
     <string name="recommend_tip_4">Mi Viesti tunnistaa lähettäjän tunnuksen automaattisesti, jolloin voit nähdä luotettujen toimijoiden nimet ja profiilikuvat.</string>
     <string name="recommend_tip_5">Älykäs lähettäjän tunnistus tekee postilaatikostasi siistimmän ja auttaa tunnistamaan luotettavat lähettäjät.</string>
     <string name="recommend_tip_6">Ylläoleville palveluille tarjotaan teknistä tukea Yuloren toimesta.</string>
-    <string name="recommend_tip_7">Lue ja hyväksy meidän <font color="#B3000000"><a href="http://url1">Käyttäjäsopimus</a></font> ja <font color="#B3000000"><a href="http://url2">Tietosuojakäytäntö</a></font> sekä <font color="#B3000000"><a href="http://url3">Yulore-tietosuojakäytäntö</a></font> ennen kuin käytät Mi Viestiä.</string>
-    <string name="recommend_tip_8">Lue ja hyväksy meidän <font color="#B3000000"><a href="http://url1">Käyttäjäsopimus</a></font> ja <font color="#B3000000"><a href="http://url2">Tietosuojakäytäntö</a></font> sekä <font color="#B3000000"><a href="http://url3">Yulore-tietosuojakäytäntö</a></font> ennen kuin käytät Mi Viestin tarjoamaa ilmaista nettiviestintää.</string>
-    <string name="recommend_tip_9">Lue ja hyväksy meidän <font color="#B3000000"><a href="http://url1">Käyttäjäsopimus</a></font> ja <font color="#B3000000"><a href="http://url2">Tietosuojakäytäntö</a></font> sekä <font color="#B3000000"><a href="http://url3">Yulore-tietosuojakäytäntö</a></font> ennen kuin käytät älykästä lähettäjän tunnistusta.</string>
-    <string name="recommend_tip_9_2">Lue ja hyväksy meidän <font color="#B3000000"><a href="http://url1">Käyttäjäsopimus</a></font> ja <font color="#B3000000"><a href="http://url2">Tietosuojakäytäntö</a></font> ennen kuin käytät meidän palveluita.</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">Aseta Xiaomi Messaging oletusviestisovellukseksi saadaksesi kaikki tarjoamamme tietoturvaedut</string>
     <string name="recommend_tip_other">Tarkastele muita viestintäsovelluksia</string>
     <string name="recommend_tip_smart">Yksityisyydensuoja. Älykäs tunnistus.</string>
