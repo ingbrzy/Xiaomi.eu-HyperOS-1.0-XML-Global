@@ -89,7 +89,6 @@
     <string name="attach_take_photo">写真を撮る</string>
     <string name="attach_video">ビデオ</string>
     <string name="attach_video_call">ビデオ通話</string>
-    <string name="attachment_panel_show_part">%1$dページ目</string>
     <string name="audio_download_failed">オーディオをダウンロードできませんでした</string>
     <string name="audio_message_expired">このボイスメッセージの有効期限が切れています。</string>
     <string name="audio_message_mx_offline">オーディオをダウンロードできませんでした。Mi メッセージはオフラインであるか、利用できません。</string>
@@ -130,7 +129,7 @@
     <string name="button_resend_message">もう一度送信する</string>
     <string name="button_unfold">展開</string>
     <string name="call_sender">送信者に発信</string>
-    <string name="can_not_send_by_rcs">5Gメッセージングを使用できません</string>
+    <string name="can_not_send_by_rcs">5G メッセージングを使用できません</string>
     <string name="can_not_view_group_chat_stranger">未登録の人の詳細は表示できません。</string>
     <string name="cancel">キャンセル</string>
     <string name="cannot_add_picture_and_video">1つのスライドにビデオと画像を追加することはできません</string>
@@ -378,9 +377,9 @@
     <string name="fcm_fallback_notification_channel_label">その他</string>
     <string name="fdn_check_failure">固定ダイヤル番号にのみメッセージを送信できます。</string>
     <string name="feature_mx">Mi メッセージ</string>
-    <string name="feature_mx_summary"><b>Mi メッセージでは、インターネットを経由して他のMi メッセージ利用者に無料でメッセージを送信できます</b>。このサービスをアクティブ化するためにはSMSメッセージの発信が必要です。これにより発生した料金は、通信事業者から請求されます。この機能を使用する前に、<font color="#B3000000"><a href="http://url1">利用規約</a></font>と<font color="#B3000000"><a href="http://url2">プライバシーポリシー</a></font>を読んで同意してください。</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">スマートメッセージング</string>
-    <string name="feature_smart_sms_summary"><b>スマートメッセージングは、送信者ID認識とスマートメニューを提供します</b>。スマートメッセージングの一部は Yulore によって提供されています。この機能を利用する前に、Yuloreの<font color="#B3000000"><a href="http://url3">プライバシーポリシー</a></font>を読んで同意してください。</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">読み込み中…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">作成した：</string>
@@ -458,7 +457,7 @@
     <string name="from_pkg_name">アプリから:</string>
     <string name="ft_cfs_dialog_content">RCSを使用してファイルを配信できませんでした。代わりにテキストメッセージでリンクを送信しますか？</string>
     <string name="ft_cfs_dialog_title">代替ファイル転送</string>
-    <string name="google_message_promo_content">Xiaomiでは、Googleのメッセージアプリの使用を推奨しています。今すぐインストールして、高品質の写真共有、Wi-Fiでのチャットなどをお楽しみください。<font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">もっと詳しく知る</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">メッセージアプリをアップグレード</string>
     <string name="group_already_kicked_hint">メッセージを送信できません。あなたはこのグループチャットのメンバーではありません。</string>
     <string name="group_member_is_composing">入力しています…</string>
@@ -538,10 +537,8 @@
     <string name="menu_unlock">お気に入りから削除</string>
     <string name="menu_view_contact">連絡先を表示</string>
     <string name="menu_view_group_info">グループ情報</string>
-    <string name="message_cannot_send_air_mode">"メッセージを送信できません。
-まず、機内モードをオフにしてください。"</string>
-    <string name="message_cannot_send_sim_unavailable">"メッセージを送信できません。
-SIMカードを確認してください。"</string>
+    <string name="message_cannot_send_air_mode">メッセージを送信するには機内モードをオフにしてください</string>
+    <string name="message_cannot_send_sim_unavailable">メッセージを送信するには SIM カードを挿入してください</string>
     <string name="message_class_label">"メッセージクラス: "</string>
     <string name="message_contact">連絡先:</string>
     <string name="message_details_title">メッセージの詳細</string>
@@ -732,7 +729,7 @@ Mi メッセージをアクティブ化するには、SMSメッセージの発�
     <string name="networking_allow_desc">Mi メッセージが正常に動作するにはインターネットへの接続が必要です。無料のテキスト・音声サービスを提供、不明な番号を識別、迷惑メールをフィルタリング、その他の機能を有効にするために、Mi メッセージはイエローページを使用する必要があります。イエローページにインターネットへの接続、位置情報の取得、及び連絡先の読み取りを許可しますか？</string>
     <string name="networking_allow_desc_without_mx">Mi メッセージが正常に動作するにはインターネットへの接続が必要です。不明な番号を識別、迷惑メールをフィルタリング、その他の機能を有効にするために、Mi メッセージはイエローページを使用する必要があります。イエローページにインターネットへの接続、位置情報の取得、及び連絡先の読み取りを許可しますか？</string>
     <string name="networking_allow_title">注意</string>
-    <string name="new_message">新規作成</string>
+    <string name="new_message">新しいメッセージ</string>
     <string name="new_message_arrived">未読</string>
     <string name="new_phrase">返信を追加</string>
     <string name="new_phrase_hint">新しい返信を入力</string>
@@ -786,7 +783,7 @@ Mi メッセージをアクティブ化するには、SMSメッセージの発�
     <string name="perm_purpose_mms_account">アカウント情報にアクセスするため</string>
     <string name="perm_purpose_mms_storage">MMSの添付ファイルを保存するため</string>
     <string name="perm_purpose_rcs_account">新規ユーザー向けのスタートガイドを表示するため</string>
-    <string name="perm_purpose_rcs_phone_state">デバイスを識別するためにIMEIにアクセスするため</string>
+    <string name="perm_purpose_rcs_phone_state">デバイスの識別を目的に IMEI にアクセスするため</string>
     <string name="perm_purpose_rcs_storage">画像、ビデオ、ファイル、およびその他のRCS添付ファイルを保存するため</string>
     <string name="permission_retry_deny">キャンセル</string>
     <string name="permission_retry_dialog_msg">メッセージが正常に機能するには、アクセス許可が必要です。必要なアクセス許可を付与するには、\"設定\"をタップして\"アプリの権限\"を選択し、アプリに電話、SMS、連絡先へのアクセスを許可してください。</string>
@@ -812,7 +809,7 @@ Mi メッセージをアクティブ化するには、SMSメッセージの発�
     <string name="pref_hide_verification_code_summary">保護されたロック画面上のメッセージ通知の中で、ワンタイムパスワードを自動的に非表示にする</string>
     <string name="pref_messages_to_save">保存するメッセージ数を設定する</string>
     <string name="pref_mms_settings_title">マルチメディア（MMS）メッセージ</string>
-    <string name="pref_msg_trash_bin_title">削除したメッセージ</string>
+    <string name="pref_msg_trash_bin_title">最近削除したアイテム</string>
     <string name="pref_notification_settings_title">通知</string>
     <string name="pref_other_title">追加設定</string>
     <string name="pref_rcs_show_report_message">配信レポートを受け取る</string>
@@ -888,7 +885,7 @@ Mi メッセージをアクティブ化するには、SMSメッセージの発�
     <string name="priority_label">"優先度: "</string>
     <string name="priority_low">低い</string>
     <string name="priority_normal">普通</string>
-    <string name="privacy_dialog_tips_revoke_1">続けると、Mi メッセージのプライバシーポリシーへの同意を撤回することになります。撤回すると、ご利用者の個人情報の収集は中止されます。既に収集され保持されている個人情報は、別段の要求がない限り、適用される法令に基づいて特定の期間内に削除されます。Mi メッセージとスマートな送信者ID認識は、必要な個人情報の収集に基づいてサービスを提供しているため、同意を撤回した場合はこれらのサービスを受けることを拒否したとみなされます。</string>
+    <string name="privacy_dialog_tips_revoke_1">続けると、Mi メッセージのプライバシーポリシーへの同意を撤回することになります。撤回すると、ご利用者の個人情報の収集は中止されます。既に収集され保持されている個人情報は、別段の要求がない限り、適用される法令に基づいて特定の期間内に削除されます。Mi メッセージとスマートな送信者 ID 認識は、必要な個人情報の収集に基づいてサービスを提供しているため、同意を撤回した場合はこれらのサービスを受けることを拒否したとみなされます。</string>
     <string name="privacy_mode_hint">ゲストモードでメッセージを送信できません</string>
     <string name="privacy_password_message1">プライバシー保護パスワードは、写真、メモ、隠しフォルダーに適用されます。</string>
     <string name="privacy_password_message2">プライバシー保護パスワードを使用してください。これは写真、メモ、隠しフォルダーに適用されます。</string>
@@ -1000,7 +997,7 @@ Mi メッセージをアクティブ化するには、SMSメッセージの発�
     <string name="rcs_conversation_rcs_tip">[チャットボット] %s</string>
     <string name="rcs_create_new_group">グループチャットを作成</string>
     <string name="rcs_dspt">WLAN またはモバイルネットワークを使用してメッセージを送受信します</string>
-    <string name="rcs_dspt_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_dspt_unavailable">通信事業者の制限により、5G メッセージング関連の機能はサポートされていません</string>
     <string name="rcs_file_link_as_sms">%sにアクセスして、送信されたRCSファイルを表示します。</string>
     <string name="rcs_forward_faild">転送できませんでした</string>
     <string name="rcs_forward_successful">正常に転送されました</string>
@@ -1009,10 +1006,10 @@ Mi メッセージをアクティブ化するには、SMSメッセージの発�
     <string name="rcs_hello_from_pc">ファイルを転送するには、パソコンでFetionにサインインしてください。</string>
     <string name="rcs_list_bottom_loading">お待ちください…</string>
     <string name="rcs_list_bottom_search">検索中…</string>
-    <string name="rcs_main_purpose">このサービスを使用して、写真、音声メッセージ、ビデオなどを送受信できます。</string>
+    <string name="rcs_main_purpose">このサービスを使用すると、写真、音声メッセージ、ビデオなどを送受信できます。このサービスには位置情報へのアクセスが必要です。</string>
     <string name="rcs_message">5Gメッセージ</string>
     <string name="rcs_message_disable">セカンド・スペースではこのメッセージは表示されません</string>
-    <string name="rcs_message_title">5Gメッセージング</string>
+    <string name="rcs_message_title">5G メッセージング</string>
     <string name="rcs_more_bar_title">詳細</string>
     <string name="rcs_msg">5Gメッセージング</string>
     <string name="rcs_my_black_chatbot_title">ブロックリスト</string>
@@ -1059,7 +1056,7 @@ Mi メッセージをアクティブ化するには、SMSメッセージの発�
     <string name="rcs_summary_auto_resend_mms">元のメッセージが送信されなかった場合、5GマルチメディアメッセージはMMSに変換されます。通信事業者によりこのメッセージの料金を請求されます。</string>
     <string name="rcs_summary_auto_resend_sms">元のメッセージが送信されなかった場合、5GテキストメッセージはSMSに変換されます。通信事業者によりこのメッセージの料金を請求されます。</string>
     <string name="rcs_summary_silence_message">デスクトップクライアントを使用している場合は、メッセージ通知を無音にする</string>
-    <string name="rcs_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_unavailable">通信事業者の制限により、5G メッセージング関連の機能はサポートされていません</string>
     <string name="rcs_up_not_online">5Gメッセージングはオフラインです。ネットワーク設定を確認してから、もう一度お試しください。</string>
     <string name="rcs_wait_for_retry_text">待機中…</string>
     <string name="received_at_time">%1s: に受信されました</string>
@@ -1085,27 +1082,27 @@ Mi メッセージをアクティブ化するには、SMSメッセージの発�
     <string name="recommend_disagree">同意しない</string>
     <string name="recommend_free_internet_message">無料のインターネットメッセージング</string>
     <string name="recommend_free_mi">Mi メッセージ</string>
-    <string name="recommend_free_smart_server">スマートな送信者ID認識</string>
+    <string name="recommend_free_smart_server">スマートな送信者 ID 認識</string>
     <string name="recommend_mx_dialog_title">Mi メッセージへようこそ！</string>
     <string name="recommend_mx_setting_summary">Mi メッセージでは、インターネットを経由して他のMi メッセージ利用者に無料でメッセージを送信できます。</string>
     <string name="recommend_smart_sms_dialog_title">スマートメッセージングへようこそ！</string>
-    <string name="recommend_smart_sms_setting_summary">スマートメッセージングは、送信者IDの認識とスマートメニューを提供します。</string>
+    <string name="recommend_smart_sms_setting_summary">スマートメッセージングは、送信者 ID 認識とスマートメニューを提供します。</string>
     <string name="recommend_tip_1">メッセージはMi メッセージがオンになっている場合により適切に動作します。Mi メッセージを使用すると、インターネット経由で無料のSMSとMMSを送信し、送信者IDを自動的に認識できます。</string>
     <string name="recommend_tip_10">送信者IDを自動的に認識して、信頼できる業者の名前やプロフィール画像を表示します</string>
     <string name="recommend_tip_12">無料のインターネットメッセージング設定</string>
     <string name="recommend_tip_13">インターネット経由で他の Xiaomi デバイスに無料のSMSとMMSを送信する</string>
     <string name="recommend_tip_14">この機能をオフにすると、インターネット接続時に他のXiaomi デバイスに SMS や MMS を無料で送信できなくなります。オフにしてもよろしいですか？</string>
-    <string name="recommend_tip_15">スマートな送信者ID認識</string>
+    <string name="recommend_tip_15">スマートな送信者 ID 認識</string>
     <string name="recommend_tip_16">この機能をオフにすると、メッセージは送信者IDを自動的に認識できなくなり、信頼できる業者の名前やプロフィール画像を見ることができなくなります。オフにしてもよろしいですか？</string>
     <string name="recommend_tip_2">無料のインターネットメッセージング機能では、インターネットに接続しているときに料金を発生させることなく、他の Xiaomi デバイスにSMSやMMSを送信することができます。</string>
     <string name="recommend_tip_3">有料のテキストメッセージは、無料のインターネットメッセージング、「デバイスを探す」、クラウドとの同期、その他の関連サービスをアクティブ化するために通信事業者に送信されます。</string>
     <string name="recommend_tip_4">Mi メッセージでは、送信者IDを自動認識して、信頼できる業者の名前やプロフィール画像を見ることができます。</string>
-    <string name="recommend_tip_5">スマートな送信者ID認識により、受信トレイがすっきりし、信頼性の高い送信者を識別できます。</string>
+    <string name="recommend_tip_5">スマートな送信者 ID 認識により、受信トレイがすっきりし、信頼性の高い送信者を識別できます。</string>
     <string name="recommend_tip_6">上記のサービスは、Yuloreからの技術サポートによって提供されます。</string>
-    <string name="recommend_tip_7">Mi メッセージを利用する前に、当社の<font color="#B3000000"><a href="http://url1">利用規約</a></font>と<font color="#B3000000"><a href="http://url2">プライバシーポリシー</a></font>、および<font color="#B3000000"><a href="http://url3">Yuloreプライバシーポリシー</a></font>を読んで同意してください。</string>
-    <string name="recommend_tip_8">Mi メッセージが提供する無料のインターネットメッセージング機能を利用する前に、当社の<font color="#B3000000"><a href="http://url1">利用規約</a></font>と<font color="#B3000000"><a href="http://url2">プライバシーポリシー</a></font>、および<font color="#B3000000"><a href="http://url3">Yuloreプライバシーポリシー</a></font>を読んで同意してください。</string>
-    <string name="recommend_tip_9">スマートな送信者ID認識を利用する前に、当社の<font color="#B3000000"><a href="http://url1">利用規約</a></font>と<font color="#B3000000"><a href="http://url2">プライバシーポリシー</a></font>、および<font color="#B3000000"><a href="http://url3">Yuloreプライバシーポリシー</a></font>を読んで同意してください。</string>
-    <string name="recommend_tip_9_2">サービスの利用を開始する前に、<font color="#B3000000"><a href="http://url1">利用規約</a></font>と<font color="#B3000000"><a href="http://url2">プライバシーポリシー</a></font>を読んで同意してください。</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">Xiaomiのメッセージをデフォルトのメッセージングアプリとして設定すると、当社が提供するすべてのセキュリティ上のメリットを享受できます</string>
     <string name="recommend_tip_other">他のメッセージングアプリを表示</string>
     <string name="recommend_tip_smart">プライバシー保護。スマート認識。</string>
@@ -1233,14 +1230,14 @@ Mi メッセージをアクティブ化するには、SMSメッセージの発�
     <string name="setting_default_dialog_title">Xiaomi メッセージをデフォルトのメッセージアプリに今すぐ設定しますか？</string>
     <string name="setting_default_guide1_block_sms">SMSスパムをブロック</string>
     <string name="setting_default_guide1_free_net_message">Mi メッセージ</string>
-    <string name="setting_default_guide1_smart_number">送信者ID認識</string>
+    <string name="setting_default_guide1_smart_number">送信者 ID 認識</string>
     <string name="setting_default_guide1_tip">すべての機能を使用するには、Xiaomi メッセージをデフォルトのメッセージアプリに設定してください</string>
     <string name="setting_default_guide2_id_tip">Mi メッセージを使用するには、Xiaomi メッセージをデフォルトのメッセージアプリに設定してください</string>
     <string name="setting_default_guide2_in_tip">SMSスパムをブロックするには、Xiaomi メッセージをデフォルトのメッセージアプリに設定してください</string>
     <string name="setting_default_guide_btn_go_set">設定</string>
     <string name="setting_internet_message">無料のインターネットメッセージング</string>
     <string name="setting_internet_message_on_simIndex">無料のインターネットメッセージング (SIM %d)</string>
-    <string name="setting_smart_server">スマートな送信者ID認識</string>
+    <string name="setting_smart_server">スマートな送信者 ID 認識</string>
     <string name="share">共有</string>
     <string name="share_img">共有</string>
     <string name="shortcut_new_msg">新しいメッセージ</string>
@@ -1269,7 +1266,7 @@ Mi メッセージをアクティブ化するには、SMSメッセージの発�
     <string name="smart_message_upgrade_title">スマートメッセージング プライバシーポリシーの更新</string>
     <string name="smart_messages_network_allow_message">Mi メッセージのサービスが正常に動作するにはインターネットへの接続が必要です。今すぐ許可しますか？</string>
     <string name="smart_messages_network_allow_title">インターネット接続が必要です</string>
-    <string name="smart_msg_main_purpose">スマートメッセージングは、送信者IDの認識とスマートメニューサービスを提供します。</string>
+    <string name="smart_msg_main_purpose">スマートメッセージングは、送信者 ID 認識とスマートメニューサービスを提供します。</string>
     <string name="smart_msg_privacy_policy">スマートメッセージング プライバシーポリシー</string>
     <string name="smart_msg_upgrade_main_purpose">スマートメッセージングがMMSで機能するようになりました。送信者が提供するより多くのサービスを利用したり、新しい形式でメッセージを受信したりできます。</string>
     <string name="sms_card_partner_label">"SMSカードパートナー: "</string>
@@ -1483,7 +1480,7 @@ Mi メッセージをアクティブ化するには、SMSメッセージの発�
     <string name="voice_report_off">オフ</string>
     <string name="voice_report_wiredon">イヤホン接続時</string>
     <string name="wap_push_title">"[WAPプッシュ] "</string>
-    <string name="warning_show">%dsで送信</string>
+    <string name="warning_show">%d秒後に送信</string>
     <string name="web_content_invalid_hint">このアイテムの表示は現地の法令により制限されています</string>
     <string name="wednesday">水曜日</string>
     <string name="wednesday_short">水</string>

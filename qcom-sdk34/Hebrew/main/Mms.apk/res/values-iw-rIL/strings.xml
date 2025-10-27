@@ -62,7 +62,6 @@
     <string name="attach_take_photo">צלם תמונה</string>
     <string name="attach_video">וידאו</string>
     <string name="attach_video_call">שיחת וידאו</string>
-    <string name="attachment_panel_show_part">עמוד %1$d</string>
     <string name="audio_download_failed">לא ניתן היה להוריד שמע</string>
     <string name="audio_message_expired">פג תוקף הודעה קולית זו.</string>
     <string name="audio_message_mx_offline">לא ניתן היה להוריד את קובץ השמע. הודעות Mi נמצא במצב לא מקוון או שאינו זמין.</string>
@@ -307,9 +306,9 @@
     <string name="favorite_at_time">נוסף למועדפים ב-%1s</string>
     <string name="fdn_check_failure">באפשרותך לשלוח הודעות למספרי חיוג קבועים בלבד.</string>
     <string name="feature_mx">Mi Message</string>
-    <string name="feature_mx_summary"><b>Mi Message מאפשר לשלוח הודעות למשתמשי Mi Message אחרים באמצעות האינטרנט, ללא חיובים</b>. נדרשת שליחה של הודעת טקסט כדי להפעיל את השירות. המפעיל הסלולרי יחייב אותך על ההודעה הזו. עליך לקרוא את <font color="#B3000000"><a href="http://url1">הסכם המשתמש</a></font> ואת <font color="#B3000000"><a href="http://url2">מדיניות הפרטיות</a></font> שלנו ולהסכים אתם כדי להשתמש במאפיין זה.</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">הודעות חכמות</string>
-    <string name="feature_smart_sms_summary"><b>אפליקציית הודעות חכמות מאפשרת זיהוי השולח ומציגה תפריטים חכמים</b>. אפליקציית הודעות חכמות מסופקת באופן חלקי על-ידי Yulore. עליך לקרוא את <font color="#B3000000"><a href="http://url3">מדיניות הפרטיות</a></font> של Yulore ולהסכים אתה כדי להשתמש במאפיין זה.</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">טוען…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">נוצר:</string>
@@ -387,7 +386,7 @@
     <string name="from_pkg_name">מהיישום:</string>
     <string name="ft_cfs_dialog_content">קבצים לא יכולים להישלח כאשר הם נשלחים באמצעות RCS. האם לשלוח לינק בהודעת טקסט במקום?</string>
     <string name="ft_cfs_dialog_title">שליחת קובץ חלופית</string>
-    <string name="google_message_promo_content">"Xiaomi ממליצה לשדרג ליישום ההודעות (Messages) מבית Google. התקן אותו עכשיו כדי ליהנות משיתוף תמונות באיכות גבוהה, צ'אטים באמצעות אינטרנט אלחוטי ועוד. "<font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">למידע נוסף</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">שדרג את אפליקציית ההודעות שלך</string>
     <string name="group_already_kicked_hint">"אין אפשרות לשלוח הודעות. אינך חבר בקבוצת צ'אט זו."</string>
     <string name="group_member_is_composing">מקליד…</string>
@@ -467,10 +466,8 @@
     <string name="menu_unlock">הסר מהמועדפים</string>
     <string name="menu_view_contact">צפיה באיש קשר</string>
     <string name="menu_view_group_info">פרטי קבוצה</string>
-    <string name="message_cannot_send_air_mode">"לא ניתן לשלוח הודעות.
-קודם עליך לכבות את מצב טיסה."</string>
-    <string name="message_cannot_send_sim_unavailable">"לא ניתן לשלוח הודעות.
-בדוק את כרטיס הסים."</string>
+    <string name="message_cannot_send_air_mode">יש להשבית את מצב טיסה כדי לשלוח הודעות</string>
+    <string name="message_cannot_send_sim_unavailable">יש להכניס כרטיס SIM כדי לשלוח הודעות</string>
     <string name="message_class_label">"קיטלוג הודעה: "</string>
     <string name="message_contact">איש קשר:</string>
     <string name="message_details_title">פרטי הודעה</string>
@@ -661,7 +658,7 @@
     <string name="networking_allow_desc">"על הודעות Mi להתחבר לאינטרנט על מנת לעבוד באופן תקין. על מנת שיוכל לספק שירותי טקסט וקול חינמיים, לזהות מספרים לא מוכרים, לסנן ספאם ולאפשר תכונות אחרות, על הודעות Mi להשתמש ב'דפי זהב'. לאפשר ל'דפי זהב' להתחבר לאינטרנט, לקבל את פרטי המיקום שלך ולקרוא את אנשי הקשר שלך?"</string>
     <string name="networking_allow_desc_without_mx">"על הודעות Mi להתחבר לאינטרנט על מנת לעבוד באופן תקין. על מנת שיוכל לזהות מספרים לא מוכרים, לסנן ספאם ולאפשר תכונות אחרות, על הודעות Mi להשתמש ב'דפי זהב'. לאפשר ל'דפי זהב' להתחבר לאינטרנט, לקבל את פרטי המיקום שלך ולקרוא את אנשי הקשר שלך?"</string>
     <string name="networking_allow_title">שים לב</string>
-    <string name="new_message">כתיבת הודעה</string>
+    <string name="new_message">הודעה חדשה</string>
     <string name="new_message_arrived">לא נקרא</string>
     <string name="new_phrase">הוסף תגובה</string>
     <string name="new_phrase_hint">הזן תגובה חדשה</string>
@@ -740,7 +737,7 @@
     <string name="pref_hide_verification_code_summary">הסתר באופן אוטומטי ססמאות חד פעמיות בהתראות הודעה במסך נעילה מאובטח</string>
     <string name="pref_messages_to_save">הגדר מספר הודעות לשמירה</string>
     <string name="pref_mms_settings_title">הודעות מולטימדיה (MMS)</string>
-    <string name="pref_msg_trash_bin_title">הודעות שנמחקו</string>
+    <string name="pref_msg_trash_bin_title">פריטים שנמחקו לאחרונה</string>
     <string name="pref_notification_settings_title">התראות</string>
     <string name="pref_other_title">הגדרות נוספות</string>
     <string name="pref_rcs_show_report_message">קבל דוחות שליחה</string>
@@ -936,7 +933,7 @@
     <string name="rcs_hello_from_pc">היכנס אל Fetion במחשב שלך על מנת להעביר קבצים.</string>
     <string name="rcs_list_bottom_loading">רק רגע…</string>
     <string name="rcs_list_bottom_search">מחפש…</string>
-    <string name="rcs_main_purpose">ניתן להשתמש בשירות זה כדי לשלוח ולקבל תמונות, מסרים קוליים, סרטונים ועוד.</string>
+    <string name="rcs_main_purpose">ניתן להשתמש בשירות הזה כדי לשלוח ולקבל תמונות, הודעות קוליות, סרטונים ועוד. השירות זקוק לגישה למיקום.</string>
     <string name="rcs_message">5G messages</string>
     <string name="rcs_message_disable">"לא ניתן להציג את ההודעה ב'שטח שני'"</string>
     <string name="rcs_message_title">5G Messaging</string>
@@ -1029,10 +1026,10 @@
     <string name="recommend_tip_4">היישום הודעות Mi יכול לזהות את השולח באופן אוטומטי ולאפשר לך לראות את השמות ותמונות הפרופיל של ספקים מהימנים.</string>
     <string name="recommend_tip_5">זיהוי חכם של זהות השולח הופך את תיבת ההודעות הנכנסות שלך למסודרת יותר ועוזר לך לזהות את שולחי ההודעות.</string>
     <string name="recommend_tip_6">השירותים הנ\"ל ניתנים עם תמיכה טכנית מ-Yulore.</string>
-    <string name="recommend_tip_7">עליך לקרוא את <font color="#B3000000"><a href="http://url1">הסכם המשתמש</a></font> ואת <font color="#B3000000"><a href="http://url2">מדיניות הפרטיות</a></font> שלנו, לצד <font color="#B3000000"><a href="http://url3">מדיניות הפרטיות של Yulore</a></font> לפני שימוש ביישום הודעות Mi.</string>
-    <string name="recommend_tip_8">עליך לקרוא את <font color="#B3000000"><a href="http://url1">הסכם המשתמש</a></font> ואת <font color="#B3000000"><a href="http://url2">מדיניות הפרטיות</a></font> שלנו, לצד <font color="#B3000000"><a href="http://url3">מדיניות הפרטיות של Yulore</a></font> לפני שימוש בשירות ההודעות בחינם באמצעות האינטרנט שניתן על-ידי היישום הודעות Mi.</string>
-    <string name="recommend_tip_9">עליך לקרוא את <font color="#B3000000"><a href="http://url1">הסכם המשתמש</a></font> ואת <font color="#B3000000"><a href="http://url2">מדיניות הפרטיות</a></font> שלנו, לצד <font color="#B3000000"><a href="http://url3">מדיניות הפרטיות של Yulore</a></font> לפני שימוש בזיהוי חכם של זהות השולח.</string>
-    <string name="recommend_tip_9_2">עליך לקרוא את <font color="#B3000000"><a href="http://url1">הסכם המשתמש</a></font> ואת <font color="#B3000000"><a href="http://url2">מדיניות הפרטיות</a></font> שלנו ולהסכים אתם כדי להשתמש בשירותינו.</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">יש להגדיר את Xiaomi הודעות כיישום ברירת המחדל להודעות כדי ליהנות מכל מאפייני הבטיחות שאנו מציעים</string>
     <string name="recommend_tip_other">צפייה ביישומי הודעות אחרים</string>
     <string name="recommend_tip_smart">הגנת פרטיות. זיהוי חכם.</string>

@@ -89,7 +89,6 @@
     <string name="attach_take_photo">Zrób zdjęcie</string>
     <string name="attach_video">Wideo</string>
     <string name="attach_video_call">Połączenie wideo</string>
-    <string name="attachment_panel_show_part">Strona %1$d</string>
     <string name="audio_download_failed">Nie udało się pobrać dźwięku</string>
     <string name="audio_message_expired">Wiadomość głosowa wygasła.</string>
     <string name="audio_message_mx_offline">Nie udało się pobrać dźwięku. Wiadomości Mi są niedostępne.</string>
@@ -378,9 +377,9 @@ Pamiętaj, że funkcja wiadomości internetowych jest zawieszona do odwołania. 
     <string name="fcm_fallback_notification_channel_label">Różne</string>
     <string name="fdn_check_failure">Wiadomości możesz wysyłać wyłącznie na swoje ustalone numery.</string>
     <string name="feature_mx">Wiadomości Mi</string>
-    <string name="feature_mx_summary"><b>Wiadomości Mi umożliwiają wysyłanie wiadomości na inne urządzenia obsługujące Wiadomości Mi przez internet, bez ponoszenia dodatkowych opłat</b>. Aby aktywować tę usługę, wymagane jest wysłanie wiadomości SMS, za co Twój operator naliczy opłatę. Musisz przeczytać i zaakceptować naszą <font color="#B3000000"><a href="http://url1">Umowę Użytkownika</a></font> i <font color="#B3000000"><a href="http://url2">Politykę Prywatności</a></font> przed skorzystaniem z tej usługi.</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">Inteligentne Wiadomości</string>
-    <string name="feature_smart_sms_summary"><b>Inteligentne Wiadomości zapewniają rozpoznawanie identyfikatora nadawcy i inteligentne menu</b>. Inteligentne Wiadomości są częściowo zapewniane przez Yulore. Przeczytaj i zaakceptuj <font color="#B3000000"><a href="http://url3">Politykę Prywatności</a></font> Yulore, przed skorzystaniem z tej funkcji.</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">Wczytywanie…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Utworzono:</string>
@@ -458,7 +457,7 @@ Pamiętaj, że funkcja wiadomości internetowych jest zawieszona do odwołania. 
     <string name="from_pkg_name">Z aplikacji:</string>
     <string name="ft_cfs_dialog_content">Nie udało się dostarczyć plików za pomocą RCS. Wysłać link w formie wiadomości zamiast tego?</string>
     <string name="ft_cfs_dialog_title">Alternatywny transfer plików</string>
-    <string name="google_message_promo_content">Xiaomi zaleca aktualizację do Wiadomości firmy Google. Zainstaluj teraz, aby udostępniać wysokiej jakości zdjęcia, rozmawiać przez Wi-Fi i nie tylko. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Dowiedz się więcej</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">Zaktualizuj swoją aplikację do wysyłania wiadomości</string>
     <string name="group_already_kicked_hint">Nie można wysłać wiadomości. Nie jesteś członkiem czatu grupowego.</string>
     <string name="group_member_is_composing">Pisze…</string>
@@ -538,10 +537,8 @@ Pamiętaj, że funkcja wiadomości internetowych jest zawieszona do odwołania. 
     <string name="menu_unlock">Usuń z Ulubionych</string>
     <string name="menu_view_contact">Pokaż kontakt</string>
     <string name="menu_view_group_info">Informacja o grupie</string>
-    <string name="message_cannot_send_air_mode">"Nie można wysyłać wiadomości.
-Najpierw wyłącz Tryb samolotowy."</string>
-    <string name="message_cannot_send_sim_unavailable">"Nie można wysyłać wiadomości.
-Sprawdź kartę SIM."</string>
+    <string name="message_cannot_send_air_mode">Wyłącz tryb samolotowy, aby wysyłać wiadomości</string>
+    <string name="message_cannot_send_sim_unavailable">Włóż kartę SIM, aby wysyłać wiadomości</string>
     <string name="message_class_label">"Klasa wiadomości: "</string>
     <string name="message_contact">Kontakt:</string>
     <string name="message_details_title">Szczegóły wiadomości</string>
@@ -812,7 +809,7 @@ W celu aktywacji Wiadomości Mi wymagane jest wysłanie wiadomości SMS. Twój o
     <string name="pref_hide_verification_code_summary">Automatycznie ukryj jednorazowe hasła w powiadomieniach wiadomości na zabezpieczonym ekranie blokady</string>
     <string name="pref_messages_to_save">Ustaw liczbę wiadomości do zapisania</string>
     <string name="pref_mms_settings_title">Wiadomości MMS</string>
-    <string name="pref_msg_trash_bin_title">Usunięte wiadomości</string>
+    <string name="pref_msg_trash_bin_title">Ostatnio usunięte elementy</string>
     <string name="pref_notification_settings_title">Powiadomienia</string>
     <string name="pref_other_title">Dodatkowe ustawienia</string>
     <string name="pref_rcs_show_report_message">Otrzymuj potwierdzenie dostarczenia</string>
@@ -1009,7 +1006,7 @@ Sprawdź polecane chatboty!"</string>
     <string name="rcs_hello_from_pc">Zaloguj się do Fetion na swoim komputerze, aby przesłać pliki.</string>
     <string name="rcs_list_bottom_loading">Chwileczkę…</string>
     <string name="rcs_list_bottom_search">Wyszukiwanie…</string>
-    <string name="rcs_main_purpose">Możesz korzystać z tej usługi, aby wysyłać i odbierać zdjęcia, wiadomości głosowe, filmy i wiele więcej.</string>
+    <string name="rcs_main_purpose">Możesz korzystać z tej usługi, aby wysyłać i odbierać zdjęcia, wiadomości głosowe, filmy i wiele więcej. Usługa wymaga dostępu do lokalizacji.</string>
     <string name="rcs_message">Wiadomości 5G</string>
     <string name="rcs_message_disable">Nie można wyświetlić wiadomości w Drugiej Przestrzeni</string>
     <string name="rcs_message_title">Wiadomości 5G</string>
@@ -1102,10 +1099,10 @@ Sprawdź polecane chatboty!"</string>
     <string name="recommend_tip_4">Aplikacja Wiadomości Mi może automatycznie rozpoznawać identyfikator nadawcy, umożliwiając przeglądanie nazw i zdjęć profilowych zaufanych dostawców.</string>
     <string name="recommend_tip_5">Inteligentne rozpoznawanie identyfikatora nadawcy sprawia, że skrzynka odbiorcza jest uporządkowana i pomaga zidentyfikować wiarygodnych nadawców.</string>
     <string name="recommend_tip_6">Powyższe usługi są świadczone przy wsparciu technicznym firmy Yulore.</string>
-    <string name="recommend_tip_7">Przeczytaj i zaakceptuj naszą <font color="#B3000000"><a href="http://url1">Umowę Użytkownika</a></font> i <font color="#B3000000"><a href="http://url2">Politykę Prywatności</a></font>, a także <font color="#B3000000"><a href="http://url3">Politykę Prywatności Yulore</a></font>, przed skorzystaniem z Wiadomości Mi.</string>
-    <string name="recommend_tip_8">Przeczytaj i zaakceptuj naszą <font color="#B3000000"><a href="http://url1">Umowę Użytkownika</a></font> i <font color="#B3000000"><a href="http://url2">Politykę Prywatności</a></font>, a także <font color="#B3000000"><a href="http://url3">Politykę Prywatności Yulore</a></font>, przed skorzystaniem z darmowych wiadomości internetowych dostarczanych przez Wiadomości Mi.</string>
-    <string name="recommend_tip_9">Przeczytaj i zaakceptuj naszą <font color="#B3000000"><a href="http://url1">Umowę Użytkownika</a></font> i <font color="#B3000000"><a href="http://url2">Politykę Prywatności</a></font>, a także <font color="#B3000000"><a href="http://url3">Politykę Prywatności Yulore</a></font>, przed skorzystaniem z Inteligentnego rozpoznawania identyfikatora nadawcy.</string>
-    <string name="recommend_tip_9_2">Przeczytaj i zaakceptuj naszą <font color="#B3000000"><a href="http://url1">Umowę Użytkownika</a></font> i <font color="#B3000000"><a href="http://url2">Politykę Prywatności</a></font> przed skorzystaniem z naszych usług.</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">Ustaw Wiadomości Xiaomi jako domyślną aplikację do wysyłania wiadomości, aby uzyskać wszystkie oferowane przez nas korzyści w zakresie bezpieczeństwa.</string>
     <string name="recommend_tip_other">Wyświetl inne aplikacje do wysyłania wiadomości</string>
     <string name="recommend_tip_smart">Ochrona prywatności. Inteligentne rozpoznawanie.</string>

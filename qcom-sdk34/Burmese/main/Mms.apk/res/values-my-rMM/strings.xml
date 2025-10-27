@@ -62,7 +62,6 @@
     <string name="attach_take_photo">ဓာတ်ပုံ ရိုက်ပါ</string>
     <string name="attach_video">ဗီဒီယို</string>
     <string name="attach_video_call">ဗီဒီယိုခေါ်ဆိုမှု</string>
-    <string name="attachment_panel_show_part">စာမျက်နှာ %1$d</string>
     <string name="audio_download_failed">အော်ဒီယိုကို ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
     <string name="audio_message_expired">အသံမက်ဆေ့(ချ်) သက်တမ်းကုန်သွားပြီ</string>
     <string name="audio_message_mx_offline">အော်ဒီယိုအား ဒေါင်းလုဒ်မလုပ်နိုင်ခဲ့ပါ။ Mi မက်ဆေ့(ချ်) အော့်ဖ်လိုင်း သို့မဟုတ် မရှိနိုင်ပါ။</string>
@@ -307,9 +306,9 @@
     <string name="favorite_at_time">%1s တွင် အကြိုက်ဆုံးစာရင်းသို့ ပေါင်းထည့်ခဲ့သည်</string>
     <string name="fdn_check_failure">သင် သတ်မှတ်ထားသည့် ခေါ်ဆိုရန် နံပါတ်များထံသို့သာ မက်ဆေ့(ချ်)များကို ပေးပို့နိုင်သည်။</string>
     <string name="feature_mx">Mi မက်ဆေ့(ခ်ျ)</string>
-    <string name="feature_mx_summary"><b>Mi မက်ဆေ့(ချ်)က သင့်အား အခြား Mi မက်ဆေ့(ချ်)သုံးသူများထံ အင်တာနက်မှတစ်ဆင့် အခမဲ့ မက်ဆေ့(ချ်)ပို့ခွင့်ပြုသည်။</b> ဤဝန်ဆောင်မှုကို ဖွင့်ရန် SMS တစ်စောင်ပို့ရပါမည်။ ထိုမက်ဆေ့(ချ်)အတွက် ဖုန်းခကုန်ပါမည်။ ဤဝန်ဆောင်မှုကို မသုံးမီ ကျွန်ုပ်တို့၏ <font color="#B3000000"><a href="http://url1">အသုံးပြုသူ သဘောတူညီချက်</a></font> နှင့် <font color="#B3000000"><a href="http://url2">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</a></font> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">စမတ်မက်ဆေ့(ချ်)</string>
-    <string name="feature_smart_sms_summary"><b>စမတ်မက်ဆေ့(ချ်)တွင် ပို့သူ ID မှတ်မိခြင်းနှင့် အခြား စမတ်မီနူးများပါဝင်သည်။</b> စမတ်မက်ဆေ့(ချ်)ကို Yulore မှ တစ်စိတ်တစ်ပိုင်း ပံ့ပိုးသည်။ ဤဝန်ဆောင်မှုကို မသုံးမီ Yulore ၏ <font color="#B3000000"><a href="http://url3">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</a></font> ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">ရယူနေသည်…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">ဖန်တီးပြီး-</string>
@@ -387,7 +386,7 @@
     <string name="from_pkg_name">အက်ပ်များမှ−</string>
     <string name="ft_cfs_dialog_content">ဖိုင်များအား RCS အသုံးပြု၍ ပေးပို့ခြင်း မပြုနိုင်ပါ။ စာသားမက်ဆေ့(ချ်)တစ်ခုအတွင်း လင့်ခ်ထည့်၍သာ ပေးပို့မလား။</string>
     <string name="ft_cfs_dialog_title">ဖိုင်ကူးပြောင်းရန်အခြားနည်းလမ်း</string>
-    <string name="google_message_promo_content">Xiaomi သည် Google ကပံ့ပိုးပေးထားသည့် မက်ဆေ့(ချ်)ကို အဆင့်မြှင့်ရန် အကြံပြုအပ်ပါသည်။ အရည်အသွေးမြင့်ဓာတ်ပုံများ မျှဝေနိုင်စေရန်၊ Wi-Fi သုံး၍ ချက်တင်တက်ရန်နှင့် အစရှိသည်တို့ကို ပြုလုပ်နိုင်စေရန် ယခုပင် Install လုပ်လိုက်ပါ။ <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">ပိုမိုလေ့လာရန်</a></font>။</string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">သင့်စာပို့အက်(ပ်)ကို အဆင့်မြှင့်ပါ</string>
     <string name="group_already_kicked_hint">မက်ဆေ့(ချ်)များပို့မရပါ။ သင်သည် ဤချတ်အုပ်စုချတ်အဖွဲ့ဝင်မဟုတ်ပါ။</string>
     <string name="group_member_is_composing">စာရိုက်နေဆဲ…</string>
@@ -467,10 +466,8 @@
     <string name="menu_unlock">အကြိုက်ဆုံးစာရင်းမှ ဖယ်ရှားမည်</string>
     <string name="menu_view_contact">အဆက်အသွယ်ကိုကြည့်ပါ</string>
     <string name="menu_view_group_info">အုပ်စု အချက်အလက်</string>
-    <string name="message_cannot_send_air_mode">"မက်ဆေ့(ချ်)များ ပို့၍မရပါ။
-လေယာဉ်ပျံမုဒ်ကို ဦးစွာပိတ်ပါ။"</string>
-    <string name="message_cannot_send_sim_unavailable">"မက်ဆေ့(ချ်)များ ပို့မရပါ။
-သင်၏ SIM ကဒ်ကို စစ်ဆေးကြည့်ပါ။"</string>
+    <string name="message_cannot_send_air_mode">မက်ဆေ့(ချ်)ပို့ရန် လေယာဉ်မုဒ်ပိတ်ပါ</string>
+    <string name="message_cannot_send_sim_unavailable">မက်ဆေ့(ချ်)ပို့ရန် SIM ကတ်ထည့်ပါ</string>
     <string name="message_class_label">"မက်ဆေ့(ချ်)အတန်းအစား- "</string>
     <string name="message_contact">အဆက်အသွယ်-</string>
     <string name="message_details_title">မက်ဆေ့(ချ်) အသေးစိတ်များ</string>
@@ -661,7 +658,7 @@
     <string name="networking_allow_desc">Mi မက်ဆေ့(ချ်)သည် ပုံမှန်အလုပ်လုပ်နိုင်ရန် အင်တာနက်သို့ ချိတ်ဆက်ရမည်။ အခမဲ့စာသားနှင့် အသံရရှိရန်၊ အမည်မသိ နံပါတ်များ ခွဲခြားသိရှိရန်၊ မလိုအပ်သောမက်ဆေ့(ချ်)များ စစ်ထုတ်ရန်နှင့် အခြားဝန်ဆောင်မှုများအတွက် Mi မက်ဆေ့(ချ်)မှ အဝါရောင်လမ်းညွှန်ကို အသုံးပြုရန် လိုအပ်ပါသည်။ အဝါရောင်လမ်းညွှန်အား အင်တာနက်သို့ ချိတ်ဆက်ခြင်း၊ သင်၏တည်နေရာအချက်အလက် ရယူခြင်းနှင့် သင့်အဆက်အသွယ်များကို ဖတ်ယူခွင့်ပေးမည်လား။</string>
     <string name="networking_allow_desc_without_mx">Mi မက်ဆေ့(ချ်)သည် ပုံမှန်အလုပ်လုပ်နိုင်ရန် အင်တာနက်သို့ ချိတ်ဆက်ရမည်။ အမည်မသိ နံပါတ်များ ခွဲခြားသိရှိရန်၊ မလိုအပ်သောမက်ဆေ့(ချ်)များ စစ်ထုတ်ရန်နှင့် အခြားဝန်ဆောင်မှုများအတွက် Mi မက်ဆေ့(ချ်)မှ အဝါရောင်လမ်းညွှန်ကို အသုံးပြုရန် လိုအပ်ပါသည်။ အဝါရောင်လမ်းညွှန်အား အင်တာနက်သို့ ချိတ်ဆက်ခြင်း၊ သင်၏တည်နေရာအချက်အလက် ရယူခြင်းနှင့် သင့်အဆက်အသွယ်များကို ဖတ်ယူခွင့်ပေးမည်လား။</string>
     <string name="networking_allow_title">သတိပြုပါ</string>
-    <string name="new_message">စာစရေးရန်</string>
+    <string name="new_message">မက်ဆေ့(ချ်)အသစ်</string>
     <string name="new_message_arrived">မဖတ်ရသေးသော</string>
     <string name="new_phrase">ဖြေကြားချက် ပေါင်းထည့်မည်</string>
     <string name="new_phrase_hint">ဖြေကြားချက် အသစ် ရိုက်ထည့်ပါ</string>
@@ -740,7 +737,7 @@
     <string name="pref_hide_verification_code_summary">လုံခြုံသော သော့ခတ်မျက်နှာပြင် ပေါ်တွင် မက်ဆေ့(ချ်)အသိပေးချက်ရှိ တစ်ကြိမ်သုံးစကားဝှက်အား အလိုလိုကွယ်ဝှက်ပါ</string>
     <string name="pref_messages_to_save">မက်ဆေ့(ချ်) အရေအတွက်ကို သိမ်းရန် သတ်မှတ်ပါ</string>
     <string name="pref_mms_settings_title">မာတီမီဒီယာ (MMS) မက်ဆေ့(ချ်)များ</string>
-    <string name="pref_msg_trash_bin_title">ဖျက်ခဲ့သော မက်ဆေ့(ချ်)များ</string>
+    <string name="pref_msg_trash_bin_title">လတ်တလောဖျက်ထားသောအရာများ</string>
     <string name="pref_notification_settings_title">အသိပေးချက်များ</string>
     <string name="pref_other_title">ထပ်ဆောင်းဆက်တင်များ</string>
     <string name="pref_rcs_show_report_message">ပေးဝေမှုအစီရင်ခံစာများ လက်ခံရန်</string>
@@ -936,7 +933,7 @@
     <string name="rcs_hello_from_pc">ဖိုင်များ လွှဲပြောင်းရန် သင့်ကွန်ပျူတာတွင် Fetion အား ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="rcs_list_bottom_loading">ခဏစောင့်ပါ…</string>
     <string name="rcs_list_bottom_search">ရှာနေသည်…</string>
-    <string name="rcs_main_purpose">ဓာတ်ပုံများ၊ အသံမက်ဆေ့(ချ်)များ၊ ဗီဒီယိုများနှင့် အခြားအရာများ ပို့ရန်နှင့် လက်ခံရန် ဤဝန်ဆောင်မှုကို သုံးနိုင်သည်။</string>
+    <string name="rcs_main_purpose">ဓာတ်ပုံ၊ အသံမက်ဆေ့(ချ်)၊ ဗီဒီယိုနှင့် အခြားအရာများ ပေးပို့လက်ခံရန် ဤဝန်ဆောင်မှုကို သုံးနိုင်သည်။ ဤဝန်ဆောင်မှုက တည်နေရာဖတ်ခွင့်လိုသည်။</string>
     <string name="rcs_message">5G messages</string>
     <string name="rcs_message_disable">ဒုတိယနေရာတွင် ဤမက်ဆေ့(ချ်)အား ကြည့်၍မရပါ</string>
     <string name="rcs_message_title">5G Messaging</string>
@@ -1029,10 +1026,10 @@
     <string name="recommend_tip_4">Mi မက်ဆေ့(ခ်ျ)သုံးလျှင် ပို့သူ ID ကို အလိုအလျောက် သိနိုင်ပြီး စိတ်ချရသော လုပ်ငန်းရှင်များ၏ အမည်များနှင့် ပရိုဖိုင်ပုံများကို မြင်နိုင်သည်။</string>
     <string name="recommend_tip_5">ပို့သူ ID ဖတ် စမတ်စနစ်တွင် သင့်ဝင်စာပုံးကို ပိုသပ်ရပ်အောင်လုပ်ပေးပြီး စိတ်ချရသော ပို့သူများကို မှတ်မိစေပါသည်။</string>
     <string name="recommend_tip_6">အထက်ပါဝန်ဆောင်မှုများကို Yulore မှ နည်းပညာအထောက်အကူဖြင့် ပံ့ပိုးပေးပါသည်။</string>
-    <string name="recommend_tip_7">Mi မက်ဆေ့(ချ်)ကို မသုံးမီ ကျွန်ုပ်တို့၏ <font color="#B3000000"><a href="http://url1">အသုံးပြုသူသဘောတူညီချက်</a></font> နှင့် <font color="#B3000000"><a href="http://url2">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</a></font> အပြင်<font color="#B3000000"><a href="http://url3">Yulore ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</a></font> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</string>
-    <string name="recommend_tip_8">Mi မက်ဆေ့(ချ်)မှ ပံ့ပိုးသော အခမဲ့အင်တာနက်မက်ဆေ့(ချ်)ကို မသုံးမီ ကျွန်ုပ်တို့၏ <font color="#B3000000"><a href="http://url1">အသုံးပြုသူသဘောတူညီချက်</a></font> နှင့် <font color="#B3000000"><a href="http://url2">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</a></font> အပြင်<font color="#B3000000"><a href="http://url3">Yulore ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</a></font> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</string>
-    <string name="recommend_tip_9">ပို့သူ ID ဖတ် စမတ်စနစ်ကို မသုံးမီ ကျွန်ုပ်တို့၏ <font color="#B3000000"><a href="http://url1">အသုံးပြုသူသဘောတူညီချက်</a></font> နှင့် <font color="#B3000000"><a href="http://url2">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</a></font> အပြင်<font color="#B3000000"><a href="http://url3">Yulore ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</a></font> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</string>
-    <string name="recommend_tip_9_2">ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုများကိုမသုံးမီ ကျွန်ုပ်တို့၏ <font color="#B3000000"><a href="http://url1">အသုံးပြုသူသဘောတူညီချက်</a></font> နှင့် <font color="#B3000000"><a href="http://url2">ကိုယ်ရေးအချက်အလက်လုံခြုံမှုမူဝါဒ</a></font> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">ပေးထားသော လုံခြုံရေးခံစားခွင့်အားလုံး ရယူရန် Xiaomi မက်ဆေ့(ချ်)ကို ပင်တိုင်သုံးမက်ဆေ့(ချ်)အက်(ပ်)အဖြစ် သတ်မှတ်ပါ။</string>
     <string name="recommend_tip_other">အခြားမက်ဆေ့(ချ်)အက်(ပ်)များကြည့်ရန်</string>
     <string name="recommend_tip_smart">ပုဂ္ဂိုလ်ရေးအကာအကွယ်။ စမတ်မှတ်မိစနစ်။</string>

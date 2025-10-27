@@ -86,7 +86,6 @@ added to blocklist"</string>
     <string name="attach_take_photo">Take photo</string>
     <string name="attach_video">Video</string>
     <string name="attach_video_call">Video call</string>
-    <string name="attachment_panel_show_part">Page %1$d</string>
     <string name="audio_download_failed">"Couldn't download audio"</string>
     <string name="audio_message_expired">This voice message has expired.</string>
     <string name="audio_message_mx_offline">"Couldn't download audio. Mi Message is offline or isn't available."</string>
@@ -360,7 +359,7 @@ Please note that the internet messaging functionality is now suspended until fur
     <string name="fake_cell_timeout_hint">"Couldn't check safety"</string>
     <string name="fare">Fare</string>
     <string name="favorite_at_time">Added to favourites at: %1s</string>
-    <string name="fdn_check_failure">You can only send messages to your fixed dialing numbers.</string>
+    <string name="fdn_check_failure">You can only send messages to your fixed dialling numbers.</string>
     <string name="feature_mx">Mi Message</string>
     <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">Smart Messaging</string>
@@ -519,8 +518,7 @@ Please note that the internet messaging functionality is now suspended until fur
     <string name="menu_unlock">Remove from favourites</string>
     <string name="menu_view_contact">View contact</string>
     <string name="menu_view_group_info">Group info</string>
-    <string name="message_cannot_send_air_mode">"Can't send messages.
-Turn off Aeroplane mode first."</string>
+    <string name="message_cannot_send_air_mode">Turn off Aeroplane mode to send messages</string>
     <string name="message_cannot_send_sim_unavailable">"Can't send messages.
 Check your SIM card."</string>
     <string name="message_class_label">"Message class: "</string>
@@ -650,7 +648,7 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
     <string name="networking_allow_desc">Mi Message needs to connect to the internet to work normally. In order to provide free text and voice services, recognise unknown numbers, filter spam, and enable other features, Mi Message needs to use Yellow pages. Allow Yellow pages to connect to the internet, get your location info, and read your contacts?</string>
     <string name="networking_allow_desc_without_mx">Mi Message needs to connect to the internet to work normally. In order to recognise unknown numbers, filter spam, and enable other features, Mi Message needs to use Yellow pages. Allow Yellow pages to connect to the internet, get your location info, and read your contacts?</string>
     <string name="networking_allow_title">Attention</string>
-    <string name="new_message">Compose</string>
+    <string name="new_message">New message</string>
     <string name="new_message_arrived">Unread</string>
     <string name="new_phrase">Add reply</string>
     <string name="new_phrase_hint">Enter new reply</string>
@@ -727,7 +725,7 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
     <string name="pref_hide_verification_code_summary">Automatically hide one-time passwords in message notifications on secured Lock screen</string>
     <string name="pref_messages_to_save">Set number of messages to save</string>
     <string name="pref_mms_settings_title">Multimedia (MMS) messages</string>
-    <string name="pref_msg_trash_bin_title">Deleted messages</string>
+    <string name="pref_msg_trash_bin_title">Recently deleted items</string>
     <string name="pref_notification_settings_title">Notifications</string>
     <string name="pref_other_title">Additional settings</string>
     <string name="pref_rcs_show_report_message">Receive delivery reports</string>
@@ -924,7 +922,7 @@ Check out recommended chatbots!"</string>
     <string name="rcs_hello_from_pc">Sign in to Fetion on your computer to transfer files.</string>
     <string name="rcs_list_bottom_loading">Just a sec…</string>
     <string name="rcs_list_bottom_search">Searching…</string>
-    <string name="rcs_main_purpose">You can use this service to send and receive photos, voice messages, videos, and more.</string>
+    <string name="rcs_main_purpose">You can use this service to send and receive photos, voice messages, videos, and more. This service requires location access.</string>
     <string name="rcs_message">5G messages</string>
     <string name="rcs_message_disable">"Can't view this message in Second space"</string>
     <string name="rcs_message_title">5G Messaging</string>
@@ -1309,7 +1307,7 @@ If you don't agree to grant such permissions or share and upload your personal i
 Attempt made: %s."</string>
     <string name="undelivered_msg_dialog_title">Undelivered message</string>
     <string name="undelivered_sms_dialog_body">"Couldn't send this message."</string>
-    <string name="uninstall_Google_SMS_banner_information">&lt;Data>Install now to get high quality photo sharing, chat on Wi-Fi, and more. &lt;a href=\"%1$s\">Learn more&lt;/a>&lt;/Data></string>
+    <string name="uninstall_Google_SMS_banner_information"><Data>Install now to get high quality photo sharing, chat on Wi-Fi, and more. &lt;a href=\"%1$s\">Learn more&lt;/a></Data></string>
     <string name="uninstall_Google_SMS_banner_title">Install Messages by Google</string>
     <string name="unknown">N/A</string>
     <string name="unknown_num">Unknown number</string>

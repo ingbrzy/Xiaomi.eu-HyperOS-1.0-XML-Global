@@ -89,7 +89,6 @@
     <string name="attach_take_photo">Зняти фото</string>
     <string name="attach_video">Відео</string>
     <string name="attach_video_call">Відеовиклик</string>
-    <string name="attachment_panel_show_part">Сторінка %1$d</string>
     <string name="audio_download_failed">Не вдалося завантажити запис</string>
     <string name="audio_message_expired">Це голосове повідомлення вже недоступне.</string>
     <string name="audio_message_mx_offline">Не вдалося завантажити аудіо. Mi повідомлення недоступні або знаходяться офлайн.</string>
@@ -538,10 +537,8 @@
     <string name="menu_unlock">Видалити з обраних</string>
     <string name="menu_view_contact">Проглянути контакт</string>
     <string name="menu_view_group_info">Інформація про групу</string>
-    <string name="message_cannot_send_air_mode">"Не вдалося надіслати повідомлення.
-Спочатку вимкніть Режим польоту."</string>
-    <string name="message_cannot_send_sim_unavailable">"Не вдалося надіслати повідомлення.
-Перевірте SIM-карту."</string>
+    <string name="message_cannot_send_air_mode">Вимкніть режим польоту, щоб надсилати повідомлення</string>
+    <string name="message_cannot_send_sim_unavailable">Вставте SIM-карту, щоб надіслати повідомлення</string>
     <string name="message_class_label">"Клас повідомлень: "</string>
     <string name="message_contact">Контакт:</string>
     <string name="message_details_title">Деталі повідомлення</string>
@@ -812,7 +809,7 @@
     <string name="pref_hide_verification_code_summary">Автоматично приховувати одноразові паролі в тексті сповіщень на екрані блокування</string>
     <string name="pref_messages_to_save">Встановити кількість повідомлень у діалозі для зберігання</string>
     <string name="pref_mms_settings_title">MMS</string>
-    <string name="pref_msg_trash_bin_title">Видалені повідомлення</string>
+    <string name="pref_msg_trash_bin_title">"Нещодавно видалені об'єкти"</string>
     <string name="pref_notification_settings_title">Сповіщення</string>
     <string name="pref_other_title">Інші</string>
     <string name="pref_rcs_show_report_message">Отримувати звіти про доставку</string>
@@ -999,8 +996,8 @@
     <string name="rcs_chatlist_scan_error">Не вдалося прочитати цей QR-код</string>
     <string name="rcs_conversation_rcs_tip">[Чат-бот] %s</string>
     <string name="rcs_create_new_group">Створити груповий чат</string>
-    <string name="rcs_dspt">Send and receive messages using WLAN or mobile network</string>
-    <string name="rcs_dspt_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_dspt">Надсилайте та отримуйте повідомлення за допомогою WLAN або мобільного інтернету</string>
+    <string name="rcs_dspt_unavailable">"Функції, пов'язані з Повідомленнями 5G, не підтримуються через обмеження оператора."</string>
     <string name="rcs_file_link_as_sms">Перейдіть на %s для перегляду відправлених вам файлів RCS.</string>
     <string name="rcs_forward_faild">Не вдалося переслати</string>
     <string name="rcs_forward_successful">Пересилання завершено</string>
@@ -1009,7 +1006,7 @@
     <string name="rcs_hello_from_pc">"Увійдіть в Fetion на вашому комп'ютері для передачі файлів."</string>
     <string name="rcs_list_bottom_loading">Хвилинку…</string>
     <string name="rcs_list_bottom_search">Пошук…</string>
-    <string name="rcs_main_purpose">Ви можете використовувати цю послугу для відправлення та отримання фото, голосових повідомлень, відео та ін.</string>
+    <string name="rcs_main_purpose">Ви можете використовувати цю послугу для відправлення та отримання фото, голосових повідомлень, відео та ін. Цій послузі необхідний доступ до місцезнаходження.</string>
     <string name="rcs_message">Повідомлення 5G</string>
     <string name="rcs_message_disable">Неможливо переглянути це повідомлення на Другому сховищі</string>
     <string name="rcs_message_title">Повідомлення 5G</string>
@@ -1059,7 +1056,7 @@
     <string name="rcs_summary_auto_resend_mms">Відправляти мультимедійні повідомлення 5G у вигляді ЬMS через мобільну мережу, коли немає підключення до Wi-Fi. Мобільним оператором буде стягуватися плата за SMS.</string>
     <string name="rcs_summary_auto_resend_sms">Відправляти текстові повідомлення 5G у вигляді SMS через мобільну мережу, коли немає підключення до Wi-Fi. Мобільним оператором буде стягуватися плата за SMS.</string>
     <string name="rcs_summary_silence_message">Сповіщення про повідомлення при запущеному клієнті будуть надходити без звуку</string>
-    <string name="rcs_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_unavailable">"Функції, пов'язані з Повідомленнями 5G, не підтримуються через обмеження оператора."</string>
     <string name="rcs_up_not_online">Повідомлення 5G не в мережі. Перевірте налаштування мережі та повторіть спробу.</string>
     <string name="rcs_wait_for_retry_text">Очікування…</string>
     <string name="received_at_time">Отримано: %1s</string>
@@ -1337,7 +1334,7 @@
 Якщо ви не згодні надавати такі дозволи або ділитися і завантажувати свою особисту інформацію, ви не зможете використовувати цю програму."</string>
     <string name="system_permission_declare_privacy_declare">%1s буде збирати ваші дані і для її нормальної роботи потрібні наступні дозволи:</string>
     <string name="system_permission_declare_privacy_declare_new">Для нормальної роботи цій програмі необхідне підключення до інтернету та отримання наступних дозволів:</string>
-    <string name="system_permission_declare_privacy_link">To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our %1s.</string>
+    <string name="system_permission_declare_privacy_link">Щоб повністю зрозуміти ваші права як користувача, а також те, як ми використовуємо ваші дані, прочитайте і погодьтеся з нашою %1s.</string>
     <string name="system_permission_declare_revoke_path">Ви можете відкликати авторизацію та вимкнкти послуги у Налаштуваннях повідомлень.</string>
     <string name="system_permission_declare_single_link">Перед використанням цієї функцій прочитайте погодьтеся з нашою %1s.</string>
     <string name="system_permission_declare_triple_link" formatted="false">Перед використанням цієї функцій прочитайте та погодьтеся з нашою %1s, %2s та %3s.</string>

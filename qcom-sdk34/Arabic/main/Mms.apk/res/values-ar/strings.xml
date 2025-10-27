@@ -89,7 +89,6 @@
     <string name="attach_take_photo">أخذ صورة</string>
     <string name="attach_video">فيديو</string>
     <string name="attach_video_call">مكالمة فيديو</string>
-    <string name="attachment_panel_show_part">الصفحة %1$d</string>
     <string name="audio_download_failed">تعذر تنزيل ملف الصوت</string>
     <string name="audio_message_expired">انتهت صلاحية هذه الرسالة صوتية.</string>
     <string name="audio_message_mx_offline">تعذر تنزيل الصوت. رسالة Mi غير متصلة او غير متاحة.</string>
@@ -378,9 +377,9 @@
     <string name="fcm_fallback_notification_channel_label">متنوعة</string>
     <string name="fdn_check_failure">يمكنك فقط إرسال رسائل إلى أرقام الاتصال الثابتة الخاصة بك.</string>
     <string name="feature_mx">رسالة Mi</string>
-    <string name="feature_mx_summary"><b>تسمح لك رسالة Mi بإرسال رسائل مجانية لمستخدمي رسالة Mi الآخرين عبر الانترنت</b>. قد تحتاج إلى إرسال رسالة نصية قصيرة لإعادة تفعيل هذه الخدمة. وقد تفرض عليك شركة الاتصالات رسوما على هذه الرسالة. يجب عليك القراءة والموافقة على <font color="#B3000000"><a href="http://url1">اتفاقية المستخدم</a></font> و <font color="#B3000000"><a href="http://url2">سياسة الخصوصية</a></font> قبل استخدام هذه الميزة.</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">الرسائل الذكية</string>
-    <string name="feature_smart_sms_summary"><b> توفر الرسائل الذكية ميزة التعرف على هوية المرسل والقوائم الذكية</b>. يتم توفير الرسائل الذكية جزئيًا بواسطة Yulore. يجب أن تقرأ وتوافق على <font color="#B3000000"><a href="http://url3">سياسة خصوصية</a></font> Yulore قبل استخدام هذه الميزة.</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">جارٍ التحميل…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">وقت الإنشاء:</string>
@@ -458,7 +457,7 @@
     <string name="from_pkg_name">من التطبيق:</string>
     <string name="ft_cfs_dialog_content">لا يمكن تسليم الملفات باستخدام RCS. إرسال رابط في رسالة نصية؟</string>
     <string name="ft_cfs_dialog_title">نقل الملفات البديلة</string>
-    <string name="google_message_promo_content">توصي Xiaomi يإستخدام \"الرسائل من Google\". احصل عليه الآن لمشاركة صور عالية الجودة وإرسال رسائل نصية عبر Wi-Fi واكثر من ذلك.<font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">لمزيد من التفاصيل</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">تحديث تطبيق الرسائل</string>
     <string name="group_already_kicked_hint">لا يمكن إرسال الرسائل. لست عضو في هذه الدردشة.</string>
     <string name="group_member_is_composing">جارٍ الكتابة…</string>
@@ -538,10 +537,8 @@
     <string name="menu_unlock">حذف من المفضلة</string>
     <string name="menu_view_contact">عرض جهات الإتصال</string>
     <string name="menu_view_group_info">معلومات المجموعة</string>
-    <string name="message_cannot_send_air_mode">"لا يمكن إرسال الرسائل.
-شغل وضع الطائرة أولاً."</string>
-    <string name="message_cannot_send_sim_unavailable">"لا يمكن إرسال الرسائل.
-تحقق من بطاقة SIM."</string>
+    <string name="message_cannot_send_air_mode">قم بإيقاف تشغيل وضع الطيران لإرسال الرسائل</string>
+    <string name="message_cannot_send_sim_unavailable">أدخل بطاقة SIM لإرسال الرسائل</string>
     <string name="message_class_label">"فئة الرسالة: "</string>
     <string name="message_contact">جهة الإتصال:</string>
     <string name="message_details_title">تفاصيل الرسالة</string>
@@ -732,7 +729,7 @@
     <string name="networking_allow_desc">تحتاج رسالة Mi إلى الاتصال بالإنترنت للعمل بشكل طبيعي. من أجل توفير خدمات نصية وصوتية مجانا، التعرف على الأرقام الغير معروفة، تصفية البريد المزعج، وتمكين ميزات أخرى، تحتاج رسالة Mi لاستخدام الصفحات الصفراء. السماح للصفحات الصفراء الاتصال بالإنترنت، والحصول على معلومات الموقع، وقراءة جهات الاتصال الخاصة بك؟</string>
     <string name="networking_allow_desc_without_mx">تحتاج رسالة Mi إلى الاتصال بالإنترنت للعمل بشكل طبيعي. من أجل التعرف على الأرقام الغير معروفة، تصفية البريد المزعج، وتمكين ميزات أخرى، تحتاج رسالة Mi لاستخدام الصفحات الصفراء. السماح للصفحات الصفراء الاتصال بالإنترنت، والحصول على معلومات الموقع، وقراءة جهات الاتصال الخاصة بك؟</string>
     <string name="networking_allow_title">تنبيه</string>
-    <string name="new_message">إنشاء رسالة</string>
+    <string name="new_message">رسالة جديدة</string>
     <string name="new_message_arrived">غير مقروء</string>
     <string name="new_phrase">إضافة رد</string>
     <string name="new_phrase_hint">أدخل رد جديد</string>
@@ -812,7 +809,7 @@
     <string name="pref_hide_verification_code_summary">إخفاء \"كلمات المرور لمرة واحدة\" تلقائيا في إشعارات الرسائل على تأمين شاشة القفل</string>
     <string name="pref_messages_to_save">تعيين عدد الرسائل المراد حفظها</string>
     <string name="pref_mms_settings_title">(MMS) رسائل الوسائط</string>
-    <string name="pref_msg_trash_bin_title">الرسائل المحذوفة</string>
+    <string name="pref_msg_trash_bin_title">العناصر المحذوفة مؤخرا</string>
     <string name="pref_notification_settings_title">الإشعارات</string>
     <string name="pref_other_title">الإعدادات الإضافية</string>
     <string name="pref_rcs_show_report_message">تلقي تقارير استلام</string>
@@ -1000,7 +997,7 @@
     <string name="rcs_conversation_rcs_tip">[دردشة آلية] %s</string>
     <string name="rcs_create_new_group">إنشاء دردشة جماعية</string>
     <string name="rcs_dspt">إرسال واستقبال الرسائل باستخدام شبكة WLAN أو شبكة الهاتف المحمول</string>
-    <string name="rcs_dspt_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_dspt_unavailable">لا يتم دعم الميزات المتعلقة برسائل 5G بسبب قيود شركة الاتصالات</string>
     <string name="rcs_file_link_as_sms">قم بزيارة %s لعرض ملف RCS المرسل إليك.</string>
     <string name="rcs_forward_faild">تعذر إعادة التوجيه</string>
     <string name="rcs_forward_successful">تم إعادة التوجيه بنجاح</string>
@@ -1009,7 +1006,7 @@
     <string name="rcs_hello_from_pc">سجل الدخول إلى Fetion على حاسوبك لنقل الملفات.</string>
     <string name="rcs_list_bottom_loading">لحظة من فضلك…</string>
     <string name="rcs_list_bottom_search">جارٍ البحث…</string>
-    <string name="rcs_main_purpose">يمكنك استخدام هذه الخدمة لإرسال واستقبال الصور والرسائل الصوتية ومقاطع الفيديو والمزيد.</string>
+    <string name="rcs_main_purpose">يمكنك استخدام هذه الخدمة لإرسال واستقبال الصور والرسائل الصوتية ومقاطع الفيديو والمزيد. تتطلب هذه الخدمة الوصول إلى الموقع.</string>
     <string name="rcs_message">رسائل 5G</string>
     <string name="rcs_message_disable">لا يمكن عرض هذه الرسالة في الواجهة الثانية</string>
     <string name="rcs_message_title">رسائل 5G</string>
@@ -1059,7 +1056,7 @@
     <string name="rcs_summary_auto_resend_mms">قم بتحويل رسائل الوسائط المتعددة 5G إلى وسائط إذا لم تتمكن من إرسال الرسالة الأصلية. ستفرض شركة اتصالاتك رسوم على هذه الرسالة.</string>
     <string name="rcs_summary_auto_resend_sms">قم بتحويل الرسائل النصية 5G إلى رسائل نصية إذا لم تتمكن من إرسال الرسالة الأصلية. ستفرض شركة اتصالاتك رسوم على هذه الرسالة.</string>
     <string name="rcs_summary_silence_message">كتم صوت رسائل الإشعارات عند تشغيل العميل</string>
-    <string name="rcs_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_unavailable">لا يتم دعم الميزات المتعلقة برسائل 5G بسبب قيود شركة الاتصالات</string>
     <string name="rcs_up_not_online">رسائل 5G غير متصلة. تحقق من اتصال الشبكة وحاول مرة أخرى.</string>
     <string name="rcs_wait_for_retry_text">جارٍ الإنتظار…</string>
     <string name="received_at_time">تم الإستلام في: %1s</string>
@@ -1102,10 +1099,10 @@
     <string name="recommend_tip_4">يمكن لرسائل Mi التعرف تلقائيًا على معرف المرسل ورؤية الأسماء وصور الملفات الشخصية للبائعين الموثوق بهم.</string>
     <string name="recommend_tip_5">يساعد التعرف الذكي لهوية المرسل على ترتيب صندوق الرسائل وتحديد موفري الخدمة الموثوق بهم.</string>
     <string name="recommend_tip_6">تقدم Yulore الدعم الفني للخدمات المذكورة أعلاه.</string>
-    <string name="recommend_tip_7">لقد قرأت وأوافق على <font color="#B3000000"><a href="http://url1">اتفاقية المستخدم</a></font> و<font color="#B3000000"><a href="http://url2">سياسة الخصوصية</a></font>، وأوافق ايضًا على <font color="#B3000000"><a href="http://url3">سياسة خصوصية Yulore</a></font> قبل استخدام رسالة Mi.</string>
-    <string name="recommend_tip_8">لقد قرأت وأوافق على <font color="#B3000000"><a href="http://url1">اتفاقية المستخدم</a></font> و<font color="#B3000000"><a href="http://url2">سياسة الخصوصية</a></font>، وأوافق ايضًا على <font color="#B3000000"><a href="http://url3">سياسة خصوصية Yulore</a></font> قبل استخدامك رسائل الإنترنت المجانية من خدمة رسالة Mi.</string>
-    <string name="recommend_tip_9">لقد قرأت وأوافق على <font color="#B3000000"><a href="http://url1">اتفاقية المستخدم</a></font> و<font color="#B3000000"><a href="http://url2">سياسة الخصوصية</a></font>، وأوافق ايضًا على <font color="#B3000000"><a href="http://url3">سياسة خصوصية Yulore</a></font> قبل استخدام خدمة التعرف الذكي لهوية المرسل.</string>
-    <string name="recommend_tip_9_2">يجب عليك قراءة والموافقة على <font color="#B3000000"><a href="http://url1">اتفاقية المستخدم</a></font> و<font color="#B3000000"><a href="http://url2">سياسة الخصوصية</a></font> قبل استخدام خدماتنا.</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">قم بتعيين رسائل Xiaomi كتطبيق المراسلة الافتراضي للحصول على جميع ميزات الحماية المتاحة</string>
     <string name="recommend_tip_other">عرض تطبيقات المراسلة الأخرى</string>
     <string name="recommend_tip_smart">حماية الخصوصية والتعرف الذكي</string>
@@ -1220,7 +1217,7 @@
     <string name="sent_label">"مُرسلة: "</string>
     <string name="service_abandon_alert">تنبيه</string>
     <string name="service_abandon_retry_deny">رجوع</string>
-    <string name="service_abandon_retry_setting">الإعدادت</string>
+    <string name="service_abandon_retry_setting">الإعدادات</string>
     <string name="service_message_not_found">انتهت صلاحية الرسالة أو غير متوفرة</string>
     <string name="service_network_problem">تعذر الإرسال بسبب وجود مشكلة في الشبكة</string>
     <string name="service_not_activated">لم يتم تنشيط الخدمة على الشبكة</string>
@@ -1229,7 +1226,7 @@
     <string name="setting_default_banner_message">قم بتعيين تطبيق Xiaomi للرسائل كتطبيق المراسلة الافتراضي لتتمكن من استخدام جميع الميزات</string>
     <string name="setting_default_banner_title">تنبيه</string>
     <string name="setting_default_dialog_btn_cancel">إلغاء</string>
-    <string name="setting_default_dialog_btn_conform">الإعدادت</string>
+    <string name="setting_default_dialog_btn_conform">الإعدادات</string>
     <string name="setting_default_dialog_title">هل ترغب في تعيين تطبيق Xiaomi للرسائل كتطبيق المراسلة الافتراضي الآن؟</string>
     <string name="setting_default_guide1_block_sms">حظر الرسائل النصية غير المرغوب فيها</string>
     <string name="setting_default_guide1_free_net_message">رسالة Mi</string>
@@ -1337,7 +1334,7 @@
  إذا لم توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية وتحميلها، فلن تتمكن من استخدام هذا التطبيق."</string>
     <string name="system_permission_declare_privacy_declare">يحتاج %1s إلى جمع بياناتك ويتطلب الاذونات التالية ليعمل بشكل طبيعي:</string>
     <string name="system_permission_declare_privacy_declare_new">يحتاج هذا التطبيق إلى الاتصال بالإنترنت ومنحه الأذونات التاليه ليعمل بشكل طبيعي:</string>
-    <string name="system_permission_declare_privacy_link">To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our %1s.</string>
+    <string name="system_permission_declare_privacy_link">لفهم حقوقك كمستخدم بشكل كامل، بالإضافة إلى الطرق التي نستخدم بها بياناتك، اقرأ ووافق على %1s.</string>
     <string name="system_permission_declare_revoke_path">يمكنك إلغاء الترخيص وإيقاف تشغيل الخدمات من إعدادات الرسائل.</string>
     <string name="system_permission_declare_single_link">يجب عليك القراءة والموافقة على %1s لدينا قبل استخدام هذه الخدمة.</string>
     <string name="system_permission_declare_triple_link" formatted="false">يجب عليك القراءة والموافقة على %1s و %2s و %3s لدينا قبل استخدام هذه الميزة.</string>

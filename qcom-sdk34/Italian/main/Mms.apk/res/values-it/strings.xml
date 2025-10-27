@@ -89,7 +89,6 @@ sono aggiunti alla lista blocchi"</string>
     <string name="attach_take_photo">Scatta foto</string>
     <string name="attach_video">Video</string>
     <string name="attach_video_call">Videochiamata</string>
-    <string name="attachment_panel_show_part">Pagina %1$d</string>
     <string name="audio_download_failed">Impossibile scaricare il file audio</string>
     <string name="audio_message_expired">Questo messaggio vocale è scaduto.</string>
     <string name="audio_message_mx_offline">"Impossibile scaricare l'audio. Mi Message è offline o non disponibile."</string>
@@ -267,10 +266,10 @@ ti informiamo che la funzionalità di messaggistica Internet è sospesa fino a n
     <string name="dialog_title_networking">Termini e Condizioni</string>
     <string name="disable_notifications_dialog_message">"Interrompere le notifiche dei messaggi di testo provenienti dall'applicazione messaggi predefinita?"</string>
     <string name="disabled">Disattivato</string>
-    <string name="discard">Annulla</string>
-    <string name="discard_message">Annulla</string>
+    <string name="discard">Elimina</string>
+    <string name="discard_message">Elimina</string>
     <string name="discard_message_reason">Il messaggio sarà annullato. I destinatari non sono validi.</string>
-    <string name="discard_slideshow">Annulla la presentazione</string>
+    <string name="discard_slideshow">Elimina la presentazione</string>
     <string name="dl_failure_notification">Download del messaggio %1$s da %2$snon riuscito.</string>
     <string name="dock_agree">Imposta</string>
     <string name="dock_content_text">"Riporta l'icona della schermata Home di Messaggistica nella sua posizione predefinita per trovarla in modo facile e veloce. Vuoi impostare la schermata Home ora?"</string>
@@ -378,9 +377,9 @@ ti informiamo che la funzionalità di messaggistica Internet è sospesa fino a n
     <string name="fcm_fallback_notification_channel_label">Varie</string>
     <string name="fdn_check_failure">Puoi inviare messaggi solo ai numeri memorizzati.</string>
     <string name="feature_mx">Mi Message</string>
-    <string name="feature_mx_summary"><b>Mi Message ti consente di inviare messaggi ad altri utenti Mi Message tramite internet senza incorrere in addebiti</b>. È necessario un messaggio SMS in uscita per attivare questo servizio. Il tuo operatore ti addebiterà il costo del messaggio. Leggi e accetta il nostro <font color="#B3000000"><a href="http://url1">Accordo utente</a></font> e la nostra <font color="#B3000000"><a href="http://url2">Informativa sulla privacy</a></font> prima di utilizzare questa funzionalità.</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">Messaggi smart</string>
-    <string name="feature_smart_sms_summary"><b>"Messaggi smart fornisce il riconoscimento dell'ID del mittente e menu smart"</b>". Messaggi smart è fornito in parte da Yulore. Leggi e accetta l'"<font color="#B3000000"><a href="http://url3">Informativa sulla privacy</a></font> di Yulore prima di utilizzare questa funzionalità.</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">Caricamento in corso…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Creato:</string>
@@ -458,7 +457,7 @@ ti informiamo che la funzionalità di messaggistica Internet è sospesa fino a n
     <string name="from_pkg_name">"Dall'applicazione:"</string>
     <string name="ft_cfs_dialog_content">I file non possono essere consegnati tramite RCS. Inviare un link in un messaggio di testo?</string>
     <string name="ft_cfs_dialog_title">Trasferimento di file alternativo</string>
-    <string name="google_message_promo_content">"Xiaomi consiglia di eseguire l'aggiornamento a Messaggi di Google. Installa ora per condividere foto di alta qualità, chattare via Wi-Fi e altro ancora. "<font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Scopri di più</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">Aggiorna la tua app di messaggistica</string>
     <string name="group_already_kicked_hint">Impossibile inviare messaggi. Non sei un membro di questa chat di gruppo.</string>
     <string name="group_member_is_composing">Digitando…</string>
@@ -538,10 +537,8 @@ ti informiamo che la funzionalità di messaggistica Internet è sospesa fino a n
     <string name="menu_unlock">Rimuovi dai preferiti</string>
     <string name="menu_view_contact">Mostra contatto</string>
     <string name="menu_view_group_info">Info gruppo</string>
-    <string name="message_cannot_send_air_mode">"Impossibile inviare messaggi.
-Disattiva prima la modalità aereo."</string>
-    <string name="message_cannot_send_sim_unavailable">"Impossibile inviare messaggi.
-Controlla la scheda SIM."</string>
+    <string name="message_cannot_send_air_mode">Disattiva la Modalità aereo per inviare messaggi</string>
+    <string name="message_cannot_send_sim_unavailable">Inserisci la scheda SIM per inviare messaggi</string>
     <string name="message_class_label">"Classe messaggio: "</string>
     <string name="message_contact">Contatto:</string>
     <string name="message_details_title">Dettagli messaggio</string>
@@ -732,7 +729,7 @@ Questo messaggio potrebbe non essere richiesto."</string>
     <string name="networking_allow_desc">Mi Message necessita di connettersi ad internet per funzionare correttamente. Per garantire servizi di voce e testo gratuiti, riconoscere numeri sconosciuti, filtrare lo spam ed abilitare altre funzioni, Mi Message necessita di usare Pagine Gialle. Consentire a Pagine Gialle di connettersi ad internet, ottenere le informazioni sulla tua posizione e leggere i tuoi contatti?</string>
     <string name="networking_allow_desc_without_mx">Mi Message necessita di connettersi ad internet per funzionare correttamente. Per riconoscere numeri sconosciuti, filtrare lo spam ed abilitare altre funzioni, Mi Message necessita di usare Pagine Gialle. Consentire a Pagine Gialle di connettersi ad internet, ottenere le informazioni sulla tua posizione e leggere i tuoi contatti?</string>
     <string name="networking_allow_title">Attenzione</string>
-    <string name="new_message">Scrivi</string>
+    <string name="new_message">Nuovo messaggio</string>
     <string name="new_message_arrived">Non letto</string>
     <string name="new_phrase">Aggiungi risposta</string>
     <string name="new_phrase_hint">Inserisci la nuova risposta</string>
@@ -812,7 +809,7 @@ Questo messaggio potrebbe non essere richiesto."</string>
     <string name="pref_hide_verification_code_summary">Nascondi automaticamente la password monouso sulla schermata di blocco protetta</string>
     <string name="pref_messages_to_save">Imposta il numero di messaggi da salvare</string>
     <string name="pref_mms_settings_title">Messaggi multimediali (MMS)</string>
-    <string name="pref_msg_trash_bin_title">Messaggi eliminati</string>
+    <string name="pref_msg_trash_bin_title">Eliminati di recente</string>
     <string name="pref_notification_settings_title">Notifiche</string>
     <string name="pref_other_title">Impostazioni aggiuntive</string>
     <string name="pref_rcs_show_report_message">Ricevi notifiche di consegna</string>
@@ -1009,7 +1006,7 @@ Dai un'occhiata ai chatbot consigliati!"</string>
     <string name="rcs_hello_from_pc">Accedi a Fetion sul tuo computer per trasferire file.</string>
     <string name="rcs_list_bottom_loading">Solo un secondo…</string>
     <string name="rcs_list_bottom_search">Ricerca in corso…</string>
-    <string name="rcs_main_purpose">Puoi utilizzare questo servizio per inviare e ricevere foto, messaggi vocali, video e molto altro.</string>
+    <string name="rcs_main_purpose">"Puoi utilizzare questo servizio per inviare e ricevere foto, messaggi vocali, video e altro ancora. Questo servizio richiede l'accesso alla posizione."</string>
     <string name="rcs_message">Messaggi 5G</string>
     <string name="rcs_message_disable">Impossibile visualizzare questo messaggio in Secondo spazio</string>
     <string name="rcs_message_title">Messaggi 5G</string>
@@ -1102,10 +1099,10 @@ Dai un'occhiata ai chatbot consigliati!"</string>
     <string name="recommend_tip_4">"Mi Message può riconoscere automaticamente l'ID del mittente consentendoti di visualizzare i nomi e le immagini del profilo di fornitori fidati."</string>
     <string name="recommend_tip_5">"Il riconoscimento intelligente dell'ID del mittente rende la tua casella di posta più ordinata e ti aiuta a identificare i mittenti affidabili."</string>
     <string name="recommend_tip_6">I servizi sopra citati sono forniti con il supporto tecnico di Yulore.</string>
-    <string name="recommend_tip_7">Leggi e accetta il nostro <font color="#B3000000"><a href="http://url1">Accordo utente</a></font> e la nostra <font color="#B3000000"><a href="http://url2">Informativa sulla privacy</a></font>", oltre all'"<font color="#B3000000"><a href="http://url3">Informativa sulla privacy di Yulore</a></font> prima di utilizzare Mi Message.</string>
-    <string name="recommend_tip_8">Leggi e accetta il nostro <font color="#B3000000"><a href="http://url1">Accordo utente</a></font> e la nostra <font color="#B3000000"><a href="http://url2">Informativa sulla privacy</a></font>", oltre all'"<font color="#B3000000"><a href="http://url3">Informativa sulla privacy di Yulore</a></font> prima di utilizzare la messaggistica Internet gratuita fornita da Mi Message.</string>
-    <string name="recommend_tip_9">Leggi e accetta il nostro <font color="#B3000000"><a href="http://url1">Accordo utente</a></font> e la nostra <font color="#B3000000"><a href="http://url2">Informativa sulla privacy</a></font>", oltre all'"<font color="#B3000000"><a href="http://url3">Informativa sulla privacy di Yulore</a></font>" prima di utilizzare il riconoscimento intelligente dell'ID del mittente."</string>
-    <string name="recommend_tip_9_2">Leggi e accetta il nostro <font color="#B3000000"><a href="http://url1">Accordo utente</a></font> e la nostra <font color="#B3000000"><a href="http://url2">Informativa sulla privacy</a></font> prima di utilizzare i nostri servizi.</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">Imposta Xiaomi Messaggi come app di messaggistica predefinita per avere tutti i vantaggi per la sicurezza che offriamo</string>
     <string name="recommend_tip_other">Altre app di messaggistica</string>
     <string name="recommend_tip_smart">Protezione della privacy. Riconoscimento intelligente.</string>
