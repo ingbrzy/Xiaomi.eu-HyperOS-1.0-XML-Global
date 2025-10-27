@@ -89,7 +89,6 @@ lagt til blokkeringslisten"</string>
     <string name="attach_take_photo">Ta bilde</string>
     <string name="attach_video">Video</string>
     <string name="attach_video_call">Videosamtale</string>
-    <string name="attachment_panel_show_part">Side %1$d</string>
     <string name="audio_download_failed">Kunne ikke laste ned lyd</string>
     <string name="audio_message_expired">Denne talemeldinger har utløpt.</string>
     <string name="audio_message_mx_offline">Kunne ikke laste ned lyd. Mi Message er frakoblet eller ikke tilgjengelig.</string>
@@ -378,9 +377,9 @@ Vær oppmerksom på at funksjonaliteten for meldinger over internett er suspende
     <string name="fcm_fallback_notification_channel_label">Diverse</string>
     <string name="fdn_check_failure">Du kan kun sende meldinger til dine faste oppringingsnumre.</string>
     <string name="feature_mx">Mi Message</string>
-    <string name="feature_mx_summary"><b>Mi Message gir deg muligheten til å sende meldinger til andre brukere av Mi Message over internett uten å pådra deg kostnader</b>. En utgående SMS-melding er nødvendig for å aktivere denne tjenesten. Operatøren din belaster deg for denne meldingen. Les og godta <font color="#B3000000"><a href="http://url1">brukeravtalen</a></font> og <font color="#B3000000"><a href="http://url2">personvernerklæringen</a></font> vår før du bruker denne funksjonen.</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">Smartmeldinger</string>
-    <string name="feature_smart_sms_summary"><b>Smartmeldinger gir avsender-ID-gjenkjennelse og smartmenyer</b>. Smartmeldinger leveres delvis av Yulore. Les og godta Yulores <font color="#B3000000"><a href="http://url3">personvernerklæring</a></font> før du bruker denne funksjonen.</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">Laster…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Opprettet:</string>
@@ -458,7 +457,7 @@ Vær oppmerksom på at funksjonaliteten for meldinger over internett er suspende
     <string name="from_pkg_name">Fra app-en:</string>
     <string name="ft_cfs_dialog_content">Filer kunne ikke leveres med RCS. Vil du sende en lenke i en tekstmelding i stedet?</string>
     <string name="ft_cfs_dialog_title">Alternativ filoverføring</string>
-    <string name="google_message_promo_content">Xiaomi anbefaler at du oppgraderer til Messages fra Google. Installer den nå for å dele bilder i høy kvalitet, chatte over Wi-Fi og mer. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Finn ut mer</a></font>.</string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">Oppgrader meldingsappen din</string>
     <string name="group_already_kicked_hint">Kan ikke sende meldinger. Du er ikke medlem av denne gruppesamtalen.</string>
     <string name="group_member_is_composing">Srkiver…</string>
@@ -538,10 +537,8 @@ Vær oppmerksom på at funksjonaliteten for meldinger over internett er suspende
     <string name="menu_unlock">Fjern fra favoritter</string>
     <string name="menu_view_contact">Vis kontakt</string>
     <string name="menu_view_group_info">Gruppeinfo</string>
-    <string name="message_cannot_send_air_mode">"Kan ikke sende meldinger.
-Slå flymodus av først."</string>
-    <string name="message_cannot_send_sim_unavailable">"Kan ikke sende meldinger.
-Kontroller SIM-kortet ditt."</string>
+    <string name="message_cannot_send_air_mode">Sl[ av flymodus for å sende meldinger</string>
+    <string name="message_cannot_send_sim_unavailable">Sett inn SIM-kortet for å sende meldinger</string>
     <string name="message_class_label">"Meldingsklasse: "</string>
     <string name="message_contact">Kontakt:</string>
     <string name="message_details_title">Meldingsdetaljer</string>
@@ -732,7 +729,7 @@ En utgående SMS-melding er nødvendig for å aktivere MI Message. Operatøren d
     <string name="networking_allow_desc">Mi Message må koble til internett for å fungere normalt. For å kunne levere gratis tekst og taletjenester, gjenkjenne ukjente numre, filtrere spam og aktivere andre funksjoner, må Mi Message bruke gule sider. Tillat at gule sider kan koble til internett, få plasseringsinformasjon og lese kontaktene dine?</string>
     <string name="networking_allow_desc_without_mx">Mi Message må koble til internett for å fungere normalt. For å kunne gjenkjenne ukjente numre, filtrere spam og aktivere andre funksjoner, må Mi Message bruke gule sider. Tillat at gule sider kan koble til internett, få plasseringsinformasjon og lese kontaktene dine?</string>
     <string name="networking_allow_title">Oppmerksomhet</string>
-    <string name="new_message">Skriv ny</string>
+    <string name="new_message">Ny melding</string>
     <string name="new_message_arrived">Ulest</string>
     <string name="new_phrase">Legg til et svar</string>
     <string name="new_phrase_hint">Skriv inn et nytt svar</string>
@@ -812,7 +809,7 @@ En utgående SMS-melding er nødvendig for å aktivere MI Message. Operatøren d
     <string name="pref_hide_verification_code_summary">Skjul automatisk engangspassord i meldingsvarslinger på sikret låseskjerm</string>
     <string name="pref_messages_to_save">Velg antall meldinger som skal lagres</string>
     <string name="pref_mms_settings_title">Multimediemeldinger (MMS)</string>
-    <string name="pref_msg_trash_bin_title">Slettede meldinger</string>
+    <string name="pref_msg_trash_bin_title">Nylig slettede elementer</string>
     <string name="pref_notification_settings_title">Varslinger</string>
     <string name="pref_other_title">Tilleggsinnstillinger</string>
     <string name="pref_rcs_show_report_message">Få leveringsrapporter</string>
@@ -888,7 +885,7 @@ En utgående SMS-melding er nødvendig for å aktivere MI Message. Operatøren d
     <string name="priority_label">"Prioritet: "</string>
     <string name="priority_low">Lav</string>
     <string name="priority_normal">Normal</string>
-    <string name="privacy_dialog_tips_revoke_1">Hvis du fortsetter, trekker du tilbake ditt samtykke til Mi Messages personvernerklæring. Vi vil ikke lenger innhente personopplysninger om deg. Personopplysninger vi allerede har innhentet og innehar vil bli slettet innen den spesifiserte tidsperioden i samsvar med gjeldende lover og regler, med mindre annet kreves. Siden Mi Message og Smart sender ID-gjenkjenning leverer tjenestene sine basert på innhenting av de nødvendige personopplysningene, vil din tilbaketrekking av samtykke tolkes som at du nekter å motta disse tjenestene.</string>
+    <string name="privacy_dialog_tips_revoke_1">Hvis du fortsetter, trekker du tilbake ditt samtykke til Mi Messages personvernerklæring. Vi vil ikke lenger innhente personopplysninger om deg. Personopplysninger vi allerede har innhentet og innehar vil bli slettet innen den spesifiserte tidsperioden i samsvar med gjeldende lover og regler, med mindre annet kreves. Siden Mi Message og Smart sender ID-gjenkjenning leverer tjenestene basert på innhenting av de nødvendige personopplysningene, vil din tilbaketrekking av samtykke tolkes som at du nekter å motta disse tjenestene.</string>
     <string name="privacy_mode_hint">Kan ikke sende meldinger i gjestemodus</string>
     <string name="privacy_password_message1">Personvern-passord fungerer for bilder, notater og skjulte mapper.</string>
     <string name="privacy_password_message2">Bruk personvern-passord. Det fungerer for fungerer for bilder, notater og skjulte mapper.</string>
@@ -1009,7 +1006,7 @@ Sjekk ut anbefalte chatbots!"</string>
     <string name="rcs_hello_from_pc">Logg på Fetion på datamaskinen for å overføre filer.</string>
     <string name="rcs_list_bottom_loading">Et øyeblikk…</string>
     <string name="rcs_list_bottom_search">Søker…</string>
-    <string name="rcs_main_purpose">Du kan bruke denne tjenesten til å sende og motta bilder, talemeldinger, videoer og mer.</string>
+    <string name="rcs_main_purpose">Du kan bruke denne tjenesten til å sende og motta bilder, talemeldinger, videoer m.m. Denne tjenesten krever posisjonstilgang.</string>
     <string name="rcs_message">5G messages</string>
     <string name="rcs_message_disable">Kan ikke vise denne meldingen i det sekundære området</string>
     <string name="rcs_message_title">5G Messaging</string>
@@ -1102,10 +1099,10 @@ Sjekk ut anbefalte chatbots!"</string>
     <string name="recommend_tip_4">Mi Message kan gjenkjenne sender-ID automatisk, noe som gjør at du kan se navn og profilbilder til pålitelige leverandører.</string>
     <string name="recommend_tip_5">Smart gjenkjennelse av sender-ID gjør innboksen ryddigere og bidrar til å identifisere pålitelige avsendere.</string>
     <string name="recommend_tip_6">Tjenestene ovenfor leveres med teknisk støtte fra Yulore.</string>
-    <string name="recommend_tip_7">Les og godta <font color="#B3000000"><a href="http://url1">brukeravtalen</a></font> og <font color="#B3000000"><a href="http://url2">personvernerklæringen</a></font> samt <font color="#B3000000"><a href="http://url3">Yulores personvernerklæring</a></font> før du bruker Mi Message.</string>
-    <string name="recommend_tip_8">Les og godta <font color="#B3000000"><a href="http://url1">brukeravtalen</a></font> og <font color="#B3000000"><a href="http://url2">personvernerklæringen</a></font> samt <font color="#B3000000"><a href="http://url3">Yulores personvernerklæring</a></font> før du bruker Gratis meldinger over internett levert av Mi Message.</string>
-    <string name="recommend_tip_9">Les og godta <font color="#B3000000"><a href="http://url1">brukeravtalen</a></font> og <font color="#B3000000"><a href="http://url2">personvernerklæringen</a></font> samt <font color="#B3000000"><a href="http://url3">Yulores personvernerklæring</a></font> før du bruker Smart gjenkjennelse av sender-ID.</string>
-    <string name="recommend_tip_9_2">Les og godta <font color="#B3000000"><a href="http://url1">brukeravtalen</a></font> og <font color="#B3000000"><a href="http://url2">personvernerklæringen</a></font> før du bruker tjenestene våre.</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">Angi Xiaomi Messaging som standard meldingsapp for å få alle sikkerhetsfordelene vi tilbyr</string>
     <string name="recommend_tip_other">Vis andre meldingsapper</string>
     <string name="recommend_tip_smart">Personvernbeskyttelse. Smartgjenkjenning.</string>

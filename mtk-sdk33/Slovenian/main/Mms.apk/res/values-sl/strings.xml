@@ -89,7 +89,6 @@ so bila dodana na seznam blokiranih"</string>
     <string name="attach_take_photo">Fotografiraj</string>
     <string name="attach_video">Videoposnetek</string>
     <string name="attach_video_call">Video klic</string>
-    <string name="attachment_panel_show_part">Stran %1$d</string>
     <string name="audio_download_failed">Ne morem prenesti zvoka</string>
     <string name="audio_message_expired">Glasovno sporočilo je poteklo.</string>
     <string name="audio_message_mx_offline">Ni mogoče prenesti zvoka. Mi Sporočila niso povezana na splet ali so nedosegljiva.</string>
@@ -378,9 +377,9 @@ Upoštevajte, da je funkcija internetnih sporočil do nadaljnjega onemogočena. 
     <string name="fcm_fallback_notification_channel_label">Razno</string>
     <string name="fdn_check_failure">Sporočila lahko pošljete le fiksnim klicnim številkam.</string>
     <string name="feature_mx">Mi Sporočila</string>
-    <string name="feature_mx_summary"><b>Mi Sporočila vam omogočajo pošiljanje sporočil drugim uporabnikom Mi Sporočila preko spleta in brez dodatnih stroškov</b>. Naprava bo poslala SMS sporočilo za aktivacijo te storitve. Vaš operater lahko zaračuna poslano sporočilo. Preden začnete uporabljati storitve se morate strinjati z našim <font color="#B3000000"><a href="http://url1">Uporabniškim dogovorom</a></font> in <font color="#B3000000"><a href="http://url2">Pravilnikom o zasebnosti</a></font>.</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">Pametna Sporočila</string>
-    <string name="feature_smart_sms_summary"><b>Aplikacija Pametna Sporočila zagotavlja prepoznavanje ID pošiljatelja in pametne menije</b>. Aplikacijo delno zagotavlja Yulore. Pred uporabo storitve preberite in se strinjajte z Yulore <font color="#B3000000"><a href="http://url3">Pravilnikom o zasebnosti</a></font>.</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">Nalaganje…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Ustvarjeno:</string>
@@ -458,7 +457,7 @@ Upoštevajte, da je funkcija internetnih sporočil do nadaljnjega onemogočena. 
     <string name="from_pkg_name">Iz aplikacije:</string>
     <string name="ft_cfs_dialog_content">Datoteke ni mogoče dostaviti z uporabo RCS. Ali želite namesto tega poslati povezavo preko sporočil?</string>
     <string name="ft_cfs_dialog_title">Alternativni način premeščanja datotek</string>
-    <string name="google_message_promo_content">Xiaomi priporoča uporabo Sporočil, ki jih zagotavlja Google. Namestite zdaj in uživajte v skupni rabi fotografij visoke kakovosti, pogovorih prek Wi-Fi omrežja in še več. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Izvedite več</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">Posodobite vašo aplikacijo za sporočila</string>
     <string name="group_already_kicked_hint">Pošiljanje sporočil ni mogoče. Niste član tega skupinskega klepeta.</string>
     <string name="group_member_is_composing">Pisanje…</string>
@@ -538,10 +537,8 @@ Upoštevajte, da je funkcija internetnih sporočil do nadaljnjega onemogočena. 
     <string name="menu_unlock">Odstrani iz priljubljenih</string>
     <string name="menu_view_contact">Prikaži stik</string>
     <string name="menu_view_group_info">Podatki o skupini</string>
-    <string name="message_cannot_send_air_mode">"Ni mogoče poslati sporočila.
-Najprej izklopite Letalski način."</string>
-    <string name="message_cannot_send_sim_unavailable">"Ni mogoče poslati sporočila.
-Preverite vašo SIM kartico."</string>
+    <string name="message_cannot_send_air_mode">Za pošiljanje sporočil izklopite Letalski način</string>
+    <string name="message_cannot_send_sim_unavailable">Za pošiljanje sporočil vstavite SIM kartico</string>
     <string name="message_class_label">"Vrsta sporočila: "</string>
     <string name="message_contact">Stik:</string>
     <string name="message_details_title">Podrobnosti sporočila</string>
@@ -812,7 +809,7 @@ SMS sporočilo je potrebno za aktivacijo Mi Sporočila. Vaš operater vam bo zar
     <string name="pref_hide_verification_code_summary">Samodejno skrij enkratna gesla v sporočilih obvestil na varnem Zaklenjenem zaslonu</string>
     <string name="pref_messages_to_save">Nastavi število sporočil za shranjevanje</string>
     <string name="pref_mms_settings_title">Nastavitve MMS-a</string>
-    <string name="pref_msg_trash_bin_title">Izbrisana sporočila</string>
+    <string name="pref_msg_trash_bin_title">Nedavno izbrisani elementi</string>
     <string name="pref_notification_settings_title">Obvestila</string>
     <string name="pref_other_title">Dodatne nastavitve</string>
     <string name="pref_rcs_show_report_message">Prejemi dnevna poročila</string>
@@ -1009,7 +1006,7 @@ Oglejte si priporočene klepetalne robote!"</string>
     <string name="rcs_hello_from_pc">Za premeščanje datotek se prijavite v Fetion na vašem računalniku.</string>
     <string name="rcs_list_bottom_loading">Samo trenutek…</string>
     <string name="rcs_list_bottom_search">Iskanje…</string>
-    <string name="rcs_main_purpose">S to storitvijo lahko pošiljate in prejemate fotografije, glasovna sporočila, videoposnetke in drugo.</string>
+    <string name="rcs_main_purpose">To storitev lahko uporabljate za pošiljanje in prejemanje fotografij, glasovnih sporočil, videoposnetkov in drugega. Ta storitev zahteva dostop do lokacije.</string>
     <string name="rcs_message">5G sporočila</string>
     <string name="rcs_message_disable">Tega sporočila ni mogoče prikazati v Drugem prostoru</string>
     <string name="rcs_message_title">5G Sporočila</string>
@@ -1102,10 +1099,10 @@ Oglejte si priporočene klepetalne robote!"</string>
     <string name="recommend_tip_4">Mi Sporočila vam omogočajo samodejno prepoznavanje ID pošiljatelja, ki vam omogoča, da lahko vidite imena in fotografije profila zaupanja vrednih prodajalcev.</string>
     <string name="recommend_tip_5">Pametno prepoznavanje ID pošiljatelja vam pomaga urediti vaš nabiralnik ter prepoznati zanesljive pošiljatelje.</string>
     <string name="recommend_tip_6">Tehnično podporo za zgoraj omenjene storitve zagotavlja Yulore.</string>
-    <string name="recommend_tip_7">Pred uporabo Mi Sporočil preberite in se strinjajte z <font color="#B3000000"><a href="http://url1">Uporabniškim dogovorom</a></font> in <font color="#B3000000"><a href="http://url2">Pravilnikom o zasebnosti</a></font>, prav tako tudi z <font color="#B3000000"><a href="http://url3">Yulore Pravilnikom o zasebnosti</a></font>.</string>
-    <string name="recommend_tip_8">Pred uporabo brezplačnih spletnih sporočil, ki jih zagotavljajo Mi Sporočila, preberite in se strinjajte z <font color="#B3000000"><a href="http://url1">Uporabniškim dogovorom</a></font> in <font color="#B3000000"><a href="http://url2">Pravilnikom o zasebnosti</a></font>, prav tako tudi z <font color="#B3000000"><a href="http://url3">Yulore Pravilnikom o zasebnosti</a></font>.</string>
-    <string name="recommend_tip_9">Pred uporabo Pametnega prepoznavanja ID pošiljatelja preberite in se strinjajte z <font color="#B3000000"><a href="http://url1">Uporabniškim dogovorom</a></font> in <font color="#B3000000"><a href="http://url2">Pravilnikom o zasebnosti</a></font>, prav tako tudi z <font color="#B3000000"><a href="http://url3">Yulore Pravilnikom o zasebnosti</a></font>.</string>
-    <string name="recommend_tip_9_2">Pred uporabo naših storitev preberite in se strinjajte z našim <font color="#B3000000"><a href="http://url1">Uporabniškim dogovorom</a></font> in <font color="#B3000000"><a href="http://url2">Pravilnikom o zasebnosti</a></font>.</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">Nastavite Xiaomi aplikacijo Sporočila kot privzeto aplikacijo za sporočanje, da izkusite vse varnostne prednosti, ki jih ponujamo</string>
     <string name="recommend_tip_other">Ogled drugih aplikacij za sporočanje</string>
     <string name="recommend_tip_smart">Zaščita zasebnosti. Pametno prepoznavanje.</string>

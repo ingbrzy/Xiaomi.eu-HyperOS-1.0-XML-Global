@@ -81,7 +81,7 @@ afegits a la llista de bloqueig"</string>
     <string name="attach_image">Fotos</string>
     <string name="attach_rcs_file">Fitxer</string>
     <string name="attach_rcs_location">Ubicació</string>
-    <string name="attach_record_sound">"Enregistra l'àudio"</string>
+    <string name="attach_record_sound">"Enregistra L'àudio"</string>
     <string name="attach_record_video">Captura de vídeo</string>
     <string name="attach_slideshow">Presentació de diapositives</string>
     <string name="attach_sound">Àudio</string>
@@ -89,14 +89,13 @@ afegits a la llista de bloqueig"</string>
     <string name="attach_take_photo">Pren una foto</string>
     <string name="attach_video">Vídeo</string>
     <string name="attach_video_call">Vídeotrucada</string>
-    <string name="attachment_panel_show_part">Pàgina %1$d</string>
-    <string name="audio_download_failed">"No s'ha pogut baixar l'àudio"</string>
+    <string name="audio_download_failed">"No s'ha pogut baixar L'àudio"</string>
     <string name="audio_message_expired">Aquest missatge de veu ha caducat.</string>
-    <string name="audio_message_mx_offline">"No s'ha pogut baixar l'àudio. Missatges Mi està fora de línia o no disponible."</string>
+    <string name="audio_message_mx_offline">"No s'ha pogut baixar L'àudio. Missatges Mi està fora de línia o no disponible."</string>
     <string name="audio_playing_seconds">%d\"</string>
     <string name="audio_sim_card_mismatching">"No hi ha connexió de xarxa o s'ha instal·lat la SIM incorrecta. Instal·leu la targeta SIM des de la qual es va enviar el missatge i connecteu-vos a la xarxa."</string>
-    <string name="auto_identify_btn_text_only_smart_messaging">Activa la Missatgeria Intel·ligent</string>
-    <string name="auto_identify_btn_text_when_all_disabled">"Identifica l'identificador del remitent automàticament"</string>
+    <string name="auto_identify_btn_text_only_smart_messaging">Activa la Missatgeria intel·ligent</string>
+    <string name="auto_identify_btn_text_when_all_disabled">"Identifica L'identificador del remitent automàticament"</string>
     <string name="auto_identify_btn_title">"Aquest missatge s'envia des d'un nombre desconegut."</string>
     <string name="auto_identify_confirmation">És possible que triguin uns minuts a activar aquesta funció.</string>
     <string name="back_to_message_list">Torna a la llista de missatges</string>
@@ -130,21 +129,21 @@ afegits a la llista de bloqueig"</string>
     <string name="button_resend_message">Envia de nou</string>
     <string name="button_unfold">Contraure</string>
     <string name="call_sender">Truca al remitent</string>
-    <string name="can_not_send_by_rcs">"Can't use 5G Messaging"</string>
+    <string name="can_not_send_by_rcs">No es pot utilitzar la Missatgeria 5G</string>
     <string name="can_not_view_group_chat_stranger">"No es poden veure els detalls d'un desconegut."</string>
     <string name="cancel">Cancel·la</string>
     <string name="cannot_add_picture_and_video">No es pot afegir vídeo i foto a una diapositiva.</string>
     <string name="cannot_add_slide_anymore">No es poden afegir més diapositives.</string>
     <string name="cannot_forward_drm_obj">"L'objecte DRM inclòs en el missatge no es pot reenviar."</string>
     <string name="cannot_get_details">No es poden obtenir els detalls.</string>
-    <string name="cannot_resend_audio">"No es pot enviar l'enregistrament"</string>
+    <string name="cannot_resend_audio">"No es pot enviar L'enregistrament"</string>
     <string name="cannot_send_message">No es pot enviar el missatge</string>
     <string name="cannot_send_message_reason">El missatge no té destinataris vàlids.</string>
     <string name="card_insert_to_contact">Importa el contacte</string>
     <string name="change_duration_activity">Canvia la durada</string>
     <string name="charge_link">Comprovar transacció</string>
     <string name="charge_tip_dialog_for_id">Cal un missatge SMS de sortida per activar Missatges Mi. La vostra operadora us cobrarà per aquest missatge.</string>
-    <string name="charge_tip_dialog_for_in">Cal un missatge SMS de sortida per activar la Missatgeria Intel·ligent. La vostra operadora us cobrarà per aquest missatge.</string>
+    <string name="charge_tip_dialog_for_in">Cal un missatge SMS de sortida per activar la Missatgeria intel·ligent. La vostra operadora us cobrarà per aquest missatge.</string>
     <string name="charge_tip_dialog_make_sure">Entesos</string>
     <string name="chatbot_list_title">Chatbots</string>
     <string name="chatbot_main_title">Chatbots</string>
@@ -165,9 +164,9 @@ Tingueu en compte que la funcionalitat de missatgeria a Internet està suspesa f
     <string name="cm_privacy_dialog_allow">Accepto</string>
     <string name="cm_privacy_dialog_cancel">Cancel·leu</string>
     <string name="cm_privacy_dialog_spannable_tips">Política de privadesa</string>
-    <string name="cm_privacy_dialog_tips">"Els serveis de Missatgeria Intel·ligent són proporcionats pel vostre operador. Missatgeria necessita connectar-se a internet i accedir a la vostra ubicació per donar-vos aquests serveis. Deureu acceptar la %1s del vostre operador abans d'utilitzar aquests serveis. Esteu d'acord?"</string>
+    <string name="cm_privacy_dialog_tips">"Els serveis de Missatgeria intel·ligent són proporcionats pel vostre operador. Missatgeria necessita connectar-se a internet i accedir a la vostra ubicació per donar-vos aquests serveis. Deureu acceptar la %1s del vostre operador abans d'utilitzar aquests serveis. Esteu d'acord?"</string>
     <string name="cm_privacy_dialog_title">Atenció</string>
-    <string name="cmcc_privacy">"Acord de privadesa de l'operador China Mobile"</string>
+    <string name="cmcc_privacy">"Acord de privadesa de L'operador China Mobile"</string>
     <string name="coach">Transport</string>
     <string name="columbus_ad_flag_text">ANUNCI</string>
     <string name="columbus_skip_ad">Omet</string>
@@ -196,14 +195,14 @@ Tingueu en compte que la funcionalitat de missatgeria a Internet està suspesa f
     <string name="confirm_restore_message">Voleu restaurar els missatges seleccionats?</string>
     <string name="confirm_restore_positive">Restaura</string>
     <string name="confirm_restore_title">Restaureu el missatge</string>
-    <string name="confirm_send_mms">"Un dels destinataris inclou una adreça de correu electrònic. Aquest missatge serà enviat com un MMS, que pot generar càrrecs addicionals de l'operador."</string>
+    <string name="confirm_send_mms">"Un dels destinataris inclou una adreça de correu electrònic. Aquest missatge serà enviat com un MMS, que pot generar càrrecs addicionals de L'operador."</string>
     <string name="confirm_upload_sms">Carregueu missatges per millorar la funcionalitat de la llista de bloqueig</string>
     <string name="contact_card_unknown_contact">Contacte desconegut</string>
     <string name="contact_not_exists">Aquesta persona no es troba als vostres contactes.</string>
     <string name="context_menu_add_calendar">Afegeix al Calendari</string>
     <string name="context_menu_add_contact">Afegeix als contactes</string>
     <string name="context_menu_add_to_browser_favorite">Afegeix als marcadors del navegador</string>
-    <string name="context_menu_browse_web">"Obre l'enllaç"</string>
+    <string name="context_menu_browse_web">"Obre L'enllaç"</string>
     <string name="context_menu_call">Trucada</string>
     <string name="context_menu_contact">Contacte: %1$s</string>
     <string name="context_menu_copy">Copia</string>
@@ -212,7 +211,7 @@ Tingueu en compte que la funcionalitat de missatgeria a Internet està suspesa f
     <string name="context_menu_send_mail">Envia un correu</string>
     <string name="context_menu_send_sms">Envia el missatge</string>
     <string name="context_menu_view_contact">Mostra el contacte</string>
-    <string name="context_menu_view_mms">"Mostra l'MMS"</string>
+    <string name="context_menu_view_mms">"Mostra L'MMS"</string>
     <string name="conversation">Missatges</string>
     <string name="conversation_listitem_avatar">Avatar</string>
     <string name="converting_to_picture_message">"S'està convertint en MMS…"</string>
@@ -254,18 +253,18 @@ Tingueu en compte que la funcionalitat de missatgeria a Internet està suspesa f
     <string name="dialog_message_correct_as_normal">Selecciona els missatges a moure</string>
     <string name="dialog_message_fake_cell_detect_error">Voleu corregir la informació sobre aquest missatge? Per fer-ho, hem de penjar el número de telèfon (%1$s), el contingut del missatge i la informació sobre la ubicació propera als nostres servidors.</string>
     <string name="dialog_message_mx">"Missatges Mi us permet enviar missatges a altres usuaris Xiaomi sense incórrer en despeses. Fa falta un missatge SMS per activar Missatges Mi. El vostre operador us cobrarà per aquest missatge. Heu d'acceptar el nostre \"%1$s\" i \"%2$s\" abans d'utilitzar Missatges Mi."</string>
-    <string name="dialog_message_networking">"Missatgeria necessita utilitzar Pàgines Grogues per poder facilitar la ID de l'Emisor. Missatgeria i Pàgines Grogues necessiten connectar-se a internet i accedir a la vostra ubicació per funcionar amb normalitat. Ho voleu permetre?"</string>
+    <string name="dialog_message_networking">"Missatgeria necessita utilitzar Pàgines Grogues per poder facilitar la ID de L'Emisor. Missatgeria i Pàgines Grogues necessiten connectar-se a internet i accedir a la vostra ubicació per funcionar amb normalitat. Ho voleu permetre?"</string>
     <string name="dialog_message_rcs">"China Mobile us permet enviar missatges a altres usuaris de China Mobile de la Xina continental sense incórrer en despeses. Heu d'acceptar el nostre \"%1$s\" abans d'utilitzar la Missatgeria de China Mobile."</string>
     <string name="dialog_sim_locked_confirm">"D'acord"</string>
     <string name="dialog_sim_locked_message">La vostra targeta SIM no funciona completament amb aquest telèfon perquè no compleix els termes i condicions de la vostra subscripció. Si teniu alguna pregunta o necessiteu més informació sobre aquest tema, poseu-vos en contacte amb els centres de serveis de Xiaomi o amb la botiga que us ha venut els productes.</string>
-    <string name="dialog_smart_message_privacy_tips">"Els serveis de Missatgeria Intel·ligent són subministrats en part per Dianhuabang. Abans d'utilitzar la Missatgeria Intel·ligent, heu d'acceptar \"%1$s\". La Missatgeria Intel·ligent ha de connectar-se a Internet i accedir a la vostra ubicació per funcionar normalment. Esteu d'acord?"</string>
+    <string name="dialog_smart_message_privacy_tips">"Els serveis de Missatgeria intel·ligent són subministrats en part per Dianhuabang. Abans d'utilitzar la Missatgeria intel·ligent, heu d'acceptar \"%1$s\". La Missatgeria intel·ligent ha de connectar-se a Internet i accedir a la vostra ubicació per funcionar normalment. Esteu d'acord?"</string>
     <string name="dialog_smart_message_privacy_tips_title">Política de privadesa de Dianhuabang</string>
     <string name="dialog_title_correct_as_ad">Moure a missatges promocionals</string>
     <string name="dialog_title_correct_as_normal">Moure a missatges regulars</string>
     <string name="dialog_title_fake_cell_detect_error">Correcció</string>
     <string name="dialog_title_mx_rcs">Missatges Mi</string>
     <string name="dialog_title_networking">Termes i condicions</string>
-    <string name="disable_notifications_dialog_message">"Voleu deixar de duplicar les notificacions d'Sms de l'aplicació de Missatgeria per defecte?"</string>
+    <string name="disable_notifications_dialog_message">"Voleu deixar de duplicar les notificacions d'Sms de L'aplicació de Missatgeria per defecte?"</string>
     <string name="disabled">Desactivat</string>
     <string name="discard">Descarta</string>
     <string name="discard_message">Descarta</string>
@@ -282,7 +281,7 @@ Tingueu en compte que la funcionalitat de missatgeria a Internet està suspesa f
     <string name="download_later">No es pot baixar ara. Proveu-ho de nou més tard.</string>
     <string name="download_pending">"S'està baixant el vídeo…"</string>
     <string name="downloading">"S'està baixant"</string>
-    <string name="downloading_file_can_not_play">"Espereu fins que l'enregistrament s'hagi acabat de baixar"</string>
+    <string name="downloading_file_can_not_play">"Espereu fins que L'enregistrament s'hagi acabat de baixar"</string>
     <string name="draft">Esborrany</string>
     <string name="duration_not_a_number">La durada ha de ser un número</string>
     <string name="duration_sec">Durada (%s segs)</string>
@@ -378,9 +377,9 @@ Tingueu en compte que la funcionalitat de missatgeria a Internet està suspesa f
     <string name="fcm_fallback_notification_channel_label">Altres</string>
     <string name="fdn_check_failure">Només podeu enviar missatges als números de marcatge fix.</string>
     <string name="feature_mx">Missatges Mi</string>
-    <string name="feature_mx_summary"><b>Missatges Mi et permet enviar missatges per internet a altres usuaris de Missatges Mi sense despeses addicionals</b>. Per a activar aquest servei, és necessari enviar un SMS, pel qual la teva operadora et cobrarà. Llegeix i accepta el nostre <font color="#B3000000"><a href="http://url1">"Acord d'usuari"</a></font> i la nostra <font color="#B3000000"><a href="http://url2">Política de privadesa</a></font> abans de fer servir aquesta funció.</string>
-    <string name="feature_smart_sms">Missatgeria Intel·ligent</string>
-    <string name="feature_smart_sms_summary"><b>Missatgeria Intel·ligent ofereix reconeixement de la ID del remitent i menús intel·ligents</b>. Missatgeria Intel·ligent està facilitat parcialment per Yulore. Llegeix i accepta la <font color="#B3000000"><a href="http://url3">Política de privadesa</a></font> de Yulore abans de fer servir aquesta funció.</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
+    <string name="feature_smart_sms">Missatgeria intel·ligent</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">"S'està carregant…"</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Creat:</string>
@@ -455,10 +454,10 @@ Tingueu en compte que la funcionalitat de missatgeria a Internet està suspesa f
     <string name="friday_short">dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="from_label">"De: "</string>
-    <string name="from_pkg_name">"Des de l'aplicació:"</string>
+    <string name="from_pkg_name">"Des de L'aplicació:"</string>
     <string name="ft_cfs_dialog_content">"No s'ha pogut lliurar els fitxers amb RCS. En el seu lloc, voleu enviar un enllaç en un missatge de text?"</string>
     <string name="ft_cfs_dialog_title">Transferència de fitxers alternativa</string>
-    <string name="google_message_promo_content">"Xiaomi recomana actualitzar a Missatges de Google. Us permet enviar missatges de text mitjançant la xarxa wifi, compartir arxius multimèdia d'alta qualitat i més. "<font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Més informació</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">Millora la teva aplicació de missatgeria</string>
     <string name="group_already_kicked_hint">"No es poden enviar missatges. No sou membres d'aquest xat de grup."</string>
     <string name="group_member_is_composing">"S'està escrivint…"</string>
@@ -482,7 +481,7 @@ Tingueu en compte que la funcionalitat de missatgeria a Internet està suspesa f
     <string name="hybrid_check_network">Configuració de la xarxa</string>
     <string name="hybrid_data_error">"S'ha produït un error"</string>
     <string name="hybrid_locating_fail">"No s'ha pogut trobar la vostra ubicació"</string>
-    <string name="hybrid_network_access_denied">"S'ha denegat l'accés a la xarxa"</string>
+    <string name="hybrid_network_access_denied">"S'ha denegat L'accés a la xarxa"</string>
     <string name="hybrid_network_unavaliable">"No s'ha pogut connectar a la xarxa"</string>
     <string name="hybrid_pull_to_refresh_pull_label">Llisqueu per actualitzar…</string>
     <string name="hybrid_pull_to_refresh_refreshing_label">Un moment…</string>
@@ -538,10 +537,8 @@ Tingueu en compte que la funcionalitat de missatgeria a Internet està suspesa f
     <string name="menu_unlock">Elimina de preferits</string>
     <string name="menu_view_contact">Mostra el contacte</string>
     <string name="menu_view_group_info">Informació de grup</string>
-    <string name="message_cannot_send_air_mode">"No es poden enviar missatges.
-Desactiveu primer el Mode avió."</string>
-    <string name="message_cannot_send_sim_unavailable">"No es poden enviar missatges.
-Comproveu la vostra targeta SIM."</string>
+    <string name="message_cannot_send_air_mode">Desactiva el mode avió per enviar missatges</string>
+    <string name="message_cannot_send_sim_unavailable">Inseriu la targeta SIM per enviar missatges</string>
     <string name="message_class_label">"Classe de missatge: "</string>
     <string name="message_contact">Contacte:</string>
     <string name="message_details_title">Detalls del missatge</string>
@@ -549,7 +546,7 @@ Comproveu la vostra targeta SIM."</string>
     <string name="message_expired">Caducat</string>
     <string name="message_failed">Ha fallat</string>
     <string name="message_failed_and_cotanct_operator">"S'ha produït un error. "<font color="#1c86ee">Poseu-vos en contacte amb el vostre operador</font>.</string>
-    <string name="message_failed_and_feedback">"S'ha produït un error. "<font color="#1c86ee">"Notifiqueu l'error"</font>.</string>
+    <string name="message_failed_and_feedback">"S'ha produït un error. "<font color="#1c86ee">"Notifiqueu L'error"</font>.</string>
     <string name="message_failed_body">Toqueu per revisar el missatge i proveu-ho de nou.</string>
     <string name="message_number">Número de telèfon:</string>
     <string name="message_pending">"S'està enviant"</string>
@@ -607,7 +604,7 @@ Comproveu la vostra targeta SIM."</string>
     <string name="mms_block_hint">"Aquest remitent no es troba als vostres contactes.
 Aquest missatge pot ser no sol·licitat."</string>
     <string name="mms_block_hint_highlight">Bloqueja els MMS</string>
-    <string name="mms_main_purpose">Per a accedir a les funcions completes de missatgeria, activa Missatges Mi i Missatgeria Intel·ligent.</string>
+    <string name="mms_main_purpose">Per a accedir a les funcions completes de missatgeria, activa Missatges Mi i Missatgeria intel·ligent.</string>
     <string name="mms_title">Missatgeria</string>
     <string name="mobile_charge">Recàrrega</string>
     <string name="monday">dilluns</string>
@@ -668,7 +665,7 @@ Aquest missatge pot ser no sol·licitat."</string>
     <string name="multimedia_message">Missatge multimèdia</string>
     <string name="multimedia_notification">Notificació de missatge multimèdia</string>
     <string name="mx2_type_description">[%s]</string>
-    <string name="mx_activate_allow_notice">"Un SMS sortint podria ser requerit per activar els textos gratuïts i els serveis de veu. El vostre operador us cobrarà per aquest missatge. A més, quan aquest servei està actiu, es requereix una petita quantitat de dades mòbols per comprovar si l'altre usuari és en línia. Esteu d'acord?"</string>
+    <string name="mx_activate_allow_notice">"Un SMS sortint podria ser requerit per activar els textos gratuïts i els serveis de veu. El vostre operador us cobrarà per aquest missatge. A més, quan aquest servei està actiu, es requereix una petita quantitat de dades mòbols per comprovar si L'altre usuari és en línia. Esteu d'acord?"</string>
     <string name="mx_activate_dlg_title">Activació de Missatges Mi</string>
     <string name="mx_activate_dlg_title_ex">Activació de Missatges Mi i Veu</string>
     <string name="mx_activate_error_malformed_info">Heu de reactivar Missatges Mi.</string>
@@ -681,7 +678,7 @@ Aquest missatge pot ser no sol·licitat."</string>
     <string name="mx_activate_int_hint_malformed_info">El vostre operador pot aplicar despeses extra per missatge internacional usat per reactivar Missatges Mi.</string>
     <string name="mx_activate_int_hint_server">El vostre operador pot aplicar despeses extra per missatge internacional usat per reactivar Missatges Mi.</string>
     <string name="mx_activate_int_hint_sim_change">Sembla que heu canviat les targetes SIM. El vostre operador pot cobrar per missatge de reactivació de Missatges Mi.</string>
-    <string name="mx_activate_network_allow_notice">"Aquest aquesta funció és activa, es requereix una petita quantitat de dades mòbils per comprovar si l'usuari és en línia. Esteu d'acord?"</string>
+    <string name="mx_activate_network_allow_notice">"Aquest aquesta funció és activa, es requereix una petita quantitat de dades mòbils per comprovar si L'usuari és en línia. Esteu d'acord?"</string>
     <string name="mx_activate_status_desc_activating_now">"S'està activant…"</string>
     <string name="mx_activate_status_desc_check_net_connection">"No s'ha pogut connectar a la xarxa"</string>
     <string name="mx_activate_status_desc_fail">"No s'ha pogut activar Missatges Mi"</string>
@@ -692,7 +689,7 @@ Aquest missatge pot ser no sol·licitat."</string>
     <string name="mx_auto_resend_mms">Envia com a MMS</string>
     <string name="mx_auto_resend_mms_summary">"S'enviaran els missatges multimèdia com a MMS a través de la connexió de dades mòbils quan no estigueu connectat a Wi-Fi. Això provocarà els càrrecs corresponents del vostre operador."</string>
     <string name="mx_auto_resend_sms">Envia com a SMS</string>
-    <string name="mx_auto_resend_sms_summary">"Envieu missatges com a SMS a través de la connexió de dades mòbil quan no estigueu connectats a la Wi-Fi. S'incorrerà en càrrecs regulars de l'operador."</string>
+    <string name="mx_auto_resend_sms_summary">"Envieu missatges com a SMS a través de la connexió de dades mòbil quan no estigueu connectats a la Wi-Fi. S'incorrerà en càrrecs regulars de L'operador."</string>
     <string name="mx_btn_enable">Activa</string>
     <string name="mx_btn_enable_now">Activa</string>
     <string name="mx_count_dspt">Heu enviat %1$d SMS i %2$d MMS de franc</string>
@@ -732,7 +729,7 @@ Es necessita enviar un missatge SMS per a activar Missatges Mi. La teva operador
     <string name="networking_allow_desc">"Missatges Mi necessita connectar-se a Internet per funcionar amb normalitat. Per proporcionar serveis de veu i de text gratuïts, reconèixer números desconeguts, filtrar correu no desitjat i habilitar altres funcions, Missatges Mi ha d'utilitzar les pàgines grogues. Voleu permetre que les pàgines grogues es connectin a Internet, obtinguin la vostra informació d'ubicació i llegeixin els vostres contactes?"</string>
     <string name="networking_allow_desc_without_mx">"Missatges Mi necessita connectar-se a Internet per funcionar amb normalitat. Per tal de reconèixer números desconeguts, filtrar correu no desitjat i habilitar altres funcions, Missatges Mi necessita utilitzar les pàgines grogues. Voleu permetre que les pàgines grogues es connectin a Internet, obtinguin la vostra informació d'ubicació i llegeixin els vostres contactes?"</string>
     <string name="networking_allow_title">Atenció</string>
-    <string name="new_message">Redacta</string>
+    <string name="new_message">Nou missatge</string>
     <string name="new_message_arrived">No llegit</string>
     <string name="new_phrase">Afegeix resposta</string>
     <string name="new_phrase_hint">Introduïu una nova resposta</string>
@@ -748,7 +745,7 @@ Es necessita enviar un missatge SMS per a activar Missatges Mi. La teva operador
     <string name="no_subject_view">(Sense assumpte)</string>
     <string name="non_english_subject_limit">%d caràcters</string>
     <string name="noon">Migdia</string>
-    <string name="nosend_message">"No l'envieu"</string>
+    <string name="nosend_message">"No L'envieu"</string>
     <string name="not_prepare_for_send">No hi ha missatges per enviar</string>
     <string name="not_set">No definit</string>
     <string name="not_support_audio_forward">No es poden reenviar els missatges de veu</string>
@@ -771,7 +768,7 @@ Es necessita enviar un missatge SMS per a activar Missatges Mi. La teva operador
     <string name="notification_multiple_title">Nous missatges</string>
     <string name="notification_seen">Marca com a llegit</string>
     <string name="number_add_hint">Introduïu el número de telèfon</string>
-    <string name="number_recognition_partner">"Proveïdors de serveis d'ID de l'Emisor"</string>
+    <string name="number_recognition_partner">"Proveïdors de serveis d'ID de L'Emisor"</string>
     <string name="open_audio_record_panel">Obriu el tauler per enregistrar àudio</string>
     <string name="open_edit_sms_panel">Obriu el tauler per editar missatges</string>
     <string name="open_url_with_web">Voleu obrir aquesta URL al navegador?</string>
@@ -812,7 +809,7 @@ Es necessita enviar un missatge SMS per a activar Missatges Mi. La teva operador
     <string name="pref_hide_verification_code_summary">Oculta automàticament les contrasenyes úniques en les notificacions de missatges a la pantalla de bloqueig protegida</string>
     <string name="pref_messages_to_save">Estableix el número de missatges que es desaran</string>
     <string name="pref_mms_settings_title">Missatges multimèdia (MMS)</string>
-    <string name="pref_msg_trash_bin_title">Missatges suprimits</string>
+    <string name="pref_msg_trash_bin_title">Elements eliminats fa poc</string>
     <string name="pref_notification_settings_title">Notificacions</string>
     <string name="pref_other_title">Configuracions addicionals</string>
     <string name="pref_rcs_show_report_message">Rebre informes d’entrega</string>
@@ -823,14 +820,14 @@ Es necessita enviar un missatge SMS per a activar Missatges Mi. La teva operador
     <string name="pref_show_sms_template_entry_summary">"Detecta contrasenyes d'un ús i mostra menús ràpids"</string>
     <string name="pref_show_sms_template_in_summary">"Detecta automàticament contrasenya d'ús únic en missatges SMS"</string>
     <string name="pref_show_sms_template_summary">Copieu les contrasenyes puntuals, feu un seguiment del lliurament, consulteu el saldo del telèfon i mostreu automàticament els bitllets i les factures com a targetes</string>
-    <string name="pref_smart_messages_settings">Missatgeria Intel·ligent</string>
+    <string name="pref_smart_messages_settings">Missatgeria intel·ligent</string>
     <string name="pref_sms_storage_title">Emmagatzematge</string>
     <string name="pref_sms_theme_title">Pantalla</string>
     <string name="pref_summary_ad_mms_recognition">Col·loqueu missatges promocionals en una pestanya independent</string>
     <string name="pref_summary_allow_si_sl_push">Permet als missatges carregar continguts de llocs web</string>
     <string name="pref_summary_auto_delete">"Suprimiu missatges antics a mesura que s'assoleixen els límits"</string>
     <string name="pref_summary_delete_limit">%1$s missatges per conversa</string>
-    <string name="pref_summary_delivery_reports">"Mostra l'estat de lliurament dels missatges enviats"</string>
+    <string name="pref_summary_delivery_reports">"Mostra L'estat de lliurament dels missatges enviats"</string>
     <string name="pref_summary_delivery_ringtone">Recepció de notificacions de so pels missatges lliurats.</string>
     <string name="pref_summary_enable_ad_notification">Activeu les agrupacions de notificacions sobre missatges promocionals a la Barra de notificacions</string>
     <string name="pref_summary_enable_classify">Mou els missatges promocionals i financers a pestanyes separades</string>
@@ -857,13 +854,13 @@ Es necessita enviar un missatge SMS per a activar Missatges Mi. La teva operador
     <string name="pref_title_fwd_sender_info">Reenvia informació del remitent</string>
     <string name="pref_title_manage_sim_messages">Emmagatzematge de la targeta SIM</string>
     <string name="pref_title_miui_card">Envia a través de targeta</string>
-    <string name="pref_title_mms_auto_retrieval">"Baixa automaticament el contingut de l'MMS"</string>
+    <string name="pref_title_mms_auto_retrieval">"Baixa automaticament el contingut de L'MMS"</string>
     <string name="pref_title_mms_delete">Límit de missatge multimèdia</string>
     <string name="pref_title_mms_read_reports">Llegir informes</string>
     <string name="pref_title_mms_retrieval_during_international_roaming">Baixa el contingut dels MMS en itinerància internacional</string>
     <string name="pref_title_mms_retrieval_during_national_roaming">Baixa el contingut dels MMS en itinerància nacional</string>
     <string name="pref_title_mms_retrieval_during_roaming">Baixa el contingut dels MMS en itinerància</string>
-    <string name="pref_title_mms_validity_period">"Caducitat de l'MMS"</string>
+    <string name="pref_title_mms_validity_period">"Caducitat de L'MMS"</string>
     <string name="pref_title_msg_blocked">Llista de bloqueig</string>
     <string name="pref_title_notification_body_enabled">Mostra missatges a la pantalla de bloqueig</string>
     <string name="pref_title_privacy_authority">Autorització</string>
@@ -871,9 +868,9 @@ Es necessita enviar un missatge SMS per a activar Missatges Mi. La teva operador
     <string name="pref_title_ringtone_repeat">So de notificació</string>
     <string name="pref_title_ringtone_repeat_summary">"Reprodueix un so d'avís en rebre un missatge mentre la pantalla està apagada"</string>
     <string name="pref_title_send_delivery_reports">Envia missatges de lliurament</string>
-    <string name="pref_title_smart_msg_privacy_policy">Política de privadesa de Missatgeria Intel·ligent</string>
+    <string name="pref_title_smart_msg_privacy_policy">Política de privadesa de Missatgeria intel·ligent</string>
     <string name="pref_title_sms_delete">Límit de missatge de text</string>
-    <string name="pref_title_sms_validity_period">"Caducitat de l'SMS"</string>
+    <string name="pref_title_sms_validity_period">"Caducitat de L'SMS"</string>
     <string name="pref_title_storage_status">"Estat d'emmagatzematge de missatges"</string>
     <string name="pref_title_system_mms_priority">Estableix com a predeterminat</string>
     <string name="pref_title_vcard">Envia via vCard</string>
@@ -903,11 +900,11 @@ Es necessita enviar un missatge SMS per a activar Missatges Mi. La teva operador
     <string name="privacy_revoke_nonetwork_ok">Entesos</string>
     <string name="privacy_revoke_nonetwork_title">No es pot connectar a la xarxa</string>
     <string name="privacy_state_revoked_cancel">Cancel·leu</string>
-    <string name="privacy_state_revoked_content">"En desactivar l'interruptor, retirareu el vostre consentiment a la Política de privadesa de Missatgeria. Deixarem de recollir la vostra informació personal. La informació personal ja recollida i conservada se suprimirà en el termini específic que exigeix la legislació aplicable. Missatges Mi i Missatgeria Intel·ligent proporcionats per Missatgeria, necessiten recollir la informació personal necessària per proporcionar-vos serveis bàsics. La retirada del consentiment a la seva Política de privadesa de Missatgeria es considerarà com a denegació d’acceptar els seus serveis basats en la informació personal recollida per Missatges Mi i Missatgeria Intel·ligent."</string>
+    <string name="privacy_state_revoked_content">"En desactivar l'interruptor, retirareu el vostre consentiment a la Política de privadesa de Missatgeria. Deixarem de recollir la vostra informació personal. La informació personal ja recollida i conservada se suprimirà en el termini específic que exigeix la legislació aplicable. Missatges Mi i Missatgeria intel·ligent proporcionats per Missatgeria, necessiten recollir la informació personal necessària per proporcionar-vos serveis bàsics. La retirada del consentiment a la seva Política de privadesa de Missatgeria es considerarà com a denegació d’acceptar els seus serveis basats en la informació personal recollida per Missatges Mi i Missatgeria intel·ligent."</string>
     <string name="privacy_state_revoked_dialog_title">Retirada del consentiment</string>
     <string name="privacy_state_revoked_revoked">Retirar</string>
     <string name="privacy_state_revoked_switch">Retirada del consentiment</string>
-    <string name="privacy_state_revoked_synopsis">"En desactivar l'interruptor, retirareu el vostre consentiment a la Política de privadesa de Missatgeria."</string>
+    <string name="privacy_state_revoked_synopsis">"En desactivar L'interruptor, retirareu el vostre consentiment a la Política de privadesa de Missatgeria."</string>
     <string name="privacy_state_revoked_synopsis_1">Retirada del consentiment de la Política de privadesa dels Missatges Mi</string>
     <string name="privacy_term">Política de privadesa</string>
     <string name="private_entry_available">Deixa anar per a obrir la carpeta privada</string>
@@ -1000,7 +997,7 @@ Fes una ullada als chatbots recomanats!"</string>
     <string name="rcs_conversation_rcs_tip">[Chatbot] %s</string>
     <string name="rcs_create_new_group">Crea un xat de grup</string>
     <string name="rcs_dspt">Enviar i rebre missatges mitjançant WLAN o xarxa mòbil</string>
-    <string name="rcs_dspt_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_dspt_unavailable">"Les funcions relacionades amb la missatgeria 5G no són compatibles a causa de les restriccions de l'operador."</string>
     <string name="rcs_file_link_as_sms">Visiteu %s per veure el fitxer RCS que se us ha enviat.</string>
     <string name="rcs_forward_faild">"No s'ha pogut reenviar"</string>
     <string name="rcs_forward_successful">"S'ha reenviat amb èxit"</string>
@@ -1009,16 +1006,16 @@ Fes una ullada als chatbots recomanats!"</string>
     <string name="rcs_hello_from_pc">"Inicieu la sessió a Fetion a l'ordinador per transferir fitxers."</string>
     <string name="rcs_list_bottom_loading">Un moment…</string>
     <string name="rcs_list_bottom_search">Cercant…</string>
-    <string name="rcs_main_purpose">Podeu utilitzar aquest servei per enviar i rebre fotos, missatges de veu, vídeos i molt més.</string>
-    <string name="rcs_message">5G messages</string>
+    <string name="rcs_main_purpose">Podeu utilitzar aquest servei per enviar i rebre fotos, missatges de veu, vídeos i molt més. Aquest servei requereix accés a la ubicació.</string>
+    <string name="rcs_message">Missatges 5G</string>
     <string name="rcs_message_disable">No es pot visualitzar aquest missatge al Segon espai</string>
-    <string name="rcs_message_title">5G Messaging</string>
+    <string name="rcs_message_title">Missatgeria 5G</string>
     <string name="rcs_more_bar_title">Detalls</string>
-    <string name="rcs_msg">5G Messaging</string>
+    <string name="rcs_msg">Missatgeria 5G</string>
     <string name="rcs_my_black_chatbot_title">Llista de bloqueig</string>
-    <string name="rcs_not_online">"Can't use 5G Messaging. Check your network settings and try again."</string>
-    <string name="rcs_offline">Not signed in to 5G Messaging. Wait a minute or two and try again.</string>
-    <string name="rcs_offline_hint">"5G Messaging is offline. Can't forward this message."</string>
+    <string name="rcs_not_online">No es pot utilitzar la Missatgeria 5G. Comproveu la configuració de la xarxa i proveu-ho de nou.</string>
+    <string name="rcs_offline">No heu iniciat la sessió a Missatgeria 5G. Espereu un minut o dos i torneu-ho a provar.</string>
+    <string name="rcs_offline_hint">La Missatgeria 5G està fora de línia. No es pot reenviar aquest missatge.</string>
     <string name="rcs_pref_button_login">Inicia sessió</string>
     <string name="rcs_pref_button_logout">Tanca sessió</string>
     <string name="rcs_pref_category_rcs">Missatgeria RCS</string>
@@ -1041,7 +1038,7 @@ Fes una ullada als chatbots recomanats!"</string>
     <string name="rcs_recipient_type_group">Enviar de nou a xat de grup</string>
     <string name="rcs_recipient_type_pc">Reenvia al ordinador</string>
     <string name="rcs_remember_my_choice">Recorda la meva elecció</string>
-    <string name="rcs_resend_not_online">"Can't use 5G Messaging"</string>
+    <string name="rcs_resend_not_online">No es pot utilitzar la Missatgeria 5G</string>
     <string name="rcs_resend_sim_card_not_insert">Sembla que la vostra targeta SIM no està instal·lada</string>
     <string name="rcs_search_group_local">Els meus chatbots</string>
     <string name="rcs_search_group_recommend">Recomanat</string>
@@ -1050,17 +1047,17 @@ Fes una ullada als chatbots recomanats!"</string>
     <string name="rcs_search_result_server_data_empty">"No s'han pogut trobar els chatbots en línia que coincideixin amb la vostra cerca"</string>
     <string name="rcs_send_hello">Hola!</string>
     <string name="rcs_send_rms_remind_change">Configuració</string>
-    <string name="rcs_send_rms_remind_desp">5G Messaging is an instant messaging service provided by China Mobile. You can turn this feature off in the Settings.</string>
-    <string name="rcs_send_rms_remind_title">Use 5G Messaging</string>
+    <string name="rcs_send_rms_remind_desp">La Missatgeria 5G és un servei de missatgeria instantània proporcionat per China Mobile. Podeu desactivar aquesta funció a Configuració.</string>
+    <string name="rcs_send_rms_remind_title">Utilitzeu la Missatgeria 5G</string>
     <string name="rcs_service_agreement">Acord de servei</string>
-    <string name="rcs_setting">5G Messaging settings</string>
+    <string name="rcs_setting">Configuració de Missatgeria 5G</string>
     <string name="rcs_setting_tips">Podeu canviar els mètodes de lliurament alternatius a la configuració de Missatgeria.</string>
     <string name="rcs_silence_message">Silencia les notificacions de missatges</string>
-    <string name="rcs_summary_auto_resend_mms">"Convert 5G multimedia messages to MMS after the original message couldn't be sent. Your carrier will charge you for this message."</string>
-    <string name="rcs_summary_auto_resend_sms">"Convert 5G text messages to SMS after the original message couldn't be sent. Your carrier will charge you for this message."</string>
+    <string name="rcs_summary_auto_resend_mms">"Convertiu els missatges multimèdia 5G a MMS després que no s'hagi pogut enviar el missatge original. El vostre operador us cobrarà per aquest missatge."</string>
+    <string name="rcs_summary_auto_resend_sms">"Convertiu els missatges de text 5G a SMS després que no s'hagi pogut enviar el missatge original. El vostre operador us cobrarà per aquest missatge."</string>
     <string name="rcs_summary_silence_message">"Silencia les notificacions de missatges quan el client d'escriptori estigui en funcionament"</string>
-    <string name="rcs_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
-    <string name="rcs_up_not_online">5G Messaging is offline. Check your network settings and try again.</string>
+    <string name="rcs_unavailable">"Les funcions relacionades amb la missatgeria 5G no són compatibles a causa de les restriccions de l'operador."</string>
+    <string name="rcs_up_not_online">La Missatgeria 5G està desactivada. Comproveu la configuració de la xarxa i proveu-ho de nou.</string>
     <string name="rcs_wait_for_retry_text">"S'està esperant…"</string>
     <string name="received_at_time">Rebut a les: %1s</string>
     <string name="received_label">"Rebut:  "</string>
@@ -1081,15 +1078,15 @@ Fes una ullada als chatbots recomanats!"</string>
     <string name="recommend_bar_title_smart_message">Missatgeria intel·ligent</string>
     <string name="recommend_both_dialog_title">Benvingut/da a la missatgeria!</string>
     <string name="recommend_close">Desactiva</string>
-    <string name="recommend_dialog_message">Pots activar Missatges Mi i Missatgeria Intel·ligent per accedir a funcions addicionals.</string>
+    <string name="recommend_dialog_message">Pots activar Missatges Mi i Missatgeria intel·ligent per accedir a funcions addicionals.</string>
     <string name="recommend_disagree">No accepto</string>
     <string name="recommend_free_internet_message">Missatgeria gratuïta a Internet</string>
     <string name="recommend_free_mi">Missatges Mi</string>
     <string name="recommend_free_smart_server">Reconeixement intel·ligent de la ID del remitent</string>
     <string name="recommend_mx_dialog_title">Benvingut/da a Missatges Mi!</string>
     <string name="recommend_mx_setting_summary">Missatges Mi et permet enviar per internet missatges a altres usuaris de Missatges Mi sense despeses addicionals.</string>
-    <string name="recommend_smart_sms_dialog_title">Benvingut/da a Missatgeria Intel·ligent!</string>
-    <string name="recommend_smart_sms_setting_summary">Missatgeria Intel·ligent ofereix reconeixement de la ID del remitent i menús intel·ligents.</string>
+    <string name="recommend_smart_sms_dialog_title">Benvingut/da a Missatgeria intel·ligent!</string>
+    <string name="recommend_smart_sms_setting_summary">Missatgeria intel·ligent ofereix reconeixement de la ID del remitent i menús intel·ligents.</string>
     <string name="recommend_tip_1">Missatgeria funciona millor quan Missatges Mi està activat. Missatges Mi us permet enviar SMS i MMS gratuïts per Internet i reconèixer automàticament la identificació del remitent.</string>
     <string name="recommend_tip_10">Reconeixeu la ID del remitent automàticament per veure els noms i les imatges de perfil dels proveïdors de confiança</string>
     <string name="recommend_tip_12">Configuració gratuïta de missatgeria a Internet</string>
@@ -1102,10 +1099,10 @@ Fes una ullada als chatbots recomanats!"</string>
     <string name="recommend_tip_4">Missatges Mi pot reconèixer automàticament la ID del remitent, cosa que us permet veure els noms i les imatges de perfil de proveïdors de confiança.</string>
     <string name="recommend_tip_5">El reconeixement intel·ligent de la ID del remitent fa que la vostra safata d’entrada sigui més senzilla i us ajudi a identificar els remitents fiables.</string>
     <string name="recommend_tip_6">Els serveis anteriors es proporcionen amb el suport tècnic de Yulore.</string>
-    <string name="recommend_tip_7">Llegiu i accepteu el nostre <font color="#B3000000"><a href="http://url1">"Acord d'usuari"</a></font> i <font color="#B3000000"><a href="http://url2">Política de privadesa</a></font>, així com <font color="#B3000000"><a href="http://url3">Política de privadesa de Yulore</a></font> abans d’utilitzar Missatges Mi.</string>
-    <string name="recommend_tip_8">Llegiu i accepteu el nostre <font color="#B3000000"><a href="http://url1">"Acord d'usuari"</a></font> i <font color="#B3000000"><a href="http://url2">Política de privadesa</a></font>, així com <font color="#B3000000"><a href="http://url3">Política de privadesa de Yulore</a></font> abans d’utilitzar la missatgeria gratuïta a Internet proporcionada per Missatges Mi.</string>
-    <string name="recommend_tip_9">Llegiu i accepteu el nostre <font color="#B3000000"><a href="http://url1">"Acord d'usuari"</a></font> i <font color="#B3000000"><a href="http://url2">Política de privadesa</a></font>, així com <font color="#B3000000"><a href="http://url3">Política de privadesa de Yulore</a></font> abans d’utilitzar el reconeixement intel·ligent de la ID del remitent.</string>
-    <string name="recommend_tip_9_2">Llegiu i accepteu el nostre <font color="#B3000000"><a href="http://url1">"Acord d'usuari"</a></font> i <font color="#B3000000"><a href="http://url2">Política de privadesa</a></font>, abans d’utilitzar els nostres serveis.</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">Estableix Missatgeria Xiaomi com a aplicació de missatgeria predeterminada per obtenir tots els avantatges de seguretat que oferim</string>
     <string name="recommend_tip_other">Veure altres aplicacions de missatgeria</string>
     <string name="recommend_tip_smart">Protecció de la privadesa. Reconeixement intel·ligent.</string>
@@ -1204,12 +1201,12 @@ Fes una ullada als chatbots recomanats!"</string>
     <string name="select_top_text">Text en la part superior</string>
     <string name="send">Envia</string>
     <string name="send_message_dlg_check_hint">No mostrar de nou</string>
-    <string name="send_message_dlg_mgs">"Avís CMCC: hem de registrar la vostra plataforma d'administració de dispositius per proporcionar el servei gratuït de servei postal (el servei postal és una plataforma CMCC que permet administrar els terminals. Li ofereix el servei de configuració remota i actualització de l'aplicació). S'enviarà un missatge gratis d'informació dels dispositius de registre. El missatge serà enviat una vegada i no cal les dades personals (no enviar de Hong Kong, Macau, Taiwan i itinerància internacional). Seleccioneu \"D'acord\" si esteu d'acord amb registrar i utilitzar el servei. Seleccioneu \"Cancel·la\" per tornar i no es proporcionarà cap servei CMCC."</string>
+    <string name="send_message_dlg_mgs">"Avís CMCC: hem de registrar la vostra plataforma d'administració de dispositius per proporcionar el servei gratuït de servei postal (el servei postal és una plataforma CMCC que permet administrar els terminals. Li ofereix el servei de configuració remota i actualització de L'aplicació). S'enviarà un missatge gratis d'informació dels dispositius de registre. El missatge serà enviat una vegada i no cal les dades personals (no enviar de Hong Kong, Macau, Taiwan i itinerància internacional). Seleccioneu \"D'acord\" si esteu d'acord amb registrar i utilitzar el servei. Seleccioneu \"Cancel·la\" per tornar i no es proporcionarà cap servei CMCC."</string>
     <string name="send_message_dlg_title">Administració de dispositius</string>
     <string name="send_message_notification_msg">Toqueu per veure els detalls de la sol·licitud.</string>
     <string name="send_message_notification_tickerText">El dispositiu està sol·licitant permís</string>
     <string name="send_message_notification_title">Permís sol·licitat</string>
-    <string name="send_rms_editor_hints">5G Messaging</string>
+    <string name="send_rms_editor_hints">Missatgeria 5G</string>
     <string name="send_rms_editor_hints_omit">Missatges Mi</string>
     <string name="send_signature_confirm_dialog_message">No hi ha contingut. Voleu enviar només la vostra firma?</string>
     <string name="send_signature_confirm_dialog_title">Envia el missatge</string>
@@ -1233,7 +1230,7 @@ Fes una ullada als chatbots recomanats!"</string>
     <string name="setting_default_dialog_title">Voleu configurar Missatgeria Xiaomi com a aplicació de missatgeria predeterminada ara?</string>
     <string name="setting_default_guide1_block_sms">"Bloqueja el correu brossa d'SMS"</string>
     <string name="setting_default_guide1_free_net_message">Missatges Mi</string>
-    <string name="setting_default_guide1_smart_number">"Reconeixement de la ID de l'Emisor"</string>
+    <string name="setting_default_guide1_smart_number">"Reconeixement de la ID de L'Emisor"</string>
     <string name="setting_default_guide1_tip">Estableix Missatgeria Xiaomi com a aplicació de missatgeria predeterminada per poder utilitzar totes les seves funcions</string>
     <string name="setting_default_guide2_id_tip">Estableix Missatgeria Xiaomi com a aplicació de missatgeria predeterminada per poder utilitzar Missatges Mi</string>
     <string name="setting_default_guide2_in_tip">"Estableix Missatgeria Xiaomi com a aplicació de missatgeria predeterminada per poder bloquejar el correu brossa d'SMS"</string>
@@ -1246,9 +1243,9 @@ Fes una ullada als chatbots recomanats!"</string>
     <string name="shortcut_new_msg">Nou missatge</string>
     <string name="shortcut_setting">Configuració</string>
     <string name="show_all_messages">Mostra tots els missatges</string>
-    <string name="show_delivery_status">"Mostra l'estat de lliurament"</string>
+    <string name="show_delivery_status">"Mostra L'estat de lliurament"</string>
     <string name="show_sender">Mostra la informació del remitent</string>
-    <string name="sim_activation_service_retry_main_purpose">"L'activació de la SIM ha d'estar activada perquè Missatges Mi funcioni amb normalitat. Pots activar l'activació de la SIM a Configuració > Gestionar aplicacions."</string>
+    <string name="sim_activation_service_retry_main_purpose">"L'activació de la SIM ha d'estar activada perquè Missatges Mi funcioni amb normalitat. Pots activar L'activació de la SIM a Configuració > Gestionar aplicacions."</string>
     <string name="sim_card1">Targeta SIM 1</string>
     <string name="sim_card2">Targeta SIM 2</string>
     <string name="sim_card_cloud">%s (Missatges Mi)</string>
@@ -1266,12 +1263,12 @@ Fes una ullada als chatbots recomanats!"</string>
     <string name="slideshow_activity">Presentació</string>
     <string name="small_window_log_text">La càmera no admet diverses finestres</string>
     <string name="smart_message_title">Missatgeria intel·ligent</string>
-    <string name="smart_message_upgrade_title">Actualització de la Política de privadesa de Missatgeria Intel·ligent</string>
+    <string name="smart_message_upgrade_title">Actualització de la Política de privadesa de Missatgeria intel·ligent</string>
     <string name="smart_messages_network_allow_message">Missatges Mi ha de connectar-se a Internet per tal que els seus serveis funcionin amb normalitat. Permetre ara?</string>
     <string name="smart_messages_network_allow_title">Es requereix de connexió a Internet</string>
-    <string name="smart_msg_main_purpose">"Missatgeria Intel·ligent t'ofereix reconeixement de la ID del remitent i serveis de menú intel·ligent."</string>
-    <string name="smart_msg_privacy_policy">Política de privadesa de Missatgeria Intel·ligent</string>
-    <string name="smart_msg_upgrade_main_purpose">La Missatgeria Intel·ligent ara funciona amb MMS. Podreu utilitzar més serveis proporcionats pels remitents, així com rebre missatges en nous formats.</string>
+    <string name="smart_msg_main_purpose">"Missatgeria intel·ligent t'ofereix reconeixement de la ID del remitent i serveis de menú intel·ligent."</string>
+    <string name="smart_msg_privacy_policy">Política de privadesa de Missatgeria intel·ligent</string>
+    <string name="smart_msg_upgrade_main_purpose">La Missatgeria intel·ligent ara funciona amb MMS. Podreu utilitzar més serveis proporcionats pels remitents, així com rebre missatges en nous formats.</string>
     <string name="sms_card_partner_label">"Soci de targetes SMS: "</string>
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
     <string name="sms_content">Contingut:</string>
@@ -1282,7 +1279,7 @@ Fes una ullada als chatbots recomanats!"</string>
     <string name="sms_report_dialog_content">"No s'ha pogut enviar l'informe, proveu-ho de nou."</string>
     <string name="sms_report_dialog_retry">Proveu-ho de nou</string>
     <string name="sms_report_dialog_title">Proveu-ho de nou</string>
-    <string name="sms_report_failed">"No s'ha pogut enviar l'informe"</string>
+    <string name="sms_report_failed">"No s'ha pogut enviar L'informe"</string>
     <string name="sms_report_success">Informe enviat</string>
     <string name="snippet_audio">[Audio]</string>
     <string name="snippet_picture">[Image]</string>
@@ -1307,11 +1304,11 @@ Fes una ullada als chatbots recomanats!"</string>
     <string name="stick_conversation">Fixa la conversa actual</string>
     <string name="sticked">"S'ha fixat correctament"</string>
     <string name="sticked_conversation">La conversa ja està fixada</string>
-    <string name="storage_dialog_attachments">"Adjunts en l'MMS:"</string>
+    <string name="storage_dialog_attachments">"Adjunts en L'MMS:"</string>
     <string name="storage_dialog_available_space">Espai disponible:</string>
     <string name="storage_dialog_database">Base de dades:</string>
     <string name="storage_dialog_mms">Mms: %d</string>
-    <string name="storage_dialog_mms_size">"Mida de l'MMS:"</string>
+    <string name="storage_dialog_mms_size">"Mida de L'MMS:"</string>
     <string name="storage_dialog_sms">Sms: %d</string>
     <string name="storage_limits_activity">"Límits d'emmagatzematge"</string>
     <string name="storage_limits_message">Voleu limitar el número de missatges que deseu per conversa?</string>
@@ -1406,16 +1403,16 @@ Si no estàs d'acord amb donar aquests permisos ni amb compartir i carregar les 
     <string name="title_activity_rcs_maps">Localització</string>
     <string name="title_allow_network_access">Actualitzeu la informació automàticament</string>
     <string name="title_collapse_sp_messages">Grup de notificacions</string>
-    <string name="title_hide_verification_code">"Amaga automàticament l'OTP a la pantalla de bloqueig"</string>
+    <string name="title_hide_verification_code">"Amaga automàticament L'OTP a la pantalla de bloqueig"</string>
     <string name="title_pref_cm_smart_sms">"L'SMS intel·ligent de China Mobile"</string>
     <string name="title_show_blocked_messages">Mostra els SMS bloquejats</string>
     <string name="title_show_list_avatar">Mostra fotos de perfil</string>
     <string name="title_show_photo_word">Assigna fotos al contacte</string>
-    <string name="title_show_sms_template">Missatgeria Intel·ligent</string>
-    <string name="title_show_sms_template_in">"Comproveu l'SMS per OTP"</string>
+    <string name="title_show_sms_template">Missatgeria intel·ligent</string>
+    <string name="title_show_sms_template_in">"Comproveu L'SMS per OTP"</string>
     <string name="title_timed_message_dialog">Estableix el missatge programat</string>
-    <string name="title_timed_remind_message_dialog">"Estableix l'hora del recordatori"</string>
-    <string name="title_use_gsm_alphabet">"Utilitza l'abecedari GSM"</string>
+    <string name="title_timed_remind_message_dialog">"Estableix L'hora del recordatori"</string>
+    <string name="title_use_gsm_alphabet">"Utilitza L'abecedari GSM"</string>
     <string name="to_address_label">"Per: "</string>
     <string name="to_label">"Per "</string>
     <string name="to_send_wrapper">Seran enviats a %s</string>
@@ -1449,7 +1446,7 @@ Si no estàs d'acord amb donar aquests permisos ni amb compartir i carregar les 
 Intents realitzats: %s."</string>
     <string name="undelivered_msg_dialog_title">Missatge no lliurat</string>
     <string name="undelivered_sms_dialog_body">"No s'ha pogut enviar aquest missatge."</string>
-    <string name="uninstall_Google_SMS_banner_information">"&lt;Data>Instal·la ara per compartir fotos d'alta qualitat, xatejar per Wi-Fi i molt més. &lt;a href=\"%1$s\">Aprèn més&lt;/a>&lt;/Data>"</string>
+    <string name="uninstall_Google_SMS_banner_information"><Data>"Instal·la ara per compartir fotos d'alta qualitat, xatejar per Wi-Fi i molt més. &lt;a href=\"%1$s\">Aprèn més&lt;/a>"</Data></string>
     <string name="uninstall_Google_SMS_banner_title">Instal·la Missatges de Google</string>
     <string name="unknown">n/d</string>
     <string name="unknown_num">Número desconegut</string>
@@ -1483,7 +1480,7 @@ Intents realitzats: %s."</string>
     <string name="voice_report_off">Apagat</string>
     <string name="voice_report_wiredon">Amb auriculars</string>
     <string name="wap_push_title">"[WAP de tramesa automàtica] "</string>
-    <string name="warning_show">Envia a %ds</string>
+    <string name="warning_show">Envia a %d s</string>
     <string name="web_content_invalid_hint">"La visualització d'aquest element està restringida per les lleis i regulacions locals"</string>
     <string name="wednesday">dimecres</string>
     <string name="wednesday_short">dc.</string>

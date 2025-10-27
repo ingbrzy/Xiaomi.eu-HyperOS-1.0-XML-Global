@@ -89,7 +89,6 @@
     <string name="attach_take_photo">ถ่ายภาพ</string>
     <string name="attach_video">วิดีโอ</string>
     <string name="attach_video_call">วิดีโอคอล</string>
-    <string name="attachment_panel_show_part">หน้า %1$d</string>
     <string name="audio_download_failed">ไม่สามารถดาวน์โหลดไฟล์เสียง</string>
     <string name="audio_message_expired">ข้อความเสียงหมดอายุแล้ว</string>
     <string name="audio_message_mx_offline">ไม่สามารถดาวน์โหลดไฟล์เสียงได้ ข้อความ Mi ออฟไลน์อยู่หรือไม่พร้อมใช้งาน</string>
@@ -383,9 +382,9 @@
     <string name="fcm_fallback_notification_channel_label">เบ็ดเตล็ด</string>
     <string name="fdn_check_failure">คุณสามารถส่งข้อความไปยังหมายเลขโทรศํพท์ที่กำหนดเท่านั้น</string>
     <string name="feature_mx">Mi ข้อความ</string>
-    <string name="feature_mx_summary"><b>Mi ข้อความ อนุญาตให้คุณส่งข้อความไปยังผู้ใช้ Mi ข้อความ คนอื่นๆ ผ่านทางอินเทอร์เน็ตโดยไม่เสียค่าใช้จ่าย</b> ต้องใช้การส่งออกข้อความ SMS เพื่อเปิดใช้งานบริการนี้ ผู้ให้บริการของคุณจะเรียกเก็บเงินจากคุณสำหรับข้อความนี้ อ่านและยอมรับ <font color="#B3000000"><a href="http://url1">ข้อตกลงการใช้งาน</a></font> และ <font color="#B3000000"><a href="http://url2">นโยบายความเป็นส่วนตัว</a></font> ของเราก่อนใช้งานคุณลักษณะนี้</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">ข้อความอัจฉริยะ</string>
-    <string name="feature_smart_sms_summary"><b>ข้อความอัจฉริยะ มอบการรับรู้ Sender ID และเมนูอัจฉริยะ</b> ข้อความอัจฉริยะ ให้บริการอยู่ในส่วนของ Yulore อ่านและยอมรับ <font color="#B3000000"><a href="http://url3">นโยบายความเป็นส่วนตัว</a></font> ของ Yulore ก่อนใช้งานคุณลักษณะนี้</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">กำลังโหลด…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">สร้างเมื่อ:</string>
@@ -463,7 +462,7 @@
     <string name="from_pkg_name">จากแอป:</string>
     <string name="ft_cfs_dialog_content">ไม่สามารถส่งไฟล์โดยใช้ RCS ได้ ต้องการส่งลิงก์เป็นข้อความแทนหรือไม่</string>
     <string name="ft_cfs_dialog_title">การถ่ายโอนไฟล์ทางเลือก</string>
-    <string name="google_message_promo_content">Xiaomi แนะนำให้อัปเกรดเป็น Messages by Google ติดตั้งทันทีเพื่อรับการแชร์รูปภาพคุณภาพสูง แชทผ่าน Wi-Fi และอื่นๆ <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">เรียนรู้เพิ่มเติม</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">อัปเกรดแอปส่งข้อความของคุณ</string>
     <string name="group_already_kicked_hint">ส่งข้อความไม่ได้ คุณไม่ได้เป็นสมาชิกในกลุ่มแชทนี้</string>
     <string name="group_member_is_composing">กำลังพิม…</string>
@@ -543,10 +542,8 @@
     <string name="menu_unlock">ลบจากรายการโปรด</string>
     <string name="menu_view_contact">ดูรายชื่อ</string>
     <string name="menu_view_group_info">ข้อมูลกลุ่ม</string>
-    <string name="message_cannot_send_air_mode">"ส่งข้อความไม่ได้
-ปิดโหมดใช้งานบนเครื่องบินก่อน"</string>
-    <string name="message_cannot_send_sim_unavailable">"ส่งข้อความไม่ได้
-ตรวจสอบซิมการ์ดของคุณ"</string>
+    <string name="message_cannot_send_air_mode">ปิดโหมดเครื่องบินเพื่อส่งข้อความ</string>
+    <string name="message_cannot_send_sim_unavailable">ใส่ซิมการ์ดเพื่อส่งข้อความ</string>
     <string name="message_class_label">"คลาสข้อความ: "</string>
     <string name="message_contact">ผู้ติดต่อ:</string>
     <string name="message_details_title">รายละเอียดข้อความ</string>
@@ -737,7 +734,7 @@
     <string name="networking_allow_desc">ข้อความ Mi ต้องการเชื่อมต่ออินเทอร์เน็ตเพื่อทำงานได้ตามปกติ เพื่อให้บริการข้อความและเสียงฟรี จดจำหมายเลขที่ไม่รู้จัก กรองสแปมและเปิดใช้งานคุณลักษณะอื่นๆ Mi ข้อความ ต้องใช้สมุดหน้าเหลือง อนุญาตให้สมุดหน้าเหลืองเชื่อมต่อกับอินเทอร์เน็ต รับข้อมูลตำแหน่งของคุณและอ่านรายชื่อติดต่อของคุณหรือไม่?</string>
     <string name="networking_allow_desc_without_mx">ข้อความ Mi ต้องการเชื่อมต่ออินเทอร์เน็ตเพื่อทำงานได้ตามปกติ จดจำหมายเลขที่ไม่รู้จัก กรองสแปมและเปิดใช้งานคุณลักษณะอื่นๆ Mi ข้อความ ต้องใช้สมุดหน้าเหลือง อนุญาตให้สมุดหน้าเหลืองเชื่อมต่อกับอินเทอร์เน็ต รับข้อมูลตำแหน่งของคุณและอ่านรายชื่อติดต่อของคุณหรือไม่?</string>
     <string name="networking_allow_title">โปรดทราบ</string>
-    <string name="new_message">เขียน</string>
+    <string name="new_message">ข้อความใหม่</string>
     <string name="new_message_arrived">ยังไม่ได้อ่าน</string>
     <string name="new_phrase">เพิ่มการตอบกลับ</string>
     <string name="new_phrase_hint">ป้อนการตอบกลับใหม่</string>
@@ -817,7 +814,7 @@
     <string name="pref_hide_verification_code_summary">ซ่อนรหัสผ่านแบบครั้งเดียวโดยอัตโนมัติในการแจ้งเตือนข้อความบนหน้าจอล็อกที่ปลอดภัย</string>
     <string name="pref_messages_to_save">ตั้งจำนวนข้อความที่จะบันทึก</string>
     <string name="pref_mms_settings_title">ข้อความมัลติมีเดีย (MMS)</string>
-    <string name="pref_msg_trash_bin_title">ลบข้อความแล้ว</string>
+    <string name="pref_msg_trash_bin_title">รายการที่ถูกลบล่าสุด</string>
     <string name="pref_notification_settings_title">การแจ้งเตือน</string>
     <string name="pref_other_title">การตั้งค่าเพิ่มเติม</string>
     <string name="pref_rcs_show_report_message">รับรายงานการจัดส่ง</string>
@@ -1005,7 +1002,7 @@
     <string name="rcs_conversation_rcs_tip">[Chatbot] %s</string>
     <string name="rcs_create_new_group">สร้างกลุ่มแชท</string>
     <string name="rcs_dspt">ส่งและรับข้อความโดยใช้ WLAN หรือเครือข่ายมือถือ</string>
-    <string name="rcs_dspt_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_dspt_unavailable">คุณสมบัติที่เกี่ยวข้องกับการส่งข้อความ 5G ไม่รองรับเนื่องจากข้อจำกัดของผู้ให้บริการ</string>
     <string name="rcs_file_link_as_sms">ไปที่ %s เพื่อดูไฟล์ RCS ที่ส่งถึงคุณ</string>
     <string name="rcs_forward_faild">ส่งไม่ได้</string>
     <string name="rcs_forward_successful">ส่งต่อเรียบร้อยแล้ว</string>
@@ -1014,7 +1011,7 @@
     <string name="rcs_hello_from_pc">ลงชื่อเข้าใช้ Fetion บนคอมพิวเตอร์ของคุณเพื่อถ่ายโอนไฟล์</string>
     <string name="rcs_list_bottom_loading">รอสักครู่…</string>
     <string name="rcs_list_bottom_search">กำลังค้นหา…</string>
-    <string name="rcs_main_purpose">คุณสามารถใช้บริการนี้เพื่อส่งและรับรูปภาพ ข้อความเสียง วิดีโอ และอื่นๆ</string>
+    <string name="rcs_main_purpose">คุณสามารถใช้บริการนี้เพื่อส่งและรับรูปภาพ ข้อความเสียง วิดีโอ และอื่นๆ บริการนี้จำเป็นต้องมีการเข้าถึงตำแหน่งที่ตั้ง</string>
     <string name="rcs_message">ข้อความ 5G</string>
     <string name="rcs_message_disable">ไม่สามารถเรียกดูข้อความนี้ในพื้นที่ทับซ้อน</string>
     <string name="rcs_message_title">การส่งข้อความ 5G</string>
@@ -1064,7 +1061,7 @@
     <string name="rcs_summary_auto_resend_mms">แปลงข้อความข้อความมัลติมีเดีย 5G เป็น MMS หลังจากที่ไม่สามารถส่งข้อความต้นฉบับได้ ผู้ให้บริการจะคิดค่าบริการสำหรับข้อความนี้</string>
     <string name="rcs_summary_auto_resend_sms">แปลงข้อความอักษร 5G เป็น SMS หลังจากไม่สามารถส่งข้อความต้นฉบับ ผู้ให้บริการจะคิดค่าบริการสำหรับข้อความนี้</string>
     <string name="rcs_summary_silence_message">ปิดการแจ้งเตือนข้อความเมื่อลูกข่ายเดสท็อปทำงานอยู่</string>
-    <string name="rcs_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_unavailable">คุณสมบัติที่เกี่ยวข้องกับการส่งข้อความ 5G ไม่รองรับเนื่องจากข้อจำกัดของผู้ให้บริการ</string>
     <string name="rcs_up_not_online">การส่งข้อความ 5G ออฟไลน์อยู่ ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง</string>
     <string name="rcs_wait_for_retry_text">กำลังรอ…</string>
     <string name="received_at_time">วันที่รับ: %1s</string>
@@ -1107,10 +1104,10 @@
     <string name="recommend_tip_4">Mi ข้อความ สามารถจดจำ ID ผู้ส่งโดยอัตโนมัติเพื่อให้คุณเห็นชื่อและรูปโปรไฟล์ของผู้ขายที่เชื่อถือได้</string>
     <string name="recommend_tip_5">การจดจำ ID ผู้ส่งแบบสมาร์ททำให้กล่องจดหมายของคุณดีขึ้นและช่วยระบุผู้ส่งที่เชื่อถือได้</string>
     <string name="recommend_tip_6">บริการข้างต้นได้รับการสนับสนุนทางเทคนิคจาก Yulore</string>
-    <string name="recommend_tip_7">อ่านและยอมรับ <font color="#B3000000"><a href="http://url1">ข้อตกลงการใช้งาน</a></font> และ <font color="#B3000000"><a href="http://url2">นโยบายความเป็นส่วนตัว</a></font> ตลอดจน <font color="#B3000000"><a href="http://url3">นโยบายความเป็นส่วนตัวของ Yulore</a></font> ก่อนใช้ Mi ข้อความ</string>
-    <string name="recommend_tip_8">อ่านและยอมรับ <font color="#B3000000"><a href="http://url1">ข้อตกลงการใช้งาน</a></font> และ <font color="#B3000000"><a href="http://url2">นโยบายความเป็นส่วนตัว</a></font> ตลอดจน <font color="#B3000000"><a href="http://url3">นโยบายความเป็นส่วนตัวของ Yulore</a></font> ก่อนใช้บริการส่งข้อความทางอินเทอร์เน็ตฟรีจาก Mi ข้อความ</string>
-    <string name="recommend_tip_9">อ่านและยอมรับ <font color="#B3000000"><a href="http://url1">ข้อตกลงการใช้งาน</a></font> และ <font color="#B3000000"><a href="http://url2">นโยบายความเป็นส่วนตัว</a></font> ตลอดจน <font color="#B3000000"><a href="http://url3">นโยบายความเป็นส่วนตัวของ Yulore</a></font> ก่อนใช้การจดจำ ID ผู้ส่งอัจฉริยะ</string>
-    <string name="recommend_tip_9_2">อ่านและยอมรับ <font color="#B3000000"><a href="http://url1">ข้อตกลงการใช้งาน</a></font> และ <font color="#B3000000"><a href="http://url2">นโยบายความเป็นส่วนตัว</a></font> ก่อนใช้บริการของเรา</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">ตั้งค่า ข้อความ Xiaomi เป็นแอปส่งข้อความเริ่มต้นของคุณเพื่อรับประโยชน์ด้านความปลอดภัยทั้งหมดที่เรามีให้</string>
     <string name="recommend_tip_other">ดูแอปส่งข้อความอื่นๆ</string>
     <string name="recommend_tip_smart">คุ้มครองความเป็นส่วนตัว ตรวจจับอย่างชาญฉลาด</string>
@@ -1342,7 +1339,7 @@
 หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้"</string>
     <string name="system_permission_declare_privacy_declare">%1s ต้องรวบรวมข้อมูลของคุณและต้องได้รับการอนุญาตต่อไปนี้เพื่อทำงานตามปกติ:</string>
     <string name="system_permission_declare_privacy_declare_new">แอปนี้ต้องเชื่อมต่อกับอินเทอร์เน็ตและต้องได้รับการอนุญาตต่อไปนี้เพื่อให้สามารถทำงานได้ตามปกติ:</string>
-    <string name="system_permission_declare_privacy_link">To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our %1s.</string>
+    <string name="system_permission_declare_privacy_link">เพื่อให้เข้าใจถึงสิทธิ์ของคุณในฐานะผู้ใช้ตลอดจนวิธีที่เราใช้ข้อมูลของคุณโปรดอ่านและยอมรับ %1s ของเรา</string>
     <string name="system_permission_declare_revoke_path">คุณสามารถเพิกถอนการอนุญาตและปิดบริการในการตั้งค่าการส่งข้อความ</string>
     <string name="system_permission_declare_single_link">อ่านและยอมรับ %1s ของเราก่อนใช้งานคุณลักษณะนี้</string>
     <string name="system_permission_declare_triple_link" formatted="false">อ่านและยอมรับ %1s, %2s, และ %3s ของเราก่อนใช้งานคุณลักษณะนี้</string>
@@ -1488,7 +1485,7 @@
     <string name="voice_report_off">ปิด</string>
     <string name="voice_report_wiredon">ด้วยหูฟัง</string>
     <string name="wap_push_title">"[WAP Push] "</string>
-    <string name="warning_show">ส่งแบบ %d</string>
+    <string name="warning_show">ส่งใน %d วิ</string>
     <string name="web_content_invalid_hint">การแสดงรายการนี้ถูกจำกัดโดยกฎหมายและข้อบังคับในท้องถิ่น</string>
     <string name="wednesday">วันพุธ</string>
     <string name="wednesday_short">พุธ</string>

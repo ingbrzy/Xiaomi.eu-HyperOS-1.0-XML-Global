@@ -89,7 +89,6 @@ ajoutés à la liste noire"</string>
     <string name="attach_take_photo">Prendre une photo</string>
     <string name="attach_video">Vidéo</string>
     <string name="attach_video_call">Appel vidéo</string>
-    <string name="attachment_panel_show_part">Page %1$d</string>
     <string name="audio_download_failed">"impossible de télécharger l'audio"</string>
     <string name="audio_message_expired">Ce message vocal a expiré.</string>
     <string name="audio_message_mx_offline">Impossible de télécharger le fichier audio. Mi Message est hors-ligne ou indisponible.</string>
@@ -458,7 +457,7 @@ Veuillez noter que la fonctionnalité de messagerie Internet est désormais susp
     <string name="from_pkg_name">"De l'application :"</string>
     <string name="ft_cfs_dialog_content">"Les fichiers n'ont pas pu être transmis par RCS. Envoyer à la place un message contenant le lien?"</string>
     <string name="ft_cfs_dialog_title">Transfert de fichier alternatif</string>
-    <string name="google_message_promo_content">Xiaomi recommande de mettre à niveau en téléchargeant Messages de Google. Installer maintenant pour partager des photos de haute qualité, pour chater par Wi-Fi et plus encore. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">En savoir plus</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recommande de mettre à niveau en téléchargeant Messages de Google. Installer maintenant pour partager des photos de haute qualité, pour discuter par Wi-Fi et plus encore. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">En savoir plus</a></font></string>
     <string name="google_message_promo_title">Mettez à niveau votre application de messagerie</string>
     <string name="group_already_kicked_hint">"Impossible d'envoyer des messages. Vous n'êtes pas membre de ce groupe de discussion."</string>
     <string name="group_member_is_composing">Copie en cours…</string>
@@ -538,10 +537,8 @@ Veuillez noter que la fonctionnalité de messagerie Internet est désormais susp
     <string name="menu_unlock">Retirer des favoris</string>
     <string name="menu_view_contact">Afficher le contact</string>
     <string name="menu_view_group_info">Info sur le groupe</string>
-    <string name="message_cannot_send_air_mode">"Impossible d'envoyer des messages.
-Désactivez d'abord le mode Avion."</string>
-    <string name="message_cannot_send_sim_unavailable">"Impossible d'envoyer des messages.
-Vérifiez votre carte SIM."</string>
+    <string name="message_cannot_send_air_mode">Désactiver le mode avion pour envoyer des messages</string>
+    <string name="message_cannot_send_sim_unavailable">Insérer la carte SIM pour envoyer des messages</string>
     <string name="message_class_label">"Catégorie : "</string>
     <string name="message_contact">Contact :</string>
     <string name="message_details_title">Détails du message</string>
@@ -812,7 +809,7 @@ Un message SMS sortant est requis pour activer Mi Message. Votre opérateur vous
     <string name="pref_hide_verification_code_summary">"Masquer automatiquement les mots de passe à usage unique dans les notifications de message sur l'Écran de verrouillage sécurisé"</string>
     <string name="pref_messages_to_save">Définir le nombre de messages à enregistrer</string>
     <string name="pref_mms_settings_title">Paramètres des MMS</string>
-    <string name="pref_msg_trash_bin_title">Messages supprimés</string>
+    <string name="pref_msg_trash_bin_title">Éléments supprimés récemment</string>
     <string name="pref_notification_settings_title">Paramètres de notification</string>
     <string name="pref_other_title">Paramètres supplémentaires</string>
     <string name="pref_rcs_show_report_message">Recevoir des rapports de livraison</string>
@@ -986,7 +983,7 @@ Vérifier les chatbots recommandés !"</string>
     <string name="rcs_chatdetail_more_adddress">Adresse</string>
     <string name="rcs_chatdetail_more_email">E-mail</string>
     <string name="rcs_chatdetail_more_email_send">Envoyer un e-mail</string>
-    <string name="rcs_chatdetail_more_href">Site Web</string>
+    <string name="rcs_chatdetail_more_href">Site web</string>
     <string name="rcs_chatdetail_more_id">Identifiant du propriétaire</string>
     <string name="rcs_chatdetail_more_number">Numéro de téléphone (messages)</string>
     <string name="rcs_chatdetail_more_type">Catégorie</string>
@@ -1000,7 +997,7 @@ Vérifier les chatbots recommandés !"</string>
     <string name="rcs_conversation_rcs_tip">[Chatbot] %s</string>
     <string name="rcs_create_new_group">Créer un groupe de discussion</string>
     <string name="rcs_dspt">Envoyer et recevoir des messages via WLAN ou le réseau mobile</string>
-    <string name="rcs_dspt_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_dspt_unavailable">"Les fonctionnalités liées à la messagerie 5G ne sont pas prises en charge en raison des restrictions de l'opérateur"</string>
     <string name="rcs_file_link_as_sms">Se réferer à%s pour voir le fichier RCS qui vous à été envoyé.</string>
     <string name="rcs_forward_faild">Impossible de transférer</string>
     <string name="rcs_forward_successful">Transféré avec succès</string>
@@ -1009,7 +1006,7 @@ Vérifier les chatbots recommandés !"</string>
     <string name="rcs_hello_from_pc">Connectez-vous à Fetion sur votre ordinateur pour transférer des fichiers.</string>
     <string name="rcs_list_bottom_loading">Juste un instant…</string>
     <string name="rcs_list_bottom_search">Recherche…</string>
-    <string name="rcs_main_purpose">Vous pouvez utiliser ce service pour envoyer et recevoir des photos, des messages vocaux, des vidéos, etc.</string>
+    <string name="rcs_main_purpose">Vous pouvez utiliser ce service pour envoyer et recevoir des photos, des messages vocaux, des vidéos et plus encore. Ce service nécessite un accès à la localisation.</string>
     <string name="rcs_message">Messages 5G</string>
     <string name="rcs_message_disable">Impossible de voir ce message dans le Second espace</string>
     <string name="rcs_message_title">Messagerie 5G</string>
@@ -1059,7 +1056,7 @@ Vérifier les chatbots recommandés !"</string>
     <string name="rcs_summary_auto_resend_mms">"Convertir les messages 5G en MMS après l'échec d'envoi du message original. Votre transporteur vous facturera ce message."</string>
     <string name="rcs_summary_auto_resend_sms">"Convertir les messages 5G en SMS après l'échec d'envoi du message original. Votre transporteur vous facturera ce message."</string>
     <string name="rcs_summary_silence_message">Notifications de messages en mode silencieux lorsque le bureau client fonctionne</string>
-    <string name="rcs_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_unavailable">"Les fonctionnalités liées à la messagerie 5G ne sont pas prises en charge en raison des restrictions de l'opérateur"</string>
     <string name="rcs_up_not_online">La messagerie 5G est déconnecté. Vérifiez vos paramètres de connexion et réessayez.</string>
     <string name="rcs_wait_for_retry_text">En attente…</string>
     <string name="received_at_time">Reçu à : %1s</string>
@@ -1102,10 +1099,10 @@ Vérifier les chatbots recommandés !"</string>
     <string name="recommend_tip_4">"Messagerie Mi peut reconnaître automatiquement l'ID de l'expéditeur, ce qui vous permet de voir les noms et les images de profil de fournisseurs de confiance."</string>
     <string name="recommend_tip_5">"La reconnaissance intelligente de l'ID de l'expéditeur rend votre boîte de réception plus propre et vous aide à identifier les expéditeurs fiables."</string>
     <string name="recommend_tip_6">Les services ci-dessus sont fournis avec le support technique de Yulore.</string>
-    <string name="recommend_tip_7">Lisez et acceptez notre <font color="#B3000000"><a href="http://url1">Accord Utilisateur</a></font> et <font color="#B3000000"><a href="http://url2">Politique de Confidentialité</a></font>, ainsi que la <font color="#B3000000"><a href="http://url3">Politique de Confidentialité de Yulore</a></font>" avant d'utiliser la Messagerie Mi."</string>
-    <string name="recommend_tip_8">Lisez et acceptez notre <font color="#B3000000"><a href="http://url1">Accord Utilisateur</a></font> et <font color="#B3000000"><a href="http://url2">Politique de Confidentialité</a></font>, ainsi que la <font color="#B3000000"><a href="http://url3">Politique de Confidentialité de Yulore</a></font>" avant d'utiliser la messagerie Internet gratuite fournie par la Messagerie Mi."</string>
+    <string name="recommend_tip_7">Lisez et acceptez notre <font color="#B3000000"><a href="http://url1">Accord Utilisateur</a></font> et notre <font color="#B3000000"><a href="http://url2">Politique de confidentialité</a></font>, ainsi que la <font color="#B3000000"><a href="http://url3">Politique de confidentialité Yulore</a></font>" avant d'utiliser Messagerie Mi."</string>
+    <string name="recommend_tip_8">Lisez et acceptez notre <font color="#B3000000"><a href="http://url1">Accord Utilisateur</a></font> et <font color="#B3000000"><a href="http://url2">Politique de Confidentialité</a></font>, ainsi que la <font color="#B3000000"><a href="http://url3">Politique de Confidentialité de Yulore</a></font>" avant d'utiliser la messagerie Internet gratuite fournie par Messagerie Mi."</string>
     <string name="recommend_tip_9">Lisez et acceptez notre <font color="#B3000000"><a href="http://url1">Accord Utilisateur</a></font> et <font color="#B3000000"><a href="http://url2">Politique de confidentialité</a></font>, ainsi que la <font color="#B3000000"><a href="http://url3">Politique de Confidentialité de Yulore</a></font>" avant d'utiliser la reconnaissance intelligente de l'ID de l'expéditeur."</string>
-    <string name="recommend_tip_9_2">Lisez et acceptez notre <font color="#B3000000"><a href="http://url1">Accord Utilisateur</a></font> et <font color="#B3000000"><a href="http://url2">Politique de confidentialité</a></font>" avant d'utiliser nos services."</string>
+    <string name="recommend_tip_9_2">Lisez et acceptez notre <font color="#B3000000"><a href="http://url1">Accord utilisateur</a></font> et notre <font color="#B3000000"><a href="http://url2">Politique de confidentialité</a></font>" avant d'utiliser nos services."</string>
     <string name="recommend_tip_default">Définissez Xiaomi Messagerie comme application de messagerie par défaut pour obtenir tous les avantages de sécurité que nous offrons</string>
     <string name="recommend_tip_other">"Afficher d'autres applications de messagerie"</string>
     <string name="recommend_tip_smart">Protection de la vie privée. Reconnaissance intelligente.</string>
@@ -1337,7 +1334,7 @@ Vérifier les chatbots recommandés !"</string>
 Si vous n'acceptez pas d'accorder de telles autorisations, ni ne partagez et téléchargez vos informations personnelles, vous ne pourrez pas utiliser cette application."</string>
     <string name="system_permission_declare_privacy_declare">%1s doit collecter vos données et nécessite les autorisations suivantes pour fonctionner normalement:</string>
     <string name="system_permission_declare_privacy_declare_new">Cette application doit se connecter à internet et nécessite les autorisations suivantes pour pouvoir fonctionner normalement:</string>
-    <string name="system_permission_declare_privacy_link">To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our %1s.</string>
+    <string name="system_permission_declare_privacy_link">"Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre %1s."</string>
     <string name="system_permission_declare_revoke_path">Vous pouvez révoquer votre autorisation et désactiver des services dans les paramètres de Messagerie.</string>
     <string name="system_permission_declare_single_link">"Lire et accepter notre %1s avant d'utiliser cette fonctionnalité."</string>
     <string name="system_permission_declare_triple_link" formatted="false">"Lire et accepter notre %1s, %2s, et %3s avant d'utiliser ces fonctionnalités."</string>
@@ -1483,7 +1480,7 @@ Dernière tentative : %s."</string>
     <string name="voice_report_off">Désactivé</string>
     <string name="voice_report_wiredon">Avec les écouteurs</string>
     <string name="wap_push_title">"[WAP Push] "</string>
-    <string name="warning_show">Envoyer à %ds</string>
+    <string name="warning_show">Envoyer à %d s</string>
     <string name="web_content_invalid_hint">"L'affichage de cet élément est limité par les lois et réglementations locales"</string>
     <string name="wednesday">Mercredi</string>
     <string name="wednesday_short">Mer</string>

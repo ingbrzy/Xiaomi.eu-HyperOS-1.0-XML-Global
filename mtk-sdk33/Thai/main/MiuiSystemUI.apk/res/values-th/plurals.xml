@@ -28,27 +28,27 @@
         <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
     <plurals name="abc_slice_duration_days">
-        <item quantity="other">%d วันที่ผ่านมา</item>
         <item quantity="one">%d วันที่ผ่านมา</item>
+        <item quantity="other">%d วันที่ผ่านมา</item>
     </plurals>
     <plurals name="abc_slice_duration_min">
-        <item quantity="other">%d นาทีที่ผ่านมา</item>
         <item quantity="one">%d นาทีที่ผ่านมา</item>
+        <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
     <plurals name="abc_slice_duration_years">
-        <item quantity="other">%d ปีที่ผ่านมา</item>
         <item quantity="one">%d ปีที่ผ่านมา</item>
+        <item quantity="other">%d ปีที่ผ่านมา</item>
     </plurals>
     <plurals name="atmospheric_pressure_desc">
         <item quantity="other">ความดันบรรยากาศ: %s เฮกโตปาสคาล</item>
     </plurals>
     <plurals name="controls_number_of_favorites">
-        <item quantity="other">เพิ่มตัวควบคุม %s ตัวแล้ว</item>
         <item quantity="one">เพิ่มตัวควบคุม %s ตัวแล้ว</item>
+        <item quantity="other">เพิ่มตัวควบคุม %s ตัวแล้ว</item>
     </plurals>
     <plurals name="fgs_manager_footer_label">
-        <item quantity="other">ทำงานอยู่ %s แอป</item>
         <item quantity="one">ทำงานอยู่ %s แอป</item>
+        <item quantity="other">ทำงานอยู่ %s แอป</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
@@ -141,20 +141,20 @@
         <item quantity="other">ใช้ได้อีก %1$d ชม. %2$d นาที</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
-        <item quantity="other">โปรดป้อน PIN ของซิม คุณพยายามได้อีก %d ครั้ง</item>
         <item quantity="one">โปรดป้อน PIN ของซิม คุณพยายามได้อีก %d ครั้งก่อนที่จะต้องติดต่อผู้ให้บริการเพื่อปลดล็อกอุปกรณ์</item>
+        <item quantity="other">โปรดป้อน PIN ของซิม คุณพยายามได้อีก %d ครั้ง</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
-        <item quantity="other">ซิมถูกปิดใช้งานในขณะนี้ โปรดป้อนรหัส PUK เพื่อทำต่อ คุณพยายามได้อีก %d ครั้งก่อนที่ซิมจะไม่สามารถใช้งานได้อย่างถาวร โปรดติดต่อสอบถามรายละเอียดจากผู้ให้บริการ</item>
         <item quantity="one">ซิมถูกปิดใช้งานในขณะนี้ โปรดป้อนรหัส PUK เพื่อทำต่อ คุณพยายามได้อีก %d ครั้งก่อนที่ซิมจะไม่สามารถใช้งานได้อย่างถาวร โปรดติดต่อสอบถามรายละเอียดจากผู้ให้บริการ</item>
+        <item quantity="other">ซิมถูกปิดใช้งานในขณะนี้ โปรดป้อนรหัส PUK เพื่อทำต่อ คุณพยายามได้อีก %d ครั้งก่อนที่ซิมจะไม่สามารถใช้งานได้อย่างถาวร โปรดติดต่อสอบถามรายละเอียดจากผู้ให้บริการ</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">รหัส PIN ของซิมไม่ถูกต้อง คุณพยายามได้อีก %d ครั้ง</item>
         <item quantity="one">รหัส PIN ของซิมไม่ถูกต้อง คุณพยายามได้อีก %d ครั้งก่อนที่จะต้องติดต่อผู้ให้บริการเพื่อปลดล็อกอุปกรณ์ของคุณ</item>
+        <item quantity="other">รหัส PIN ของซิมไม่ถูกต้อง คุณพยายามได้อีก %d ครั้ง</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
-        <item quantity="other">รหัส PUK ของซิมไม่ถูกต้อง คุณพยายามได้อีก %d ครั้งก่อนที่ซิมจะไม่สามารถใช้งานได้อย่างถาวร</item>
         <item quantity="one">รหัส PUK ของซิมไม่ถูกต้อง คุณพยายามได้อีก %d ครั้งก่อนที่ซิมจะไม่สามารถใช้งานได้อย่างถาวร</item>
+        <item quantity="other">รหัส PUK ของซิมไม่ถูกต้อง คุณพยายามได้อีก %d ครั้งก่อนที่ซิมจะไม่สามารถใช้งานได้อย่างถาวร</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">เมื่อสักครู่</item>
@@ -163,15 +163,15 @@
         <item quantity="other">เลือกไว้ %d รายการ</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
         <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
+        <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
     </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d การแจ้งเตือนใหม่</item>
     </plurals>
     <plurals name="notification_group_overflow_description">
-        <item quantity="other">มีการแจ้งเตือนอีก %s รายการด้านใน</item>
         <item quantity="one">มีการแจ้งเตือนอีก %s รายการด้านใน</item>
+        <item quantity="other">มีการแจ้งเตือนอีก %s รายการด้านใน</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
@@ -183,20 +183,20 @@
         <item quantity="other">ลองอีกครั้งใน %d วินาที</item>
     </plurals>
     <plurals name="quick_settings_hotspot_secondary_label_num_devices">
-        <item quantity="other">อุปกรณ์ %d เครื่อง</item>
         <item quantity="one">อุปกรณ์ %d เครื่อง</item>
+        <item quantity="other">อุปกรณ์ %d เครื่อง</item>
     </plurals>
     <plurals name="snoozeHourOptions">
-        <item quantity="other">%d ชั่วโมง</item>
         <item quantity="one">%d ชั่วโมง</item>
+        <item quantity="other">%d ชั่วโมง</item>
     </plurals>
     <plurals name="snoozeMinuteOptions">
-        <item quantity="other">%d นาที</item>
         <item quantity="one">%d นาที</item>
+        <item quantity="other">%d นาที</item>
     </plurals>
     <plurals name="user_limit_reached_message">
-        <item quantity="other">คุณเพิ่มผู้ใช้ได้สูงสุด %d คน</item>
         <item quantity="one">สร้างผู้ใช้ได้เพียง 1 คนเท่านั้น</item>
+        <item quantity="other">คุณเพิ่มผู้ใช้ได้สูงสุด %d คน</item>
     </plurals>
     <plurals name="weather_temperature_desc">
         <item quantity="other">อุณหภูมิ: %1$s องศา, %2$s</item>

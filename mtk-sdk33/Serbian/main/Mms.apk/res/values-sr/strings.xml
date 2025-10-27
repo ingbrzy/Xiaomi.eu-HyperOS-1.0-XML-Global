@@ -89,7 +89,6 @@
     <string name="attach_take_photo">Сликај</string>
     <string name="attach_video">Видео</string>
     <string name="attach_video_call">Видео позив</string>
-    <string name="attachment_panel_show_part">Страна %1$d</string>
     <string name="audio_download_failed">Не може се преузети звук</string>
     <string name="audio_message_expired">Ова гласовна порука је истекла.</string>
     <string name="audio_message_mx_offline">Не може се преузети звук. Mi Порука је ван мреже или није доступна.</string>
@@ -378,9 +377,9 @@
     <string name="fcm_fallback_notification_channel_label">Разно</string>
     <string name="fdn_check_failure">Поруке можете слати само бројевима са листе дозвољених за бирање.</string>
     <string name="feature_mx">Mi Порука</string>
-    <string name="feature_mx_summary"><b>Mi Порука омогућава бесплатно слање порука другим корисницима Mi Порука преко интернета</b>. Потребан је одлазни SMS за активирање ове услуге. Ваш оператор ће вам ту поруку наплатити. Прочитајте и прихватите наш <font color="#B3000000"><a href="http://url1">Кориснички уговор</a></font> и <font color="#B3000000"><a href="http://url2">Правила о приватности</a></font> пре коришћења функције.</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">Паметне поруке</string>
-    <string name="feature_smart_sms_summary"><b>Паметне поруке омогућавају препознавање ID-а пошиљаоца и услуге паметног менија.</b>. Yulore делимично пружа услуге Паметних порука. Прочитајте и прихватите Yulore <font color="#B3000000"><a href="http://url3">Правила о приватности</a></font> пре коришћења ове функције.</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">Учитавање…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Креирано:</string>
@@ -458,7 +457,7 @@
     <string name="from_pkg_name">Из апликације:</string>
     <string name="ft_cfs_dialog_content">Фајлови се не могу достављати преко RCS. Послати линк у текстуалној поруци?</string>
     <string name="ft_cfs_dialog_title">Алтернативни пренос фајлова</string>
-    <string name="google_message_promo_content">Xiaomi препоручује да надоградите Поруке које обезбеђује Google. Инсталирајте сада ради дељења фотографија високог квалитета, Wi-Fi ћаскања и др. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Сазнајте више</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">Надоградите апликацију за поруке</string>
     <string name="group_already_kicked_hint">Не могу се слати поруке. Нисте члан ове групе за ћаскање.</string>
     <string name="group_member_is_composing">Куцање…</string>
@@ -538,10 +537,8 @@
     <string name="menu_unlock">Уклони из омиљених</string>
     <string name="menu_view_contact">Приказ контакта</string>
     <string name="menu_view_group_info">Информације о групи</string>
-    <string name="message_cannot_send_air_mode">"Поруке се не могу послати.
-Прво искључите Авионски режим."</string>
-    <string name="message_cannot_send_sim_unavailable">"Поруке се не могу послати.
-Проверите SIM картицу."</string>
+    <string name="message_cannot_send_air_mode">Искључите Авионски режим да бисте слали поруке</string>
+    <string name="message_cannot_send_sim_unavailable">Уметните SIM картицу за слање порука</string>
     <string name="message_class_label">"Класа поруке: "</string>
     <string name="message_contact">Контакт:</string>
     <string name="message_details_title">Детаљи поруке</string>
@@ -812,7 +809,7 @@
     <string name="pref_hide_verification_code_summary">Аутоматски сакриј једнократне лозинке у обавештењима порука на обезбеђеном Закључаном екрану</string>
     <string name="pref_messages_to_save">Подесите број порука за чување</string>
     <string name="pref_mms_settings_title">Мултимедијалне поруке (MMS)</string>
-    <string name="pref_msg_trash_bin_title">Обрисане поруке</string>
+    <string name="pref_msg_trash_bin_title">Недавно обрисане ставке</string>
     <string name="pref_notification_settings_title">Обавештења</string>
     <string name="pref_other_title">Додатна подешавања</string>
     <string name="pref_rcs_show_report_message">Примај обавештења о достави</string>
@@ -1000,7 +997,7 @@
     <string name="rcs_conversation_rcs_tip">[Chatbot] %s</string>
     <string name="rcs_create_new_group">Креирај групно ћаскање</string>
     <string name="rcs_dspt">Шаљите и примајте поруке користећи WLAN или мобилну мрежу</string>
-    <string name="rcs_dspt_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_dspt_unavailable">Функције повезане са 5G порукама нису подржане због ограничења оператора</string>
     <string name="rcs_file_link_as_sms">Посетите %s да бисте видели RCS фајл који вам је послат.</string>
     <string name="rcs_forward_faild">Није прослеђено</string>
     <string name="rcs_forward_successful">Успешно прослеђено</string>
@@ -1009,7 +1006,7 @@
     <string name="rcs_hello_from_pc">Пријавите се на Fetion на вашем рачунару за пренос фајлова.</string>
     <string name="rcs_list_bottom_loading">Само тренутак…</string>
     <string name="rcs_list_bottom_search">Претраживање…</string>
-    <string name="rcs_main_purpose">Ову услугу можете да користите за слање и примање фотографија, гласовних порука, видео снимака и друго.</string>
+    <string name="rcs_main_purpose">Ову услугу можете користити за слање и примање фотографија, гласовних порука, видео снимака и још много тога. Услуга захтева приступ вашој локацији.</string>
     <string name="rcs_message">5G поруке</string>
     <string name="rcs_message_disable">Не може се приказати ова порука у Другом простору</string>
     <string name="rcs_message_title">5G Поруке</string>
@@ -1059,7 +1056,7 @@
     <string name="rcs_summary_auto_resend_mms">Претворите 5G мултимедијске поруке у MMS ако оригинална порука није могла бити послата. Ваш оператор ће вам наплатити ову поруку.</string>
     <string name="rcs_summary_auto_resend_sms">Претворите 5G текстуалне поруке у SMS ако оригинална порука није могла бити послата. Ваш оператор ће вам наплатити ову поруку.</string>
     <string name="rcs_summary_silence_message">Утишајте обавештења порука када ради десктоп-клијент</string>
-    <string name="rcs_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_unavailable">Функције повезане са 5G порукама нису подржане због ограничења оператора</string>
     <string name="rcs_up_not_online">5G Поруке су офлајн. Проверите подешавања мреже и покушајте опет.</string>
     <string name="rcs_wait_for_retry_text">Чекање…</string>
     <string name="received_at_time">Примљено у: %1s</string>
@@ -1102,10 +1099,10 @@
     <string name="recommend_tip_4">Mi Порука може аутоматски да препозна ID пошиљаоца омогућавајући вам слике и имена профила поузданих продаваца.</string>
     <string name="recommend_tip_5">Паметно препознавање ID-а пошиљаоца чини вашу примљену пошту уреднијом и помаже вам да идентификујете поуздане пошиљаоце.</string>
     <string name="recommend_tip_6">Техничку подршку за горе наведене услуге пружа Yulore.</string>
-    <string name="recommend_tip_7">Прочитајте и прихватите наш <font color="#B3000000"><a href="http://url1">Кориснички уговор</a></font> и <font color="#B3000000"><a href="http://url2">Правила о приватности</a></font>, као и <font color="#B3000000"><a href="http://url3">Yulore Правила о приватности</a></font> пре коришћења Mi Поруке.</string>
-    <string name="recommend_tip_8">Прочитајте и прихватите наш <font color="#B3000000"><a href="http://url1">Кориснички уговор</a></font> и <font color="#B3000000"><a href="http://url2">Правила о приватности</a></font>, као и <font color="#B3000000"><a href="http://url3">Yulore Правила о приватности</a></font> пре коришћења бесплатног слања порука преко интернета које пружа Mi Порука.</string>
-    <string name="recommend_tip_9">Прочитајте и прихватите наш <font color="#B3000000"><a href="http://url1">Кориснички уговор</a></font> и <font color="#B3000000"><a href="http://url2">Правила о приватности</a></font>, као и <font color="#B3000000"><a href="http://url3">Yulore Правила о приватности</a></font> пре употребе паметног препознавања ID-а пошиљаоца.</string>
-    <string name="recommend_tip_9_2">Прочитајте и прихватите наш <font color="#B3000000"><a href="http://url1">Кориснички уговор</a></font> и <font color="#B3000000"><a href="http://url2">Правила о приватности</a></font> пре коришћења наших услуга.</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">Подесите Xiaomi Поруке као задату апликацију за размену порука да бисте добили све безбедносне предности које нудимо</string>
     <string name="recommend_tip_other">Погледајте друге апликације за размену порука</string>
     <string name="recommend_tip_smart">Заштита приватности. Паметно препознавање.</string>
@@ -1337,7 +1334,7 @@
 Ако не дате ове дозволе или не прихватите дељење и отпремање ваших личних података, нећете моћи користити ову апликацију."</string>
     <string name="system_permission_declare_privacy_declare">Потребно је да %1s прикупља ваше податке и захтева следеће дозволе за исправан рад:</string>
     <string name="system_permission_declare_privacy_declare_new">Ова апликација захтева повезивање на интернет и давање следећих дозвола да би радила исправно:</string>
-    <string name="system_permission_declare_privacy_link">To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our %1s.</string>
+    <string name="system_permission_declare_privacy_link">Да бисте у потпуности разумели своја корисничка права, као и начине на које користимо ваше податке, прочитајте и прихватите наша %1s.</string>
     <string name="system_permission_declare_revoke_path">Можете опозвати ово овлашћење и искључити услуге у подешавањима Порука.</string>
     <string name="system_permission_declare_single_link">Прочитајте и прихватите наша %1s пре коришћења ове функције.</string>
     <string name="system_permission_declare_triple_link" formatted="false">Прочитајте и прихватите наш %1s, %2s и %3s пре коришћења ових функција.</string>

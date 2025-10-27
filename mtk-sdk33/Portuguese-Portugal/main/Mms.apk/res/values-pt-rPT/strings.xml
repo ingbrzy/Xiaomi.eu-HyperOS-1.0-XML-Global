@@ -89,7 +89,6 @@ adicionadas à lista de bloqueio"</string>
     <string name="attach_take_photo">Tirar foto</string>
     <string name="attach_video">Vídeo</string>
     <string name="attach_video_call">Vídeochamada</string>
-    <string name="attachment_panel_show_part">Página %1$d</string>
     <string name="audio_download_failed">Não foi possível transferir o áudio</string>
     <string name="audio_message_expired">Esta mensagem de voz expirou.</string>
     <string name="audio_message_mx_offline">Não foi possível transferir o áudio. Mi Message offline ou indisponível.</string>
@@ -378,9 +377,9 @@ Por favor, observe que a funcionalidade de mensagens pela internet está agora s
     <string name="fcm_fallback_notification_channel_label">Diversas</string>
     <string name="fdn_check_failure">Só pode enviar mensagens para os números de marcação fixa.</string>
     <string name="feature_mx">Mi Message</string>
-    <string name="feature_mx_summary"><b>O Mi Message permite que envie mensagens para outros utilizadores do Mi Message através da internet sem a cobrança de tarifas</b>. Uma mensagem SMS é requerida para ativar este serviço. O seu operador vai cobrar por esta mensagem. Leia e aceite o nosso <font color="#B3000000"><a href="http://url1">Contrato do Utilizador</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font> antes de utilizar esta funcionalidade.</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">Mensagens Inteligentes</string>
-    <string name="feature_smart_sms_summary"><b>O Mensagens Inteligentes fornece reconhecimento de ID de Remetente e menus inteligentes</b>. O Mensagens Inteligentes é parcialmente fornecido por Yulore. Leia e aceite a <font color="#B3000000"><a href="http://url3">Política de Privacidade</a></font> da Yulore antes de utilizar esta funcionalidade.</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">A carregar…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Criado em:</string>
@@ -458,7 +457,7 @@ Por favor, observe que a funcionalidade de mensagens pela internet está agora s
     <string name="from_pkg_name">Da aplicação:</string>
     <string name="ft_cfs_dialog_content">Os ficheiros não puderam ser entregues utilizando o RCS. Enviar uma ligação em uma mensagem de texto em vez disso?</string>
     <string name="ft_cfs_dialog_title">Transferência de ficheiros alternativa</string>
-    <string name="google_message_promo_content">A Xiaomi recomenda a atualização para o Mensagens do Google. Instale agora para obter partilha de fotos em alta qualidade, conversar por Wi-Fi, e mais. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Saiba mais</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">Atualize a sua aplicação de mensagens</string>
     <string name="group_already_kicked_hint">Não é possível enviar mensagens. Não é um membro deste bate-papo em grupo.</string>
     <string name="group_member_is_composing">A escrever…</string>
@@ -538,10 +537,8 @@ Por favor, observe que a funcionalidade de mensagens pela internet está agora s
     <string name="menu_unlock">Remover dos favoritos</string>
     <string name="menu_view_contact">Ver contacto</string>
     <string name="menu_view_group_info">Info. do grupo</string>
-    <string name="message_cannot_send_air_mode">"Não é possível enviar mensagens.
-Desligue o Modo Voo primeiro."</string>
-    <string name="message_cannot_send_sim_unavailable">"Não é possível enviar mensagens.
-Verifique o seu cartão SIM."</string>
+    <string name="message_cannot_send_air_mode">Desligue o Modo de voo para enviar mensagens</string>
+    <string name="message_cannot_send_sim_unavailable">Insira o cartão SIM para enviar mensagens</string>
     <string name="message_class_label">"Classe da mensagem: "</string>
     <string name="message_contact">Contacto:</string>
     <string name="message_details_title">Detalhes da mensagem</string>
@@ -812,7 +809,7 @@ Uma mensagem SMS é necessária para ativar o Mi Message. Seu operador lhe cobra
     <string name="pref_hide_verification_code_summary">Ocultar notificações de mensagens com códigos de verificação automaticamente em um Ecrã de bloqueio protegida por uma palavra-passe</string>
     <string name="pref_messages_to_save">Definir o número de mensagens a guardar</string>
     <string name="pref_mms_settings_title">Mensagens Multimédia (MMS)</string>
-    <string name="pref_msg_trash_bin_title">Mensagens eliminadas</string>
+    <string name="pref_msg_trash_bin_title">Itens eliminados recentemente</string>
     <string name="pref_notification_settings_title">Notificações</string>
     <string name="pref_other_title">Definições adicionais</string>
     <string name="pref_rcs_show_report_message">Receber relatórios de entrega</string>
@@ -1000,7 +997,7 @@ Confira os chatbots recomendados!"</string>
     <string name="rcs_conversation_rcs_tip">[Chatbot] %s</string>
     <string name="rcs_create_new_group">Criar bate-papo em grupo</string>
     <string name="rcs_dspt">Envie e receba mensagens utilizando o Wi-Fi ou redes móveis</string>
-    <string name="rcs_dspt_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_dspt_unavailable">As funcionalidades relacionadas com mensagens 5G não são suportadas devido a restrições da operadora.</string>
     <string name="rcs_file_link_as_sms">Acesse %s para ver o ficheiro RCS enviado para si.</string>
     <string name="rcs_forward_faild">Não foi possível reencaminhar</string>
     <string name="rcs_forward_successful">Reencaminhado com sucesso</string>
@@ -1009,7 +1006,7 @@ Confira os chatbots recomendados!"</string>
     <string name="rcs_hello_from_pc">Iniciar sessão no Fetion em seu computador para transferir ficheiros.</string>
     <string name="rcs_list_bottom_loading">Um momento…</string>
     <string name="rcs_list_bottom_search">A procurar…</string>
-    <string name="rcs_main_purpose">Pode utilizar este serviço para enviar e receber fotos, mensagens de voz, vídeos e mais.</string>
+    <string name="rcs_main_purpose">Pode utilizar este serviço para enviar e receber fotografias, mensagens de voz, vídeos e mais. Este serviço requer acesso à localização.</string>
     <string name="rcs_message">Mensagens 5G</string>
     <string name="rcs_message_disable">Não é possível ver esta mensagem no Segundo Espaço</string>
     <string name="rcs_message_title">Mensagens 5G</string>
@@ -1059,7 +1056,7 @@ Confira os chatbots recomendados!"</string>
     <string name="rcs_summary_auto_resend_mms">Converter mensagens multimédia 5G para MMS depois que a mensagem original não puder ser enviada. A sua operadora cobrará por esta mensagem.</string>
     <string name="rcs_summary_auto_resend_sms">Converter mensagens de texto 5G para SMS depois que a mensagem original não puder ser enviada. A sua operadora cobrará por esta mensagem.</string>
     <string name="rcs_summary_silence_message">Silenciar notificações de mensagens quando o cliente de desktop estiver em utilização</string>
-    <string name="rcs_unavailable">"5G Messaging-related features aren't supported due to carrier restrictions"</string>
+    <string name="rcs_unavailable">As funcionalidades relacionadas com mensagens 5G não são suportadas devido a restrições da operadora.</string>
     <string name="rcs_up_not_online">O Mensagens 5G está offline. Verifique as suas definições de rede e tente novamente.</string>
     <string name="rcs_wait_for_retry_text">A aguardar…</string>
     <string name="received_at_time">Recebido às: %1s</string>
@@ -1102,10 +1099,10 @@ Confira os chatbots recomendados!"</string>
     <string name="recommend_tip_4">O Mi Message pode reconhecer a ID do remetente automaticamente, permitindo que veja os nomes e imagens de perfil de fornecedores confiáveis.</string>
     <string name="recommend_tip_5">O reconhecimento inteligente de ID do remetente torna a sua caixa de entrada mais organizada e lhe ajuda a identificar remetentes confiáveis.</string>
     <string name="recommend_tip_6">Os serviços acima são fornecidos com suporte técnico de Yulore.</string>
-    <string name="recommend_tip_7">Leia e aceite o nosso <font color="#B3000000"><a href="http://url1">Contrato do Utilizador</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font>, bem como a <font color="#B3000000"><a href="http://url3">Política de Privacidade da Yulore</a></font> antes de utilizar o Mi Message.</string>
-    <string name="recommend_tip_8">Leia e aceite o nosso <font color="#B3000000"><a href="http://url1">Contrato do Utilizador</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font>, bem como a <font color="#B3000000"><a href="http://url3">Política de Privacidade da Yulore</a></font> antes de utilizar as mensagens gratuitas pela internet fornecidas pelo Mi Message.</string>
-    <string name="recommend_tip_9">Leia e aceite o nosso <font color="#B3000000"><a href="http://url1">Contrato do Utilizador</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font>, bem como a <font color="#B3000000"><a href="http://url3">Política de Privacidade do Yulore</a></font> antes de começar a utilizar o reconhecimento inteligente de ID do remetente.</string>
-    <string name="recommend_tip_9_2">Leia e aceite o nosso <font color="#B3000000"><a href="http://url1">Contrato do Utilizador</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font> antes de usar os nossos serviços.</string>
+    <string name="recommend_tip_7">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Mi Message.</string>
+    <string name="recommend_tip_8">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using free internet messaging provided by Mi Message.</string>
+    <string name="recommend_tip_9">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font>, as well as <font color="#B3000000"><a href="http://url3">Yulore Privacy Policy</a></font> before using Smart sender ID recognition.</string>
+    <string name="recommend_tip_9_2">Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using our services.</string>
     <string name="recommend_tip_default">Defina o Xiaomi Mensagens como a sua aplicação de mensagens predefinida para aproveitar todos os benefícios de segurança que oferecemos</string>
     <string name="recommend_tip_other">Ver outras aplicações de mensagens</string>
     <string name="recommend_tip_smart">Proteção à privacidade. Reconhecimento inteligente.</string>
@@ -1337,7 +1334,7 @@ Confira os chatbots recomendados!"</string>
 Se não aceitar conceder estas permissões ou partilhar e carregar as suas informações pessoais, não poderá utilizar esta aplicação."</string>
     <string name="system_permission_declare_privacy_declare">%1s precisa recolher os seus dados e requer as seguintes permissões para funcionar normalmente:</string>
     <string name="system_permission_declare_privacy_declare_new">Esta aplicação precisa se ligar à internet e requer as seguintes permissões para poder funcionar normalmente:</string>
-    <string name="system_permission_declare_privacy_link">To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our %1s.</string>
+    <string name="system_permission_declare_privacy_link">Para entender totalmente os seus direitos como utilizador, bem como as formas que utilizamos os seus dados, leia e aceite a nossa %1s.</string>
     <string name="system_permission_declare_revoke_path">Pode revogar a sua autorização e desligar os serviços nas definições da aplicação Mensagens.</string>
     <string name="system_permission_declare_single_link">Leia e aceite a nossa %1s antes de utilizar esta funcionalidade.</string>
     <string name="system_permission_declare_triple_link" formatted="false">Leia e aceite o nosso %1s, a %2s e a %3s antes de utilizar estas funcionalidades.</string>
@@ -1483,7 +1480,7 @@ Tentativas efetuadas: %s."</string>
     <string name="voice_report_off">Desligado</string>
     <string name="voice_report_wiredon">Com auriculares</string>
     <string name="wap_push_title">"[WAP Push] "</string>
-    <string name="warning_show">Enviar em %ds</string>
+    <string name="warning_show">Enviar em %d s</string>
     <string name="web_content_invalid_hint">A exibição deste item é restringida por leis e regulamentos locais</string>
     <string name="wednesday">Quarta-feira</string>
     <string name="wednesday_short">Qua</string>
