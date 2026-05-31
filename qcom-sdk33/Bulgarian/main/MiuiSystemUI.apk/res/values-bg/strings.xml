@@ -1756,7 +1756,7 @@ mm"</string>
     <string name="picture_color_mode_desc">Използване на sRGB</string>
     <string name="pip_close">Затваряне</string>
     <string name="pip_collapse">Свиване</string>
-    <string name="pip_edu_text">" За достъп до контролите натиснете 2 пъти "<annotation icon="home_icon">НАЧАЛО</annotation></string>
+    <string name="pip_edu_text"> За достъп до контролите натиснете 2 пъти <annotation icon="home_icon">НАЧАЛО</annotation></string>
     <string name="pip_expand">Разгъване</string>
     <string name="pip_fullscreen">Цял екран</string>
     <string name="pip_menu_title">Меню</string>
@@ -2340,9 +2340,9 @@ d MMM"</string>
     <string name="thermal_shutdown_dialog_message">"Телефонът ви бе твърде горещ, затова се изключи с цел охлаждане. Вече работи нормално.
 
 Телефонът ви може да стане твърде горещ, ако:
-\u0009• използвате приложения, които ползват голям обем ресурси (като например игри, видеосъдържание или приложения за навигация);
-\u0009• изтегляте или качвате големи файлове;
-\u0009• използвате устройството си при високи температури."</string>
+\t• използвате приложения, които ползват голям обем ресурси (като например игри, видеосъдържание или приложения за навигация);
+\t• изтегляте или качвате големи файлове;
+\t• използвате устройството си при високи температури."</string>
     <string name="thermal_shutdown_message">"Телефонът ви вече работи нормално.
 Докоснете за още информация"</string>
     <string name="thermal_shutdown_title">Тел. се изкл. поради загряване</string>

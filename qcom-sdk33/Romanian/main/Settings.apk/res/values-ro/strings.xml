@@ -5312,7 +5312,7 @@ Nu veți putea inversa această acțiune."</string>
     <string name="memory_summary">Memorie folosită în medie: %1$s din %2$s</string>
     <string name="memory_system_rom">Sistem</string>
     <string name="memory_system_space">Stocare sistem</string>
-    <string name="memory_title">Disponibil: %1$s\u0009\u0009Total: %2$s</string>
+    <string name="memory_title">Disponibil: %1$s\t\tTotal: %2$s</string>
     <string name="memory_usage">Utilizarea memoriei</string>
     <string name="memory_usage_apps">Memorie utilizată de aplicații</string>
     <string name="memory_use_running_format">%1$s/%2$s</string>
@@ -6419,7 +6419,7 @@ Astfel, aplicația va putea să activeze sau să dezactiveze starea Nu deranja �
     <string name="one_handed_action_show_notification_summary">Vor apărea notificările și setările.</string>
     <string name="one_handed_action_show_notification_title">Afișați notificările</string>
     <string name="one_handed_mode_enabled">Folosiți modul cu o mână</string>
-    <string name="one_handed_mode_footer_text">" "<b>Cum să folosiți modul cu o mână</b>"
+    <string name="one_handed_mode_footer_text"> <b>Cum să folosiți modul cu o mână</b>"
  • Verificați dacă navigarea prin gesturi este selectată în setările de navigare prin sistem
  • Glisați în jos în apropierea marginii de jos a ecranului"</string>
     <string name="one_handed_mode_intro_text">Trageți în jos de partea de sus a ecranului, ca să fie mai ușor de ajuns cu o singură mână</string>
@@ -7445,24 +7445,24 @@ Această setare afectează toți utilizatorii de pe acest telefon."</string>
     <string name="screen_paper_texture">Textură</string>
     <string name="screen_pinning_description">"Atunci când o aplicație este fixată, aceasta poate deschide alte aplicații și pot fi accesate date cu caracter personal. 
 
-Pentru a folosi fixarea aplicației: \u0009
-1. activați fixarea aplicației; \u0009
-2. deschideți Recente; \u0009
+Pentru a folosi fixarea aplicației: \t
+1. activați fixarea aplicației; \t
+2. deschideți Recente; \t
 3. atingeți pictograma aplicației din partea de sus a ecranului, apoi atingeți Fixați."</string>
     <string name="screen_pinning_dialog_message">"Atunci când o aplicație este fixată: 
 
-•\u0009\u0009pot fi accesate date cu caracter personal 
-\u0009\u0009(cum ar fi agenda și conținutul e-mailurilor); 
-•\u0009\u0009aplicația fixată poate deschide alte aplicații. 
+•\t\tpot fi accesate date cu caracter personal 
+\t\t(cum ar fi agenda și conținutul e-mailurilor); 
+•\t\taplicația fixată poate deschide alte aplicații. 
 
 Folosiți fixarea aplicației numai cu persoane în care aveți încredere."</string>
     <string name="screen_pinning_guest_user_description">"Atunci când o aplicație este fixată, aceasta poate deschide alte aplicații și pot fi accesate date cu caracter personal. 
 
 Dacă doriți să permiteți în siguranță accesul cuiva la dispozitivul dvs., folosiți un utilizator invitat. 
 
-Pentru a folosi fixarea aplicației: \u0009
-1. activați fixarea aplicației; \u0009
-2. deschideți Recente; \u0009
+Pentru a folosi fixarea aplicației: \t
+1. activați fixarea aplicației; \t
+2. deschideți Recente; \t
 3. atingeți pictograma aplicației din partea de sus a ecranului, apoi atingeți Fixați."</string>
     <string name="screen_pinning_switch_off_text">Dezactivată</string>
     <string name="screen_pinning_switch_on_text">Activată</string>
@@ -11030,7 +11030,7 @@ Când dezactivați modul Nu deranja, găsiți notificările ratate glisând în 
     <string name="zen_mode_settings_dnd_automatic_rule">Modul Nu deranja a fost activat automat de un program (%s)</string>
     <string name="zen_mode_settings_dnd_automatic_rule_app">Funcția Nu deranja a fost activată automat de o aplicație (%s)</string>
     <string name="zen_mode_settings_dnd_custom_settings_footer">Modul Nu deranja este activat pentru %s cu setări personalizate.</string>
-    <string name="zen_mode_settings_dnd_custom_settings_footer_link">" "<annotation id="link">Afișați setările personalizate</annotation></string>
+    <string name="zen_mode_settings_dnd_custom_settings_footer_link"> <annotation id="link">Afișați setările personalizate</annotation></string>
     <string name="zen_mode_settings_dnd_manual_end_time">Funcția Nu deranja este activată până la %s</string>
     <string name="zen_mode_settings_dnd_manual_indefinite">Modul Nu deranja rămâne activ până îl dezactivați</string>
     <string name="zen_mode_settings_schedules_summary">{count,plural, =0{Niciunul}=1{Un program setat}few{# programe setate}other{# de programe setate}}</string>

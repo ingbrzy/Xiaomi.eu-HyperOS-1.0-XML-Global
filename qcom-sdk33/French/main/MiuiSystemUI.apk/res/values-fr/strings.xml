@@ -1756,7 +1756,7 @@ Si vous avez des questions, contactez %2$s."</string>
     <string name="picture_color_mode_desc">Utiliser sRGB</string>
     <string name="pip_close">Fermer</string>
     <string name="pip_collapse">Réduire</string>
-    <string name="pip_edu_text">" Menu de commandes : appuyez deux fois sur "<annotation icon="home_icon">ACCUEIL</annotation></string>
+    <string name="pip_edu_text"> Menu de commandes : appuyez deux fois sur <annotation icon="home_icon">ACCUEIL</annotation></string>
     <string name="pip_expand">Développer</string>
     <string name="pip_fullscreen">Plein écran</string>
     <string name="pip_menu_title">Menu</string>
@@ -2340,9 +2340,9 @@ d MMM"</string>
     <string name="thermal_shutdown_dialog_message">"Votre téléphone s'est éteint, car il surchauffait. Il s'est refroidi et fonctionne normalement.
 
 Il peut surchauffer si vous :
-\u0009• exécutez applis utilisant beaucoup de ressources (jeux, vidéo, navigation, etc.) ;
-\u0009• téléchargez ou importez gros fichiers ;
-\u0009• utilisez téléphone à des températures élevées."</string>
+\t• exécutez applis utilisant beaucoup de ressources (jeux, vidéo, navigation, etc.) ;
+\t• téléchargez ou importez gros fichiers ;
+\t• utilisez téléphone à des températures élevées."</string>
     <string name="thermal_shutdown_message">"À présent, votre téléphone fonctionne normalement.
 Appuyer pour en savoir plus"</string>
     <string name="thermal_shutdown_title">Tél. éteint car il surchauffait</string>

@@ -1756,7 +1756,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
     <string name="picture_color_mode_desc">Upotrijebi sRGB</string>
     <string name="pip_close">Zatvori</string>
     <string name="pip_collapse">Sažmi</string>
-    <string name="pip_edu_text">" Dvaput pritisnite "<annotation icon="home_icon">POČETNI ZASLON</annotation> za kontrole</string>
+    <string name="pip_edu_text"> Dvaput pritisnite <annotation icon="home_icon">POČETNI ZASLON</annotation> za kontrole</string>
     <string name="pip_expand">Proširi</string>
     <string name="pip_fullscreen">Cijeli zaslon</string>
     <string name="pip_menu_title">Izbornik</string>
@@ -2340,9 +2340,9 @@ d. MMM"</string>
     <string name="thermal_shutdown_dialog_message">"Telefon se pregrijao, stoga se isključio kako bi se ohladio Telefon sada radi normalno.
 
 Telefon se može pregrijati ako:
-\u0009• upotrebljavate zahtjevne aplikacije (kao što su igre, aplikacije za videozapise ili navigaciju)
-\u0009• preuzimate ili prenosite velike datoteke
-\u0009• upotrebljavate telefon na visokim temperaturama."</string>
+\t• upotrebljavate zahtjevne aplikacije (kao što su igre, aplikacije za videozapise ili navigaciju)
+\t• preuzimate ili prenosite velike datoteke
+\t• upotrebljavate telefon na visokim temperaturama."</string>
     <string name="thermal_shutdown_message">"Telefon sad radi normalno.
 Dodirnite za više informacija"</string>
     <string name="thermal_shutdown_title">Telefon se isključio zbog vrućine</string>

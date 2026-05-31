@@ -1756,7 +1756,7 @@ mm"</string>
     <string name="picture_color_mode_desc">ใช้ sRGB</string>
     <string name="pip_close">ปิด</string>
     <string name="pip_collapse">ยุบ</string>
-    <string name="pip_edu_text">" กดปุ่ม "<annotation icon="home_icon"> หน้าแรก </annotation> สองครั้งเพื่อเปิดการควบคุม</string>
+    <string name="pip_edu_text"> กดปุ่ม <annotation icon="home_icon"> หน้าแรก </annotation> สองครั้งเพื่อเปิดการควบคุม</string>
     <string name="pip_expand">ขยาย</string>
     <string name="pip_fullscreen">เต็มหน้าจอ</string>
     <string name="pip_menu_title">เมนู</string>
@@ -2340,9 +2340,9 @@ d MMM"</string>
     <string name="thermal_shutdown_dialog_message">"โทรศัพท์ร้อนเกินไปจึงปิดเครื่องเพื่อให้เย็นลง ขณะนี้โทรศัพท์ทำงานเป็นปกติ
 
 โทรศัพท์อาจร้อนเกินไปหากคุณ
-\u0009• ใช้แอปที่ใช้ทรัพยากรมาก (เช่น เกม วิดีโอ หรือแอปการนำทาง)
-\u0009• ดาวน์โหลดหรืออัปโหลดไฟล์ขนาดใหญ่
-\u0009• ใช้โทรศัพท์ในอุณหภูมิที่สูง"</string>
+\t• ใช้แอปที่ใช้ทรัพยากรมาก (เช่น เกม วิดีโอ หรือแอปการนำทาง)
+\t• ดาวน์โหลดหรืออัปโหลดไฟล์ขนาดใหญ่
+\t• ใช้โทรศัพท์ในอุณหภูมิที่สูง"</string>
     <string name="thermal_shutdown_message">"ขณะนี้โทรศัพท์ทำงานเป็นปกติ
 แตะเพื่อดูข้อมูลเพิ่มเติม"</string>
     <string name="thermal_shutdown_title">โทรศัพท์ปิดไปเพราะร้อนมาก</string>

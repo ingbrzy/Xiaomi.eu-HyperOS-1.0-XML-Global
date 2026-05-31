@@ -1756,7 +1756,7 @@ V prípade otázok kontaktujte organizáciu %2$s."</string>
     <string name="picture_color_mode_desc">Použije sa sRGB</string>
     <string name="pip_close">Zavrieť</string>
     <string name="pip_collapse">Zbaliť</string>
-    <string name="pip_edu_text">" Ovládanie zobraz. dvoj. stlač. "<annotation icon="home_icon"> TLAČIDLA PLOCHY </annotation></string>
+    <string name="pip_edu_text"> Ovládanie zobraz. dvoj. stlač. <annotation icon="home_icon"> TLAČIDLA PLOCHY </annotation></string>
     <string name="pip_expand">Rozbaliť</string>
     <string name="pip_fullscreen">Celá obrazovka</string>
     <string name="pip_menu_title">Ponuka</string>
@@ -2340,9 +2340,9 @@ d. MMM"</string>
     <string name="thermal_shutdown_dialog_message">"Telefón bol príliš horúci, preto sa vypol, aby vychladol. Teraz funguje ako obvykle.
 
 Telefón sa môže príliš zahriať v týchto prípadoch:
-\u0009• používanie náročných aplikácií (napr. hier, videí alebo navigácie);
-\u0009• sťahovanie alebo nahrávanie veľkých súborov;
-\u0009• používanie telefónu pri vysokých teplotách."</string>
+\t• používanie náročných aplikácií (napr. hier, videí alebo navigácie);
+\t• sťahovanie alebo nahrávanie veľkých súborov;
+\t• používanie telefónu pri vysokých teplotách."</string>
     <string name="thermal_shutdown_message">"Teraz telefón funguje ako obvykle.
 Viac sa dozviete po klepnutí."</string>
     <string name="thermal_shutdown_title">Telefón sa vypol z dôvodu prehriatia</string>

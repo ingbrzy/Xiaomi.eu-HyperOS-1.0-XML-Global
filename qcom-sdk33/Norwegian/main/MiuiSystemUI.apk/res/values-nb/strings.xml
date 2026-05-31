@@ -1756,7 +1756,7 @@ Hvis du har spørsmål, kan du kontakte %2$s."</string>
     <string name="picture_color_mode_desc">Bruk sRGB</string>
     <string name="pip_close">Lukk</string>
     <string name="pip_collapse">Skjul</string>
-    <string name="pip_edu_text">" Dobbelttrykk på "<annotation icon="home_icon">HJEM</annotation> for å åpne kontroller</string>
+    <string name="pip_edu_text"> Dobbelttrykk på <annotation icon="home_icon">HJEM</annotation> for å åpne kontroller</string>
     <string name="pip_expand">Vis</string>
     <string name="pip_fullscreen">Fullskjerm</string>
     <string name="pip_menu_title">Meny</string>
@@ -2340,9 +2340,9 @@ d. MMM"</string>
     <string name="thermal_shutdown_dialog_message">"Telefonen din var for varm, så den ble slått av for å kjøles ned. Telefonen din kjører nå som normalt.
 
 Telefonen kan blir for varm hvis du:
-\u0009• bruker ressurskrevende apper (for eksempel spill-, video- eller navigeringsapper)
-\u0009• laster store filer opp eller ned
-\u0009• bruker telefonen ved høy temperatur"</string>
+\t• bruker ressurskrevende apper (for eksempel spill-, video- eller navigeringsapper)
+\t• laster store filer opp eller ned
+\t• bruker telefonen ved høy temperatur"</string>
     <string name="thermal_shutdown_message">"Telefonen kjører nå som normalt.
 Trykk for å se mer informasjon"</string>
     <string name="thermal_shutdown_title">Telefon ble slått av pga varme</string>

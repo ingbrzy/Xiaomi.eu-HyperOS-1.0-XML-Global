@@ -1756,7 +1756,7 @@ mm"</string>
     <string name="picture_color_mode_desc">‏استخدام sRGB</string>
     <string name="pip_close">إغلاق</string>
     <string name="pip_collapse">تصغير</string>
-    <string name="pip_edu_text">" انقر مرتين على "<annotation icon="home_icon"> الصفحة الرئيسية </annotation> للوصول لعناصر التحكم.</string>
+    <string name="pip_edu_text"> انقر مرتين على <annotation icon="home_icon"> الصفحة الرئيسية </annotation> للوصول لعناصر التحكم.</string>
     <string name="pip_expand">توسيع</string>
     <string name="pip_fullscreen">ملء الشاشة</string>
     <string name="pip_menu_title">القائمة</string>
@@ -2340,9 +2340,9 @@ d MMM"</string>
     <string name="thermal_shutdown_dialog_message">"ارتفعت درجة حرارة هاتفك بشدة، لذا تم إيقاف تشغيله لخفض درجة حرارته. يعمل هاتفك الآن بشكل طبيعي.
 
 قد ترتفع بشدة درجة حرارة هاتفك إذا:
-\u0009• استخدمت تطبيقات كثيفة الاستخدام لموارد الجهاز (مثل الألعاب أو الفيديو أو تطبيقات التنقل)
-\u0009• نزَّلت أو حمَّلت ملفات كبيرة الحجم
-\u0009• استخدمت هاتفك وسط أجواء مرتفعة الحرارة"</string>
+\t• استخدمت تطبيقات كثيفة الاستخدام لموارد الجهاز (مثل الألعاب أو الفيديو أو تطبيقات التنقل)
+\t• نزَّلت أو حمَّلت ملفات كبيرة الحجم
+\t• استخدمت هاتفك وسط أجواء مرتفعة الحرارة"</string>
     <string name="thermal_shutdown_message">"يعمل هاتفك الآن بشكل طبيعي.
 انقر للحصول على مزيد من المعلومات."</string>
     <string name="thermal_shutdown_title">تم إيقاف الهاتف بسبب الحرارة</string>

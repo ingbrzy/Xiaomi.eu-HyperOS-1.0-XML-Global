@@ -1756,7 +1756,7 @@ mm"</string>
     <string name="picture_color_mode_desc">Χρήση sRGB</string>
     <string name="pip_close">Κλείσιμο</string>
     <string name="pip_collapse">Σύμπτυξη</string>
-    <string name="pip_edu_text">" Πατήστε δύο φορές "<annotation icon="home_icon"> ΑΡΧΙΚΗ ΟΘΟΝΗ </annotation> για στοιχεία ελέγχου</string>
+    <string name="pip_edu_text"> Πατήστε δύο φορές <annotation icon="home_icon"> ΑΡΧΙΚΗ ΟΘΟΝΗ </annotation> για στοιχεία ελέγχου</string>
     <string name="pip_expand">Ανάπτυξη</string>
     <string name="pip_fullscreen">Πλήρης οθόνη</string>
     <string name="pip_menu_title">Μενού</string>
@@ -2340,9 +2340,9 @@ d MMM"</string>
     <string name="thermal_shutdown_dialog_message">"Η θερμοκρασία του τηλεφώνου είναι πολύ υψηλή και απενεργοποιήθηκε για να κρυώσει. Πλέον, λειτουργεί κανονικά.
 
 Η θερμοκρασία ενδέχεται να ανέβει κατά τη:
-\u0009• Χρήση εφαρμογών υψηλής κατανάλωσης πόρων (όπως gaming, βίντεο ή περιήγησης)
-\u0009• Λήψη/μεταφόρτωση μεγάλων αρχείων
-\u0009• Χρήση σε υψηλές θερμοκρασίες"</string>
+\t• Χρήση εφαρμογών υψηλής κατανάλωσης πόρων (όπως gaming, βίντεο ή περιήγησης)
+\t• Λήψη/μεταφόρτωση μεγάλων αρχείων
+\t• Χρήση σε υψηλές θερμοκρασίες"</string>
     <string name="thermal_shutdown_message">"Το τηλέφωνο λειτουργεί πλέον κανονικά.
 Πατήστε για περισσότερες πληροφορίες."</string>
     <string name="thermal_shutdown_title">Το τηλέφωνο απεν. λόγω ζέστης</string>

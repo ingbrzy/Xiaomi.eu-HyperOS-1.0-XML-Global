@@ -1756,7 +1756,7 @@ Si tienes preguntas, comunícate con %2$s."</string>
     <string name="picture_color_mode_desc">Usa sRGB</string>
     <string name="pip_close">Cerrar</string>
     <string name="pip_collapse">Contraer</string>
-    <string name="pip_edu_text">" Presiona dos veces "<annotation icon="home_icon">INICIO</annotation> para ver los controles</string>
+    <string name="pip_edu_text"> Presiona dos veces <annotation icon="home_icon">INICIO</annotation> para ver los controles</string>
     <string name="pip_expand">Expandir</string>
     <string name="pip_fullscreen">Pantalla completa</string>
     <string name="pip_menu_title">Menú</string>
@@ -2340,9 +2340,9 @@ d MMM"</string>
     <string name="thermal_shutdown_dialog_message">"Tu teléfono estaba muy caliente y se apagó para enfriarse. Ya funciona correctamente.
 
 Tu teléfono puede calentarse en estos casos:
-\u0009• Usas apps que consumen muchos recursos (como juegos, videos o navegación).
-\u0009• Subes o descargas archivos grandes.
-\u0009• Usas el teléfono en condiciones de temperatura alta."</string>
+\t• Usas apps que consumen muchos recursos (como juegos, videos o navegación).
+\t• Subes o descargas archivos grandes.
+\t• Usas el teléfono en condiciones de temperatura alta."</string>
     <string name="thermal_shutdown_message">"Tu teléfono ahora se ejecuta con normalidad.
 Presiona para obtener más información"</string>
     <string name="thermal_shutdown_title">El teléfono se apagó por calor</string>

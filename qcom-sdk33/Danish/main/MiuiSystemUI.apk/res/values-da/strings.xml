@@ -1756,7 +1756,7 @@ Kontakt %2$s, hvis du har spørgsmål."</string>
     <string name="picture_color_mode_desc">Brug sRGB</string>
     <string name="pip_close">Luk</string>
     <string name="pip_collapse">Skjul</string>
-    <string name="pip_edu_text">" Tryk to gange på "<annotation icon="home_icon"> HJEM </annotation> for at se indstillinger</string>
+    <string name="pip_edu_text"> Tryk to gange på <annotation icon="home_icon"> HJEM </annotation> for at se indstillinger</string>
     <string name="pip_expand">Udvid</string>
     <string name="pip_fullscreen">Fuld skærm</string>
     <string name="pip_menu_title">Menu</string>
@@ -2340,9 +2340,9 @@ d. MMM"</string>
     <string name="thermal_shutdown_dialog_message">"Din telefon var blevet for varm, så den slukkede for at køle ned. Din telefon kører nu igen normalt. 
 
 Din telefon kan blive for varm, hvis du:
-\u0009• Bruger ressourcekrævende apps (f.eks. spil, video eller navigation)
-\u0009• Downloader eller uploader store filer
-\u0009• Bruger din telefon i varme omgivelser"</string>
+\t• Bruger ressourcekrævende apps (f.eks. spil, video eller navigation)
+\t• Downloader eller uploader store filer
+\t• Bruger din telefon i varme omgivelser"</string>
     <string name="thermal_shutdown_message">"Din telefon kører nu normalt.
 Tryk for at få flere oplysninger"</string>
     <string name="thermal_shutdown_title">Telefonen slukkede pga. varme</string>

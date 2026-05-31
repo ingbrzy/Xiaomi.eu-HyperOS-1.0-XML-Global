@@ -2654,7 +2654,7 @@ De provider kan extra kosten in rekening brengen als je opnieuw een mobiele data
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Vrijgemaakt %s.
 Uw apparaat is %s sneller nu."</string>
     <string name="memory_clear_unused">Cache wissen (%s)</string>
-    <string name="memory_title">Beschikbaar: %1$s\u0009\u0009Totaal: %2$s</string>
+    <string name="memory_title">Beschikbaar: %1$s\t\tTotaal: %2$s</string>
     <string name="menu_add">Toevoegen</string>
     <string name="menu_bl_call_log">Bekijk geblokkeerde oproepen</string>
     <string name="menu_bl_remove">Deblokkeren</string>

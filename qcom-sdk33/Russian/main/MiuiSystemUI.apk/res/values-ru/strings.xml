@@ -1756,7 +1756,7 @@ mm"</string>
     <string name="picture_color_mode_desc">Использовать sRGB</string>
     <string name="pip_close">Закрыть</string>
     <string name="pip_collapse">Свернуть</string>
-    <string name="pip_edu_text">" Элементы управления: дважды нажмите "<annotation icon="home_icon"> кнопку главного экрана </annotation></string>
+    <string name="pip_edu_text"> Элементы управления: дважды нажмите <annotation icon="home_icon"> кнопку главного экрана </annotation></string>
     <string name="pip_expand">Развернуть</string>
     <string name="pip_fullscreen">Во весь экран</string>
     <string name="pip_menu_title">Меню</string>
@@ -2340,9 +2340,9 @@ d MMM"</string>
     <string name="thermal_shutdown_dialog_message">"Ваш телефон выключился из-за перегрева. Сейчас он работает нормально.
 
 Возможные причины перегрева телефона:
-\u0009• использование ресурсоемких игр и приложений, связанных с видео или навигацией);
-\u0009• скачивание или загрузка больших файлов;
-\u0009• высокая температура окружающей среды."</string>
+\t• использование ресурсоемких игр и приложений, связанных с видео или навигацией);
+\t• скачивание или загрузка больших файлов;
+\t• высокая температура окружающей среды."</string>
     <string name="thermal_shutdown_message">"Сейчас телефон работает нормально.
 Нажмите, чтобы получить дополнительную информацию"</string>
     <string name="thermal_shutdown_title">Телефон выключился из-за перегрева</string>

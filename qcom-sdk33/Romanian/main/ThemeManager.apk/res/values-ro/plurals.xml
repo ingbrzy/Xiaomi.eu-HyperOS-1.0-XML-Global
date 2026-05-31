@@ -209,9 +209,9 @@ Monede sunt nerambursabile"</item>
         <item quantity="other">Acest lucru ar putea dura puțin. Dacă nu ați primit elementele achiziționate în %d ore, trimiteți feedback pentru a ne informa despre problemă.</item>
     </plurals>
     <plurals name="purchased_instructions">
-        <item quantity="one">&lt;Data>Prin finalizarea plății, sunteți de acord cu &lt;a href=\"%1$s\">Notificare privind achizițiile în aplicație&lt;/a>. &lt;br>Rambursările sunt disponibile pentru &lt;xliff:g id=time>%2$d&lt;/xliff:g> oră după efectuarea achizițiilor.&lt;/Data></item>
-        <item quantity="few">&lt;Data>Prin finalizarea plății, sunteți de acord cu &lt;a href=\"%1$s\">Notificare privind achizițiile în aplicație&lt;/a>. &lt;br>Rambursările sunt disponibile pentru &lt;xliff:g id=time>%2$d&lt;/xliff:g> ore după efectuarea achizițiilor.&lt;/Data></item>
-        <item quantity="other">&lt;Data>Prin finalizarea plății, sunteți de acord cu &lt;a href=\"%1$s\">Notificare privind achizițiile în aplicație&lt;/a>. &lt;br>Rambursările sunt disponibile pentru &lt;xliff:g id=time>%2$d&lt;/xliff:g> ore după efectuarea achizițiilor.&lt;/Data></item>
+        <item quantity="one"><Data>Prin finalizarea plății, sunteți de acord cu &lt;a href=\"%1$s\">Notificare privind achizițiile în aplicație&lt;/a>. &lt;br>Rambursările sunt disponibile pentru &lt;xliff:g id=time>%2$d&lt;/xliff:g> oră după efectuarea achizițiilor.</Data></item>
+        <item quantity="few"><Data>Prin finalizarea plății, sunteți de acord cu &lt;a href=\"%1$s\">Notificare privind achizițiile în aplicație&lt;/a>. &lt;br>Rambursările sunt disponibile pentru &lt;xliff:g id=time>%2$d&lt;/xliff:g> ore după efectuarea achizițiilor.</Data></item>
+        <item quantity="other"><Data>Prin finalizarea plății, sunteți de acord cu &lt;a href=\"%1$s\">Notificare privind achizițiile în aplicație&lt;/a>. &lt;br>Rambursările sunt disponibile pentru &lt;xliff:g id=time>%2$d&lt;/xliff:g> ore după efectuarea achizițiilor.</Data></item>
     </plurals>
     <plurals name="purchased_refund_constact_us_success_dialog_message">
         <item quantity="one">Comanda a fost finalizată mai mult de %d oră în urmă. Trimiteți-ne un e-mail.</item>

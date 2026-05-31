@@ -1756,7 +1756,7 @@ IT-адміністратор може відстежувати й контро�
     <string name="picture_color_mode_desc">Використовувати sRGB</string>
     <string name="pip_close">Закрити</string>
     <string name="pip_collapse">Згорнути</string>
-    <string name="pip_edu_text">" Відкрити елементи керування: двічі натисніть "<annotation icon="home_icon">HOME</annotation></string>
+    <string name="pip_edu_text"> Відкрити елементи керування: двічі натисніть <annotation icon="home_icon">HOME</annotation></string>
     <string name="pip_expand">Розгорнути</string>
     <string name="pip_fullscreen">На весь екран</string>
     <string name="pip_menu_title">Меню</string>
@@ -2340,9 +2340,9 @@ d MMM"</string>
     <string name="thermal_shutdown_dialog_message">"Телефон перегрівся, тому вимкнувся, щоб охолонути. Зараз він працює, як зазвичай.
 
 Телефон перегрівається, якщо ви:
-\u0009• використовуєте ресурсомісткі додатки (ігри, відео, навігація)
-\u0009• завантажуєте великі файли на телефон або з нього
-\u0009• використовуєте телефон за високої температури"</string>
+\t• використовуєте ресурсомісткі додатки (ігри, відео, навігація)
+\t• завантажуєте великі файли на телефон або з нього
+\t• використовуєте телефон за високої температури"</string>
     <string name="thermal_shutdown_message">"Зараз телефон працює як зазвичай.
 Натисніть, щоб дізнатися більше"</string>
     <string name="thermal_shutdown_title">Телефон перегрівся й вимкнувся</string>

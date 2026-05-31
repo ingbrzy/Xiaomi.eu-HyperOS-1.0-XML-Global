@@ -167,8 +167,8 @@
         <item quantity="other">Αυτό μπορεί να πάρει λίγο χρόνο. Εάν δεν έχετε λάβει τα προϊόντα που αγοράσατε εντός %d ωρών, υποβάλετε ανατροφοδότηση για να μας ενημερώσετε σχετικά με το πρόβλημα.</item>
     </plurals>
     <plurals name="purchased_instructions">
-        <item quantity="one">&lt;Data>Ολοκληρώνοντας την πληρωμή, αποδέχεστε την &lt;a href=\"%1$s\">Ειδοποίηση για αγορές εντός εφαρμογής&lt;/a>.&lt;br> Διατίθενται επιστροφές για &lt;xliff:g id=time>%2$d&lt;/xliff:g> ώρα μετά την πραγματοποίηση των αγορών.&lt;/Data></item>
-        <item quantity="other">&lt;Data>Ολοκληρώνοντας την πληρωμή, αποδέχεστε την &lt;a href=\"%1$s\">Ειδοποίηση για αγορές εντός εφαρμογής&lt;/a>.&lt;br> Διατίθενται επιστροφές για &lt;xliff:g id=time>%2$d&lt;/xliff:g> ώρες μετά την πραγματοποίηση των αγορών.&lt;/Data></item>
+        <item quantity="one"><Data>Ολοκληρώνοντας την πληρωμή, αποδέχεστε την &lt;a href=\"%1$s\">Ειδοποίηση για αγορές εντός εφαρμογής&lt;/a>.&lt;br> Διατίθενται επιστροφές για &lt;xliff:g id=time>%2$d&lt;/xliff:g> ώρα μετά την πραγματοποίηση των αγορών.</Data></item>
+        <item quantity="other"><Data>Ολοκληρώνοντας την πληρωμή, αποδέχεστε την &lt;a href=\"%1$s\">Ειδοποίηση για αγορές εντός εφαρμογής&lt;/a>.&lt;br> Διατίθενται επιστροφές για &lt;xliff:g id=time>%2$d&lt;/xliff:g> ώρες μετά την πραγματοποίηση των αγορών.</Data></item>
     </plurals>
     <plurals name="purchased_refund_constact_us_success_dialog_message">
         <item quantity="one">Η παραγγελία ολοκληρώθηκε περισσότερο από %d ώρα πριν. Στείλτε μας ένα email.</item>

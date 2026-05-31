@@ -155,8 +155,8 @@ Sikkələr geri qaytarılmır"</item>
         <item quantity="other">Bu bir az vaxt apara bilər. Aldığınız əşyaları %d saat ərzində almamısınızsa, problem barədə bizə məlumat vermək üçün rəy göndərin.</item>
     </plurals>
     <plurals name="purchased_instructions">
-        <item quantity="one">&lt;Data>Ödənişi tamamlayaraq, &lt;a href=\"%1$s\">Tətbiqdaxili Satınalmalar haqqında bildiriş&lt;/a>-ni qəbul edirsiniz.&lt;br>Geri ödənişlər satın almalardan &lt;xliff:g id=time>%2$d&lt;/xliff:g> saat sonra mümkündür&lt;/Data></item>
-        <item quantity="other">&lt;Data>Ödənişi tamamlayaraq, &lt;a href=\"%1$s\">Tətbiqdaxili Satınalmalar haqqında bildiriş&lt;/a>-ni qəbul edirsiniz.&lt;br>Geri ödənişlər satın almalardan &lt;xliff:g id=time>%2$d&lt;/xliff:g> saat sonra mümkündür&lt;/Data></item>
+        <item quantity="one"><Data>Ödənişi tamamlayaraq, &lt;a href=\"%1$s\">Tətbiqdaxili Satınalmalar haqqında bildiriş&lt;/a>-ni qəbul edirsiniz.&lt;br>Geri ödənişlər satın almalardan &lt;xliff:g id=time>%2$d&lt;/xliff:g> saat sonra mümkündür</Data></item>
+        <item quantity="other"><Data>Ödənişi tamamlayaraq, &lt;a href=\"%1$s\">Tətbiqdaxili Satınalmalar haqqında bildiriş&lt;/a>-ni qəbul edirsiniz.&lt;br>Geri ödənişlər satın almalardan &lt;xliff:g id=time>%2$d&lt;/xliff:g> saat sonra mümkündür</Data></item>
     </plurals>
     <plurals name="purchased_refund_constact_us_success_dialog_message">
         <item quantity="one">Sifariş %d saatdan daha əvvəl tamamlandı. Bizə e-poçt göndərin.</item>

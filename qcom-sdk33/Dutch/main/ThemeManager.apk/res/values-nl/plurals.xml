@@ -167,8 +167,8 @@ Munten kunnen niet worden gerestitueerd"</item>
         <item quantity="other">Dit kan even duren. Als u de gekochte items niet binnen %d uur hebt ontvangen, dient u feedback in om ons op de hoogte te stellen van het probleem.</item>
     </plurals>
     <plurals name="purchased_instructions">
-        <item quantity="one">&lt;Data>Door de betaling te voltooien, gaat u akkoord met de &lt;a href=\"%1$s\">Kennisgeving over in-app-aankopen&lt;/a>.&lt;br>Terugbetalingen zijn beschikbaar voor &lt;xliff:g id=time>%2$d&lt;/xliff:g> uur nadat de aankopen zijn gedaan.&lt;/Data></item>
-        <item quantity="other">&lt;Data>Door de betaling te voltooien, gaat u akkoord met de &lt;a href=\"%1$s\">Kennisgeving over in-app-aankopen&lt;/a>.&lt;br>Terugbetalingen zijn beschikbaar voor &lt;xliff:g id=time>%2$d&lt;/xliff:g> uur nadat de aankopen zijn gedaan.&lt;/Data></item>
+        <item quantity="one"><Data>Door de betaling te voltooien, gaat u akkoord met de &lt;a href=\"%1$s\">Kennisgeving over in-app-aankopen&lt;/a>.&lt;br>Terugbetalingen zijn beschikbaar voor &lt;xliff:g id=time>%2$d&lt;/xliff:g> uur nadat de aankopen zijn gedaan.</Data></item>
+        <item quantity="other"><Data>Door de betaling te voltooien, gaat u akkoord met de &lt;a href=\"%1$s\">Kennisgeving over in-app-aankopen&lt;/a>.&lt;br>Terugbetalingen zijn beschikbaar voor &lt;xliff:g id=time>%2$d&lt;/xliff:g> uur nadat de aankopen zijn gedaan.</Data></item>
     </plurals>
     <plurals name="purchased_refund_constact_us_success_dialog_message">
         <item quantity="one">De bestelling is meer dan %d uur geleden voltooid. Stuur een e-mail naar ons.</item>

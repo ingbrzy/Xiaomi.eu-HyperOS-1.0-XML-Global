@@ -5312,7 +5312,7 @@ Yra kitų šio įrenginio naudotojų.
     <string name="memory_summary">Vid. naudojama atminties: %1$s iš %2$s</string>
     <string name="memory_system_rom">Sistema</string>
     <string name="memory_system_space">Sisteminė saugykla</string>
-    <string name="memory_title">Laisva: %1$s\u0009\u0009 Iš Viso: %2$s</string>
+    <string name="memory_title">Laisva: %1$s\t\t Iš Viso: %2$s</string>
     <string name="memory_usage">Atminties naudojimas</string>
     <string name="memory_usage_apps">Programų naudojama atmintis</string>
     <string name="memory_use_running_format">%1$s / %2$s</string>
@@ -6418,7 +6418,7 @@ Programa taip pat galės įjungti ar išjungti netrukdymo režimą ir keisti sus
     <string name="one_handed_action_show_notification_summary">Bus rodomi pranešimai ir nustatymai.</string>
     <string name="one_handed_action_show_notification_title">Pranešimų rodymas</string>
     <string name="one_handed_mode_enabled">Naudoti vienos rankos režimą</string>
-    <string name="one_handed_mode_footer_text">" "<b>Kaip naudoti vienos rankos režimą</b>"
+    <string name="one_handed_mode_footer_text"> <b>Kaip naudoti vienos rankos režimą</b>"
  • Įsitikinkite, kad sistemos naršymo nustatymuose pasirinktas naršymas gestais
  • Perbraukite žemyn šalia apatinio ekrano krašto"</string>
     <string name="one_handed_mode_intro_text">Patraukite viršutinę ekrano dalį žemyn, kad būtų lengviau pasiekti viena ranka</string>
@@ -7444,24 +7444,24 @@ Iš naujo paleiskite įrenginį ir bandykite dar kartą."</string>
     <string name="screen_paper_texture">Struktūra</string>
     <string name="screen_pinning_description">"Prisegta programa gali atidaryti kitas programas ir pasiekti asmens duomenis. 
 
-Norėdami prisegti programą, atlikite toliau nurodytus veiksmus. \u0009
-1. Įjunkite programos prisegimo funkciją. \u0009
-2. Atidarykite „Apžvalga“. \u0009
+Norėdami prisegti programą, atlikite toliau nurodytus veiksmus. \t
+1. Įjunkite programos prisegimo funkciją. \t
+2. Atidarykite „Apžvalga“. \t
 3. Palieskite programos piktogramą ekrano viršuje, tada palieskite „Prisegti“."</string>
     <string name="screen_pinning_dialog_message">"Kai programa prisegta 
 
-•\u0009 Gali būti pasiekiami asmens duomenys 
-\u0009\u0009(pvz., kontaktai ir el. pašto turinys) 
-•\u0009\u0009Prisegta programa gali atidaryti kitas programas 
+•\t Gali būti pasiekiami asmens duomenys 
+\t\t(pvz., kontaktai ir el. pašto turinys) 
+•\t\tPrisegta programa gali atidaryti kitas programas 
 
 Programas prisekite tik su žmonėmis, kuriais pasitikite."</string>
     <string name="screen_pinning_guest_user_description">"Prisegta programa gali atidaryti kitas programas ir pasiekti asmens duomenis. 
 
 Jei norite saugiai bendrinti įrenginį su kitais asmenimis, išbandykite naudotojo svečio profilį. 
 
-Norėdami prisegti programą, atlikite toliau nurodytus veiksmus. \u0009
-1. Įjunkite programos prisegimo funkciją. \u0009
-2. Atidarykite „Apžvalga“. \u0009
+Norėdami prisegti programą, atlikite toliau nurodytus veiksmus. \t
+1. Įjunkite programos prisegimo funkciją. \t
+2. Atidarykite „Apžvalga“. \t
 3. Palieskite programos piktogramą ekrano viršuje, tada palieskite „Prisegti“."</string>
     <string name="screen_pinning_switch_off_text">Išjungta</string>
     <string name="screen_pinning_switch_on_text">Įjungta</string>
@@ -11041,7 +11041,7 @@ Išjungę „Netrukdymo“ režimą praleistus pranešimus rasite perbraukę že
     <string name="zen_mode_settings_dnd_automatic_rule">Netrukdymo režimą automatiškai įjungė tvarkaraštis („%s“)</string>
     <string name="zen_mode_settings_dnd_automatic_rule_app">Netrukdymo režimą automatiškai įjungė programa („%s“)</string>
     <string name="zen_mode_settings_dnd_custom_settings_footer">Netrukdymo režimas įjungtas „%s“ taikant tinkintus nustatymus.</string>
-    <string name="zen_mode_settings_dnd_custom_settings_footer_link">" "<annotation id="link">Žr. tinkintus nustatymus</annotation></string>
+    <string name="zen_mode_settings_dnd_custom_settings_footer_link"> <annotation id="link">Žr. tinkintus nustatymus</annotation></string>
     <string name="zen_mode_settings_dnd_manual_end_time">Netrukdymo režimas įjungtas iki %s</string>
     <string name="zen_mode_settings_dnd_manual_indefinite">Netrukdymo režimas bus įjungtas, kol jį išjungsite</string>
     <string name="zen_mode_settings_schedules_summary">{count,plural, =0{Nė vieno}=1{Nustatytas 1 tvarkaraštis}one{Nustatytas # tvarkaraštis}few{Nustatyti # tvarkaraščiai}many{Nustatyta # tvarkaraščio}other{Nustatyta # tvarkaraščių}}</string>

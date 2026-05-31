@@ -2656,7 +2656,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"เพิ่มขึ้น %s 
 อุปกรณ์ของคุณเร็วกว่านี้ %s"</string>
     <string name="memory_clear_unused">ล้างแคช (%s)</string>
-    <string name="memory_title">ใช้งานได้: %1$s\u0009\u0009ทั้งหมด: %2$s</string>
+    <string name="memory_title">ใช้งานได้: %1$s\t\tทั้งหมด: %2$s</string>
     <string name="menu_add">เพิ่ม</string>
     <string name="menu_bl_call_log">แสดงสายเรียกเข้าที่ถูกบล็อก</string>
     <string name="menu_bl_remove">เลิกบล็อก</string>
