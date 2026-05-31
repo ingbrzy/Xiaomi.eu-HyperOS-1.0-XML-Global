@@ -167,8 +167,8 @@ Las monedas no son reembolsables"</item>
         <item quantity="other">Esto podría llevar un tiempo. Si no has recibido los artículos que compraste dentro de %d horas, envíanos un comentario para informarnos sobre el problema.</item>
     </plurals>
     <plurals name="purchased_instructions">
-        <item quantity="one">&lt;Data>Al completar el pago, aceptas el &lt;a href=\"%1$s\">Aviso sobre compras en la aplicación&lt;/a>.&lt;br>Los reembolsos están disponibles durante &lt;xliff:g id=time>%2$d&lt;/xliff:g> hora después de realizar las compras. &lt;/Data></item>
-        <item quantity="other">&lt;Data>Al completar el pago, aceptas el &lt;a href=\"%1$s\">Aviso sobre compras en la aplicación&lt;/a>.&lt;br>Los reembolsos están disponibles durante &lt;xliff:g id=time>%2$d&lt;/xliff:g> horas después de realizar las compras. &lt;/Data></item>
+        <item quantity="one"><Data>Al completar el pago, aceptas el &lt;a href=\"%1$s\">Aviso sobre compras en la aplicación&lt;/a>.&lt;br>Los reembolsos están disponibles durante &lt;xliff:g id=time>%2$d&lt;/xliff:g> hora después de realizar las compras. </Data></item>
+        <item quantity="other"><Data>Al completar el pago, aceptas el &lt;a href=\"%1$s\">Aviso sobre compras en la aplicación&lt;/a>.&lt;br>Los reembolsos están disponibles durante &lt;xliff:g id=time>%2$d&lt;/xliff:g> horas después de realizar las compras. </Data></item>
     </plurals>
     <plurals name="purchased_refund_constact_us_success_dialog_message">
         <item quantity="one">El pedido se completó hace más de %d hora. Envíanos un correo electrónico.</item>

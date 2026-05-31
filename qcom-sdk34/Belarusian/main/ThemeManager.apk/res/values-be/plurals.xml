@@ -251,10 +251,10 @@
         <item quantity="other">Гэта можа заняць некаторы час. Калі вы не атрымалі набытыя тавары на працягу %d гадзін, адпраўце водгук, каб паведаміць нам аб праблеме.</item>
     </plurals>
     <plurals name="purchased_instructions">
-        <item quantity="one">&lt;Data>Выконваючы плацёж, вы згаджаецеся з &lt;a href=\"%1$s\">Паведамленнем аб пакупках у праграме&lt;/a>.&lt;br>Вяртанне сродкаў магчыма на працягу &lt;xliff:g id=time>%2$d&lt;/xliff:g> гадзіны пасля выканання пакупак.&lt;/Data></item>
-        <item quantity="few">&lt;Data>Выконваючы плацёж, вы згаджаецеся з &lt;a href=\"%1$s\">Паведамленнем аб пакупках у праграме&lt;/a>.&lt;br>Вяртанне сродкаў магчыма на працягу &lt;xliff:g id=time>%2$d&lt;/xliff:g> гадзін пасля выканання пакупак.&lt;/Data></item>
-        <item quantity="many">&lt;Data>Выконваючы плацёж, вы згаджаецеся з &lt;a href=\"%1$s\">Паведамленнем аб пакупках у праграме&lt;/a>.&lt;br>Вяртанне сродкаў магчыма на працягу &lt;xliff:g id=time>%2$d&lt;/xliff:g> гадзін пасля выканання пакупак.&lt;/Data></item>
-        <item quantity="other">&lt;Data>Выконваючы плацёж, вы згаджаецеся з &lt;a href=\"%1$s\">Паведамленнем аб пакупках у праграме&lt;/a>.&lt;br>Вяртанне сродкаў магчыма на працягу &lt;xliff:g id=time>%2$d&lt;/xliff:g> гадзіны пасля выканання пакупак.&lt;/Data></item>
+        <item quantity="one"><Data>Выконваючы плацёж, вы згаджаецеся з &lt;a href=\"%1$s\">Паведамленнем аб пакупках у праграме&lt;/a>.&lt;br>Вяртанне сродкаў магчыма на працягу &lt;xliff:g id=time>%2$d&lt;/xliff:g> гадзіны пасля выканання пакупак.</Data></item>
+        <item quantity="few"><Data>Выконваючы плацёж, вы згаджаецеся з &lt;a href=\"%1$s\">Паведамленнем аб пакупках у праграме&lt;/a>.&lt;br>Вяртанне сродкаў магчыма на працягу &lt;xliff:g id=time>%2$d&lt;/xliff:g> гадзін пасля выканання пакупак.</Data></item>
+        <item quantity="many"><Data>Выконваючы плацёж, вы згаджаецеся з &lt;a href=\"%1$s\">Паведамленнем аб пакупках у праграме&lt;/a>.&lt;br>Вяртанне сродкаў магчыма на працягу &lt;xliff:g id=time>%2$d&lt;/xliff:g> гадзін пасля выканання пакупак.</Data></item>
+        <item quantity="other"><Data>Выконваючы плацёж, вы згаджаецеся з &lt;a href=\"%1$s\">Паведамленнем аб пакупках у праграме&lt;/a>.&lt;br>Вяртанне сродкаў магчыма на працягу &lt;xliff:g id=time>%2$d&lt;/xliff:g> гадзіны пасля выканання пакупак.</Data></item>
     </plurals>
     <plurals name="purchased_refund_constact_us_success_dialog_message">
         <item quantity="one">Заказ быў выкананы больш чым %d гадзіну таму. Адпраўце нам эл. ліст.</item>

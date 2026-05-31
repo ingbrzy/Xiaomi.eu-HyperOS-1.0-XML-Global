@@ -2654,7 +2654,7 @@ odpowie"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Zwolniono %s.
 Twoje urządzenie jest teraz %s szybsze."</string>
     <string name="memory_clear_unused">Wyczyść pamięć podręczną (%s)</string>
-    <string name="memory_title">Dostępne: %1$s\u0009\u0009Razem: %2$s</string>
+    <string name="memory_title">Dostępne: %1$s\t\tRazem: %2$s</string>
     <string name="menu_add">Dodaj</string>
     <string name="menu_bl_call_log">Pokaż zablokowane połączenia</string>
     <string name="menu_bl_remove">Odblokuj</string>

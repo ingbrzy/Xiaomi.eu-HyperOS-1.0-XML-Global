@@ -155,8 +155,8 @@
         <item quantity="other">این روند ممکن است کمی طول بکشد. اگر مواردی را که در %d ساعت خریداری کرده‌اید دریافت نکرده‌اید، با ارسال بازخورد، ما را درباره اشکال آگاه نمایید.</item>
     </plurals>
     <plurals name="purchased_instructions">
-        <item quantity="one">&lt;Data>با تکمیل پرداخت، شما &lt;a href=\"%1$s\">اطلاعیه خریدهای درون‌برنامه‌ای&lt;/a> را می‌پذیرید.&lt;br>بازگرداندن پول &lt;xliff:g id=time>%2$d&lt;/xliff:g> ساعت پس از انجام خرید امکان‌پذیر است.&lt;/Data></item>
-        <item quantity="other">&lt;Data>با تکمیل پرداخت، شما &lt;a href=\"%1$s\">اطلاعیه خریدهای درون‌برنامه‌ای&lt;/a> را می‌پذیرید.&lt;br>بازگرداندن پول &lt;xliff:g id=time>%2$d&lt;/xliff:g> ساعت پس از انجام خرید امکان‌پذیر است.&lt;/Data></item>
+        <item quantity="one"><Data>با تکمیل پرداخت، شما &lt;a href=\"%1$s\">اطلاعیه خریدهای درون‌برنامه‌ای&lt;/a> را می‌پذیرید.&lt;br>بازگرداندن پول &lt;xliff:g id=time>%2$d&lt;/xliff:g> ساعت پس از انجام خرید امکان‌پذیر است.</Data></item>
+        <item quantity="other"><Data>با تکمیل پرداخت، شما &lt;a href=\"%1$s\">اطلاعیه خریدهای درون‌برنامه‌ای&lt;/a> را می‌پذیرید.&lt;br>بازگرداندن پول &lt;xliff:g id=time>%2$d&lt;/xliff:g> ساعت پس از انجام خرید امکان‌پذیر است.</Data></item>
     </plurals>
     <plurals name="purchased_refund_constact_us_success_dialog_message">
         <item quantity="one">سفارش بیش از %d ساعت قبل انجام شد. برای ما ایمیل بفرستید.</item>

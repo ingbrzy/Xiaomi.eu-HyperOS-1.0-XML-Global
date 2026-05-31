@@ -167,8 +167,8 @@ Mønter kan ikke refunderes"</item>
         <item quantity="other">Dette kan tage lidt tid. Hvis du ikke har modtaget de varer, du har købt indenfor %d, kan du indsende feedback for at fortælle os om problemet.</item>
     </plurals>
     <plurals name="purchased_instructions">
-        <item quantity="one">&lt;Data>Ved at fuldføre betalingen accepterer du &lt;a href=\"%1$s\">Meddelelse om in-app-køb&lt;/a>.&lt;br>Refunderinger er tilgængelige i &lt;xliff:g id=time>%2$d&lt;/xliff:g> time, efter købet blev foretaget.&lt;/Data></item>
-        <item quantity="other">&lt;Data>Ved at fuldføre betalingen accepterer du &lt;a href=\"%1$s\">Meddelelse om in-app-køb&lt;/a>.&lt;br>Refunderinger er tilgængelige i &lt;xliff:g id=time>%2$d&lt;/xliff:g> timer, efter købet blev foretaget.&lt;/Data></item>
+        <item quantity="one"><Data>Ved at fuldføre betalingen accepterer du &lt;a href=\"%1$s\">Meddelelse om in-app-køb&lt;/a>.&lt;br>Refunderinger er tilgængelige i &lt;xliff:g id=time>%2$d&lt;/xliff:g> time, efter købet blev foretaget.</Data></item>
+        <item quantity="other"><Data>Ved at fuldføre betalingen accepterer du &lt;a href=\"%1$s\">Meddelelse om in-app-køb&lt;/a>.&lt;br>Refunderinger er tilgængelige i &lt;xliff:g id=time>%2$d&lt;/xliff:g> timer, efter købet blev foretaget.</Data></item>
     </plurals>
     <plurals name="purchased_refund_constact_us_success_dialog_message">
         <item quantity="one">Bestillingen blev fuldført mere end %d time siden. Send en e-mail til os.</item>

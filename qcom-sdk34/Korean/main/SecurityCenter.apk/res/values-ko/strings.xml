@@ -2656,7 +2656,7 @@ SMS 전송"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"%s 확보되었습니다.
 기기가 %s 더 빨라졌습니다."</string>
     <string name="memory_clear_unused">캐시 지우기 (%s)</string>
-    <string name="memory_title">사용 가능: %1$s\u0009\u0009총: %2$s</string>
+    <string name="memory_title">사용 가능: %1$s\t\t총: %2$s</string>
     <string name="menu_add">추가</string>
     <string name="menu_bl_call_log">차단된 통화 보기</string>
     <string name="menu_bl_remove">차단 해제</string>

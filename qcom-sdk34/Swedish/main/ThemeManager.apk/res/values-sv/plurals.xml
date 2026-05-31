@@ -167,8 +167,8 @@ Mynt är inte återbetalningsbara"</item>
         <item quantity="other">Det här kan ta en liten stund. Ge oss feedback så att vi får reda på om du inte har fått de objekt som du köpt inom %d timmar.</item>
     </plurals>
     <plurals name="purchased_instructions">
-        <item quantity="one">&lt;Data>Genom att slutföra betalningen accepterar du &lt;a href=\"%1$s\">meddelandet om köp i appen&lt;/a>.&lt;br>Återbetalningar är tillgängligt under &lt;xliff:g id=time>%2$d&lt;/xliff:g> timme efter köpen gjorts.&lt;/Data></item>
-        <item quantity="other">&lt;Data>Genom att slutföra betalningen accepterar du &lt;a href=\"%1$s\">meddelandet om köp i appen&lt;/a>.&lt;br>Återbetalningar är tillgängligt under &lt;xliff:g id=time>%2$d&lt;/xliff:g> timmar efter köpen gjorts.&lt;/Data></item>
+        <item quantity="one"><Data>Genom att slutföra betalningen accepterar du &lt;a href=\"%1$s\">meddelandet om köp i appen&lt;/a>.&lt;br>Återbetalningar är tillgängligt under &lt;xliff:g id=time>%2$d&lt;/xliff:g> timme efter köpen gjorts.</Data></item>
+        <item quantity="other"><Data>Genom att slutföra betalningen accepterar du &lt;a href=\"%1$s\">meddelandet om köp i appen&lt;/a>.&lt;br>Återbetalningar är tillgängligt under &lt;xliff:g id=time>%2$d&lt;/xliff:g> timmar efter köpen gjorts.</Data></item>
     </plurals>
     <plurals name="purchased_refund_constact_us_success_dialog_message">
         <item quantity="one">Beställningen slutfördes för mer än %d timme sedan. Skicka ett e-postmeddelande till oss.</item>

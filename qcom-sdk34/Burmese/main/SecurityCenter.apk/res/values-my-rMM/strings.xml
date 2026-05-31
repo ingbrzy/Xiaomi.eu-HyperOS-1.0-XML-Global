@@ -2534,7 +2534,7 @@ Record sequences and use them anytime!"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"%s ရှင်းထားသည်။
 သင့်စက် %s မြန်သွားပါပြီ။"</string>
     <string name="memory_clear_unused">ကက်ချ် %s ရှင်းပစ်မည်</string>
-    <string name="memory_title">ရရှိနိုင်သော- %1$s\u0009\u0009 စုစုပေါင်း- %2$s</string>
+    <string name="memory_title">ရရှိနိုင်သော- %1$s\t\t စုစုပေါင်း- %2$s</string>
     <string name="menu_add">ပေါင်းထည့်</string>
     <string name="menu_bl_call_log">ဘလော့လုပ်ထားသောခေါ်ဆိုမှုများကိုကြည့်ပါ</string>
     <string name="menu_bl_remove">ဘလော့လုပ်ထားခြင်းမှဖြုတ်ပါ</string>

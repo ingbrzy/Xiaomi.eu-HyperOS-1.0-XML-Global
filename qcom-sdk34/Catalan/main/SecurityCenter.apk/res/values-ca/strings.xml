@@ -2654,7 +2654,7 @@ de l'operador"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Has alliberat %s.
 El teu dispositiu va un %s més ràpid."</string>
     <string name="memory_clear_unused">Neteja la memòria cau (%s)</string>
-    <string name="memory_title">Disponible: %1$s\u0009\u0009Total: %2$s</string>
+    <string name="memory_title">Disponible: %1$s\t\tTotal: %2$s</string>
     <string name="menu_add">Afegeix</string>
     <string name="menu_bl_call_log">Mostra les trucades bloquejades</string>
     <string name="menu_bl_remove">Desbloqueja</string>

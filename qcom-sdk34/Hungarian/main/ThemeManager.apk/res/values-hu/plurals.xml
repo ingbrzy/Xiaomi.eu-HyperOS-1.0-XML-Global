@@ -167,8 +167,8 @@ A érmék nem visszatéríthetők."</item>
         <item quantity="other">Ez eltarthat egy ideig. Ha nem kapta meg a megvásárolt elemeket %d órán belül, küldjön visszajelzést, és tájékoztasson minket a problémáról.</item>
     </plurals>
     <plurals name="purchased_instructions">
-        <item quantity="one">&lt;Data>A fizetés befejezésével Ön elfogadja az &lt;a href=\"%1$s\">Értesítést az alkalmazáson belüli vásárlásokról&lt;/a>.&lt;br>A visszatérítés a vásárlást követő &lt;xliff:g id=time>%2$d&lt;/xliff:g> órán belül elérhető.&lt;/Data>.</item>
-        <item quantity="other">&lt;Data>A fizetés befejezésével Ön elfogadja az &lt;a href=\"%1$s\">Értesítést az alkalmazáson belüli vásárlásokról&lt;/a>.&lt;br>A visszatérítés a vásárlást követő &lt;xliff:g id=time>%2$d&lt;/xliff:g> órán belül elérhető.&lt;/Data>.</item>
+        <item quantity="one"><Data>A fizetés befejezésével Ön elfogadja az &lt;a href=\"%1$s\">Értesítést az alkalmazáson belüli vásárlásokról&lt;/a>.&lt;br>A visszatérítés a vásárlást követő &lt;xliff:g id=time>%2$d&lt;/xliff:g> órán belül elérhető.</Data>.</item>
+        <item quantity="other"><Data>A fizetés befejezésével Ön elfogadja az &lt;a href=\"%1$s\">Értesítést az alkalmazáson belüli vásárlásokról&lt;/a>.&lt;br>A visszatérítés a vásárlást követő &lt;xliff:g id=time>%2$d&lt;/xliff:g> órán belül elérhető.</Data>.</item>
     </plurals>
     <plurals name="purchased_refund_constact_us_success_dialog_message">
         <item quantity="one">A megrendelés több mint %d órával ezelőtt teljesítésre került. Küldjön nekünk egy e-mailt.</item>

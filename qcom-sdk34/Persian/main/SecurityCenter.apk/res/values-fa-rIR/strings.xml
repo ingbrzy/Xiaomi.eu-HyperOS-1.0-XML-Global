@@ -2535,7 +2535,7 @@ to join our egg hunt!"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"%s آزادسازی شد.
 دستگاه شما اکنون %s سریع‌تر است."</string>
     <string name="memory_clear_unused">پاک‌سازی حافظه پنهان (%s)</string>
-    <string name="memory_title">در دسترس: %1$s\u0009\u0009کل: %2$s</string>
+    <string name="memory_title">در دسترس: %1$s\t\tکل: %2$s</string>
     <string name="menu_add">افزودن</string>
     <string name="menu_bl_call_log">نمایش تماس‌های مسدود شده</string>
     <string name="menu_bl_remove">لغو انسداد</string>

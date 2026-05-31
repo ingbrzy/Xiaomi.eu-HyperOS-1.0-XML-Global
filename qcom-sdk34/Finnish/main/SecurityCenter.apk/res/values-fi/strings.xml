@@ -2654,7 +2654,7 @@ vastausta"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Vapauta %s.
 Laitteesi on %s nopeampi nyt."</string>
     <string name="memory_clear_unused">Tyhjennä välimuisti (%s)</string>
-    <string name="memory_title">Käytettävissä: %1$s\u0009\u0009Yhteensä: %2$s</string>
+    <string name="memory_title">Käytettävissä: %1$s\t\tYhteensä: %2$s</string>
     <string name="menu_add">Lisää</string>
     <string name="menu_bl_call_log">Näytä estetyt puhelut</string>
     <string name="menu_bl_remove">Poista esto</string>

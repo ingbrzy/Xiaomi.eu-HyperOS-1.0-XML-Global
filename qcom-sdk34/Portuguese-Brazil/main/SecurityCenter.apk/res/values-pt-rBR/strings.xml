@@ -2605,7 +2605,7 @@ da operadora"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"%s liberados.
 Seu dispositivo está %s mais rápido agora."</string>
     <string name="memory_clear_unused">Limpar cache (%s)</string>
-    <string name="memory_title">Disponível: %1$s\u0009\u0009Total: %2$s</string>
+    <string name="memory_title">Disponível: %1$s\t\tTotal: %2$s</string>
     <string name="menu_add">Adicionar</string>
     <string name="menu_bl_call_log">Ver chamadas bloqueadas</string>
     <string name="menu_bl_remove">Desbloquear</string>

@@ -39,7 +39,7 @@
         <item>ه</item>
         <item>و</item>
         <item>ي</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>ا</item>
@@ -70,7 +70,7 @@
         <item>ه</item>
         <item>و</item>
         <item>ي</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -102,7 +102,7 @@
         <item>ه</item>
         <item>و</item>
         <item>ي</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="app_behavior_type_menu">
         <item>كل السجلات</item>

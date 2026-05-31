@@ -2535,7 +2535,7 @@ Record sequences and use them anytime!"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"פונו %s.
 כעת המכשיר שלך מהיר יותר ב-%s."</string>
     <string name="memory_clear_unused">ניקוי מטמון (%s)</string>
-    <string name="memory_title">זמין: %1$s\u0009\u0009סה\"כ: %2$s</string>
+    <string name="memory_title">זמין: %1$s\t\tסה\"כ: %2$s</string>
     <string name="menu_add">הוספה</string>
     <string name="menu_bl_call_log">צפיה בשיחות שנחסמו</string>
     <string name="menu_bl_remove">ביטול חסימה</string>
