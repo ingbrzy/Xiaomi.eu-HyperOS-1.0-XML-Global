@@ -2654,7 +2654,7 @@ hogy válaszoljon"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"%s felszabadítva.
 Készüléke ennyivel gyorsabb: %s."</string>
     <string name="memory_clear_unused">Gyorsítótártörlés (%s)</string>
-    <string name="memory_title">Elérhető: %1$s\u0009\u0009Összesen: %2$s</string>
+    <string name="memory_title">Elérhető: %1$s\t\tÖsszesen: %2$s</string>
     <string name="menu_add">Hozzáadás</string>
     <string name="menu_bl_call_log">Tiltólista hívásainak megtekintése</string>
     <string name="menu_bl_remove">Eltávolítás a tiltólistáról</string>

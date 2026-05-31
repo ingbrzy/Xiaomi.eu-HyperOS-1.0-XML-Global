@@ -2535,7 +2535,7 @@ gözlənilir"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"%s sahə boşaldıldı.
 Cihazınız indi %s daha sürətlidir."</string>
     <string name="memory_clear_unused">Keşi təmizlə (%s)</string>
-    <string name="memory_title">Mövcud: %1$s\u0009\u0009Ümumi: %2$s</string>
+    <string name="memory_title">Mövcud: %1$s\t\tÜmumi: %2$s</string>
     <string name="menu_add">Əlavə et</string>
     <string name="menu_bl_call_log">Əngəllənmiş zənglərə bax</string>
     <string name="menu_bl_remove">Əngəldən çıxar</string>

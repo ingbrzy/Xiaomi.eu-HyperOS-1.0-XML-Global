@@ -2654,7 +2654,7 @@ to join our egg hunt!"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Звільнено %s.
 Ваш пристрій працює тепер на %s швидше."</string>
     <string name="memory_clear_unused">Очистити кеш (%s)</string>
-    <string name="memory_title">Доступно: %1$s\u0009\u0009Всього: %2$s</string>
+    <string name="memory_title">Доступно: %1$s\t\tВсього: %2$s</string>
     <string name="menu_add">Додати</string>
     <string name="menu_bl_call_log">Заблоковані виклики</string>
     <string name="menu_bl_remove">Розблоковувати</string>

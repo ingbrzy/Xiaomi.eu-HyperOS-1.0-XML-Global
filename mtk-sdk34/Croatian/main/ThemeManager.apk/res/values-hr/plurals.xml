@@ -209,9 +209,9 @@ Novčići su nepovratni."</item>
         <item quantity="other">Ovo bi moglo malo potrajati. Ako niste primili artikle koje ste kupili unutar %d sati, pošaljite povratne informacije da nas obavijestite o problemu.</item>
     </plurals>
     <plurals name="purchased_instructions">
-        <item quantity="one">&lt;Data>Izvršavanjem plaćanja pristajete na &lt;a href=\"%1$s\">Obavještenje o kupnji unutar aplikacije&lt;/a>.&lt;br>Povrat novca je dostupan &lt;xliff:g id=time>%2$d&lt;/xliff:g> sat nakon izvršenja plaćanja.&lt;/Data></item>
-        <item quantity="few">&lt;Data>Izvršavanjem plaćanja pristajete na &lt;a href=\"%1$s\">Obavještenje o kupnji unutar aplikacije&lt;/a>.&lt;br>Povrat novca je dostupan &lt;xliff:g id=time>%2$d&lt;/xliff:g> sata nakon izvršenja plaćanja.&lt;/Data></item>
-        <item quantity="other">&lt;Data>Izvršavanjem plaćanja pristajete na &lt;a href=\"%1$s\">Obavještenje o kupnji unutar aplikacije&lt;/a>.&lt;br>Povrat novca je dostupan &lt;xliff:g id=time>%2$d&lt;/xliff:g> sati nakon izvršenja plaćanja.&lt;/Data></item>
+        <item quantity="one"><Data>Izvršavanjem plaćanja pristajete na &lt;a href=\"%1$s\">Obavještenje o kupnji unutar aplikacije&lt;/a>.&lt;br>Povrat novca je dostupan &lt;xliff:g id=time>%2$d&lt;/xliff:g> sat nakon izvršenja plaćanja.</Data></item>
+        <item quantity="few"><Data>Izvršavanjem plaćanja pristajete na &lt;a href=\"%1$s\">Obavještenje o kupnji unutar aplikacije&lt;/a>.&lt;br>Povrat novca je dostupan &lt;xliff:g id=time>%2$d&lt;/xliff:g> sata nakon izvršenja plaćanja.</Data></item>
+        <item quantity="other"><Data>Izvršavanjem plaćanja pristajete na &lt;a href=\"%1$s\">Obavještenje o kupnji unutar aplikacije&lt;/a>.&lt;br>Povrat novca je dostupan &lt;xliff:g id=time>%2$d&lt;/xliff:g> sati nakon izvršenja plaćanja.</Data></item>
     </plurals>
     <plurals name="purchased_refund_constact_us_success_dialog_message">
         <item quantity="one">Narudžba je završena prije više od %d sat. Pošaljite nam e-poštu.</item>

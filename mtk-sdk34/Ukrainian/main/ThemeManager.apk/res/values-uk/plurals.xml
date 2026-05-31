@@ -251,10 +251,10 @@
         <item quantity="other">"Це може зайняти деякий час. Якщо ви не отримали куплені об'єкти протягом %d годин, зв'яжіться з нами, щоб повідомити про проблему."</item>
     </plurals>
     <plurals name="purchased_instructions">
-        <item quantity="one">&lt;Data>Завершуючи платіж, ви погоджуєтеся з &lt;a href=\"%1$s\">Повідомленням щодо покупок у програмі&lt;/a>.&lt;br>Повернення коштів можливе протягом &lt;xliff:g id=time>%2$d&lt;/xliff:g> години після здійснення покупок.&lt;/Data></item>
-        <item quantity="few">&lt;Data>Завершуючи платіж, ви погоджуєтеся з &lt;a href=\"%1$s\">Повідомленням щодо покупок у програмі&lt;/a>.&lt;br>Повернення коштів можливе протягом &lt;xliff:g id=time>%2$d&lt;/xliff:g> годин після здійснення покупок.&lt;/Data></item>
-        <item quantity="many">&lt;Data>Завершуючи платіж, ви погоджуєтеся з &lt;a href=\"%1$s\">Повідомленням щодо покупок у програмі&lt;/a>.&lt;br>Повернення коштів можливе протягом &lt;xliff:g id=time>%2$d&lt;/xliff:g> годин після здійснення покупок.&lt;/Data></item>
-        <item quantity="other">&lt;Data>Завершуючи платіж, ви погоджуєтеся з &lt;a href=\"%1$s\">Повідомленням щодо покупок у програмі&lt;/a>.&lt;br>Повернення коштів можливе протягом &lt;xliff:g id=time>%2$d&lt;/xliff:g> годин після здійснення покупок.&lt;/Data></item>
+        <item quantity="one"><Data>Завершуючи платіж, ви погоджуєтеся з &lt;a href=\"%1$s\">Повідомленням щодо покупок у програмі&lt;/a>.&lt;br>Повернення коштів можливе протягом &lt;xliff:g id=time>%2$d&lt;/xliff:g> години після здійснення покупок.</Data></item>
+        <item quantity="few"><Data>Завершуючи платіж, ви погоджуєтеся з &lt;a href=\"%1$s\">Повідомленням щодо покупок у програмі&lt;/a>.&lt;br>Повернення коштів можливе протягом &lt;xliff:g id=time>%2$d&lt;/xliff:g> годин після здійснення покупок.</Data></item>
+        <item quantity="many"><Data>Завершуючи платіж, ви погоджуєтеся з &lt;a href=\"%1$s\">Повідомленням щодо покупок у програмі&lt;/a>.&lt;br>Повернення коштів можливе протягом &lt;xliff:g id=time>%2$d&lt;/xliff:g> годин після здійснення покупок.</Data></item>
+        <item quantity="other"><Data>Завершуючи платіж, ви погоджуєтеся з &lt;a href=\"%1$s\">Повідомленням щодо покупок у програмі&lt;/a>.&lt;br>Повернення коштів можливе протягом &lt;xliff:g id=time>%2$d&lt;/xliff:g> годин після здійснення покупок.</Data></item>
     </plurals>
     <plurals name="purchased_refund_constact_us_success_dialog_message">
         <item quantity="one">Замовлення було завершено більше %d год тому. Надішліть нам листа.</item>

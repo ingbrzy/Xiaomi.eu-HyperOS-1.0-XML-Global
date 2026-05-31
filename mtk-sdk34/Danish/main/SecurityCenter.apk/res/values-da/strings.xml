@@ -2654,7 +2654,7 @@ svarer"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"%s frigjort.
 Din enhed er nu %s hurtigere."</string>
     <string name="memory_clear_unused">Ryd cache (%s)</string>
-    <string name="memory_title">Ledig: %1$s\u0009\u0009I alt: %2$s</string>
+    <string name="memory_title">Ledig: %1$s\t\tI alt: %2$s</string>
     <string name="menu_add">Tilføj</string>
     <string name="menu_bl_call_log">Se blokerede opkald</string>
     <string name="menu_bl_remove">Stop blokering</string>

@@ -2654,7 +2654,7 @@ Niekedy by mohli byť tieto hovory užitočné (napr. keď práve hľadáte byt)
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Uvoľnené %s.
 Vaše zariadenie je teraz o %s rýchlejšie."</string>
     <string name="memory_clear_unused">Vymazať vyrovnávaciu pamäť (%s)</string>
-    <string name="memory_title">Dostupné: %1$s\u0009\u0009Celkom: %2$s</string>
+    <string name="memory_title">Dostupné: %1$s\t\tCelkom: %2$s</string>
     <string name="menu_add">Pridať</string>
     <string name="menu_bl_call_log">Zobraziť blokované hovory</string>
     <string name="menu_bl_remove">Odblokovať</string>

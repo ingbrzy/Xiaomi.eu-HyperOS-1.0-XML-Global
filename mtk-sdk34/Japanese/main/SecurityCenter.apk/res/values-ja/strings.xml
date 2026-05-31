@@ -2656,7 +2656,7 @@
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"%sを解放しました。
 デバイスは%s高速化されました。"</string>
     <string name="memory_clear_unused">キャッシュ (%s) を消去</string>
-    <string name="memory_title">利用可能：%1$s\u0009\u0009合計：%2$s</string>
+    <string name="memory_title">利用可能：%1$s\t\t合計：%2$s</string>
     <string name="menu_add">追加</string>
     <string name="menu_bl_call_log">ブロックされた通話を表示</string>
     <string name="menu_bl_remove">ブロック解除</string>

@@ -2653,7 +2653,7 @@ bekleniyor"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"%s yer açıldı.
 Cihazınız şimdi %s daha hızlı."</string>
     <string name="memory_clear_unused">Önbelleği temizle (%s)</string>
-    <string name="memory_title">Kullanılabilir: %1$s\u0009\u0009Toplam: %2$s</string>
+    <string name="memory_title">Kullanılabilir: %1$s\t\tToplam: %2$s</string>
     <string name="menu_add">Ekle</string>
     <string name="menu_bl_call_log">Engellenmiş aramaları görüntüle</string>
     <string name="menu_bl_remove">Engeli kaldır</string>

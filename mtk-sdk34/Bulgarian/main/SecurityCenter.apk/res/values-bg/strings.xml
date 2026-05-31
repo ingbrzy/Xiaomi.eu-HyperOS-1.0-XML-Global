@@ -2654,7 +2654,7 @@ to join our egg hunt!"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Освободени са %s.
 Вашето устройство е %s по-бързо сега."</string>
     <string name="memory_clear_unused">Изчистване на кеша (%s)</string>
-    <string name="memory_title">Свободно: %1$s\u0009\u0009Общо: %2$s</string>
+    <string name="memory_title">Свободно: %1$s\t\tОбщо: %2$s</string>
     <string name="menu_add">Добави</string>
     <string name="menu_bl_call_log">Покажи блокираните обаждания</string>
     <string name="menu_bl_remove">Деблокирай</string>

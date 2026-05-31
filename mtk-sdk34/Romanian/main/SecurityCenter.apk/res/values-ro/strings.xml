@@ -2652,7 +2652,7 @@ Operatorul poate percepe taxe suplimentare dacă utilizați din nou conexiunea d
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Eliberat %s.
 Dispozitivul dvs. este mai rapid cu %s acum."</string>
     <string name="memory_clear_unused">Ștergeți memoria cache (%s)</string>
-    <string name="memory_title">Disponibil: %1$s\u0009\u0009Total: %2$s</string>
+    <string name="memory_title">Disponibil: %1$s\t\tTotal: %2$s</string>
     <string name="menu_add">Adaugă</string>
     <string name="menu_bl_call_log">Vezi apelurile blocate</string>
     <string name="menu_bl_remove">Deblochează</string>

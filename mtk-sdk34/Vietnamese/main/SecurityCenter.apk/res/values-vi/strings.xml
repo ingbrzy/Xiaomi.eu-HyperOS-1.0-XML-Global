@@ -2654,7 +2654,7 @@ phản hồi"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Đã giải phóng %s.
 Thiết bị của bạn nhanh hơn %s."</string>
     <string name="memory_clear_unused">Xóa bộ nhớ đệm (%s)</string>
-    <string name="memory_title">Trống: %1$s\u0009\u0009Tổng: %2$s</string>
+    <string name="memory_title">Trống: %1$s\t\tTổng: %2$s</string>
     <string name="menu_add">Thêm</string>
     <string name="menu_bl_call_log">Xem cuộc gọi bị chặn</string>
     <string name="menu_bl_remove">Bỏ chặn</string>

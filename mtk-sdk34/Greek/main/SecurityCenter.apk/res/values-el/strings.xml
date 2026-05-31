@@ -2656,7 +2656,7 @@ to join our egg hunt!"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Απελευθερώθηκαν %s.
 Τώρα η συσκευή σας είναι %s γρηγορότερη."</string>
     <string name="memory_clear_unused">Εκκαθάριση μνήμης cache (%s)</string>
-    <string name="memory_title">Διατίθεται: %1$s\u0009\u0009Σύνολο: %2$s</string>
+    <string name="memory_title">Διατίθεται: %1$s\t\tΣύνολο: %2$s</string>
     <string name="menu_add">Προσθήκη</string>
     <string name="menu_bl_call_log">Προβολή αποκλεισμένων κλήσεων</string>
     <string name="menu_bl_remove">Άρση αποκλεισμού</string>
