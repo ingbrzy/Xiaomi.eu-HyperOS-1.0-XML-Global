@@ -2654,7 +2654,7 @@ ska svara"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Frigjorde %s.
 Din enhet är %s snabbare nu."</string>
     <string name="memory_clear_unused">Rensa cache (%s)</string>
-    <string name="memory_title">Tillgängligt: %1$s\u0009\u0009Totalt: %2$s</string>
+    <string name="memory_title">Tillgängligt: %1$s\t\tTotalt: %2$s</string>
     <string name="menu_add">Lägg till</string>
     <string name="menu_bl_call_log">Visa blockerade samtal</string>
     <string name="menu_bl_remove">Ta bort blockering</string>

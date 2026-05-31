@@ -1756,7 +1756,7 @@ mm"</string>
     <string name="picture_color_mode_desc">Користи sRGB</string>
     <string name="pip_close">Затвори</string>
     <string name="pip_collapse">Скупи</string>
-    <string name="pip_edu_text">" Двапут притисните "<annotation icon="home_icon"> HOME </annotation> за контроле</string>
+    <string name="pip_edu_text"> Двапут притисните <annotation icon="home_icon"> HOME </annotation> за контроле</string>
     <string name="pip_expand">Прошири</string>
     <string name="pip_fullscreen">Цео екран</string>
     <string name="pip_menu_title">Мени</string>
@@ -2340,9 +2340,9 @@ d. MMM"</string>
     <string name="thermal_shutdown_dialog_message">"Телефон је био преврућ, па се искључио да се охлади. Сада ради нормално.
 
 Телефон може превише да се угреје ако:
-\u0009• Користите апликације које захтевају пуно ресурса (нпр. видео игре, видео или апликације за навигацију)
-\u0009• Преузимате/отпремате велике датотеке
-\u0009• Користите телефон на високој температури"</string>
+\t• Користите апликације које захтевају пуно ресурса (нпр. видео игре, видео или апликације за навигацију)
+\t• Преузимате/отпремате велике датотеке
+\t• Користите телефон на високој температури"</string>
     <string name="thermal_shutdown_message">"Телефон сада нормално ради.
 Додирните за више информација"</string>
     <string name="thermal_shutdown_title">Телефон се искључио због топлоте</string>

@@ -128,7 +128,7 @@
         <item quantity="other">อาจใช้เวลาสักครู่ หากคุณยังไม่ได้รับสินค้าที่ซื้อภายใน %d ชั่วโมง โปรดส่งความคิดเห็นเพื่อแจ้งให้เราทราบเกี่ยวกับปัญหา</item>
     </plurals>
     <plurals name="purchased_instructions">
-        <item quantity="other">&lt;Data>เมื่อชำระเงินเสร็จสิ้น แสดงว่าคุณยอมรับ&lt;a href=\"%1$s\">ประกาศเกี่ยวกับการซื้อในแอป&lt;/a>&lt;br>สามารถขอคืนเงินได้ สำหรับ &lt;xliff:g id=time>%2$d&lt;/xliff:g> ชั่วโมงหลังจากทำการซื้อ&lt;/Data></item>
+        <item quantity="other"><Data>เมื่อชำระเงินเสร็จสิ้น แสดงว่าคุณยอมรับ&lt;a href=\"%1$s\">ประกาศเกี่ยวกับการซื้อในแอป&lt;/a>&lt;br>สามารถขอคืนเงินได้ สำหรับ &lt;xliff:g id=time>%2$d&lt;/xliff:g> ชั่วโมงหลังจากทำการซื้อ</Data></item>
     </plurals>
     <plurals name="purchased_refund_constact_us_success_dialog_message">
         <item quantity="other">คำสั่งซื้อเสร็จสมบูรณ์แล้วนานกว่า %d ชั่วโมงที่แล้ว ส่งอีเมลถึงเรา</item>

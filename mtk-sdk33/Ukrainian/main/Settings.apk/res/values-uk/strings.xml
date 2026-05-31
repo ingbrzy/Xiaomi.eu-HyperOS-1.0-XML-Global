@@ -6416,7 +6416,7 @@ Xiaomi Cloud
     <string name="one_handed_action_show_notification_summary">З’являться сповіщення та налаштування.</string>
     <string name="one_handed_action_show_notification_title">Показати сповіщення</string>
     <string name="one_handed_mode_enabled">Використовувати режим керування однією рукою</string>
-    <string name="one_handed_mode_footer_text">" "<b>Як використовувати режим керування однією рукою</b>"
+    <string name="one_handed_mode_footer_text"> <b>Як використовувати режим керування однією рукою</b>"
  • Переконайтеся, що в системних налаштуваннях увімкнено навігацію за допомогою жестів
  • Проведіть пальцем униз біля нижнього краю екрана"</string>
     <string name="one_handed_mode_intro_text">Потягніть униз верхню половину екрана, щоб було легше керувати однією рукою</string>
@@ -7443,24 +7443,24 @@ OTG автоматично відключається через 10 хвилин
     <string name="screen_paper_texture">Текстура</string>
     <string name="screen_pinning_description">"Закріплений додаток матиме змогу відкривати інші додатки й отримувати доступ до персональних даних. 
 
-Щоб використовувати закріплення додатка: \u0009
-1. Увімкніть закріплення додатка. \u0009
-2. Відкрийте \"Огляд\". \u0009
+Щоб використовувати закріплення додатка: \t
+1. Увімкніть закріплення додатка. \t
+2. Відкрийте \"Огляд\". \t
 3. Натисніть значок додатка вгорі екрана й виберіть \"Закріпити\"."</string>
     <string name="screen_pinning_dialog_message">"Якщо додаток закріплено, він може: 
 
-•\u0009\u0009отримувати доступ до персональних даних 
-\u0009\u0009(наприклад, до контактів або електронних листів); 
-•\u0009\u0009відкривати інші додатки. 
+•\t\tотримувати доступ до персональних даних 
+\t\t(наприклад, до контактів або електронних листів); 
+•\t\tвідкривати інші додатки. 
 
 Використовуйте закріплення додатка лише спільно з людьми, яким довіряєте."</string>
     <string name="screen_pinning_guest_user_description">"Закріплений додаток матиме змогу відкривати інші додатки й отримувати доступ до персональних даних. 
 
 Якщо ви хочете без ризику надавати іншому користувачу доступ до пристрою, натомість використовуйте режим гостя. 
 
-Щоб використовувати закріплення додатка: \u0009
-1. Увімкніть закріплення додатка. \u0009
-2. Відкрийте \"Огляд\". \u0009
+Щоб використовувати закріплення додатка: \t
+1. Увімкніть закріплення додатка. \t
+2. Відкрийте \"Огляд\". \t
 3. Натисніть значок додатка вгорі екрана й виберіть \"Закріпити\"."</string>
     <string name="screen_pinning_switch_off_text">Вимкнено</string>
     <string name="screen_pinning_switch_on_text">Увімкнено</string>
@@ -11039,7 +11039,7 @@ OTG автоматично відключається через 10 хвилин
     <string name="zen_mode_settings_dnd_automatic_rule">Розклад (%s) автоматично ввімкнув режим \"Не турбувати\"</string>
     <string name="zen_mode_settings_dnd_automatic_rule_app">Додаток (%s) автоматично ввімкнув режим \"Не турбувати\"</string>
     <string name="zen_mode_settings_dnd_custom_settings_footer">Режим \"Не турбувати\" ввімкнено для правила \"%s\" з власними налаштуваннями.</string>
-    <string name="zen_mode_settings_dnd_custom_settings_footer_link">" "<annotation id="link">Переглянути власні налаштування</annotation></string>
+    <string name="zen_mode_settings_dnd_custom_settings_footer_link"> <annotation id="link">Переглянути власні налаштування</annotation></string>
     <string name="zen_mode_settings_dnd_manual_end_time">Режим \"Не турбувати\" ввімкнено до %s</string>
     <string name="zen_mode_settings_dnd_manual_indefinite">Режим \"Не турбувати\" буде ввімкнено, доки ви його не вимкнете.</string>
     <string name="zen_mode_settings_schedules_summary">{count,plural, =0{Немає}=1{Налаштовано 1 розклад}one{Налаштовано # розклад}few{Налаштовано # розклади}many{Налаштовано # розкладів}other{Налаштовано # розкладу}}</string>

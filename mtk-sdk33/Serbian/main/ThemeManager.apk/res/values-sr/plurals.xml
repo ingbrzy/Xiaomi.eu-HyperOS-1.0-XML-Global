@@ -209,9 +209,9 @@
         <item quantity="other">Ово би могло потрајати. Ако нисте примили ставке које сте купили у року од %d часова, пошаљите повратне информације да бисте нас обавестили о проблему.</item>
     </plurals>
     <plurals name="purchased_instructions">
-        <item quantity="one">&lt;Data>Довршетком плаћања, прихватате &lt;a href=\"%1$s\">Обавештење о куповини у апликацији&lt;/a>.&lt;br>Повраћај је могућ током &lt;xliff:g id=time>%2$d&lt;/xliff:g> часа након куповине.&lt;/Data></item>
-        <item quantity="few">&lt;Data>Довршетком плаћања, прихватате &lt;a href=\"%1$s\">Обавештење о куповини у апликацији&lt;/a>.&lt;br>Повраћај је могућ током &lt;xliff:g id=time>%2$d&lt;/xliff:g> часа након куповине.&lt;/Data></item>
-        <item quantity="other">&lt;Data>Довршетком плаћања, прихватате &lt;a href=\"%1$s\">Обавештење о куповини у апликацији&lt;/a>.&lt;br>Повраћај је могућ током &lt;xliff:g id=time>%2$d&lt;/xliff:g> часова након куповине.&lt;/Data></item>
+        <item quantity="one"><Data>Довршетком плаћања, прихватате &lt;a href=\"%1$s\">Обавештење о куповини у апликацији&lt;/a>.&lt;br>Повраћај је могућ током &lt;xliff:g id=time>%2$d&lt;/xliff:g> часа након куповине.</Data></item>
+        <item quantity="few"><Data>Довршетком плаћања, прихватате &lt;a href=\"%1$s\">Обавештење о куповини у апликацији&lt;/a>.&lt;br>Повраћај је могућ током &lt;xliff:g id=time>%2$d&lt;/xliff:g> часа након куповине.</Data></item>
+        <item quantity="other"><Data>Довршетком плаћања, прихватате &lt;a href=\"%1$s\">Обавештење о куповини у апликацији&lt;/a>.&lt;br>Повраћај је могућ током &lt;xliff:g id=time>%2$d&lt;/xliff:g> часова након куповине.</Data></item>
     </plurals>
     <plurals name="purchased_refund_constact_us_success_dialog_message">
         <item quantity="one">Поруџбина је завршена пре више од %d часа. Пошаљите нам имејл.</item>

@@ -1756,7 +1756,7 @@ Em caso de dúvidas, entre em contato com %2$s."</string>
     <string name="picture_color_mode_desc">Usar sRGB</string>
     <string name="pip_close">Fechar</string>
     <string name="pip_collapse">Fechar</string>
-    <string name="pip_edu_text">" Pressione o botão "<annotation icon="home_icon">home</annotation> duas vezes para acessar os controles</string>
+    <string name="pip_edu_text"> Pressione o botão <annotation icon="home_icon">home</annotation> duas vezes para acessar os controles</string>
     <string name="pip_expand">Abrir</string>
     <string name="pip_fullscreen">Tela cheia</string>
     <string name="pip_menu_title">Menu</string>
@@ -2340,9 +2340,9 @@ d/MMM"</string>
     <string name="thermal_shutdown_dialog_message">"O smartphone estava muito quente e foi desligado para resfriar. Agora, ele está sendo executado normalmente.
 
 O smartphone pode ficar quente demais se você:
-\u0009• usar apps que consomem muitos recursos (como apps de jogos, vídeos ou navegação);
-\u0009• fizer o download ou upload de arquivos grandes;
-\u0009• usar o smartphone em temperaturas altas."</string>
+\t• usar apps que consomem muitos recursos (como apps de jogos, vídeos ou navegação);
+\t• fizer o download ou upload de arquivos grandes;
+\t• usar o smartphone em temperaturas altas."</string>
     <string name="thermal_shutdown_message">"O smartphone está funcionando normalmente agora.
 Toque para saber mais"</string>
     <string name="thermal_shutdown_title">O smartphone foi desligado devido ao aquecimento</string>

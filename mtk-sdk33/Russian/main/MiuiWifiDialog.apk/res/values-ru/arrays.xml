@@ -34,7 +34,7 @@
         <item>Э</item>
         <item>Ю</item>
         <item>Я</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -71,7 +71,7 @@
         <item>Э</item>
         <item>Ю</item>
         <item>Я</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="wifi_eap_error_message_code_16384_carrier_overrides">
         <item>:::1839::: %1$s: не удалось подключиться к сервису Verizon Wi-Fi Access из-за ошибки 16384.</item>

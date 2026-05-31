@@ -2654,7 +2654,7 @@ operátora"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Uvolněno %s.
 Vaše zařízení je nyní o %s rychlejší."</string>
     <string name="memory_clear_unused">Vyčistit mezipaměť (%s)</string>
-    <string name="memory_title">Dostupné: %1$s\u0009\u0009Celkem: %2$s</string>
+    <string name="memory_title">Dostupné: %1$s\t\tCelkem: %2$s</string>
     <string name="menu_add">Přidat</string>
     <string name="menu_bl_call_log">Zobrazit blokované hovory</string>
     <string name="menu_bl_remove">Odblokovat</string>

@@ -2656,7 +2656,7 @@ vom Anbieter"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"%s freigegeben.
 Dein Gerät ist jetzt %s schneller."</string>
     <string name="memory_clear_unused">Cache löschen (%s)</string>
-    <string name="memory_title">Verfügbar: %1$s\u0009\u0009Gesamt: %2$s</string>
+    <string name="memory_title">Verfügbar: %1$s\t\tGesamt: %2$s</string>
     <string name="menu_add">Hinzufügen</string>
     <string name="menu_bl_call_log">Gesperrte Anrufe anzeigen</string>
     <string name="menu_bl_remove">Blockierung aufheben</string>

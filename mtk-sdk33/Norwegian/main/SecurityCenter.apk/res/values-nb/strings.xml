@@ -2654,7 +2654,7 @@ svarer"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Frigjorde %s.
 Enheten din er %s raskere nå."</string>
     <string name="memory_clear_unused">Tøm cache (%s)</string>
-    <string name="memory_title">Tilgjengelig: %1$s\u0009\u0009Total: %2$s</string>
+    <string name="memory_title">Tilgjengelig: %1$s\t\tTotal: %2$s</string>
     <string name="menu_add">Legg til</string>
     <string name="menu_bl_call_log">Se blokkerte anrop</string>
     <string name="menu_bl_remove">Fjern blokkering</string>

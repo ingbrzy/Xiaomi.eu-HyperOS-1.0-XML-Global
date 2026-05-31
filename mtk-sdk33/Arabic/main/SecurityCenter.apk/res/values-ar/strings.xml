@@ -2656,7 +2656,7 @@ to join our egg hunt!"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"فرغ %s من المساحة.
 جهازك الآن أسرع بنسبة %s."</string>
     <string name="memory_clear_unused">حذف ذاكرة التخزين المؤقت (%s)</string>
-    <string name="memory_title">المتوفر: : %1$s\u0009\u0009الإجمالي: %2$s</string>
+    <string name="memory_title">المتوفر: : %1$s\t\tالإجمالي: %2$s</string>
     <string name="menu_add">إضافة</string>
     <string name="menu_bl_call_log">عرض المكالمات المحظورة</string>
     <string name="menu_bl_remove">إلغاء الحظر</string>

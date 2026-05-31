@@ -1756,7 +1756,7 @@ Dacă aveți întrebări, luați legătura cu %2$s."</string>
     <string name="picture_color_mode_desc">Folosiți sRGB</string>
     <string name="pip_close">Închideți</string>
     <string name="pip_collapse">Restrângeți</string>
-    <string name="pip_edu_text">" Apăsați de două ori "<annotation icon="home_icon">butonul ecran de pornire</annotation> pentru comenzi</string>
+    <string name="pip_edu_text"> Apăsați de două ori <annotation icon="home_icon">butonul ecran de pornire</annotation> pentru comenzi</string>
     <string name="pip_expand">Extindeți</string>
     <string name="pip_fullscreen">Ecran complet</string>
     <string name="pip_menu_title">Meniu</string>
@@ -2340,9 +2340,9 @@ dd MMM"</string>
     <string name="thermal_shutdown_dialog_message">"Telefonul se încălzise prea mult și s-a oprit pentru a se răci. Acum telefonul funcționează normal.
 
 Telefonul s-ar putea încălzi prea mult dacă:
-\u0009• folosiți aplicații care consumă multe resurse (de ex., jocuri, aplicații video/de navigare);
-\u0009• descărcați/încărcați fișiere mari;
-\u0009• folosiți telefonul la temperaturi ridicate."</string>
+\t• folosiți aplicații care consumă multe resurse (de ex., jocuri, aplicații video/de navigare);
+\t• descărcați/încărcați fișiere mari;
+\t• folosiți telefonul la temperaturi ridicate."</string>
     <string name="thermal_shutdown_message">"Acum telefonul funcționează normal.
 Atingeți pentru mai multe informații"</string>
     <string name="thermal_shutdown_title">Telefonul s-a oprit din cauza încălzirii</string>

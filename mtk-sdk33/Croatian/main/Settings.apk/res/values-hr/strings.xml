@@ -5312,7 +5312,7 @@ Ovu radnju nećete moći poništiti."</string>
     <string name="memory_summary">Iskorišteno je prosječno %1$s od %2$s</string>
     <string name="memory_system_rom">Sustav</string>
     <string name="memory_system_space">Pohrana sustava</string>
-    <string name="memory_title">Dostupno: %1$s\u0009\u0009Ukupno: %2$s</string>
+    <string name="memory_title">Dostupno: %1$s\t\tUkupno: %2$s</string>
     <string name="memory_usage">Upotreba memorije</string>
     <string name="memory_usage_apps">Memorija koju upotrebljavaju aplikacije</string>
     <string name="memory_use_running_format">%1$s/%2$s</string>
@@ -6418,7 +6418,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne uznemirava
     <string name="one_handed_action_show_notification_summary">Pojavit će se obavijesti i postavke.</string>
     <string name="one_handed_action_show_notification_title">Prikaz obavijesti</string>
     <string name="one_handed_mode_enabled">Koristi način rada jednom rukom</string>
-    <string name="one_handed_mode_footer_text">" "<b>Kako upotrebljavati način rada jednom rukom</b>"
+    <string name="one_handed_mode_footer_text"> <b>Kako upotrebljavati način rada jednom rukom</b>"
  • U postavkama navigacije sustava odaberite navigaciju pokretima.
  • Prijeđite prstom prema dolje blizu donjeg ruba zaslona."</string>
     <string name="one_handed_mode_intro_text">Povucite prema dolje gornju polovicu zaslona kako biste olakšali dosezanje jednom rukom</string>
@@ -7444,24 +7444,24 @@ Ta postavka utječe na sve korisnike ovog telefona."</string>
     <string name="screen_paper_texture">Tekstura</string>
     <string name="screen_pinning_description">"Kad je aplikacija prikvačena, može otvarati druge aplikacije i osobni podaci mogu biti dostupni. 
 
-Kako upotrebljavati prikvačivanje aplikacije: \u0009
-1. Uključite prikvačivanje aplikacije. \u0009
-2. Otvorite Pregled. \u0009
+Kako upotrebljavati prikvačivanje aplikacije: \t
+1. Uključite prikvačivanje aplikacije. \t
+2. Otvorite Pregled. \t
 3. Dodirnite ikonu aplikacije pri vrhu zaslona, a potom dodirnite Prikvači."</string>
     <string name="screen_pinning_dialog_message">"Kad je aplikacija prikvačena: 
 
-•\u0009\u0009osobni podaci mogu biti dostupni 
-\u0009\u0009(primjerice, kontakti i sadržaj e-pošte) 
-•\u0009\u0009prikvačena aplikacija može otvarati druge aplikacije 
+•\t\tosobni podaci mogu biti dostupni 
+\t\t(primjerice, kontakti i sadržaj e-pošte) 
+•\t\tprikvačena aplikacija može otvarati druge aplikacije 
 
 Prikvačivanje aplikacije koristite samo s osobama kojima vjerujete."</string>
     <string name="screen_pinning_guest_user_description">"Kad je aplikacija prikvačena, može otvarati druge aplikacije i osobni podaci mogu biti dostupni. 
 
 Ako želite s nekim sigurno dijeliti svoj uređaj, pokušajte koristiti profil gosta. 
 
-Kako upotrebljavati prikvačivanje aplikacije: \u0009
-1. Uključite prikvačivanje aplikacije. \u0009
-2. Otvorite Pregled. \u0009
+Kako upotrebljavati prikvačivanje aplikacije: \t
+1. Uključite prikvačivanje aplikacije. \t
+2. Otvorite Pregled. \t
 3. Dodirnite ikonu aplikacije pri vrhu zaslona, a potom dodirnite Prikvači."</string>
     <string name="screen_pinning_switch_off_text">Isključeno</string>
     <string name="screen_pinning_switch_on_text">Uključeno</string>
@@ -11035,7 +11035,7 @@ Kada isključite način Ne uznemiravaj, propuštene obavijesti pronaći ćete ta
     <string name="zen_mode_settings_dnd_automatic_rule">Raspored %s automatski je uključio Ne uznemiravaj</string>
     <string name="zen_mode_settings_dnd_automatic_rule_app">Način Ne uznemiravaj automatski je uključila aplikacija (%s)</string>
     <string name="zen_mode_settings_dnd_custom_settings_footer">Način Ne uznemiravaj uključen je za %s uz prilagođene postavke.</string>
-    <string name="zen_mode_settings_dnd_custom_settings_footer_link">" "<annotation id="link">Pregledajte prilagođene postavke</annotation></string>
+    <string name="zen_mode_settings_dnd_custom_settings_footer_link"> <annotation id="link">Pregledajte prilagođene postavke</annotation></string>
     <string name="zen_mode_settings_dnd_manual_end_time">Način Ne uznemiravaj uključen je do %s</string>
     <string name="zen_mode_settings_dnd_manual_indefinite">Način Ne uznemiravaj ostat će uključen dok ga ne isključite</string>
     <string name="zen_mode_settings_schedules_summary">{count,plural, =0{Nijedan}=1{Postavljen je jedan raspored}one{Postavljen je # raspored}few{Postavljena su # rasporeda}other{Postavljeno je # rasporeda}}</string>

@@ -2656,7 +2656,7 @@ atsako"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Atlaisvinta %s.
 Jūsų įrenginys dabar %s greitesnis."</string>
     <string name="memory_clear_unused">Valyti talpyklą (%s)</string>
-    <string name="memory_title">Pasiekiama: %1$s\u0009\u0009 Viso: %2$s</string>
+    <string name="memory_title">Pasiekiama: %1$s\t\t Viso: %2$s</string>
     <string name="menu_add">Pridėti</string>
     <string name="menu_bl_call_log">Peržiūrėti blokuotus skambučius</string>
     <string name="menu_bl_remove">Atblokuoti</string>

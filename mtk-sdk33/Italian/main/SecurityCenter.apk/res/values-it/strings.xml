@@ -2654,7 +2654,7 @@ dell'operatore"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Liberati %s.
 Velocità dispositivo incrementata del %s."</string>
     <string name="memory_clear_unused">Pulisci la cache (%s)</string>
-    <string name="memory_title">Disponibili: %1$s\u0009\u0009Totali: %2$s</string>
+    <string name="memory_title">Disponibili: %1$s\t\tTotali: %2$s</string>
     <string name="menu_add">Aggiungi</string>
     <string name="menu_bl_call_log">Visualizza le chiamate bloccate</string>
     <string name="menu_bl_remove">Sblocca</string>

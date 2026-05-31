@@ -1756,7 +1756,7 @@ Se tiver perguntas, contacte a %2$s."</string>
     <string name="picture_color_mode_desc">Utilizar sRGB</string>
     <string name="pip_close">Fechar</string>
     <string name="pip_collapse">Reduzir</string>
-    <string name="pip_edu_text">" Prima duas vezes "<annotation icon="home_icon"> PÁGINA INICIAL </annotation> para controlos</string>
+    <string name="pip_edu_text"> Prima duas vezes <annotation icon="home_icon"> PÁGINA INICIAL </annotation> para controlos</string>
     <string name="pip_expand">Expandir</string>
     <string name="pip_fullscreen">Ecrã inteiro</string>
     <string name="pip_menu_title">Menu</string>
@@ -2340,9 +2340,9 @@ d/MMM"</string>
     <string name="thermal_shutdown_dialog_message">"O telemóvel estava muito quente, por isso desligou-se para arrefecer. Agora funciona normalmente.
 
 O telemóvel pode sobreaquecer se:
-\u0009• Utilizar aplicações que utilizam mais recursos (jogos, vídeo ou aplicações de navegação)
-\u0009• Transferir ou carregar ficheiros grandes
-\u0009• Utilizar em altas temperaturas"</string>
+\t• Utilizar aplicações que utilizam mais recursos (jogos, vídeo ou aplicações de navegação)
+\t• Transferir ou carregar ficheiros grandes
+\t• Utilizar em altas temperaturas"</string>
     <string name="thermal_shutdown_message">"O seu telemóvel já está a funcionar normalmente.
 Toque para obter mais informações."</string>
     <string name="thermal_shutdown_title">Telem. deslig. devido ao calor</string>

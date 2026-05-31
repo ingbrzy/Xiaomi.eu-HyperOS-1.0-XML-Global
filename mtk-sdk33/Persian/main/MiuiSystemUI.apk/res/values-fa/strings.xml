@@ -1267,7 +1267,7 @@
     <string name="picture_color_mode_desc">‏استفاده از sRGB</string>
     <string name="pip_close">بستن</string>
     <string name="pip_collapse">جمع کردن</string>
-    <string name="pip_edu_text">" برای کنترل‌ها، دکمه "<annotation icon="home_icon">صفحه اصلی</annotation> را دوبار فشار دهید</string>
+    <string name="pip_edu_text"> برای کنترل‌ها، دکمه <annotation icon="home_icon">صفحه اصلی</annotation> را دوبار فشار دهید</string>
     <string name="pip_expand">گسترده کردن</string>
     <string name="pip_fullscreen">تمام صفحه</string>
     <string name="pip_menu_title">منو</string>
@@ -1645,9 +1645,9 @@
     <string name="thermal_shutdown_dialog_message">"تلفنتان خیلی گرم شده بود، بنابراین خاموش شد تا خنک شود. اکنون تلفنتان عملکرد معمولش را دارد.
 
 تلفنتان خیلی گرم می‌شود، اگر:
-\u0009• از برنامه‌های نیازمند پردازش زیاد (مانند بازی، برنامه‌های ویدیویی یا پیمایشی) استفاده کنید
-\u0009• فایل‌های بزرگ بارگیری یا بارگذاری کنید
-\u0009• در دماهای بالا از تلفنتان استفاده کنید"</string>
+\t• از برنامه‌های نیازمند پردازش زیاد (مانند بازی، برنامه‌های ویدیویی یا پیمایشی) استفاده کنید
+\t• فایل‌های بزرگ بارگیری یا بارگذاری کنید
+\t• در دماهای بالا از تلفنتان استفاده کنید"</string>
     <string name="thermal_shutdown_message">"اکنون عملکرد تلفنتان به حالت عادی برگشته است.
 برای اطلاعات بیشتر ضربه بزنید"</string>
     <string name="thermal_shutdown_title">تلفن به علت گرم شدن خاموش شد</string>

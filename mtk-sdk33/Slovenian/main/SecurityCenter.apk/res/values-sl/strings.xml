@@ -2654,7 +2654,7 @@ operatera"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Sproščeno %s.
 Vaša naprava je zdaj hitrejša za %s."</string>
     <string name="memory_clear_unused">Počisti predpomnilnik (%s)</string>
-    <string name="memory_title">Na voljo: %1$s\u0009\u0009Skupaj: %2$s</string>
+    <string name="memory_title">Na voljo: %1$s\t\tSkupaj: %2$s</string>
     <string name="menu_add">Dodaj</string>
     <string name="menu_bl_call_log">Prikaži blokirane klice</string>
     <string name="menu_bl_remove">Odblokiraj</string>

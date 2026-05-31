@@ -5312,7 +5312,7 @@ Xiaomi Cloud
     <string name="memory_summary">Χρησιμοποιείται κατά μέσο όρο %1$s από %2$s μνήμης</string>
     <string name="memory_system_rom">Σύστημα</string>
     <string name="memory_system_space">Χώρος αποθήκευσης συστήματος</string>
-    <string name="memory_title">Διαθέσιμα: %1$s\u0009\u0009Σύνολο: %2$s</string>
+    <string name="memory_title">Διαθέσιμα: %1$s\t\tΣύνολο: %2$s</string>
     <string name="memory_usage">Χρήση μνήμης</string>
     <string name="memory_usage_apps">Μνήμη που χρησιμοποιείται από εφαρμογές</string>
     <string name="memory_use_running_format">%1$s / %2$s</string>
@@ -6420,7 +6420,7 @@ Xiaomi Cloud
     <string name="one_handed_action_show_notification_summary">Οι ειδοποιήσεις και οι ρυθμίσεις θα εμφανίζονται.</string>
     <string name="one_handed_action_show_notification_title">Εμφάνιση ειδοποιήσεων</string>
     <string name="one_handed_mode_enabled">Χρήση λειτουργίας ενός χεριού</string>
-    <string name="one_handed_mode_footer_text">" "<b>Πώς να χρησιμοποιήσετε τη λειτουργία ενός χεριού</b>"
+    <string name="one_handed_mode_footer_text"> <b>Πώς να χρησιμοποιήσετε τη λειτουργία ενός χεριού</b>"
  • Βεβαιωθείτε ότι η πλοήγηση με κινήσεις είναι επιλεγμένη στις ρυθμίσεις πλοήγησης του συστήματος
  • Σύρετε προς τα κάτω κοντά στο κάτω άκρο της οθόνης"</string>
     <string name="one_handed_mode_intro_text">Σύρετε προς τα κάτω το επάνω μισό της οθόνης σας, έτσι ώστε να είναι πιο εύκολη η πρόσβαση με το ένα χέρι</string>
@@ -7446,24 +7446,24 @@ Xiaomi Cloud
     <string name="screen_paper_texture">Υφή</string>
     <string name="screen_pinning_description">"Όταν μια εφαρμογή έχει καρφιτσωθεί, η συγκεκριμένη εφαρμογή μπορεί να ανοίξει άλλες εφαρμογές και να είναι δυνατή η πρόσβαση σε προσωπικά δεδομένα. 
 
-Για να χρησιμοποιήσετε το καρφίτσωμα εφαρμογών: \u0009
-1. Ενεργοποιήστε το καρφίτσωμα εφαρμογών. \u0009
-2. Ανοίξτε την Επισκόπηση. \u0009
+Για να χρησιμοποιήσετε το καρφίτσωμα εφαρμογών: \t
+1. Ενεργοποιήστε το καρφίτσωμα εφαρμογών. \t
+2. Ανοίξτε την Επισκόπηση. \t
 3. Πατήστε το εικονίδιο εφαρμογής στο επάνω μέρος της οθόνης και έπειτα πατήστε Καρφίτσωμα."</string>
     <string name="screen_pinning_dialog_message">"Όταν μια εφαρμογή είναι καρφιτσωμένη: 
 
-•\u0009 Τα προσωπικά δεδομένα ενδέχεται να είναι προσβάσιμα 
-\u0009\u0009(όπως επαφές και περιεχόμενο μηνυμάτων ηλεκτρονικού ταχυδρομείου) 
-•\u0009 Η καρφιτσωμένη εφαρμογή μπορεί να ανοίξει άλλες εφαρμογές 
+•\t Τα προσωπικά δεδομένα ενδέχεται να είναι προσβάσιμα 
+\t\t(όπως επαφές και περιεχόμενο μηνυμάτων ηλεκτρονικού ταχυδρομείου) 
+•\t Η καρφιτσωμένη εφαρμογή μπορεί να ανοίξει άλλες εφαρμογές 
 
 Χρησιμοποιήστε το καρφίτσωμα εφαρμογών μόνο με άτομα που εμπιστεύεστε."</string>
     <string name="screen_pinning_guest_user_description">"Όταν μια εφαρμογή έχει καρφιτσωθεί, η συγκεκριμένη εφαρμογή μπορεί να ανοίξει άλλες εφαρμογές και να είναι δυνατή η πρόσβαση σε προσωπικά δεδομένα. 
 
 Εάν θέλετε να μοιράζεστε με ασφάλεια τη συσκευή σας με κάποιο άλλο άτομο, δοκιμάστε να χρησιμοποιήσετε έναν χρήστη-επισκέπτη. 
 
-Για να χρησιμοποιήσετε το καρφίτσωμα εφαρμογών: \u0009
-1. Ενεργοποιήστε το καρφίτσωμα εφαρμογών. \u0009
-2. Ανοίξτε την Επισκόπηση. \u0009
+Για να χρησιμοποιήσετε το καρφίτσωμα εφαρμογών: \t
+1. Ενεργοποιήστε το καρφίτσωμα εφαρμογών. \t
+2. Ανοίξτε την Επισκόπηση. \t
 3. Πατήστε το εικονίδιο εφαρμογής στο επάνω μέρος της οθόνης και έπειτα πατήστε Καρφίτσωμα."</string>
     <string name="screen_pinning_switch_off_text">Ανενεργή</string>
     <string name="screen_pinning_switch_on_text">Ενεργή</string>
@@ -11030,7 +11030,7 @@ Xiaomi Cloud
     <string name="zen_mode_settings_dnd_automatic_rule">Η ρύθμιση \"Μην ενοχλείτε\" ενεργοποιήθηκε αυτόματα από ένα πρόγραμμα (%s)</string>
     <string name="zen_mode_settings_dnd_automatic_rule_app">Η λειτουργία \"Μην ενοχλείτε\" ενεργοποιήθηκε αυτόματα από μια εφαρμογή (%s)</string>
     <string name="zen_mode_settings_dnd_custom_settings_footer">Η λειτουργία Μην ενοχλείτε είναι ενεργή για %s με προσαρμοσμένες ρυθμίσεις.</string>
-    <string name="zen_mode_settings_dnd_custom_settings_footer_link">" "<annotation id="link">Προβολή προσαρμοσμένων ρυθμίσεων</annotation></string>
+    <string name="zen_mode_settings_dnd_custom_settings_footer_link"> <annotation id="link">Προβολή προσαρμοσμένων ρυθμίσεων</annotation></string>
     <string name="zen_mode_settings_dnd_manual_end_time">Η λειτουργία \"Μην ενοχλείτε\" είναι ενεργή μέχρι τις %s</string>
     <string name="zen_mode_settings_dnd_manual_indefinite">Η λειτουργία \"Μην ενοχλείτε\" θα παραμείνει ενεργοποιημένη μέχρι να την απενεργοποιήσετε</string>
     <string name="zen_mode_settings_schedules_summary">{count,plural, =0{Κανένα}=1{Ορίστηκε ένα πρόγραμμα.}other{Ορίστηκαν # προγράμματα.}}</string>

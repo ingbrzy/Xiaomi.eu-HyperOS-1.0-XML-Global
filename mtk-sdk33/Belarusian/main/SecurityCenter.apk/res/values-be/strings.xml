@@ -2654,7 +2654,7 @@ Record sequences and use them anytime!"</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Вызвалена %s.
 Цяпер ваша прылада на %s хутчэй."</string>
     <string name="memory_clear_unused">Ачысціць кэш (%s)</string>
-    <string name="memory_title">Даступна: %1$s\u0009\u0009Усяго: %2$s</string>
+    <string name="memory_title">Даступна: %1$s\t\tУсяго: %2$s</string>
     <string name="menu_add">Дадаць</string>
     <string name="menu_bl_call_log">Заблакаваныя выклікі</string>
     <string name="menu_bl_remove">Разблакаваць</string>

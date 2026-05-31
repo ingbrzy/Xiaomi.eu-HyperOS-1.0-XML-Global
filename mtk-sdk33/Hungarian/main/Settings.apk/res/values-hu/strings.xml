@@ -5309,7 +5309,7 @@ A műveletet nem tudja visszavonni."</string>
     <string name="memory_summary">Átlagosan %2$s/%1$s memória használatban</string>
     <string name="memory_system_rom">Rendszer</string>
     <string name="memory_system_space">Rendszertárhely</string>
-    <string name="memory_title">Elérhető: %1$s\u0009\u0009Összesen: %2$s</string>
+    <string name="memory_title">Elérhető: %1$s\t\tÖsszesen: %2$s</string>
     <string name="memory_usage">Memóriahasználat</string>
     <string name="memory_usage_apps">Alkalmazások által használt memória</string>
     <string name="memory_use_running_format">%1$s / %2$s</string>
@@ -6415,7 +6415,7 @@ Ezzel az alkalmazás egyúttal képes lesz a „Ne zavarjanak” funkció be- é
     <string name="one_handed_action_show_notification_summary">Megjelennek az értesítések és a beállítások.</string>
     <string name="one_handed_action_show_notification_title">Értesítések mutatása</string>
     <string name="one_handed_mode_enabled">Egykezes mód használata</string>
-    <string name="one_handed_mode_footer_text">" "<b>Az egykezes mód használata</b>"
+    <string name="one_handed_mode_footer_text"> <b>Az egykezes mód használata</b>"
  • A rendszer navigációs beállításainál a kézmozdulatokkal való navigáció legyen kiválasztva.
  • Csúsztassa gyorsan lefelé az ujját a képernyő alsó széléhez közel."</string>
     <string name="one_handed_mode_intro_text">Húzza le a képernyő felső felét, hogy kényelmesebben elérhető legyen egy kézzel is</string>
@@ -7441,24 +7441,24 @@ Ez a beállítás minden felhasználót érint ezen a telefonon."</string>
     <string name="screen_paper_texture">Textúra</string>
     <string name="screen_pinning_description">"A kitűzött alkalmazás megnyithat más alkalmazásokat, és bizonyos személyes adatok hozzáférhetők lehetnek. 
 
-Az alkalmazásokat a következőképpen tűzheti ki: \u0009
-1. Kapcsolja be az alkalmazáskitűzés beállítást. \u0009
-2. Nyissa meg az Áttekintés nézetet. \u0009
+Az alkalmazásokat a következőképpen tűzheti ki: \t
+1. Kapcsolja be az alkalmazáskitűzés beállítást. \t
+2. Nyissa meg az Áttekintés nézetet. \t
 3. Koppintson a képernyő tetején található alkalmazásikonra, majd a Kitűzés elemre."</string>
     <string name="screen_pinning_dialog_message">"Az alkalmazás kitűzését követően: 
 
-•\u0009\u0009Bizonyos személyes adatok hozzáférhetők lehetnek 
-\u0009\u0009(például a névjegyek és az e-mailek tartalma). 
-•\u0009\u0009A kitűzött alkalmazás más alkalmazásokat is megnyithat. 
+•\t\tBizonyos személyes adatok hozzáférhetők lehetnek 
+\t\t(például a névjegyek és az e-mailek tartalma). 
+•\t\tA kitűzött alkalmazás más alkalmazásokat is megnyithat. 
 
 Csak olyan személyekkel használja az alkalmazáskitűzést, akikben megbízik."</string>
     <string name="screen_pinning_guest_user_description">"A kitűzött alkalmazás megnyithat más alkalmazásokat, és bizonyos személyes adatok hozzáférhetők lehetnek. 
 
 Ha szeretné biztonságosan megosztani eszközét másokkal, próbáljon inkább vendégprofilt használni. 
 
-Az alkalmazásokat a következőképpen tűzheti ki: \u0009
-1. Kapcsolja be az alkalmazáskitűzés beállítást. \u0009
-2. Nyissa meg az Áttekintés nézetet. \u0009
+Az alkalmazásokat a következőképpen tűzheti ki: \t
+1. Kapcsolja be az alkalmazáskitűzés beállítást. \t
+2. Nyissa meg az Áttekintés nézetet. \t
 3. Koppintson a képernyő tetején található alkalmazásikonra, majd a Kitűzés elemre."</string>
     <string name="screen_pinning_switch_off_text">Ki</string>
     <string name="screen_pinning_switch_on_text">Be</string>
@@ -11025,7 +11025,7 @@ Amikor kikapcsolja a Ne zavarjanak módot, a nem fogadott értesítéseket úgy 
     <string name="zen_mode_settings_dnd_automatic_rule">Az egyik ütemezés (%s) automatikusan bekapcsolta a „Ne zavarjanak” módot</string>
     <string name="zen_mode_settings_dnd_automatic_rule_app">Az egyik alkalmazás (%s) automatikusan bekapcsolta a „Ne zavarjanak” módot</string>
     <string name="zen_mode_settings_dnd_custom_settings_footer">A Ne zavarjanak mód egyéni beállításokkal be van kapcsolva a következőknél: %s.</string>
-    <string name="zen_mode_settings_dnd_custom_settings_footer_link">" "<annotation id="link">Egyéni beállítások megtekintése</annotation></string>
+    <string name="zen_mode_settings_dnd_custom_settings_footer_link"> <annotation id="link">Egyéni beállítások megtekintése</annotation></string>
     <string name="zen_mode_settings_dnd_manual_end_time">A „Ne zavarjanak” mód eddig marad bekapcsolva: %s</string>
     <string name="zen_mode_settings_dnd_manual_indefinite">A „Ne zavarjanak” mód bekapcsolva marad, amíg Ön ki nem kapcsolja</string>
     <string name="zen_mode_settings_schedules_summary">{count,plural, =0{Nincs}=1{1 ütemezés beállítva}other{# ütemezés beállítva}}</string>
